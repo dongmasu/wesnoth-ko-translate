@@ -80,7 +80,7 @@ placeholder를 먼저 수정합니다. 생성되는 파일명은 `wesnoth-ko.po`
 사용하므로 `한국어 (<작업버전>-<작업날짜>)` 형식으로 실제 번역 자료의
 세대를 식별할 수 있습니다. 재현 가능한 날짜가 필요하면
 `WESNOTH_PO_DATE=YYYYMMDD tools/build_mo.sh`처럼 지정합니다. 날짜는
-실행 환경의 로컬 시간대 기준으로 계산됩니다.
+KST/JST(UTC+9) 기준으로 계산됩니다.
 
 ### 3. macOS
 
@@ -436,8 +436,7 @@ overwriting them. Each build records the latest PO modification date as
 `dist/<version>/ko/PO_LAST_MODIFIED_DATE` in `YYYYMMDD` form. The
 language-list marker uses this date, producing
 `한국어 (<work-version>-<work-date>)`. Set `WESNOTH_PO_DATE=YYYYMMDD` when a
-reproducible date is required. Dates are calculated in the local timezone of
-the build environment.
+reproducible date is required. Dates are calculated in KST/JST (UTC+9).
 
 ### 3. macOS
 

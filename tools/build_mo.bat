@@ -35,7 +35,7 @@ if "%FOUND%"=="0" (
     exit /b 1
 )
 set "PO_DATE=%WESNOTH_PO_DATE%"
-if "%PO_DATE%"=="" for /f %%D in ('powershell -NoProfile -Command "(Get-ChildItem -LiteralPath ''%PO_DIR%'' -Filter ''*.po'' | Sort-Object LastWriteTime -Descending | Select-Object -First 1).LastWriteTime.ToString(''yyyyMMdd'')"') do set "PO_DATE=%%D"
+if "%PO_DATE%"=="" for /f %%D in ('powershell -NoProfile -Command "$tz=[TimeZoneInfo]::FindSystemTimeZoneById(''Korea Standard Time''); $f=Get-ChildItem -LiteralPath ''%PO_DIR%'' -Filter ''*.po'' | Sort-Object LastWriteTimeUtc -Descending | Select-Object -First 1; [TimeZoneInfo]::ConvertTimeFromUtc($f.LastWriteTimeUtc,$tz).ToString(''yyyyMMdd'')"') do set "PO_DATE=%%D"
 if "%PO_DATE%"=="" (
     echo error: unable to determine the latest PO modification date
     exit /b 1

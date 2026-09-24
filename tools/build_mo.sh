@@ -50,8 +50,8 @@ done
 if [ -n "${WESNOTH_PO_DATE:-}" ]; then
     po_date=$WESNOTH_PO_DATE
 elif [ "$latest_epoch" -gt 0 ]; then
-    po_date=$(date -r "$latest_epoch" +%Y%m%d 2>/dev/null ||
-        date -d "@$latest_epoch" +%Y%m%d)
+    po_date=$(TZ=Asia/Seoul date -r "$latest_epoch" +%Y%m%d 2>/dev/null ||
+        TZ=Asia/Seoul date -d "@$latest_epoch" +%Y%m%d)
 else
     echo "error: unable to determine the latest PO modification date" >&2
     exit 1
