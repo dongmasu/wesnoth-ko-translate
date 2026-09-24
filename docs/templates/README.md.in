@@ -19,7 +19,7 @@
 ```sh
 VERSION="${WESNOTH_VERSION:-$(tr -d '\r\n' < VERSION)}"
 WESNOTH_VERSION="$VERSION" tools/build_mo.sh
-# MO_BUILD_DATE는 실제 MO 생성일이며 언어 목록 식별 표식에 사용됩니다.
+# PO_LAST_MODIFIED_DATE는 마지막 PO 수정일이며 언어 목록 식별 표식에 사용됩니다.
 WESNOTH_VERSION="$VERSION" python3 tools/audit_po_completion.py
 ```
 

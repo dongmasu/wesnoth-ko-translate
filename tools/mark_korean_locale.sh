@@ -4,13 +4,14 @@ set -eu
 CONFIG=${1:-}
 ROOT=$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd)
 VERSION=${WESNOTH_VERSION:-$(tr -d '\r\n' < "$ROOT/VERSION")}
-BUILD_DATE_FILE="$ROOT/dist/$VERSION/ko/MO_BUILD_DATE"
-if [ -n "${WESNOTH_BUILD_DATE:-}" ]; then
-    WORK_DATE=$WESNOTH_BUILD_DATE
-elif [ -f "$BUILD_DATE_FILE" ]; then
-    WORK_DATE=$(tr -d '\r\n' < "$BUILD_DATE_FILE")
+PO_DATE_FILE="$ROOT/dist/$VERSION/ko/PO_LAST_MODIFIED_DATE"
+if [ -n "${WESNOTH_PO_DATE:-}" ]; then
+    WORK_DATE=$WESNOTH_PO_DATE
+elif [ -f "$PO_DATE_FILE" ]; then
+    WORK_DATE=$(tr -d '\r\n' < "$PO_DATE_FILE")
 else
-    WORK_DATE=$(date +%Y%m%d)
+    echo "error: PO modification date not found; run tools/build_mo.sh first" >&2
+    exit 1
 fi
 MARKER=${2:-${WESNOTH_KO_LOCALE_MARKER:-${VERSION}-${WORK_DATE}}}
 

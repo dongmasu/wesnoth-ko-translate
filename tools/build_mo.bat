@@ -34,10 +34,14 @@ if "%FOUND%"=="0" (
     echo error: no PO files found in "%PO_DIR%"
     exit /b 1
 )
-set "BUILD_DATE=%WESNOTH_BUILD_DATE%"
-if "%BUILD_DATE%"=="" for /f %%D in ('powershell -NoProfile -Command "Get-Date -Format yyyyMMdd"') do set "BUILD_DATE=%%D"
+set "PO_DATE=%WESNOTH_PO_DATE%"
+if "%PO_DATE%"=="" for /f %%D in ('powershell -NoProfile -Command "(Get-ChildItem -LiteralPath ''%PO_DIR%'' -Filter ''*.po'' | Sort-Object LastWriteTime -Descending | Select-Object -First 1).LastWriteTime.ToString(''yyyyMMdd'')"') do set "PO_DATE=%%D"
+if "%PO_DATE%"=="" (
+    echo error: unable to determine the latest PO modification date
+    exit /b 1
+)
 set "META_DIR=%ROOT%\dist\%VERSION%\ko"
 if not exist "%META_DIR%" mkdir "%META_DIR%"
-> "%META_DIR%\MO_BUILD_DATE" echo %BUILD_DATE%
+> "%META_DIR%\PO_LAST_MODIFIED_DATE" echo %PO_DATE%
 echo MO files written to "%OUT_DIR%"
-echo MO build date recorded in "%META_DIR%\MO_BUILD_DATE": %BUILD_DATE%
+echo last PO modification date recorded in "%META_DIR%\PO_LAST_MODIFIED_DATE": %PO_DATE%

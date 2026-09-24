@@ -258,7 +258,7 @@ done
 
 - `tools/build_mo.sh [version] [output_dir]`: macOS·Linux에서
   `work/<version>/ko/*.po`를 `msgfmt --check`로 검사하고 MO를 생성합니다.
-  생성 날짜를 `dist/<version>/ko/MO_BUILD_DATE`에 기록합니다.
+  마지막 PO 수정일을 `dist/<version>/ko/PO_LAST_MODIFIED_DATE`에 기록합니다.
 - `tools/build_mo.bat [version] [output_dir]`: Windows에서 같은 작업을
   수행하고 MO 생성 날짜를 같은 메타데이터 파일에 기록합니다.
 - `tools/install_mo.sh <target_dir> [source_dir]`: macOS·Linux에서
@@ -267,7 +267,7 @@ done
   작업을 수행합니다.
 - `tools/mark_korean_locale.sh <ko_KR.cfg>` 및
   `tools/mark_korean_locale.bat <ko_KR.cfg>`: 게임 언어 목록에
-  `한국어 (<작업버전>-<MO생성일>)` 표식을 기록합니다. Windows ZIP판은
+  `한국어 (<작업버전>-<작업날짜>)` 표식을 기록합니다. Windows ZIP판은
   `data\languages\ko_KR.cfg`를 직접 지정합니다.
 
 설치 도구는 대상 경로를 자동 추측하지 않습니다. 기존 MO가 있으면

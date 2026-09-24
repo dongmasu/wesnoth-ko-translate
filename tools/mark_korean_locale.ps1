@@ -12,20 +12,27 @@ $version = if ($env:WESNOTH_VERSION) {
 } else {
     (Get-Content -Raw -Encoding UTF8 (Join-Path $root "VERSION")).Trim()
 }
-$buildDateFile = Join-Path $root "dist\$version\ko\MO_BUILD_DATE"
-$buildDate = if ($env:WESNOTH_BUILD_DATE) {
-    $env:WESNOTH_BUILD_DATE
-} elseif (Test-Path $buildDateFile) {
-    (Get-Content -Raw -Encoding UTF8 $buildDateFile).Trim()
+$poDateFile = Join-Path $root "dist\$version\ko\PO_LAST_MODIFIED_DATE"
+$poDate = if ($env:WESNOTH_PO_DATE) {
+    $env:WESNOTH_PO_DATE
+} elseif (Test-Path $poDateFile) {
+    (Get-Content -Raw -Encoding UTF8 $poDateFile).Trim()
 } else {
-    Get-Date -Format "yyyyMMdd"
+    $poDirectory = Join-Path $root "work\$version\ko"
+    $latestPo = Get-ChildItem -LiteralPath $poDirectory -Filter "*.po" |
+        Sort-Object LastWriteTime -Descending |
+        Select-Object -First 1
+    if (-not $latestPo) {
+        throw "unable to determine the latest PO modification date"
+    }
+    $latestPo.LastWriteTime.ToString("yyyyMMdd")
 }
 
 if (-not $Marker) {
     $Marker = if ($env:WESNOTH_KO_LOCALE_MARKER) {
         $env:WESNOTH_KO_LOCALE_MARKER
     } else {
-        "$version-$buildDate"
+        "$version-$poDate"
     }
 }
 

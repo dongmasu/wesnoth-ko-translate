@@ -74,11 +74,12 @@ placeholder를 먼저 수정합니다. 생성되는 파일명은 `wesnoth-ko.po`
 `wesnoth.mo`처럼 마지막 `-ko`를 제거한 textdomain 이름이어야 합니다.
 즉 PO 파일명은 번역 작업용 이름이고, 게임은 같은 basename의 `.mo`를
 `translations/ko/LC_MESSAGES/`에서 읽습니다. 기존 MO를 덮어쓰기 전에
-반드시 별도 디렉터리에 백업합니다. 빌드가 끝나면 `dist/<버전>/ko/MO_BUILD_DATE`
-에 MO 생성 날짜(`YYYYMMDD`)가 기록됩니다. 언어 목록의 작업 표식은 이
-파일을 우선 사용하므로 `한국어 (<작업버전>-<MO생성일>)` 형식으로 실제
-배포 산출물의 세대를 식별할 수 있습니다. 재현 가능한 날짜가 필요하면
-`WESNOTH_BUILD_DATE=YYYYMMDD tools/build_mo.sh`처럼 지정합니다.
+반드시 별도 디렉터리에 백업합니다. 빌드가 끝나면
+`dist/<버전>/ko/PO_LAST_MODIFIED_DATE`에 전체 작업 PO 중 가장 최근
+수정일(`YYYYMMDD`)이 기록됩니다. 언어 목록의 작업 표식은 이 파일을
+사용하므로 `한국어 (<작업버전>-<작업날짜>)` 형식으로 실제 번역 자료의
+세대를 식별할 수 있습니다. 재현 가능한 날짜가 필요하면
+`WESNOTH_PO_DATE=YYYYMMDD tools/build_mo.sh`처럼 지정합니다.
 
 ### 3. macOS
 
@@ -177,9 +178,10 @@ standalone 앱의 `ko_KR.cfg`를 서명한 뒤 수정했다면 반드시 위처�
 ad-hoc 서명해야 합니다. 외부 `--data-dir` 방식에서는 앱 번들을 수정하지
 않으므로 재서명이 필요하지 않습니다.
 
-기본적으로 언어 선택 창에 `한국어 (<작업버전>-<MO생성일>)` 형식으로
-표시됩니다. `MO_BUILD_DATE`가 있으면 실행일이 아니라 마지막 MO 생성일을
-사용합니다. 특정 표식을 사용하려면 두 번째 인자로 지정할 수 있습니다.
+기본적으로 언어 선택 창에 `한국어 (<작업버전>-<작업날짜>)` 형식으로
+표시됩니다. `PO_LAST_MODIFIED_DATE`가 있으면 실행일이 아니라 마지막 PO
+수정일을 사용합니다. 특정 표식을 사용하려면 두 번째 인자로 지정할 수
+있습니다.
 
 ```sh
 tools/mark_korean_locale.sh \
@@ -239,15 +241,15 @@ call tools\install_mo.bat "C:\Program Files\Battle for Wesnoth {{WESNOTH_MAJOR_M
 `Program Files` 아래에 설치되어 있으면 관리자 권한이 필요할 수 있습니다.
 
 압축판의 언어 목록에 작업 버전을 표시하려면 `data\languages\ko_KR.cfg`도
-다음처럼 수정합니다. 이 스크립트는 `MO_BUILD_DATE`를 사용해
-`한국어 (<작업버전>-<MO생성일>)`을 기록하고 원본 설정 파일을 백업합니다.
+다음처럼 수정합니다. 이 스크립트는 `PO_LAST_MODIFIED_DATE`를 사용해
+`한국어 (<작업버전>-<작업날짜>)`을 기록하고 원본 설정 파일을 백업합니다.
 
 ```bat
 call tools\mark_korean_locale.bat "C:\Games\Wesnoth-{{WESNOTH_MAJOR_MINOR}}\data\languages\ko_KR.cfg"
 ```
 
 이후 게임을 완전히 종료하고 다시 실행한 뒤 언어 선택 창에서
-`한국어 ({{WESNOTH_VERSION}}-<MO생성일>)`를 선택합니다. 기존 표시로
+`한국어 ({{WESNOTH_VERSION}}-<작업날짜>)`를 선택합니다. 기존 표시로
 되돌리려면 같은 디렉터리에 생성된
 `ko_KR.cfg.backup-YYYYMMDD-HHMMSS`를 복원합니다.
 
@@ -284,7 +286,7 @@ sudo tools/install_mo.sh \
    선택합니다.
 3. 언어 선택 창의 좌측 하단에서 **Show in-progress or abandoned
    translations**를 체크합니다.
-4. 목록에서 **한국어 ({{WESNOTH_VERSION}}-<MO생성일>)**를 선택하고
+4. 목록에서 **한국어 ({{WESNOTH_VERSION}}-<작업날짜>)**를 선택하고
    게임을 재시작합니다.
 5. 번역이 보이지 않으면 게임 버전이 {{WESNOTH_VERSION}}인지, MO 파일명이
    `wesnoth*.mo` textdomain 이름과 일치하는지 확인합니다.
@@ -429,10 +431,11 @@ file removes the final `-ko` from the PO filename: for example,
 `wesnoth-ko.po` becomes `wesnoth.mo`.
 The PO basename is the work-file name; the game loads the corresponding MO
 from `translations/ko/LC_MESSAGES/`. Back up existing MO files before
-overwriting them. Each build records its actual generation date as
-`dist/<version>/ko/MO_BUILD_DATE` in `YYYYMMDD` form. The language-list marker
-uses this date, producing `한국어 (<work-version>-<MO-build-date>)`. Set
-`WESNOTH_BUILD_DATE=YYYYMMDD` when a reproducible build date is required.
+overwriting them. Each build records the latest PO modification date as
+`dist/<version>/ko/PO_LAST_MODIFIED_DATE` in `YYYYMMDD` form. The
+language-list marker uses this date, producing
+`한국어 (<work-version>-<work-date>)`. Set `WESNOTH_PO_DATE=YYYYMMDD` when a
+reproducible date is required.
 
 ### 3. macOS
 
@@ -491,9 +494,10 @@ tools/mark_korean_locale.sh \
   "$HOME/Applications/Wesnoth-1.18.8-data/data/languages/ko_KR.cfg"
 ```
 
-By default, the language list shows `한국어 (<작업버전>-<MO생성일>)`. When
-`MO_BUILD_DATE` exists, the helper uses the latest MO build date rather than
-the script execution date. Pass a second argument to use a specific marker.
+By default, the language list shows `한국어 (<작업버전>-<작업날짜>)`. When
+`PO_LAST_MODIFIED_DATE` exists, the helper uses the latest PO modification
+date rather than the script execution date. Pass a second argument to use a
+specific marker.
 The helper
 creates a backup beside the configuration file and must not be used on the
 original signed application bundle. This marker changes no translation text;
@@ -565,7 +569,7 @@ call tools\mark_korean_locale.bat "C:\Games\Wesnoth-{{WESNOTH_MAJOR_MINOR}}\data
 
 The first helper backs up existing MO files before copying. The second helper
 backs up `ko_KR.cfg` and writes the language label as
-`한국어 (<work-version>-<MO-build-date>)`, using `MO_BUILD_DATE`.
+`한국어 (<work-version>-<work-date>)`, using `PO_LAST_MODIFIED_DATE`.
 
 The install helper backs up existing MO files before copying. Windows may
 request administrator permission under `Program Files`.

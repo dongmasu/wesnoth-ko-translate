@@ -226,7 +226,7 @@ class TranslationLayoutTests(unittest.TestCase):
             "tools/audit_and_pair_embedded_names.py",
             "tools\\install_mo.bat",
             "tools/audit_po_completion.py",
-            "MO_BUILD_DATE",
+            "PO_LAST_MODIFIED_DATE",
             "LC_MESSAGES",
         ):
             with self.subTest(marker=marker):
