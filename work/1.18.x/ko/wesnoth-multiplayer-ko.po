@@ -133,7 +133,7 @@ msgstr "기본"
 msgid ""
 "The standard era for Wesnoth multiplayer. Consists of six factions and is "
 "generally balanced."
-msgstr "웨스노스 멀티플레이의 표준 시대입니다. 여섯 진영으로 구성되어 있으며 전반적으로 균형이 잡혀 있습니다."
+msgstr "웨스노스(Wesnoth) 멀티플레이의 표준 시대입니다. 여섯 진영으로 구성되어 있으며 전반적으로 균형이 잡혀 있습니다."
 
 #. [era]: id=era_heroes
 #: data/multiplayer/eras.cfg:14
@@ -318,7 +318,7 @@ msgid ""
 "the orcs, and the serpentine <ref>text='naga' dst='..race_naga'</ref>. The "
 "Northerners play best by taking advantage of having many low-cost and high "
 "HP soldiers."
-msgstr "<bold>text='Northerners'</bold>는 대륙 북부에 사는 <ref>text='Orcs' dst='..race_orc'</ref>와 그 동맹의 진영으로, 이 때문에 이런 이름이 붙었습니다. 북부인은 전사 오크 종족, 노예로 부려지는 <ref>text='goblins' dst='..race_goblin'</ref>, 오크에게 속아 전투에 나서는 <ref>text='trolls' dst='..race_troll'</ref>, 뱀처럼 생긴 <ref>text='naga' dst='..race_naga'</ref>로 구성됩니다. 북부인은 비용이 낮고 체력이 높은 병사가 많다는 장점을 살릴 때 가장 잘 싸울 수 있습니다."
+msgstr "<bold>text='Northerners'</bold>는 대륙 북부에 사는 <ref>text='Orcs' dst='..race_orc'</ref>와 그 동맹의 진영으로, 이 때문에 이런 이름이 붙었습니다. 북부인은 전사 오크 종족, 노예로 부려지는 <ref>text='goblins' dst='..race_goblin'</ref>, 오크에게 속아 전투에 나서는 <ref>text='trolls' dst='..race_troll'</ref>, 뱀처럼 생긴 <ref>text='naga' dst='..race_naga'</ref>로 구성됩니다. 북부인은 비용이 낮고 체력(HP)이 높은 병사가 많다는 장점을 살릴 때 가장 잘 싸울 수 있습니다."
 
 #. [multiplayer_side]: id=Rebels, type=random
 #: data/multiplayer/factions/rebels-aoh.cfg:4
@@ -383,16 +383,7 @@ msgid ""
 "break free of its bonds. Until that time comes, she will continue to amuse "
 "herself by arranging battles between the mortal beings unlucky enough to be "
 "drawn into its depths. Designed by Doc Paterson."
-msgstr ""
-"오랜 옛날, 대마법사 술라는 혼돈의 힘을 가진 신비한 에너지의 중심부인 천공의 "
-"구멍에 봉인되었다. 하지만, 술라는 수백년이 지나는 동안 점점 그녀의 힘을 바로 "
-"그 천공의 구멍 속 혼돈의 폭풍에 맞추어 갔으며, 이제는 그 영향력을 물질 세계"
-"에, 수백개의 다른 세계와 현실과 시간대에 있는 영토들에 행사하기 위한 작업을 "
-"시작했다. 그녀는 우주의 서로 다른 조각들을 조종하고, 합치고, 천공의 구멍과 원"
-"래의 장소로 왔다갔다 보내는 실험을 한다. 어쩌면 그녀 술라가 천공의 구멍을 다"
-"루는 데 점점 통달해 가게 되면 언젠가는 그 구속을 풀고 자유를 찾을지도 모른"
-"다. 그 순간이 오기까지는, 그녀는 언제까지고 이 심연 속에 떨어진 불운한 필멸자"
-"들을 싸움붙이면서 재미를 만끽할 것이다. Doc Paterson 작품."
+msgstr "오랜 옛날, 대마법사 술라(Sulla)는 혼돈의 힘을 가진 신비한 에너지의 중심부인 천공의 구멍에 봉인되었다. 하지만, 술라(Sulla)는 수백년이 지나는 동안 점점 그녀의 힘을 바로 그 천공의 구멍 속 혼돈의 폭풍에 맞추어 갔으며, 이제는 그 영향력을 물질 세계에, 수백개의 다른 세계와 현실과 시간대에 있는 영토들에 행사하기 위한 작업을 시작했다. 그녀는 우주의 서로 다른 조각들을 조종하고, 합치고, 천공의 구멍과 원래의 장소로 왔다갔다 보내는 실험을 한다. 어쩌면 그녀 술라(Sulla)가 천공의 구멍을 다루는 데 점점 통달해 가게 되면 언젠가는 그 구속을 풀고 자유를 찾을지도 모른다. 그 순간이 오기까지는, 그녀는 언제까지고 이 심연 속에 떨어진 불운한 필멸자들을 싸움붙이면서 재미를 만끽할 것이다. Doc Paterson 작품."
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Aethermaw.cfg:22
@@ -697,7 +688,7 @@ msgid ""
 "or “The Eldest Child,” in the modern tongue. Supremely convinced of his "
 "ability to locate and bind this powerful creature into his service, Oxsrrsk "
 "set out on his journey..."
-msgstr "옥스르스크는 강력한 사우리안 예언자였습니다. 그는 경쟁 관계인 크락스 씨족을 습격하던 중, 지금은 죽은 예언자 헤스-르자크의 보물 창고에서 매우 흥미로운 두루마리를 손에 넣었습니다. 그 두루마리의 제목은 ‘화강암 시선의 네이익스’였으며, ‘차크소 네이익스’라는 생물에 관한 이야기를 담고 있었습니다. 고대 사우리안어로 이 이름은 ‘차크소의 맏이’라는 뜻이었습니다. 차크소는 지하 세계의 강력한 반신으로 여겨졌으며, 엘프의 역사서에서는 ‘대지의 위대한 악마’로 묘사됩니다. 이 기록에 따르면 차크소는 한때 행성의 모든 생명을 돌로 바꾸려 했습니다. 살을 가진 생물을 그토록 증오했기 때문입니다. 결국 그는 강력한 마법에 패배해 결박되었지만, 세상 표면에서 아주 깊은 곳의 영역으로 추방된 뒤 수 세기가 지나자 역사서에 새로운 생물 종이 등장하기 시작했습니다. 어떤 살의 생물이든 돌로 바꿀 수 있는 종족이었습니다. 이 바실리스크들이라고 알려진 생물들이 산 자들의 세계를 휩쓸며 수천 명을 돌로 만들던 시기도 있었습니다. 바실리스크들은 하나씩, 큰 희생을 치르며 쓰러졌습니다. 현대의 언어로 ‘네이익스’ 또는 ‘맏이’라 불리는 바실리스크 하나를 제외하고는 모두 말입니다. 옥스르스크는 이 강력한 생물을 찾아 자신의 수하로 묶을 수 있다고 굳게 믿으며 길을 떠났습니다..."
+msgstr "옥스르스크(Oxsrrsk)는 강력한 사우리안 예언자였습니다. 그는 경쟁 관계인 크락스 씨족을 습격하던 중, 지금은 죽은 예언자 헤스-르자크의 보물 창고에서 매우 흥미로운 두루마리를 손에 넣었습니다. 그 두루마리의 제목은 ‘화강암 시선의 네이익스’였으며, ‘차크소 네이익스’라는 생물에 관한 이야기를 담고 있었습니다. 고대 사우리안어로 이 이름은 ‘차크소의 맏이’라는 뜻이었습니다. 차크소는 지하 세계의 강력한 반신으로 여겨졌으며, 엘프의 역사서에서는 ‘대지의 위대한 악마’로 묘사됩니다. 이 기록에 따르면 차크소는 한때 행성의 모든 생명을 돌로 바꾸려 했습니다. 살을 가진 생물을 그토록 증오했기 때문입니다. 결국 그는 강력한 마법에 패배해 결박되었지만, 세상 표면에서 아주 깊은 곳의 영역으로 추방된 뒤 수 세기가 지나자 역사서에 새로운 생물 종이 등장하기 시작했습니다. 어떤 살의 생물이든 돌로 바꿀 수 있는 종족이었습니다. 이 바실리스크들이라고 알려진 생물들이 산 자들의 세계를 휩쓸며 수천 명을 돌로 만들던 시기도 있었습니다. 바실리스크들은 하나씩, 큰 희생을 치르며 쓰러졌습니다. 현대의 언어로 ‘네이익스’ 또는 ‘맏이’라 불리는 바실리스크 하나를 제외하고는 모두 말입니다. 옥스르스크(Oxsrrsk)는 이 강력한 생물을 찾아 자신의 수하로 묶을 수 있다고 굳게 믿으며 길을 떠났습니다..."
 
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:134
@@ -736,7 +727,13 @@ msgid ""
 "wouldn’t move. As the creature stalked towards him, he screamed his last "
 "words: Good Gog, dog, are yer legs made of stone?!\n"
 "(inscribed by Elvish Pillager)"
-msgstr "블룸 둑은 산의 무시무시한 늑대 가운데 하나를 길들인 것으로 고블린 씨족에서 유명했고, 그에 걸맞은 용기도 지니고 있었습니다. 인간과 엘프의 위협에도 불구하고 이 지역의 고블린들이 살아남을 수 있었던 것은 그의 지도력과 실력 덕분이었습니다. 그의 늑대가 인간 50명과 엘프 100명을 죽였다는 소문도 있었습니다.\n\n그러니 이 지역에 끔찍한 괴물이 살고 있다는 소식을 들었을 때, 그가 혼자 말을 타고 나가 괴물과 맞서려 한 것은 자연스러운 일이었습니다. 다른 고블린들은 그가 생물을 손쉽게 죽이고 시체를 끌고 돌아와 잔치를 벌일 것이라 기대했습니다.\n\n하지만 그는 큰 충격을 받았습니다. 바실리스크를 보자마자 블룸 둑은 겁에 질려 움츠러들었습니다. 늑대를 돌려 달아나려 했지만 늑대는 움직이지 않았습니다. 괴물이 그에게 다가오자 그는 마지막 말을 외쳤습니다. ‘위대한 고그님, 이봐, 네 다리가 돌로 된 거냐?!’\n(엘프 약탈자가 새김)"
+msgstr ""
+"블룸 둑(Blum Duk)은 산의 무시무시한 늑대 가운데 하나를 길들인 것으로 고블린 씨족에서 유명했고, 그에 걸맞은 용기도 지니고 있었습니다. 인간과 엘프의 위협에도 불구하고 이 지역의 고블린들이 살아남을 수 있었던 것은 그의 지도력과 실력 덕분이었습니다. 그의 늑대가 인간 50명과 엘프 100명을 죽였다는 소문도 있었습니다.\n"
+"\n"
+"그러니 이 지역에 끔찍한 괴물이 살고 있다는 소식을 들었을 때, 그가 혼자 말을 타고 나가 괴물과 맞서려 한 것은 자연스러운 일이었습니다. 다른 고블린들은 그가 생물을 손쉽게 죽이고 시체를 끌고 돌아와 잔치를 벌일 것이라 기대했습니다.\n"
+"\n"
+"하지만 그는 큰 충격을 받았습니다. 바실리스크를 보자마자 블룸 둑(Blum Duk)은 겁에 질려 움츠러들었습니다. 늑대를 돌려 달아나려 했지만 늑대는 움직이지 않았습니다. 괴물이 그에게 다가오자 그는 마지막 말을 외쳤습니다. ‘위대한 고그님, 이봐, 네 다리가 돌로 된 거냐?!’\n"
+"(엘프 약탈자가 새김)"
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:156
@@ -755,7 +752,7 @@ msgid ""
 "innocent, Rah Ihn Mar came to Ruaskkolin Lake to hunt down and slay "
 "Terowydlithrol, who had been seen entering the region but a day ago. Burning "
 "for vengeance, Rah Ihn Mar began the hunt..."
-msgstr "불타는 언덕의 투사 라 이흔 마르는 엘프의 영웅 테로위들리트롤을 쫓아 루아스콜린 호수 지역으로 향했습니다. 엘프들에게 ‘용살자’로 알려진 테로위들리트롤은 엘프 마을을 위협하던 불의 용을 죽인 뒤 ‘반격’을 시작했고, 인근 협곡에 야영하며 용과 동맹이라고 여겨졌던 반룡 37마리를 학살했다고 전해집니다. 라 이흔 마르는 이 반룡들이 무고하다는 사실을 알고, 불과 하루 전에 이 지역에 들어온 것이 목격된 테로위들리트롤을 추적해 죽이기 위해 루아스콜린 호수로 왔습니다. 복수심에 불타며 라 이흔 마르는 사냥을 시작했습니다..."
+msgstr "불타는 언덕의 투사 라 이흔 마르(Rah Ihn Mar)는 엘프의 영웅 테로위들리트롤을 쫓아 루아스콜린 호수 지역으로 향했습니다. 엘프들에게 ‘용살자’로 알려진 테로위들리트롤은 엘프 마을을 위협하던 불의 용을 죽인 뒤 ‘반격’을 시작했고, 인근 협곡에 야영하며 용과 동맹이라고 여겨졌던 반룡 37마리를 학살했다고 전해집니다. 라 이흔 마르(Rah Ihn Mar)는 이 반룡들이 무고하다는 사실을 알고, 불과 하루 전에 이 지역에 들어온 것이 목격된 테로위들리트롤을 추적해 죽이기 위해 루아스콜린 호수로 왔습니다. 복수심에 불타며 라 이흔 마르(Rah Ihn Mar)는 사냥을 시작했습니다..."
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:162
@@ -803,7 +800,9 @@ msgid ""
 "stone even as he slew the last orc. Now all that is left is a stark reminder "
 "of his once great bearing and strength.\n"
 "(inscribed by Fynmiir)"
-msgstr "웨스노스 황금기의 용감한 영웅이었던 이 위대한 기병이자 병사들의 지휘관은 오크를 습격하던 중 이 사악한 곳에 왔습니다. 사악한 생물들에게 기습을 당해 많은 동료가 목숨을 잃었지만, 그는 용감하게 싸워 수많은 적을 쓰러뜨렸습니다. 그러나 아아! 마지막 오크를 죽이는 순간 사악한 바실리스크가 그를 돌로 만들고 말았습니다. 지금 남은 것은 한때 위대했던 그의 위엄과 힘을 생생하게 상기시키는 흔적뿐입니다.\n(핀미르가 새김)"
+msgstr ""
+"웨스노스(Wesnoth) 황금기의 용감한 영웅이었던 이 위대한 기병이자 병사들의 지휘관은 오크를 습격하던 중 이 사악한 곳에 왔습니다. 사악한 생물들에게 기습을 당해 많은 동료가 목숨을 잃었지만, 그는 용감하게 싸워 수많은 적을 쓰러뜨렸습니다. 그러나 아아! 마지막 오크를 죽이는 순간 사악한 바실리스크가 그를 돌로 만들고 말았습니다. 지금 남은 것은 한때 위대했던 그의 위엄과 힘을 생생하게 상기시키는 흔적뿐입니다.\n"
+"(핀미르가 새김)"
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:194
@@ -846,7 +845,13 @@ msgid ""
 "warmed by the sun’s rays, under an open sky. His greatest wish has been "
 "granted.\n"
 "(inscribed by Elvish Pillager)"
-msgstr "나모 브람위슬은 다른 나모들조차도 느리고 과묵한 이로 여겼습니다. 그는 다른 나모들보다도 햇살 아래 홀로 서서 팔을 높이 들고 텅 빈 하늘의 아름다움을 감상하는 것을 좋아했습니다. 한때 그는 동료에게 자신의 가장 큰 소원은 영원히 태양의 영광을 쬐는 것이라고 털어놓기도 했습니다.\n\n그러나 얼마 지나지 않아 지역 나모 공동체는 끔찍한 괴물이 다가오고 있다는 소식을 들었습니다. 그 괴물은 이 지역에 사는 얼마 안 되는 나모들을 손쉽게 없앨 만큼 강력했습니다. 나모들은 서둘러 떠났지만(나모 기준으로는 서둘렀습니다), 브람위슬은 남겨졌습니다. 너무 급히 떠난 탓에 아무도 그를 찾아 위험을 알려 주지 않았던 것입니다.\n\n브람위슬은 바실리스크의 기습을 받아 그 짐승을 알아보기도 전에 돌로 변했습니다. 그의 석화된 모습은 오늘날에도 탁 트인 하늘 아래 햇살을 받으며 그 자리에 서 있습니다. 그의 가장 큰 소원은 이루어진 셈입니다.\n(엘프 약탈자가 새김)"
+msgstr ""
+"나모 브람위슬(Bramwythl)은 다른 나모들조차도 느리고 과묵한 이로 여겼습니다. 그는 다른 나모들보다도 햇살 아래 홀로 서서 팔을 높이 들고 텅 빈 하늘의 아름다움을 감상하는 것을 좋아했습니다. 한때 그는 동료에게 자신의 가장 큰 소원은 영원히 태양의 영광을 쬐는 것이라고 털어놓기도 했습니다.\n"
+"\n"
+"그러나 얼마 지나지 않아 지역 나모 공동체는 끔찍한 괴물이 다가오고 있다는 소식을 들었습니다. 그 괴물은 이 지역에 사는 얼마 안 되는 나모들을 손쉽게 없앨 만큼 강력했습니다. 나모들은 서둘러 떠났지만(나모 기준으로는 서둘렀습니다), 브람위슬(Bramwythl)은 남겨졌습니다. 너무 급히 떠난 탓에 아무도 그를 찾아 위험을 알려 주지 않았던 것입니다.\n"
+"\n"
+"브람위슬(Bramwythl)은 바실리스크의 기습을 받아 그 짐승을 알아보기도 전에 돌로 변했습니다. 그의 석화된 모습은 오늘날에도 탁 트인 하늘 아래 햇살을 받으며 그 자리에 서 있습니다. 그의 가장 큰 소원은 이루어진 셈입니다.\n"
+"(엘프 약탈자가 새김)"
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:205
@@ -875,7 +880,7 @@ msgid ""
 "\n"
 "Perhaps he should not have shouted quite so loudly..."
 msgstr ""
-"대 원수 아에텍 코린이 남긴 마지막 말은 이렇다: “탈라엘 린독! 내가 네놈을 찾아서 여기까지 왔다! 나오지 않으면 할드릭의 회당으로 돌아가서 왕궁에 네가 우리 결투를 회피한 겁쟁이라고 퍼뜨리겠다! 너의 불명예는 내가 너에게 내릴 죽음보다도 고통스러울 것이다!”\n"
+"대 원수 아에텍 코린이 남긴 마지막 말은 이렇다: “탈라엘 린독! 내가 네놈을 찾아서 여기까지 왔다! 나오지 않으면 할드릭(Haldric)의 회당으로 돌아가서 왕궁에 네가 우리 결투를 회피한 겁쟁이라고 퍼뜨리겠다! 너의 불명예는 내가 너에게 내릴 죽음보다도 고통스러울 것이다!”\n"
 "\n"
 "그는 그렇게 크게 소리쳐서는 안되었다...."
 
@@ -898,7 +903,9 @@ msgid ""
 "Serpent. The second was the very-much-alive Chak’kso Ney’yks, who was, oddly "
 "enough, in possession of all of his teeth.\n"
 "(inscribed by Paterson)"
-msgstr "나가 사이에서 릴혼으로 알려진 이 용감한 전사는 이 물속 동굴 어딘가에 잃어버린 엄청난 보물에 관한 이야기를 들었습니다. 그 보물은 오래전 엘프 영웅 엘로랄두일이 죽인 고대 바실리스크, 차크소 네이익스의 이빨로 창끝을 만들었다는 창이었습니다. 전설에 따르면 그 무기는 바로 이 호수의 바닥 어딘가에 잠들어 있었습니다. 이 호수는 자신의 집으로 삼았던 유명한 바다뱀의 이름을 따 루아스콜린 호수라 불립니다. 뱀과 싸울 준비를 마친 릴혼은 꽤 큰 두 가지 놀라움을 마주했습니다. 첫 번째는 뱀 루아스콜린의 석화된 모습이었습니다. 두 번째는 놀랍게도 이빨을 하나도 잃지 않은 채 아주 멀쩡히 살아 있는 차크소 네이익스였습니다.\n(패터슨이 새김)"
+msgstr ""
+"나가(Naga) 사이에서 릴혼(Rilhon)으로 알려진 이 용감한 전사는 이 물속 동굴 어딘가에 잃어버린 엄청난 보물에 관한 이야기를 들었습니다. 그 보물은 오래전 엘프 영웅 엘로랄두일이 죽인 고대 바실리스크, 차크소 네이익스의 이빨로 창끝을 만들었다는 창이었습니다. 전설에 따르면 그 무기는 바로 이 호수의 바닥 어딘가에 잠들어 있었습니다. 이 호수는 자신의 집으로 삼았던 유명한 바다뱀의 이름을 따 루아스콜린 호수라 불립니다. 뱀과 싸울 준비를 마친 릴혼(Rilhon)은 꽤 큰 두 가지 놀라움을 마주했습니다. 첫 번째는 뱀 루아스콜린의 석화된 모습이었습니다. 두 번째는 놀랍게도 이빨을 하나도 잃지 않은 채 아주 멀쩡히 살아 있는 차크소 네이익스였습니다.\n"
+"(패터슨이 새김)"
 
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:230
@@ -936,7 +943,7 @@ msgid ""
 "prosperity — making it the target of countless raids and attacks. The "
 "rigorous discipline and organization of Wesnoth’s armies are in no small "
 "part driven by a constant need to patrol and defend these prosperous lands."
-msgstr "대하의 강변은 알려진 세계에서 가장 비옥한 땅을 이루고 있습니다. 봄과 여름에는 강줄기 전체에 홍수가 일어나 토양을 기름지게 하고, 가을마다 풍성한 수확을 안겨 줍니다. 웨스노스 왕국은 이 땅을 부와 번영의 원천으로 삼았고, 그 때문에 셀 수 없이 많은 약탈과 공격의 표적이 되었습니다. 웨스노스 군대의 엄격한 규율과 조직력은 이 풍요로운 땅을 끊임없이 순찰하고 지켜야 할 필요에서 비롯된 바가 큽니다."
+msgstr "대하의 강변은 알려진 세계에서 가장 비옥한 땅을 이루고 있습니다. 봄과 여름에는 강줄기 전체에 홍수가 일어나 토양을 기름지게 하고, 가을마다 풍성한 수확을 안겨 줍니다. 웨스노스(Wesnoth) 왕국은 이 땅을 부와 번영의 원천으로 삼았고, 그 때문에 셀 수 없이 많은 약탈과 공격의 표적이 되었습니다. 웨스노스(Wesnoth) 군대의 엄격한 규율과 조직력은 이 풍요로운 땅을 끊임없이 순찰하고 지켜야 할 필요에서 비롯된 바가 큽니다."
 
 #. [multiplayer]: id=multiplayer_Cynsaun_Battlefield
 #: data/multiplayer/scenarios/2p_Cynsaun_Battlefield.cfg:6
@@ -1310,7 +1317,7 @@ msgstr "율리시스 만티유우리"
 #. [unit]: type=Orcish Leader
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:708
 msgid "Neki the Brute"
-msgstr "난폭한(Neki) 네키"
+msgstr "난폭한 네키(Neki)"
 
 #. [unit]: type=Elvish Fighter
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:746
@@ -1566,7 +1573,7 @@ msgid ""
 "A stone-carved likeness of Sulla the Great, also known as Sulla the Just, "
 "Sulla the Tyrant, Empress of the Sinking Tower, Lady of the Walking Glacier, "
 "Sulla the Incinerator, Sulla the Proud and Sulla the Righteous."
-msgstr "위대한 술라를 돌에 새긴 모습입니다. 그녀는 정의로운 술라, 폭군 술라, 가라앉는 탑의 여제, 걸어 다니는 빙하의 여인, 소각자 술라, 오만한 술라, 의로운 술라로도 알려져 있습니다."
+msgstr "위대한 술라(Sulla)를 돌에 새긴 모습입니다. 그녀는 정의로운 술라(Sulla), 폭군 술라(Sulla), 가라앉는 탑의 여제, 걸어 다니는 빙하의 여인, 소각자 술라(Sulla), 오만한 술라(Sulla), 의로운 술라(Sulla)로도 알려져 있습니다."
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:103
@@ -1576,7 +1583,7 @@ msgstr "룬둡(Lhun-dup)의 조각상"
 #. [unit]
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:105
 msgid "A stone-carved likeness of Lhun-dup, Servant of Sulla."
-msgstr "술라의 시종 룬둡을 돌에 새긴 모습입니다."
+msgstr "술라(Sulla)의 시종 룬둡(Lhun-dup)을 돌에 새긴 모습입니다."
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:107
@@ -1586,7 +1593,7 @@ msgstr "린젠(Ri-nzen)의 조각상"
 #. [unit]
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:109
 msgid "A stone-carved likeness of Ri-nzen, Servant of Sulla."
-msgstr "술라의 시종 린젠을 돌에 새긴 모습입니다."
+msgstr "술라(Sulla)의 시종 린젠(Ri-nzen)을 돌에 새긴 모습입니다."
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:111
@@ -1596,7 +1603,7 @@ msgstr "텐진(Ten-zin)의 조각상"
 #. [unit]
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:113
 msgid "A stone-carved likeness of Ten-zin, Servant of Sulla."
-msgstr "술라의 시종 텐진을 돌에 새긴 모습입니다."
+msgstr "술라(Sulla)의 시종 텐진(Ten-zin)을 돌에 새긴 모습입니다."
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:115
@@ -1606,7 +1613,7 @@ msgstr "롭상(Lo-bsang)의 조각상"
 #. [unit]
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:117
 msgid "A stone-carved likeness of Lo-bsang, Servant of Sulla."
-msgstr "술라의 시종 롭상을 돌에 새긴 모습입니다."
+msgstr "술라(Sulla)의 시종 롭상(Lo-bsang)을 돌에 새긴 모습입니다."
 
 #. [multiplayer]: id=multiplayer_Swamp_of_Dread
 #: data/multiplayer/scenarios/2p_Swamp_of_Dread.cfg:7
@@ -1787,7 +1794,7 @@ msgstr "2p - Weldyn Channel"
 msgid ""
 "This vital supply route has played a key role in many of Wesnoth’s greatest "
 "battles."
-msgstr "이 중요한 보급로는 웨스노스의 수많은 위대한 전투에서 핵심적인 역할을 해 왔습니다."
+msgstr "이 중요한 보급로는 웨스노스(Wesnoth)의 수많은 위대한 전투에서 핵심적인 역할을 해 왔습니다."
 
 #. [multiplayer]: id=multiplayer_Alirok_Marsh
 #: data/multiplayer/scenarios/3p_Alirok_Marsh.cfg:5

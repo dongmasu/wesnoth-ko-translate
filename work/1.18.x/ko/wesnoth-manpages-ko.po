@@ -53,7 +53,7 @@ msgstr "이름"
 #. type: Plain text
 #: doc/man/wesnoth.6:20
 msgid "wesnoth - Battle for Wesnoth, a turn-based fantasy strategy game"
-msgstr "웨스노스 - 순차 방식 판타지 전략 게임인 웨스노스 전쟁"
+msgstr "웨스노스(Wesnoth) - 순차 방식 판타지 전략 게임인 웨스노스(Wesnoth) 전쟁"
 
 # type: SH
 #. type: SH
@@ -93,7 +93,7 @@ msgid ""
 "language and test your skill against a smart computer opponent, or join "
 "Wesnoth's large community of online players. Create your own custom units, "
 "scenarios or campaigns, and share them with others."
-msgstr "골드, 그리고 마을의 자원을 관리하기 위해서, 부대를 잘 선택하여 모든 적 리더를 물리치시기 바랍니다. 승리하기 위해서는 병력을 최대한 유리하게 배치하면서, 적은 유리하지 않도록 배치해야 합니다. 각 유닛은 경험치를 쌓으면 새로운 능력을 얻고 더 강해집니다. 컴퓨터 AI를 상대로 당신의 스킬을 테스트하거나, 웨스노스의 커뮤니티에 참여하여 플레이해보세요. 당신의 커스텀 유닛과 시나리오, 캠페인 등을 만들어서 다른 사람들과 공유할 수 있습니다."
+msgstr "골드, 그리고 마을의 자원을 관리하기 위해서, 부대를 잘 선택하여 모든 적 리더를 물리치시기 바랍니다. 승리하기 위해서는 병력을 최대한 유리하게 배치하면서, 적은 유리하지 않도록 배치해야 합니다. 각 유닛은 경험치를 쌓으면 새로운 능력을 얻고 더 강해집니다. 컴퓨터 AI를 상대로 당신의 스킬을 테스트하거나, 웨스노스(Wesnoth)의 커뮤니티에 참여하여 플레이해보세요. 당신의 커스텀 유닛과 시나리오, 캠페인 등을 만들어서 다른 사람들과 공유할 수 있습니다."
 
 # type: SH
 #. type: SH

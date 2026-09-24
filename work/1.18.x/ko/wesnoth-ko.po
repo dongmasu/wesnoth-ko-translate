@@ -1919,7 +1919,7 @@ msgid ""
 "Mar’Ildian,Markan,Markinos,Mar Ohn,Marra Di’lek,Marrito,Marritos,Merkush,"
 "Merritos Gark,Morusté,Murr,Omataké,Reshan,Vashitt,Velnick,Veralon,Veramo,"
 "Verath,Verditt,Verkon,Verlinn,Vermad,Vertick,Vladnir"
-msgstr "에가르,엘크,가아쉬,가데 인,가크레 오움,가렉,갈쉬,가라딘,가르친,가르크,가르란,가얼린 오운,가르루틴,가르트로,가루시,가시나르,가쉬올,가우쉬이,가우스툰,게그치,겔카 콘,겔크닉,길란,기샤르리,고스트,그라다,그랫 인,그라쉔,그라브란,그라그,그렐니트,그레느 오운,그레쓰,그리뻴,그리따,그리쉬,그론 이흔,카,카흔 이흐,카리간,카리 콘,카론,카스크,케그리드,케라쓰 이흔,케라쓰 코르,크라쉬,콘 그라셰,크라아그,크라르 오흔,크란 코르,크라쉬,크라스라르,크렌리,크루그겐,쿤,마흐 토아,마르기안,마르일디안,마르칸,마르키노스,마르 오운,마르라 디렉,마르리토,마르리토스,머쿠쉬,머리토스 가르크,모루스테,무르,오마타케,레샨,바쉬트,벨니크,베라론,베라모,베라쓰,버디트,버콘,버리느,버마드,버티크,브라드니르"
+msgstr "에가르,엘크,가아쉬,가데 인,가크레 오움,가렉,갈쉬,가라딘,가르친,가르크,가르란,가얼린 오운,가르루틴,가르트로,가루시,가시나르,가쉬올,가우쉬이,가우스툰,게그치,겔카 콘,겔크닉,길란,기샤르리,고스트,그라다,그랫 인,그라쉔,그라브란,그라그(Grag),그렐니트,그레느 오운,그레쓰,그리뻴,그리따,그리쉬,그론 이흔,카,카흔 이흐,카리간,카리 콘,카론,카스크,케그리드(Kegrid),케라쓰 이흔,케라쓰 코르,크라쉬(Krash),콘 그라셰,크라아그,크라르 오흔,크란 코르,크라쉬(Krash),크라스라르,크렌리,크루그겐,쿤,마흐 토아,마르기안,마르일디안,마르칸,마르키노스,마르 오운,마르라 디렉,마르리토,마르리토스,머쿠쉬,머리토스 가르크,모루스테,무르,오마타케,레샨,바쉬트,벨니크,베라론,베라모,베라쓰,버디트,버콘,버리느,버마드,버티크,브라드니르"
 
 #: data/core/macros/names.cfg:20
 msgid ""
@@ -4275,7 +4275,7 @@ msgstr "캠페인에서 시나리오의 시작시에는, 높은 수준의 유닛
 msgid ""
 "On www.wesnoth.org you can find strategy guides, technical support, the "
 "history of Wesnoth, and much more."
-msgstr "누리집 www.wesnoth.org 에서 전술 안내서, 기술 지원, 웨스노스의 역사, 그 외의 정보를 읽을 수 있습니다."
+msgstr "누리집 www.wesnoth.org 에서 전술 안내서, 기술 지원, 웨스노스(Wesnoth)의 역사, 그 외의 정보를 읽을 수 있습니다."
 
 #. [tip]
 #: data/tips.cfg:53
@@ -4309,7 +4309,7 @@ msgstr "만약 당신이 잘못된 시간에 공격한다면, 철저한 계획�
 #: data/tips.cfg:61 data/tips.cfg:85 data/tips.cfg:137 data/tips.cfg:145
 #: data/tips.cfg:222
 msgid "<i>― Haldric II, 42YW, Handbook of Tactical Analysis: Volume I</i>"
-msgstr "<i>― 전술 분석 편람 제 1 권 - 할드릭 2세, 웨스노스력 42년</i>"
+msgstr "<i>― 전술 분석 편람 제 1 권 - 할드릭(Haldric) 2세, 웨스노스력 42년</i>"
 
 #. [tip]
 #: data/tips.cfg:64
@@ -4395,7 +4395,7 @@ msgstr "적 유닛에 공격이 명중할 확률은 지금 있는 지형에 적 
 #. [tip]
 #: data/tips.cfg:89
 msgid "<i>― Haldric II, 43YW, Handbook of Tactical Analysis: Volume II</i>"
-msgstr "<i>― 전략 분석 편람 제 2 권 - 할드릭 2세, 웨스노스력 43년</i>"
+msgstr "<i>― 전략 분석 편람 제 2 권 - 할드릭(Haldric) 2세, 웨스노스력 43년</i>"
 
 #. [tip]
 #: data/tips.cfg:92
@@ -7604,9 +7604,9 @@ msgid ""
 "Units cannot be killed by poison alone. The poison will not reduce it below "
 "1 HP."
 msgstr ""
-"이 유닛은 중독되었습니다. 마을에 머무르거나 해독 능력을 가진 아군/동맹 유닛 근처에서 해독할때까지 차례당 체력 8을 잃게 됩니다.\n"
+"이 유닛은 중독되었습니다. 마을에 머무르거나 해독 능력을 가진 아군/동맹 유닛 근처에서 해독할때까지 차례당 체력(HP) 8을 잃게 됩니다.\n"
 "\n"
-"독 피해로 체력은 1까지만 감소합니다. 독 피해만으로는 사망하지는 않습니다."
+"독 피해로 체력(HP)은 1까지만 감소합니다. 독 피해만으로는 사망하지는 않습니다."
 
 #: src/reports.cpp:354
 msgid "petrified: "
@@ -8388,7 +8388,7 @@ msgstr "$attack_list|： $effect_description"
 #: src/units/unit.cpp:2032
 #| msgid "per turn"
 msgid "<span color=\"$color\">$number_or_percent</span> HP"
-msgstr "<span color=\"$color\">$number_or_percent</span> 체력"
+msgstr "<span color=\"$color\">$number_or_percent</span> 체력(HP)"
 
 #: src/units/unit.cpp:2042
 #| msgid "per turn"
@@ -8409,7 +8409,7 @@ msgstr "<span color=\"$color\">$number_or_percent</span> 방해"
 #: src/units/unit.cpp:2057
 #| msgid "per turn"
 msgid "<span color=\"$color\">$number_or_percent</span> XP to advance"
-msgstr "<span color=\"$color\">$number_or_percent</span> 수준 향상에 필요한 경험치"
+msgstr "<span color=\"$color\">$number_or_percent</span> 수준 향상에 필요한 경험치(XP)"
 
 #: src/units/unit.cpp:2061
 #| msgid "per turn"

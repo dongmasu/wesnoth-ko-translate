@@ -40,7 +40,7 @@ msgstr "오류"
 msgid ""
 "‘{0}’ directory not found. Please run the GUI.pyw program packaged with the "
 "Wesnoth installation."
-msgstr "'{0}' 디렉터리를 찾을 수 없습니다. 웨스노스 설치와 함께 패키지된 GUI.pyw 프로그램을 실행하세요."
+msgstr "'{0}' 디렉터리를 찾을 수 없습니다. 웨스노스(Wesnoth) 설치와 함께 패키지된 GUI.pyw 프로그램을 실행하세요."
 
 #. TRANSLATORS: {0} is the language argument entered by the user.
 #: data/tools/GUI.pyw:103
@@ -382,7 +382,7 @@ msgid ""
 msgstr ""
 "부가 기능 선택 상자에서 선택한 핵심 디렉토리 또는 해당 하위 디렉토리 중 하나입니다.\n"
 "\n"
-"이 도구는 웨스노스 핵심 디렉토리에서만 실행됩니다."
+"이 도구는 웨스노스(Wesnoth) 핵심 디렉토리에서만 실행됩니다."
 
 #: data/tools/GUI.pyw:1439 data/tools/GUI.pyw:1447 data/tools/GUI.pyw:1511
 #: data/tools/GUI.pyw:1519 data/tools/GUI.pyw:1554 data/tools/GUI.pyw:1580
@@ -398,7 +398,7 @@ msgid ""
 msgstr ""
 "선택한 디렉토리가 없습니다.\n"
 "\n"
-"이 도구는 웨스노스 핵심 디렉토리에서만 실행됩니다."
+"이 도구는 웨스노스(Wesnoth) 핵심 디렉토리에서만 실행됩니다."
 
 #: data/tools/GUI.pyw:1453 data/tools/GUI.pyw:1525 data/tools/GUI.pyw:1561
 #: data/tools/GUI.pyw:1585
@@ -417,7 +417,7 @@ msgid ""
 msgstr ""
 "선택한 디렉토리가 없습니다.\n"
 "\n"
-"이 도구는 웨스노스 핵심 디렉토리에서 실행됩니다."
+"이 도구는 웨스노스(Wesnoth) 핵심 디렉토리에서 실행됩니다."
 
 #: data/tools/GUI.pyw:1580
 msgid ""

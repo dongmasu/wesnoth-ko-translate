@@ -223,6 +223,7 @@ class TranslationLayoutTests(unittest.TestCase):
             "tools/install_mo_macos_app.sh",
             "tools/mark_korean_locale.sh",
             "tools\\mark_korean_locale.bat",
+            "tools/audit_and_pair_embedded_names.py",
             "tools\\install_mo.bat",
             "tools/audit_po_completion.py",
             "MO_BUILD_DATE",
@@ -279,6 +280,20 @@ class TranslationLayoutTests(unittest.TestCase):
         self.assertIn("total", result.stdout)
         self.assertIn("untranslated=0", result.stdout)
         self.assertIn("fuzzy=0", result.stdout)
+
+    def test_embedded_name_pairing_audit_is_clean_and_idempotent(self):
+        result = subprocess.run(
+            [
+                shutil.which("python3") or "python3",
+                "tools/audit_and_pair_embedded_names.py",
+                "--check",
+            ],
+            cwd=ROOT,
+            capture_output=True,
+            text=True,
+        )
+        self.assertEqual(result.returncode, 0, result.stderr)
+        self.assertIn("messages=0 unresolved=0", result.stdout)
 
 
 if __name__ == "__main__":

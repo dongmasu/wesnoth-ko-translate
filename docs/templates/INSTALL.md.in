@@ -305,6 +305,8 @@ MO를 실제 게임에 설치하거나 완료 tag를 만들기 전에 프로젝�
 ```sh
 VERSION="${WESNOTH_VERSION:-$(tr -d '\r\n' < VERSION)}"
 python3 -m unittest discover -s tests -v
+python3 tools/audit_glossary.py
+python3 tools/audit_and_pair_embedded_names.py --check
 python3 tools/audit_po_completion.py
 python3 tools/audit_po_structure.py
 for po in "work/$VERSION/ko"/*.po; do
@@ -613,6 +615,8 @@ the following from the repository root:
 ```sh
 VERSION="${WESNOTH_VERSION:-$(tr -d '\r\n' < VERSION)}"
 python3 -m unittest discover -s tests -v
+python3 tools/audit_glossary.py
+python3 tools/audit_and_pair_embedded_names.py --check
 python3 tools/audit_po_completion.py
 python3 tools/audit_po_structure.py
 for po in "work/$VERSION/ko"/*.po; do

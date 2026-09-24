@@ -771,7 +771,7 @@ Defaults	기본값	デフォルト	默认	term
 Defeat	패배	敗北	失败	term		
 Defeat Asheviere	아셰비에레를 물리치십시오	Asheviere を倒す	击败艾什薇尔	term		
 Defeat Crelanu	크렐라누를 물리치십시오	Crelanu を倒す	击败克雷拉努	term		
-Defeat Glonoin, the Shorbear clan leader	쇼어베어 부족장 글로노인을 물리치세요	Shorbear クランの指導者 Glonoin を倒す	击败格罗诺因，矮熊氏族首领	term		
+Defeat Glonoin, the Shorbear clan leader	쇼어베어(Shorbear) 부족장 글로노인(Glonoin)을 물리치세요	Shorbear クランの指導者 Glonoin を倒す	击败格罗诺因，矮熊氏族首领	term		
 Defeat Izziasch	이자이아슈를 물리치세요	Izziasch を倒す	击败伊兹亚赫	term		
 Defeat Mal-Ravanal	말-라바날을 물리치십시오	Mal-Ravanal を倒す	击败玛尔-拉瓦纳尔	term		
 Defeat Mal-Skraat	말-스크라트를 물리치십시오	Mal-Skraat を倒す	击败玛尔-斯克拉特	term		
@@ -1509,7 +1509,7 @@ Gruth	그루스(Gruth)	Gruth	格鲁斯	person_name
 Gruumogth	그루모그스(Gruumogth)	Gruumogth	格鲁摩斯	proper_noun		
 Gruv-Malal	그루브-말랄(Gruv-Malal)	Gruv-Malal	格鲁-玛拉	person_name		
 Gryphon	그리폰	グリフォン	狮鹫	unit_name		
-Gryphon Leader	대장(Gryphon) 그리폰	Gryphon のリーダー	狮鹫头领	faction		
+Gryphon Leader	그리폰(Gryphon) 대장	Gryphon のリーダー	狮鹫头领	faction		
 Gryphon Master	그리폰 마스터	グリフォンマスター	狮鹫大师	unit_name		
 Gryphon Mountain	그리폰(Gryphon) 산맥	グリフォンの山	狮鹫山	place_name		
 Gryphon Rider	그리폰 기병	グリフォンライダー	狮鹫骑手	unit_name		
@@ -1809,7 +1809,7 @@ Jasken	자스켄(Jasken)	Jasken	贾斯肯	proper_noun
 Javelin	던지는 창	投槍	标枪	item_name		
 Javelineer	투창병	投槍兵	标枪兵	unit_name		
 Jera Ilras	제라 일라스(Jera Ilras)	Jera Ilras	杰拉·伊拉思	faction		
-Jessene in Hiding	은신중인(Jessene) 제세네	Jessene （潜伏中）	隐蔽中的洁欣	proper_noun		
+Jessene in Hiding	은신 중인 제세네(Jessene)	Jessene （潜伏中）	隐蔽中的洁欣	proper_noun		
 Jetto	제토(Jetto)	Jetto	杰图	unit_name		
 Jezhar	제자르(Jezhar)	Jezhar	杰扎尔	proper_noun		
 Jinn	진	ジン	巨灵	unit_name		
@@ -1970,8 +1970,8 @@ Library	도서관	図書館	书库	term
 License	라이선스	ライセンス	许可证	term		
 Lich	리치(Lich)	リッチ	巫妖	unit_name		
 Lich-Lord Caror	리치 군주 카로르(Caror)	リッチ君主 Caror	巫妖领主卡罗	faction		
-Lich-Lord Jevyan	리치(Jevyan) 군주 제비안	リッチ君主 Jevyan	巫妖领主劫复魇	faction		
-Lich-Lord Lenvan	리치(Lenvan) 군주 렌반	リッチ君主 Lenvan	巫妖领主蓝温	faction		
+Lich-Lord Jevyan	리치 군주 제비안(Jevyan)	リッチ君主 Jevyan	巫妖领主劫复魇	faction		
+Lich-Lord Lenvan	리치 군주 렌반(Lenvan)	リッチ君主 Lenvan	巫妖领主蓝温	faction		
 Liches	시체들	リッチ	巫妖	faction		
 Lieutenant	부관	副官	尉官	campaign_name	중위	
 Light Red	밝은 적색	ライトレッド	亮红	term		
@@ -2339,7 +2339,7 @@ Necrophage	시체 아귀	ネクロファージ	食尸恶鬼	unit_name
 Neglur	네글루르(Neglur)	Neglur	内格拉	unit_name		
 Negotiation Complete	협상 완료	交渉完了	谈判完成	term		
 Neki the Brutal	잔혹한 네키(Neki)	冷酷なるNeki	野蛮人尼基	unit_name		
-Neki the Brute	난폭한(Neki) 네키	粗暴なるNeki	野蛮人尼基	unit_name		
+Neki the Brute	난폭한 네키(Neki)	粗暴なるNeki	野蛮人尼基	unit_name		
 Nemas	네마스(Nemas)	Nemas	内马斯	person_name		
 Neophyte	초심자	見習い	新信徒	campaign_name		
 Nepba	넵바(Nepba)	Nepba	内普巴	unit_name		
@@ -2676,7 +2676,7 @@ Properties	속성	プロパティ	特性	term
 Prose and Story Editing	산문 및 이야기 편집	ストーリー構成	散文和故事编辑	term		
 Prose and Story Editing, Code Preparation	산문 및 이야기 편집, 코드 준비	物語や文章の編集とコードの作成	散文与故事编辑、代码准备	term		
 Prose and Story Edits	내용 및 스토리 편집	ストーリー構成	散文与故事编辑	term		
-Protect generals Halrad, Halric, and Halrod	할라드, 할릭, 할로드 장군을 보호하세요	将軍達（Halrad、Halric、Halrod）を守る	保护将军哈拉德、哈尔里克和哈尔罗德	term		
+Protect generals Halrad, Halric, and Halrod	할라드(Halrad), 할릭(Halric), 할로드(Halrod) 장군을 보호하세요	将軍達（Halrad、Halric、Halrod）を守る	保护将军哈拉德、哈尔里克和哈尔罗德	term		
 Proven by the Sword	검으로 입증된 것	剣による証明	以剑为证	campaign_name		
 Provinces	주	田舎	省份	proper_noun		
 Provincial Guard	지방 경비대	辺境防衛隊	行省卫队	person_name		

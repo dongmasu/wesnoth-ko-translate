@@ -31,7 +31,7 @@ msgstr "자습서"
 msgid ""
 "Learn the basics of Wesnoth gameplay with a tutorial. Recommended for first-"
 "time players."
-msgstr "튜토리얼로 웨스노스 게임플레이의 기본을 배워 보세요. 처음 플레이하는 분에게 권장합니다."
+msgstr "튜토리얼로 웨스노스(Wesnoth) 게임플레이의 기본을 배워 보세요. 처음 플레이하는 분에게 권장합니다."
 
 #. [difficulty]
 #: data/campaigns/tutorial/_main.cfg:31
@@ -163,7 +163,7 @@ msgid ""
 "and your mentor Delfador is on the east side of the river. You can move the "
 "mouse over a unit to see a summary of its abilities and stats on the right "
 "of the screen."
-msgstr "이 자습서에서 당신은 콘라드를 선택했습니다. 당신은 아성에 서 있으며, 당신의 스승인 델파도르가 강의 동쪽에 있습니다. 마우스 커서를 유닛(지도상의 캐릭터) 위에 겹쳐 놓으면, 유닛의 능력등이 화면의 오른쪽에 표시됩니다."
+msgstr "이 자습서에서 당신은 콘라드(Konrad)를 선택했습니다. 당신은 아성에 서 있으며, 당신의 스승인 델파도르(Delfador)가 강의 동쪽에 있습니다. 마우스 커서를 유닛(지도상의 캐릭터) 위에 겹쳐 놓으면, 유닛의 능력등이 화면의 오른쪽에 표시됩니다."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:169
@@ -176,7 +176,7 @@ msgid ""
 "and your mentor Delfador is on the east side of the river. You can move the "
 "mouse over a unit to see a summary of its abilities and stats on the right "
 "of the screen."
-msgstr "이 자습서에서 당신은 리사르를 선택했습니다. 당신은 아성에 서 있으며, 당신의 스승인 델파도르가 강의 동쪽에 있습니다. 마우스 커서를 유닛(지도상의 캐릭터) 위에 겹쳐 놓으면, 유닛의 능력등이 화면의 오른쪽에 표시됩니다."
+msgstr "이 자습서에서 당신은 리사르(Li’sar)를 선택했습니다. 당신은 아성에 서 있으며, 당신의 스승인 델파도르(Delfador)가 강의 동쪽에 있습니다. 마우스 커서를 유닛(지도상의 캐릭터) 위에 겹쳐 놓으면, 유닛의 능력등이 화면의 오른쪽에 표시됩니다."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:175
@@ -211,7 +211,7 @@ msgid ""
 "Normally, moving one hex on flat terrain uses one movement point. To move, "
 "simply click on Konrad and then your destination. (You can press <b>u</b> to "
 "undo a move if you move to the wrong place.)"
-msgstr "콘라드 유닛 위로 마우스를 가져가거나 선택하면, 유닛이 이동할 수 있는 장소가 강조 표시됩니다. 모든 유닛에는 일정 수의 <i>움직임 수치</i>가 있으며, 이는 해당 유닛이 1 차례 동안 이동할 수 있는 육각형 칸의 개수를 나타냅니다. 일반적으로 평평한 지형에서 1개의 육각형 칸을 이동하는 데는 움직임 수치 1을 사용합니다. 이동하려면 먼저 콘라드를 클릭한 다음 목적지를 클릭하세요. (잘못된 장소로 이동한 경우 <b>u</b>를 눌러 이동을 취소할 수 있습니다.)"
+msgstr "콘라드(Konrad) 유닛 위로 마우스를 가져가거나 선택하면, 유닛이 이동할 수 있는 장소가 강조 표시됩니다. 모든 유닛에는 일정 수의 <i>움직임 수치</i>가 있으며, 이는 해당 유닛이 1 차례 동안 이동할 수 있는 육각형 칸의 개수를 나타냅니다. 일반적으로 평평한 지형에서 1개의 육각형 칸을 이동하는 데는 움직임 수치 1을 사용합니다. 이동하려면 먼저 콘라드(Konrad)를 클릭한 다음 목적지를 클릭하세요. (잘못된 장소로 이동한 경우 <b>u</b>를 눌러 이동을 취소할 수 있습니다.)"
 
 #. [hint_message]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:365
@@ -222,7 +222,7 @@ msgid ""
 "Normally, moving one hex on flat terrain uses one movement point. To move, "
 "simply click on Li’sar and then your destination. (You can press <b>u</b> to "
 "undo a move if you move to the wrong place.)"
-msgstr "리사르 유닛 위로 마우스를 가져가거나 선택하면, 유닛이 이동할 수 있는 장소가 강조 표시됩니다. 모든 유닛에는 일정 수의 <i>움직임 수치</i>가 있으며, 이는 해당 유닛이 1 차례 동안 이동할 수 있는 육각형 칸의 개수를 나타냅니다. 일반적으로 평평한 지형에서 1개의 육각형 칸을 이동하는 데는 움직임 수치 1을 사용합니다. 이동하려면 먼저 리사르를 클릭한 다음 목적지를 클릭하세요. (잘못된 장소로 이동한 경우 <b>u</b>를 눌러 이동을 취소할 수 있습니다.)"
+msgstr "리사르(Li’sar) 유닛 위로 마우스를 가져가거나 선택하면, 유닛이 이동할 수 있는 장소가 강조 표시됩니다. 모든 유닛에는 일정 수의 <i>움직임 수치</i>가 있으며, 이는 해당 유닛이 1 차례 동안 이동할 수 있는 육각형 칸의 개수를 나타냅니다. 일반적으로 평평한 지형에서 1개의 육각형 칸을 이동하는 데는 움직임 수치 1을 사용합니다. 이동하려면 먼저 리사르(Li’sar)를 클릭한 다음 목적지를 클릭하세요. (잘못된 장소로 이동한 경우 <b>u</b>를 눌러 이동을 취소할 수 있습니다.)"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:375
@@ -239,13 +239,13 @@ msgstr "리사르를 델파도르 옆으로 이동"
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:394
 msgid "Good morning, Delfador! Is it time to attack things?"
-msgstr "좋은 아침이군요, 델파도르! 이제 뭔가 전투를 해 볼 수 있나요?"
+msgstr "좋은 아침이군요, 델파도르(Delfador)! 이제 뭔가 전투를 해 볼 수 있나요?"
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:395
 #| msgid "Good morning, Delfador! Is it time to attack things?"
 msgid "female^Good morning, Delfador! Is it time to attack things?"
-msgstr "좋은 아침이에요, 델파도르! 이제 뭔가 전투를 해 볼 수 있나요?"
+msgstr "좋은 아침이에요, 델파도르(Delfador)! 이제 뭔가 전투를 해 볼 수 있나요?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:400
@@ -320,7 +320,7 @@ msgid ""
 "To attack the quintain, first select the attacker (Konrad), then the target "
 "(the quintain). You will see an attack description. Click <b>Attack</b> when "
 "you’re ready."
-msgstr "과녁을 공격하려면, 먼저 공격자 (콘라드) 를 선택하고, 그 다음엔 목표물 (인간형 과녁) 을 선택해야 합니다. 그러면 공격 정보표를 볼 수 있습니다. 준비가 되면, <b>공격</b>을 누르세요."
+msgstr "과녁을 공격하려면, 먼저 공격자 (콘라드(Konrad)) 를 선택하고, 그 다음엔 목표물 (인간형 과녁) 을 선택해야 합니다. 그러면 공격 정보표를 볼 수 있습니다. 준비가 되면, <b>공격</b>을 누르세요."
 
 #. [hint_message]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:498
@@ -332,7 +332,7 @@ msgid ""
 "To attack the quintain, first select the attacker (Li’sar), then the target "
 "(the quintain). You will see an attack description. Click <b>Attack</b> when "
 "you’re ready."
-msgstr "과녁을 공격하려면, 먼저 공격자 (리사르) 를 선택하고, 그 다음엔 목표물 (인간형 과녁) 을 선택해야 합니다. 그러면 공격 정보표를 볼 수 있습니다. 준비가 되면, <b>공격</b>을 누르세요."
+msgstr "과녁을 공격하려면, 먼저 공격자 (리사르(Li’sar)) 를 선택하고, 그 다음엔 목표물 (인간형 과녁) 을 선택해야 합니다. 그러면 공격 정보표를 볼 수 있습니다. 준비가 되면, <b>공격</b>을 누르세요."
 
 #. [disallow_end_turn]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:503
@@ -579,7 +579,7 @@ msgid ""
 "The tiny golden crown above your leader (Konrad) indicates he is a side "
 "leader. In most scenarios, you will lose if your leader is killed. Be sure "
 "to keep him safe!"
-msgstr "당신의 대장(콘라드) 위에 있는 작은 황금 왕관은 이 유닛이 진영의 대장라는 것을 나타냅니다. 대부분의 시나리오에서, 당신의 대장이 죽으면 패배하게 됩니다. 그를 안전하게 지키세요!"
+msgstr "당신의 대장(콘라드(Konrad)) 위에 있는 작은 황금 왕관은 이 유닛이 진영의 대장라는 것을 나타냅니다. 대부분의 시나리오에서, 당신의 대장이 죽으면 패배하게 됩니다. 그를 안전하게 지키세요!"
 
 #. [hint_message]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:769
@@ -587,7 +587,7 @@ msgid ""
 "The tiny golden crown above your leader (Li’sar) indicates she is a side "
 "leader. In most scenarios, you will lose if your leader is killed. Be sure "
 "to keep her safe!"
-msgstr "당신의 대장(리사르) 위에 있는 작은 황금 왕관은 이 유닛이 진영의 대장라는 것을 나타냅니다. 대부분의 시나리오에서, 당신의 대장이 죽으면 패배하게 됩니다. 그를 안전하게 지키세요!"
+msgstr "당신의 대장(리사르(Li’sar)) 위에 있는 작은 황금 왕관은 이 유닛이 진영의 대장라는 것을 나타냅니다. 대부분의 시나리오에서, 당신의 대장이 죽으면 패배하게 됩니다. 그를 안전하게 지키세요!"
 
 #. [disallow_end_turn]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:812
@@ -783,7 +783,7 @@ msgid ""
 "Remember to pull back wounded units into villages and recruit more if "
 "needed. Take special care of units with the highest <i>experience points "
 "(XP)</i> so they can gain levels and become more powerful."
-msgstr "부상병을 마을로 물리고 필요하다면 추가 소집을 하세요. 가장 높은 <i>경험치</i>를 가진 유닛은 특별한 주의를 갖고 돌보아 그들이 레벨업을 할 수 있게 하세요."
+msgstr "부상병을 마을로 물리고 필요하다면 추가 소집을 하세요. 가장 높은 <i>경험치(XP)</i>를 가진 유닛은 특별한 주의를 갖고 돌보아 그들이 레벨업을 할 수 있게 하세요."
 
 #. [hint_message]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:1008
@@ -883,7 +883,7 @@ msgstr "그래, 자네는 전투를 통해서 경험치를 얻지만, 특히 상
 msgid ""
 "Now, Konrad, I will leave you with more dummies to practice on! After that, "
 "we have real work to do..."
-msgstr "자, 콘라드, 자네가 연습할 수 있게 더 많은 꼭두각시들을 만들어주겠네! 다음번에는 실전이 될거네..."
+msgstr "자, 콘라드(Konrad), 자네가 연습할 수 있게 더 많은 꼭두각시들을 만들어주겠네! 다음번에는 실전이 될거네..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:1105
@@ -893,7 +893,7 @@ msgstr "자, 콘라드, 자네가 연습할 수 있게 더 많은 꼭두각시�
 msgid ""
 "Now, Li’sar, I will leave you with more dummies to practice on! After that, "
 "we have real work to do..."
-msgstr "자, 리사르, 자네가 연습할 수 있게 더 많은 꼭두각시들을 만들어주겠네! 다음번에는 실전이 될거네..."
+msgstr "자, 리사르(Li’sar), 자네가 연습할 수 있게 더 많은 꼭두각시들을 만들어주겠네! 다음번에는 실전이 될거네..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:1167
@@ -1049,7 +1049,7 @@ msgstr "돌아온 것을 환영합니다! 이것은 두 부분으로 구성된 �
 msgid ""
 "Ho, Galdrad! Has Delfador conjured something else to beat me with? A flock "
 "of scarecrows, perhaps?"
-msgstr "오, 갈드라드! 델파도르가 날 쓰러뜨릴만한 뭔가 또다른 마술을 부려놨나요? 허수아비떼라든가?"
+msgstr "오, 갈드라드(Galdrad)! 델파도르(Delfador)가 날 쓰러뜨릴만한 뭔가 또다른 마술을 부려놨나요? 허수아비떼라든가?"
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:204
@@ -1059,7 +1059,7 @@ msgstr "오, 갈드라드! 델파도르가 날 쓰러뜨릴만한 뭔가 또다�
 msgid ""
 "female^Ho, Galdrad! Has Delfador conjured something else to beat me with? A "
 "flock of scarecrows, perhaps?"
-msgstr "오, 갈드라드! 델파도르가 날 쓰러뜨릴만한 뭔가 또다른 마술을 부려놨나요? 허수아비떼라든가?"
+msgstr "오, 갈드라드(Galdrad)! 델파도르(Delfador)가 날 쓰러뜨릴만한 뭔가 또다른 마술을 부려놨나요? 허수아비떼라든가?"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:210
@@ -1073,7 +1073,7 @@ msgid ""
 "country; they are fools to enter here. We elves are fast and hard to hit in "
 "forests. You must defeat their leader so they never threaten us again. I "
 "will advise you."
-msgstr "이건 놀이가 아니다, 콘라드! 오크들이 강 건너에 기지를 세웠어. 감히 요정의 영역에 들어오다니 간이 부은 놈들이지. 우리 요정들은 숲에서는 빠르고 잘 피할 수 있다. 네가 저들의 대장을 물리쳐서 저들이 우릴 다시 위협하지 못하게 하도록 해. 내가 조언해주지."
+msgstr "이건 놀이가 아니다, 콘라드(Konrad)! 오크들이 강 건너에 기지를 세웠어. 감히 요정의 영역에 들어오다니 간이 부은 놈들이지. 우리 요정들은 숲에서는 빠르고 잘 피할 수 있다. 네가 저들의 대장을 물리쳐서 저들이 우릴 다시 위협하지 못하게 하도록 해. 내가 조언해주지."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:215
@@ -1087,7 +1087,7 @@ msgid ""
 "country; they are fools to enter here. We elves are fast and hard to hit in "
 "forests. You must defeat their leader so they never threaten us again. I "
 "will advise you."
-msgstr "이건 놀이가 아니다, 리사르! 오크들이 강 건너에 기지를 세웠다. 감히 요정의 영역에 들어오다니 간이 부은 놈들이다. 우리 요정들은 숲에서는 빠르고 잘 피할 수 있다. 네가 저들의 대장을 물리쳐서 저들이 우릴 다시 위협하지 못하게 하도록 해라. 내가 조언해주지."
+msgstr "이건 놀이가 아니다, 리사르(Li’sar)! 오크들이 강 건너에 기지를 세웠다. 감히 요정의 영역에 들어오다니 간이 부은 놈들이다. 우리 요정들은 숲에서는 빠르고 잘 피할 수 있다. 네가 저들의 대장을 물리쳐서 저들이 우릴 다시 위협하지 못하게 하도록 해라. 내가 조언해주지."
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:221
@@ -1402,7 +1402,7 @@ msgstr "여전히 부대를 소집해야 합니다!"
 msgid ""
 "Excellent! As Delfador mentioned earlier, each captured village will support "
 "one unit and provide you with 1 extra gold per turn."
-msgstr "훌륭해! 델파도르가 말했듯이 각 마을은 1명의 유닛을 지원하고 차례당 금화 1개를 제공한다."
+msgstr "훌륭해! 델파도르(Delfador)가 말했듯이 각 마을은 1명의 유닛을 지원하고 차례당 금화 1개를 제공한다."
 
 #. [hint_message]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:492
@@ -1448,14 +1448,14 @@ msgstr "젊은 아가씨여, 이제 전략을 논의할 시간이다. 너의 유
 msgid ""
 "Galdrad, if I go by the ford, I could sneak up near his keep and dispatch "
 "him quickly."
-msgstr "갈드라드, 제가 여울로 가면, 놈의 아성 근처로 몰래 다가가서 그를 빨리 처치할 수 있을 겁니다."
+msgstr "갈드라드(Galdrad), 제가 여울로 가면, 놈의 아성 근처로 몰래 다가가서 그를 빨리 처치할 수 있을 겁니다."
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:588
 msgid ""
 "female^Galdrad, if I go by the ford, I could sneak up near his keep and "
 "dispatch him quickly."
-msgstr "갈드라드, 제가 여울로 가면, 놈의 아성 근처로 몰래 다가가서 그를 빨리 처치할 수 있을 거에요."
+msgstr "갈드라드(Galdrad), 제가 여울로 가면, 놈의 아성 근처로 몰래 다가가서 그를 빨리 처치할 수 있을 거에요."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:593
@@ -1541,7 +1541,7 @@ msgid ""
 "safe and protected and in range of your keep early in the game. The tide of "
 "battle can turn quickly, and you don’t want to find yourself cut off from "
 "recruiting reinforcements."
-msgstr "잘 배웠구나, 콘라드. 게임 초반에 대장을 안전하게 보호하고 아성 근처에 두는 것은 정말 좋은 생각이다. 전투의 흐름은 빠르게 바뀔 수 있기 때문에, 지원군 소집이 끊기는 것을 원하지 않는 것이군."
+msgstr "잘 배웠구나, 콘라드(Konrad). 게임 초반에 대장을 안전하게 보호하고 아성 근처에 두는 것은 정말 좋은 생각이다. 전투의 흐름은 빠르게 바뀔 수 있기 때문에, 지원군 소집이 끊기는 것을 원하지 않는 것이군."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:628
@@ -1550,7 +1550,7 @@ msgid ""
 "safe and protected and in range of your keep early in the game. The tide of "
 "battle can turn quickly, and you don’t want to find yourself cut off from "
 "recruiting reinforcements."
-msgstr "잘 배웠구나, 리사르. 게임 초반에 대장을 안전하게 보호하고 아성 근처에 두는 것은 정말 좋은 생각이다. 전투의 흐름은 빠르게 바뀔 수 있기때문에, 지원군 소집이 끊기는 것을 원하지 않는 것이군."
+msgstr "잘 배웠구나, 리사르(Li’sar). 게임 초반에 대장을 안전하게 보호하고 아성 근처에 두는 것은 정말 좋은 생각이다. 전투의 흐름은 빠르게 바뀔 수 있기때문에, 지원군 소집이 끊기는 것을 원하지 않는 것이군."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:698
@@ -1956,7 +1956,7 @@ msgstr "당신은 자습서를 거의 마쳤습니다"
 msgid ""
 "In a campaign you may have ten or even twenty scenarios to build your army, "
 "but this tutorial will conclude after you defeat Thrag."
-msgstr "캠페인에서는 시나리오가 10~20개가 지속되므로 그 사이에 군단을 키울 수 있습니다. 그러나, 이 자습서에서는 트라그를 쓰러뜨리면 끝납니다."
+msgstr "캠페인에서는 시나리오가 10~20개가 지속되므로 그 사이에 군단을 키울 수 있습니다. 그러나, 이 자습서에서는 트라그(Thrag)를 쓰러뜨리면 끝납니다."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1256

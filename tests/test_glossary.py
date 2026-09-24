@@ -392,6 +392,18 @@ class GlossaryTests(unittest.TestCase):
         self.assertEqual(by_source["Ancient Lich"], "고대의 리치(Lich)")
         self.assertEqual(by_source["Cave Wyrmlet"], "동굴 웜(Wyrm) 새끼")
 
+    def test_lich_lord_pairs_only_the_person_name(self):
+        _, rows = glossary_rows()
+        by_source = {row["source_term"]: row["standard_korean"] for row in rows}
+        self.assertEqual(
+            by_source["Lich-Lord Jevyan"],
+            "리치 군주 제비안(Jevyan)",
+        )
+        self.assertEqual(
+            by_source["Lich-Lord Lenvan"],
+            "리치 군주 렌반(Lenvan)",
+        )
+
     def test_place_name_pairs_only_the_name_component(self):
         _, rows = glossary_rows()
         by_source = {row["source_term"]: row["standard_korean"] for row in rows}

@@ -146,7 +146,12 @@ msgid ""
 "that I would not share their fate, and if I can rediscover the secrets of "
 "the ancients I will be a hero to the whole continent! I shall begin research "
 "in earnest this winter."
-msgstr "<i>타린스의 아르도나가 쓴 일지에서</i>\n\n웨스노스력 22년 12월 9일:\n\n인간인 우리가 이렇게 짧은 세월을 살다 죽어야 한다니 부당하다. 엘프와 드워프는 훨씬 오래 산다. 이것이 자연의 질서일 수는 있지만, 우리가 그것을 받아들여야 할 이유는 없다! 녹색 섬의 군주들은 영원히 사는 법을 알고 있었다. 할드릭 1세 국왕은 그 지식을 추구하는 일을 불법으로 선언했지만, 나는 위험을 감수할 가치가 있다고 믿는다. 가족이 여러 병으로 쇠약해져 가는 모습을 지켜보며, 나는 그들과 같은 운명을 맞지 않겠다고 맹세했다. 그리고 고대인들의 비밀을 다시 밝혀낼 수 있다면, 나는 대륙 전체의 영웅이 될 것이다! 올겨울에는 본격적으로 연구를 시작하겠다."
+msgstr ""
+"<i>타린스의 아르도나(Ardonna)가 쓴 일지에서</i>\n"
+"\n"
+"웨스노스력 22년 12월 9일:\n"
+"\n"
+"인간인 우리가 이렇게 짧은 세월을 살다 죽어야 한다니 부당하다. 엘프와 드워프는 훨씬 오래 산다. 이것이 자연의 질서일 수는 있지만, 우리가 그것을 받아들여야 할 이유는 없다! 녹색 섬의 군주들은 영원히 사는 법을 알고 있었다. 할드릭(Haldric) 1세 국왕은 그 지식을 추구하는 일을 불법으로 선언했지만, 나는 위험을 감수할 가치가 있다고 믿는다. 가족이 여러 병으로 쇠약해져 가는 모습을 지켜보며, 나는 그들과 같은 운명을 맞지 않겠다고 맹세했다. 그리고 고대인들의 비밀을 다시 밝혀낼 수 있다면, 나는 대륙 전체의 영웅이 될 것이다! 올겨울에는 본격적으로 연구를 시작하겠다."
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:54
@@ -178,7 +183,10 @@ msgid ""
 "expulsion. I was pondering that fact in class when I noticed Aimucasur "
 "glowering at me. I must be more careful in the future about which of my "
 "thoughts appear on my face."
-msgstr "웨스노스력 23년 3월 4일:\n\n오늘은 교장 아이무카수르 본인이 정신으로 물체를 움직이는 수업을 했다. 이 기술은 물체 안에 자신의 의지를 투사한 다음, 그것을 몸의 일부처럼 움직이는 법을 익히는 것이다. 주문은 정신을 과업에 집중시킨다. 우리는 무생물을 대상으로 연습했지만, 같은 원리를 죽은 살점에도 적용할 수 있다는 것은 분명했다. 강령술에 관심을 보이면 퇴학당하기 때문에 누구도 감히 그 생각을 입 밖에 내지 않았다. 수업 중 그 사실을 곰곰이 생각하다가 아이무카수르가 나를 노려보고 있다는 것을 알아차렸다. 앞으로는 어떤 생각이 얼굴에 드러나는지 더 조심해야 겠다."
+msgstr ""
+"웨스노스력 23년 3월 4일:\n"
+"\n"
+"오늘은 교장 아이무카수르(Aimucasur) 본인이 정신으로 물체를 움직이는 수업을 했다. 이 기술은 물체 안에 자신의 의지를 투사한 다음, 그것을 몸의 일부처럼 움직이는 법을 익히는 것이다. 주문은 정신을 과업에 집중시킨다. 우리는 무생물을 대상으로 연습했지만, 같은 원리를 죽은 살점에도 적용할 수 있다는 것은 분명했다. 강령술에 관심을 보이면 퇴학당하기 때문에 누구도 감히 그 생각을 입 밖에 내지 않았다. 수업 중 그 사실을 곰곰이 생각하다가 아이무카수르(Aimucasur)가 나를 노려보고 있다는 것을 알아차렸다. 앞으로는 어떤 생각이 얼굴에 드러나는지 더 조심해야 겠다."
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:72
@@ -199,7 +207,7 @@ msgid ""
 "have had someone bring them back <i>after</i> death? I would need another "
 "mage I trusted completely, but perhaps I can find someone with whom to make "
 "a pact."
-msgstr "내 박쥐 중 한 마리가 늙어서 죽은 모양이다. 그래서 나는 대담하게도 그 시체를 되살리기로 했다. 정말로 되살아난 것을 보고 기뻤지만, 흥미로운 점은 따로 있었다. 박쥐가 처음 경련했을 때, 마지막 생명력의 불꽃이 몸을 꿰뚫고 번쩍이는 것이 느껴졌다. 그것은 어떤 경로를 따라 흐르는 듯했다. 그로부터 한 가지 생각이 떠올랐다. 나는 살아 있는 박쥐에게서 느낄 수 있는 것을 길잡이 삼아, 정신으로 그 몸의 생명력 경로를 모두 찾아냈다. 그리고 <i>그 경로들을</i> 한꺼번에 되살리자, 박쥐가 스스로 바닥에서 천천히 날개를 퍼덕이며 떠올랐다! (늙은 아이무카수르는 아마 모를 기술이다!) 더 좋은 점은 생명력 망을 흐르는 에너지가 스스로 유지되는 듯해서, 계속 집중할 필요가 없었다는 것이다. 이것이 비밀의 전부일까? 고대의 모든 군주가 죽은 <i>뒤에</i> 누군가에게 되살아난 것일까? 나는 완전히 신뢰할 수 있는 다른 마법사가 필요하지만, 어쩌면 계약을 맺을 사람을 찾을 수 있을지도 모른다."
+msgstr "내 박쥐 중 한 마리가 늙어서 죽은 모양이다. 그래서 나는 대담하게도 그 시체를 되살리기로 했다. 정말로 되살아난 것을 보고 기뻤지만, 흥미로운 점은 따로 있었다. 박쥐가 처음 경련했을 때, 마지막 생명력의 불꽃이 몸을 꿰뚫고 번쩍이는 것이 느껴졌다. 그것은 어떤 경로를 따라 흐르는 듯했다. 그로부터 한 가지 생각이 떠올랐다. 나는 살아 있는 박쥐에게서 느낄 수 있는 것을 길잡이 삼아, 정신으로 그 몸의 생명력 경로를 모두 찾아냈다. 그리고 <i>그 경로들을</i> 한꺼번에 되살리자, 박쥐가 스스로 바닥에서 천천히 날개를 퍼덕이며 떠올랐다! (늙은 아이무카수르(Aimucasur)는 아마 모를 기술이다!) 더 좋은 점은 생명력 망을 흐르는 에너지가 스스로 유지되는 듯해서, 계속 집중할 필요가 없었다는 것이다. 이것이 비밀의 전부일까? 고대의 모든 군주가 죽은 <i>뒤에</i> 누군가에게 되살아난 것일까? 나는 완전히 신뢰할 수 있는 다른 마법사가 필요하지만, 어쩌면 계약을 맺을 사람을 찾을 수 있을지도 모른다."
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:81
@@ -236,7 +244,7 @@ msgstr "이 시나리오는 전적으로 밤에 진행됩니다."
 msgid ""
 "Ardonna can climb over a fence for 2 movement points, but wild animals "
 "cannot."
-msgstr "아르도나는 이동력 2를 사용하여 울타리를 넘을 수 있지만, 야생 동물은 넘을 수 없습니다."
+msgstr "아르도나(Ardonna)는 이동력 2를 사용하여 울타리를 넘을 수 있지만, 야생 동물은 넘을 수 없습니다."
 
 #. [label]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:196
@@ -264,7 +272,7 @@ msgid ""
 "reach the town of Llorvin before morning. I can hide there until I can head "
 "for the dock. I will need some traveling money for that, so go, my bat "
 "friends, and find me some gold!"
-msgstr "윤리 위원회가 불량 마법사를 걱정하고 있을지도 모르니 이 섬을 떠나야겠어요. 망신을 당하며 끌려 돌아갈 수는 없어요! 아침이 오기 전에 로르빈 마을에 도착할 수 있을 거예요. 부두로 갈 수 있을 때까지 그곳에 숨어 있겠어요. 그러려면 여행 자금이 필요하니, 나의 박쥐 친구들아, 가서 금화를 찾아 오렴!"
+msgstr "윤리 위원회가 불량 마법사를 걱정하고 있을지도 모르니 이 섬을 떠나야겠어요. 망신을 당하며 끌려 돌아갈 수는 없어요! 아침이 오기 전에 로르빈(Llorvin) 마을에 도착할 수 있을 거예요. 부두로 갈 수 있을 때까지 그곳에 숨어 있겠어요. 그러려면 여행 자금이 필요하니, 나의 박쥐 친구들아, 가서 금화를 찾아 오렴!"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:331
@@ -518,7 +526,10 @@ msgid ""
 "get out?\n"
 "\n"
 "Well, I might as well do my experiment and worry about leaving later."
-msgstr "저들은 분명 <i>나</i>로부터 묘지를 지키고 있는 거야! 어쩌면 아이무카수르가 정말 의심했던 걸지도 몰라. 이미 안에 들어와 있는 건 다행이지만, 어떻게 빠져나가지?\n\n뭐, 일단 실험부터 하고 나가는 일은 나중에 걱정하자."
+msgstr ""
+"저들은 분명 <i>나</i>로부터 묘지를 지키고 있는 거야! 어쩌면 아이무카수르(Aimucasur)가 정말 의심했던 걸지도 몰라. 이미 안에 들어와 있는 건 다행이지만, 어떻게 빠져나가지?\n"
+"\n"
+"뭐, 일단 실험부터 하고 나가는 일은 나중에 걱정하자."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:841
@@ -594,7 +605,7 @@ msgstr "무기가 있으면 더 잘할 수 있을 텐데, 경비 초소에서 �
 #. [message]: speaker=Caradoc
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:928
 msgid "Gwyllin, don’t move from that guardhouse."
-msgstr "그윌린, 그 경비 초소에서 움직이지 마라."
+msgstr "그윌린(Gwyllin), 그 경비 초소에서 움직이지 마라."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/02_Dark_Business.cfg:937
@@ -622,7 +633,10 @@ msgid ""
 "enough to travel during the day. I am heading east and then north towards "
 "the docks. A ship should be leaving for Blackwater Port in a few days, and I "
 "mean to be on it."
-msgstr "율력 23년 3월 17일:\n\n묘지에서 지체했지만 동이 틀 무렵 로르빈 외곽에 도착했고, 산봉우리 위로 해가 떠올랐을 때는 로르빈이 한참 뒤에 보였어요. 나무꾼들만 사는 길 없는 황야까지 아카데미가 저를 찾으러 오지는 않을 것 같고, 새 동료들과 함께라면 낮에 여행해도 충분히 안전할 것 같아요. 동쪽으로 간 다음 북쪽 부두로 향하고 있어요. 며칠 안에 흑수항으로 가는 배가 떠날 테니, 그 배를 타겠어요."
+msgstr ""
+"율력 23년 3월 17일:\n"
+"\n"
+"묘지에서 지체했지만 동이 틀 무렵 로르빈(Llorvin) 외곽에 도착했고, 산봉우리 위로 해가 떠올랐을 때는 로르빈(Llorvin)이 한참 뒤에 보였어요. 나무꾼들만 사는 길 없는 황야까지 아카데미가 저를 찾으러 오지는 않을 것 같고, 새 동료들과 함께라면 낮에 여행해도 충분히 안전할 것 같아요. 동쪽으로 간 다음 북쪽 부두로 향하고 있어요. 며칠 안에 흑수항으로 가는 배가 떠날 테니, 그 배를 타겠어요."
 
 #. [side]: type=Bandit, id=Garcyn
 #. [unit]: type=Ghoul
@@ -825,7 +839,7 @@ msgstr "가장 높은 두 갑판 어디에서든 모집할 수 있습니다."
 msgid ""
 "Player and Enemy units can move between the surface and the interior of the "
 "ship via stairs."
-msgstr "플레이어와 적 유닛은 계단을 통해 배의 갑판과 내부 사이를 이동할 수 있습니다."
+msgstr "플레이어(Player)와 적 유닛은 계단을 통해 배의 갑판과 내부 사이를 이동할 수 있습니다."
 
 #. [note]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:266
@@ -979,7 +993,7 @@ msgstr "모든 적 유닛을 처치하십시오"
 #. [message]: speaker=Gweddyn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:313
 msgid "Ho Rudic! Welcome. You are late, old friend."
-msgstr "오, 루딕! 잘 왔네. 늦었구나, 오랜 친구여."
+msgstr "오, 루딕(Rudic)! 잘 왔네. 늦었구나, 오랜 친구여."
 
 #. [message]: speaker=Bone Captain
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:317
@@ -1028,7 +1042,7 @@ msgstr "마법입니다, 나리. 어둠의 마법이지요."
 msgid ""
 "Necromancy! The penalty for that is death. Rudic, who is responsible for "
 "this?"
-msgstr "강령술이라니! 그 죄의 형벌은 사형이다. 루딕, 누가 이런 짓을 했지?"
+msgstr "강령술이라니! 그 죄의 형벌은 사형이다. 루딕(Rudic), 누가 이런 짓을 했지?"
 
 #. [message]: speaker=Bone Captain
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:353
@@ -1081,7 +1095,7 @@ msgstr "당신은 유령이군요... 진짜 유령이에요! 기꺼이 따라가
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:428
 msgid ""
 "Blackwater Port is defeated, but we must let none escape. Finish them all."
-msgstr "검은물 항구는 함락되었지만 아무도 도망치게 해서는 안 됩니다. 모두 처치하십시오."
+msgstr "검은물(Blackwater) 항구는 함락되었지만 아무도 도망치게 해서는 안 됩니다. 모두 처치하십시오."
 
 #. [scenario]: id=06_Following_the_Shadow
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:10
@@ -1210,7 +1224,7 @@ msgstr "동굴 안으로 따라가죠."
 msgid ""
 "I don’t know, Bogdush. The Chief said he wanted stuff that was helpful for "
 "the war."
-msgstr "모르겠어, 보그두시. 대장님은 전쟁에 도움이 되는 물건을 원한다고 했잖아."
+msgstr "모르겠어, 보그두시(Bogdush). 대장님은 전쟁에 도움이 되는 물건을 원한다고 했잖아."
 
 #. [message]: speaker=Bogdush
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:575
@@ -1285,7 +1299,7 @@ msgstr "오, 와."
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:185
 msgid "I am Ras-Tabahn. Welcome to my laboratory, Ardonna of Tarrynth!"
-msgstr "나는 라스-타반이다. 내 연구실에 온 것을 환영한다, 타린스의 아르도나!"
+msgstr "나는 라스-타반이다. 내 연구실에 온 것을 환영한다, 타린스의 아르도나(Ardonna)!"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:189
@@ -1392,7 +1406,7 @@ msgid ""
 "there and raise an army of ghosts while I visit Carcyn, a nearby town. We "
 "will meet at the end of the elf road by the Great River, and I will explain "
 "where we should go next."
-msgstr "저 고블린들은 너무 약해서 쓸모 있을 만큼 영혼이 강해지려면 오랜 시간이 걸릴 것이다. 대신 엘프 전사들을 소환하도록 해라. 회색 숲으로 몇 마일 들어가면 수백 년 전 내전이 벌어졌던 고대 전장이 있다. 그곳으로 이어지는 오래된 엘프 길을 따라가 유령 군대를 일으켜라. 그동안 나는 근처 마을인 카르신을 방문하겠다. 대강 끝의 큰 강 근처에서 만나 다음에 어디로 가야 할지 설명해 주지."
+msgstr "저 고블린들은 너무 약해서 쓸모 있을 만큼 영혼이 강해지려면 오랜 시간이 걸릴 것이다. 대신 엘프 전사들을 소환하도록 해라. 회색 숲으로 몇 마일 들어가면 수백 년 전 내전이 벌어졌던 고대 전장이 있다. 그곳으로 이어지는 오래된 엘프 길을 따라가 유령 군대를 일으켜라. 그동안 나는 근처 마을인 카르신(Carcyn)을 방문하겠다. 대강 끝의 큰 강 근처에서 만나 다음에 어디로 가야 할지 설명해 주지."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:241
@@ -1420,7 +1434,10 @@ msgid ""
 "We will first follow the adventures of Ras-Tabahn.\n"
 "\n"
 "After several days of travel, he approached the frontier town of Carcyn."
-msgstr "먼저 라스-타반의 모험을 따라갑니다.\n\n며칠 동안 여행한 뒤, 그는 국경 마을 카르신에 다가갔습니다."
+msgstr ""
+"먼저 라스-타반의 모험을 따라갑니다.\n"
+"\n"
+"며칠 동안 여행한 뒤, 그는 국경 마을 카르신(Carcyn)에 다가갔습니다."
 
 #. [side]: type=Swordsman, id=Carcyn Fisher
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:56
@@ -1496,7 +1513,7 @@ msgstr "농민 회관"
 #. [message]: speaker=Carcyn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:252
 msgid "Carcyn Fisher at your service, and this is my friend Shynal."
-msgstr "카르신 어부가 인사드립니다. 이쪽은 제 친구 샤이날입니다."
+msgstr "카르신(Carcyn) 어부가 인사드립니다. 이쪽은 제 친구 샤이날입니다."
 
 #. [message]: speaker=Shynal
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:256
@@ -1542,7 +1559,7 @@ msgstr "그리고 우리는 이 지긋지긋한 마을을 떠날 거예요!"
 msgid ""
 "The only Carcyn now. I’ve waited all my life to see someone to put my father "
 "in his place. I guess you did that."
-msgstr "이제 유일한 카르신이군요. 누군가 제 아버지를 제자리로 돌려놓기를 평생 기다렸어요. 당신이 해낸 것 같네요."
+msgstr "이제 유일한 카르신(Carcyn)이군요. 누군가 제 아버지를 제자리로 돌려놓기를 평생 기다렸어요. 당신이 해낸 것 같네요."
 
 #. [message]: speaker=Shynal
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:295
@@ -1575,7 +1592,7 @@ msgstr "안녕하시오! 나는 마법사 라스-타반이오."
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:337
 msgid ""
 "Greetings, traveler. I am Carcyn Fisher the Second. How can I be of service?"
-msgstr "안녕하시오, 여행자여. 나는 카르신 어부 2세라오. 무엇을 도와드릴까?"
+msgstr "안녕하시오, 여행자여. 나는 카르신(Carcyn) 어부 2세라오. 무엇을 도와드릴까?"
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:341
@@ -1628,7 +1645,7 @@ msgstr "이제 어둠의 수행자를 모집할 수 있습니다!"
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/09_Training_Session.cfg:415
 msgid ""
 "This has taken too long. We will surely miss our meeting with Ardonna now."
-msgstr "너무 오래 걸렸군. 이제 아르도나와의 약속을 놓치고 말 거야."
+msgstr "너무 오래 걸렸군. 이제 아르도나(Ardonna)와의 약속을 놓치고 말 거야."
 
 #. [scenario]: id=09_Training_Session
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/09_Training_Session.cfg:13
@@ -1646,7 +1663,7 @@ msgid ""
 "spirit world and channel a small amount of its power. Soon after they moved "
 "on, they came across three farmsteads on the riverbank that had clearly been "
 "raided."
-msgstr "라스-타반의 제안은 마법사가 되기를 열망하는 많은 젊은이들을 끌어들였습니다. 그것이 어둠의 마법에 대한 불법 훈련이라는 사실은 중요하지 않았습니다. 부모가 미리 정해 둔 답답한 미래에서 벗어나는 일이 더 중요했지요. 라스-타반은 카르신 외곽의 숲에서 며칠 동안 그들에게 영혼의 세계를 부르고 그 힘을 조금 끌어오는 방법을 가르쳤습니다. 그들이 떠난 직후, 강둑에 있는 세 농장이 명백히 약탈당한 모습을 발견했습니다."
+msgstr "라스-타반의 제안은 마법사가 되기를 열망하는 많은 젊은이들을 끌어들였습니다. 그것이 어둠의 마법에 대한 불법 훈련이라는 사실은 중요하지 않았습니다. 부모가 미리 정해 둔 답답한 미래에서 벗어나는 일이 더 중요했지요. 라스-타반은 카르신(Carcyn) 외곽의 숲에서 며칠 동안 그들에게 영혼의 세계를 부르고 그 힘을 조금 끌어오는 방법을 가르쳤습니다. 그들이 떠난 직후, 강둑에 있는 세 농장이 명백히 약탈당한 모습을 발견했습니다."
 
 #. [objective]: condition=win
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/09_Training_Session.cfg:140
@@ -1740,7 +1757,7 @@ msgid ""
 "Ras-Tabahn’s party reached the end of the elf road near the Great River "
 "where they were to wait for Ardonna. As they arrived, another party did as "
 "well."
-msgstr "라스-타반의 일행은 아르도나를 기다리기로 한 큰 강 근처 엘프 길의 끝에 도착했습니다. 그들이 도착하자 다른 일행도 모습을 드러냈습니다."
+msgstr "라스-타반의 일행은 아르도나(Ardonna)를 기다리기로 한 큰 강 근처 엘프 길의 끝에 도착했습니다. 그들이 도착하자 다른 일행도 모습을 드러냈습니다."
 
 #. [side]: type=Merman Triton, id=Okean
 #. [side]
@@ -1835,7 +1852,7 @@ msgstr "좋아요. 금화를 제법 많이 남겼네요."
 #. [message]: speaker=Okean
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:440
 msgid "You! You have destroyed the town of Carcyn!"
-msgstr "너! 네가 카르신 마을을 파괴했구나!"
+msgstr "너! 네가 카르신(Carcyn) 마을을 파괴했구나!"
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:444
@@ -2180,7 +2197,7 @@ msgstr "이스티니엘(Isthiniel)"
 #. [objective]: condition=win
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/12_Walking_Trees.cfg:105
 msgid "Move Ardonna to the northeast corner of the map"
-msgstr "아르도나를 지도의 북동쪽 구석으로 이동시키십시오"
+msgstr "아르도나(Ardonna)를 지도의 북동쪽 구석으로 이동시키십시오"
 
 #. [message]: speaker=Isthiniel
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/12_Walking_Trees.cfg:319
@@ -2260,7 +2277,7 @@ msgstr "웨스노스력 23년 4월 21일\n\n유령들이 없었다면 나는 나
 msgid ""
 "Greetings Ardonna! (<i>Cough</i>) I was successful, and I see that you were "
 "as well."
-msgstr "안녕, 아르도나! (<i>콜록</i>) 나는 성공했고, 너도 성공한 모양이군."
+msgstr "안녕, 아르도나(Ardonna)! (<i>콜록</i>) 나는 성공했고, 너도 성공한 모양이군."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/13_Together_Again.cfg:125
@@ -2276,14 +2293,14 @@ msgid ""
 "fought with King Haldric the First. Since he faced the immortal lords of the "
 "Green Isle directly, he undoubtedly knows more than we about their methods. "
 "Recently, I have learned where to find him."
-msgstr "기꺼이 설명하지. 역사 수업에서 대마법사 크렐라누를 배웠겠지. 그는 할드릭 1세 국왕과 함께 싸웠다. 녹색 섬의 불멸의 군주들을 직접 상대했으니, 그들의 방법에 대해서는 분명 우리보다 많이 알고 있을 거야. 최근에 그를 찾을 곳을 알아냈다."
+msgstr "기꺼이 설명하지. 역사 수업에서 대마법사 크렐라누(Crelanu)를 배웠겠지. 그는 할드릭(Haldric) 1세 국왕과 함께 싸웠다. 녹색 섬의 불멸의 군주들을 직접 상대했으니, 그들의 방법에 대해서는 분명 우리보다 많이 알고 있을 거야. 최근에 그를 찾을 곳을 알아냈다."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/13_Together_Again.cfg:133
 msgid ""
 "Of course I know about Crelanu. But can we force him to reveal his knowledge "
 "to us?"
-msgstr "당연히 크렐라누는 알고 있어. 하지만 그가 자신의 지식을 우리에게 털어놓도록 강요할 수 있을까?"
+msgstr "당연히 크렐라누(Crelanu)는 알고 있어. 하지만 그가 자신의 지식을 우리에게 털어놓도록 강요할 수 있을까?"
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/13_Together_Again.cfg:137
@@ -2307,14 +2324,14 @@ msgstr "그래, 성공 가능성이 높은 계획 같아. 그 일에 함께하�
 msgid ""
 "I thought as much. We must cross the Great River, and head north into the "
 "Heart Mountains."
-msgstr "그럴 줄 알았네. 큰 강을 건너 북쪽의 하트 산맥으로 들어가야 한다."
+msgstr "그럴 줄 알았네. 큰 강을 건너 북쪽의 하트(Heart) 산맥으로 들어가야 한다."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/13_Together_Again.cfg:154
 msgid ""
 "Before we leave, I have an unrelated question. Vendraxis here has said that "
 "my name is untrue. Do you have an idea what that could mean?"
-msgstr "떠나기 전에 다른 질문이 하나 있어. 여기 있는 벤드락시스가 내 이름이 진짜 이름이 아니라고 했거든. 무슨 뜻인지 알겠어?"
+msgstr "떠나기 전에 다른 질문이 하나 있어. 여기 있는 벤드락시스(Vendraxis)가 내 이름이 진짜 이름이 아니라고 했거든. 무슨 뜻인지 알겠어?"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/13_Together_Again.cfg:160
@@ -2338,7 +2355,7 @@ msgstr "그럴 수도 있겠지. 아카데미의 마법사가 공부를 마치�
 msgid ""
 "I suppose you are right. I am no longer the ordinary girl Ardonna, and "
 "Vendraxis was correct. From now on I shall be... Ardryn-Na."
-msgstr "당신 말이 맞는 것 같아요. 저는 더 이상 평범한 소녀 아르도나가 아니고, 벤드락시스의 말이 옳았어요. 이제부터 제 이름은... 아르드린-나예요."
+msgstr "당신 말이 맞는 것 같아요. 저는 더 이상 평범한 소녀 아르도나(Ardonna)가 아니고, 벤드락시스(Vendraxis)의 말이 옳았어요. 이제부터 제 이름은... 아르드린-나예요."
 
 #. [modify_unit]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/13_Together_Again.cfg:177
@@ -2377,7 +2394,10 @@ msgid ""
 "the sand and went into a paroxysm of coughing the like of which I had never "
 "seen. When he could speak again, he assured me that it was only on account "
 "of the cold, and I should not be unduly troubled. I am uneasy all the same."
-msgstr "웨스노스력 23년 4월 24일\n\n북쪽 산봉우리 뒤로 새벽빛이 퍼질 때 우리는 아베즈 여울에 도착했다. 강을 걸어서 건너는 동안 어두운 물이 허리까지 차올라서, 천천히 나아갈 수밖에 없었다. 아래에 어떤 촉수 달린 생물이 숨어 있을지 감히 상상하지 않았지만, 우리는 아무 일 없이 강을 건넜다. 눈이 녹은 물이라 차가웠고, 맞은편 강변에 도착했을 때는 이가 딱딱 부딪힐 정도였다. 그래도 떠오르는 태양은 따뜻했고, 우리는 곧 몸을 말릴 수 있었다. 하지만 라스-타반의 상태는 좋지 않았다. 그는 모래 위에 쓰러져 내가 본 적 없는 심한 기침 발작을 일으켰다. 다시 말을 할 수 있게 되었을 때 그는 추위 때문일 뿐이니 지나치게 걱정할 필요는 없다고 안심시켰다. 그래도 마음이 놓이지 않는다."
+msgstr ""
+"웨스노스력 23년 4월 24일\n"
+"\n"
+"북쪽 산봉우리 뒤로 새벽빛이 퍼질 때 우리는 아베즈(Abez) 여울에 도착했다. 강을 걸어서 건너는 동안 어두운 물이 허리까지 차올라서, 천천히 나아갈 수밖에 없었다. 아래에 어떤 촉수 달린 생물이 숨어 있을지 감히 상상하지 않았지만, 우리는 아무 일 없이 강을 건넜다. 눈이 녹은 물이라 차가웠고, 맞은편 강변에 도착했을 때는 이가 딱딱 부딪힐 정도였다. 그래도 떠오르는 태양은 따뜻했고, 우리는 곧 몸을 말릴 수 있었다. 하지만 라스-타반의 상태는 좋지 않았다. 그는 모래 위에 쓰러져 내가 본 적 없는 심한 기침 발작을 일으켰다. 다시 말을 할 수 있게 되었을 때 그는 추위 때문일 뿐이니 지나치게 걱정할 필요는 없다고 안심시켰다. 그래도 마음이 놓이지 않는다."
 
 #. [side]: type=Orcish Warlord, id=Rod-Ishnak
 #. [side]: type=Orcish Warlord, id=Vok-Hroog
@@ -2431,7 +2451,7 @@ msgstr "그래, 그래."
 msgid ""
 "We have crossed into the north. The dwarven kingdom of Knalga lies straight "
 "ahead."
-msgstr "우리는 북부로 들어왔다. 드워프 왕국 크날가가 바로 앞에 있다."
+msgstr "우리는 북부로 들어왔다. 드워프 왕국 크날가(Knalga)가 바로 앞에 있다."
 
 #. [message]: speaker=Shynal
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/14_Entering_the_Northlands.cfg:210
@@ -2553,7 +2573,7 @@ msgstr "글쎄, 진실을 알아낼 간단한 방법이 있지."
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/15_Mountain_Pass.cfg:253
 msgid "I wonder... if it could carry... someone light. Vendraxis perhaps."
-msgstr "흠... 가벼운 사람을 태울 수 있을지도 모르겠군... 벤드락시스라면 가능할까."
+msgstr "흠... 가벼운 사람을 태울 수 있을지도 모르겠군... 벤드락시스(Vendraxis)라면 가능할까."
 
 #. [message]: speaker=Vendraxis
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/15_Mountain_Pass.cfg:257
@@ -2652,7 +2672,7 @@ msgstr "린코난(Rinconan)"
 #. [message]: speaker=Ginmera
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/16_The_Mage.cfg:274
 msgid "Rinconan and I will stay here to guard you."
-msgstr "린코난과 제가 여기 남아 당신을 지키겠습니다."
+msgstr "린코난(Rinconan)과 제가 여기 남아 당신을 지키겠습니다."
 
 #. [message]: speaker=Crelanu
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/16_The_Mage.cfg:278
@@ -2669,7 +2689,7 @@ msgstr "유닛을 성수병으로 이동시키면 성수병이 사라집니다. 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/16_The_Mage.cfg:336
 msgid "Crelanu! (<i>Cough, cough</i>) We have come... for your book."
-msgstr "크렐라누! (<i>콜록, 콜록</i>) 당신의 책을 가지러... 왔소."
+msgstr "크렐라누(Crelanu)! (<i>콜록, 콜록</i>) 당신의 책을 가지러... 왔소."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/16_The_Mage.cfg:340
@@ -2742,7 +2762,7 @@ msgstr "어리석은 건 당신이군. 당신은 우리에게 필요한 모든 �
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/16_The_Mage.cfg:418
 msgid "I don’t understand. What did Crelanu tell us?"
-msgstr "이해가 안 되는군. 크렐라누가 우리에게 무슨 말을 했지?"
+msgstr "이해가 안 되는군. 크렐라누(Crelanu)가 우리에게 무슨 말을 했지?"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/16_The_Mage.cfg:422
@@ -2787,7 +2807,7 @@ msgstr "아르드린-나, 나는 죽게 될거야.. (<i>콜록, 콜록</i>)나�
 msgid ""
 "Nor should you! You must embrace it. Crelanu said as much. He also said your "
 "life force must depart, but he didn’t say it could not come back to you!"
-msgstr "당신도 그래서는 안 돼요! 죽음을 받아들여야 합니다. 크렐라누도 그렇게 말했어요. 당신의 생명력이 떠나야 한다고 했지만, 다시 돌아올 수 없다고는 하지 않았잖아요!"
+msgstr "당신도 그래서는 안 돼요! 죽음을 받아들여야 합니다. 크렐라누(Crelanu)도 그렇게 말했어요. 당신의 생명력이 떠나야 한다고 했지만, 다시 돌아올 수 없다고는 하지 않았잖아요!"
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/17_Mortality.cfg:146
@@ -2830,7 +2850,7 @@ msgid ""
 "Crelanu said he wouldn’t do it. That implies that he <i>could</i>, so he "
 "also believed that it would work. And like you said, he should know. For "
 "now, you can rest. We’ll have an altar built soon."
-msgstr "크렐라누는 자신이 그렇게 하지 않겠다고 했어요. 그 말은 <i>할 수는</i> 있었다는 뜻이니, 그 방법이 통할 거라고도 믿었다는 뜻이에요. 당신이 말했듯이, 그는 알고 있었을 거예요. 지금은 쉬세요. 곧 제단을 세울게요."
+msgstr "크렐라누(Crelanu)는 자신이 그렇게 하지 않겠다고 했어요. 그 말은 <i>할 수는</i> 있었다는 뜻이니, 그 방법이 통할 거라고도 믿었다는 뜻이에요. 당신이 말했듯이, 그는 알고 있었을 거예요. 지금은 쉬세요. 곧 제단을 세울게요."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/17_Mortality.cfg:302
@@ -2933,7 +2953,7 @@ msgstr "이제 어둠의 마법사를 리치로 승급시킬 수 있습니다! �
 msgid ""
 "We have conquered death! Let us bring the news back to Wesnoth! Let all in "
 "this world know that nobody ever need die again."
-msgstr "우리는 죽음을 정복했습니다! 이 소식을 웨스노스로 가져갑시다! 이 세상 모든 이에게 이제 아무도 다시는 죽을 필요가 없다는 것을 알립시다."
+msgstr "우리는 죽음을 정복했습니다! 이 소식을 웨스노스(Wesnoth)로 가져갑시다! 이 세상 모든 이에게 이제 아무도 다시는 죽을 필요가 없다는 것을 알립시다."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/18_Abandoned_Outpost.cfg:432
@@ -2941,7 +2961,7 @@ msgid ""
 "I was planning to go that direction myself, so I have no objection. But, let "
 "us not go over those wretched mountain passes again. These tunnels should "
 "connect to the realm of Knalga and take us there directly."
-msgstr "나도 그 방향으로 갈 생각이었으니 반대하지 않겠다. 하지만 그 지긋지긋한 산길을 다시 넘지는 말자. 이 터널은 크날가의 영지로 이어져서 우리를 곧장 데려다줄 것이다."
+msgstr "나도 그 방향으로 갈 생각이었으니 반대하지 않겠다. 하지만 그 지긋지긋한 산길을 다시 넘지는 말자. 이 터널은 크날가(Knalga)의 영지로 이어져서 우리를 곧장 데려다줄 것이다."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/18_Abandoned_Outpost.cfg:436
@@ -3006,7 +3026,7 @@ msgid ""
 "the distant future, my new friends and Ras-Tabahn’s population will probably "
 "clash, but that will be a worry for another time, and for now, we each "
 "continue to regard the other as an ally."
-msgstr "라스타반은 나를 그의 노력에 동참하도록 설득하려 했지만, 나는 그의 계획에 대해 심각한 의구심을 가지고 있다. 저는 그가 도시 경비대를 물리칠 수 있을지 확신할 수 없고, 주민을 노예로 삼는 것이 오래된 서부인 대장들이 악명을 떨친 이유중 하나라고 생각한다. 저는 보다 자비로운 접근 방식이 우리의 유산을 보장할 가능성이 더 낫다고 생각한다. 우리의 성공을 알리고 시민들이 자발적으로 우리와 합류하도록 초대하는것이 좋을 것이다. 나는 웨스노스로 남쪽으로 여행을 떠나 댄 통크와 웰딘을 방문할 것입니다. 먼 미래의 어느 시점에서 내 새로운 친구들과 라스타반의 세력이 충돌할 가능성이 높지만, 그것은 나중에 걱정할 일이고, 지금은 서로를 동맹으로 여기고 있다."
+msgstr "라스타반은 나를 그의 노력에 동참하도록 설득하려 했지만, 나는 그의 계획에 대해 심각한 의구심을 가지고 있다. 저는 그가 도시 경비대를 물리칠 수 있을지 확신할 수 없고, 주민을 노예로 삼는 것이 오래된 서부인(Wesfolk) 대장들이 악명을 떨친 이유중 하나라고 생각한다. 저는 보다 자비로운 접근 방식이 우리의 유산을 보장할 가능성이 더 낫다고 생각한다. 우리의 성공을 알리고 시민들이 자발적으로 우리와 합류하도록 초대하는것이 좋을 것이다. 나는 웨스노스(Wesnoth)로 남쪽으로 여행을 떠나 댄 통크와 웰딘(Weldyn)을 방문할 것입니다. 먼 미래의 어느 시점에서 내 새로운 친구들과 라스타반의 세력이 충돌할 가능성이 높지만, 그것은 나중에 걱정할 일이고, 지금은 서로를 동맹으로 여기고 있다."
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/19_Lava_and_Stone.cfg:32
@@ -3150,7 +3170,7 @@ msgstr "아이곤두르(Aigondur)"
 msgid ""
 "Human invaders be comin’ through the Hall o’ Heroes! I’m closin’ th’ Troll "
 "Gate!"
-msgstr "인간 침입자들이 영웅의 전당을 통해 오고 있다! 트롤 관문을 닫아야 해!"
+msgstr "인간 침입자들이 영웅의 전당을 통해 오고 있다! 트롤(Troll) 관문을 닫아야 해!"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/20_North_Knalga.cfg:769
@@ -3192,7 +3212,10 @@ msgid ""
 "From the northern part of the Kingdom of Knalga, the tunnel split into many "
 "passageways. Being able to feel the life force of the dwarves allowed us to "
 "take mostly unoccupied tunnels, which we did."
-msgstr "웨스노스력 23년 6월 30일\n\n크날가 왕국 북부에서 터널은 여러 갈래로 나뉘었다. 우리는 드워프의 생명력을 느낄 수 있었기에, 대부분 사람이 다니지 않는 터널을 골라 이동했다."
+msgstr ""
+"웨스노스력 23년 6월 30일\n"
+"\n"
+"크날가(Knalga) 왕국 북부에서 터널은 여러 갈래로 나뉘었다. 우리는 드워프의 생명력을 느낄 수 있었기에, 대부분 사람이 다니지 않는 터널을 골라 이동했다."
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:28
@@ -3205,7 +3228,10 @@ msgid ""
 "and Weldyn to spread our news, and Ras-Tabahn was to head toward Elensefar "
 "to carry out his plan of carving out a special place for us in the world. "
 "(And becoming some sort of king as well I suppose.)"
-msgstr "웨스노스력 23년 7월 3일\n\n우리는 마침내 산을 빠져나왔다. 오늘 아침 늦게 아베즈 여울을 건넌 뒤, 남동쪽의 타스 마을을 향해 하루 종일 걸었다. 우리는 그곳에서 헤어질 계획이었다. 나는 남쪽의 단톤크와 웰딘으로 가서 우리의 소식을 전하고, 라스-타반은 엘렌세파르로 향해 세상에 우리만의 특별한 자리를 마련하려는 계획을 실행할 예정이었다. (아마 왕 같은 존재가 되려는 것 같기도 하다.)"
+msgstr ""
+"웨스노스력 23년 7월 3일\n"
+"\n"
+"우리는 마침내 산을 빠져나왔다. 오늘 아침 늦게 아베즈(Abez) 여울을 건넌 뒤, 남동쪽의 타스 마을을 향해 하루 종일 걸었다. 우리는 그곳에서 헤어질 계획이었다. 나는 남쪽의 단톤크와 웰딘(Weldyn)으로 가서 우리의 소식을 전하고, 라스-타반은 엘렌세파르(Elensefar)로 향해 세상에 우리만의 특별한 자리를 마련하려는 계획을 실행할 예정이었다. (아마 왕 같은 존재가 되려는 것 같기도 하다.)"
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:37
@@ -3290,7 +3316,7 @@ msgstr "도착했어, 탁스트리몬. 우리가 네 곁에서 싸울게. 우리
 #. [message]: speaker=Taxtrimon
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:579
 msgid "Well met Fizztsars. Now these creatures will certainly fall."
-msgstr "잘 왔네, 피츠차르스. 이제 이 생명체들은 반드시 쓰러질 걸세."
+msgstr "잘 왔네, 피츠차르스(Fizztsars). 이제 이 생명체들은 반드시 쓰러질 걸세."
 
 #. [message]: speaker=Fizztsars
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:588
@@ -3315,7 +3341,7 @@ msgstr "봐! 드워프들이 우리 앞을 빙 둘러쌌어."
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:638
 msgid "That’s why getting through Knalga was so easy."
-msgstr "그래서 크날가를 통과하는 일이 그렇게 쉬웠군."
+msgstr "그래서 크날가(Knalga)를 통과하는 일이 그렇게 쉬웠군."
 
 #. [unit]: type=Great Mage, gender=female, id=Carmyna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:696
@@ -3352,7 +3378,7 @@ msgstr "그웬디르(Gwendir)"
 msgid ""
 "This is the place Crelanu’s gryphon told us to come, and yon party has an "
 "ill-favored look."
-msgstr "크렐라누의 그리폰이 우리에게 오라고 한 곳이 바로 여기고, 저 무리는 불길한 낌새를 풍기는군."
+msgstr "크렐라누(Crelanu)의 그리폰이 우리에게 오라고 한 곳이 바로 여기고, 저 무리는 불길한 낌새를 풍기는군."
 
 #. [message]: speaker=Gwendir
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:846
@@ -3362,14 +3388,14 @@ msgstr "그래, 저들이 우리의 목표인 것 같군."
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:850
 msgid "Crelanu! Still he haunts us. Remind me again why we didn’t kill him."
-msgstr "크렐라누! 아직도 우리를 괴롭히는군. 우리가 왜 그를 죽이지 않았는지 다시 말해 보게."
+msgstr "크렐라누(Crelanu)! 아직도 우리를 괴롭히는군. 우리가 왜 그를 죽이지 않았는지 다시 말해 보게."
 
 #. [message]: speaker=Gwendir
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:854
 msgid ""
 "Ardonna of Tarrynth and Rassin Tabin, you stand convicted of necromancy, and "
 "are sentenced to death!"
-msgstr "타린스의 아르도나와 라신 타빈, 너희는 강령술 혐의가 유죄이며 사형을 선고받았다!"
+msgstr "타린스의 아르도나(Ardonna)와 라신 타빈, 너희는 강령술 혐의가 유죄이며 사형을 선고받았다!"
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:858
@@ -3458,7 +3484,7 @@ msgid ""
 "should survive long enough to make its way into the hands of someone more "
 "open-minded. Tath, in particular, is home to many mages. It only takes one "
 "who is willing to learn the secrets of the ancients."
-msgstr "라스-타반은 힘을 회복한 뒤 엘렌세파르로 계속 나아갈 것이다. 다른 이들 대부분도 그와 함께 간다. 그들의 성공을 빈다. 벤드락시스는 이제 우리의 변신을 재현하려면 무엇을 배워야 하는지 알고 있다. 그는 남은 세월을 연구와 수련에 쓰며 자기 종족의 태도를 바꾸려 할 것이다. 나는 이 전장에 내 일지를 눈에 잘 띄게 놓아 둘 것이다. 대부분은 일지를 파괴하려 할 만큼 두려워할 것 같지만, 일지를 보호하려고 여러 보호 주문을 걸어 두었다. 이렇게 하면 더 열린 생각을 가진 사람의 손에 들어갈 때까지 충분히 오래 남아 있을 것이다. 특히 타스에는 마법사가 많다. 고대인들의 비밀을 배우려는 사람은 한 명이면 충분하다."
+msgstr "라스-타반은 힘을 회복한 뒤 엘렌세파르(Elensefar)로 계속 나아갈 것이다. 다른 이들 대부분도 그와 함께 간다. 그들의 성공을 빈다. 벤드락시스(Vendraxis)는 이제 우리의 변신을 재현하려면 무엇을 배워야 하는지 알고 있다. 그는 남은 세월을 연구와 수련에 쓰며 자기 종족의 태도를 바꾸려 할 것이다. 나는 이 전장에 내 일지를 눈에 잘 띄게 놓아 둘 것이다. 대부분은 일지를 파괴하려 할 만큼 두려워할 것 같지만, 일지를 보호하려고 여러 보호 주문을 걸어 두었다. 이렇게 하면 더 열린 생각을 가진 사람의 손에 들어갈 때까지 충분히 오래 남아 있을 것이다. 특히 타스에는 마법사가 많다. 고대인들의 비밀을 배우려는 사람은 한 명이면 충분하다."
 
 #. [else]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/22_Epilogue.cfg:35
@@ -3471,7 +3497,7 @@ msgid ""
 "way into the hands of someone more open-minded. Tath, in particular, is home "
 "to many mages. It only takes one who is willing to learn the secrets of the "
 "ancients."
-msgstr "라스-타반은 힘을 회복한 뒤 엘렌세파르로 계속 나아갈 것이다. 다른 이들 대부분도 그와 함께 간다. 그들의 성공을 빈다. 나는 이 전장에 내 일지를 눈에 잘 띄게 놓아 둘 것이다. 대부분은 일지를 파괴하려 할 만큼 두려워할 것 같지만, 일지를 보호하려고 여러 보호 주문을 걸어 두었다. 이렇게 하면 더 열린 생각을 가진 사람의 손에 들어갈 때까지 충분히 오래 남아 있을 것이다. 특히 타스에는 마법사가 많다. 고대인들의 비밀을 배우려는 사람은 한 명이면 충분하다."
+msgstr "라스-타반은 힘을 회복한 뒤 엘렌세파르(Elensefar)로 계속 나아갈 것이다. 다른 이들 대부분도 그와 함께 간다. 그들의 성공을 빈다. 나는 이 전장에 내 일지를 눈에 잘 띄게 놓아 둘 것이다. 대부분은 일지를 파괴하려 할 만큼 두려워할 것 같지만, 일지를 보호하려고 여러 보호 주문을 걸어 두었다. 이렇게 하면 더 열린 생각을 가진 사람의 손에 들어갈 때까지 충분히 오래 남아 있을 것이다. 특히 타스에는 마법사가 많다. 고대인들의 비밀을 배우려는 사람은 한 명이면 충분하다."
 
 #. [unit_type]: id=Bone Bird, race=undead, description=
 #: data/campaigns/Secrets_of_the_Ancients/units/Bone_Bird.cfg:4
@@ -3519,7 +3545,7 @@ msgid ""
 "from a body. The power available to a lich like this is awesome to behold. "
 "Anyone who encounters an Ancient Lich likely has far worse things to worry "
 "about than death!"
-msgstr "숙련된 리치는 영혼계의 힘을 쉽게 끌어내 파괴적인 빙결 번개를 던지거나, 육체에서 생명력 그 자체를 빨아들일 수 있습니다. 이런 리치가 사용할 수 있는 힘은 보기만 해도 두려울 정도입니다. 고대 리치를 만난 사람이라면 죽음보다 훨씬 끔찍한 일을 걱정하게 될 것입니다!"
+msgstr "숙련된 리치(Lich)는 영혼계의 힘을 쉽게 끌어내 파괴적인 빙결 번개를 던지거나, 육체에서 생명력 그 자체를 빨아들일 수 있습니다. 이런 리치(Lich)가 사용할 수 있는 힘은 보기만 해도 두려울 정도입니다. 고대 리치(Lich)를 만난 사람이라면 죽음보다 훨씬 끔찍한 일을 걱정하게 될 것입니다!"
 
 #. [unit_type]: id=Orcish Shaman, race=orc
 #: data/campaigns/Secrets_of_the_Ancients/units/Orcish_Shaman.cfg:4

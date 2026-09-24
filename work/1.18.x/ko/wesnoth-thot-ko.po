@@ -60,7 +60,9 @@ msgid ""
 "Thursagan. The perils of their journey through the wild Northern Lands, "
 "though great, pale beside the evil they will face at its end.\n"
 "\n"
-msgstr "북부 동맹의 초창기, 크날가에서 온 원정대가 칼 카르타에 있는 동족을 찾아 전설적인 투르사간의 망치의 운명을 알아내려 합니다. 거친 북부 지역을 가로지르는 여정의 위험은 크지만, 그 끝에서 마주할 악에 비하면 아무것도 아닙니다.\n\n"
+msgstr ""
+"북부 동맹의 초창기, 크날가(Knalga)에서 온 원정대가 칼 카르타에 있는 동족을 찾아 전설적인 투르사간(Thursagan)의 망치의 운명을 알아내려 합니다. 거친 북부 지역을 가로지르는 여정의 위험은 크지만, 그 끝에서 마주할 악에 비하면 아무것도 아닙니다.\n"
+"\n"
 
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:26
@@ -106,7 +108,7 @@ msgid ""
 "occupation. But soon enough they prospered once again. The dwarves began "
 "mining their past for inspiration to rebuild Knalga even greater than "
 "before, and began also reaching out for contact with their scattered kinfolk."
-msgstr "북부 동맹이 결성된 후 처음 몇 년 동안 크날가의 난쟁이들과 난쟁이의 문 인간들은 오랜 오크의 점령으로 파괴된 지역을 재건하는 데 전념했다. 그리하여 얼마 지나지 않아 그들은 다시 한 번 번영을 누렸다. 난쟁이들은 크날가를 이전보다 더 크게 재건하기 위한 영감을 얻기 위해 자신들의 과거를 조사하기 시작했고, 흩어져 있는 친족들과 접촉하기 위해 손을 뻗기 시작했다."
+msgstr "북부 동맹이 결성된 후 처음 몇 년 동안 크날가(Knalga)의 난쟁이들과 난쟁이의 문 인간들은 오랜 오크의 점령으로 파괴된 지역을 재건하는 데 전념했다. 그리하여 얼마 지나지 않아 그들은 다시 한 번 번영을 누렸다. 난쟁이들은 크날가(Knalga)를 이전보다 더 크게 재건하기 위한 영감을 얻기 위해 자신들의 과거를 조사하기 시작했고, 흩어져 있는 친족들과 접촉하기 위해 손을 뻗기 시작했다."
 
 #. [part]
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:30
@@ -115,7 +117,7 @@ msgid ""
 "ended. The dwarves kept strong guards on the approaches to Knalga. In the "
 "year 550 after the founding of Wesnoth, the captain of the East Gate "
 "received a warning that a small band of rogue orcs had been sighted."
-msgstr "하지만 적대적인 오크들, 야만적인 인간들, 언데드 잔당들의 위협은 아직 끝나지 않았다. 난쟁이들은 크날가의 접근에 대한 경비병들을 강화했다. 웨스노스가 건국된 지 550년, 크날가의 동쪽 관문 대장은 소규모 오크 무리가 목격되었다는 보고를 받았다."
+msgstr "하지만 적대적인 오크들, 야만적인 인간들, 언데드 잔당들의 위협은 아직 끝나지 않았다. 난쟁이들은 크날가(Knalga)의 접근에 대한 경비병들을 강화했다. 웨스노스(Wesnoth)가 건국된 지 550년, 크날가(Knalga)의 동쪽 관문 대장은 소규모 오크 무리가 목격되었다는 보고를 받았다."
 
 #. [side]
 #. [side]: type=Dwarvish Lord, id=Hamel
@@ -218,7 +220,7 @@ msgid ""
 "Hail, kinsmen of Knalga. I have been tracking that orc for several days. He "
 "be part of a band of raiders that attacked us a few weeks ago and stole many "
 "arms from our forges."
-msgstr "반갑소, 크날가의 친척들이여, 나는 며칠 동안 오크를 추적해왔소. 놈은 몇 주 전에 우리를 공격하고 우리의 대장간에서 많은 무기를 훔쳤던 노략꾼 무리의 일원이오."
+msgstr "반갑소, 크날가(Knalga)의 친척들이여, 나는 며칠 동안 오크를 추적해왔소. 놈은 몇 주 전에 우리를 공격하고 우리의 대장간에서 많은 무기를 훔쳤던 노략꾼 무리의 일원이오."
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:168
@@ -233,7 +235,7 @@ msgstr "기다리세요... 친척이여. 당신은 누구고, 어디서 온 것�
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:178
 msgid "I be Movrur, of the ancient stronghold of Kal Kartha."
-msgstr "나는 고대 성채 칼 카르타의 모브루르라고 합니다."
+msgstr "나는 고대 성채 칼 카르타의 모브루르(Movrur)라고 합니다."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:183
@@ -256,7 +258,7 @@ msgstr "그렇습니다, 우리의 본거지는 한 때 오크들에게 침략�
 msgid ""
 "In that case, we had best consult Lord Hamel. We may yet be able to send you "
 "some aid against these orcish marauders."
-msgstr "그렇다면, 하멜 경과 상의하는 것이 가장 좋습니다. 우리는 이런 오크 약탈자들에 맞서 당신들에게 아직은 도움을 보낼 수 있을 것입니다."
+msgstr "그렇다면, 하멜(Hamel) 경과 상의하는 것이 가장 좋습니다. 우리는 이런 오크 약탈자들에 맞서 당신들에게 아직은 도움을 보낼 수 있을 것입니다."
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:198
@@ -275,7 +277,7 @@ msgid ""
 "audience hall of Hamel, lord of Knalga and Lord Companion of the Northern "
 "Alliance. Beside the dais stood a stranger in the robes of the Order of "
 "Loremasters..."
-msgstr "오크를 상대로 승리한 뒤, 아이글론두르는 크날가의 영주이자 북부 동맹의 동반 영주인 하멜의 알현실로 불려 갔습니다. 단상 옆에는 지식의 대가 교단의 로브를 입은 낯선 이가 서 있었습니다..."
+msgstr "오크를 상대로 승리한 뒤, 아이글론두르(Aiglondur)는 크날가(Knalga)의 영주이자 북부 동맹의 동반 영주인 하멜(Hamel)의 알현실로 불려 갔습니다. 단상 옆에는 지식의 대가 교단의 로브를 입은 낯선 이가 서 있었습니다..."
 
 #. [side]: type=Dwarvish Lord, id=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:53
@@ -287,7 +289,7 @@ msgstr "하멜(Hamel)"
 msgid ""
 "Aiglondur, the news ye bring is disturbing, for all it seems a small thing. "
 "I make known to ye Angarthing, loremaster in training."
-msgstr "아이글론두르, 그대가 가져온 소식은 충격적이네. 왜냐면 그것은 사소한 것처럼 보이기 때문이네. 그대에게 전승의 대가 견습생인 앙가르팅을 소개하지."
+msgstr "아이글론두르(Aiglondur), 그대가 가져온 소식은 충격적이네. 왜냐면 그것은 사소한 것처럼 보이기 때문이네. 그대에게 전승의 대가 견습생인 앙가르팅(Angarthing)을 소개하지."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:103
@@ -325,7 +327,7 @@ msgid ""
 "wield it, and our oldest histories hint that this very hammer was used to "
 "forge the dwarves themselves in the heart of the deepest forges beneath Kal "
 "Kartha."
-msgstr "그렇습니다. 우리의 가장 위대한 룬 대장장이가 화염의 홀을 만드는 데 사용했던 바로 그 도구입니다. 그러나 그것은 투르사간보다 훨씬 오래되고, 태고적부터 존재했습니다. 그는 그것을 휘두르는 마지막 사람이었고, 우리의 가장 오래된 역사적 실마리에는 바로 이 망치가 칼 카르타 아래 가장 깊은 대장간 중심부에서 난쟁이들을 제련하는 데 사용되었음을 암시합니다."
+msgstr "그렇습니다. 우리의 가장 위대한 룬 대장장이가 화염의 홀을 만드는 데 사용했던 바로 그 도구입니다. 그러나 그것은 투르사간(Thursagan)보다 훨씬 오래되고, 태고적부터 존재했습니다. 그는 그것을 휘두르는 마지막 사람이었고, 우리의 가장 오래된 역사적 실마리에는 바로 이 망치가 칼 카르타 아래 가장 깊은 대장간 중심부에서 난쟁이들을 제련하는 데 사용되었음을 암시합니다."
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:128
@@ -349,7 +351,7 @@ msgid ""
 "a mark on them, all struck down at the same moment. Their craft secrets died "
 "with them. That is why there are nae runesmiths among the dwarves today, and "
 "sorely we miss them."
-msgstr "투르사간이 망치를 손에 쥔 채 불길에 타 죽자, 그 당시 살아있던 모든 룬 술사들과 신비술사들 — 그 공예에 맹세하고 망치의 힘에 자신들을 묶은 모든 이들 — 모두 흔적도 없이 사라졌네. 그들의 기술 비밀은 그들과 함께 사라졌지. 그것이 오늘날 우리들 사이에 룬 대장장이들이 없는 이유이며, 우리가 그들을 매우 그리워하는 이유라네."
+msgstr "투르사간(Thursagan)이 망치를 손에 쥔 채 불길에 타 죽자, 그 당시 살아있던 모든 룬 술사들과 신비술사들 — 그 공예에 맹세하고 망치의 힘에 자신들을 묶은 모든 이들 — 모두 흔적도 없이 사라졌네. 그들의 기술 비밀은 그들과 함께 사라졌지. 그것이 오늘날 우리들 사이에 룬 대장장이들이 없는 이유이며, 우리가 그들을 매우 그리워하는 이유라네."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:143
@@ -357,7 +359,7 @@ msgid ""
 "That is what is said, my lord Hamel, and it is true. Except this; the Order "
 "of Loremasters has given me leave to reveal that the craft secrets were not, "
 "actually, quite as lost as we believed."
-msgstr "바로 그렇습니다, 하멜 영주님. 다만 한 가지 예외가 있습니다. 전승의 대가 집단에서는 기술의 비밀이 실제로 우리가 믿었던 것만큼 완전히 사라지지 않았다는 사실을 밝힐 수 있도록 기회를 주었습니다."
+msgstr "바로 그렇습니다, 하멜(Hamel) 영주님. 다만 한 가지 예외가 있습니다. 전승의 대가 집단에서는 기술의 비밀이 실제로 우리가 믿었던 것만큼 완전히 사라지지 않았다는 사실을 밝힐 수 있도록 기회를 주었습니다."
 
 #. [message]: speaker=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:148
@@ -370,7 +372,7 @@ msgid ""
 "Aye. Ye’ll recall that in repairing the western galleries we cleared a small "
 "cave-in hard by where Thursagan himself once had a workshop here, before he "
 "left to study in solitude in the further North."
-msgstr "그렇소. 투르사간 본인이 한때 작업장을 두었던 곳 근처의 작은 붕괴를 치웠던 일을 기억할 거요. 서쪽 회랑을 수리하면서 말이지. 그가 더 먼 북쪽으로 떠나 홀로 연구하기 전의 일이오."
+msgstr "그렇소. 투르사간(Thursagan) 본인이 한때 작업장을 두었던 곳 근처의 작은 붕괴를 치웠던 일을 기억할 거요. 서쪽 회랑을 수리하면서 말이지. 그가 더 먼 북쪽으로 떠나 홀로 연구하기 전의 일이오."
 
 #. [message]: speaker=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:158
@@ -385,7 +387,7 @@ msgid ""
 "it. It has taken us great effort to puzzle out his code. But it might be "
 "that, with the book and the Hammer to hand, we could train and initiate "
 "runesmiths once more."
-msgstr "책이죠. 투르사간의 책말입니다, 그는 혼자서 룬 공예를 통해 천연 바위를 파서 은밀하게 잠긴 칸막이를 만들었을 것입니다. 지진이 그것을 뚫었습니다. 우리는 그의 암호를 풀기 위해 큰 노력을 기울였습니다. 하지만 책과 망치를 손에 넣는다면, 우리는 다시 룬 대장장이들을 훈련시키고 시작할 수 있을지도 모릅니다."
+msgstr "책이죠. 투르사간(Thursagan)의 책말입니다, 그는 혼자서 룬 공예를 통해 천연 바위를 파서 은밀하게 잠긴 칸막이를 만들었을 것입니다. 지진이 그것을 뚫었습니다. 우리는 그의 암호를 풀기 위해 큰 노력을 기울였습니다. 하지만 책과 망치를 손에 넣는다면, 우리는 다시 룬 대장장이들을 훈련시키고 시작할 수 있을지도 모릅니다."
 
 #. [message]: speaker=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:168
@@ -431,7 +433,7 @@ msgstr "맞습니다, 영주님, 그것을 요청하려고 온 것입니다."
 #. [message]: speaker=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:198
 msgid "And you spoke my guess, Aiglondur. Are you nae kin of mine?"
-msgstr "정말 예상했던 대로였군, 아이글론두르. 그대는 우리 친척인가?"
+msgstr "정말 예상했던 대로였군, 아이글론두르(Aiglondur). 그대는 우리 친척인가?"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:203
@@ -443,21 +445,21 @@ msgstr "영주님의 종손자입니다."
 msgid ""
 "Ye’re young and not tested... but ye have the rank, and ye’ve shown the wits "
 "to use it well. Movrur? What think ye?"
-msgstr "그대는 젊고, 시험을 받지 않았네... 그러나 그대는 지위를 가지고 있고, 그 지위를 잘 활용할 지혜를 보여주었어. 모브루르? 어떻게 생각하나?"
+msgstr "그대는 젊고, 시험을 받지 않았네... 그러나 그대는 지위를 가지고 있고, 그 지위를 잘 활용할 지혜를 보여주었어. 모브루르(Movrur)? 어떻게 생각하나?"
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:213
 msgid ""
 "As the orcs recently slew one of our invaluable loremasters, we would "
 "welcome the wisdom of one of our kin from Knalga."
-msgstr "최근에 오크들이 우리의 소중한 전승의 대가들중 한명을 죽였기 때문에, 우리는 크날가에서 친척의 현자로 와준다면 매우 고마울것입니다."
+msgstr "최근에 오크들이 우리의 소중한 전승의 대가들중 한명을 죽였기 때문에, 우리는 크날가(Knalga)에서 친척의 현자로 와준다면 매우 고마울것입니다."
 
 #. [message]: speaker=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:218
 msgid ""
 "Then I have decided. Aiglondur, you and Angarthing will fare to Kal Kartha "
 "together, as soon as may be, with the best men of your guard."
-msgstr "그럼 결정했네. 아이글론두르, 그대와 앙가르팅은 가능한 한 빨리, 그대의 경비병들 중에서 우수한 자들과 함께 칼 카르타로 향하라."
+msgstr "그럼 결정했네. 아이글론두르(Aiglondur), 그대와 앙가르팅(Angarthing)은 가능한 한 빨리, 그대의 경비병들 중에서 우수한 자들과 함께 칼 카르타로 향하라."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:235
@@ -490,7 +492,7 @@ msgid ""
 "the east through the settled lands of the Northern Alliance. Soon enough "
 "they came to the wilder march country, where raids by large bands of hostile "
 "orcs and men were all too common."
-msgstr "앙가르팅, 아이글론두르, 모브루르, 그리고 난쟁이의 부대는 북부 동맹의 정착지를 거쳐 동쪽으로 빠르게 이동했다. 얼마 지나지 않아 그들은 아직 인정되지 않은 국경 지대에 도착했는데, 그곳은 적대적인 오크들과 사람들로 이루어진 대규모 무리들의 습격이 너무나 흔한 곳이었다."
+msgstr "앙가르팅(Angarthing), 아이글론두르(Aiglondur), 모브루르(Movrur), 그리고 난쟁이의 부대는 북부 동맹의 정착지를 거쳐 동쪽으로 빠르게 이동했다. 얼마 지나지 않아 그들은 아직 인정되지 않은 국경 지대에 도착했는데, 그곳은 적대적인 오크들과 사람들로 이루어진 대규모 무리들의 습격이 너무나 흔한 곳이었다."
 
 #. [side]: type=Orcish Warrior, id=Marth-Tak
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:57
@@ -546,7 +548,7 @@ msgstr "마르쓰-탁의 죽음"
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:167
 msgid "Movrur, I had meant to ask you this before, but why do you wear a mask?"
-msgstr "모브루르, 예전에 물어보려고 했는데, 왜 마스크를 쓰고 있는 거죠?"
+msgstr "모브루르(Movrur), 예전에 물어보려고 했는데, 왜 마스크를 쓰고 있는 거죠?"
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:173
@@ -563,7 +565,7 @@ msgid ""
 "steel. Even the forgemasters of Knalga don the mask, though perhaps not as "
 "continuously as our friend Movrur does. But we have no time to discuss this "
 "further right now; I see trouble brewing down the road!"
-msgstr "실용적인 면에서 말하면, 날아오는 불꽃이나 쇳물로부터 얼굴을 지키기도 합니다. 크날가의 대장간 장인들조차 가면을 쓰고 있지만, 모브루르처럼 일상적으로 사용하지는 않을겁니다. 하지만 이 이야기는 나중에 합시다. 길 끝에서 문제가 발생하고 있는 것 같습니다!"
+msgstr "실용적인 면에서 말하면, 날아오는 불꽃이나 쇳물로부터 얼굴을 지키기도 합니다. 크날가(Knalga)의 대장간 장인들조차 가면을 쓰고 있지만, 모브루르(Movrur)처럼 일상적으로 사용하지는 않을겁니다. 하지만 이 이야기는 나중에 합시다. 길 끝에서 문제가 발생하고 있는 것 같습니다!"
 
 #. [message]: speaker=Marth-Tak
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:183
@@ -651,7 +653,7 @@ msgstr "말도 안 되는 소리입니다. 아마도 이 오크들은 난쟁이�
 msgid ""
 "And what of the orcs that Aiglondur fended off at the East Gate of Knalga? "
 "Their leader’s cloak-pin bore the emblem of Kal Kartha—"
-msgstr "그렇다면, 아이글론두르가 크날가의 동쪽 관문에서 막아낸 오크들은 어떻습니까? 무리의 대장은 칼 카르타의 문장이 새겨져있는 망토 걸쇠를—"
+msgstr "그렇다면, 아이글론두르(Aiglondur)가 크날가(Knalga)의 동쪽 관문에서 막아낸 오크들은 어떻습니까? 무리의 대장은 칼 카르타의 문장이 새겨져있는 망토 걸쇠를—"
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:273
@@ -699,7 +701,7 @@ msgstr "카아라(Kaara)"
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:102
 msgid "Move Aiglondur to the signpost at the east end of the pass"
-msgstr "아이글론두르를 고갯길 동쪽 끝에 있는 표지판까지 이동시켜라"
+msgstr "아이글론두르(Aiglondur)를 고갯길 동쪽 끝에 있는 표지판까지 이동시켜라"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:142
@@ -750,7 +752,7 @@ msgstr "칼 카르타에서 우리를 공격하도록 몰아넣은 놈과 같은
 msgid ""
 "We are coming to Kal Kartha to study the Hammer of Thursagan, not mindlessly "
 "slay orcs."
-msgstr "우리는 칼 카르타로 가서 투르사간의 망치를 연구하러 가는 것이지, 오크들을 무모하게 학살하러 가는 것은 아닙니다."
+msgstr "우리는 칼 카르타로 가서 투르사간(Thursagan)의 망치를 연구하러 가는 것이지, 오크들을 무모하게 학살하러 가는 것은 아닙니다."
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:282
@@ -870,7 +872,7 @@ msgstr "도대체 여기서 무슨 일이 일어나고 있는 걸까요?"
 msgid ""
 "Fellow dwarves, hail! Kinsman Movrur, are ye back so soon from your journey "
 "to Knalga?"
-msgstr "난쟁이 동료여, 반갑습니다! 친척인 모브루르여, 크날가의 여행에서 이리 빨리 돌아온 겁니까?"
+msgstr "난쟁이 동료여, 반갑습니다! 친척인 모브루르(Movrur)여, 크날가(Knalga)의 여행에서 이리 빨리 돌아온 겁니까?"
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:297
@@ -944,7 +946,7 @@ msgstr "<i>앙가르팅, 무슨 일 있나요?</i>"
 msgid ""
 "<i>Something is suspicious here. Stay alert and keep an eye on what those "
 "masked dwarves do. Movrur, too.</i>"
-msgstr "<i>여기 뭔가 수상합니다. 정신 바짝 차리고 가면 쓴 난쟁이들이 뭘 하는지 지켜보세요. 모브루르도 말입니다.</i>"
+msgstr "<i>여기 뭔가 수상합니다. 정신 바짝 차리고 가면 쓴 난쟁이들이 뭘 하는지 지켜보세요. 모브루르(Movrur)도 말입니다.</i>"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:358
@@ -998,14 +1000,14 @@ msgstr "그것 좀 봅시다."
 msgid ""
 "These look as if they are of dwarven make! Movrur, what is the meaning of "
 "this?"
-msgstr "이것들은 마치 난쟁이의 제품인 것처럼 보입니다! 모브루르, 이게 도대체 무슨 일입니까?"
+msgstr "이것들은 마치 난쟁이의 제품인 것처럼 보입니다! 모브루르(Movrur), 이게 도대체 무슨 일입니까?"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:649
 msgid ""
 "In his haste to escape, it seems like the orc dropped some coins. It looks "
 "as if they are of dwarven make! Movrur, what is the meaning of this?"
-msgstr "저 오크는 황급히 도망친 것 같습니다만, 동전을 어느 정도 떨어뜨린것 같군요. 이 동전은 난쟁이 제품 같습니다! 모브루르, 이게 도대체 무슨 일입니까?"
+msgstr "저 오크는 황급히 도망친 것 같습니다만, 동전을 어느 정도 떨어뜨린것 같군요. 이 동전은 난쟁이 제품 같습니다! 모브루르(Movrur), 이게 도대체 무슨 일입니까?"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:656
@@ -1017,7 +1019,7 @@ msgstr "저 오크는 황급히 도망친 것 같습니다만, 동전을 어느 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:661
 msgid "What, are you sure? Movrur, what is the meaning of this?"
-msgstr "뭐죠, 정말인가요? 모브루르, 이게 도대체 무슨 일입니까?"
+msgstr "뭐죠, 정말인가요? 모브루르(Movrur), 이게 도대체 무슨 일입니까?"
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:668
@@ -1066,7 +1068,7 @@ msgstr "<i>당신의 우려에 대한 답변이 아니었습니다.</i> 그래�
 msgid ""
 "<i>Aye, we shall have to watch him more closely. Something is strange about "
 "him and the rest of these masked ones.</i> Lead the way, Movrur."
-msgstr "<i>그래요, 그를 더욱 주의 깊게 살펴봐야 할 것 같습니다. 그와 나머지 가면 쓴 이들은 뭔가 이상합니다.</i> 앞장서세요, 모브루르."
+msgstr "<i>그래요, 그를 더욱 주의 깊게 살펴봐야 할 것 같습니다. 그와 나머지 가면 쓴 이들은 뭔가 이상합니다.</i> 앞장서세요, 모브루르(Movrur)."
 
 #. [scenario]: id=06_Forbidden_Forest
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Forbidden_Forest.cfg:5
@@ -1100,14 +1102,14 @@ msgstr "부루마르디르-아텔로란드(Burumardir-Athelorand)"
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Forbidden_Forest.cfg:132
 msgid "Move both Aiglondur and Angarthing to the eastern signpost"
-msgstr "아이글론두르와 앙가르팅 둘다 동쪽 표지판으로 아동시켜라"
+msgstr "아이글론두르(Aiglondur)와 앙가르팅(Angarthing) 둘다 동쪽 표지판으로 아동시켜라"
 
 #. [note]
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Forbidden_Forest.cfg:151
 msgid ""
 "To win, either move Aiglondur to the signpost and Angarthing next to him, or "
 "move Angarthing to the signpost and Aiglondur next to him."
-msgstr "승리하려면, 아이글론두르를 표지판으로 이동시키고 앙가르팅을 그옆으로 이동시키거나, 앙가르팅을 표지판으로 이동시키고 아이글론두르를 그 옆으로 이동시키면됩니다."
+msgstr "승리하려면, 아이글론두르(Aiglondur)를 표지판으로 이동시키고 앙가르팅(Angarthing)을 그옆으로 이동시키거나, 앙가르팅(Angarthing)을 표지판으로 이동시키고 아이글론두르(Aiglondur)를 그 옆으로 이동시키면됩니다."
 
 #. [unit]: type=Elvish Scout, id=Elurin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Forbidden_Forest.cfg:192
@@ -1250,7 +1252,7 @@ msgid ""
 "Well fought, and our thanks; we were sore pressed. You are our honored "
 "guests, and I will show you to the best quarters we have myself. Our lord, "
 "the runemaster Karrag, will want to have speech with you on the morrow."
-msgstr "잘 싸워주셔서 감사합니다. 우리는 심각한 곤경에 처해 있었습니다. 여러분은 우리의 영예로운 손님들이기에, 제가 가진 가장 좋은 숙소로 안내해 드리겠습니다. 우리의 영주이신 룬 술사 카르라그님께서는 내일 당신들과 이야기하고 싶어할 것입니다."
+msgstr "잘 싸워주셔서 감사합니다. 우리는 심각한 곤경에 처해 있었습니다. 여러분은 우리의 영예로운 손님들이기에, 제가 가진 가장 좋은 숙소로 안내해 드리겠습니다. 우리의 영주이신 룬 술사 카르라그(Karrag)님께서는 내일 당신들과 이야기하고 싶어할 것입니다."
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_The_Siege_of_Kal_Kartha.cfg:322
@@ -1272,7 +1274,7 @@ msgstr "<i>신경 쓰지 마. 나중에 너를 처리하겠어.</i>"
 msgid ""
 "A runemaster? There have been none such since Thursagan’s day. And for one "
 "to lead a holding was unheard-of; they tended towards the solitary life."
-msgstr "룬 술사? 투르사간 시대 이후로 그런 일은 없었습니다. 그리고 소유지를 이끄는 사람이 있다는 것은 전례가 없는 일이었습니다. 그들은 고독한 삶을 선호한다고 들었습니다."
+msgstr "룬 술사? 투르사간(Thursagan) 시대 이후로 그런 일은 없었습니다. 그리고 소유지를 이끄는 사람이 있다는 것은 전례가 없는 일이었습니다. 그들은 고독한 삶을 선호한다고 들었습니다."
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_The_Siege_of_Kal_Kartha.cfg:342
@@ -1281,7 +1283,7 @@ msgid ""
 "toiled for long years to recover the craft lore. He was elevated when our "
 "old lord fell in battle against the besieging orcs. Karrag himself was "
 "wounded near to death; none thought he would recover."
-msgstr "그래요? 음, 당신은 나보다 그런 것들을 더 잘 알겠군요, 전승의 대가여. 카르라그 경은 룬 공예 지식을 복구하기 위해 오랜 세월 동안 고생해온 분입니다. 우리의 옛 영주님이 오크들을 포위하는 전투에서 쓰러졌을때 그는 승격되었습니다. 카르라그 자신도 부상을 입어 거의 죽을 뻔 했지만, 아무도 그가 회복할 것이라고는 생각하지 못했습니다."
+msgstr "그래요? 음, 당신은 나보다 그런 것들을 더 잘 알겠군요, 전승의 대가여. 카르라그(Karrag) 경은 룬 공예 지식을 복구하기 위해 오랜 세월 동안 고생해온 분입니다. 우리의 옛 영주님이 오크들을 포위하는 전투에서 쓰러졌을때 그는 승격되었습니다. 카르라그(Karrag) 자신도 부상을 입어 거의 죽을 뻔 했지만, 아무도 그가 회복할 것이라고는 생각하지 못했습니다."
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_The_Siege_of_Kal_Kartha.cfg:347
@@ -1314,7 +1316,7 @@ msgstr "망치는 공예와 제작을 하는데 사용하는 도구이지, 무�
 msgid ""
 "Is it not? Lord Karrag has wielded it in battle to great effect, even broken "
 "as it is."
-msgstr "무기가 아니라고요? 카르라그 경은 싸움에서 효과적으로 그것을 사용했고, 비록 부서졌음에도 불구하고 말이죠."
+msgstr "무기가 아니라고요? 카르라그(Karrag) 경은 싸움에서 효과적으로 그것을 사용했고, 비록 부서졌음에도 불구하고 말이죠."
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_The_Siege_of_Kal_Kartha.cfg:372
@@ -1323,7 +1325,7 @@ msgid ""
 "witness. No fool would take a broken weapon into battle, much less a "
 "precious artifact like the Hammer. Karrag holds it as a symbol of his "
 "knowledge and mastery of lore, no more than that."
-msgstr "<i>말 좀 그만해, 이 멍청한 놈아.</i> 네가 본 것은 룬 공예의 힘일 것이다. 어떤 바보도 부서진 무기를 전투에 가져가지 않아, 더군다나, 망치와 같은 귀중한 유물은 더욱 말할 것도 없다고. 카르라그는 그것을 자신의 지식과 전승의 숙달의 상징으로 여길뿐, 그 이상도 이하도 아니다."
+msgstr "<i>말 좀 그만해, 이 멍청한 놈아.</i> 네가 본 것은 룬 공예의 힘일 것이다. 어떤 바보도 부서진 무기를 전투에 가져가지 않아, 더군다나, 망치와 같은 귀중한 유물은 더욱 말할 것도 없다고. 카르라그(Karrag)는 그것을 자신의 지식과 전승의 숙달의 상징으로 여길뿐, 그 이상도 이하도 아니다."
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_The_Siege_of_Kal_Kartha.cfg:377
@@ -1375,12 +1377,12 @@ msgstr "카르라그를 무찔러라"
 msgid ""
 "I shall go take my place by Lord Karrag. See to it that you offer him the "
 "respect that he is due."
-msgstr "나는 카르라그 경 쪽의 내 자리로 가겠습니다. 카르라그님께는 제대로 경의를 표시하길 바랍니다."
+msgstr "나는 카르라그(Karrag) 경 쪽의 내 자리로 가겠습니다. 카르라그(Karrag)님께는 제대로 경의를 표시하길 바랍니다."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Court_of_Karrag.cfg:190
 msgid "Angarthing... I have a bad feeling about this."
-msgstr "앙가르팅... 기분이 좋지 않습니다."
+msgstr "앙가르팅(Angarthing)... 기분이 좋지 않습니다."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Court_of_Karrag.cfg:195
@@ -1397,7 +1399,7 @@ msgstr "어서 오게, 난쟁이 동포들이여. 때맞춰 구출해주셔서 �
 msgid ""
 "We are from Knalga; your clans are kin to ours of old. We but did our duty "
 "to kin."
-msgstr "우리는 크날가 출신이고, 당신 가문은 우리 가문의 오래된 친척입니다. 우리는 친척에 대한 본분을 다한 것뿐입니다."
+msgstr "우리는 크날가(Knalga) 출신이고, 당신 가문은 우리 가문의 오래된 친척입니다. 우리는 친척에 대한 본분을 다한 것뿐입니다."
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Court_of_Karrag.cfg:210
@@ -1423,7 +1425,7 @@ msgid ""
 "blood, that which binds our will and forges our resolve. It is a symbol of "
 "our superiority as the true people of Irdya, an image that the other races "
 "shall respect and fear!"
-msgstr "무기? 아니, 아니라네, 전승의 대가여... 그대는 내 의도를 잘못 이해하고 있네. 그대나 내가 알고 있듯, 망치가 하찮은 무기가 아니라네. 망치는 진정한 민족인 난쟁이의 영혼을 담고 있지. 그것은 우리의 살과 피를 만든 것, 우리의 뜻을 묶고 단련시키는 것이라네. 이것은 우리가 이르디야의 진정한 민족으로서 우월함을 보여주는 상징이며, 다른 종족들이 존경하고 두려워할 상징이라네!"
+msgstr "무기? 아니, 아니라네, 전승의 대가여... 그대는 내 의도를 잘못 이해하고 있네. 그대나 내가 알고 있듯, 망치가 하찮은 무기가 아니라네. 망치는 진정한 민족인 난쟁이의 영혼을 담고 있지. 그것은 우리의 살과 피를 만든 것, 우리의 뜻을 묶고 단련시키는 것이라네. 이것은 우리가 이르디야(Irdya)의 진정한 민족으로서 우월함을 보여주는 상징이며, 다른 종족들이 존경하고 두려워할 상징이라네!"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Court_of_Karrag.cfg:225
@@ -1456,7 +1458,7 @@ msgstr "건방진 잡놈같으니! 감히—"
 msgid ""
 "Quiet, Movrur. Loremaster, you... do not wish to see what is beneath this "
 "mask. I was terribly wounded in an orcish attack. Disfigured."
-msgstr "조용히 하라, 모브루르. 전승의 대가여, 그대는… 이 가면 아래에 있는 것은 보지 않는 것이 좋을 것이네. 나는 오크의 공격으로 심하게 다친적이 있네. 그래서 다른 사람에게 보일 수 있는 것이 아니라네."
+msgstr "조용히 하라, 모브루르(Movrur). 전승의 대가여, 그대는… 이 가면 아래에 있는 것은 보지 않는 것이 좋을 것이네. 나는 오크의 공격으로 심하게 다친적이 있네. 그래서 다른 사람에게 보일 수 있는 것이 아니라네."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Court_of_Karrag.cfg:250
@@ -1525,7 +1527,7 @@ msgstr "기다려요... 리치의 겉으로 보이는 죽음은 또 다른 환�
 msgid ""
 "Then Karrag has fled to the underlevels. None but his masked ones go there "
 "any more."
-msgstr "그렇다면 카르라그는 지하로 도망쳤을 겁니다. 그곳에는 그의 가면을 쓴 사람들 외에는 아무도 더 이상 그곳에 가지 않습니다."
+msgstr "그렇다면 카르라그(Karrag)는 지하로 도망쳤을 겁니다. 그곳에는 그의 가면을 쓴 사람들 외에는 아무도 더 이상 그곳에 가지 않습니다."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Court_of_Karrag.cfg:346
@@ -1556,20 +1558,20 @@ msgid ""
 "It has been... so many years since I’ve been down here. Only Karrag and his "
 "personal followers used this level. I can’t believe I never wondered about "
 "that before."
-msgstr "제가 여기에 온 것은 정말 오랜 세월이 흘렀습니다. 카르라그와 그의 개인 추종자들만이 이 층을 사용했었습니다. 그런데 제가 저곳에 대해 궁금해한 적이 없다는 것을 믿을 수가 없군요."
+msgstr "제가 여기에 온 것은 정말 오랜 세월이 흘렀습니다. 카르라그(Karrag)와 그의 개인 추종자들만이 이 층을 사용했었습니다. 그런데 제가 저곳에 대해 궁금해한 적이 없다는 것을 믿을 수가 없군요."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:284
 msgid ""
 "It is Karrag’s doing—his will, and his dark magic. I think he has been "
 "casting glamours on all of you ever since he passed over."
-msgstr "카르라그가 한 것이죠. 그의 의지이자 그의 흑마법으로 말이죠. 제 생각에 카르라그는 세상을 떠난 이후로 여러분 모두에게 현혹시키고 속였던 것 같습니다."
+msgstr "카르라그(Karrag)가 한 것이죠. 그의 의지이자 그의 흑마법으로 말이죠. 제 생각에 카르라그(Karrag)는 세상을 떠난 이후로 여러분 모두에게 현혹시키고 속였던 것 같습니다."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:289
 msgid ""
 "Where <i>is</i> Karrag? We can’t have been more than seconds behind him."
-msgstr "카르라그는 지금 어디 <i>있습니까</i>? 놈이 한가로이 도망치는 시간은 주지 않았을 것입니다."
+msgstr "카르라그(Karrag)는 지금 어디 <i>있습니까</i>? 놈이 한가로이 도망치는 시간은 주지 않았을 것입니다."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:294
@@ -1589,7 +1591,7 @@ msgstr "저것들은 전쟁 북입니다!"
 msgid ""
 "Aye. Karrag, calling his troops to battle. Only the Dark Gods know what "
 "hellspawn the lich will summon. AXES UP!"
-msgstr "그래요, 카르라그가 그의 병력을 전투에 소집하고 있습니다. 리치가 어떤 지옥의 피조물을 소환할지는 어둠의 신들만 알고 있습니다. 도끼를 들어요!"
+msgstr "그래요, 카르라그(Karrag)가 그의 병력을 전투에 소집하고 있습니다. 리치가 어떤 지옥의 피조물을 소환할지는 어둠의 신들만 알고 있습니다. 도끼를 들어요!"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:331
@@ -1823,7 +1825,7 @@ msgstr "안돼애! 내 힘이... 사라지고 있어..."
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1264
 msgid "And your rule is at an end, Karrag, once the brave lord of Kal Kartha."
-msgstr "이것으로 당신의 통치는 끝났군요. 한때 칼 카르타의 용맹한 영주였던 카르라그여."
+msgstr "이것으로 당신의 통치는 끝났군요. 한때 칼 카르타의 용맹한 영주였던 카르라그(Karrag)여."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1269
@@ -1831,7 +1833,7 @@ msgid ""
 "Do not mourn his passing, Dulcatulos. The Karrag you knew died many years "
 "ago when his lust for power consumed him. It is now time to put the past "
 "behind and right the wrongs that have been wrought here."
-msgstr "그의 죽음을 슬퍼하지 마세요, 둘카툴로스. 당신이 알고 있던 카르라그는 수년 전에 권력에 대한 그의 탐욕이 그를 태워 죽였습니다. 이제는 과거를 뒤로하고 이곳에서 저지른 잘못을 바로잡아야 할 때입니다."
+msgstr "그의 죽음을 슬퍼하지 마세요, 둘카툴로스(Dulcatulos). 당신이 알고 있던 카르라그(Karrag)는 수년 전에 권력에 대한 그의 탐욕이 그를 태워 죽였습니다. 이제는 과거를 뒤로하고 이곳에서 저지른 잘못을 바로잡아야 할 때입니다."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1274
@@ -1839,7 +1841,7 @@ msgid ""
 "Aiglondur speaks the truth. The deed is done. Though the heart of the "
 "darkness is gone, there is still much to do. Much will have to be done to "
 "amend the desecration of the Hammer and the evil that has been done here."
-msgstr "아이글론두르의 말이 맞습니다. 그 행위는 끝났습니다. 어둠의 심장은 사라졌지만 여전히 해야 할 일이 많습니다. 신성 모독된 망치를 정화하고 여기서 행해진 악과 모독된 망치를 고치기 위해서는 많은 일들이 이루어져야 합니다."
+msgstr "아이글론두르(Aiglondur)의 말이 맞습니다. 그 행위는 끝났습니다. 어둠의 심장은 사라졌지만 여전히 해야 할 일이 많습니다. 신성 모독된 망치를 정화하고 여기서 행해진 악과 모독된 망치를 고치기 위해서는 많은 일들이 이루어져야 합니다."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1279
@@ -1880,7 +1882,7 @@ msgstr "공기가 죽음의 악취로 차갑습니다."
 msgid ""
 "No doubt it is this ritual that the masked ones spoke of. We must hurry and "
 "stop Karrag!"
-msgstr "가면을 쓴 자들이 말한 것이 바로 이 의식이라는 것은 의심할 여지가 없습니다. 서둘러 카르라그를 막아야 합니다!"
+msgstr "가면을 쓴 자들이 말한 것이 바로 이 의식이라는 것은 의심할 여지가 없습니다. 서둘러 카르라그(Karrag)를 막아야 합니다!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1365
@@ -1892,7 +1894,7 @@ msgstr "내 몸에서 생명이 빠져나가는 것 같은 느낌입니다!"
 msgid ""
 "Karrag’s spell grows more powerful with every passing moment. If we do not "
 "defeat him now, we will all turn into his thralls!"
-msgstr "카르라그의 주문은 매 순간이 지날수록 더욱 강력해집니다. 지금 그를 쓰러뜨리지 않으면 우리 모두 그의 노예가 될 것입니다!"
+msgstr "카르라그(Karrag)의 주문은 매 순간이 지날수록 더욱 강력해집니다. 지금 그를 쓰러뜨리지 않으면 우리 모두 그의 노예가 될 것입니다!"
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1379
@@ -1986,14 +1988,14 @@ msgstr "칼 카르타의 난쟁이들은 서로 불안해하며 서로를 바라
 msgid ""
 "Loremaster... None of us is fit to take up the lordship. Karrag fooled us "
 "all, made us the tools of his foul scheme."
-msgstr "전승의 대가여... 우리 중 아무도 영주의 자리를 맡을 자격이 없습니다. 카르라그는 우리를 모두 속였고, 우리를 그의 추악한 계획의 도구로 만들었습니다."
+msgstr "전승의 대가여... 우리 중 아무도 영주의 자리를 맡을 자격이 없습니다. 카르라그(Karrag)는 우리를 모두 속였고, 우리를 그의 추악한 계획의 도구로 만들었습니다."
 
 #. [message]: speaker=Pelias
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_Epilogue.cfg:158
 msgid ""
 "I was told I’d find Aiglondur of Knalga here. I bear a message from Tallin, "
 "the Lord Protector of the Alliance."
-msgstr "여기서 크날가의 아이글론두르를 찾을 수 있다고 들었습니다. 나는 동맹의 호법경인 탈린이 보낸 전갈이 있습니다."
+msgstr "여기서 크날가(Knalga)의 아이글론두르(Aiglondur)를 찾을 수 있다고 들었습니다. 나는 동맹의 호법경인 탈린(Tallin)이 보낸 전갈이 있습니다."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_Epilogue.cfg:163
@@ -2008,14 +2010,14 @@ msgid ""
 "you knew that day; Tan-Morgh had exchanged messages with certain orcish "
 "chieftains within the Alliance, and your victory prevented a dangerous "
 "revolt."
-msgstr "나는 몇 주 동안 당신의 발자취를 따라 왔습니다. 당신이 탄-모르그흐와 그의 동맹을 물리쳤다는 소식이 퍼져서 탈린에게 전해졌습니다. 그 날 당신은 동맹에게 생각보다 더 큰 도움을 줬습니다. 그것은 탄-모르그흐는 동맹 내의 특정 오크의 족장들과 연락을 주고받았고, 당신의 승리로 인해 위험한 반란을 막을 수 있었습니다."
+msgstr "나는 몇 주 동안 당신의 발자취를 따라 왔습니다. 당신이 탄-모르그흐와 그의 동맹을 물리쳤다는 소식이 퍼져서 탈린(Tallin)에게 전해졌습니다. 그 날 당신은 동맹에게 생각보다 더 큰 도움을 줬습니다. 그것은 탄-모르그흐는 동맹 내의 특정 오크의 족장들과 연락을 주고받았고, 당신의 승리로 인해 위험한 반란을 막을 수 있었습니다."
 
 #. [message]: speaker=Pelias
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_Epilogue.cfg:174
 msgid ""
 "Aiglondur, the Protector dubs you a Lord Companion of the Alliance. He bids "
 "you return to Knalga as soon as convenient, for your investiture."
-msgstr "아이글론두르, 호법경께서는 당신을 동맹의 동반자로 지목하셨습니다. 그는 당신이 편리한 대로 빨리 크날가로 돌아가서 임명을 받으라고 하셨습니다."
+msgstr "아이글론두르(Aiglondur), 호법경께서는 당신을 동맹의 동반자로 지목하셨습니다. 그는 당신이 편리한 대로 빨리 크날가(Knalga)로 돌아가서 임명을 받으라고 하셨습니다."
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_Epilogue.cfg:179
@@ -2027,13 +2029,13 @@ msgstr "(<i>놀랍게도</i>) 영주 동반자? 게다가 우리 친척..."
 msgid ""
 "It would be no shame for a Lord Companion to rule this holding, as Hamel "
 "does at Knalga."
-msgstr "하멜이 크날가에서 그랬던 것처럼 영주 동반자가 이 땅을 다스리는 것은 부끄러운 일이 아닐 것입니다."
+msgstr "하멜(Hamel)이 크날가(Knalga)에서 그랬던 것처럼 영주 동반자가 이 땅을 다스리는 것은 부끄러운 일이 아닐 것입니다."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_Epilogue.cfg:189
 msgid ""
 "The Kal Karthans looked at each other, and Aiglondur, with dawning hope."
-msgstr "칼 카르타 사람들은 서로를 쳐다보고, 아이글론두르를 희망의 빛이 비치는 눈빛으로 바라봤다."
+msgstr "칼 카르타 사람들은 서로를 쳐다보고, 아이글론두르(Aiglondur)를 희망의 빛이 비치는 눈빛으로 바라봤다."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_Epilogue.cfg:195
@@ -2045,7 +2047,7 @@ msgstr "그것이 적절할 겁니다. 전승의 대가들이 승인할 것입�
 msgid ""
 "Pelias, my thanks to the Lord Protector; I will attend him in the spring. "
 "But it seems that I have some work to do here first."
-msgstr "펠리아스, 호법경께 감사드립니다. 저는 봄에 그를 모시러 갈 것입니다. 아무래도 저는 여기서 할 일이 있는 것 같습니다."
+msgstr "펠리아스(Pelias), 호법경께 감사드립니다. 저는 봄에 그를 모시러 갈 것입니다. 아무래도 저는 여기서 할 일이 있는 것 같습니다."
 
 #. [unit_type]: id=Dwarvish Annalist, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Annalist.cfg:4
@@ -2232,11 +2234,11 @@ msgstr "오 안 돼! 전승의 대가가 없으면 우리는 임무를 완수할
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/utils/herodeaths.cfg:48
 msgid "We needed Movrur to accompany us to Kal Kartha!"
-msgstr "칼 카르타까지 모브루르가 동행해야 했어요!"
+msgstr "칼 카르타까지 모브루르(Movrur)가 동행해야 했어요!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/utils/herodeaths.cfg:66
 msgid ""
 "Without Dulcatulos to explain our actions to the Kal Karthans we’ll have to "
 "fight them, too. Our mission has failed."
-msgstr "둘카툴로스가 우리의 행동을 칼 카르타주민들에게 설명해 주지 않으면 그들과도 싸워야 할 것입니다. 임무는 실패했습니다."
+msgstr "둘카툴로스(Dulcatulos)가 우리의 행동을 칼 카르타주민들에게 설명해 주지 않으면 그들과도 싸워야 할 것입니다. 임무는 실패했습니다."

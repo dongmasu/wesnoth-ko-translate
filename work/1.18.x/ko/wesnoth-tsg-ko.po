@@ -30,7 +30,9 @@ msgid ""
 "a hapless conflict against marauding bandits, Deoran must rally the "
 "remaining men of the derelict South Guard to defend his country.\n"
 "\n"
-msgstr "젊은 기사 Deoran은 국경의 약탈당한 마을을 조사하기 위해 웨스노스 남부의 Kerlath 지방으로 파견됩니다. 약탈하는 산적들과의 불운한 싸움에 갑작스럽게 휘말린 Deoran은 조국을 지키기 위해 무너진 남부 경비대의 남은 병력을 결집해야 합니다.\n\n"
+msgstr ""
+"젊은 기사 Deoran은 국경의 약탈당한 마을을 조사하기 위해 웨스노스(Wesnoth) 남부의 Kerlath 지방으로 파견됩니다. 약탈하는 산적들과의 불운한 싸움에 갑작스럽게 휘말린 Deoran은 조국을 지키기 위해 무너진 남부 경비대의 남은 병력을 결집해야 합니다.\n"
+"\n"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:22
@@ -219,7 +221,7 @@ msgstr "이 마을은 절대 네놈들에게 넘기지 않겠다! 너희 같은 
 msgid ""
 "My kind? I am a knight of Wesnoth and a messenger appointed by the King "
 "himself! What do you mean, <i>“my kind”</i>? And where is the South Guard?"
-msgstr "나 같은 부류라고? 나는 국왕이 직접 임명한 웨스노스의 기사이자 전령이다! <i>“나 같은 부류”</i>라니 무슨 뜻이지? 남부 경비대는 어디에 있나?"
+msgstr "나 같은 부류라고? 나는 국왕이 직접 임명한 웨스노스(Wesnoth)의 기사이자 전령이다! <i>“나 같은 부류”</i>라니 무슨 뜻이지? 남부 경비대는 어디에 있나?"
 
 #. [message]: speaker=Moreth
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:210
@@ -250,7 +252,7 @@ msgstr "뭐라고? 나는 로리스 경을 심문하라는 명령만 받았지�
 msgid ""
 "Then we must head to the river fort! Sir Gerrick is guarding the armory "
 "there!"
-msgstr "그렇다면 강 요새로 가야 합니다! 게릭 경이 그곳의 무기고를 지키고 있습니다!"
+msgstr "그렇다면 강 요새로 가야 합니다! 게릭(Gerrick) 경이 그곳의 무기고를 지키고 있습니다!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:229
@@ -400,7 +402,7 @@ msgid ""
 "Your people have been our allies ever since the days of Lord Typhon. We will "
 "help you drive these bandits from your lands if you allow us to continue "
 "living here in peace."
-msgstr "티폰 경 시대부터 당신들의 민족은 우리의 동맹이었습니다. 우리가 이곳에서 평화롭게 계속 살도록 허락해 준다면, 당신들의 땅에서 이 산적들을 몰아내는 일을 돕겠습니다."
+msgstr "티폰(Typhon) 경 시대부터 당신들의 민족은 우리의 동맹이었습니다. 우리가 이곳에서 평화롭게 계속 살도록 허락해 준다면, 당신들의 땅에서 이 산적들을 몰아내는 일을 돕겠습니다."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:455
@@ -661,7 +663,7 @@ msgid ""
 "these ruffians struck and killed eight of my men. We defended the citadel "
 "and held out, hoping for reinforcements, but they never came. Something must "
 "have happened in Westin, else Sir Loris would have relieved us by now."
-msgstr "거의 두 달이 지났습니다! 이유는 모르겠지만 어느 날 밤 로리스 경이 우리 순찰병 몇 명을 데리고 웨스틴 길을 따라 나갔다가 돌아오지 않았습니다. 바로 다음 날 저녁 이 악당들이 공격해 제 부하 여덟 명을 죽였습니다. 우리는 지원군을 기다리며 성채를 지켰지만 지원군은 오지 않았습니다. 웨스틴에서 무슨 일이 일어난 게 틀림없습니다. 그렇지 않다면 로리스 경이 벌써 우리를 구하러 왔을 겁니다."
+msgstr "거의 두 달이 지났습니다! 이유는 모르겠지만 어느 날 밤 로리스 경이 우리 순찰병 몇 명을 데리고 웨스틴(Westin) 길을 따라 나갔다가 돌아오지 않았습니다. 바로 다음 날 저녁 이 악당들이 공격해 제 부하 여덟 명을 죽였습니다. 우리는 지원군을 기다리며 성채를 지켰지만 지원군은 오지 않았습니다. 웨스틴(Westin)에서 무슨 일이 일어난 게 틀림없습니다. 그렇지 않다면 로리스 경이 벌써 우리를 구하러 왔을 겁니다."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:767
@@ -734,7 +736,7 @@ msgstr "Hylas 목사의 사망"
 msgid ""
 "Look there! Smoke rises from Westin! The bandits must have already overrun "
 "the garrison and are sacking the city!"
-msgstr "저기를 보세요! 웨스틴에서 연기가 솟고 있습니다! 산적들이 이미 주둔군을 제압하고 도시를 약탈하고 있는 게 틀림없습니다!"
+msgstr "저기를 보세요! 웨스틴(Westin)에서 연기가 솟고 있습니다! 산적들이 이미 주둔군을 제압하고 도시를 약탈하고 있는 게 틀림없습니다!"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:233
@@ -871,7 +873,7 @@ msgstr "놈들이 대회당에 거의 도착했습니다! 서두르세요, Deora
 msgid ""
 "You must move someone here by the end of the next turn, or Westin will fall "
 "and you will be defeated!"
-msgstr "다음 턴이 끝나기 전에 누군가를 이곳으로 이동시키지 않으면 웨스틴이 함락되고 패배합니다!"
+msgstr "다음 턴이 끝나기 전에 누군가를 이곳으로 이동시키지 않으면 웨스틴(Westin)이 함락되고 패배합니다!"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:421
@@ -887,7 +889,7 @@ msgstr "너무 늦었습니다! 놈들이 도시 전체를 불태웠습니다...
 msgid ""
 "Alas, Westin has fallen! There is nothing else I can do here — I can only "
 "return to the King and report our loss here..."
-msgstr "아아, 웨스틴이 함락되다니! 여기서 내가 할 수 있는 일은 더 없습니다. 국왕에게 돌아가 이곳에서의 패배를 보고할 수밖에..."
+msgstr "아아, 웨스틴(Westin)이 함락되다니! 여기서 내가 할 수 있는 일은 더 없습니다. 국왕에게 돌아가 이곳에서의 패배를 보고할 수밖에..."
 
 #. [unit]: type=Merman Fighter, id=Absu
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:456
@@ -1027,7 +1029,7 @@ msgid ""
 "I do not know, but just before the bandit raids began, an ambassador came to "
 "Sir Loris from the elves of the Aethenwood. He asked that a knight be sent "
 "to discuss a new threat to Wesnoth."
-msgstr "모르겠습니다. 하지만 산적의 습격이 시작되기 직전에 아이센 숲의 엘프가 로리스 경에게 사절을 보냈습니다. 웨스노스의 새로운 위협을 논의할 기사를 보내 달라고 요청했지요."
+msgstr "모르겠습니다. 하지만 산적의 습격이 시작되기 직전에 아이센 숲의 엘프가 로리스 경에게 사절을 보냈습니다. 웨스노스(Wesnoth)의 새로운 위협을 논의할 기사를 보내 달라고 요청했지요."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:808
@@ -1317,7 +1319,7 @@ msgstr "Deora—"
 msgid ""
 "Stay your hand, Linderion. This man bears the banner of Wesnoth and appears "
 "to come to us in peace. What brings you to the hallowed grove of Elrath?"
-msgstr "손을 멈춰라, 린데리온. 이자는 웨스노스의 깃발을 지녔고 평화롭게 온 듯하다. 무엇 때문에 엘라스의 신성한 숲에 왔느냐?"
+msgstr "손을 멈춰라, 린데리온(Linderion). 이자는 웨스노스(Wesnoth)의 깃발을 지녔고 평화롭게 온 듯하다. 무엇 때문에 엘라스의 신성한 숲에 왔느냐?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:454
@@ -1443,7 +1445,7 @@ msgid ""
 "to the darkness if they fight it alone. There is one elf who still remembers "
 "the secrets of the undead that we learned when Haldric I came to our land. "
 "His name is Mebrin, and he lives secluded in the hills south of here."
-msgstr "이 인간들은 이런 적과 맞설 만큼 용감하지만, 홀로 싸우면 어둠에 쓰러질까 걱정됩니다. 우리 땅에 할드릭 1세가 왔을 때 배운 언데드의 비밀을 아직 기억하는 엘프가 한 명 있습니다. 그의 이름은 Mebrin이며 이곳 남쪽 언덕에서 은둔해 살고 있습니다."
+msgstr "이 인간들은 이런 적과 맞설 만큼 용감하지만, 홀로 싸우면 어둠에 쓰러질까 걱정됩니다. 우리 땅에 할드릭(Haldric) 1세가 왔을 때 배운 언데드의 비밀을 아직 기억하는 엘프가 한 명 있습니다. 그의 이름은 Mebrin이며 이곳 남쪽 언덕에서 은둔해 살고 있습니다."
 
 #. [message]: speaker=Ithelden
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:529
@@ -1576,7 +1578,7 @@ msgstr "뭐라고?! 저 약탈자들은 우리의 친구가 아니다! 당장 �
 msgid ""
 "Perhaps they are allied with the bandits who have been sacking Westin. They "
 "have grown quite bold if they are attacking the elves!"
-msgstr "어쩌면 웨스틴을 약탈한 산적들과 동맹을 맺었을지도 모릅니다. 엘프를 공격하다니 놈들이 상당히 대담해졌군요!"
+msgstr "어쩌면 웨스틴(Westin)을 약탈한 산적들과 동맹을 맺었을지도 모릅니다. 엘프를 공격하다니 놈들이 상당히 대담해졌군요!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:301
@@ -1590,7 +1592,7 @@ msgid ""
 "them all nonetheless. Now, listen well to me, humans. The Great Sage Mebrin "
 "is ancient and remembers well Haldric’s betrayal of the elves. Should one of "
 "you set foot in his village first, he will certainly drive us away!"
-msgstr "어둠의 존재들의 도움 없이는 감히 그러지 못했겠지만, 그래도 우리는 모두를 물리칠 것이다. 인간들이여, 이제 내 말을 잘 들어라. 대현자 Mebrin은 아주 오래 살았고 할드릭이 엘프를 배신한 일을 잘 기억한다. 너희 중 하나라도 그의 마을에 먼저 발을 들이면, 그는 분명 우리를 쫓아낼 것이다!"
+msgstr "어둠의 존재들의 도움 없이는 감히 그러지 못했겠지만, 그래도 우리는 모두를 물리칠 것이다. 인간들이여, 이제 내 말을 잘 들어라. 대현자 Mebrin은 아주 오래 살았고 할드릭(Haldric)이 엘프를 배신한 일을 잘 기억한다. 너희 중 하나라도 그의 마을에 먼저 발을 들이면, 그는 분명 우리를 쫓아낼 것이다!"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:306
@@ -1704,7 +1706,7 @@ msgstr "엘프 경호원"
 msgid ""
 "We stand ready to protect you, my lady! We shall lead these men of Wesnoth "
 "into the fray!"
-msgstr "부인을 지킬 준비가 되었습니다! 저희가 이 웨스노스인들을 전장으로 이끌겠습니다!"
+msgstr "부인을 지킬 준비가 되었습니다! 저희가 이 웨스노스(Wesnoth)인들을 전장으로 이끌겠습니다!"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:536
@@ -1906,7 +1908,7 @@ msgstr "강력한 흑마법의 영향이 아닐까 두렵군요."
 #| "This is quite a change from fighting bandits in the farmland near Westin!"
 msgid ""
 "This is quite a change from fighting bandits in the farmlands near Westin!"
-msgstr "웨스틴 근처 농지에서 산적과 싸우던 때와는 정말 상황이 달라졌군요!"
+msgstr "웨스틴(Westin) 근처 농지에서 산적과 싸우던 때와는 정말 상황이 달라졌군요!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:340
@@ -2403,7 +2405,7 @@ msgid ""
 "Then you would surely be lost in these woods, hounded by the undead and made "
 "into their slaves. I can lead you and your men back to the lands of Wesnoth, "
 "but only if you promise to grant me pardon."
-msgstr "그렇다면 너희는 이 숲에서 길을 잃고 언데드에게 쫓기다가 그들의 노예가 되고 말 거야. 내가 너와 부하들을 웨스노스의 땅으로 이끌어 돌아갈 수는 있지만, 나를 사면하겠다고 약속해야 해."
+msgstr "그렇다면 너희는 이 숲에서 길을 잃고 언데드에게 쫓기다가 그들의 노예가 되고 말 거야. 내가 너와 부하들을 웨스노스(Wesnoth)의 땅으로 이끌어 돌아갈 수는 있지만, 나를 사면하겠다고 약속해야 해."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1087
@@ -2477,7 +2479,7 @@ msgstr "무법자와 언데드를 모두 물리쳤다!"
 msgid ""
 "We should make haste to return to Wesnoth. I think the fall harvest should "
 "be soon!"
-msgstr "서둘러 웨스노스로 돌아가야 합니다. 곧 가을 수확철이 될 것 같습니다!"
+msgstr "서둘러 웨스노스(Wesnoth)로 돌아가야 합니다. 곧 가을 수확철이 될 것 같습니다!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1170
@@ -3198,7 +3200,7 @@ msgid ""
 "Your past crimes are not easy to overlook, but we will see how you aid us in "
 "the coming battle. As Sir Deoran said, you have kept your word about leading "
 "us back to Wesnoth, and that is a good start."
-msgstr "네 과거의 죄를 쉽게 눈감아 줄 수는 없지만, 다가오는 전투에서 어떻게 우리를 도울지 지켜보겠다. Deoran 경이 말했듯이, 너는 우리를 웨스노스로 이끌겠다는 약속을 지켰고, 그것은 좋은 출발이다."
+msgstr "네 과거의 죄를 쉽게 눈감아 줄 수는 없지만, 다가오는 전투에서 어떻게 우리를 도울지 지켜보겠다. Deoran 경이 말했듯이, 너는 우리를 웨스노스(Wesnoth)로 이끌겠다는 약속을 지켰고, 그것은 좋은 출발이다."
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Long_March.cfg:1258
@@ -3394,7 +3396,7 @@ msgstr "정지! Wesnoth의 국경으로 다가오는 자는 누구냐?"
 #: data/campaigns/The_South_Guard/scenarios/07a_Return_to_Kerlath.cfg:405
 #| msgid "It is I, Deoran, commander of the South Guard, and my men."
 msgid "It is I, Deoran, commander of the South Guard."
-msgstr "나다. 남부 경비대의 지휘관, 데오란이다."
+msgstr "나다. 남부 경비대의 지휘관, 데오란(Deoran)이다."
 
 #. [message]: speaker=Liryn
 #: data/campaigns/The_South_Guard/scenarios/07a_Return_to_Kerlath.cfg:410
@@ -3841,7 +3843,7 @@ msgstr "그들이 정말 Ithelden의 말을 들을까? 아니, 그가 그들을 
 msgid ""
 "Perhaps not, but we have no other hope right now. We must survive until "
 "Ithelden arrives!"
-msgstr "그렇지는 않을지도 모르지만, 지금 우리에게는 다른 희망이 없습니다. 이텔덴이 도착할 때까지 살아남아야 합니다!"
+msgstr "그렇지는 않을지도 모르지만, 지금 우리에게는 다른 희망이 없습니다. 이텔덴(Ithelden)이 도착할 때까지 살아남아야 합니다!"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:428
@@ -4053,7 +4055,7 @@ msgid ""
 "breaks after every night, the courage and valor of men will prevail over the "
 "wicked creatures of darkness. We must stand fast against the undead and "
 "defend our homes! We fight for Sir Gerrick! We fight for Wesnoth!"
-msgstr "이제 때가 왔습니다. Gerrick 경이 병력을 모으고 도시를 요새화할 충분한 시간을 벌어 주었습니다. 거대한 전투가 다가오지만, 매일 밤 뒤에 반드시 새벽이 오듯 인간의 용기와 용맹은 어둠의 사악한 생물들을 이겨 낼 것입니다. 우리는 언데드에 맞서 굳게 서서 우리의 집을 지켜야 합니다! Gerrick 경을 위해 싸웁시다! 웨스노스를 위해 싸웁시다!"
+msgstr "이제 때가 왔습니다. Gerrick 경이 병력을 모으고 도시를 요새화할 충분한 시간을 벌어 주었습니다. 거대한 전투가 다가오지만, 매일 밤 뒤에 반드시 새벽이 오듯 인간의 용기와 용맹은 어둠의 사악한 생물들을 이겨 낼 것입니다. 우리는 언데드에 맞서 굳게 서서 우리의 집을 지켜야 합니다! Gerrick 경을 위해 싸웁시다! 웨스노스(Wesnoth)를 위해 싸웁시다!"
 
 #. [message]: speaker=Mal M'Brin
 #. fleshbag refers to humans, meaning literally a "chunk of meat" here, and "pesky fly" refers to Sir Gerrick
@@ -4276,7 +4278,7 @@ msgid ""
 "keep peace in the outermost provinces of Wesnoth. As effective leaders and "
 "powerful warriors, these men patrol the countryside and eliminate any and "
 "all threats to peace in the frontier villages."
-msgstr "변경 경비대의 지휘관인 기마 지휘관은 웨스노스 최외곽 지방의 평화를 지키는 주둔군을 지휘합니다. 유능한 지도자이자 강력한 전사인 이들은 시골 지역을 순찰하며 변방 마을의 평화를 위협하는 모든 위협을 제거합니다."
+msgstr "변경 경비대의 지휘관인 기마 지휘관은 웨스노스(Wesnoth) 최외곽 지방의 평화를 지키는 주둔군을 지휘합니다. 유능한 지도자이자 강력한 전사인 이들은 시골 지역을 순찰하며 변방 마을의 평화를 위협하는 모든 위협을 제거합니다."
 
 #. [unit_type]: id=Infantry Commander, race=human
 #: data/campaigns/The_South_Guard/units/Infantry_Commander.cfg:4
@@ -4328,7 +4330,7 @@ msgid ""
 "panoply. Talented squires are sometimes given command of small units in "
 "Wesnoth’s army, where they gain experience leading fellow troops and honing "
 "their prowess in battle."
-msgstr "겨우 17~18세에 불과한 종자는 아직 정식 기사가 아니지만, 완전한 군장을 갖춘 채 말을 다루는 지식과 기술을 갖추고 있습니다. 재능 있는 종자는 때때로 웨스노스 군대의 소규모 부대를 지휘하게 되며, 동료 병사를 이끌고 전투 능력을 연마하며 경험을 쌓습니다."
+msgstr "겨우 17~18세에 불과한 종자는 아직 정식 기사가 아니지만, 완전한 군장을 갖춘 채 말을 다루는 지식과 기술을 갖추고 있습니다. 재능 있는 종자는 때때로 웨스노스(Wesnoth) 군대의 소규모 부대를 지휘하게 되며, 동료 병사를 이끌고 전투 능력을 연마하며 경험을 쌓습니다."
 
 #. [unit_type]: id=Mounted General, race=human
 #: data/campaigns/The_South_Guard/units/Mounted_General.cfg:4
@@ -4367,7 +4369,7 @@ msgstr "나는 인간을 돕느라 모든 것을 잃었다... 이제 그들은 �
 #: data/campaigns/The_South_Guard/utils/sg_deaths.cfg:64
 #| msgid "I have given my all for my kingdom! Avenge me, Deoran!"
 msgid "I have given all for my kingdom! Avenge me, Deoran!"
-msgstr "나는 왕국을 위해 모든 것을 바쳤다! 데오란, 나의 복수를 해다오!"
+msgstr "나는 왕국을 위해 모든 것을 바쳤다! 데오란(Deoran), 나의 복수를 해다오!"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_deaths.cfg:81
@@ -4378,7 +4380,7 @@ msgstr "내가 실패한 곳에서 빛이 당신을 인도하기를..."
 #: data/campaigns/The_South_Guard/utils/sg_deaths.cfg:98
 #| msgid "Far from home I fall — but not in vain! Guard our people, Deoran!"
 msgid "Far from home I fall — but not in vain! Defend our people, Deoran!"
-msgstr "고향에서 멀리 떨어진 곳에서 쓰러지지만, 헛된 죽음은 아니다! 데오란, 우리 백성을 지켜다오!"
+msgstr "고향에서 멀리 떨어진 곳에서 쓰러지지만, 헛된 죽음은 아니다! 데오란(Deoran), 우리 백성을 지켜다오!"
 
 #. [message]: speaker=unit
 #. Alternative message used in the last scenario.
@@ -4462,7 +4464,7 @@ msgid ""
 "Wesnoth. Konrad I had driven off the orcs in the north. The eastern forts "
 "were quiet and secure. The elves in the western forest kept to their own "
 "affairs. In the south, men built new towns and farms."
-msgstr "할드릭 7세의 치세 동안 웨스노스는 크게 번영하고 평화로웠습니다. 콘라드 1세는 북쪽의 오크를 몰아냈습니다. 동쪽 요새들은 조용하고 안전했습니다. 서쪽 숲의 엘프들은 자기 일에만 전념했습니다. 남쪽에서는 사람들이 새로운 마을과 농장을 세웠습니다."
+msgstr "할드릭(Haldric) 7세의 치세 동안 웨스노스(Wesnoth)는 크게 번영하고 평화로웠습니다. 콘라드(Konrad) 1세는 북쪽의 오크를 몰아냈습니다. 동쪽 요새들은 조용하고 안전했습니다. 서쪽 숲의 엘프들은 자기 일에만 전념했습니다. 남쪽에서는 사람들이 새로운 마을과 농장을 세웠습니다."
 
 #. [part]
 #. Intro to scenario 1
@@ -4488,7 +4490,7 @@ msgid ""
 "Even further south in the wildlands, the ancient heart forest sprawled out "
 "in dense gloominess, ominous enough that even the elves eschewed entering, "
 "and only a few, scattered outlaws called it their home."
-msgstr "남부 경비대는 8년 동안 최남단 변경 주 케를라스의 수도 웨스틴 주변 농장과 집을 지켰습니다. 로리스 경의 지휘 아래 남부 경비대는 가끔 나타나는 도적이나 야생 생물을 물리치는 것만으로 웨스틴을 위험에서 지켜 냈습니다. 유일하게 진정한 불안의 원인은 서쪽의 아이센 숲이었을 것입니다. 그곳의 엘프들은 인간의 일에 무관심한 채 냉담하게 떨어져 살았습니다. 허가 없이 그들의 땅을 지나는 것은 금지되었지만, 엘프들 역시 케를라스 땅에 들어오는 일이 드물었습니다. 더 남쪽 황야에는 고대 대륙 심장부의 숲이 짙고 음울하게 펼쳐져 있었고, 엘프들조차 들어가기를 꺼릴 만큼 불길했으며, 흩어진 소수의 무법자만이 그곳을 보금자리로 삼았습니다."
+msgstr "남부 경비대는 8년 동안 최남단 변경 주 케를라스(Kerlath)의 수도 웨스틴(Westin) 주변 농장과 집을 지켰습니다. 로리스 경의 지휘 아래 남부 경비대는 가끔 나타나는 도적이나 야생 생물을 물리치는 것만으로 웨스틴(Westin)을 위험에서 지켜 냈습니다. 유일하게 진정한 불안의 원인은 서쪽의 아이센 숲이었을 것입니다. 그곳의 엘프들은 인간의 일에 무관심한 채 냉담하게 떨어져 살았습니다. 허가 없이 그들의 땅을 지나는 것은 금지되었지만, 엘프들 역시 케를라스(Kerlath) 땅에 들어오는 일이 드물었습니다. 더 남쪽 황야에는 고대 대륙 심장부의 숲이 짙고 음울하게 펼쳐져 있었고, 엘프들조차 들어가기를 꺼릴 만큼 불길했으며, 흩어진 소수의 무법자만이 그곳을 보금자리로 삼았습니다."
 
 #. [part]
 #. Intro to scenario 1
@@ -4511,7 +4513,7 @@ msgid ""
 "an officer for thirty years. Thus, with full trust in the young officer, "
 "King Haldric knighted Deoran and tasked him with riding to Westin to demand "
 "accounting from Sir Loris."
-msgstr "Haldric은 이 임무를 위해 젊지만 전도유망한 기병 장교 Deoran을 불렀습니다. Deoran의 가문은 특별히 이름난 집안은 아니었지만 웨스노스 군대에서 훌륭한 역사를 쌓았습니다. 그의 증조부 Haldiel은 왕좌를 되찾기 위한 전쟁에서 Konrad 1세와 함께 싸웠고, 아버지 Leonard는 30년 동안 장교로 복무했습니다. 그래서 Haldric 왕은 이 젊은 장교를 전적으로 신뢰해 Deoran을 기사로 서임하고, Westin으로 가서 Loris 경에게 해명을 요구하도록 명했습니다."
+msgstr "Haldric은 이 임무를 위해 젊지만 전도유망한 기병 장교 Deoran을 불렀습니다. Deoran의 가문은 특별히 이름난 집안은 아니었지만 웨스노스(Wesnoth) 군대에서 훌륭한 역사를 쌓았습니다. 그의 증조부 Haldiel은 왕좌를 되찾기 위한 전쟁에서 Konrad 1세와 함께 싸웠고, 아버지 Leonard는 30년 동안 장교로 복무했습니다. 그래서 Haldric 왕은 이 젊은 장교를 전적으로 신뢰해 Deoran을 기사로 서임하고, Westin으로 가서 Loris 경에게 해명을 요구하도록 명했습니다."
 
 #. [part]
 #. Intro to scenario 2
@@ -4526,7 +4528,7 @@ msgid ""
 "whole countryside. His men reported bandits roaming freely through the land, "
 "terrorizing the peasants and villagers. Nowhere did they find soldiers of "
 "the South Guard."
-msgstr "우르자 마틴을 물리친 데오란은 즉시 지방 전역에 정찰병을 보냈습니다. 부하들은 도적들이 온 땅을 자유롭게 돌아다니며 농민과 마을 사람들을 공포에 떨게 한다고 보고했습니다. 남부 경비대의 병사는 어디에서도 찾을 수 없었습니다."
+msgstr "우르자 마틴을 물리친 데오란(Deoran)은 즉시 지방 전역에 정찰병을 보냈습니다. 부하들은 도적들이 온 땅을 자유롭게 돌아다니며 농민과 마을 사람들을 공포에 떨게 한다고 보고했습니다. 남부 경비대의 병사는 어디에서도 찾을 수 없었습니다."
 
 #. [part]
 #. Intro to scenario 2
@@ -4566,7 +4568,7 @@ msgid ""
 "became scarce. Far from civilization, in the deep woods, time passed in "
 "blurred day and night with the ever creeping chill of deathly shadow growing "
 "upon them."
-msgstr "그들은 여러 날 동안 누구도 밟아 본 적 없는 이름 없는 길을 따라 행군했습니다. 때때로 데오란은 깊은 숲속에서 엘프 마을과 회관의 유령 같은 모습을 본 듯했지만, 나아갈수록 그런 모습조차 드물어졌습니다. 문명에서 멀리 떨어진 깊은 숲에서 낮과 밤의 구분도 흐려진 채 시간이 흘렀고, 죽음 같은 그림자의 서늘함이 끊임없이 그들을 덮쳐 왔습니다."
+msgstr "그들은 여러 날 동안 누구도 밟아 본 적 없는 이름 없는 길을 따라 행군했습니다. 때때로 데오란(Deoran)은 깊은 숲속에서 엘프 마을과 회관의 유령 같은 모습을 본 듯했지만, 나아갈수록 그런 모습조차 드물어졌습니다. 문명에서 멀리 떨어진 깊은 숲에서 낮과 밤의 구분도 흐려진 채 시간이 흘렀고, 죽음 같은 그림자의 서늘함이 끊임없이 그들을 덮쳐 왔습니다."
 
 #. [part]
 #. Intro to scenario 5
@@ -4621,7 +4623,7 @@ msgid ""
 "that he was elated that they had defeated the undead and were returning "
 "home, although the wearied, almost grieving mood of the elves was quite "
 "sombering."
-msgstr "Mal M’Brin을 물리친 뒤 Deoran과 병사들은 황량한 동굴을 떠나 요새 지상으로 돌아왔습니다. 고대의 숲에는 짙은 안개 사이로 햇빛이 비치기 시작하고 있었습니다. Ethiliel은 한동안 뒤에 남아 있다가 날이 저물고 밤이 깊어서야 동굴에서 나왔습니다. 그녀는 짧게 사과의 말을 건넸지만, 더는 아무 말도 하지 않은 채 그들을 북쪽의 웨스노스를 향해 이끌었습니다. Deoran은 언데드를 물리치고 집으로 돌아간다는 사실에 기뻤지만, 지치고 거의 애도하는 듯한 엘프들의 분위기는 마음을 무겁게 했습니다."
+msgstr "Mal M’Brin을 물리친 뒤 Deoran과 병사들은 황량한 동굴을 떠나 요새 지상으로 돌아왔습니다. 고대의 숲에는 짙은 안개 사이로 햇빛이 비치기 시작하고 있었습니다. Ethiliel은 한동안 뒤에 남아 있다가 날이 저물고 밤이 깊어서야 동굴에서 나왔습니다. 그녀는 짧게 사과의 말을 건넸지만, 더는 아무 말도 하지 않은 채 그들을 북쪽의 웨스노스(Wesnoth)를 향해 이끌었습니다. Deoran은 언데드를 물리치고 집으로 돌아간다는 사실에 기뻤지만, 지치고 거의 애도하는 듯한 엘프들의 분위기는 마음을 무겁게 했습니다."
 
 #. [part]
 #. Intro to scenario 7a
@@ -4635,7 +4637,7 @@ msgid ""
 "long weeks of trudging northward took its toll, but eventually, Deoran and "
 "his men emerged from the sprawling forest and returned to the lands of "
 "Wesnoth."
-msgstr "시간의 수레바퀴가 다시 한 바퀴 돌며 가을은 겨울로 저물었습니다. 마지막 남은 색색의 잎들이 땅에 떨어지고, 가시 돋친 상록수와 앙상한 나무만 남았습니다. 언데드가 사라졌는데도 먹을 것과 사냥감은 부족했고, 인간과 엘프 모두 가족과 함께 평화와 온기를 찾을 수 있는 고향을 생각했습니다. 북쪽으로 터벅터벅 걸어온 긴 몇 주는 그들에게 큰 대가를 치르게 했지만, 마침내 Deoran과 병사들은 드넓은 숲을 빠져나와 웨스노스 땅으로 돌아왔습니다."
+msgstr "시간의 수레바퀴가 다시 한 바퀴 돌며 가을은 겨울로 저물었습니다. 마지막 남은 색색의 잎들이 땅에 떨어지고, 가시 돋친 상록수와 앙상한 나무만 남았습니다. 언데드가 사라졌는데도 먹을 것과 사냥감은 부족했고, 인간과 엘프 모두 가족과 함께 평화와 온기를 찾을 수 있는 고향을 생각했습니다. 북쪽으로 터벅터벅 걸어온 긴 몇 주는 그들에게 큰 대가를 치르게 했지만, 마침내 Deoran과 병사들은 드넓은 숲을 빠져나와 웨스노스(Wesnoth) 땅으로 돌아왔습니다."
 
 #. [part]
 #. Intro to scenario 7b
@@ -4658,7 +4660,7 @@ msgid ""
 "They rode quickly northward. Day and night, they fled without reprieve until "
 "they finally crossed back into Kerlath Province. Deoran and his men entered "
 "the forts guarding the border to Wesnoth, the undead close on their heels."
-msgstr "그들은 빠르게 북쪽으로 말을 달렸습니다. 밤낮으로 쉬지 않고 달아난 끝에 마침내 케를라스 지방으로 돌아왔습니다. 언데드가 바짝 뒤쫓는 가운데 Deoran과 병사들은 웨스노스 국경을 지키는 요새로 들어갔습니다."
+msgstr "그들은 빠르게 북쪽으로 말을 달렸습니다. 밤낮으로 쉬지 않고 달아난 끝에 마침내 케를라스(Kerlath) 지방으로 돌아왔습니다. 언데드가 바짝 뒤쫓는 가운데 Deoran과 병사들은 웨스노스(Wesnoth) 국경을 지키는 요새로 들어갔습니다."
 
 #. [part]
 #. Epilogue A
@@ -4686,7 +4688,7 @@ msgid ""
 "to the men of Wesnoth, saying, <i>“Stop! Enough blood has been spilled, "
 "human and elf alike. The injury you humans have done to the elves is great, "
 "but your service also was worthy. We have decided to make peace again.”</i>"
-msgstr "안개가 걷히고 햇빛이 구름 사이로 흩어진 광선이 되어 비쳤습니다. Deoran은 숨을 죽인 채 보병 대열의 선두로 말을 몰았습니다. 몇 분이 더 지나자 마침내 안개가 흩어졌고, Ethiliel이 창벽을 마주한 채 홀로 서 있었습니다. 그녀의 얼굴에는 비탄과 피로가 가득했지만, 웨스노스 병사들에게 말하는 목소리는 놀라울 만큼 또렷했습니다. <i>“멈추세요! 인간과 엘프 모두 충분히 피를 흘렸습니다. 당신들이 엘프들에게 입힌 상처는 크지만, 당신들의 봉사 또한 훌륭했습니다. 우리는 다시 평화를 이루기로 했습니다.”</i>"
+msgstr "안개가 걷히고 햇빛이 구름 사이로 흩어진 광선이 되어 비쳤습니다. Deoran은 숨을 죽인 채 보병 대열의 선두로 말을 몰았습니다. 몇 분이 더 지나자 마침내 안개가 흩어졌고, Ethiliel이 창벽을 마주한 채 홀로 서 있었습니다. 그녀의 얼굴에는 비탄과 피로가 가득했지만, 웨스노스(Wesnoth) 병사들에게 말하는 목소리는 놀라울 만큼 또렷했습니다. <i>“멈추세요! 인간과 엘프 모두 충분히 피를 흘렸습니다. 당신들이 엘프들에게 입힌 상처는 크지만, 당신들의 봉사 또한 훌륭했습니다. 우리는 다시 평화를 이루기로 했습니다.”</i>"
 
 #. [part]
 #. Epilogue A
@@ -4701,7 +4703,7 @@ msgid ""
 "of the Aethenwood, and likewise, we elves will not traverse the plains and "
 "farmlands belonging to you humans. No more will the elves send ambassadors "
 "or councilors to Westin, and no more will men wander the green woods.”</i>"
-msgstr "<i>“우리의 조건은 이렇습니다. 아이센 숲의 숲과 언덕에는 어떤 인간도 들어올 수 없습니다. 마찬가지로 우리 엘프도 당신들 인간의 평원과 농지를 지나지 않겠습니다. 엘프는 더 이상 웨스틴에 사절이나 고문을 보내지 않을 것이며, 인간도 더 이상 푸른 숲을 돌아다니지 않을 것입니다.”</i>"
+msgstr "<i>“우리의 조건은 이렇습니다. 아이센 숲의 숲과 언덕에는 어떤 인간도 들어올 수 없습니다. 마찬가지로 우리 엘프도 당신들 인간의 평원과 농지를 지나지 않겠습니다. 엘프는 더 이상 웨스틴(Westin)에 사절이나 고문을 보내지 않을 것이며, 인간도 더 이상 푸른 숲을 돌아다니지 않을 것입니다.”</i>"
 
 #. [part]
 #. Epilogue A
@@ -4740,7 +4742,7 @@ msgid ""
 "people of Westin farewell and made his journey northward to Weldyn. While "
 "years of rebuilding lay ahead for Kerlath, they would take place in peace "
 "thanks to Deoran’s leadership and the heroics of the South Guard."
-msgstr "마침내 눈이 녹고 초록빛 새싹이 봄의 시작을 알리자 Deoran은 Haldric 왕에게 돌아가 보고할 때가 왔음을 알았습니다. 그는 Westin 사람들에게 작별을 고하고 북쪽의 Weldyn으로 길을 떠났습니다. 케를라스에는 앞으로 수년간 재건의 세월이 남아 있었지만, Deoran의 지도력과 남부 경비대의 영웅적인 활약 덕분에 평화롭게 이루어질 것입니다."
+msgstr "마침내 눈이 녹고 초록빛 새싹이 봄의 시작을 알리자 Deoran은 Haldric 왕에게 돌아가 보고할 때가 왔음을 알았습니다. 그는 Westin 사람들에게 작별을 고하고 북쪽의 Weldyn으로 길을 떠났습니다. 케를라스(Kerlath)에는 앞으로 수년간 재건의 세월이 남아 있었지만, Deoran의 지도력과 남부 경비대의 영웅적인 활약 덕분에 평화롭게 이루어질 것입니다."
 
 #. [part]
 #. Epilogue B
@@ -4812,7 +4814,7 @@ msgid ""
 "rebuilt the shattered walls and ramparts of the city. Slowly, a sense of "
 "normalcy began to return to Kerlath Province as Westin was restored and the "
 "South Guard began to patrol the villages once again."
-msgstr "Deoran은 부상자들을 찾아다니고 병사들이 도시의 부서진 성벽과 방벽을 재건하도록 지휘하며 나날을 보냈습니다. Westin이 복구되고 남부 경비대가 다시 마을을 순찰하기 시작하면서 케를라스 지방에도 서서히 평온한 일상이 돌아오기 시작했습니다."
+msgstr "Deoran은 부상자들을 찾아다니고 병사들이 도시의 부서진 성벽과 방벽을 재건하도록 지휘하며 나날을 보냈습니다. Westin이 복구되고 남부 경비대가 다시 마을을 순찰하기 시작하면서 케를라스(Kerlath) 지방에도 서서히 평온한 일상이 돌아오기 시작했습니다."
 
 #, fuzzy
 #~| msgid ""

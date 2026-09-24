@@ -884,7 +884,7 @@ msgid ""
 "afar through the apparatus of these strange wands they carried into battle. "
 "The deafening noise of these ‘thundersticks’ is terrifying to behold, and is "
 "made more so by the secrecy which dwarves wrap about their workings."
-msgstr "웨스노스 사람들이 처음 난쟁이들을 만났을 때, 난쟁이 뇌격병들이 전투에서 들고 다니는 이 이상한 지팡이 장치를 통해 멀리서 죽음을 던지는 능력에 의아해했다. 이 '뇌격봉'의 귀를 찢는 듯한 소리는 보기에 끔찍하며, 난쟁이들이 그 작동 방식에 대해 비밀을 지키기 때문에 더욱 그러하다."
+msgstr "웨스노스(Wesnoth) 사람들이 처음 난쟁이들을 만났을 때, 난쟁이 뇌격병들이 전투에서 들고 다니는 이 이상한 지팡이 장치를 통해 멀리서 죽음을 던지는 능력에 의아해했다. 이 '뇌격봉'의 귀를 찢는 듯한 소리는 보기에 끔찍하며, 난쟁이들이 그 작동 방식에 대해 비밀을 지키기 때문에 더욱 그러하다."
 
 #. [attack]: type=pierce
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Thunderer.cfg:38
@@ -908,7 +908,7 @@ msgid ""
 "Though a single shot from these ‘thundersticks’ can take several minutes to "
 "prepare, the results are seen by the dwarves as being well worth the wait."
 msgstr ""
-"난쟁이 뇌격 경비병들은 그들의 흥분 속에 천둥 같은 소리를 내는 나무와 쇠로 된 이 이상한 지팡이 무기로 유명하다. 이 무기 뒤에 숨겨진 비밀은 수수께끼이며, 그것을 사용하는 크날가 난쟁이들이 무덤까지 가져가는 비밀이며, 심지어 그들이 직접 제작한 것으로 추정된다. 알려진 사실은 난쟁이들이 무기 입구에 이상한 검은 가루를 붓는다는 보고뿐이며, 어떤 이들은 그것이 안에 갇힌 짐승에게 연료를 공급하는 음식이라고 말한다.\n"
+"난쟁이 뇌격 경비병들은 그들의 흥분 속에 천둥 같은 소리를 내는 나무와 쇠로 된 이 이상한 지팡이 무기로 유명하다. 이 무기 뒤에 숨겨진 비밀은 수수께끼이며, 그것을 사용하는 크날가(Knalga) 난쟁이들이 무덤까지 가져가는 비밀이며, 심지어 그들이 직접 제작한 것으로 추정된다. 알려진 사실은 난쟁이들이 무기 입구에 이상한 검은 가루를 붓는다는 보고뿐이며, 어떤 이들은 그것이 안에 갇힌 짐승에게 연료를 공급하는 음식이라고 말한다.\n"
 "\n"
 "이 ‘벽력포’의 단 한 발을 준비하는 데 몇 분이 걸릴 수 있지만, 그 결과는 난쟁이들에게 기다릴 가치가 있는 것으로 여겨진다."
 
@@ -2587,7 +2587,7 @@ msgid ""
 "Though a single shot from these ‘thundersticks’ can take several minutes to "
 "prepare, the results are seen by the Dwarves as being well worth the wait."
 msgstr ""
-"난쟁이 천둥 수호자는 그들의 특이한 무기, 즉 분노하면 천둥 같은 소리를 내는 나무와 쇠로 된 이상한 지팡이로 유명하다. 이 무기의 작동 원리는 미스터리이며, 이를 사용하는 크날가 난쟁이들이 비밀을 무덤까지 가져갔고, 심지어 그들이 직접 제작했을 것으로 추정된다. 알려진 가장 큰 정보는 난쟁이들이 무기 입구에 이상한 검은 가루를 붓는다는 보고인데, 일부는 갇혀 있는 짐승에게 연료를 공급하는 음식이라고 말한다.\n"
+"난쟁이 천둥 수호자는 그들의 특이한 무기, 즉 분노하면 천둥 같은 소리를 내는 나무와 쇠로 된 이상한 지팡이로 유명하다. 이 무기의 작동 원리는 미스터리이며, 이를 사용하는 크날가(Knalga) 난쟁이들이 비밀을 무덤까지 가져갔고, 심지어 그들이 직접 제작했을 것으로 추정된다. 알려진 가장 큰 정보는 난쟁이들이 무기 입구에 이상한 검은 가루를 붓는다는 보고인데, 일부는 갇혀 있는 짐승에게 연료를 공급하는 음식이라고 말한다.\n"
 "\n"
 "이 '천둥 지팡이'에서 한 발을 발사하는 데 몇 분이 걸릴 수 있지만, 난쟁이들은 그 결과가 기다릴 만한 가치가 있다고 여긴다."
 
@@ -2877,7 +2877,7 @@ msgid ""
 msgstr ""
 "요정 귀족 계급의 상속은 요정 사회의 각 거주지마다 다소 차이가 있는 복잡한 과정이다. 일반적으로 요정의 미래 지도자들은 요정 사회의 세 가지 측면, 즉 숲을 지키는 전사와 레인저, 전투를 완전히 멀리하는 평화로운 시민, 그리고 요정 마법 연구를 하는 치유사와 신비주의자들의 집단을 다스리는 임무를 맡는다. 이러한 파벌 간의 차이를 조화시키고 효과적으로 백성을 이끌기 위해서는 상당한 개인적 자질과 모든 종류의 요정에 대한 깊은 통찰력이 필요하다. 이를 위해, 군주는 일반적으로 전통적으로 여성 주술사에게만 가르쳐지는 요정 마법을 어느 정도 배울 수 있는 유일한 남성 요정이다.\n"
 "\n"
-"북부 린타니르 숲과 같은 일부 거주지는 혈통을 통해 귀족 지위를 유지하지만, 강력한 웨스미어 요정들과 같은 다른 집단은 새로운 세대마다 새로운 군주를 선출한다. 어느 경우든, 귀족의 지위는 절대적인 경우는 드물며, 그들은 무력보다는 외교와 지혜로 이끌 것으로 기대된다."
+"북부 린타니르 숲과 같은 일부 거주지는 혈통을 통해 귀족 지위를 유지하지만, 강력한 웨스미어(Wesmere) 요정들과 같은 다른 집단은 새로운 세대마다 새로운 군주를 선출한다. 어느 경우든, 귀족의 지위는 절대적인 경우는 드물며, 그들은 무력보다는 외교와 지혜로 이끌 것으로 기대된다."
 
 #. [unit_type]: id=Elvish Marksman, race=elf, gender=male,female
 #: data/core/units/elves/Marksman.cfg:4
@@ -3366,7 +3366,7 @@ msgid ""
 "Gryphon Masters have long experience flying the Gryphons, which have become "
 "an extension of themselves. This special relationship makes the heart of the "
 "earth-bound tremble, for these mighty birds of prey may strike from anywhere."
-msgstr "그리폰 마스터들은 그리폰을 오랫동안 조종해왔으며, 그리폰은 그들의 일부가 되었다. 이 특별한 관계는 지상에 묶인 자들의 심장을 떨게 하는데, 이 강력한 맹금들이 어디서든 공격해올 수 있기 때문이다."
+msgstr "그리폰(Gryphon) 마스터들은 그리폰(Gryphon)을 오랫동안 조종해왔으며, 그리폰(Gryphon)은 그들의 일부가 되었다. 이 특별한 관계는 지상에 묶인 자들의 심장을 떨게 하는데, 이 강력한 맹금들이 어디서든 공격해올 수 있기 때문이다."
 
 #. [unit_type]: id=Gryphon Rider, race=gryphon
 #: data/core/units/gryphons/Gryphon_Rider.cfg:4
@@ -3379,7 +3379,7 @@ msgid ""
 "Only a few are able to bond with the mighty Gryphons. Those who do may "
 "become Gryphon Riders, and discover the world of the skies upon the backs of "
 "these flying beasts."
-msgstr "소수의 존재들만이 강력한 그리폰들과 유대감을 형성할 수 있다. 그렇게 하는 자들은 그리폰 기병이 되어 이 나는 짐승들의 등 위에서 하늘의 세계를 발견할 수 있다."
+msgstr "소수의 존재들만이 강력한 그리폰(Gryphon)들과 유대감을 형성할 수 있다. 그렇게 하는 자들은 그리폰(Gryphon) 기병이 되어 이 나는 짐승들의 등 위에서 하늘의 세계를 발견할 수 있다."
 
 #. [unit_type]: id=Grand Knight, race=human
 #: data/core/units/humans/Horse_Grand_Knight.cfg:4
@@ -3427,7 +3427,7 @@ msgid ""
 "for they often win either glory or a swift death. Lancers excel in hunting "
 "down infantrymen who have made the mistake of breaking formation, and in "
 "piercing defensive lines. However, they have limited use in defense."
-msgstr "창기병은 웨스노스 전체에서 가장 용감하고 두려움을 사는 기병 중 하나이다. 최소한의 갑옷만 착용하여 동료들보다 더 빠르게, 신속하게 달릴 수 있다. 그들이 사용하는 대담한 전술은 양날의 검과 같아서, 종종 영광을 얻거나 빠른 죽음을 맞이한다. 창기병은 대형을 깬 보병을 사냥하고 방어선을 돌파하는 데 능숙하다. 하지만 방어에는 제한적인 사용만 가능하다."
+msgstr "창기병은 웨스노스(Wesnoth) 전체에서 가장 용감하고 두려움을 사는 기병 중 하나이다. 최소한의 갑옷만 착용하여 동료들보다 더 빠르게, 신속하게 달릴 수 있다. 그들이 사용하는 대담한 전술은 양날의 검과 같아서, 종종 영광을 얻거나 빠른 죽음을 맞이한다. 창기병은 대형을 깬 보병을 사냥하고 방어선을 돌파하는 데 능숙하다. 하지만 방어에는 제한적인 사용만 가능하다."
 
 #. [unit_type]: id=Horseman, race=human
 #: data/core/units/humans/Horseman.cfg:4
@@ -3521,7 +3521,7 @@ msgid ""
 "and skilled in the use of their swords, these soldiers can drive forward and "
 "hold the ground they take. Their mobility and resilience make them of great "
 "value on the battlefield."
-msgstr "웨스노스 군대에서 더 유능한 기병들은 석궁 사용법을 훈련받고 훨씬 더 강력한 군마를 배정받는다. 튼튼한 갑옷을 갖추고 검술에 능숙한 이 병사들은 전진하여 점령한 지역을 지킬 수 있다. 그들의 기동성과 강인함은 전장에서 매우 큰 가치를 지닌다."
+msgstr "웨스노스(Wesnoth) 군대에서 더 유능한 기병들은 석궁 사용법을 훈련받고 훨씬 더 강력한 군마를 배정받는다. 튼튼한 갑옷을 갖추고 검술에 능숙한 이 병사들은 전진하여 점령한 지역을 지킬 수 있다. 그들의 기동성과 강인함은 전장에서 매우 큰 가치를 지닌다."
 
 #. [unit_type]: id=Duelist, race=human
 #: data/core/units/humans/Loyalist_Duelist.cfg:4
@@ -3543,7 +3543,7 @@ msgid ""
 "live long enough to be veterans typically do so by making such concessions "
 "to utility and survival."
 msgstr ""
-"웨스노스 귀족들은 자식들을 두 종류의 무장 기사단 중 하나에 입단시켜 승마술이나 펜싱을 가르치는 특이한 관습을 가지고 있다. 결투사라는 이름은 불행히도 젊은 귀족들 사이에서 흔한 관행에서 유래되었는데, 그들은 실제든 상상이든 모욕의 자극에 자신의 타고난 권리를 성급하게 행사하려는 경향이 있었다.\n"
+"웨스노스(Wesnoth) 귀족들은 자식들을 두 종류의 무장 기사단 중 하나에 입단시켜 승마술이나 펜싱을 가르치는 특이한 관습을 가지고 있다. 결투사라는 이름은 불행히도 젊은 귀족들 사이에서 흔한 관행에서 유래되었는데, 그들은 실제든 상상이든 모욕의 자극에 자신의 타고난 권리를 성급하게 행사하려는 경향이 있었다.\n"
 "\n"
 "숙련된 펜싱 선수들은 코트나 망토 아래 쉽게 숨길 수 있는 작은 석궁을 가지고 다닌다. 장전 속도가 느리고 때로는 사용하는 것이 명예롭지 않다고 여겨지지만, 사실 매우 유용하며, 참전 용사들이 될 만큼 오래 살아남은 자들은 일반적으로 유용성과 생존을 위해 그러한 양보를 한다."
 
@@ -3628,7 +3628,10 @@ msgid ""
 "the hands of a novice, much less effective. In the armies of Wesnoth, it is "
 "customary only to grant these weapons to veteran pikemen, who have proven "
 "that they have the skill to employ them properly on the field of war."
-msgstr "할버드는 무겁고 다루기 어렵지만 숙련자의 손에서는 매우 강력한 무기입니다. 또한 할버드의 기원이 된 창보다 훨씬 유연하게 사용할 수 있습니다. 할버드병이라면 누구나 알듯이 이 무기에는 창이나 장창보다 두 개 많은 네 개의 주요 타격점이 있습니다. 끝, 칼날, 자루 아래쪽의 가시, 그리고 사용자를 향해 당기는 동작에 사용할 수 있는 칼날 안쪽이 그것입니다. 이 모든 특징 덕분에 할버드는 특히 기병을 상대로 근접전에서 매우 다재다능합니다.\n\n하지만 할버드는 창보다 제작 비용이 훨씬 비싸고 초보자가 사용하면 효과도 크게 떨어집니다. 웨스노스 군대에서는 전장에서 제대로 사용할 실력을 입증한 숙련 장창병에게만 이 무기를 지급하는 것이 관례입니다."
+msgstr ""
+"할버드는 무겁고 다루기 어렵지만 숙련자의 손에서는 매우 강력한 무기입니다. 또한 할버드의 기원이 된 창보다 훨씬 유연하게 사용할 수 있습니다. 할버드병이라면 누구나 알듯이 이 무기에는 창이나 장창보다 두 개 많은 네 개의 주요 타격점이 있습니다. 끝, 칼날, 자루 아래쪽의 가시, 그리고 사용자를 향해 당기는 동작에 사용할 수 있는 칼날 안쪽이 그것입니다. 이 모든 특징 덕분에 할버드는 특히 기병을 상대로 근접전에서 매우 다재다능합니다.\n"
+"\n"
+"하지만 할버드는 창보다 제작 비용이 훨씬 비싸고 초보자가 사용하면 효과도 크게 떨어집니다. 웨스노스(Wesnoth) 군대에서는 전장에서 제대로 사용할 실력을 입증한 숙련 장창병에게만 이 무기를 지급하는 것이 관례입니다."
 
 #. [special_note]
 #: data/core/units/humans/Loyalist_Halberdier.cfg:22
@@ -3790,7 +3793,7 @@ msgid ""
 "weapon than a spear, and thus facilitates different combat tactics. A wall "
 "of pikemen is the bane of any cavalry charge, and with proper discipline and "
 "tactics, pikemen can also hold most other infantry at bay."
-msgstr "웨스노스 군대의 유망한 창병은 종종 장창을 다루는 장창병으로 승급하며, 신병 때 입던 잡다한 가죽 갑옷보다 훨씬 나은 장비를 갖춥니다. 장창은 창보다 훨씬 긴 무기라서 다른 전투 전술을 가능하게 합니다. 장창병의 벽은 모든 기병 돌격의 천적이며, 적절한 규율과 전술을 갖추면 대부분의 다른 보병도 막아 낼 수 있습니다."
+msgstr "웨스노스(Wesnoth) 군대의 유망한 창병은 종종 장창을 다루는 장창병으로 승급하며, 신병 때 입던 잡다한 가죽 갑옷보다 훨씬 나은 장비를 갖춥니다. 장창은 창보다 훨씬 긴 무기라서 다른 전투 전술을 가능하게 합니다. 장창병의 벽은 모든 기병 돌격의 천적이며, 적절한 규율과 전술을 갖추면 대부분의 다른 보병도 막아 낼 수 있습니다."
 
 #. [special_note]
 #: data/core/units/humans/Loyalist_Pikeman.cfg:19
@@ -3829,7 +3832,7 @@ msgid ""
 "mercenaries, are often deployed on missions of crucial import. Their "
 "reliability and mastery of close combat are their best assets, for which "
 "they are well-renowned."
-msgstr "왕실 근위병은 웨스노스 최고의 검객들 중에서 선발된다. 상위 귀족들을 섬기며, 그들은 경호원 역할을 하며, 고용주에게는 일종의 직위의 상징으로 기능한다. 특별한 왕실 근위병 부대가 수도에 주둔하며, 궁궐 경내와 왕족을 경비한다. 상급자들과의 신뢰 관계 덕분에, 용병 대신 중요한 임무에 자주 투입된다. 그들의 신뢰성과 근접 전투의 숙련도는 최고의 자산이며, 이로 인해 그들은 명성이 높다."
+msgstr "왕실 근위병은 웨스노스(Wesnoth) 최고의 검객들 중에서 선발된다. 상위 귀족들을 섬기며, 그들은 경호원 역할을 하며, 고용주에게는 일종의 직위의 상징으로 기능한다. 특별한 왕실 근위병 부대가 수도에 주둔하며, 궁궐 경내와 왕족을 경비한다. 상급자들과의 신뢰 관계 덕분에, 용병 대신 중요한 임무에 자주 투입된다. 그들의 신뢰성과 근접 전투의 숙련도는 최고의 자산이며, 이로 인해 그들은 명성이 높다."
 
 #. [special_note]
 #: data/core/units/humans/Loyalist_Royal_Guard.cfg:22
@@ -5147,7 +5150,7 @@ msgid ""
 "dangerous weapon, they do posses small, bony arms and claws, which they can "
 "use to extricate themselves from situations dire to most other fish. These "
 "fish are unusually clever and should not be underestimated."
-msgstr "거대 카리브는 웰딘 근처 내륙 강에서 좀처럼 볼 수 없지만, 사나운 공격에 관한 이야기는 널리 퍼져 있습니다. 분노한 붉은 눈이 갑옷 같은 얼굴에 박혀 있습니다. 위험한 무기는 이빨이지만, 작고 뼈 같은 팔과 발톱도 있어 다른 물고기라면 빠져나오기 어려운 상황에서도 벗어날 수 있습니다. 이 물고기는 유난히 영리하므로 얕봐서는 안 됩니다."
+msgstr "거대 카리브는 웰딘(Weldyn) 근처 내륙 강에서 좀처럼 볼 수 없지만, 사나운 공격에 관한 이야기는 널리 퍼져 있습니다. 분노한 붉은 눈이 갑옷 같은 얼굴에 박혀 있습니다. 위험한 무기는 이빨이지만, 작고 뼈 같은 팔과 발톱도 있어 다른 물고기라면 빠져나오기 어려운 상황에서도 벗어날 수 있습니다. 이 물고기는 유난히 영리하므로 얕봐서는 안 됩니다."
 
 #. [unit_type]: id=Hunter Caribe, race=monster
 #: data/core/units/monsters/Caribe_Hunter.cfg:8
@@ -5262,7 +5265,7 @@ msgid ""
 "adult form can live indefinitely, slowly growing to a final moult. They are "
 "generally territorial, but can cooperate in small groups to confront common "
 "foes or large prey."
-msgstr "웨스노스 주변의 일부 늪, 강, 호수에서 볼 수 있는 거대한 잠자리는 작고 흔한 종류보다 더 긴 수명 주기를 누립니다. 성체는 최종 탈피까지 천천히 성장하며 무기한으로 살 수 있습니다. 그들은 일반적으로 영역을 지키지만, 흔한 적이나 큰 먹이에 맞서기 위해 소규모로 협력할 수 있습니다."
+msgstr "웨스노스(Wesnoth) 주변의 일부 늪, 강, 호수에서 볼 수 있는 거대한 잠자리는 작고 흔한 종류보다 더 긴 수명 주기를 누립니다. 성체는 최종 탈피까지 천천히 성장하며 무기한으로 살 수 있습니다. 그들은 일반적으로 영역을 지키지만, 흔한 적이나 큰 먹이에 맞서기 위해 소규모로 협력할 수 있습니다."
 
 #. [unit_type]: id=Grand Dragonfly, race=monster
 #: data/core/units/monsters/Dragonfly_Grand.cfg:5
@@ -5533,7 +5536,7 @@ msgid ""
 "Giant Spiders are said to roam the depths of Knalga, devouring many victims. "
 "They have a vicious bite, made worse by the fact that it is poisoned, and "
 "can also fling webs through the air to trap their prey."
-msgstr "수많은 희생자들을 먹어치운 대왕거미들이 크날가 깊은 곳에서 돌아다닌다고 전해진다. 이들은 독이 들어서 더욱 무서운 이빨로 물며, 그들의 먹이를 붙들기 위해 공중에 그물을 던진다."
+msgstr "수많은 희생자들을 먹어치운 대왕거미들이 크날가(Knalga) 깊은 곳에서 돌아다닌다고 전해진다. 이들은 독이 들어서 더욱 무서운 이빨로 물며, 그들의 먹이를 붙들기 위해 공중에 그물을 던진다."
 
 #. [attack]: type=impact
 #: data/core/units/monsters/Giant_Spider.cfg:40
@@ -5950,7 +5953,7 @@ msgid ""
 "dark powers of necromancy, which it now serves. The Skeletal Dragon may look "
 "like nothing more than a pile of bones, but few people who thought that way "
 "lived long enough to change their minds."
-msgstr "먼 옛날 가장 강력한 생명체였던 공포의 드래곤은 이제 뼈와 검은 힘줄만이 남았다. 그 죽음으로부터 오랜 세월이 지나 그것은 네크로맨시의 어둠의 힘으로 다시 깨어나 그 힘을 위해 봉사한다. 드래곤 해골은 단지 뼈무더기로만 보이기도 하지만, 그런 식으로 생각하는 소수의 사람들은 그 생각을 바꾸기엔 너무 오래 산 자들이다."
+msgstr "먼 옛날 가장 강력한 생명체였던 공포의 드래곤(Dragon)은 이제 뼈와 검은 힘줄만이 남았다. 그 죽음으로부터 오랜 세월이 지나 그것은 네크로맨시의 어둠의 힘으로 다시 깨어나 그 힘을 위해 봉사한다. 드래곤(Dragon) 해골은 단지 뼈무더기로만 보이기도 하지만, 그런 식으로 생각하는 소수의 사람들은 그 생각을 바꾸기엔 너무 오래 산 자들이다."
 
 #. [attack]: type=blade
 #: data/core/units/monsters/Skeletal_Dragon.cfg:31
@@ -6084,7 +6087,7 @@ msgid ""
 "them to live long enough to learn and improve. Sometimes viewed as cowardly "
 "by the northern Naga warriors, these fighters are nonetheless effective when "
 "it comes time to engage in warfare."
-msgstr "북쪽 형제들의 강력한 근접 공격 방식과는 대조적으로, 남쪽 물의 젊은 나가들은 가까이 다가가기 전에 멀리서 먹이를 약화시키는 것을 선호합니다. 그들이 던지는 작은 차크리는 손목이나 허리띠에 걸어 방해 없이 휴대할 수 있습니다. 물속에서의 최종적인 살해는 대개 근거리에서 이루어져야 하지만, 혼합된 전투 방식은 종종 그들이 배우고 개선할 수 있을 만큼 오래 살게 해줍니다. 북쪽 나가 전사들에게는 때때로 비겁하다고 여겨지지만, 이 전사들은 전투에 임할 때 효과적입니다."
+msgstr "북쪽 형제들의 강력한 근접 공격 방식과는 대조적으로, 남쪽 물의 젊은 나가(Naga)들은 가까이 다가가기 전에 멀리서 먹이를 약화시키는 것을 선호합니다. 그들이 던지는 작은 차크리는 손목이나 허리띠에 걸어 방해 없이 휴대할 수 있습니다. 물속에서의 최종적인 살해는 대개 근거리에서 이루어져야 하지만, 혼합된 전투 방식은 종종 그들이 배우고 개선할 수 있을 만큼 오래 살게 해줍니다. 북쪽 나가(Naga) 전사들에게는 때때로 비겁하다고 여겨지지만, 이 전사들은 전투에 임할 때 효과적입니다."
 
 #. [attack]: type=blade
 #: data/core/units/nagas/Dirkfang.cfg:38
@@ -6185,7 +6188,7 @@ msgid ""
 "snakes which they resemble, and dance away from attacks with grace. Not only "
 "are they potent enemies on any open terrain, but their ability to swim "
 "allows them deadly mobility in water."
-msgstr "나가 최고의 검술사들만이 쌍검술의 달인들인 미르미돈 계급에 들 수 있다. 이들은 자신들이 흉내내는 뱀만큼 빠르게 치고, 마치 춤추는 것처럼 우아하게 공격을 피한다. 이들은 평지에서도 강력한 상대이지만, 이들의 수영능력은 수중에서 무시무시한 기동력을 보장해 준다."
+msgstr "나가 최고의 검술사들만이 쌍검술의 달인들인 미르미돈(Myrmidon) 계급에 들 수 있다. 이들은 자신들이 흉내내는 뱀만큼 빠르게 치고, 마치 춤추는 것처럼 우아하게 공격을 피한다. 이들은 평지에서도 강력한 상대이지만, 이들의 수영능력은 수중에서 무시무시한 기동력을 보장해 준다."
 
 #. [female]: gender=female
 #: data/core/units/nagas/Myrmidon.cfg:48
@@ -6200,7 +6203,7 @@ msgid ""
 "the snakes which they resemble, and dance away from attacks with grace. Not "
 "only are they potent enemies on any open terrain, but their ability to swim "
 "allows them a deadly mobility."
-msgstr "나기니 최고의 검술사들만이 쌍검술의 달인들인 미르미돈 계급에 들 수 있다. 이들은 자신들이 흉내내는 뱀만큼 빠르게 치고, 마치 춤추는 것처럼 우아하게 공격을 피한다. 이들은 평지에서도 강력한 상대이지만, 이들의 수영능력은 수중에서 무시무시한 기동력을 보장해 준다."
+msgstr "나기니 최고의 검술사들만이 쌍검술의 달인들인 미르미돈(Myrmidon) 계급에 들 수 있다. 이들은 자신들이 흉내내는 뱀만큼 빠르게 치고, 마치 춤추는 것처럼 우아하게 공격을 피한다. 이들은 평지에서도 강력한 상대이지만, 이들의 수영능력은 수중에서 무시무시한 기동력을 보장해 준다."
 
 #. [unit_type]: id=Naga Ophidian, race=naga, gender=male,female
 #: data/core/units/nagas/Ophidian.cfg:4
@@ -6223,7 +6226,7 @@ msgid ""
 "demand for water-based protection is the highest. As a group, these nagas "
 "encourage a healthy amount of competition among the surface factions, "
 "ensuring their services are valued by one tribe or another."
-msgstr "남쪽 나가의 숙련된 전사들은 종종 용병으로 일하며, 보통 해안선 근처의 주요 수로를 통제하기 위해 인근 사막 부족에게 고용됩니다. 적 기병과의 끊임없는 대결로 인해 오피디언들은 젊은 시절의 고리 모양 칼날을 은퇴하고, 나가족이 침몰한 선박의 밸러스트에서 수확한 납을 추가하여 더 치명적으로 만든 작은 창인 자리드를 사용하게 되었습니다. 일반적으로 부유한 고용주들과 우호적이지만, 이러한 친절함을 충성심으로 오해해서는 안 됩니다. 오피디언들은 매 선박 운송 시즌이 시작될 때마다, 수로 기반 보호에 대한 수요가 가장 높을 때, 경쟁 도시 국가 파벌 사이를 쉽게 옮겨 다니는 것으로 알려져 있기 때문입니다. 집단적으로 이 나가들은 표면 파벌들 사이에서 건전한 경쟁을 장려하여, 그들의 용역이 어느 부족에게든 가치를 인정받도록 합니다."
+msgstr "남쪽 나가(Naga)의 숙련된 전사들은 종종 용병으로 일하며, 보통 해안선 근처의 주요 수로를 통제하기 위해 인근 사막 부족에게 고용됩니다. 적 기병과의 끊임없는 대결로 인해 오피디언들은 젊은 시절의 고리 모양 칼날을 은퇴하고, 나가(Naga)족이 침몰한 선박의 밸러스트에서 수확한 납을 추가하여 더 치명적으로 만든 작은 창인 자리드를 사용하게 되었습니다. 일반적으로 부유한 고용주들과 우호적이지만, 이러한 친절함을 충성심으로 오해해서는 안 됩니다. 오피디언들은 매 선박 운송 시즌이 시작될 때마다, 수로 기반 보호에 대한 수요가 가장 높을 때, 경쟁 도시 국가 파벌 사이를 쉽게 옮겨 다니는 것으로 알려져 있기 때문입니다. 집단적으로 이 나가(Naga)들은 표면 파벌들 사이에서 건전한 경쟁을 장려하여, 그들의 용역이 어느 부족에게든 가치를 인정받도록 합니다."
 
 #. [attack]: type=blade
 #: data/core/units/nagas/Ophidian.cfg:27 data/core/units/nagas/Sicarius.cfg:28
@@ -6255,7 +6258,7 @@ msgid ""
 "of the southern Naga and their renowned Ringcasters. Well balanced chakrams "
 "are useful for throwing, but the rejected blades make a good fist-load "
 "weapon, similar to a sharp-bladed tekko or knuckleduster."
-msgstr "차크리보다 더 큰 칼날 고리인 차크람은 남쪽 나가족과 유명한 링캐스터들의 대표적인 무기입니다. 균형 잡힌 차크람은 던지기에 유용하지만, 버려진 칼날은 날카로운 칼날의 테코나 너클 더스터와 유사한 주먹 무기로 사용하기 좋습니다."
+msgstr "차크리보다 더 큰 칼날 고리인 차크람은 남쪽 나가(Naga)족과 유명한 링캐스터들의 대표적인 무기입니다. 균형 잡힌 차크람은 던지기에 유용하지만, 버려진 칼날은 날카로운 칼날의 테코나 너클 더스터와 유사한 주먹 무기로 사용하기 좋습니다."
 
 #. [attack]: type=blade
 #: data/core/units/nagas/Ringcaster.cfg:34
@@ -6292,7 +6295,7 @@ msgid ""
 "do find themselves in danger, their manipulative cunning is put to good use, "
 "for they can anticipate many enemy strikes, and use their heavy, curved "
 "blade to deflect or distract at the critical moment."
-msgstr "나가 고리 무기수는 때때로 잠재적인 모래부족 동맹을 위해 용병으로 나서기도 하지만, 주로 수로 근처의 교역로와 자원 매장지를 지키는 역할을 합니다. 적절한 보수나 물품 교환이 있다면, 시카리우스는 자신의 영토에서 안전한 여행이나 귀중한 물자에 대한 자유로운 접근을 보장할 것입니다. 하지만 그들의 심기를 건드리면, 시카리우스는 무시무시한 적이 되는데, 이는 그들의 개인적인 전투력 때문이 아니라, 잠재적인 골칫거리를 진압하기 위해 그가 불러들일 수 있는 수많은 동맹 때문입니다. 필요할 때 완벽한 전사로서의 능력을 갖추고 있지만, 이 노련한 용병들은 돈을 버는 가장 좋은 방법은 자신을 위험에 빠뜨리지 않는 것임을 잘 알고 있습니다. 위험에 처했을 때, 그들의 교활한 술책은 유용하게 사용되는데, 그들은 많은 적의 공격을 예측하고, 무거운 곡선형 칼날을 사용하여 결정적인 순간에 공격을 튕겨내거나 주의를 분산시킬 수 있습니다."
+msgstr "나가(Naga) 고리 무기수는 때때로 잠재적인 모래부족 동맹을 위해 용병으로 나서기도 하지만, 주로 수로 근처의 교역로와 자원 매장지를 지키는 역할을 합니다. 적절한 보수나 물품 교환이 있다면, 시카리우스는 자신의 영토에서 안전한 여행이나 귀중한 물자에 대한 자유로운 접근을 보장할 것입니다. 하지만 그들의 심기를 건드리면, 시카리우스는 무시무시한 적이 되는데, 이는 그들의 개인적인 전투력 때문이 아니라, 잠재적인 골칫거리를 진압하기 위해 그가 불러들일 수 있는 수많은 동맹 때문입니다. 필요할 때 완벽한 전사로서의 능력을 갖추고 있지만, 이 노련한 용병들은 돈을 버는 가장 좋은 방법은 자신을 위험에 빠뜨리지 않는 것임을 잘 알고 있습니다. 위험에 처했을 때, 그들의 교활한 술책은 유용하게 사용되는데, 그들은 많은 적의 공격을 예측하고, 무거운 곡선형 칼날을 사용하여 결정적인 순간에 공격을 튕겨내거나 주의를 분산시킬 수 있습니다."
 
 #. [female]: gender=female
 #: data/core/units/nagas/Sicarius.cfg:95
@@ -6378,7 +6381,22 @@ msgid ""
 "While the old tales drive the elite warriors of this legacy to focus on the "
 "thrown blade, this doesn't mean they are weak in melee combat, as the "
 "unbalanced chakram can be enhanced with spikes and smaller blades.\n"
-msgstr "남부 나가는 바람의 정령 제프라와 공허의 차크람에 관한 기묘한 이야기를 흔히 들려줍니다.\n\n먼 옛날, 전설적인 솜씨를 지닌 차크람 사용자가 있었습니다. 그는 칼날을 휘둘러 바다 자체를 가르고, 적 하나가 자신에게 닿기도 전에 백 명을 쓰러뜨리며, 화살에 맞지 않고 천 발을 튕겨 냈다고 합니다. 폭풍이라는 이름의 자일릭스는 재능만큼이나 오만한 전사였습니다. 그는 자신을 지켜보는 사람이면 누구에게나 기꺼이 실력을 뽐냈습니다. 그러던 어느 날, 어린 나기니 무리 앞에서 허세를 부리던 그는 신성한 알나이 나무를 표적으로 삼았습니다.\n\n‘보아라.’ 그가 고함치며 나무를 정확히 둘로 갈랐습니다.\n\n그 순간 거대한 바람이 그를 둘러쌌고, 바람의 정령 목소리가 그의 귀에 울렸습니다. ‘가엾은 내 자식을 죽였다고 네가 위대하다고 생각하느냐? 네게 재능은 있지만, 어떤 필멸자도 자신을 인도하는 신성을 함부로 대해서는 안 된다.’\n\n그가 대꾸했습니다. ‘나와라, 정령. 나는 두렵지 않다. 강철이든 물이든 바람이든, 어떤 무기도 내 고리에 맞설 수 없다.’\n\n바람은 점점 빠르게 소용돌이쳤고, 폭풍의 힘이 광분한 춤처럼 빙글빙글 회오리쳤습니다. 그는 땅에서 들어 올려져 엄청난 속도로 회전했고, 제프라의 분노 앞에서 완전히 무력해졌습니다. 공포에 질려 얼굴을 치켜든 그는 칼날을 놓쳤고, 회오리치는 폭풍 속에서 갑자기 그것을 보았습니다. 바람 자체에 새겨진 고리 달린 차크람의 회전이었습니다.\n\n폭풍이 몰아친 만큼 빠르게 사라지고, 자일릭스는 부서진 무기를 바라보게 되었습니다. 며칠 뒤 마침내 집으로 돌아온 그는 새로운 이름을 선포했습니다. 바람을 섬기며 칼날을 날리는 전사, 제피르라고 말입니다.\n\n오래된 전설은 이 계보의 정예 전사들에게 투척 칼날에 집중하도록 이끌지만, 그렇다고 근접전에 약하다는 뜻은 아닙니다. 균형이 맞지 않는 차크람도 가시와 작은 칼날로 강화할 수 있기 때문입니다.\n"
+msgstr ""
+"남부 나가(Naga)는 바람의 정령 제프라와 공허의 차크람에 관한 기묘한 이야기를 흔히 들려줍니다.\n"
+"\n"
+"먼 옛날, 전설적인 솜씨를 지닌 차크람 사용자가 있었습니다. 그는 칼날을 휘둘러 바다 자체를 가르고, 적 하나가(Naga) 자신에게 닿기도 전에 백 명을 쓰러뜨리며, 화살에 맞지 않고 천 발을 튕겨 냈다고 합니다. 폭풍이라는 이름의 자일릭스는 재능만큼이나 오만한 전사였습니다. 그는 자신을 지켜보는 사람이면 누구에게나 기꺼이 실력을 뽐냈습니다. 그러던 어느 날, 어린 나기니 무리 앞에서 허세를 부리던 그는 신성한 알나이 나무를 표적으로 삼았습니다.\n"
+"\n"
+"‘보아라.’ 그가 고함치며 나무를 정확히 둘로 갈랐습니다.\n"
+"\n"
+"그 순간 거대한 바람이 그를 둘러쌌고, 바람의 정령 목소리가 그의 귀에 울렸습니다. ‘가엾은 내 자식을 죽였다고 네가 위대하다고 생각하느냐? 네게 재능은 있지만, 어떤 필멸자도 자신을 인도하는 신성을 함부로 대해서는 안 된다.’\n"
+"\n"
+"그가 대꾸했습니다. ‘나와라, 정령. 나는 두렵지 않다. 강철이든 물이든 바람이든, 어떤 무기도 내 고리에 맞설 수 없다.’\n"
+"\n"
+"바람은 점점 빠르게 소용돌이쳤고, 폭풍의 힘이 광분한 춤처럼 빙글빙글 회오리쳤습니다. 그는 땅에서 들어 올려져 엄청난 속도로 회전했고, 제프라의 분노 앞에서 완전히 무력해졌습니다. 공포에 질려 얼굴을 치켜든 그는 칼날을 놓쳤고, 회오리치는 폭풍 속에서 갑자기 그것을 보았습니다. 바람 자체에 새겨진 고리 달린 차크람의 회전이었습니다.\n"
+"\n"
+"폭풍이 몰아친 만큼 빠르게 사라지고, 자일릭스는 부서진 무기를 바라보게 되었습니다. 며칠 뒤 마침내 집으로 돌아온 그는 새로운 이름을 선포했습니다. 바람을 섬기며 칼날을 날리는 전사, 제피르라고 말입니다.\n"
+"\n"
+"오래된 전설은 이 계보의 정예 전사들에게 투척 칼날에 집중하도록 이끌지만, 그렇다고 근접전에 약하다는 뜻은 아닙니다. 균형이 맞지 않는 차크람도 가시와 작은 칼날로 강화할 수 있기 때문입니다.\n"
 
 #. [female]: gender=female
 #: data/core/units/nagas/Zephyr.cfg:111
@@ -6905,9 +6923,7 @@ msgid ""
 "Troll shamans are the mystical leaders of the trolls. Though not as strong "
 "or tough as other trolls, their true power lies in their fire magic, which "
 "they use to blast enemies with gouts of flame."
-msgstr ""
-"트롤 샤먼들은 트롤들의 영적인 지도자이다. 다른 트롤처럼 강인하지는 않지만, 그"
-"들의 진정한 힘은 그들이 적에게 불덩어리를 뿜어낼때 쓰는 화염 마법에 있다."
+msgstr "트롤(Troll) 샤먼들은 트롤(Troll)들의 영적인 지도자이다. 다른 트롤(Troll)처럼 강인하지는 않지만, 그들의 진정한 힘은 그들이 적에게 불덩어리를 뿜어낼때 쓰는 화염 마법에 있다."
 
 #. [attack]: type=fire
 #: data/core/units/trolls/Troll_Shaman.cfg:41
@@ -7181,7 +7197,7 @@ msgid ""
 "need, it is only through the tireless efforts of the most valiant heroes "
 "that the rise of an Ancient Lich has not led to the shadows ruling the world "
 "for the rest of time."
-msgstr "새로 얻은 불멸의 수명 동안 충분한 힘을 축적한 리치는 영혼을 절망으로 물들이고 세상에 파멸을 퍼뜨릴 수 있는 존재가 됩니다. 거의 무한에 가까운 부활한 전사들과 언데드 괴물들의 군대를 지휘하는 이러한 리치는 인간과 엘프 종족의 가장 유명한 마법사들에게 공포를 가져다줄 수 있는 암흑 마법의 숙달을 이룹니다. 이러한 존재는 보통 역사에서 어둡고 피비린내 나는 장을 기록하며, 필요한 시기에 가장 용감한 영웅들의 끊임없는 노력만이 고대 리치의 부상이 영원히 그림자가 세상을 지배하도록 이끌지 않도록 막을 수 있습니다."
+msgstr "새로 얻은 불멸의 수명 동안 충분한 힘을 축적한 리치(Lich)는 영혼을 절망으로 물들이고 세상에 파멸을 퍼뜨릴 수 있는 존재가 됩니다. 거의 무한에 가까운 부활한 전사들과 언데드 괴물들의 군대를 지휘하는 이러한 리치(Lich)는 인간과 엘프 종족의 가장 유명한 마법사들에게 공포를 가져다줄 수 있는 암흑 마법의 숙달을 이룹니다. 이러한 존재는 보통 역사에서 어둡고 피비린내 나는 장을 기록하며, 필요한 시기에 가장 용감한 영웅들의 끊임없는 노력만이 고대 리치(Lich)의 부상이 영원히 그림자가 세상을 지배하도록 이끌지 않도록 막을 수 있습니다."
 
 #. [unit_type]: id=Dark Adept, gender=male,female, race=human
 #: data/core/units/undead/Necro_Dark_Adept.cfg:4

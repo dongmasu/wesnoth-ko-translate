@@ -44,7 +44,7 @@ msgstr "머리말"
 #: doc/manual/manual.en.xml:12
 msgid ""
 "The Battle for Wesnoth is a turn-based strategy game with a fantasy theme."
-msgstr "웨스노스의 전쟁은 판타지적 배경을 가지고 있는 턴방식 전략 게임입니다."
+msgstr "웨스노스(Wesnoth)의 전쟁은 판타지적 배경을 가지고 있는 턴방식 전략 게임입니다."
 
 # type: Content of: <book><preface><simpara>
 #. type: Content of: <book><preface><simpara>
@@ -68,7 +68,7 @@ msgid ""
 "of Pearls. You can fight to regain the throne of Wesnoth, or use your dread "
 "power over the Undead to dominate the land of mortals, or lead your glorious "
 "Orcish tribe to victory against the humans who dared despoil your lands."
-msgstr "웨스노스에는 당신의 플레이를 기다리는 수많은 모험들이 있습니다. 당신은 웨스노스 왕국으로 행진하는 오크, 언데드, 도적들과 싸울수도 있고, 우뚝 솟은 봉우리들 사이에서 드래곤과 함께, 푸른 숲 아에센우드의 엘프들과, 크날가의 거대한 홀들에 사는 난쟁이들이나, 진주 해안의 인어들과도 함께 싸울 수 있습니다. 당신은 웨스노스의 왕좌를 얻기 위한 싸움에 동참하거나, 당신의 무시무시한 언데드의 힘으로 산 자의 땅을 정복하거나, 영예로운 오크 부족을 이끌어  당신의 땅을 훼손하려는 인간에 맞서 승리할 수도 있습니다."
+msgstr "웨스노스(Wesnoth)에는 당신의 플레이를 기다리는 수많은 모험들이 있습니다. 당신은 웨스노스(Wesnoth) 왕국으로 행진하는 오크, 언데드, 도적들과 싸울수도 있고, 우뚝 솟은 봉우리들 사이에서 드래곤과 함께, 푸른 숲 아에센우드의 엘프들과, 크날가(Knalga)의 거대한 홀들에 사는 난쟁이들이나, 진주 해안의 인어들과도 함께 싸울 수 있습니다. 당신은 웨스노스(Wesnoth)의 왕좌를 얻기 위한 싸움에 동참하거나, 당신의 무시무시한 언데드의 힘으로 산 자의 땅을 정복하거나, 영예로운 오크 부족을 이끌어  당신의 땅을 훼손하려는 인간에 맞서 승리할 수도 있습니다."
 
 # type: Content of: <book><preface><simpara>
 #. type: Content of: <book><preface><simpara>
@@ -90,7 +90,7 @@ msgid ""
 "units, write your own scenarios, and even script full-blown campaigns. User-"
 "maintained content is available from an add-on server, and the very best of "
 "it is incorporated into Battle for Wesnoth&#8217;s official releases."
-msgstr "웨스노스의 전쟁은 오픈 소스 소프트웨어로, 수많은 봉사자들의 커뮤니티가 게임을 더 낫게 만드는데 협력하고 있습니다. 당신은 자신만의 맞춤 유닛이나, 당신만의 시나리오나, 심지어 완전한 하나의 캠페인을 써 낼수도 있습니다. 유저 제작 콘텐츠들은 부가 기능 서버에서 다운받을 수 있으며, 그 중 가장 좋은 것들은 웨스노스의 전쟁 공식판에 통합됩니다."
+msgstr "웨스노스(Wesnoth)의 전쟁은 오픈 소스 소프트웨어로, 수많은 봉사자들의 커뮤니티가 게임을 더 낫게 만드는데 협력하고 있습니다. 당신은 자신만의 맞춤 유닛이나, 당신만의 시나리오나, 심지어 완전한 하나의 캠페인을 써 낼수도 있습니다. 유저 제작 콘텐츠들은 부가 기능 서버에서 다운받을 수 있으며, 그 중 가장 좋은 것들은 웨스노스(Wesnoth)의 전쟁 공식판에 통합됩니다."
 
 # type: Content of: <book><chapter><title>
 #. type: Content of: <book><chapter><title>
@@ -112,7 +112,7 @@ msgid ""
 "generally divided into three areas: the Northlands, which are generally "
 "lawless; the kingdom of Wesnoth and its occasional principality, Elensefar; "
 "and the domain of the Southwest Elves in the Aethenwood and beyond."
-msgstr "웨스노스가 있는 대륙의 알려진 지역은 대체로 세 영역으로 나뉩니다. 거의 무법 지역인 북방과, 웨스노스 왕국 및 그 임시 자치령인 엘렌세파르, 그리고 아에센우드와 그 너머의 남서부 엘프들의 영역입니다."
+msgstr "웨스노스(Wesnoth)가 있는 대륙의 알려진 지역은 대체로 세 영역으로 나뉩니다. 거의 무법 지역인 북방과, 웨스노스(Wesnoth) 왕국 및 그 임시 자치령인 엘렌세파르(Elensefar), 그리고 아에센우드와 그 너머의 남서부 엘프들의 영역입니다."
 
 # type: Content of: <book><chapter><section><simpara>
 #. type: Content of: <book><chapter><section><simpara>
@@ -124,7 +124,7 @@ msgid ""
 "once-province of Wesnoth, is bordered by the Great River to the north, a "
 "loosely defined line with Wesnoth to the east, the Bay of Pearls to the "
 "south, and the ocean to the west."
-msgstr "웨스노스 왕국은 이 땅의 중앙에 위치해 있습니다. 이곳의 영역은 북쪽으로는 한강까지, 동쪽과 남쪽으로는 둘라투스 언덕까지, 남서쪽으로는 아에센우드의 경계선까지, 서쪽으로는 대양까지입니다. 한때 웨스노스의 지방중 하나였던 엘렌세파르는 북쪽으로는 한강까지, 동쪽으로는 웨스노스와의 희미한 경계선까지, 남쪽으로는 진주 해안까지, 서쪽으로는 대양까지입니다."
+msgstr "웨스노스(Wesnoth) 왕국은 이 땅의 중앙에 위치해 있습니다. 이곳의 영역은 북쪽으로는 한강까지, 동쪽과 남쪽으로는 둘라투스 언덕까지, 남서쪽으로는 아에센우드의 경계선까지, 서쪽으로는 대양까지입니다. 한때 웨스노스(Wesnoth)의 지방중 하나였던 엘렌세파르(Elensefar)는 북쪽으로는 한강까지, 동쪽으로는 웨스노스(Wesnoth)와의 희미한 경계선까지, 남쪽으로는 진주 해안까지, 서쪽으로는 대양까지입니다."
 
 # type: Content of: <book><chapter><section><simpara>
 #. type: Content of: <book><chapter><section><simpara>
@@ -165,7 +165,7 @@ msgid ""
 "primarily the temperate grasslands. In the hills, mountains and underground "
 "caves orcs and dwarves are most at home. In the forests the elves reign "
 "supreme. In the oceans and rivers mermen and nagas dominate."
-msgstr "웨스노스의 세계에는 인간들, 요정들, 난쟁이들, 오크들, 반룡들, 도마뱀족들, 인어들, 나가들, 그리고 아직 모호함과 경이로움에 찬 수많은 다른 종족들이 있습니다. 저주받은 땅에서는 언데드와 유령 및 악령들이 나다닙니다. 잔해와 던전 속에는 괴물들이 숨어 있습니다. 각 종족은 특정한 지형에 적응해서 삽니다. 인간은 주로 온화한 초원에 삽니다. 대부분의 오크와 난쟁이들은 언덕, 산맥과 지하의 동굴을 고향으로 삼습니다. 숲에서는 요정들의 왕국이 우세합니다. 바다와 강은 인어와 나가들이 지배하고 있습니다."
+msgstr "웨스노스(Wesnoth)의 세계에는 인간들, 요정들, 난쟁이들, 오크들, 반룡들, 도마뱀족들, 인어들, 나가들, 그리고 아직 모호함과 경이로움에 찬 수많은 다른 종족들이 있습니다. 저주받은 땅에서는 언데드와 유령 및 악령들이 나다닙니다. 잔해와 던전 속에는 괴물들이 숨어 있습니다. 각 종족은 특정한 지형에 적응해서 삽니다. 인간은 주로 온화한 초원에 삽니다. 대부분의 오크와 난쟁이들은 언덕, 산맥과 지하의 동굴을 고향으로 삼습니다. 숲에서는 요정들의 왕국이 우세합니다. 바다와 강은 인어와 나가들이 지배하고 있습니다."
 
 # type: Content of: <book><chapter><section><section><simpara>
 #. type: Content of: <book><chapter><section><section><simpara>
@@ -195,7 +195,7 @@ msgid ""
 "language; then click the \"Tutorial\" button to run the tutorial; and then "
 "play the campaign, \"A Tale of Two Brothers\" by clicking the \"Campaign\" "
 "button and selecting it from the list provided."
-msgstr "웨스노스가 처음 실행되면 초기 배경화면과 소위 메인 메뉴라고 불리는 한 줄의 단추를 볼 수 있습니다. 이 단추들은 마우스에만 반응합니다. 답답해 하는 분들을 위해서 조언해 드리자면, \"언어 설정\" 단추를 눌러서 당신의 언어를 설정하시고, \"자습서\" 단추를 눌러서 연습 게임을 진행하신 다음에, \"캠페인\" 버튼을 누르고 제공되는 목록에서 \"두 형제 이야기\"를 플레이해 보세요."
+msgstr "웨스노스(Wesnoth)가 처음 실행되면 초기 배경화면과 소위 메인 메뉴라고 불리는 한 줄의 단추를 볼 수 있습니다. 이 단추들은 마우스에만 반응합니다. 답답해 하는 분들을 위해서 조언해 드리자면, \"언어 설정\" 단추를 눌러서 당신의 언어를 설정하시고, \"자습서\" 단추를 눌러서 연습 게임을 진행하신 다음에, \"캠페인\" 버튼을 누르고 제공되는 목록에서 \"두 형제 이야기\"를 플레이해 보세요."
 
 #. type: Content of: <book><chapter><section><simpara><inlinemediaobject>
 #: doc/manual/manual.en.xml:90
@@ -238,7 +238,7 @@ msgid ""
 "Tutorial you are in the role of the prince Konrad or the princess Li&#8217;"
 "sar, learning from the Elder Mage Delfador — pay attention or he might turn "
 "you into a newt."
-msgstr "연습 게임은 실전이긴 하지만 기초적인 게임으로, 여러분에게 게임 플레이에 필요한 기초적인 조작법을 알려줍니다. 여기서는 이기거나 지는 것보다도 뭘 어떻게 해야하는지 배우는 것이 더 중요합니다. 연습 게임 버튼을 클릭해서 해 보십시오. 연습게임에서 여러분은 콘라드 왕자나 리사르 공주의 역할을 하면서 원로 마법사 델파도르의 지도를 받게 됩니다. 집중하지 않으면 그가 당신을 도룡뇽으로 만들어 버릴지도 모릅니다."
+msgstr "연습 게임은 실전이긴 하지만 기초적인 게임으로, 여러분에게 게임 플레이에 필요한 기초적인 조작법을 알려줍니다. 여기서는 이기거나 지는 것보다도 뭘 어떻게 해야하는지 배우는 것이 더 중요합니다. 연습 게임 버튼을 클릭해서 해 보십시오. 연습게임에서 여러분은 콘라드(Konrad) 왕자나 리사르 공주의 역할을 하면서 원로 마법사 델파도르(Delfador)의 지도를 받게 됩니다. 집중하지 않으면 그가 당신을 도룡뇽으로 만들어 버릴지도 모릅니다."
 
 #. type: Content of: <book><chapter><section><variablelist><varlistentry><term>
 #: doc/manual/manual.en.xml:114
@@ -260,7 +260,7 @@ msgid ""
 "guide about <link linkend=\"basic_strategy\">Basic Strategy</link> will "
 "surely help you. Once you have selected the difficulty, you will start with "
 "the first scenario of the campaign."
-msgstr "웨스노스는 주로 캠페인 플레이를 위해 짜여졌습니다. 캠페인은 연결된 일련의 시나리오들입니다. 이 버튼을 눌러서 새로운 캠페인을 시작하세요. 그러면 여러분의 컴퓨터에서 할 수 있는 캠페인의 리스트가 뜹니다 (원한다면 더 다운받을 수도 있습니다). 원하는 캠페인을 선택해서 확인을 눌러 시작하거나 취소를 눌러 빠져나올 수 있습니다. 각각의 캠페인에는 쉬움, 보통, 어려움의 난이도가 있습니다. 보통 수준이 도전감을 불러일으킬 만하지만, 어렵지는 않으므로 추천합니다. 여러분은 캠페인 도중에 난이도를 변경할 수는 없습니다. 만약 쉬움 난이도에서 싸워 나가는데 심각한 문제가 있다면, <link linkend=\"basic_strategy\">기초 전략</link>에 있는 가이드가 도움이 될 것입니다. 난이도를 선택하고 나면, 그 캠페인의 첫번째 시나리오를 시작할 수 있습니다."
+msgstr "웨스노스(Wesnoth)는 주로 캠페인 플레이를 위해 짜여졌습니다. 캠페인은 연결된 일련의 시나리오들입니다. 이 버튼을 눌러서 새로운 캠페인을 시작하세요. 그러면 여러분의 컴퓨터에서 할 수 있는 캠페인의 리스트가 뜹니다 (원한다면 더 다운받을 수도 있습니다). 원하는 캠페인을 선택해서 확인을 눌러 시작하거나 취소를 눌러 빠져나올 수 있습니다. 각각의 캠페인에는 쉬움, 보통, 어려움의 난이도가 있습니다. 보통 수준이 도전감을 불러일으킬 만하지만, 어렵지는 않으므로 추천합니다. 여러분은 캠페인 도중에 난이도를 변경할 수는 없습니다. 만약 쉬움 난이도에서 싸워 나가는데 심각한 문제가 있다면, <link linkend=\"basic_strategy\">기초 전략</link>에 있는 가이드가 도움이 될 것입니다. 난이도를 선택하고 나면, 그 캠페인의 첫번째 시나리오를 시작할 수 있습니다."
 
 #. type: Content of: <book><chapter><section><variablelist><varlistentry><term>
 #: doc/manual/manual.en.xml:135
@@ -345,7 +345,7 @@ msgid ""
 "to continue with the current language. The first time Wesnoth starts, it "
 "defaults to English or your system locale if that can be determined, but "
 "once you change it, it will start in that language."
-msgstr "이 단추를 클릭하고 언어를 선택한 후 확인을 클릭하여 사용하거나, 취소를 클릭하여 현재 언어로 계속합니다. 웨스노스를 처음 시작하면 영어 또는 시스템 로캘(확인 가능한 경우)이 기본으로 설정되지만, 일단 변경하면 해당 언어로 시작됩니다."
+msgstr "이 단추를 클릭하고 언어를 선택한 후 확인을 클릭하여 사용하거나, 취소를 클릭하여 현재 언어로 계속합니다. 웨스노스(Wesnoth)를 처음 시작하면 영어 또는 시스템 로캘(확인 가능한 경우)이 기본으로 설정되지만, 일단 변경하면 해당 언어로 시작됩니다."
 
 #. type: Content of: <book><chapter><section><variablelist><varlistentry><term>
 #: doc/manual/manual.en.xml:201
@@ -371,7 +371,7 @@ msgid ""
 "be able to reach them in real time at irc.libera.chat:6667 on #wesnoth or at "
 "<ulink url=\"https://discord.gg/battleforwesnoth\">https://discord.gg/"
 "battleforwesnoth</ulink>"
-msgstr "이 단추를 클릭하면 주요 웨스노스 기여자 목록이 표시됩니다. irc.libera.chat:6667의 #wesnoth 또는 <ulink url=\"https://discord.gg/battleforwesnoth\">https://discord.gg/battleforwesnoth</ulink>에서 실시간으로 연락할 수 있는 경우가 많습니다."
+msgstr "이 단추를 클릭하면 주요 웨스노스(Wesnoth) 기여자 목록이 표시됩니다. irc.libera.chat:6667의 #wesnoth 또는 <ulink url=\"https://discord.gg/battleforwesnoth\">https://discord.gg/battleforwesnoth</ulink>에서 실시간으로 연락할 수 있는 경우가 많습니다."
 
 #. type: Content of: <book><chapter><section><variablelist><varlistentry><term>
 #: doc/manual/manual.en.xml:223
@@ -410,7 +410,7 @@ msgstr "다음"
 #: doc/manual/manual.en.xml:249
 msgid ""
 "Click this button to read the next little tip from the \"Tome of Wesnoth\"."
-msgstr "이 버튼을 클릭하면 \"웨스노스 비전서\"에서 다음 작은 팁을 읽을 수 있습니다."
+msgstr "이 버튼을 클릭하면 \"웨스노스(Wesnoth) 비전서\"에서 다음 작은 팁을 읽을 수 있습니다."
 
 # type: Content of: <book><chapter><section><variablelist><varlistentry><term>
 #. type: Content of: <book><chapter><section><variablelist><varlistentry><term>
@@ -424,7 +424,7 @@ msgstr "이전"
 msgid ""
 "Click this button to read the previous little tip from the \"Tome of Wesnoth"
 "\"."
-msgstr "이 단추를 누르면 \"웨스노스 비전서\"에서 이전 작은 요령을 읽을 수 있습니다."
+msgstr "이 단추를 누르면 \"웨스노스(Wesnoth) 비전서\"에서 이전 작은 요령을 읽을 수 있습니다."
 
 #. type: Content of: <book><chapter><section><variablelist><varlistentry><term>
 #: doc/manual/manual.en.xml:265
@@ -448,7 +448,7 @@ msgstr "게임 모드"
 #. type: Content of: <book><chapter><section><simpara>
 #: doc/manual/manual.en.xml:278
 msgid "There are two basic ways to play Battle for Wesnoth:"
-msgstr "웨스노스 전투를 플레이하는 두 가지 기본적인 방법이 있습니다:"
+msgstr "웨스노스(Wesnoth) 전투를 플레이하는 두 가지 기본적인 방법이 있습니다:"
 
 # type: Content of: <book><chapter><section><itemizedlist><listitem><simpara>
 #. type: Content of: <book><chapter><section><itemizedlist><listitem><simpara>
@@ -961,7 +961,7 @@ msgid ""
 "playing during a scenario, you can save your turn and load it again later. "
 "Just remember, a good Battle for Wesnoth player never needs to save during a "
 "scenario. However, most beginners tend to do so rather often."
-msgstr "각 시나리오 시작 시 게임 상태는 일반적으로 저장됩니다. 패배하면 불러와서 다시 시도할 수 있습니다. 성공하면 다음 시나리오를 저장하고 플레이하라는 메시지가 다시 표시됩니다. 시나리오 중에 플레이를 중단해야 하는 경우 턴을 저장하고 나중에 다시 불러올 수 있습니다. 기억하세요, 숙련된 웨스노스 전투 플레이어는 시나리오 중에 저장할 필요가 없습니다. 그러나 대부분의 초보자는 종종 그렇게 하는 경향이 있습니다."
+msgstr "각 시나리오 시작 시 게임 상태는 일반적으로 저장됩니다. 패배하면 불러와서 다시 시도할 수 있습니다. 성공하면 다음 시나리오를 저장하고 플레이하라는 메시지가 다시 표시됩니다. 시나리오 중에 플레이를 중단해야 하는 경우 턴을 저장하고 나중에 다시 불러올 수 있습니다. 기억하세요, 숙련된 웨스노스(Wesnoth) 전투 플레이어는 시나리오 중에 저장할 필요가 없습니다. 그러나 대부분의 초보자는 종종 그렇게 하는 경향이 있습니다."
 
 # type: Content of: <book><chapter><title>
 #. type: Content of: <book><chapter><title>
@@ -1105,7 +1105,7 @@ msgid ""
 "<link linkend=\"traits\">traits</link> that make them subtly different from "
 "other units of the same type. Finally, campaign designers can add unique "
 "units to their campaigns to further expand the options available to players."
-msgstr "웨스노스 전투에는 풍부한 통계로 특징지어지는 수백 가지 유닛 유형이 있습니다. 또한 개별 유닛은 동일한 유형의 다른 유닛과 미묘하게 다른 특정 <link linkend=\"traits\">특성</link>을 가질 수 있습니다. 마지막으로 캠페인 디자이너는 플레이어에게 제공되는 옵션을 더욱 확장하기 위해 캠페인에 고유한 유닛을 추가할 수 있습니다."
+msgstr "웨스노스(Wesnoth) 전투에는 풍부한 통계로 특징지어지는 수백 가지 유닛 유형이 있습니다. 또한 개별 유닛은 동일한 유형의 다른 유닛과 미묘하게 다른 특정 <link linkend=\"traits\">특성</link>을 가질 수 있습니다. 마지막으로 캠페인 디자이너는 플레이어에게 제공되는 옵션을 더욱 확장하기 위해 캠페인에 고유한 유닛을 추가할 수 있습니다."
 
 # type: Content of: <book><chapter><section><simpara>
 #. type: Content of: <book><chapter><section><simpara>
@@ -1471,7 +1471,7 @@ msgid ""
 "deploying your forces. Also, Quick units aren&#8217;t quite as tough as "
 "units without this trait and are subsequently less good at holding contested "
 "positions."
-msgstr "민첩한 유닛은 이동력이 1점 더 많지만, 체력이 평소보다 5% 적습니다. 민첩함은 특히 트롤이나 중보병과 같이 느리게 움직이는 유닛에서 가장 눈에 띄는 특성입니다. 민첩함 특성을 가진 유닛은 거친 지형에서 이동성이 크게 향상되는 경우가 많으며, 병력을 배치할 때 고려해야 할 중요한 요소가 될 수 있습니다. 또한 민첩한 유닛은 이 특성이 없는 유닛만큼 튼튼하지 않으므로, 분쟁 지역을 방어하는 데 덜 효과적입니다."
+msgstr "민첩한 유닛은 이동력이 1점 더 많지만, 체력(HP)이 평소보다 5% 적습니다. 민첩함은 특히 트롤이나 중보병과 같이 느리게 움직이는 유닛에서 가장 눈에 띄는 특성입니다. 민첩함 특성을 가진 유닛은 거친 지형에서 이동성이 크게 향상되는 경우가 많으며, 병력을 배치할 때 고려해야 할 중요한 요소가 될 수 있습니다. 또한 민첩한 유닛은 이 특성이 없는 유닛만큼 튼튼하지 않으므로, 분쟁 지역을 방어하는 데 덜 효과적입니다."
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 #: doc/manual/manual.en.xml:924
@@ -1488,7 +1488,7 @@ msgid ""
 "a unit that has some combination of low hitpoints, good defense, or high "
 "resistances. Resilient units are especially useful for holding strategic "
 "positions against opponents."
-msgstr "강인한 유닛은 평소보다 체력이 4 HP 더 많고 레벨당 1 HP가 추가로 증가합니다. 강인한 유닛은 캠페인의 모든 단계에서 유용할 수 있으며, 모든 유닛에게 유용한 특성입니다. 강인함은 낮은 체력, 좋은 방어력 또는 높은 저항력의 조합을 가진 유닛에서 가장 유용하게 작용하는 경우가 많습니다. 강인한 유닛은 특히 적을 상대로 전략적 위치를 지키는 데 유용합니다."
+msgstr "강인한 유닛은 평소보다 체력(HP)이 4 HP 더 많고 레벨당 1 HP가 추가로 증가합니다. 강인한 유닛은 캠페인의 모든 단계에서 유용할 수 있으며, 모든 유닛에게 유용한 특성입니다. 강인함은 낮은 체력(HP), 좋은 방어력 또는 높은 저항력의 조합을 가진 유닛에서 가장 유용하게 작용하는 경우가 많습니다. 강인한 유닛은 특히 적을 상대로 전략적 위치를 지키는 데 유용합니다."
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 #: doc/manual/manual.en.xml:939
@@ -1504,7 +1504,7 @@ msgid ""
 "effective for units who have a high number of swings such as the Elvish "
 "Fighter. Strong units can be very useful when a tiny bit of extra damage is "
 "all that is needed to turn a damaging stroke into a killing blow."
-msgstr "강한 유닛은 근접 전투에서 성공적인 공격마다 1점의 피해를 더 입히고 체력이 1점 더 많습니다. 모든 근접 전투 유닛에 유용하지만, 강함은 엘프 전사와 같이 공격 횟수가 많은 유닛에 가장 효과적입니다. 강한 유닛은 약간의 추가 피해만으로도 치명타를 입힐 수 있을 때 매우 유용할 수 있습니다."
+msgstr "강한 유닛은 근접 전투에서 성공적인 공격마다 1점의 피해를 더 입히고 체력(HP)이 1점 더 많습니다. 모든 근접 전투 유닛에 유용하지만, 강함은 엘프 전사와 같이 공격 횟수가 많은 유닛에 가장 효과적입니다. 강한 유닛은 약간의 추가 피해만으로도 치명타를 입힐 수 있을 때 매우 유용할 수 있습니다."
 
 # type: Content of: <book><chapter><section><section><simpara>
 #. type: Content of: <book><chapter><section><section><simpara>
@@ -1570,7 +1570,7 @@ msgid ""
 "rest heal even when traveling or fighting.  Healthy units have 1 HP plus 1 "
 "HP per level more than usual and rest heal the usual 2 HP after each turn "
 "regardless."
-msgstr "활력으로 유명한 일부 드워프는 다른 드워프보다 더 튼튼하며 이동하거나 싸우는 중에도 휴식을 취하며 회복할 수 있습니다. 건강한 유닛은 평소보다 체력이 1 HP 더 많고 레벨당 1 HP가 추가로 증가하며, 턴마다 평소와 같이 2 HP를 회복합니다."
+msgstr "활력으로 유명한 일부 드워프는 다른 드워프보다 더 튼튼하며 이동하거나 싸우는 중에도 휴식을 취하며 회복할 수 있습니다. 건강한 유닛은 평소보다 체력(HP)이 1 HP 더 많고 레벨당 1 HP가 추가로 증가하며, 턴마다 평소와 같이 2 HP를 회복합니다."
 
 # type: Content of: <book><chapter><section><section><simpara>
 #. type: Content of: <book><chapter><section><section><simpara>
@@ -1591,7 +1591,7 @@ msgstr "노련함"
 msgid ""
 "The oldest units may have the Aged trait, receiving an 8 points HP decrease "
 "and having -1 movement and melee damage."
-msgstr "가장 오래된 유닛은 노련함 특성을 가질 수 있으며, 체력이 8점 감소하고, 이동력과 근접 피해가 1 감소합니다."
+msgstr "가장 오래된 유닛은 노련함 특성을 가질 수 있으며, 체력(HP)이 8점 감소하고, 이동력과 근접 피해가 1 감소합니다."
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 #: doc/manual/manual.en.xml:1023
@@ -1828,7 +1828,7 @@ msgid ""
 "This attack poisons the target. Poisoned units lose 8 HP every turn until "
 "they are cured or are reduced to 1 HP. Poison can not, of itself, kill a "
 "unit."
-msgstr "이 공격은 대상을 중독시킵니다. 중독된 유닛은 치료되거나 체력이 1 HP가 될 때까지 매 턴마다 8 HP를 잃습니다. 독 자체로는 유닛을 죽일 수 없습니다."
+msgstr "이 공격은 대상을 중독시킵니다. 중독된 유닛은 치료되거나 체력(HP)이 1 HP가 될 때까지 매 턴마다 8 HP를 잃습니다. 독 자체로는 유닛을 죽일 수 없습니다."
 
 # type: Content of: <book><chapter><section><section><variablelist><varlistentry><listitem><simpara>
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><listitem><simpara>
@@ -1868,7 +1868,7 @@ msgid ""
 "number of strikes is proportional to the % of HP/maximum HP the unit has. "
 "For example a unit with 3/4 of its maximum HP will get 3/4 of the number of "
 "strikes."
-msgstr "이 공격의 타격 횟수는 유닛이 부상을 입으면 감소합니다. 타격 횟수는 유닛의 현재 체력/최대 체력의 비율에 비례합니다. 예를 들어 최대 체력의 3/4인 유닛은 타격 횟수의 3/4를 갖습니다."
+msgstr "이 공격의 타격 횟수는 유닛이 부상을 입으면 감소합니다. 타격 횟수는 유닛의 현재 체력(HP)/최대 체력(HP)의 비율에 비례합니다. 예를 들어 최대 체력(HP)의 3/4인 유닛은 타격 횟수의 3/4를 갖습니다."
 
 # type: Content of: <book><chapter><section><section><title>
 #. type: Content of: <book><chapter><section><section><title>
@@ -2038,7 +2038,7 @@ msgstr "재생"
 msgid ""
 "This unit will heal itself 8HP per turn. If it is poisoned, it will remove "
 "the poison instead of healing."
-msgstr "이 유닛은 차례마다 체력 +8을 스스로 회복합니다. 중독된 경우 회복 대신 독을 제거합니다."
+msgstr "이 유닛은 차례마다 체력(HP) +8을 스스로 회복합니다. 중독된 경우 회복 대신 독을 제거합니다."
 
 # type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
@@ -2573,7 +2573,7 @@ msgid ""
 "<emphasis role=\"strong\">Impact</emphasis>: Weapons having neither a sharp "
 "point nor a cutting edge, but heavy enough to break an enemy&#8217;s bones. "
 "Examples: mace, staff, Troll fist."
-msgstr "<emphasis role=\"strong\">충격</emphasis>: 날카로운 끝이나 칼날이 없지만, 적의 뼈를 부술 만큼 충분히 무거운 무기. 예: 철퇴, 지팡이, 트롤 주먹."
+msgstr "<emphasis role=\"strong\">충격</emphasis>: 날카로운 끝이나 칼날이 없지만, 적의 뼈를 부술 만큼 충분히 무거운 무기. 예: 철퇴, 지팡이, 트롤(Troll) 주먹."
 
 # type: Content of: <book><chapter><section><section><itemizedlist><listitem><simpara>
 #. type: Content of: <book><chapter><section><section><itemizedlist><listitem><simpara>
@@ -2893,7 +2893,7 @@ msgid ""
 "between them, you can build up a powerful defensive line. Note that, because "
 "Wesnoth uses hexes, a east-to-west \"line\" is not a straight line but a zig-"
 "zag curve. The north south line and the diagonals are the \"real\" lines."
-msgstr "많은 유닛을 바로 인접하게 또는 최대 1개의 육각형 간격으로 배치하면 강력한 방어선을 구축할 수 있습니다. 웨스노스는 육각형을 사용하므로 동서 방향의 \"선\"은 직선이 아니라 지그재그 곡선입니다. 남북 방향 선과 대각선이 \"실제\" 선입니다."
+msgstr "많은 유닛을 바로 인접하게 또는 최대 1개의 육각형 간격으로 배치하면 강력한 방어선을 구축할 수 있습니다. 웨스노스(Wesnoth)는 육각형을 사용하므로 동서 방향의 \"선\"은 직선이 아니라 지그재그 곡선입니다. 남북 방향 선과 대각선이 \"실제\" 선입니다."
 
 # type: Content of: <book><chapter><section><section><simpara>
 #. type: Content of: <book><chapter><section><section><simpara>
@@ -3020,7 +3020,7 @@ msgid ""
 "Whelps very well because they have some resistances against blade and "
 "impact. But your Horseman may quite quickly fall to Orcish Archers and "
 "Goblin Spearmen."
-msgstr "예를 들어, 기병은 칼날과 충격에 대한 저항력이 있기 때문에 오크 그런트와 트롤 새끼에 대항하여 방어선을 매우 잘 지킬 수 있습니다. 하지만 당신의 기병은 오크 궁수와 고블린 창병에게 매우 빠르게 쓰러질 수 있습니다."
+msgstr "예를 들어, 기병은 칼날과 충격에 대한 저항력이 있기 때문에 오크 그런트와 트롤(Troll) 새끼에 대항하여 방어선을 매우 잘 지킬 수 있습니다. 하지만 당신의 기병은 오크 궁수와 고블린 창병에게 매우 빠르게 쓰러질 수 있습니다."
 
 # type: Content of: <book><chapter><section><section><simpara>
 #. type: Content of: <book><chapter><section><section><simpara>
@@ -3149,7 +3149,7 @@ msgid ""
 "games over and over because your White Mage keeps getting killed. Learn to "
 "protect your White Mage instead, and balance risks! That is part of the "
 "strategy."
-msgstr "저장 게임을 남용하지 마십시오. 오래전에는 웨스노스는 시나리오가 끝날 때만 게임을 저장할 수 있었습니다. 시나리오 중간 저장 기능은 다음 날 게임을 계속해야 하거나, 충돌로부터 보호하기 위한 편의를 위해 추가되었습니다. 백색 마법사가 계속 죽는다고 해서 시나리오 중간 저장 게임을 반복해서 불러오는 것을 권장하지 않습니다. 대신 백색 마법사를 보호하는 방법을 배우고 위험을 균형 있게 관리하십시오! 그것이 전략의 일부입니다."
+msgstr "저장 게임을 남용하지 마십시오. 오래전에는 웨스노스(Wesnoth)는 시나리오가 끝날 때만 게임을 저장할 수 있었습니다. 시나리오 중간 저장 기능은 다음 날 게임을 계속해야 하거나, 충돌로부터 보호하기 위한 편의를 위해 추가되었습니다. 백색 마법사가 계속 죽는다고 해서 시나리오 중간 저장 게임을 반복해서 불러오는 것을 권장하지 않습니다. 대신 백색 마법사를 보호하는 방법을 배우고 위험을 균형 있게 관리하십시오! 그것이 전략의 일부입니다."
 
 # type: Content of: <book><chapter><section><itemizedlist><listitem><simpara>
 #. type: Content of: <book><chapter><section><itemizedlist><listitem><simpara>
@@ -3313,7 +3313,7 @@ msgid ""
 "villages or next to special healing units (e.g. the Elvish Shaman and White "
 "Mage). Some other units you will encounter, such as Trolls, have the ability "
 "to heal themselves naturally."
-msgstr "웨스노스 전투에서 성공하는 중요한 부분은 유닛을 건강하게 유지하는 것입니다. 유닛이 피해를 입으면 마을로 이동하거나 특별한 치유 유닛(예: 엘프 주술사 및 백색 마법사) 옆으로 이동하여 치유할 수 있습니다. 트롤과 같이 만날 수 있는 다른 일부 유닛은 자연적으로 스스로를 치유하는 능력을 가지고 있습니다."
+msgstr "웨스노스(Wesnoth) 전투에서 성공하는 중요한 부분은 유닛을 건강하게 유지하는 것입니다. 유닛이 피해를 입으면 마을로 이동하거나 특별한 치유 유닛(예: 엘프 주술사 및 백색 마법사) 옆으로 이동하여 치유할 수 있습니다. 트롤과 같이 만날 수 있는 다른 일부 유닛은 자연적으로 스스로를 치유하는 능력을 가지고 있습니다."
 
 # type: Content of: <book><chapter><section><section><title>
 #. type: Content of: <book><chapter><section><section><title>
