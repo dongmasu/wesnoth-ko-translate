@@ -1,0 +1,4249 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Battle for Wesnoth 1.18.x Korean translation\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2024-05-26 02:28 UTC\n"
+"PO-Revision-Date: 2026-09-24 00:00+0900\n"
+"Last-Translator: Wesnoth Korean Translation Team\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. [campaign]: id=Sceptre_of_Fire
+#: data/campaigns/Sceptre_of_Fire/_main.cfg:11
+msgid "The Sceptre of Fire"
+msgstr "불의 왕홀"
+
+#. [campaign]: id=Sceptre_of_Fire
+#: data/campaigns/Sceptre_of_Fire/_main.cfg:12
+msgid "SoF"
+msgstr "SoF"
+
+#. [campaign]: id=Sceptre_of_Fire
+#: data/campaigns/Sceptre_of_Fire/_main.cfg:20
+msgid "Fighter"
+msgstr "투사"
+
+#. [campaign]: id=Sceptre_of_Fire
+#: data/campaigns/Sceptre_of_Fire/_main.cfg:20
+msgid "Normal"
+msgstr "일반"
+
+#. [campaign]: id=Sceptre_of_Fire
+#: data/campaigns/Sceptre_of_Fire/_main.cfg:21
+msgid "Challenging"
+msgstr "도전"
+
+#. [campaign]: id=Sceptre_of_Fire
+#: data/campaigns/Sceptre_of_Fire/_main.cfg:21
+msgid "Steelclad"
+msgstr "강철갑옷"
+
+#. [campaign]: id=Sceptre_of_Fire
+#: data/campaigns/Sceptre_of_Fire/_main.cfg:22
+msgid "Difficult"
+msgstr "어려움"
+
+#. [campaign]: id=Sceptre_of_Fire
+#: data/campaigns/Sceptre_of_Fire/_main.cfg:22
+msgid "Lord"
+msgstr "군주"
+
+#. [campaign]: id=Sceptre_of_Fire
+#: data/campaigns/Sceptre_of_Fire/_main.cfg:25
+msgid ""
+"<i>The mark of Wesnoth’s banner bold\n"
+"Comes not from its own land;\n"
+"It comes from Dwarfdom, grim and old\n"
+"Made by a runesmith’s hand.\n"
+"So now I tell from whence it came —\n"
+"The Fire-sceptre great —\n"
+"And of the makers of the same,\n"
+"Their tale I now relate...</i>\n"
+"\n"
+msgstr "<i>웨스노스의 용맹한 깃발 문양은\n그 땅에서 온 것이 아니네.\n그것은 음울하고 오래된 드워프의 나라에서,\n룬 장인의 손으로 만들어졌네.\n그러니 이제 그 기원이 어디인지,\n위대한 불의 왕홀과\n그것을 만든 이들의 이야기를\n내가 들려주려 하네...</i>\n\n"
+
+#. [campaign]: id=Sceptre_of_Fire
+#: data/campaigns/Sceptre_of_Fire/_main.cfg:34
+msgid "(Hard level, 10 scenarios.)"
+msgstr "(어려움 난이도, 10개 시나리오.)"
+
+#. [about]
+#: data/campaigns/Sceptre_of_Fire/_main.cfg:39
+msgid "Campaign Design"
+msgstr "캠페인 기획"
+
+#. [about]
+#: data/campaigns/Sceptre_of_Fire/_main.cfg:45
+msgid "Campaign Maintenance"
+msgstr "캠페인 유지보수"
+
+#. [about]
+#: data/campaigns/Sceptre_of_Fire/_main.cfg:57
+msgid "WML Assistance"
+msgstr "WML 지원"
+
+#. [about]
+#: data/campaigns/Sceptre_of_Fire/_main.cfg:72
+msgid "Artwork and Graphics Design"
+msgstr "삽화 및 그래픽 설계"
+
+#. [editor_group]: id=sof
+#: data/campaigns/Sceptre_of_Fire/_main.cfg:138
+msgid "Sceptre of Fire"
+msgstr "불의 왕홀"
+
+#. [scenario]: id=1_A_Bargain_is_Struck
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:3
+msgid "A Bargain is Struck"
+msgstr "거래가 성사되다"
+
+#. [side]: type=Dwarvish Fighter, id=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:18
+msgid "Rugnur"
+msgstr "룩누르(Rugnur)"
+
+#. [side]: type=Dwarvish Fighter, id=Rugnur
+#. [side]: type=Haldric II, id=Haldric II
+#. [side]: type=Dwarvish Lord, id=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:27
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:46
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:24
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:24
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:23
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:38
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:23
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:24
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:37
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:208
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:24
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:39
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:23
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:22
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:34
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:36
+msgid "Dwarves"
+msgstr "난쟁이족"
+
+#. [side]: type=Haldric II, id=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:37
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:25
+msgid "Haldric II"
+msgstr "할드릭 2세"
+
+#. [side]: type=Elvish Captain, id=Glildur
+#. [side]: type=Elvish Marshal, id=Glildur
+#. [unit]: type=Elvish Marshal, id=Glildur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:94
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:37
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:70
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:34
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1228
+msgid "Glildur"
+msgstr "글릴두르(Glildur)"
+
+#. [side]: type=Elvish Captain, id=Glildur
+#. [side]: type=Elvish Marshal, id=Glildur
+#. [side]: type=Elvish Marshal, id=Glinan
+#. [side]: type=Elvish Captain, id=Kalnar
+#. [side]
+#. [side]: type=Elvish Marshal, id=Crintil
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:114
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:44
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:54
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:102
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:140
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:57
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:65
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:44
+msgid "Elves"
+msgstr "엘프들"
+
+#. [part]
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:190
+msgid ""
+"Ay, the Sceptre of Fire. The Sceptre has a long, glorious, and fearful "
+"history. But I am not here to tell you how the jewel within it was brought "
+"over the ocean by Haldric the Great, nor will I tell the story of Garard I "
+"and the challenge he set, nor that of Konrad, King of Wesnoth by virtue of "
+"the Sceptre."
+msgstr "그래, 불의 왕홀이지. 이 왕홀에는 길고 영광스럽고 두려운 역사가 있네. 하지만 여기서 위대한 할드릭이 왕홀 안의 보석을 바다 건너 가져온 이야기를 하려는 것은 아니야. 가라드 1세가 내린 과제의 이야기도, 왕홀 덕분에 웨스노스의 왕이 된 콘라드의 이야기도 하지 않겠네."
+
+#. [part]
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:194
+msgid ""
+"I am here to tell you of its making. Of its crafting, deep in the caverns of "
+"dwarfdom. And of the dwarves who made it; for they were great, they were. "
+"They are counted among the greatest of the heroes of ancient Knalga."
+msgstr "내가 여기서 들려줄 것은 그것이 만들어진 이야기네. 드워프의 나라 깊은 동굴에서 그것을 벼려 낸 이야기, 그리고 그것을 만든 드워프들의 이야기지. 그들은 위대했네, 정말로 그랬어. 그들은 고대 크날가의 가장 위대한 영웅들 가운데 손꼽힌다네."
+
+#. [part]
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:197
+msgid ""
+"Our story begins in a small border outpost in the southern hills of Knalga, "
+"with a young dwarf, named Rugnur, in charge of it. And with the second King "
+"of Wesnoth, Haldric II, riding up the road from the Ford of Abez with an "
+"army behind him..."
+msgstr "우리 이야기는 크날가 남쪽 언덕의 작은 국경 전초기지에서 시작하네. 룩누르라는 젊은 드워프가 그곳을 맡고 있었지. 그리고 웨스노스의 제2대 왕 할드릭 2세가 군대를 이끌고 아베즈 여울에서 이어지는 길을 올라오고 있었네..."
+
+#. [objective]: condition=win
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:221
+msgid ""
+"Transport 5 caravans full of silver to the dwarvish stronghold in the "
+"northeast corner"
+msgstr "은으로 가득 찬 마차 5대를 북동쪽 구석의 드워프 요새로 운반하세요"
+
+#. [objective]: condition=win
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:223
+msgid ""
+"Transport 4 caravans full of silver to the dwarvish stronghold in the "
+"northeast corner"
+msgstr "은으로 가득 찬 마차 4대를 북동쪽 구석의 드워프 요새로 운반하세요"
+
+#. [objective]: condition=win
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:231
+msgid ""
+"Bring Alanin, who has the Ruby of Fire, to the dwarvish stronghold in the "
+"northeast corner"
+msgstr "불의 루비를 가진 알라닌을 북동쪽 구석의 드워프 요새로 데려가세요"
+
+#. [objective]: condition=lose
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:239
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:145
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:88
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:136
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:652
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:183
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:204
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:170
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:529
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:635
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1102
+msgid "Death of Rugnur"
+msgstr "룩누르의 죽음"
+
+#. [objective]: condition=lose
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:243
+msgid "Death of Haldric II"
+msgstr "할드릭 2세의 죽음"
+
+#. [objective]: condition=lose
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:247
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:92
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:140
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:187
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:213
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:101
+msgid "Death of Alanin"
+msgstr "알라닌의 죽음"
+
+#. [objective]: condition=lose
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:251
+msgid "Loss of a caravan"
+msgstr "마차 손실"
+
+#. [note]
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:255
+msgid ""
+"Moving a dwarf to a rune chest beside the keep opens a dialog for obtaining "
+"temporary upgrades which last until the end of the scenario."
+msgstr "본영 옆의 룬 상자로 드워프를 이동시키면 시나리오가 끝날 때까지 지속되는 임시 강화 효과를 얻는 대화 상자가 열립니다."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:306
+msgid "Humans, halt! Who dares bring an army into the dwarvish hills?"
+msgstr "인간들, 멈춰라! 누가 감히 군대를 이끌고 드워프의 언덕에 들어오는가?"
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:310
+msgid "We come to make a bargain with you."
+msgstr "당신들과 거래를 하러 왔소."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:314
+msgid ""
+"Well, state your business and be done with it. And if we don’t like what you "
+"say, you leave!"
+msgstr "좋아, 용건을 말하고 끝내라. 네 말이 마음에 들지 않으면 떠나야 할 거다!"
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:318
+msgid "Have you heard of the Ruby of Fire?"
+msgstr "불의 루비에 대해 들어 본 적이 있소?"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:322
+msgid "Yes... your first king brought it from over the sea, right? You own it."
+msgstr "그래... 너희 초대 왕이 바다 건너에서 가져온 것이지? 지금은 네가 가지고 있고."
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:327
+msgid "Correct. However, we have a problem with it."
+msgstr "맞소. 하지만 그것에 문제가 생겼소."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:331
+msgid "What sort of problem?"
+msgstr "어떤 문제지?"
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:336
+msgid ""
+"Some form of magical aura makes those around the stone act... strangely. I "
+"noticed it with my father. The longer he stayed near the stone, the more "
+"arrogant, almost evil, he became."
+msgstr "어떤 형태의 마법 기운 때문에 돌 주변에 있는 자들이... 이상하게 행동하오. 아버지에게서 그것을 알아차렸소. 아버지는 돌 가까이에 오래 머물수록 더욱 오만해지고, 거의 악해져 갔소."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:340
+msgid ""
+"So, what do you want me to do? I don’t see how this relates to us dwarves."
+msgstr "그래서 내가 무엇을 하길 바라지? 이 일이 우리 드워프와 어떤 관련이 있는지 모르겠군."
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:352
+msgid ""
+"When the elves came to Tath, about five years ago, they spoke of a mage "
+"named Crelanu, and of his advice about the ruby. He said that the radiance "
+"of the stone could be contained, and that doing so would stop the stone’s "
+"effect."
+msgstr "약 5년 전 엘프들이 타스에 왔을 때, 크렐라누라는 마법사와 그가 루비에 관해 해 준 조언을 이야기했소. 그는 돌의 광채를 가둘 수 있으며, 그렇게 하면 돌의 영향도 멈출 것이라고 했소."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:356
+msgid ""
+"And what... you want us to do this, contain the radiance of the stone? By "
+"making an artifact of some kind?"
+msgstr "그래서... 우리가 돌의 광채를 가두길 바라는 건가? 어떤 유물을 만들어서 말이지?"
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:361
+msgid ""
+"Exactly. I want you to craft it into a mighty artifact that will not only "
+"leverage the stone’s power, but contain it also."
+msgstr "정확하오. 나는 당신들이 돌의 힘을 활용할 뿐 아니라 그 힘도 가둘 수 있는 강력한 유물로 만들어 주길 바라오."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:365
+msgid ""
+"Well... I think we can make a deal, but I’m not sure. I’ll have to ask the "
+"clan leaders."
+msgstr "글쎄... 거래할 수 있을 것 같지만 확신은 없군. 부족장들에게 물어봐야겠어."
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:369
+msgid ""
+"If you are not authorized to make a deal, send out someone who is, and I "
+"will bargain with him."
+msgstr "당신에게 거래를 맺을 권한이 없다면, 권한이 있는 자를 보내시오. 그와 협상하겠소."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:374
+msgid ""
+"They would refuse to come. You must come into the caves and go to the city "
+"in person, or send a representative."
+msgstr "그들은 오기를 거부할 거요. 당신이 직접 동굴 안으로 들어와 도시로 가거나 대표를 보내야 하오."
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:378
+msgid ""
+"I can always take my offer to another clan more friendly to its potential "
+"patrons. You are not the only smiths in the Northlands!"
+msgstr "나는 언제든 잠재적인 후원자에게 더 우호적인 다른 부족에 내 제안을 가져갈 수 있소. 북부에서 대장장이는 당신들만이 아니오!"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:383
+msgid ""
+"Uh, no, wait! Let’s talk business — how much will you pay us to do this for "
+"you?"
+msgstr "어, 아니, 잠깐! 거래 이야기를 해 봅시다. 이 일을 해 주는 대가로 얼마를 지불하겠소?"
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:387
+msgid "Five thousand pieces of silver."
+msgstr "은화 5천 개."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:392
+msgid ""
+"You said you wanted a powerful magical artifact, not a child’s playtoy! "
+"So... twenty thousand, minimum. The crafting of this will take us many "
+"years, you must pay us well."
+msgstr "강력한 마법 유물을 원한다고 했지, 아이들 장난감을 원한 게 아니잖소! 그러니... 최소 2만 개요. 이걸 만드는 데는 수년이 걸릴 테니 후하게 지불해야 하오."
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:396
+msgid "Ten thousand."
+msgstr "1만 개."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:400
+msgid "Nothing below fifteen!"
+msgstr "1만 5천 개보다 적게는 안 되오!"
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:404
+msgid ""
+"Then no deal. I’ll gather my things and go to another dwarvish clan now."
+msgstr "그렇다면 거래는 없소. 짐을 챙겨 지금 다른 드워프 부족으로 가겠소."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:409
+msgid ""
+"Fine then — ten thousand... now, what exactly do you want us to make the "
+"stone into?"
+msgstr "좋소, 그럼 1만 개로 하지... 그런데 정확히 이 돌을 무엇으로 만들길 바라는 거요?"
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:413
+msgid ""
+"I want you to make it into a sceptre. A gold and ruby sceptre to all "
+"appearances. We shall call it the Sceptre of Fire."
+msgstr "그것으로 왕홀을 만들어 주길 바라오. 겉보기에는 금과 루비로 만든 왕홀이지. 우리는 그것을 불의 왕홀이라고 부를 것이오."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:418
+msgid ""
+"I’ll see what I can do. But I will need five thousand silver in advance to "
+"pay for the materials."
+msgstr "내가 할 수 있는 일을 해 보겠소. 하지만 재료비로 은화 5천 개를 선불로 받아야 하오."
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:422
+msgid ""
+"Very well. I have the silver here, ready to ship, and I will send someone "
+"over with the stone itself. He will stay with you as you make the sceptre, "
+"and make sure you get it done on time. I expect it done before my reign as "
+"king is ended."
+msgstr "좋소. 여기 운송할 준비가 된 은화가 있소. 그리고 돌 자체를 가지고 누군가를 보내겠소. 그는 당신들이 왕홀을 만드는 동안 함께 머물며 제때 완성하는지 확인할 것이오. 내가 왕으로 통치하는 동안 완성되길 바라오."
+
+#. [unit]: type=Dragoon, id=Alanin
+#. [side]
+#. [side]: type=Haldric II, id=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:476
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:27
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:19
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:30
+msgid "Alanin"
+msgstr "알라닌(Alanin)"
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:487
+msgid "That’s right. I’ll be coming over along with the silver."
+msgstr "맞습니다. 제가 은화와 함께 가겠습니다."
+
+#. [message]: speaker=Glildur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:491
+msgid ""
+"Hey! You can’t do that — this road is an elvish road. We’re not letting you "
+"transport gold and jewels on it without paying a toll."
+msgstr "이봐! 그렇게 할 수는 없어. 이 길은 엘프의 길이다. 통행료를 내지 않고 금과 보석을 운반하게 둘 수는 없지."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:495
+msgid "What are you talking about?! This road has always been open to all."
+msgstr "무슨 소리요?! 이 길은 언제나 모두에게 열려 있었소."
+
+#. [message]: speaker=Glildur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:500
+msgid "Yes, we have allowed people to use it, but it is our road."
+msgstr "그래, 우리가 사람들이 사용하도록 허락했지만 이 길은 우리 길이다."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:504
+msgid "Not true! This is dwarvish land; if anything, it’s our road!"
+msgstr "그렇지 않소! 이곳은 드워프의 땅이니, 굳이 따지자면 우리 길이오!"
+
+#. [message]: speaker=Glildur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:509
+msgid ""
+"Nevertheless, if you try to move your caravans here, you have to pay the "
+"toll or face our wrath!"
+msgstr "어쨌든 이곳으로 마차를 옮기려 한다면 통행료를 내거나 우리의 분노를 감당해야 할 거다!"
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:513
+msgid ""
+"We Wesnothians and you elves have a treaty! Do you really mean to break it "
+"in defense of a road that is not even yours?!"
+msgstr "우리 웨스노스인과 당신들 엘프 사이에는 조약이 있소! 당신들 것이 아닌 길을 지키겠다고 정말 조약을 깨겠다는 거요?!"
+
+#. [message]: speaker=Glildur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:517
+msgid ""
+"I was never among those who agreed to that treaty. Not all of us elves are "
+"as low as Kalenz or make deals with those who betrayed us."
+msgstr "나는 그 조약에 동의한 자들 중 하나가 아니었다. 우리 엘프가 모두 칼렌즈처럼 비열하거나, 우리를 배신한 자들과 거래하는 것은 아니지."
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:522
+msgid ""
+"Ah, I see — you are one of the rebels. Our treaty with the elves does not "
+"apply to you, so I have no problem with slaying you if you stand in our way. "
+"Rugnur, we will proceed with the shipment."
+msgstr "아, 알겠소. 당신은 반란군 중 하나로군. 엘프와 맺은 우리 조약은 당신에게 적용되지 않으니, 앞을 가로막는다면 당신을 죽여도 문제없소. 룩누르, 운송을 계속하겠소."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:526
+msgid ""
+"Very well. Glildur, if the high elvish council has made an alliance with "
+"these humans, I would advise you to follow it. But not doing so is your "
+"choice."
+msgstr "좋소. 글릴두르, 고등 엘프 의회가 이 인간들과 동맹을 맺었다면 그 동맹을 따르길 권하겠소. 따르지 않는 것은 당신의 선택이오."
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:669
+msgid "Oh, the elves are going to cut us off!"
+msgstr "아, 엘프들이 우리를 가로막으려 해!"
+
+#. [message]: speaker=Glildur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:673
+msgid "I told you this was our road."
+msgstr "이 길이 우리 길이라고 말했잖아."
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:693
+msgid ""
+"Here’s the stone for you dwarves! Now, if you’ll excuse me, I think I’ll be "
+"taking refuge here... I don’t much like fighting."
+msgstr "드워프들, 여기 돌이 있소! 이제 실례하겠소. 나는 여기서 몸을 피해야 할 것 같군... 싸움은 별로 좋아하지 않아서."
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:714
+msgid "All the silver is there too. Proceed with the task, Rugnur!"
+msgstr "은화도 전부 저기 있소. 일을 진행하시오, 룩누르!"
+
+#. [message]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:762
+msgid "Cargo unloaded."
+msgstr "화물 하역 완료."
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:772
+msgid "You only need $incominggold more, then you can begin work."
+msgstr "$incominggold 골드만 더 있으면 작업을 시작할 수 있습니다."
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:779
+msgid ""
+"You only need $incominggold more, and the stone, then you can begin work."
+msgstr "$incominggold 골드와 돌만 더 있으면 작업을 시작할 수 있습니다."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:794
+msgid "That’s the last caravan! We will commence work immediately."
+msgstr "저게 마지막 마차야! 즉시 작업을 시작하자."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:816
+msgid "We have all of the silver, now all we need is the stone."
+msgstr "은은 모두 모았어. 이제 돌만 있으면 돼."
+
+#. [message]: speaker=Glildur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:833
+msgid ""
+"Our reinforcements should be here soon. Send those caravans here, we might "
+"let you walk away."
+msgstr "곧 지원군이 도착할 거다. 그 마차들을 이리 보내면 살려 보내 줄지도 모르지."
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:837
+msgid ""
+"That’s a bluff. What sort of reinforcements can this little band of thieves "
+"possibly count on?"
+msgstr "허세 부리는군. 이 작은 도둑 무리가 무슨 지원군을 기대할 수 있겠소?"
+
+#. [message]: speaker=Glildur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:869
+msgid ""
+"Ha! Our reinforcements have arrived. There is no way you can withstand our "
+"combined strength!"
+msgstr "하! 우리 지원군이 도착했다. 우리의 연합된 힘을 너희가 견뎌 낼 방법은 없어!"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:873
+msgid ""
+"We cannot match you above ground, but in the caves, we may still defeat you."
+msgstr "지상에서는 너희와 맞설 수 없지만, 동굴에서는 아직 너희를 물리칠 수 있어."
+
+#. [message]: speaker=Glildur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:877
+msgid ""
+"We will see about that — if you ever get underground, which I doubt. Ha!"
+msgstr "그건 두고 보지. 네가 지하로 내려오기나 한다면 말이지만, 그럴 수 있을지는 의문이군. 하!"
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:889
+msgid ""
+"Elvish reinforcements! Where did these come from? I thought the elvish "
+"resistance to the treaty was smaller than this. Hurry up and move those "
+"caravans!"
+msgstr "엘프 지원군이다! 어디서 온 거지? 조약에 반대하는 엘프 세력이 이 정도로 클 줄은 몰랐군. 서둘러 마차를 옮겨!"
+
+#. [message]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:909
+msgid "Die, humans! In the name of Landar!"
+msgstr "죽어라, 인간들아! 란다르의 이름으로!"
+
+#. [message]: speaker=second_unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:913
+msgid "Landar? Who is this ‘Landar’ you speak of?"
+msgstr "란다르? 네가 말하는 그 ‘란다르’가 누구지?"
+
+#. [message]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:930
+msgid "Die, dwarvish scum! In the name of Landar!"
+msgstr "죽어라, 드워프 쓰레기들아! 란다르의 이름으로!"
+
+#. [message]: speaker=second_unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:934
+msgid "Yer precious Landar can kiss my axe."
+msgstr "네 소중한 란다르에게 내 도끼나 맛보라고 해."
+
+#. [message]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:945
+msgid "This gains you nothing! We will not rest!"
+msgstr "이래 봐야 아무것도 얻지 못한다! 우리는 쉬지 않겠다!"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:975
+msgid "Good, the road is secured. Let’s move those caravans!"
+msgstr "좋아, 길을 확보했군. 마차를 옮기자!"
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:1001
+msgid ""
+"You just let a caravan, with <i>my</i> money loaded in it, get captured! If "
+"I can’t trust you to keep my property secure, the deal’s off."
+msgstr "<i>내</i> 돈을 실은 마차를 그냥 빼앗기게 두다니! 내 재산을 지킬 수 있다고 믿을 수 없다면 거래는 없던 일이오."
+
+#. [scenario]: id=2_Closing_the_Gates
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:3
+msgid "Closing the Gates"
+msgstr "문 닫기"
+
+#. [side]
+#. [side]: type=Troll Warrior, id=Harohk
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:101
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:232
+msgid "Trolls"
+msgstr "트롤들"
+
+#. [part]
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:106
+msgid ""
+"Next in our story, Rugnur retreated into the caves of Knalga. But the elves "
+"pressed on and would enter the caves shortly."
+msgstr "우리 이야기는 계속된다. 룩누르는 크날가의 동굴로 후퇴했다. 하지만 엘프들은 계속 진격했고 곧 동굴 안으로 들어오려 했다."
+
+#. [objective]: condition=win
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:124
+msgid ""
+"Place someone on each of the six magic glyphs in order to close the dwarvish "
+"gates"
+msgstr "여섯 개의 마법 문양 각각에 유닛을 배치해 드워프의 문을 닫으세요"
+
+#. [objective]: condition=win
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:131
+msgid "Kill all elves in the caves after the gates are closed"
+msgstr "문을 닫은 뒤 동굴의 모든 엘프를 처치하세요"
+
+#. [objective]: condition=win
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:138
+msgid "Kill all elves in the caves"
+msgstr "동굴의 모든 엘프를 처치하세요"
+
+#. [objective]: condition=lose
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:149
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:96
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:144
+msgid "Death of Baglur"
+msgstr "바글루르의 죽음"
+
+#. [note]
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:153
+msgid ""
+"Moving a dwarf to a rune chest north of the keep opens a dialog for "
+"obtaining temporary upgrades which last until the end of the scenario."
+msgstr "본영 북쪽의 룬 상자로 드워프를 이동시키면 시나리오가 끝날 때까지 지속되는 임시 강화 효과를 얻는 대화 상자가 열립니다."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:288
+msgid ""
+"These elves are right behind me! We have to go warn the council of this "
+"attack...!"
+msgstr "엘프들이 바로 뒤까지 쫓아왔어! 의회에 이 공격을 알려야 해...!"
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:292
+msgid "Here — I’ll go warn the council. You stay here and fight."
+msgstr "여기 있어. 내가 의회에 경고하러 갈게. 넌 여기 남아서 싸워."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:296
+msgid "Yes, that sounds good. I’ll stay here and try to defend the gates..."
+msgstr "그래, 그게 좋겠군. 나는 여기 남아서 문을 지켜 보겠어..."
+
+#. [message]: speaker=Glildur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:309
+msgid ""
+"I see you have sent a messenger to the city. Good idea, but will it really "
+"help? We have more troops and more provisions, and we are going to enter "
+"those caves and kill you!"
+msgstr "도시에 전령을 보낸 모양이군. 좋은 생각이지만 정말 도움이 될까? 우리에게는 병력도 보급품도 더 많고, 저 동굴에 들어가 너희를 죽일 거다!"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:314
+msgid "(<i>Gulp</i>)"
+msgstr "(<i>꿀꺽</i>)"
+
+#. [message]: speaker=Glildur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:318
+msgid "Ha! I thought as much. Well then, surrender!"
+msgstr "하! 그럴 줄 알았지. 그렇다면 항복해라!"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:322
+msgid "Um... on what terms?"
+msgstr "음... 조건은?"
+
+#. [message]: speaker=Glildur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:326
+msgid "Unconditional."
+msgstr "무조건이다."
+
+#. [unit]: type=Dwarvish Stalwart, id=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:342
+msgid "Baglur"
+msgstr "바글루르(Baglur)"
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:358
+msgid ""
+"Wait! Rugnur, dinna’ they tell you <i>anything</i> when you took command "
+"here?!"
+msgstr "잠깐! 룩누르, 네가 여기 지휘를 맡을 때 <i>아무것도</i> 듣지 못했단 말이냐?!"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:362
+msgid "Not really. This was supposedly a time of peace. Who are you?"
+msgstr "딱히 그렇지는 않았소. 평화로운 시기라고 했으니까. 당신은 누구요?"
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:366
+msgid ""
+"Argh! I’m a retired warrior... it looks like I’ll ha’ to come out and help "
+"you, else we’ll be overrun by the damn elves... argh, again. Well, listen "
+"here. This entrance to the city can be closed. There’s a gate. If we can "
+"close it, the elves will no’ be able to enter. And you elves; begone from "
+"here!"
+msgstr "으악! 나는 은퇴한 전사다... 아무래도 나와서 널 도와야겠구나. 그렇지 않으면 빌어먹을 엘프들에게 짓밟힐 테니... 으악, 또 이러는군. 잘 들어라. 이 도시 입구는 닫을 수 있다. 문이 하나 있지. 그걸 닫으면 엘프들이 들어오지 못한다. 그리고 너희 엘프들아, 여기서 썩 꺼져라!"
+
+#. [message]: speaker=Glildur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:370
+msgid ""
+"Cease your meddling, old dwarf! Rugnur is in charge here, and it is he who "
+"will bargain with us."
+msgstr "참견을 그만두시오, 늙은 드워프! 여기 책임자는 룩누르이고, 우리와 협상할 사람도 그요."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:374
+msgid "Baglur, how do you close the gates?"
+msgstr "바글루르, 문을 어떻게 닫는 거요?"
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:378
+msgid ""
+"Och, well that’s the difficulty. It’s a magic gate. Indestructible. But that "
+"means it can only be closed by magic. Ye need to position a warrior on each "
+"of the six glyphs. When all are occupied, the gates wi’ close. Then the "
+"elves will be shut out of the caves forever, at least through this entrance."
+msgstr "아, 바로 그게 문제다. 마법의 문이거든. 파괴할 수 없지. 하지만 그렇다는 건 마법으로만 닫을 수 있다는 뜻이다. 여섯 문양 각각에 전사를 배치해야 해. 모두 자리를 차지하면 문이 닫힐 거다. 그러면 적어도 이 입구로는 엘프들이 영원히 동굴에 들어오지 못할 게야."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:382
+msgid "Don’t we have troops positioned near these glyphs, to unlock them?"
+msgstr "문양을 작동시킬 병력을 이 문양 근처에 배치해 두지 않았소?"
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:386
+msgid ""
+"Och, well, no. Lately, trolls have been more in charge of those caves where "
+"the glyphs are than we dwarves have."
+msgstr "아, 글쎄, 아니란다. 요즘은 우리 드워프보다 트롤들이 문양이 있는 동굴을 더 많이 관리하고 있거든."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:390
+msgid "Well, where are they located?"
+msgstr "그럼 어디에 있소?"
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:394
+msgid ""
+"Two are down a side passage in the northwest, another two are in a similar "
+"location in the southeast, and two are right next to the front gate."
+msgstr "둘은 북서쪽의 샛길 아래에 있고, 다른 둘은 남동쪽의 비슷한 곳에 있으며, 둘은 정문 바로 옆에 있다."
+
+#. [message]: speaker=Glildur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:398
+msgid ""
+"Have you made up your mind yet about surrendering? If you will not give up, "
+"prepare for battle!"
+msgstr "항복할 생각은 정했나? 포기하지 않겠다면 전투를 준비해라!"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:403
+msgid ""
+"You may be more powerful than us, but I doubt even you can blast through "
+"dwarf-made stonecraft. We refuse — now let’s close these gates!"
+msgstr "당신들이 우리보다 강할지는 몰라도, 드워프가 만든 석조물을 뚫을 수 있을지는 의문이군. 우리는 거부하겠소. 이제 이 문을 닫읍시다!"
+
+#. [message]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:519
+msgid ""
+"But what about this entrance? The elves can come through it just as easily "
+"as the main gate, and it cannot be closed!"
+msgstr "하지만 이 입구는 어떡하지? 엘프들이 정문만큼 쉽게 이곳으로 들어올 수 있는데, 닫을 수가 없잖아!"
+
+#. [message]: speaker=Baglur
+#. "it" is a side entrance of a dwarven fortress
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:524
+msgid ""
+"I think it can be sealed up somehow... yes, look, activating that glyph "
+"seems to have closed up the gap."
+msgstr "어떻게든 봉쇄할 수 있을 것 같은데... 그래, 저 문양을 작동시키니 틈이 막힌 것 같구나."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:567
+msgid "We have everyone positioned on the glyphs! What do we do now?"
+msgstr "모두 문양 위에 배치했소! 이제 어떻게 하지?"
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:579
+msgid ""
+"Just watch. The gates wi’ close very soon. Then the elves outside — and, "
+"unfortunately, our dwarves who are still out there — wi’ become irrelevant."
+msgstr "지켜보거라. 곧 문이 닫힐 게다. 그러면 밖에 있는 엘프들은 물론이고, 안타깝게도 아직 밖에 남은 우리 드워프들도 더는 중요하지 않게 되지."
+
+#. [message]: speaker=Baglur
+#. all the dwarves are inside, although there might still be some elves inside too
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:586
+msgid ""
+"Just watch. The gates wi’ close very soon. Then the elves outside wi’ become "
+"irrelevant."
+msgstr "지켜보거라. 곧 문이 닫힐 게다. 그러면 밖에 있는 엘프들은 더는 중요하지 않게 되지."
+
+#. [message]: speaker=Glildur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:621
+msgid ""
+"Agh! Well, you have defeated me for now, but eventually you will have to "
+"exit these caves to give Haldric back his jewel. And when you do, we will be "
+"ready for you."
+msgstr "으악! 좋아, 지금은 네가 나를 물리쳤지만 결국 이 동굴에서 나와 할드릭에게 보석을 돌려줘야 할 거다. 그때가 오면 우리가 너희를 기다리고 있겠다."
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:625
+msgid ""
+"If that is what ye choose to do, fine, but be prepared to wait for many "
+"years."
+msgstr "그게 네가 선택한 길이라면 좋다. 하지만 여러 해를 기다릴 각오는 해 두거라."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:660
+msgid ""
+"There are still some elves left in here. We have to eliminate them too, "
+"unless they surrender."
+msgstr "아직 안에 엘프가 남아 있소. 항복하지 않는다면 그들도 제거해야 하오."
+
+#. [message]
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:664
+msgid "You would have us be cowards! We do not surrender."
+msgstr "우리를 겁쟁이로 만들 셈이냐! 우리는 항복하지 않는다."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:673
+msgid "Well, now I should go down to the city and report. I’m late already..."
+msgstr "좋아, 이제 도시로 내려가 보고해야 겠군. 이미 늦었어..."
+
+#. [message]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:686
+msgid "My glyph is on."
+msgstr "내 문양이 켜졌어."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:770
+msgid ""
+"That’s all of the elves. Now I should go down to the city and report. I’m "
+"late already..."
+msgstr "엘프는 모두 처리했군. 이제 도시로 내려가 보고해야 겠어. 이미 늦었지만..."
+
+#. [scenario]: id=2p5_Reaching_the_Runecrafter
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:3
+msgid "Reaching the Runecrafter"
+msgstr "룬 세공사에게 도달하기"
+
+#. [side]: type=Orcish Warrior, id=Bragdash
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:32
+msgid "Bragdash Gar"
+msgstr "브라그다시 가르"
+
+#. [side]: type=Orcish Warrior, id=Bragdash
+#. [side]
+#. [side]: type=Orcish Warlord
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:39
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:79
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:182
+msgid "Orcs"
+msgstr "오크들"
+
+#. [side]: type=Goblin Rouser, id=Pidmer
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:50
+msgid "Pidmer Gar"
+msgstr "피드메르 가르"
+
+#. [side]: type=Goblin Rouser, id=Pidmer
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:57
+msgid "Goblins"
+msgstr "고블린"
+
+#. [part]
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:67
+msgid ""
+"The journey to the far northern wastelands was long and perilous. The "
+"tunnels were narrow, but by following the old mining rails, Rugnur and his "
+"group could make good time. After a few days journey, they saw a dim red "
+"glow in the tunnel ahead and could feel sporadic vibrations in the rails."
+msgstr "극북의 황무지까지 가는 여정은 길고 위험했다. 터널은 좁았지만 룩누르 일행은 오래된 광산 철로를 따라 순조롭게 나아갈 수 있었다. 며칠을 여행하자 앞쪽 터널에서 희미한 붉은 빛이 보였고, 철로에서 간헐적인 진동이 느껴졌다."
+
+#. [part]
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:70
+msgid ""
+"As the group got near the source of the glow, they heard metallic banging "
+"and guttural shouting, and their noses were assaulted by a fetid smell..."
+msgstr "일행이 빛의 근원에 가까워지자 금속이 부딪히는 소리와 목구멍에서 울리는 고함이 들렸고, 지독한 악취가 코를 찔렀다..."
+
+#. [objective]: condition=win
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:84
+msgid "Reach the top of the map with Rugnur, Baglur, and Alanin"
+msgstr "룩누르, 바글루르, 알라닌을 지도 위쪽 끝까지 이동시키세요"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:145
+msgid "Those are orcs, aren’t they?"
+msgstr "저건 오크들 아닌가?"
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:149
+msgid ""
+"Aye, in all their destructive glory. Looks like they’re trying to strip the "
+"metal from the rails."
+msgstr "그래, 파괴적인 위용을 한껏 뽐내고 있군. 철로에서 금속을 떼어 내려고 하는 모양이야."
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:153
+msgid "That’s terrible, someone should stop them!"
+msgstr "끔찍하군요. 누군가 저들을 막아야 해요!"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:157
+msgid ""
+"Do orcs always stink so bad? I’ve heard that they are stupid and messy, but "
+"this is almost unbearable!"
+msgstr "오크는 항상 이렇게 냄새가 지독한가? 멍청하고 지저분하다는 말은 들었지만, 이건 거의 견딜 수 없을 정도야!"
+
+#. [message]: speaker=Bragdash
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:161
+msgid "We see you, we hear you, sneaky little moles! Pidmer, go skewer them!"
+msgstr "우리가 너희를 보고 있고, 너희 말을 듣고 있다, 교활한 두더지 자식들아! 피드메르, 가서 놈들을 꿰뚫어라!"
+
+#. [message]: speaker=Pidmer
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:165
+msgid "Um... aren’t we needed for the salvage?"
+msgstr "음... 우리가 잔해를 회수해야 하는 것 아닌가요?"
+
+#. [message]: speaker=Bragdash
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:169
+msgid ""
+"No! You’ve been straining and struggling, but those metal tracks defeat you! "
+"It takes a strong orc to break that steel, you go deal with those little "
+"cave rats. You can keep their shiny helmets, they might fit you!"
+msgstr "아니! 너희가 애쓰고 발버둥 쳐도 저 금속 선로에는 상대가 안 되잖아! 저 강철을 부수려면 힘센 오크가 필요하다. 너희는 저 작은 동굴 쥐들이나 상대해라. 반짝이는 헬멧은 가져도 좋아. 너희에게 맞을지도 모르지!"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:173
+msgid "Uh, well, we’re not getting through without a fight..."
+msgstr "어, 글쎄, 싸우지 않고는 지나갈 수 없겠군..."
+
+#. [message]: speaker=Rugnur
+#. second part of "Uh, well, we’re not getting through without a fight..."
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:179
+msgid "... let’s set up a base here."
+msgstr "... 여기에 기지를 세우자."
+
+#. [message]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:211
+msgid ""
+"This old cart still rolls smoothly on the track... it’s forged by us "
+"dwarves, I shouldn’t be surprised!"
+msgstr "이 낡은 수레도 아직 철로 위를 부드럽게 달리는군... 우리 드워프가 만든 것이니 놀랄 일도 아니지!"
+
+#. [message]: speaker=narrator
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:216
+msgid ""
+"A dwarf can ride the carts along the tracks. Use the context menu (usually "
+"right-click menu) to board or exit the cart. If a cart rider is involved in "
+"combat, the rider exits the cart."
+msgstr "드워프는 철로를 따라 수레를 탈 수 있습니다. 상황 메뉴(보통 마우스 오른쪽 버튼 메뉴)를 사용해 수레에 타거나 내리세요. 수레를 탄 유닛이 전투에 참여하면 수레에서 내립니다."
+
+#. [message]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:228
+msgid ""
+"(*gasp*) I think I’ve found the source of the terrible smell, it wasn’t the "
+"orcs..."
+msgstr "(*헉*) 지독한 냄새의 근원을 찾은 것 같아. 오크가 아니었군..."
+
+#. [message]: speaker=Bragdash
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:232
+msgid "Of course it wasn’t us, you worm!"
+msgstr "당연히 우리가 아니지, 이 벌레 같은 놈아!"
+
+#. [message]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:236
+msgid ""
+"This underground river is choked off with a rotting mess, it’s overgrown "
+"with fungus. I can try to see what’s underneath... whoops!"
+msgstr "이 지하 강은 썩어 가는 것들로 막혀 있고 곰팡이가 뒤덮여 있어. 밑에 뭐가 있는지 살펴볼 수는 있는데... 이런!"
+
+#. [message]: speaker=Pidmer
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:269
+msgid "Help! We can’t swim!"
+msgstr "도와줘요! 우리는 수영을 못 해요!"
+
+#. [message]: speaker=Bragdash
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:282
+msgid "You’ve flooded your own tunnel, you stupid little gophers!"
+msgstr "너희가 자기들 터널을 물바다로 만들었잖아, 이 멍청한 땅굴쥐들아!"
+
+#. [message]: speaker=Baglur
+#. "Yes, we have flooded our own tunnel ..."
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:287
+msgid "Och, we ’ave... but our rails are as strong and stout as we are!"
+msgstr "아, 그랬지... 하지만 우리 철로는 우리만큼이나 튼튼하고 견고하다!"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:291
+msgid "We can continue along the rails!"
+msgstr "철로를 따라 계속 갈 수 있어!"
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:295
+msgid "That’s good, because that water looks so cold!"
+msgstr "다행이네요. 저 물은 정말 차가워 보여요!"
+
+#. [message]: speaker=Bragdash
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:326
+msgid "Argh, I never should’a come to this stinkin’ cathole!"
+msgstr "으악, 이런 냄새나는 구멍에 오는 게 아니었어!"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:356
+msgid ""
+"The air smells much better up ahead, let’s leave this place behind us. Too "
+"bad the rails are damaged here, the carts could have been handy."
+msgstr "앞쪽 공기는 냄새가 훨씬 낫군. 이곳을 뒤로하고 가자. 철로가 여기서 망가진 게 아쉽네. 수레가 유용했을 텐데."
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:360
+msgid ""
+"Aye, but the carts are common enough, the real beauty is the rail track! "
+"Let’s follow the straight steel path as far north as it will take us."
+msgstr "그래, 하지만 수레야 흔한 물건이지. 진짜 멋진 건 철로야! 철로가 이어지는 한 곧게 뻗은 강철 길을 따라 최대한 북쪽으로 가자."
+
+#. [scenario]: id=2t_In_the_Dwarven_City
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:3
+msgid "In the Dwarven City"
+msgstr "드워프 도시에서"
+
+#. [side]: type=Dwarvish Lord, id=Durstorn
+#. [unit]: type=Dwarvish Lord, id=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:31
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:31
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:31
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:229
+msgid "Durstorn"
+msgstr "두르스토른(Durstorn)"
+
+#. [part]
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:46
+msgid ""
+"Now, I must tell you of another character in our drama. Durstorn, the lord "
+"of dwarfdom. Or at least of this clan."
+msgstr "이제 우리 이야기의 또 다른 인물을 소개해야 겠군. 드워프의 군주 두르스토른, 아니 적어도 이 부족의 군주인 자 말일세."
+
+#. [part]
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:49
+msgid ""
+"Durstorn was not happy this day. Nor was he usually; but today he was "
+"unhappier than usual."
+msgstr "이날 두르스토른은 기분이 좋지 않았다. 평소에도 그랬지만, 오늘은 평소보다 더 불쾌했다."
+
+#. [unit]: type=Dwarvish Stalwart, id=Neglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:64
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:60
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:80
+msgid "Neglur"
+msgstr "네글루르(Neglur)"
+
+#. [unit]: type=Dwarvish Runesmith, id=Glinar
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:76
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:71
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:91
+msgid "Glinar"
+msgstr "글리나르(Glinar)"
+
+#. [unit]: type=Dwarvish Thunderguard, id=Noiraran
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:88
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:82
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:102
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:242
+msgid "Noiraran"
+msgstr "노이라란(Noiraran)"
+
+#. [unit]: type=Dwarvish Steelclad, id=Kuhnar
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:99
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:93
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:113
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:253
+msgid "Kuhnar"
+msgstr "쿠나르(Kuhnar)"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:115
+msgid ""
+"Another day older, another foot stuck in the sludge! Let’s start with some "
+"soft clay... Rugnur, how goes it at the western gate?"
+msgstr "또 하루 늙었고, 또 한쪽 발이 진창에 빠졌군! 부드러운 점토부터 시작하자... 룩누르, 서쪽 문은 어떻게 되어 가나?"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:136
+msgid "... ?"
+msgstr "... ?"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:140
+msgid ""
+"Where’s that fool Rugnur? He should be here to report on events in the "
+"surface world. He’s late!"
+msgstr "그 멍청한 룩누르는 어디 있나? 지상 세계에서 무슨 일이 있었는지 보고하려면 여기 있어야 할 텐데. 늦는군!"
+
+#. [message]: speaker=Noiraran
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:144
+msgid "Perhaps the outpost was held up?"
+msgstr "전초기지에 문제가 생긴 게 아닐까요?"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:148
+msgid ""
+"Ha! There hasn’t been a border attack since the men came from over the sea, "
+"why would someone attack us now?"
+msgstr "하! 인간들이 바다 건너에서 온 뒤로 국경이 공격받은 적은 없었는데, 누가 지금 우리를 공격하겠나?"
+
+#. [message]: speaker=Kuhnar
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:152
+msgid "The elves might want our gold."
+msgstr "엘프들이 우리 금을 노리는 걸지도 모르지."
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:156
+msgid "Good one, let them try to take it! Ha!"
+msgstr "좋은 생각이군. 가져가 보라고 하지! 하!"
+
+#. [message]: speaker=Noiraran
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:160
+msgid ""
+"What about that time the mines of North Knalga were invaded by ancient-"
+"looking undead liches?"
+msgstr "북부 크날가의 광산이 고대의 모습을 한 언데드 리치들에게 침략당했던 때는 어땠지?"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:164
+msgid ""
+"Ye had to bring that up now lad?! Speak not about the undead, lest ye summon "
+"them upon us."
+msgstr "자네는 꼭 지금 그 이야기를 꺼내야겠나, 젊은이?! 언데드 이야기는 하지 마라. 우리 앞에 불러내게 될지도 모르니."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:173
+msgid ""
+"(whew!) Sorry I’m late, but King Haldric came by just now, wanted to talk to "
+"you..."
+msgstr "(후!) 늦어서 미안하지만, 방금 할드릭 왕이 찾아와서 자네들과 이야기하고 싶다고 했어..."
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:177
+msgid "Speak properly to your elders, boy! Why are you late?"
+msgstr "어른에게 예의를 갖춰 말해라, 녀석아! 왜 늦었지?"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:181
+msgid "Huh? Didn’t a messenger come and tell you?"
+msgstr "응? 전령이 와서 말해 주지 않았어?"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:185
+msgid "No, what are you talking about?"
+msgstr "아니, 무슨 말을 하는 거냐?"
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:189
+msgid ""
+"I think you’d better let me explain. King Haldric II of Wesnoth came to the "
+"gate. Then we had to close it, which took considerable time."
+msgstr "내가 설명하는 게 좋겠군. 웨스노스의 할드릭 2세 왕이 문으로 찾아왔네. 그래서 문을 닫아야 했고, 그 때문에 상당한 시간이 걸렸지."
+
+#. [message]: speaker=Glinar
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:194
+msgid "What’d he want? And why’d you have to close the gate?"
+msgstr "그가 뭘 원했지? 그리고 왜 문을 닫아야 했나?"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:198
+msgid ""
+"He wanted to make a deal with us. He gave us a magical stone, called the "
+"‘Ruby of Fire’, and told us to make a sceptre out of it, to keep in the bad "
+"magic, or something like that. We closed the doors because elves were "
+"attacking us."
+msgstr "그는 우리와 거래를 하고 싶어 했어. ‘불의 루비’라는 마법의 돌을 주면서, 그 돌로 나쁜 마법을 가둘 왕홀을 만들라고 했지. 뭐, 대략 그런 이야기야. 엘프들이 우리를 공격하고 있어서 문을 닫았고."
+
+#. [message]: speaker=Kuhnar
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:202
+msgid "Why were the elves attacking?"
+msgstr "엘프들은 왜 공격한 거지?"
+
+#. [message]: speaker=Noiraran
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:206
+msgid "More important than that, what’d the king offer for this sceptre, eh?"
+msgstr "그보다 중요한 건, 왕이 이 왕홀의 대가로 무엇을 제안했느냐는 거야."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:210
+msgid ""
+"He paid us five thousand silver in advance, and he’ll give us five thousand "
+"more when we deliver the finished sceptre if we are done before he dies."
+msgstr "그는 우리에게 은화 5천 개를 선불로 줬고, 그가 죽기 전에 완성된 왕홀을 넘기면 5천 개를 더 주겠다고 했어."
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:214
+msgid ""
+"What?! You already accepted? Foolish boy, you should have come for one of "
+"the elders! We could have gotten much more than ten thousand silver out of "
+"him! This is a task that will take many years, and now all of our work in "
+"that time will bring us very little gain."
+msgstr "뭐라고?! 벌써 받아들였다고? 어리석은 녀석, 어른들 중 한 명에게 왔어야지! 그에게서 은화 만 개보다 훨씬 많이 받아낼 수 있었을 거다! 이 일은 수년이 걸릴 텐데, 이제 그동안의 모든 노력에 비해 얻는 게 너무 적겠구나."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:218
+msgid "Sorry, lord, but he said he would move on to another clan if I left."
+msgstr "죄송합니다, 군주님. 하지만 제가 자리를 뜨면 다른 부족으로 가겠다고 했습니다."
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:222
+msgid ""
+"Can’t you tell a bluff when you hear one?! He knows we’re the best "
+"craftsmen, and he wouldn’t have gone to another clan if we stalled for a "
+"year. Oh well, what’s done is done. We’ll have to work for less than I would "
+"prefer..."
+msgstr "허세인지도 알아보지 못하느냐?! 그는 우리가 최고의 장인이라는 걸 알고 있으니, 우리가 1년을 질질 끌었다고 다른 부족으로 가지는 않았을 거다. 어쩔 수 없지, 이미 벌어진 일이다. 내가 원하는 것보다 적은 대가로 일해야 겠군..."
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:226
+msgid ""
+"Well, since this boy bargained so badly, why not make him fulfill the "
+"contract himself? If he fails, it’s on his head."
+msgstr "글쎄, 이 녀석이 이렇게 형편없이 협상했으니 직접 계약을 이행하게 하는 게 어떻겠나? 실패하면 자기 책임이지."
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:230
+msgid ""
+"Good idea, Baglur! He’ll need some help, though, and it will take a master "
+"smith to make the sceptre. Why don’t we send him to find Thursagan?"
+msgstr "좋은 생각이네, 바글루르! 하지만 도움이 필요할 테고, 왕홀을 만들려면 대장장이 장인이 필요하지. 투르사간을 찾아가게 하는 게 어떻겠나?"
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:234
+msgid "You mean the insane dwarf who lives in the far north?!"
+msgstr "극북에 산다는 그 미친 드워프 말인가?!"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:238
+msgid ""
+"Yes. He is the only one I know of who could craft the sceptre the way "
+"Haldric wants it, bad magic and all. And he has nothing to do; he will be "
+"fine with wasting 25 years of his life on this insane task."
+msgstr "그래. 할드릭이 원하는 방식으로, 나쁜 마법까지도 담은 왕홀을 만들 수 있는 자는 내가 아는 한 그자뿐이야. 게다가 할 일이 없으니, 이 미친 일에 인생의 25년을 낭비해도 괜찮을 거다."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:242
+msgid ""
+"Very well, my lord. We will go into the north to find Thursagan. Do you have "
+"any idea where he is?"
+msgstr "알겠습니다, 군주님. 투르사간을 찾으러 북쪽으로 가겠습니다. 그가 어디 있는지 아십니까?"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:246
+msgid ""
+"Go to the furthest north entrance to the caves, and then go north. He’s "
+"somewhere in those hills."
+msgstr "동굴의 가장 북쪽 입구로 간 다음 북쪽으로 가거라. 그 언덕 어딘가에 있을 게다."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:250
+msgid "Thank you, Lord. I’ll find him and do us proud!"
+msgstr "감사합니다, 군주님. 그를 찾아 우리를 빛내겠습니다!"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:254
+msgid ""
+"Too late for that, young fool. But go on, I can see there’s hope for you yet."
+msgstr "그렇게 하기엔 이미 늦었다, 젊은 바보야. 하지만 가거라. 아직 네게 희망이 보이기는 하니까."
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:267
+msgid "What did I miss, eh?"
+msgstr "무슨 일이 있었던 거지?"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:271
+msgid "Where have you been? Lord-"
+msgstr "어디 있었던 거야? 군주-"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:275
+msgid ""
+"A friend of Rugnur, huh? ... Follow him north. He needs all the help he can "
+"get!"
+msgstr "룩누르의 친구라고? ... 그를 따라 북쪽으로 가거라. 그에게는 가능한 모든 도움이 필요하다!"
+
+#. [scenario]: id=3_Searching_for_the_Runecrafter
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:3
+msgid "Searching for the Runecrafter"
+msgstr "룬 세공사를 찾기"
+
+#. [side]
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:36
+msgid "Monsters"
+msgstr "괴물들"
+
+#. [part]
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:41
+msgid ""
+"It was a couple more weeks of marching along the tracks before a chill "
+"breeze touched Rugnur’s group, washing over them from a side tunnel leading "
+"up to the surface. Had they reached the Northlands?"
+msgstr "철로를 따라 몇 주를 더 행군하고서야 지상으로 이어지는 샛길에서 차가운 바람이 불어와 룩누르 일행을 휘감았다. 북부에 도착한 것일까?"
+
+#. [part]
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:44
+msgid ""
+"Much to his chagrin, Alanin was dispatched to scout further up the rails, "
+"but he soon came back and claimed the rails ended — the main tunnel was "
+"unfinished to the north. For this reason, Rugnur led the dwarves up the cold "
+"passage and began to search for the runesmith named Thursagan. Thursagan, "
+"the Sage of Fire."
+msgstr "알라닌은 몹시 못마땅했지만 철로를 따라 더 앞을 정찰하라는 명령을 받았다. 그러나 그는 곧 돌아와 철로가 끝났다고 보고했다. 북쪽의 주 터널은 아직 완성되지 않았던 것이다. 그래서 룩누르는 드워프들을 차가운 통로로 이끌고 투르사간이라는 룬 장인을 찾기 시작했다. 불의 현자 투르사간을."
+
+#. [objective]: condition=win
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:100
+msgid "Find Thursagan and convince him to come back to the dwarvish city"
+msgstr "투르사간을 찾아 드워프 도시로 돌아오도록 설득하세요"
+
+#. [objective]: condition=win
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:112
+msgid ""
+"Find Thursagan and convince him to come back to the dwarvish city, then "
+"bring him back to the caves"
+msgstr "투르사간을 찾아 드워프 도시로 돌아오도록 설득한 뒤, 그를 동굴로 데려오세요"
+
+#. [objective]: condition=win
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:127
+msgid "Move Thursagan to the signpost"
+msgstr "투르사간을 이정표로 이동시키세요"
+
+#. [objective]: condition=lose
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:148
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:191
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:222
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:174
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:533
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:639
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1106
+msgid "Death of Krawg"
+msgstr "크라그의 죽음"
+
+#. [objective]: condition=lose
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:157
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:656
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:195
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:232
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:178
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:537
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:643
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1110
+msgid "Death of Thursagan"
+msgstr "투르사간의 죽음"
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:219
+msgid ""
+"Now where are we going, anyway? I’ve had to ride down cold, dark, unknown "
+"caves... it’s been quite harrowing, this trip had better be worth all that!"
+msgstr "그런데 우리는 대체 어디로 가는 거죠? 춥고 어둡고 낯선 동굴을 계속 내려왔어요... 정말 끔찍한 여행이었으니, 그만한 가치가 있어야 할 거예요!"
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:223
+msgid ""
+"We need to find the sage Thursagan and convince him to return to the citadel "
+"with us. He’s somewhere up here."
+msgstr "현자 투르사간을 찾아 우리와 함께 요새로 돌아가도록 설득해야 하네. 그는 이 위 어딘가에 있어."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:227
+msgid "Well, how are we supposed to find him?"
+msgstr "그럼 그를 어떻게 찾아야 하죠?"
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:231
+msgid ""
+"His will probably be the only house up here. No one else is insane enough to "
+"live this far north! Even the elves won’t challenge us here."
+msgstr "아마 이 위에 있는 유일한 집이 그의 집일 거다. 이렇게 북쪽까지 와서 살 만큼 미친 자는 아무도 없거든! 엘프들조차 여기서는 우리에게 덤비지 않을 거야."
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:235
+msgid ""
+"Except for trolls and ogres, right? I’ve heard they live in the far "
+"Northlands. They’re probably lurking around here somewhere."
+msgstr "트롤과 오우거는 빼고요, 그렇죠? 극북에 산다고 들었어요. 아마 이 근처 어딘가에 숨어 있을 거예요."
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:239
+msgid "Right. We’ll probably have to fight our way through to his house."
+msgstr "맞아. 그의 집까지 싸워서 나아가야 할 것 같군."
+
+#. [unit]: type=Gryphon, id=Krawg
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:347
+msgid "Krawg"
+msgstr "크라그(Krawg)"
+
+#. [message]: speaker=Krawg
+#. Krawg's speech is purposely very distorted -- he has the
+#. vocal tract of a bird and is speaking through a beak.
+#. "Will you speak with us?"
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:361
+msgid "Kwill yooo spakkk wit uus?!"
+msgstr "우우리가아 너희와아 말할 수우 있나아?!"
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:366
+msgid "Aah! What is that?!"
+msgstr "아악! 저게 뭐죠?!"
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:370
+msgid "Is that... is that a gryphon?"
+msgstr "저건... 그리폰인가?"
+
+#. [message]: speaker=Krawg
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:374
+msgid ""
+"Screech!\n"
+"<i>(Makes eye contact, bobs and cocks head.)</i>"
+msgstr "끼이익!\n<i>(눈을 마주치고, 고개를 까딱이며 갸웃한다.)</i>"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:379
+msgid "It’s talking to us! What do you want, gryphon?"
+msgstr "우리에게 말을 걸고 있어! 그리폰, 무엇을 원하는 거지?"
+
+#. [message]: speaker=Krawg
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:383
+msgid ""
+"Krawg!\n"
+"<i>(Looks out over the icy taiga, turns gaze back toward the dwarves.)</i>"
+msgstr "크라그!\n<i>(얼어붙은 타이가를 바라보다가 드워프들에게 시선을 돌린다.)</i>"
+
+#. [message]: speaker=Krawg
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:388
+msgid "Urrrsagan?"
+msgstr "투우르사간?"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:392
+msgid "Well, um, yes, Thursagan. Why, can you help us find him?"
+msgstr "음, 그래, 투르사간이야. 그를 찾는 데 도와줄 수 있나?"
+
+#. [message]: speaker=Krawg
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:396
+msgid ""
+"Yes...\n"
+"<i>(Quickly shifts gaze to nearby woods, adopts a hostile stance, then "
+"glances back at the dwarves.)</i>"
+msgstr "그래...\n<i>(재빨리 근처 숲으로 시선을 옮기고 적대적인 자세를 취한 뒤, 다시 드워프들을 흘끗 바라본다.)</i>"
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:401
+msgid ""
+"Aye, trolls and wolves are closing in... sure, Krawg, we’ll help you fight "
+"them."
+msgstr "그래, 트롤과 늑대들이 포위해 오고 있군... 좋아, 크라그. 우리가 함께 싸워 주지."
+
+#. [message]: speaker=Krawg
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:442
+msgid ""
+"Screech!\n"
+"<i>(Nods at the middle distance.)</i>"
+msgstr "끼이익!\n<i>(중간 거리의 어딘가를 향해 고개를 끄덕인다.)</i>"
+
+#. [message]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:449
+msgid "I see a house in the distance!"
+msgstr "저 멀리 집이 보여요!"
+
+#. [message]: speaker=narrator
+#. [unit]: type=Dwarvish Runemaster, id=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:476
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:513
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:571
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:577
+msgid "Thursagan"
+msgstr "투르사간(Thursagan)"
+
+#. [message]: speaker=narrator
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:478
+msgid "Go away, you birds! Or I shall burn you out of the air!"
+msgstr "썩 꺼져라, 이 새들아! 그렇지 않으면 하늘에서 불태워 버리겠다!"
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:482
+msgid ""
+"He doesn’t want to talk to gryphons, apparently. I think we’ll have to get "
+"someone there he will talk to..."
+msgstr "아무래도 그는 그리폰과는 이야기하고 싶지 않은 모양이군. 그가 이야기할 만한 사람을 데려가야 할 것 같아..."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:547
+msgid "What do you people want?! Leave me alone!"
+msgstr "너희는 대체 뭘 원하는 거냐?! 나를 내버려 둬!"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:551
+msgid ""
+"Old sage, we come with a message from Lord Durstorn. He asks you to come "
+"back to the city."
+msgstr "늙은 현자여, 두르스토른 군주님의 전갈을 가지고 왔소. 도시로 돌아와 달라고 하셨소."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:555
+msgid ""
+"Ha! That fool thinks he can order me around. Why does he want me to go back, "
+"anyway?"
+msgstr "하! 그 바보가 감히 나에게 명령할 수 있다고 생각하는군. 그런데 대체 왜 내가 돌아오길 바라는 거지?"
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:559
+msgid ""
+"We have entered into a bargain with the King of Wesnoth to craft a sceptre "
+"for him."
+msgstr "우리는 웨스노스 왕과 그를 위한 왕홀을 만들어 주기로 거래를 맺었소."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:563
+msgid ""
+"Oh, and now I suppose Durstorn wants me to craft it, eh? Well I’m not going "
+"to."
+msgstr "아, 이제 두르스토른은 내가 그걸 만들기를 바라는 모양이군? 하지만 나는 만들지 않겠다."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:567
+msgid ""
+"You don’t want to make a sceptre to contain the power of the Ruby of Fire? "
+"It would be quite a challenge, I could see why you wouldn’t want to touch it!"
+msgstr "불의 루비의 힘을 가둘 왕홀을 만들고 싶지 않은 거요? 꽤 어려운 일이긴 하지. 왜 손대고 싶지 않은지는 알겠소!"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:571
+msgid ""
+"Whoa, now! The Ruby of Fire, what is that, some worthless Wesnothian gem?"
+msgstr "어이, 잠깐! 불의 루비라니, 그게 뭐지? 웨스노스의 하찮은 보석 같은 건가?"
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:575
+msgid ""
+"It is a Wesnothian gem, but it is also supposedly the most powerful magical "
+"artifact ever seen. Even an untrained hand can use it to cast fiery bolts as "
+"powerful as those of arch mages."
+msgstr "웨스노스의 보석이기는 하지만, 지금까지 알려진 것 중 가장 강력한 마법 유물이라고 하오. 훈련받지 않은 사람도 그것을 사용하면 대마법사의 것만큼 강력한 불꽃 화살을 쏠 수 있소."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:579
+msgid "Oh, really? And what does the King of Wesnoth want us to do with it?"
+msgstr "아, 정말인가? 그렇다면 웨스노스 왕은 우리가 그걸로 무엇을 하길 바라는 거지?"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:583
+msgid "Contain and intensify its power."
+msgstr "그 힘을 가두고 증폭하는 거요."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:587
+msgid ""
+"I see. The king would cast fire like a mage. Well, good for him. Send him my "
+"regards!"
+msgstr "알겠군. 왕이 마법사처럼 불을 쏘고 싶다는 거로군. 잘됐네. 내 안부나 전해 주게!"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:591
+msgid ""
+"No wait, I wasn’t clear! We need to contain this power, build some sort of "
+"magical cage!"
+msgstr "아니, 잠깐, 내가 설명을 제대로 못 했군! 이 힘을 가둘 마법의 우리 같은 것을 만들어야 하오!"
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:595
+msgid ""
+"Aye, a cage, and we can’t do it on our own, Thursagan. We need your skill "
+"and expertise!"
+msgstr "그래, 우리 말일세. 우리 힘만으로는 할 수 없소, 투르사간. 당신의 기술과 전문 지식이 필요하오!"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:599
+msgid ""
+"Hrmph, so you need to deliver this power to the king, but also seek to "
+"contain that foolish man... I see your dilemma, and I do love a challenge, "
+"so let’s build this powerful artifact. I expect it will take years."
+msgstr "흠, 그러니까 이 힘을 왕에게 전달하면서도 그 어리석은 자를 가두고 싶다는 거군... 딜레마는 알겠소. 나도 도전을 좋아하니 이 강력한 유물을 만들어 보자고. 몇 년은 걸릴 것 같군."
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:603
+msgid ""
+"Good. Now, there are still wild animals here... we have to get back into the "
+"caves."
+msgstr "좋아. 아직 이곳에는 야생 동물이 남아 있군... 동굴로 돌아가야 하네."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:642
+msgid ""
+"If we want to make this work, we will need every rune-blasted edge we can "
+"get. If I have some time to set up shop at a keep, I can prepare a little "
+"rune-craft for your troops. My goods do not come cheap though, I will not "
+"stoop to trifling apprentice-work..."
+msgstr "이 일을 성공시키려면 얻을 수 있는 모든 룬의 이점을 활용해야 하오. 본영에 작업장을 차릴 시간이 있다면 병사들을 위해 룬 기술을 조금 준비할 수 있지. 하지만 내 물건은 싸지 않소. 시시한 수습생 수준의 작업으로 몸을 낮추지는 않을 테니..."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:656
+msgid ""
+"Well, we can finally get back in our caves — away from these trolls and "
+"ogres! Come on, let’s head back south, to the city."
+msgstr "좋아, 드디어 우리 동굴로 돌아갈 수 있겠군. 이 트롤과 오우거들에게서 벗어나는 거야! 자, 남쪽 도시로 돌아가자."
+
+#. [scenario]: id=3t_The_Council_Regathers
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:3
+msgid "The Council Regathers"
+msgstr "의회가 다시 모이다"
+
+#. [part]
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:45
+msgid ""
+"The path back to the dwarven city was well known to the travelers this time, "
+"so the journey south was relatively quick and uneventful. A week’s march "
+"brought the expedition to the familiar plaza, with two new members of their "
+"party — one expected, and one not."
+msgstr "이번에는 여행자들이 드워프 도시로 돌아가는 길을 잘 알고 있었기에 남쪽으로의 여정은 비교적 빠르고 순조로웠다. 일주일 동안 행군한 끝에 일행은 익숙한 광장에 도착했다. 일행에는 새로운 구성원이 둘 있었는데, 한 명은 예상했던 자였고 다른 한 명은 아니었다."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:128
+msgid "Lord Durstorn, we have succeeded in our mission. Thursagan is here."
+msgstr "두르스토른 군주님, 임무를 완수했습니다. 투르사간이 여기 있습니다."
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:132
+msgid ""
+"What? You mean you found Thursagan and got him to return with you? "
+"Astounding! But what is that gryphon doing here?"
+msgstr "뭐라고? 투르사간을 찾아서 함께 돌아오게 했단 말이냐? 놀랍군! 그런데 저 그리폰은 여기서 뭘 하는 거지?"
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:136
+msgid ""
+"Yes, we did get Thursagan to come along. And that is Krawg, who helped us in "
+"the Northlands."
+msgstr "그래, 투르사간이 함께 오도록 설득했네. 그리고 저자는 북부에서 우리를 도와준 크라그라네."
+
+#. [message]: speaker=Krawg
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:140
+msgid "Yaa! Krawg!"
+msgstr "야아! 크라그!"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:144
+msgid "Now, where is this ruby that I am to work with, eh Durstorn?"
+msgstr "자, 내가 작업할 루비는 어디 있지, 두르스토른?"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:148
+msgid "Where I can keep an eye on it."
+msgstr "내가 지켜볼 수 있는 곳에 있지."
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:161
+msgid ""
+"And leave it there until you’re ready to work with it — I still don’t trust "
+"you."
+msgstr "네가 작업할 준비가 될 때까지 거기에 두게. 나는 아직도 널 믿지 않으니까."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:165
+msgid "Ha! <i>You</i> don’t trust <i>me</i>?"
+msgstr "하! <i>네가</i> <i>나를</i> 믿지 않는다고?"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:169
+msgid ""
+"Exactly! Why would I? And I order you to stay out of the treasury, away from "
+"that ruby!"
+msgstr "바로 그렇다! 내가 왜 널 믿겠나? 그리고 보물창고에 들어가거나 저 루비에 가까이 가지 말라고 명령하겠다!"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:173
+msgid ""
+"Hey, if you want me to work on this sceptre, you don’t dictate what I am to "
+"do, Durstorn!"
+msgstr "이봐, 내가 이 왕홀을 만들길 바란다면 내가 할 일을 네가 이래라저래라 하지 마, 두르스토른!"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:177
+msgid "The ruby is mine, and don’t touch it!"
+msgstr "그 루비는 내 것이니 손대지 마라!"
+
+#. [message]: speaker=Noiraran
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:181
+msgid ""
+"Uh, it belongs to King Haldric, my lord, and I think that if Thursagan needs "
+"to see it to plan this sceptre, we must allow it."
+msgstr "어, 그건 할드릭 왕의 것입니다, 군주님. 투르사간이 이 왕홀을 설계하려면 루비를 봐야 한다고 생각하니 허락해야 합니다."
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:185
+msgid ""
+"Fine, so be it! Do what you have to, Thursagan, but don’t try anything "
+"sneaky..."
+msgstr "좋아, 그렇게 하자! 해야 할 일을 하게, 투르사간. 하지만 수상한 짓은 하지 말게..."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:194
+msgid ""
+"Hm... a most interesting jewel. I can feel its magical power. I will start "
+"drawing up plans for the sceptre immediately."
+msgstr "흠... 아주 흥미로운 보석이군. 마법의 힘이 느껴져. 당장 왕홀 설계도를 그리기 시작하겠네."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:204
+msgid "Now, I will need certain materials to make this sceptre."
+msgstr "이제 이 왕홀을 만들려면 특정 재료가 필요하네."
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:208
+msgid "And what would those be?"
+msgstr "그게 무엇이지?"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:212
+msgid ""
+"I would say probably ten stone of artifact-quality gold and twenty stone of "
+"the most dense and black of coal, and many of the clearest crystals in the "
+"land. I’ll also need to have the jeweler cut the ruby once I have the plans "
+"done."
+msgstr "유물로 쓸 수 있는 품질의 금 10스톤과, 가장 조밀하고 검은 석탄 20스톤, 그리고 이 땅에서 가장 맑은 수정이 많이 필요하네. 설계를 마치면 보석 세공사에게 루비를 깎게 해야 하지."
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:216
+msgid ""
+"Just use my gold and coal, I have enough! Or, if they’re not ‘good enough’ "
+"for you, find them yourself."
+msgstr "내 금과 석탄을 쓰면 되잖나. 충분히 가지고 있다! 아니면 네 기준에 ‘충분히 좋지 않다면’ 직접 찾아보게."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:220
+msgid ""
+"You try my patience, Durstorn. I need the highest quality materials, or I "
+"can’t make the sceptre! Are you telling me you have a treasury full of "
+"artifact-quality gold?"
+msgstr "내 인내심을 시험하는군, 두르스토른. 최고 품질의 재료가 필요하네. 그렇지 않으면 왕홀을 만들 수 없어! 자네의 보물창고가 유물급 금으로 가득하다고 말하는 건가?"
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:224
+msgid ""
+"Wait, wait. The gold and coal... I think we can find those in the abandoned "
+"eastern mines, north of the Arkan-thoria. Trolls ha’ overrun them, but "
+"earlier they were the source of the finest smithing materials."
+msgstr "잠깐, 잠깐. 금과 석탄이라면... 아르칸-토리아 북쪽의 버려진 동부 광산에서 찾을 수 있을 것 같네. 트롤들이 그곳을 점령했지만, 예전에는 최고의 대장장이 재료가 나오는 곳이었지."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:228
+msgid "So, we will go to the eastern mines!"
+msgstr "그럼 동부 광산으로 가겠소!"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:232
+msgid ""
+"Fine. As for the crystals, I will have others obtain those. That will cost "
+"quite a bit of our payment, but it can’t be helped. Our people do not mine "
+"jewels."
+msgstr "좋아. 수정은 다른 이들에게 구해 오라고 하지. 우리 보상금이 꽤 줄어들겠지만 어쩔 수 없군. 우리 부족은 보석을 채굴하지 않으니까."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:236
+msgid ""
+"That is acceptable. Durstorn, send some miners along with us to the eastern "
+"mines, and I will bring some runecrafters-in-training from the academy to "
+"help fight these enemies."
+msgstr "그건 괜찮습니다. 더스턴, 우리와 함께 동부 광산으로 광부들을 보내주세요. 그러면 저는 아카데미에서 훈련 중인 룬 세공사를 데려와서 이 적들과 싸우는 것을 돕겠습니다."
+
+#. [unit]: type=Dwarvish Runesmith, id=Kinan    # wmllint: ignore
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:243
+msgid "Kinan"
+msgstr "키난(Kinan)"
+
+#. [unit]: type=Dwarvish Runesmith, id=Rynan    # wmllint: ignore
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:254
+msgid "Rynan"
+msgstr "리난(Rynan)"
+
+#. [message]: speaker=narrator
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:262
+msgid "Two runesmiths from the academy have joined you!"
+msgstr "아카데미의 룬 장인 두 명이 합류했습니다!"
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:267
+msgid ""
+"Fine, you all go to the eastern mines. Me, I’ll stay here. No point going "
+"where I can’t help!"
+msgstr "좋아요, 모두 동부 광산으로 가세요. 저는 여기 남을게요. 도움이 될 수 없는 곳에 가 봐야 소용없으니까요!"
+
+#. [message]: speaker=Krawg
+#. "Me, too!"
+#: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:272
+msgid "M’ ’u!"
+msgstr "나도오!"
+
+#. [scenario]: id=4_Gathering_Materials
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:3
+msgid "Gathering Materials"
+msgstr "재료 모으기"
+
+#. [part]
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:10
+msgid ""
+"Those who had worked the eastern mines were brave indeed. The mines were "
+"often infested with trolls and other vile creatures, who thrived in the dark "
+"and gloom of the caves."
+msgstr "동부 광산에서 일했던 이들은 정말 용감했다. 광산에는 트롤과 다른 사악한 생물들이 자주 들끓었고, 그들은 동굴의 어둡고 음침한 환경에서 번성했다."
+
+#. [part]
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:13
+msgid ""
+"And braver still were Rugnur and his companions, who had to visit those "
+"tunnels after years of abandonment."
+msgstr "수년 동안 버려져 있던 그 터널을 찾아가야 했던 룩누르와 동료들은 그보다도 더 용감했다."
+
+#. [generator]: id=cavegen
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:21
+msgid "Sceptre of Fire Mines"
+msgstr "불의 왕홀 광산"
+
+#. [side]: type=Troll Warrior, type=Troll
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:236
+msgid "Resident Trolls"
+msgstr "거주 트롤"
+
+#. [side]: type=Troll Warrior, type=Troll
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:264
+msgid "Intruding Trolls"
+msgstr "침입 트롤"
+
+#. [side]: type=Direwolf Rider, type=Goblin Pillager
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:294
+msgid "Goblin Explorers"
+msgstr "탐험 고블린"
+
+#. [objective]: condition=win
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:648
+msgid "Bring 1 load of gold and 2 loads of coal to the starting castle"
+msgstr "금 1짐과 석탄 2짐을 시작 성으로 가져가세요"
+
+#. [note]
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:660
+msgid "Dwarvish Miners can pick up and carry gold and coal."
+msgstr "드워프 광부는 금과 석탄을 집어 운반할 수 있습니다."
+
+#. [label]
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:676
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:680
+msgid "Coal"
+msgstr "석탄"
+
+#. [label]
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:684
+msgid "Gold"
+msgstr "자금"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:704
+msgid ""
+"Well, these are the eastern mines. Trolls and ogres live here, be prepared "
+"to fight them; also, be prepared to spend quite some time here — mining can "
+"take a while."
+msgstr "여기가 동부 광산이군. 트롤과 오우거가 이곳에 사니 싸울 준비를 하게. 그리고 여기서 꽤 오랜 시간을 보낼 준비도 해야 하네. 채굴에는 시간이 걸리거든."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:708
+msgid ""
+"For me to make the artifact Haldric wants, I need a special type of gold. I "
+"know not exactly where it can be found, but Baglur said these mines were the "
+"source of it."
+msgstr "할드릭이 원하는 유물을 만들려면 특별한 종류의 금이 필요하네. 정확히 어디서 찾을 수 있는지는 모르지만, 바글루르가 이 광산에서 나온다고 했지."
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:712
+msgid "Also, the only coal that wi’ melt this gold is here."
+msgstr "그리고 이 금을 녹일 수 있는 석탄도 여기뿐이지."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:716
+msgid ""
+"So we’re down here to, what, mine this gold and coal? That should be easy "
+"enough."
+msgstr "그러니까 우리가 여기 온 건 금과 석탄을 캐기 위해서라고? 그리 어렵지는 않겠군."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:720
+msgid ""
+"Yes, although we will have to hire the miners — they don’t work for free. "
+"But beware, there are trolls and such down here..."
+msgstr "그래. 하지만 광부를 고용해야 하네. 그들은 공짜로 일하지 않거든. 다만 조심하게. 여기 아래에는 트롤 같은 것들이 있으니..."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:740
+msgid ""
+"Don’t forget to recruit the miners. Our warriors can clear the tunnels of "
+"trolls and worse, but once we find the gold and coal we need the miners to "
+"acquire it."
+msgstr "광부를 소집하는 걸 잊지 말게. 우리 전사들이 터널에서 트롤과 그보다 나쁜 것들을 몰아낼 수는 있지만, 금과 석탄을 찾은 뒤에는 광부가 그것을 캐내야 하네."
+
+#. [message]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:801
+msgid "Here is some of the coal that we need! Send a miner here to take it!"
+msgstr "필요한 석탄이 여기 있어! 광부를 보내 가져가!"
+
+#. [message]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:826
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:865
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:990
+msgid "I have all the coal I can carry..."
+msgstr "내가 운반할 수 있는 석탄은 모두 챙겼어..."
+
+#. [message]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:899
+msgid "Here is the mine of precious gold! Send a miner here to take it!"
+msgstr "귀중한 금이 나는 광산이 여기 있어! 광부를 보내 가져가!"
+
+#. [message]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:924
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:1065
+msgid "I have all the gold I can carry..."
+msgstr "내가 운반할 수 있는 금은 모두 챙겼어..."
+
+#. [message]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:1107
+msgid "My load of coal is delivered!"
+msgstr "석탄 짐을 배달했어!"
+
+#. [message]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:1135
+msgid "That’s the last load of coal we need."
+msgstr "필요한 석탄은 이게 마지막 짐이야."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:1145
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:1206
+msgid ""
+"This is all we need from these mines. Now we should go back further west, "
+"where there are no trolls and ogres, and mine there."
+msgstr "이 광산에서 필요한 것은 모두 얻었군. 이제 트롤과 오우거가 없는 더 서쪽으로 돌아가 그곳에서 채굴해야 하네."
+
+#. [message]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg:1172
+msgid "Here’s the gold."
+msgstr "금이 여기 있어."
+
+#. [scenario]: id=4t_The_Jeweler
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:3
+msgid "The Jeweler"
+msgstr "보석 세공사"
+
+#. [part]
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:47
+msgid ""
+"Rugnur and his companions returned home. Now, I do not want to give the "
+"impression that only Rugnur and Thursagan worked on this masterpiece. There "
+"were others — many others. Thus I present Theganli, the jeweler. His role is "
+"small, but an important one."
+msgstr "룩누르와 동료들은 집으로 돌아왔다. 이 걸작을 룩누르와 투르사간만 만들었다는 인상을 주고 싶지는 않다. 다른 이들도 있었고, 아주 많았다. 그중 보석 세공사 테간리를 소개하겠다. 그의 역할은 작지만 중요한 것이었다."
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:144
+msgid ""
+"So, you have returned. I assume you have obtained the required materials? My "
+"jeweler Theganli has spent great time and expense buying jewels from some of "
+"the northern clans. Now go to the forge and make your sceptre. What do you "
+"need to annoy me for?"
+msgstr "그래, 돌아왔군. 필요한 재료는 구했겠지? 내 보석 세공사 테간리는 북부 부족들에게서 보석을 사느라 많은 시간과 돈을 썼다. 이제 대장간으로 가서 왕홀을 만들도록 해라. 왜 나를 귀찮게 하는 거냐?"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:148
+msgid ""
+"We don’t need you, we need the ruby. I’ll take it to Theganli and we’ll "
+"review the cuts we plan to make."
+msgstr "우리가 필요한 건 당신이 아니라 루비요. 루비를 테간리에게 가져가서 어떻게 깎을지 검토하겠소."
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:153
+msgid "You’re going to cut the jewel?! Are you insane?"
+msgstr "보석을 깎겠다고?! 미친 건가?"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:158
+msgid ""
+"What do you mean, sir? You knew all along the jewel would have to be cut to "
+"make the sceptre."
+msgstr "무슨 말씀이십니까? 왕홀을 만들려면 보석을 깎아야 한다는 걸 처음부터 알고 계셨잖습니까."
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:162
+msgid "Oh... right, right. Fine!"
+msgstr "아... 그렇지, 그렇지. 좋아!"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:167
+msgid "Theganli?"
+msgstr "테간리?"
+
+#. [message]: speaker=Kuhnar
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:171
+msgid "He’s in his shop, in the southern tunnel."
+msgstr "남쪽 터널의 작업장에 있습니다."
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:175
+msgid "<i>Harrumph!</i> Kuhnar, go summon him!"
+msgstr "<i>흥!</i> 쿠나르, 가서 데려와라!"
+
+#. [message]: speaker=Kuhnar
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:181
+msgid ""
+"Theganli! Come out of there, Durstorn orders you to come to the citadel."
+msgstr "테간리! 거기서 나와라. 두르스토른이 요새로 오라고 명령했다."
+
+#. [unit]: type=Dwarvish Runesmith, id=Theganli
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:188
+msgid "Theganli"
+msgstr "테간리(Theganli)"
+
+#. [message]: speaker=Theganli
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:193
+msgid "Coming... coming... stop pounding on the door!"
+msgstr "간다... 간다고... 문을 그만 두드려!"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:197
+msgid ""
+"He doesn’t need to come here, I’ll take the jewel to his shop. He’ll need "
+"his tools anyway."
+msgstr "그가 여기로 올 필요는 없소. 내가 보석을 그의 작업장으로 가져가겠소. 어차피 그의 도구가 필요할 테니까."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:208
+msgid "Well, Theganli, what do you think of this ruby?"
+msgstr "테간리, 이 루비를 어떻게 생각하나?"
+
+#. [message]: speaker=Theganli
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:212
+msgid ""
+"Uh, um, yes, yes, very impressive ruby... even in this raw form, it has an "
+"odd brilliance!"
+msgstr "어, 음, 그래, 그래, 정말 인상적인 루비군... 이렇게 가공하지 않은 상태인데도 이상할 만큼 빛나!"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:216
+msgid "Do you think you could cut it in the manner my plans specify?"
+msgstr "내 설계도에 나온 방식으로 깎을 수 있겠나?"
+
+#. [message]: speaker=Theganli
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:220
+msgid "Maybe... maybe... it will be hard, let me see..."
+msgstr "아마... 아마도... 어려울 것 같지만, 어디 보자..."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:224
+msgid "Very well. See what you can do."
+msgstr "좋아. 할 수 있는지 살펴보게."
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:291
+msgid "Well, do you have anything yet?!"
+msgstr "그래, 뭐라도 됐나?!"
+
+#. [message]: speaker=Theganli
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:295
+msgid ""
+"Ah, well, uh, no... no... unfortunately... it seems it can’t be cut, or "
+"scratched, or damaged at all! At least not by my tools..."
+msgstr "아, 글쎄, 음, 아니... 아니... 안타깝게도... 이건 깎이지도, 긁히지도, 전혀 손상되지도 않는 것 같아! 적어도 내 도구로는..."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:299
+msgid ""
+"So what do you propose we do? This ruby needs to be cut, and cut in a "
+"specific way."
+msgstr "그럼 어떻게 하자는 건가? 이 루비는 깎아야 하고, 특정한 방식으로 깎아야 하네."
+
+#. [message]: speaker=Theganli
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:303
+msgid ""
+"Well... maybe you can ask the Shorbear clan? They have good tools... chisels "
+"made of a metal that could only be worked in the heat of a volcanic forge. I "
+"don’t know how true that legend is, but their work is well known among us "
+"gem crafters."
+msgstr "글쎄... 쇼어베어 부족에게 부탁해 보는 건 어떤가? 그들은 좋은 도구를 가지고 있지. 화산 대장간의 열기 속에서만 가공할 수 있는 금속으로 만든 끌이라네. 그 전설이 얼마나 사실인지는 모르지만, 보석 세공사들 사이에서는 그들의 솜씨가 유명하네."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:307
+msgid "Shorbear? Who are they?"
+msgstr "쇼어베어? 그들은 누구지?"
+
+#. [message]: speaker=Theganli
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:311
+msgid ""
+"Another group of dwarves that live south of here... above ground, if you can "
+"believe it! Yes, they’re the best jewelers..."
+msgstr "이곳 남쪽에 사는 또 다른 드워프 집단이라네... 믿기 어렵겠지만 지상에서 살지! 그래, 그들이 최고의 보석 세공사라네..."
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:315
+msgid ""
+"Well, Rugnur, what are you waiting for? Go down and get these tools from "
+"them, and carve the jewel!"
+msgstr "룩누르, 뭘 기다리고 있나? 내려가서 그들에게서 이 도구를 빌려 보석을 깎아라!"
+
+#. [message]: speaker=Baglur
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:324
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:330
+msgid ""
+"We can’t just go in there and take their property. We’ll have to buy or rent "
+"it from them."
+msgstr "그곳에 들어가서 그들의 물건을 그냥 가져올 수는 없소. 사거나 빌려야 하오."
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:336
+msgid "Fine! Go rent it from them."
+msgstr "좋아! 가서 빌려 오거라."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:340
+msgid "Very well, sir. We’ll go south now."
+msgstr "알겠습니다. 지금 남쪽으로 가겠습니다."
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:344
+msgid ""
+"Wait! Last time you made a bargain by yourself you lost us five thousand "
+"pieces of silver. I’m going with you this time!"
+msgstr "잠깐! 지난번에 네가 혼자 거래했을 때 은화 5천 개를 잃었잖아. 이번에는 내가 함께 가겠다!"
+
+#. [message]: speaker=Kuhnar
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:348
+msgid "Are you sure that is wise, lord?"
+msgstr "그게 현명한 일인지 확신하십니까, 군주님?"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:352
+msgid "Of course it is! You and Noiraran are going to come with us!"
+msgstr "물론이지! 자네와 노이라란이 우리와 함께 간다!"
+
+#. [message]: speaker=Kuhnar
+#: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:356
+msgid "Yes sir..."
+msgstr "예, 군주님..."
+
+#. [scenario]: id=5_Hills_of_the_Shorbear_Clan
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:3
+msgid "Hills of the Shorbear Clan"
+msgstr "쇼어베어(Shorbear) 부족의 언덕"
+
+#. [side]: type=Dwarvish Lord, id=Glonoin
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:36
+msgid "Glonoin"
+msgstr "글로노인(Glonoin)"
+
+#. [side]: type=Dwarvish Lord, id=Glonoin
+#. [side]: type=Elvish Marshal, id=Glildur
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:60
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:141
+msgid "Enemies"
+msgstr "적"
+
+#. [part]
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:147
+msgid ""
+"All dwarves are known for a love of gold and a heart of stone, and the "
+"Shorbears were no exception. They were very skilled crafters for a very "
+"select clientele, and were compensated quite handsomely. They were not "
+"exactly meek or humble..."
+msgstr "모든 드워프는 금을 사랑하고 돌 같은 심장을 가진 것으로 알려져 있으며, 쇼어베어들도 예외가 아니었다. 그들은 매우 선별된 고객을 위한 솜씨 좋은 장인이었고 상당한 보수를 받았다. 그들이 온순하거나 겸손했던 것은 결코 아니었다..."
+
+#. [label]
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:157
+msgid "Shorbear caves"
+msgstr "쇼어베어(Shorbear) 동굴"
+
+#. [objective]: condition=win
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:167
+msgid "Defeat Glonoin, the Shorbear clan leader"
+msgstr "쇼어베어 부족장 글로노인을 물리치세요"
+
+#. [objective]: condition=win
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:176
+msgid "Have all heroes, and no enemies, in the Shorbear caves"
+msgstr "모든 영웅을 쇼어베어 동굴에 배치하고 적을 남기지 마세요"
+
+#. [objective]: condition=lose
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:199
+msgid "Death of Durstorn"
+msgstr "두르스토른의 죽음"
+
+#. [message]: speaker=Kuhnar
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:279
+msgid "Here we are! The hills of the Shorbear clan!"
+msgstr "도착했군! 쇼어베어 부족의 언덕이야!"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:283
+msgid ""
+"We’re here to bargain with the Shorbears for their tools, who should take "
+"lead?"
+msgstr "쇼어베어들에게 도구를 빌리러 왔소. 누가 앞장서야 하지?"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:287
+msgid "I could-"
+msgstr "제가 할 수-"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:291
+msgid ""
+"<i>I’ll</i> be doing the talking! I remember what happened last time you "
+"negotiated a deal, Rugnur! We lost five thousand pieces of silver!"
+msgstr "<i>내가</i> 말하겠다! 지난번에 네가 거래를 협상했을 때 무슨 일이 있었는지 기억한다, 룩누르! 은화 5천 개를 잃었지!"
+
+#. [message]: speaker=Glonoin
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:295
+msgid "Och, it’s some o’ them cave-dwarves. What business do you have here?"
+msgstr "아, 동굴 드워프들이로군. 여기에는 무슨 용무로 왔지?"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:299
+msgid ""
+"I’m Lord Durstorn, ruler of the Chaincolt Range. I have been told you are "
+"great jewel-workers, and so we come to rent some of your tools for a short "
+"time, a few years at most."
+msgstr "나는 체인콜트 산맥의 통치자 두르스토른 군주다. 너희가 훌륭한 보석 세공사라고 들었기에, 짧은 기간 동안, 길어야 몇 년 정도 너희 도구를 빌리러 왔다."
+
+#. [message]: speaker=Glonoin
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:303
+msgid ""
+"You’re a <i>lord</i>?! Must be a pretty small clan for you to come yourself "
+"to bargain with us!"
+msgstr "네가 <i>군주</i>라고?! 직접 우리와 거래하러 올 정도라면 꽤 작은 부족인가 보군!"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:307
+msgid "You insult me! Do you want my business, or not?"
+msgstr "나를 모욕하는군! 내 거래를 원하는 건가, 아닌가?"
+
+#. [message]: speaker=Glonoin
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:311
+msgid "Well, fine, I’ll hear your offer."
+msgstr "좋아, 그럼 네 제안을 들어 보지."
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:315
+msgid ""
+"We’d like to rent your best tools for a short period of time. We’ll only be "
+"cutting one jewel with it. My starting offer is two hundred silver."
+msgstr "짧은 기간 동안 너희의 가장 좋은 도구를 빌리고 싶소. 그 도구로 보석 하나만 깎을 거요. 처음 제안하는 금액은 은화 200개요."
+
+#. [message]: speaker=Glonoin
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:319
+msgid ""
+"It must be worth a lot for you to come this way and offer that much! How "
+"much are you going to sell it for, eh?"
+msgstr "그렇게 먼 길을 와서 그만큼 제안할 정도라면 꽤 값진 물건인가 보군! 그걸 얼마에 팔 생각이지?"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:323
+msgid "That’s none of your concern!"
+msgstr "그건 네가 신경 쓸 일이 아니오!"
+
+#. [message]: speaker=Glonoin
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:327
+msgid "I’ll take twenty-five hundred, minimum."
+msgstr "최소 2,500개는 받겠다."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:331
+msgid "Durstorn, that would be a quarter of all our profits!"
+msgstr "두르스토른, 그러면 우리 수익의 4분의 1이 날아갑니다!"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:335
+msgid "I know that. Uh, Glonoin, how about five hundred?"
+msgstr "알고 있다. 음, 글로노인, 500개는 어떻겠나?"
+
+#. [message]: speaker=Glonoin
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:339
+msgid ""
+"Twenty-three hundred is my lowest offer. I can tell I don’t need the money "
+"as much as you need the jewel cut!"
+msgstr "2,300개가 내가 제시할 수 있는 최저 금액이다. 보석을 깎아야 하는 너희만큼 내가 돈을 절실히 필요로 하지는 않는다는 걸 알겠군!"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:343
+msgid "You must be mad! I’ll offer one thousand, but no higher!"
+msgstr "미쳤군! 1,000개를 제안하겠지만 그 이상은 안 된다!"
+
+#. [message]: speaker=Glonoin
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:347
+msgid "Two thousand, and I’ll go no lower!"
+msgstr "2,000개다. 그 아래로는 내리지 않겠다!"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:351
+msgid "What are we going to do? We can’t go much higher!"
+msgstr "어떻게 해야 하지? 더 올리기는 어려워!"
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:355
+msgid "Offer him fifteen hundred, but don’t go up, even if he refuses."
+msgstr "1,500개를 제안하되, 거절하더라도 더 올리지는 마시오."
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:359
+msgid ""
+"Bah! Getting this cut isn’t worth that much — what with Rugnur’s mistake "
+"earlier, and all the other expenses. If we pay more than a thousand, we’ll "
+"barely even make a profit!"
+msgstr "흥! 이걸 깎는 데 그만큼 쓸 가치는 없어. 룩누르가 전에 저지른 실수와 다른 모든 비용까지 생각하면 말이야. 1,000개보다 더 지불하면 간신히 이익만 남을 거다!"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:363
+msgid "So what are you going to do?"
+msgstr "그럼 어떻게 할 건가?"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:367
+msgid "Fight him, and take the tools by force."
+msgstr "그와 싸워서 도구를 힘으로 빼앗는다."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:371
+msgid "Are you mad?!"
+msgstr "미쳤습니까?!"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:382
+msgid "Of course not!"
+msgstr "물론 아니다!"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:386
+msgid ""
+"Glonoin, yah scoundrel! One thousand was my final offer, and if you won’t "
+"accept that, we will take the tools from you by force!"
+msgstr "글로노인, 이 악당아! 1,000개가 내 최종 제안이다. 받아들이지 않겠다면 도구를 힘으로 빼앗겠다!"
+
+#. [message]: speaker=Glonoin
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:391
+msgid "Hah! I’d like to see you try!"
+msgstr "하! 어디 한번 해 보시지!"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:395
+msgid "You’re making a mistake, Durstorn."
+msgstr "실수하는 겁니다, 두르스토른."
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:410
+msgid "Shut up, all of you! Attack them!"
+msgstr "다들 입 다물어라! 놈들을 공격해!"
+
+#. [message]: speaker=Rugnur
+#. he’s a gryphon, "flying" is used in the literal rather than figurative meaning
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:423
+msgid "Look at him fly... if only we could move that fast."
+msgstr "저 녀석이 나는 걸 봐... 우리도 저렇게 빠르게 움직일 수 있다면 좋을 텐데."
+
+#. [message]: speaker=Krawg
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:427
+msgid "Krah!"
+msgstr "까악!"
+
+#. [message]: speaker=narrator
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:431
+msgid ""
+"Suddenly, the air was filled with the cries of another gryphon responding to "
+"Krawg’s call. The dwarves heard the flaps of wings and looked up to the sky "
+"to see another gryphon arriving."
+msgstr "갑자기 크라그의 부름에 응답하는 또 다른 그리폰의 울음소리가 허공을 가득 채웠습니다. 드워프들은 날갯짓 소리를 듣고 하늘을 올려다보았고, 또 다른 그리폰이 날아오는 것을 보았습니다."
+
+#. [message]: speaker=narrator
+#. The mount is a gryphon.
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:452
+msgid ""
+"A brave dwarf ran out, grabbed it by the sturdy neck-feathers, and hauled "
+"himself up over its back. The big animal was friendly, took it all in "
+"stride, and seemed to understand what the pats and strokes of the dwarf’s "
+"hands meant."
+msgstr "용감한 드워프 하나가 달려나가 튼튼한 목 깃털을 붙잡고 그 등에 올라탔습니다. 커다란 동물은 온순했고 아무렇지도 않게 받아들였으며, 드워프의 손이 쓰다듬고 어루만지는 뜻을 이해하는 듯했습니다."
+
+#. [message]: speaker=narrator
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:457
+msgid "You may now recruit Gryphon Riders."
+msgstr "이제 그리폰 기수를 소집할 수 있습니다."
+
+#. [message]: speaker=Glildur
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:490
+msgid ""
+"Aha! I’ve been looking all over for you dwarves, but now I’ve found you! "
+"Prepare to die!"
+msgstr "아하! 너희 드워프를 찾아 온 산을 뒤졌는데, 이제야 찾았군! 죽을 준비를 해라!"
+
+#. [message]: speaker=Glonoin
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:494
+msgid "Who in the earth’s guts are you?"
+msgstr "대체 땅속 깊은 곳에서 기어 나온 너는 누구냐?"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:498
+msgid ""
+"I thought we left the elves behind at the gates way back when... it seems we "
+"have two enemies now!"
+msgstr "우리가 아까 문 뒤에 엘프들을 남겨 둔 줄 알았는데... 이제 적이 둘이나 생긴 모양이군!"
+
+#. [message]: speaker=Glonoin
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:502
+msgid ""
+"So, elves, are you against these dwarves too? They’re attacking my clan for "
+"absolutely no reason!"
+msgstr "그래, 엘프들아. 너희도 이 드워프들과 적대하는 건가? 이놈들이 아무 이유도 없이 내 부족을 공격하고 있다!"
+
+#. [message]: speaker=Glildur
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:506
+msgid "No reason? So you don’t have the ruby?"
+msgstr "이유가 없다고? 그럼 네가 루비를 가지고 있지 않다는 건가?"
+
+#. [message]: speaker=Glonoin
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:510
+msgid ""
+"What ruby? They wanted to rent my tools to cut something, probably your "
+"ruby, but they didn’t offer me nearly enough!"
+msgstr "무슨 루비 말인가? 이자들은 뭔가를 깎겠다며 내 도구를 빌리고 싶어 했지. 아마 네 루비였을 거다. 하지만 내게 제시한 금액은 턱없이 부족했어!"
+
+#. [message]: speaker=Glildur
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:514
+msgid ""
+"How about this — we defeat these crazed cave-dwellers, then you keep the "
+"spoils and their territory, and we keep the ruby?"
+msgstr "이렇게 하는 건 어떤가? 우리가 이 미친 동굴 거주자들을 물리치면, 너희는 전리품과 영토를 차지하고 우리는 루비를 갖는 거지."
+
+#. [message]: speaker=Glonoin
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:518
+msgid ""
+"Deal! Not like this is the first time we’ve faced this sort of insanity. We "
+"have no idea what this ruby is, and don’t care!"
+msgstr "좋아, 거래하지! 이런 미친 짓을 겪는 게 처음도 아니니까. 이 루비가 뭔지는 전혀 모르지만, 관심도 없다!"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:522
+msgid "Ah, they don’t scare me! We can take both of them!"
+msgstr "흥, 저들이 무서울 것 같으냐! 둘 다 상대할 수 있다!"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:526
+msgid ""
+"Don’t be a fool! We can’t take the elves, and it was a mistake to attack "
+"these dwarves, but if we have to fight, we should retreat once we get what "
+"we came for, the tools!"
+msgstr "바보 같은 소리 마라! 엘프들을 상대할 수는 없고, 이 드워프들을 공격한 것도 실수였다. 하지만 싸워야 한다면, 목적이었던 도구를 손에 넣는 즉시 후퇴해야 한다!"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:555
+msgid "Ha! Now we can easily take their tools back to our own caves."
+msgstr "하! 이제 저들의 도구를 우리 동굴로 쉽게 가져갈 수 있겠군."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:559
+msgid ""
+"And how do you plan on doing that? There are elves swarming these hills, "
+"trying to kill us."
+msgstr "그걸 어떻게 하겠다는 거지? 이 언덕에는 우리를 죽이려는 엘프들이 득실거린다."
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:563
+msgid ""
+"I’m aware! Close the gates and keep them out! It should be easy to come up "
+"with a plan to outwit them later. Meanwhile, since the Shorbear’s rune "
+"workshops are in here, you and your runecrafters might as well make the "
+"sceptre now."
+msgstr "알겠어요! 문을 닫고 그들을 막으세요! 나중에 그들을 따돌릴 계획을 세우는 건 쉬울 겁니다. 그러는 동안, 쇼베어의 룬 작업장이 여기 있으니, 당신과 룬 세공사들은 지금 당장 홀을 만드는 게 좋을 겁니다."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:595
+msgid ""
+"Well, back to the battle — all of us are already inside, but there are still "
+"some enemy forces in here with us!"
+msgstr "자, 다시 전투로 돌아가자. 우리는 모두 안으로 들어왔지만, 아직 적군 일부가 우리와 함께 이곳에 있다!"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:599
+msgid ""
+"Indeed. Kill them! And make sure no more enter. Then we can close the gates."
+msgstr "그렇소. 놈들을 죽이시오! 더 들어오지 못하게 막고. 그러면 문을 닫을 수 있소."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:610
+msgid ""
+"We have driven all of the elves and Shorbear dwarves out of these caves. "
+"They are not ours, though, and we can’t stay here forever."
+msgstr "엘프와 쇼어베어 드워프를 모두 이 동굴에서 몰아냈습니다. 하지만 이곳은 우리 땅이 아니니 영원히 머물 수는 없습니다."
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:614
+msgid "True. I suspect these elves will try to besiege us."
+msgstr "맞소. 이 엘프들이 우리를 포위하려 들 것 같소."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:627
+msgid ""
+"Well, back to the battle — we need to get everyone into the Shorbear caves "
+"before we can close the gates."
+msgstr "자, 다시 전투로 돌아가자. 문을 닫기 전에 모두 쇼어베어 동굴 안으로 들어가야 한다."
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:631
+msgid "Indeed. Everyone to the caves, and kill those still inside!"
+msgstr "그렇소. 모두 동굴로 들어가고, 아직 안에 남은 자들을 죽이시오!"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:709
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:786
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:841
+msgid ""
+"We have driven all of the elves and Shorbear dwarves out of these caves! "
+"Now, seal the gates!"
+msgstr "엘프와 쇼어베어 드워프를 모두 이 동굴에서 몰아냈다! 이제 문을 봉쇄하라!"
+
+#. [message]: speaker=Glildur
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:872
+msgid "Well played, little dwarves, but this isn’t over..."
+msgstr "잘했구나, 꼬마 드워프들아. 하지만 아직 끝나지 않았다..."
+
+#. [message]: speaker=Durstorn
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:899
+#: data/campaigns/Sceptre_of_Fire/utils/utils.cfg:61
+msgid "Gaanngh..."
+msgstr "크으윽..."
+
+#. [scenario]: id=6_Towards_the_Caves
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:3
+msgid "Towards the Caves"
+msgstr "동굴을 향하여"
+
+#. [side]: type=Elvish Marshal, id=Glinan
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:94
+msgid "Glinan"
+msgstr "글리난(Glinan)"
+
+#. [side]: type=Elvish Captain, id=Kalnar
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:133
+msgid "Kalnar"
+msgstr "칼나르(Kalnar)"
+
+#. [part]
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:164
+msgid ""
+"Durstorn’s rash action led to many problems. Not the least of which was "
+"being surrounded by elves."
+msgstr "두르스토른의 성급한 행동은 많은 문제를 일으켰습니다. 그중에서도 가장 큰 문제는 엘프들에게 포위된 것이었습니다."
+
+#. [part]
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:167
+msgid ""
+"The dwarves were besieged by the elves for several months, as there was no "
+"way out of the caverns other than above ground. But the elves could not "
+"enter the Shorbear hold, for the sturdy dwarven gates were closed."
+msgstr "드워프들은 몇 달 동안 엘프들에게 포위되었습니다. 지상으로 나가는 것 말고는 동굴을 빠져나갈 방법이 없었기 때문입니다. 하지만 튼튼한 드워프의 문이 닫혀 있었기에 엘프들은 쇼어베어 요새 안으로 들어올 수 없었습니다."
+
+#. [part]
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:170
+msgid ""
+"During this time, Thursagan crafted the Sceptre of Fire, cutting the ruby "
+"himself with the Shorbear tools. Eventually, the sceptre was crafted, but "
+"something was not right no matter what enchantment of runes Thursagan used. "
+"To finish the sceptre, the dwarves needed to leave the cave."
+msgstr "그동안 투르사간은 쇼어베어의 도구로 직접 루비를 깎아 불의 왕홀을 만들었습니다. 마침내 왕홀은 완성되었지만, 투르사간이 어떤 룬 마법을 사용해도 무언가가 잘못되어 있었습니다. 왕홀을 완성하려면 드워프들은 동굴을 떠나야 했습니다."
+
+#. [objective]: condition=win
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:186
+msgid "Move Rugnur to the northeast cave entrance"
+msgstr "룩누르를 북동쪽 동굴 입구로 이동시키세요"
+
+#. [objective]: condition=win
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:195
+msgid "Move Alanin to the southern border east of the river"
+msgstr "알라닌을 강 동쪽의 남쪽 경계로 이동시키세요"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:287
+msgid ""
+"Well, Thursagan has reached a conclusion. He can’t finish the sceptre with "
+"the materials he has here, but he has the final plans for it, and all the "
+"jewels and gold he needs. Shouldn’t we leave now?"
+msgstr "음, 투르사간이 결론을 내렸습니다. 이곳에 있는 재료로는 왕홀을 완성할 수 없지만, 최종 설계도와 필요한 보석과 금은 모두 가지고 있습니다. 이제 떠나야 하지 않겠습니까?"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:291
+msgid ""
+"All this time and he couldn’t make it? Fine, we should try to leave... but "
+"it’s not like we could leave if we wanted to. We’re surrounded!"
+msgstr "그렇게 오랜 시간이 지났는데도 만들지 못했다는 건가? 좋아, 떠나 보자고... 하지만 떠나고 싶다고 떠날 수 있는 상황도 아니잖아. 우리가 포위됐다고!"
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:300
+msgid "If ye’ll permit me to say so, sir, ye’re wrong. We could—"
+msgstr "말씀드려도 된다면, 군주님께서는 틀리셨습니다. 우리는 할 수—"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:304
+msgid ""
+"Shut up, Baglur! You don’t know what you’re talking about. I’ve analyzed the "
+"situation, and we’re doomed. Our best hope is to surrender. Perhaps if we "
+"give the elves the plans for the Sceptre of Fire they will let us survive."
+msgstr "닥쳐, 바글루르! 네가 뭘 안다고 그러는 거냐. 내가 상황을 분석해 봤는데, 우리는 끝장이다. 우리가 살 수 있는 최선의 방법은 항복하는 거다. 엘프들에게 불의 왕홀 설계도를 넘기면 목숨만은 살려 줄지도 모르지."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:310
+msgid "If you’ll permit me to say so, sir, you’re wrong. We could —"
+msgstr "말씀드려도 된다면, 군주님께서는 틀리셨습니다. 우리는 할 수 있습니다—"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:314
+msgid ""
+"Shut up, Rugnur! You don’t know what you’re talking about. I’ve analyzed the "
+"situation, and we’re doomed. Our best hope is to surrender. Perhaps if we "
+"give the elves the plans for the Sceptre of Fire they will let us survive."
+msgstr "닥쳐, 룩누르! 네가 뭘 안다고 그러는 거냐. 내가 상황을 분석해 봤는데, 우리는 끝장이다. 우리가 살 수 있는 최선의 방법은 항복하는 거다. 엘프들에게 불의 왕홀 설계도를 넘기면 목숨만은 살려 줄지도 모르지."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:320
+msgid "What happened to your honor, Durstorn?!"
+msgstr "당신의 명예는 어떻게 된 겁니까, 두르스토른?!"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:324
+msgid ""
+"You little fool, honor is less important than life! Open the gates, I’m "
+"going out to negotiate our safe passage out of here!"
+msgstr "이 어리석은 놈아, 명예보다 목숨이 중요하다! 문을 열어라. 내가 나가서 우리가 무사히 빠져나갈 방법을 협상하겠다!"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:344
+msgid ""
+"You have no right to offer the Sceptre to the elves, Durstorn, it’s not "
+"yours to give!"
+msgstr "두르스토른, 당신에게는 왕홀을 엘프들에게 넘길 권리가 없소. 당신이 줄 수 있는 물건이 아니오!"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:348
+msgid ""
+"I can’t believe what I’m hearing, do all of you want to die? Enough talk!"
+msgstr "내가 지금 무슨 말을 듣고 있는 건지 믿을 수가 없군. 너희 모두 죽고 싶은 거냐? 말은 충분히 했다!"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:353
+msgid ""
+"You insolent fools can thank me later, I might not banish you once we are "
+"back home."
+msgstr "건방진 바보들 같으니라고. 집에 돌아간 뒤 너희를 추방하지 않는다면 나중에 내게 감사하도록 해라."
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:358
+msgid "Elf leader, I have an offer for you. You want the Ruby, yes?"
+msgstr "엘프 지도자여, 그대에게 제안할 것이 있다. 루비를 원하지, 그렇지?"
+
+#. [message]: speaker=Glildur
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:362
+msgid "My, you’re a bold little dwarf! You’ve brought me the Ruby?"
+msgstr "어머, 대담한 꼬마 드워프구나! 내게 루비를 가져온 거니?"
+
+#. [message]: speaker=Durstorn
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:366
+msgid ""
+"I can get you the ruby, and much more treasure, if you allow my group safe "
+"passage."
+msgstr "우리 일행이 무사히 지나가게 해 준다면 루비와 훨씬 더 많은 보물을 가져다주겠다."
+
+#. [message]: speaker=Glildur
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:370
+msgid ""
+"I see... well, we will not be fooled by your haggling and false promises. "
+"You were very foolish to come out here alone."
+msgstr "알겠다... 하지만 네 흥정과 거짓 약속에 속아 넘어갈 생각은 없다. 혼자 이곳에 나온 것은 아주 어리석은 짓이었어."
+
+#. [animate]
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:401
+msgid "<i>Thud!</i>"
+msgstr "<i>쿵!</i>"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:424
+msgid ""
+"Well, I suppose he should have expected that, but I don’t like this. In any "
+"case, now we should try to get out of here."
+msgstr "음, 그 정도는 예상했어야 한다고 생각하지만, 마음에 들지 않는군. 어쨌든 이제 이곳에서 빠져나가야 한다."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:428
+msgid "Yes. See the area to the northeast of us?"
+msgstr "그렇소. 우리 북동쪽에 있는 지역이 보이시오?"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:445
+msgid ""
+"That’s where the fewest elvish guards are, we just might make it back "
+"underground before they block us completely."
+msgstr "엘프 경비병이 가장 적은 곳이오. 놈들이 완전히 길을 막기 전에 지하로 돌아갈 수 있을지도 모르오."
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:449
+msgid ""
+"This plan, it isn’t worse than staying here to be killed, but it isn’t "
+"likely to succeed either. Even if it does, what will it accomplish? We will "
+"be cornered there."
+msgstr "이 계획이 여기 남아 죽는 것보다 나쁘지는 않지만, 성공할 가능성도 높지 않소. 성공한다고 해도 무슨 소용이 있겠소? 그곳에서 궁지에 몰릴 뿐이오."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:453
+msgid ""
+"I don’t know if we will be cornered. That cave looks like it goes deep, and "
+"we can lose the elves in the caves, they move so slow there. Once we get "
+"out, we’ll make our way back to Knalga."
+msgstr "우리가 궁지에 몰릴지는 모르겠소. 저 동굴은 깊은 곳까지 이어지는 것 같고, 동굴 안에서는 엘프들이 아주 느리게 움직이니 따돌릴 수 있소. 빠져나오면 크날가로 돌아가겠소."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:457
+msgid ""
+"The country between here and Knalga will be swarming with elves. We had "
+"better head back to the abandoned mines north of the Arkan-thoria, where we "
+"gathered our gold and coal. At least there Alanin will have some hope of "
+"finding us."
+msgstr "이곳과 크날가 사이의 땅에는 엘프가 득실거릴 것이오. 우리가 금과 석탄을 모았던 아르칸-토리아 북쪽의 버려진 광산으로 돌아가는 편이 낫소. 적어도 그곳이라면 알라닌이 우리를 찾을 희망이 있소."
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:461
+msgid ""
+"That’s fine for you, you can run fast in caves, but I can’t! What am I "
+"supposed to do?"
+msgstr "당신에게는 좋겠지만, 당신은 동굴에서 빠르게 달릴 수 있어도 나는 못 하오! 나는 어떻게 해야 하오?"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:465
+msgid ""
+"Well, you are a member of the Wesnothian army. Why don’t you rejoin it? See "
+"if you can run past those elves to our southeast..."
+msgstr "음, 자네는 웨스노스 군의 일원이잖나. 다시 합류하는 게 어떤가? 남동쪽에 있는 엘프들을 지나 달릴 수 있는지 시험해 보게..."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:482
+msgid "... and then ride south until you reach one of your outposts."
+msgstr "... 그리고 자네의 전초기지 중 하나에 닿을 때까지 남쪽으로 말을 달리게."
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:486
+msgid ""
+"I’m not going to do that, it’s suicide! And in any case, I’ve been with you "
+"for ten years, almost as long as I was in the Wesnothian army; I’d prefer to "
+"fight with you."
+msgstr "그렇게는 못 하오. 자살 행위나 다름없소! 어쨌든 나는 웨스노스 군에 있었던 기간만큼이나 긴 10년 동안 당신들과 함께했소. 당신들과 함께 싸우고 싶소."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:490
+msgid ""
+"You going south has more of a chance of success for you than staying here or "
+"going back to the mines! And getting news to Haldric of what has happened is "
+"also the best way to get help to us."
+msgstr "자네가 남쪽으로 가는 편이 여기 남거나 광산으로 돌아가는 것보다 성공할 가능성이 높아! 그리고 할드릭에게 무슨 일이 일어났는지 알리는 것이 우리에게 도움을 받을 가장 좋은 방법이기도 하네."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:495
+msgid ""
+"Here, if you are still having doubts, let me inscribe this rune for you to "
+"help you slip past their defenses."
+msgstr "자, 아직도 의심이 든다면 이 룬을 새겨 주겠네. 적의 방어를 빠져나가는 데 도움이 될 걸세."
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:528
+msgid "Thanks!"
+msgstr "고마워!"
+
+#. [message]: speaker=narrator
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:532
+msgid "Alanin has gained new abilities!"
+msgstr "알라닌이 새로운 능력을 얻었습니다!"
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:537
+msgid "I suppose..."
+msgstr "그렇겠지..."
+
+#. [message]: speaker=Glildur
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:542
+msgid "Come out, dwarves, let’s get this over with!"
+msgstr "나와라, 드워프들아. 어서 끝내자!"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:576
+msgid ""
+"Alanin, ride south as fast as you can. Tell Haldric we are heading "
+"northeast, towards the old eastern mines. And if he wants his precious "
+"sceptre, he should send forces to meet us there as soon as he can!"
+msgstr "알라닌, 있는 힘껏 남쪽으로 말을 달리게. 할드릭에게 우리는 북동쪽의 옛 동부 광산으로 향한다고 전하게. 그가 소중한 왕홀을 원한다면, 가능한 한 빨리 병력을 보내 그곳에서 우리와 합류하게 해야 할 거야!"
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:591
+msgid ""
+"I have made it past these elves, but they will chase me, and elvish horses "
+"are faster than mine."
+msgstr "이 엘프들을 지나왔지만, 놈들이 나를 추격할 것이고 엘프의 말은 내 말보다 빠르다."
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:626
+msgid "Rugnur, I am going south. What should I tell Haldric?"
+msgstr "룩누르, 나는 남쪽으로 가겠소. 할드릭에게 뭐라고 전할까요?"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:630
+msgid ""
+"Tell him to send forces north to aid us and fight the elves, but that we are "
+"probably going to die. We will run northeast towards the old eastern mines. "
+"And if he wants his sceptre intact, he’d best send troops to meet us there."
+msgstr "우리를 돕고 엘프들과 싸울 병력을 북쪽으로 보내 달라고 하게. 하지만 우리는 아마 죽을 거라고도 전하고. 우리는 북동쪽의 옛 동부 광산으로 달려갈 거야. 왕홀이 온전한 상태로 돌아오기를 바란다면 그곳으로 병력을 보내는 게 좋을 거라고 말하게."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:653
+msgid ""
+"I don’t know what is in these caves, but whatever it is can’t be worse than "
+"staying here to die."
+msgstr "이 동굴 안에 무엇이 있는지는 모르지만, 여기 남아 죽는 것보다 나쁠 수는 없을 거다."
+
+#. [scenario]: id=7_Outriding_the_Outriders
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:3
+msgid "Outriding the Outriders"
+msgstr "추격대를 따돌리며"
+
+#. [part]
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:63
+msgid ""
+"Rugnur fled through the hills by the Arkan-thoria, while Alanin went south — "
+"back to the Wesnoth border."
+msgstr "룩누르는 아르칸-토리아 근처의 언덕을 지나 달아났고, 알라닌은 남쪽으로, 웨스노스 국경을 향해 갔습니다."
+
+#. [part]
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:66
+msgid ""
+"The elves pursued both of them, but first let us join Alanin in his flight "
+"south."
+msgstr "엘프들은 두 사람을 모두 추격했지만, 먼저 남쪽으로 도망치는 알라닌과 합류해 봅시다."
+
+#. [objective]: condition=win
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:97
+msgid "Reach the Wesnothian outpost in the south"
+msgstr "남쪽의 웨스노스 전초기지에 도달하세요"
+
+#. [label]
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:114
+msgid "Wesnothian Outpost"
+msgstr "웨스노스 전초기지"
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:122
+msgid ""
+"Well, the elves are behind me for now, but their riders are fast and will "
+"catch up quickly."
+msgstr "음, 지금은 엘프들이 내 뒤에 있지만, 놈들의 기수는 빠르니 곧 따라잡을 거야."
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:126
+msgid ""
+"My only hope is to convince the peasants to stop the elves from passing "
+"through their land, so I can get ahead of those riders."
+msgstr "내 유일한 희망은 농부들을 설득해 엘프들이 그들의 땅을 지나가지 못하게 하는 것이다. 그러면 저 기수들을 앞지를 수 있을 거야."
+
+#. [unit]: type=Elvish Outrider, id=Asaeri
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:132
+msgid "Lord Asaeri"
+msgstr "아사에리(Asaeri) 군주"
+
+#. [unit]: type=Elvish Outrider, id=Gaelir
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:143
+msgid "Gaelir"
+msgstr "게일리르(Gaelir)"
+
+#. [unit]: type=Elvish Outrider, id=Salira
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:154
+msgid "Salira"
+msgstr "살리라(Salira)"
+
+#. [unit]: type=Elvish Outrider, id=Losnin
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:166
+msgid "Losnin"
+msgstr "로스닌(Losnin)"
+
+#. [message]: speaker=Asaeri
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:181
+msgid ""
+"You cannot outride us, horseman of Wesnoth! Whatever message you are "
+"carrying, it will not be delivered!"
+msgstr "웨스노스의 기수여, 우리를 따돌릴 수는 없다! 네가 무슨 소식을 전하든 목적지에 도착하지 못할 것이다!"
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:185
+msgid "We shall see about that!"
+msgstr "두고 보면 알겠지!"
+
+#. [unit]: type=Elvish Outrider, id=Raesil
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:194
+msgid "Raesil"
+msgstr "라에실(Raesil)"
+
+#. [message]: speaker=second_unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:220
+msgid "Great, now there is no need to worry about those elves anymore!"
+msgstr "좋아, 이제 저 엘프들은 더 이상 걱정할 필요가 없겠군!"
+
+#. [message]: role=newcomer
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:229
+msgid ""
+"Did you really think that you could escape us? Don’t underestimate us, "
+"inferior humans!"
+msgstr "정말 우리에게서 도망칠 수 있다고 생각했느냐? 우리를 얕보지 마라, 하등한 인간들아!"
+
+#. [message]: id=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:241
+msgid ""
+"Even though my chances have grown worse, I have to fulfill my duty. I do not "
+"owe them any less!"
+msgstr "상황은 더 나빠졌지만, 나는 의무를 다해야 한다. 그들에게 진 빚이 줄어든 것은 아니니까!"
+
+#. [message]: id=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:266
+msgid "Oh no, more of them? And there I thought I could catch my breath…"
+msgstr "이런, 또 오는 건가? 이제야 한숨 돌릴 수 있을 줄 알았는데..."
+
+#. [message]: role=fighter
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:271
+msgid "Don’t worry sir, we’ll make it through this!"
+msgstr "걱정하지 마십시오, 군주님. 우리가 이겨 낼 수 있습니다!"
+
+#. [message]: id=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:296
+msgid "Is there no end to their numbers?"
+msgstr "저들의 수에는 끝이 없는 건가?"
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:361
+msgid ""
+"The villagers here are loyal to Wesnoth. They should be willing to help me "
+"escape these elves!"
+msgstr "이곳의 마을 사람들은 웨스노스에 충성한다. 분명 이 엘프들에게서 도망치는 것을 도와줄 것이다!"
+
+#. [unit]: type=Spearman, id=Rolin    # wmllint: ignore
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:366
+msgid "Rolin"
+msgstr "롤린(Rolin)"
+
+#. [message]: speaker=Rolin   # wmllint: ignore
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:376
+msgid "We will certainly help any warrior of Wesnoth in need!"
+msgstr "곤경에 처한 웨스노스의 전사라면 누구든 기꺼이 돕겠습니다!"
+
+#. [message]: race=elf
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:432
+msgid ""
+"You slow humans took too long, our detachment has already caught up with you!"
+msgstr "느려 터진 인간들아, 너무 오래 걸렸구나. 우리 분견대가 벌써 너희를 따라잡았다!"
+
+#. [unit]: type=Lieutenant, id=Hadlin   # wmllint: ignore
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:554
+msgid "Hadlin"
+msgstr "하들린(Hadlin)"
+
+#. [message]: speaker=Hadlin  # wmllint: ignore
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:564
+msgid "Who goes there?"
+msgstr "거기 누구냐?"
+
+#. [message]: speaker=Alanin
+#. dragoon = his unit type
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:575
+msgid ""
+"I’m a dragoon with Haldric II’s personal bodyguard. I was sent on a mission "
+"in the Northlands, and now elvish horsemen are chasing me. I barely evaded "
+"them."
+msgstr "나는 할드릭 2세의 친위대에 소속된 용기병이다. 북부 지방에 임무를 받아 파견되었는데, 지금은 엘프 기병들이 나를 쫓고 있다. 간신히 놈들을 따돌렸지."
+
+#. [message]: speaker=Alanin
+#. cavalier = his unit type
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:582
+msgid ""
+"I’m a cavalier with Haldric II’s personal bodyguard. I was sent on a mission "
+"in the Northlands, and now elvish horsemen are chasing me. I barely evaded "
+"them."
+msgstr "나는 할드릭 2세의 친위대에 소속된 기병이다. 북부 지방에 임무를 받아 파견되었는데, 지금은 엘프 기병들이 나를 쫓고 있다. 간신히 놈들을 따돌렸지."
+
+#. [message]: speaker=Hadlin  # wmllint: ignore
+#: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:588
+msgid ""
+"I see. Well, come on in. They could never capture this fort, even if they "
+"did want to start a war, which I doubt."
+msgstr "알겠습니다. 어서 들어오십시오. 저들이 전쟁을 일으키고 싶어 한다고 해도 이 요새를 함락할 수는 없습니다. 물론 그럴 생각은 없겠지만요."
+
+#. [scenario]: id=8_The_Dragon
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:3
+msgid "The Dragon"
+msgstr "용"
+
+#. [side]: type=Elvish Marshal, id=Crintil
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:40
+msgid "Crintil"
+msgstr "크린틸(Crintil)"
+
+#. [side]: type=Fire Dragon, id=Khrakrahs
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:72
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:94
+msgid "Khrakrahs"
+msgstr "크라크라스(Khrakrahs)"
+
+#. [part]
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:115
+msgid ""
+"Thus, Alanin escaped from his elvish pursuers. But the dwarves were not so "
+"lucky, for the section of the old eastern mines that they reached in their "
+"flight had become the lair of the dragon Khrakrahs."
+msgstr "그렇게 해서 알라닌은 엘프 추격자들에게서 벗어났다. 하지만 난쟁이들은 그리 운이 좋지 못했다. 그들이 도망쳐 도착한 옛 동부 광산의 한 구역은 이미 용 크흐라크라흐스의 소굴이 되어 있었기 때문이다. "
+
+#. [objective]: condition=win
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:133
+msgid "Get all heroes to the end of the tunnel"
+msgstr "모든 영웅을 터널 끝으로 이동시키세요"
+
+#. [objective]: condition=win
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:144
+msgid "Move Thursagan to the forge"
+msgstr "투르사간을 대장간으로 이동시키세요"
+
+#. [objective]: condition=win
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:151
+msgid "Defend Thursagan until the Sceptre of Fire is complete"
+msgstr "불의 왕홀이 완성될 때까지 투르사간을 지키세요"
+
+#. [objective]: condition=win
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:158
+msgid "Survive until turns run out"
+msgstr "턴이 다 될 때까지 살아남으세요"
+
+#. [objective]: condition=lose
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:187
+msgid "An enemy moves onto the forge"
+msgstr "적이 대장간으로 이동함"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:319
+msgid ""
+"Well, Thursagan, we’ve reached the eastern mine, but the elves are hot on "
+"our trail. What do we do now?"
+msgstr "자, 투르사간. 동부 광산에 도착했지만 엘프들이 바짝 추격하고 있소. 이제 어떻게 해야 하오?"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:323
+msgid ""
+"Well, we have two choices. We may either stand and fight, and assuredly die, "
+"or run as quickly as possible down this path into the depths of the cave, "
+"where we may find something that will help us. Also, remember, the elves "
+"can’t run as fast in caves as we can, so we may be able to get ahead of them "
+"and perhaps lay a trap."
+msgstr "음, 선택지는 두 가지요. 여기서 맞서 싸우다 확실히 죽거나, 이 길을 따라 동굴 깊은 곳으로 최대한 빨리 달려가 우리에게 도움이 될 무언가를 찾는 것이오. 그리고 기억하시오. 엘프들은 동굴에서 우리만큼 빠르게 달릴 수 없으니, 놈들보다 앞서서 어쩌면 함정을 놓을 수도 있소."
+
+#. [message]: speaker=Krawg
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:327
+msgid "Krah! Surrender ruby?"
+msgstr "까악! 루비 내놔?"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:331
+msgid ""
+"If we give them the ruby, then what? They’ll probably kill us anyway. And, "
+"that ruby has the power to do great things, evil things. We can’t let it "
+"fall into the wrong hands."
+msgstr "루비를 넘긴다고 해서 어떻게 되겠소? 어차피 우리를 죽일 것이 뻔하오. 게다가 그 루비에는 위대한 일을, 사악한 일을 일으킬 힘이 있소. 잘못된 자들의 손에 넘어가게 할 수는 없소."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:335
+msgid ""
+"Then we shall run. I suggest calling to arms every last dwarf we possibly "
+"can here. This might be the last chance we’ll get to do so."
+msgstr "그렇다면 달아납시다. 여기서 가능한 한 마지막 한 명까지 모든 드워프를 소집할 것을 제안하오. 그렇게 할 마지막 기회일지도 모르오."
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:344
+msgid ""
+"So we’re running away, eh? I dinna’ like that, but it seems it’s our only "
+"option."
+msgstr "그러니까 도망치는 거로군? 마음에 들지는 않지만, 우리에게 남은 유일한 선택인 모양이군."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:348
+msgid "If it makes you feel any better, we’ll probably die this way, too."
+msgstr "위로가 될지는 모르겠지만, 이렇게 해도 아마 죽을 거야."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:386
+msgid "Look, there’s a dragon in these caves!"
+msgstr "저길 봐, 이 동굴에 용이 있어!"
+
+#. [message]: speaker=Khrakrahs
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:391
+msgid "You dare trespass into <i>my</i> lair?"
+msgstr "감히 <i>내</i> 둥지를 침범하다니?"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:395
+msgid "And which of the great dragons are you?"
+msgstr "그럼 당신은 위대한 용들 중 누구입니까?"
+
+#. [message]: speaker=Khrakrahs
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:400
+msgid ""
+"I am Khrakrahs, greatest dragon of all time! Haldric killed Shek’kahan my "
+"rival, but he was weaker than me, and you will not find me so easy to "
+"defeat. Now get out of my volcano!"
+msgstr "나는 가장 위대한 용, 크흐라크라흐스다! 할드릭이 내 경쟁자 셰크카한을 죽였지만, 그는 나보다 약했고, 나를 이기는 게 그렇게 쉬운 일은 아닐 것이다. 이제 내 화산에서 꺼져라!"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:404
+msgid ""
+"I’d rather face one powerful dragon than hundreds of mighty elves. Continue!"
+msgstr "강력한 용 한 마리와 맞서는 편이 강력한 엘프 수백 명을 상대하는 것보다 낫소. 계속 갑시다!"
+
+#. [message]: speaker=Khrakrahs
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:422
+msgid "Stop that! Leave my pets alone!"
+msgstr "그만둬라! 내 애완동물들을 내버려 둬!"
+
+#. [message]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:444
+msgid "Kraw!"
+msgstr "크라악!"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:448
+msgid "That’s great, we could really use some resources about now."
+msgstr "잘됐군. 지금 우리에게 정말 필요한 자원이오."
+
+#. [message]: speaker=Khrakrahs
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:452
+msgid "Thieves! I won’t forget this..."
+msgstr "도둑놈들! 이 일을 잊지 않겠다..."
+
+#. [message]
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:456
+msgid "Haha, you’re making friends all over, you cowards!"
+msgstr "하하, 여기저기서 친구를 만들고 있군, 이 겁쟁이들아!"
+
+#. [message]: speaker=Khrakrahs
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:460
+msgid ""
+"I don’t care about your petty squabbles, I curse all of you! I curse all who "
+"invade my lair!"
+msgstr "너희의 하찮은 다툼에는 관심 없다. 너희 모두를 저주하겠다! 내 둥지를 침범하는 자는 모두 저주하겠다!"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:482
+msgid "What’s this? A dwarf fighting against us with the elves?!"
+msgstr "이게 뭐지? 드워프가 엘프들과 함께 우리를 공격하고 있잖아?!"
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:487
+msgid ""
+"It must be one of those Surghan mercenaries. I’ll bet those elves have hired "
+"more of them. That’s bad news for us, for they’ll go as fast in caves as we "
+"do."
+msgstr "저 수르간 용병 중 하나인 모양이군. 저 엘프들이 더 고용했을 거야. 우리에게는 나쁜 소식이지. 놈들은 우리처럼 동굴 안에서도 빠르게 움직일 테니까."
+
+#. [message]: speaker=Krawg
+#. "(excited bird cry) Look! Forge here!"
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:511
+msgid "Raaaawww! Loook! Forge heeeere!"
+msgstr "크아아아! 봐아아! 여기 대장간이이이!"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:516
+msgid ""
+"It looks like a forge, heated by the lava. It also looks enchanted... and "
+"hot enough to make the Sceptre."
+msgstr "용암으로 가열되는 대장간처럼 보입니다. 마법도 걸려 있는 것 같고... 왕홀을 만들 수 있을 만큼 뜨겁기도 합니다."
+
+#. [message]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:522
+msgid ""
+"Look, I’ve found something here. It looks like a forge, heated by the lava. "
+"It also looks enchanted... and hot enough to make the sceptre."
+msgstr "보십시오, 여기서 무언가를 찾았습니다. 용암으로 가열되는 대장간처럼 보입니다. 마법도 걸려 있는 것 같고... 왕홀을 만들 수 있을 만큼 뜨겁기도 합니다."
+
+#. [message]: speaker=Khrakrahs
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:528
+msgid "That’s my rock slab, leave it be!"
+msgstr "그건 내 돌판이다. 건드리지 마라!"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:545
+msgid ""
+"This forge will work perfectly. Give me a day or two here, and I can reforge "
+"the Sceptre of Fire to fulfill its purpose."
+msgstr "이 대장간이면 완벽하겠군. 여기서 하루나 이틀만 시간을 주면 불의 왕홀을 본래 목적에 맞게 다시 벼릴 수 있소."
+
+#. [message]: speaker=narrator
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:573
+msgid "You fool, you let the enemy get at me when I was unarmed!"
+msgstr "이 바보야, 내가 무장하지 않은 틈에 적이 나를 공격하게 두다니!"
+
+#. [message]: speaker=narrator
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:579
+#: data/campaigns/Sceptre_of_Fire/utils/utils.cfg:84
+msgid "Ayahahh..."
+msgstr "아야야아..."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:611
+msgid ""
+"I have completed my work. Now it is truly the Sceptre of Fire, a powerful "
+"magical artifact."
+msgstr "내 작업을 끝냈소. 이제 이것은 진정한 불의 왕홀, 강력한 마법 유물이오."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:615
+msgid ""
+"Good! Now, let’s get out of this cave, before the elves, dwarves or wyrms "
+"kill us all!"
+msgstr "좋아! 이제 엘프나 드워프, 웜에게 모두 죽기 전에 이 동굴에서 나가자!"
+
+#. [scenario]: id=9_Caverns_of_Flame
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:3
+msgid "Caverns of Flame"
+msgstr "불꽃의 동굴"
+
+#. [time]: id=underground_SoF_volcano
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:16
+msgid "Underground"
+msgstr "지하"
+
+#. [unit]: id=Gathor, type=Orcish Warrior
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:116
+msgid "Bar'Gathor"
+msgstr "바르가토르(Bar'Gathor)"
+
+#. [side]: type=Troll Warrior, id=Harohk
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:201
+msgid "Harohk"
+msgstr "하로크(Harohk)"
+
+#. [unit]: id=Toomak, type=Troll Hero
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:235
+msgid "Toomak"
+msgstr "투막(Toomak)"
+
+#. [side]
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:255
+msgid "Wyrms of Khrakrahs"
+msgstr "크흐라크라흐스(Khrakrahs) 뱀룡"
+
+#. [part]
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:342
+msgid ""
+"Rugnur and the dwarves fled down the cave path, deeper into the volcano, "
+"with the elves and mercenaries close behind. Unfortunately, they began to "
+"see litter and wall markings indicating they were plunging into the land of "
+"orcs and trolls."
+msgstr "룩누르와 드워프들은 엘프와 용병들이 바짝 뒤쫓는 가운데 동굴 길을 따라 화산 깊숙한 곳으로 달아났습니다. 안타깝게도 그들은 오크와 트롤의 땅으로 들어가고 있다는 것을 보여 주는 쓰레기와 벽의 표식을 보기 시작했습니다."
+
+#. [part]
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:345
+msgid ""
+"The situation looked grim, but the dwarves had faced long odds before. Upon "
+"entering a large cavern, lit by pervasive lava pools, Rugnur rallied all his "
+"forces for a final push."
+msgstr "상황은 암울해 보였지만, 드워프들은 전에도 절망적인 상황에 맞선 적이 있었습니다. 사방에 퍼진 용암 웅덩이로 밝혀진 커다란 동굴에 들어서자 룩누르는 마지막 돌파를 위해 모든 병력을 결집했습니다."
+
+#. [message]: speaker=Gathor
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:456
+msgid "Argh, this is not good! But I’ve still got a trick up my sleeve..."
+msgstr "아, 이건 좋지 않군! 하지만 아직 비장의 수가 하나 남아 있지..."
+
+#. [message]: speaker=narrator
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:460
+msgid ""
+"The angry orc pulled out a stone tile with a glowing rune stamped on one "
+"side, and waved it at his foes."
+msgstr "화난 오크는 한쪽 면에 빛나는 룬이 새겨진 돌판을 꺼내 적들에게 휘둘렀습니다."
+
+#. [message]: speaker=Gathor
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:465
+msgid "Nothing!? Even this magical piece of troll dung lets me down!"
+msgstr "아무 일도 없다고!? 이 마법 걸린 트롤 똥덩어리마저 나를 실망시키는군!"
+
+#. [message]: speaker=narrator
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:469
+msgid "The frustrated orc flung the tile against the wall, where it shattered."
+msgstr "좌절한 오크는 돌판을 벽에 내던졌고, 돌판은 산산조각 났습니다."
+
+#. [objective]: condition=win
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:525
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:631
+msgid "Find and destroy the remaining runic tablets"
+msgstr "남은 룬 석판을 찾아 파괴하세요"
+
+#. [message]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:569
+msgid ""
+"All these years we stood guard... to protect these tunnels... and it comes "
+"to this..."
+msgstr "이 오랜 세월 동안 우리가 지켜 왔는데... 이 터널을 보호하려고... 결국 이렇게 되는군..."
+
+#. [message]: speaker=narrator
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:579
+msgid ""
+"As the troll collapsed, a stone tile it had been wearing hit the floor and "
+"shattered."
+msgstr "트롤이 쓰러지자 몸에 지니고 있던 돌판이 바닥에 떨어져 산산조각 났습니다."
+
+#. [message]: speaker=Krawg
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:690
+msgid "Wha’?"
+msgstr "뭐?"
+
+#. [message]: speaker=narrator
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:694
+msgid ""
+"Krawg puzzled over a stone tile sitting loose on the small mesa. Beneath a "
+"spattering of bat guano, there was a glowing rune. Krawg didn’t know what to "
+"make of it, so the gryphon left it for now."
+msgstr "크라그는 작은 언덕 위에 놓인 돌판을 의아하게 바라보았습니다. 박쥐 똥이 여기저기 묻은 아래쪽에는 빛나는 룬이 있었습니다. 크라그는 그것을 어떻게 해야 할지 몰랐기에 그리폰은 일단 돌판을 내버려 두었습니다."
+
+#. [message]: speaker=$unit.id
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:701
+msgid ""
+"The gryphon rider puzzled over a stone tile sitting loose on the small mesa. "
+"Beneath a spattering of bat guano, there was a glowing rune. Neither mount "
+"nor rider knew what to make of it, so they left it for now."
+msgstr "그리폰 기수는 작은 언덕 위에 놓인 돌판을 의아하게 바라보았습니다. 박쥐 똥이 여기저기 묻은 아래쪽에는 빛나는 룬이 있었습니다. 기수도 탈것도 그것을 어떻게 해야 할지 몰랐기에 일단 돌판을 내버려 두었습니다."
+
+#. [message]: speaker=Krawg
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:732
+msgid "Screech!"
+msgstr "끼이익!"
+
+#. [message]: speaker=narrator
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:744
+msgid ""
+"Krawg saw that this tablet was like the others held by the orc and troll, "
+"and knew that this could remove the last bridge across the fire lake."
+msgstr "크라그는 이 석판이 오크와 트롤이 들고 있던 것들과 같다는 것을 알아차렸고, 이것으로 불의 호수를 가로지르는 마지막 다리를 없앨 수 있다는 것을 알았습니다."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:750
+msgid ""
+"Yes, Krawg, that must be the last rune sealing the volcano. Smash it, like "
+"the others!"
+msgstr "그래, 크라그. 저것이 화산을 봉인하는 마지막 룬일 거야. 다른 것들처럼 부숴 버려!"
+
+#. [message]: speaker=Krawg
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:754
+msgid "Krawg sad."
+msgstr "크라그 슬퍼."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:758
+msgid ""
+"Just do it, you dumb bird! You can escape, our enemies cannot. We knew that "
+"death was likely when we fled here, just go!"
+msgstr "그냥 해, 이 멍청한 새야! 너는 탈출할 수 있지만 적들은 못 한다. 우리가 여기로 달아날 때 죽을 가능성이 높다는 건 알고 있었잖아. 어서 가!"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:762
+msgid "Wait! If Krawg can escape, shouldn’t we give him the Sceptre?"
+msgstr "잠깐! 크라그가 탈출할 수 있다면 왕홀을 그에게 맡겨야 하지 않겠소?"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:766
+msgid ""
+"No, too risky, even if Krawg drops it in King Haldric’s hand. You’ve seen "
+"how the elves have behaved, you’ve seen how your lord behaved. The "
+"corrupting emissions from the ruby are nothing compared to the greed already "
+"out there, and my crafted gold cage does nothing to contain that."
+msgstr "안 되오. 크라그가 할드릭 왕의 손에 왕홀을 떨어뜨린다고 해도 너무 위험하오. 엘프들이 어떻게 행동했는지, 당신의 군주가 어떻게 행동했는지 보았잖소. 루비에서 나오는 타락의 기운은 이미 세상에 퍼진 탐욕에 비하면 아무것도 아니며, 내가 만든 금빛 우리로는 그것을 가둘 수 없소."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:770
+msgid ""
+"Durstorn and Glildur have both convinced me that the time is not right for "
+"the Sceptre of Fire, best that it rests with us for a while. Now, Krawg!"
+msgstr "두르스토른과 글릴두르가 모두 나를 설득했소. 지금은 불의 왕홀을 사용할 때가 아니니, 당분간은 우리와 함께 두는 편이 가장 좋겠소. 자, 크라그!"
+
+#. [message]: speaker=Krawg
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:774
+msgid "Yah! Krah!"
+msgstr "야! 까악!"
+
+#. [message]: speaker=$unit.id
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:780
+msgid "There’s a tablet with a rune here!"
+msgstr "여기에 룬이 새겨진 석판이 있어!"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:784
+msgid ""
+"Yes, that must be the last rune sealing the volcano. Smash it, like the "
+"others!"
+msgstr "그래, 저것이 화산을 봉인하는 마지막 룬일 거야. 다른 것들처럼 부숴 버려!"
+
+#. [message]: speaker=$unit.id
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:788
+msgid "The resulting eruption will lead to all of your deaths!"
+msgstr "그렇게 하면 화산이 폭발해 너희 모두 죽게 될 것이다!"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:792
+msgid ""
+"Just do it! You riders have a chance to escape, our enemies cannot. We knew "
+"that death was likely when we fled here, just go!"
+msgstr "그냥 해! 너희 기수들은 탈출할 수 있지만 적들은 못 한다. 우리가 여기로 달아날 때 죽을 가능성이 높다는 건 알고 있었잖아. 어서 가!"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:796
+msgid "Wait! If the riders can escape, shouldn’t we give them the Sceptre?"
+msgstr "잠깐! 기수들이 탈출할 수 있다면 왕홀을 그들에게 맡겨야 하지 않겠소?"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:800
+msgid ""
+"No, too risky, even if they drop it in King Haldric’s hand. You’ve seen how "
+"the elves have behaved, you’ve seen how your lord behaved. The corrupting "
+"emissions from the ruby are nothing compared to the greed already out there, "
+"and my crafted gold cage does nothing to contain that."
+msgstr "안 되오. 그들이 할드릭 왕의 손에 왕홀을 떨어뜨린다고 해도 너무 위험하오. 엘프들이 어떻게 행동했는지, 당신의 군주가 어떻게 행동했는지 보았잖소. 루비에서 나오는 타락의 기운은 이미 세상에 퍼진 탐욕에 비하면 아무것도 아니며, 내가 만든 금빛 우리로는 그것을 가둘 수 없소."
+
+#. [message]: speaker=Thursagan
+#. "smash it" refers to a stone tablet, not the Sceptre.
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:805
+msgid ""
+"Durstorn and Glildur have both convinced me that the time is not right for "
+"the Sceptre of Fire, best that it rests with us for a while. Now, smash it!"
+msgstr "두르스토른과 글릴두르가 모두 나를 설득했소. 지금은 불의 왕홀을 사용할 때가 아니니, 당분간은 우리와 함께 두는 편이 가장 좋겠소. 자, 부숴 버리시오!"
+
+#. [message]: speaker=$unit.id
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:809
+msgid "Alright, there’s no turning back now!"
+msgstr "좋아, 이제 물러설 곳은 없다!"
+
+#. [floating_text]
+#. Treat this as if it was a sound-effect in a comic book.
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:821
+msgid "Smash!"
+msgstr "부숴!"
+
+#. [message]: speaker=narrator
+#. Krawg survives in both variants of this paragraph, but this one has an extra sentence to explain the gryhon riders’ fate. Surrounding events imply that flying units can escape, but the plot requires all dwarves to die.
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:965
+msgid ""
+"Once the magic seal capping the throat of the volcano was removed, lava and "
+"toxic gas exploded upward, killing everyone inside and sealing them in a "
+"tomb of hot, flowing rock. Krawg and the gryphon riders flew towards a hole "
+"in the roof but it was only Krawg who managed to outrun the explosion and "
+"emerge as the sole survivor. The Sceptre of Fire would wait, unharmed by the "
+"lava, until some day far in the future."
+msgstr "화산의 분화구를 막고 있던 마법 봉인이 제거되자 용암과 유독 가스가 위로 폭발해 안에 있던 모두를 죽이고, 뜨겁게 흐르는 바위의 무덤 속에 가두었습니다. 크라그와 그리폰 기수들은 천장의 구멍을 향해 날아갔지만, 폭발을 따돌리고 유일한 생존자로 빠져나온 것은 크라그뿐이었습니다. 불의 왕홀은 용암에 손상되지 않은 채 먼 훗날까지 기다리게 될 것입니다."
+
+#. [message]: speaker=narrator
+#. Krawg survives in both variants of this paragraph, this one is shown if the player didn’t have any gryphon riders. Surrounding events imply that flying units can escape, and in this variant Krawg is the only flying unit.
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:973
+msgid ""
+"Once the magic seal capping the throat of the volcano was removed, lava and "
+"toxic gas exploded upward, killing everyone inside and sealing them in a "
+"tomb of hot, flowing rock. The Sceptre of Fire would wait, unharmed by the "
+"lava, until some day far in the future."
+msgstr "화산의 분화구를 막고 있던 마법 봉인이 제거되자 용암과 유독 가스가 위로 폭발해 안에 있던 모두를 죽이고, 뜨겁게 흐르는 바위의 무덤 속에 가두었습니다. 불의 왕홀은 용암에 손상되지 않은 채 먼 훗날까지 기다리게 될 것입니다."
+
+#. [message]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1050
+msgid ""
+"These chests have been forced open. Whatever they once held has been removed."
+msgstr "이 궤짝들은 억지로 열린 상태입니다. 안에 들어 있던 물건은 모두 사라졌습니다."
+
+#. [message]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1076
+msgid ""
+"Ah! We aren’t wandering the bowels o’ the earth, this is crafted stone! It’s "
+"very old though..."
+msgstr "아! 우리가 땅속 깊은 곳을 헤매는 게 아니었군. 이건 다듬은 돌이야! 하지만 아주 오래된 것 같아..."
+
+#. [message]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1088
+msgid ""
+"This is some sort of notebook... I can’t read the text, but there are "
+"drawings showing three arcs spanning what must be the volcano. There are "
+"three symbols for these arcs... well, it must describe the volcano somehow, "
+"but I can’t puzzle it out now."
+msgstr "이건 일종의 공책인 것 같군... 글은 읽을 수 없지만, 화산으로 보이는 곳을 가로지르는 세 개의 호를 그린 그림이 있어. 이 호들에는 세 개의 기호가 붙어 있고... 음, 아무래도 화산에 관한 설명인 모양인데, 지금은 무슨 뜻인지 풀 수가 없군."
+
+#. [objective]: condition=win
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1098
+msgid "Explore as much of the cave as possible"
+msgstr "가능한 한 동굴을 많이 탐험하세요"
+
+#. [unit]: type=Troll, role=Guardian
+#. [unit]: type=Troll Shaman, role=Guardian
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1129
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1137
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1145
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1153
+msgid "Guardian"
+msgstr "지킴이"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1158
+msgid ""
+"Well, we’ve put some distance between us and the elves, so we have a little "
+"time to think. What is this place?"
+msgstr "자, 엘프들과 어느 정도 거리를 벌렸으니 잠시 생각할 시간이 있소. 이곳은 어디요?"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1163
+msgid ""
+"Remember what Khrakrahs said, about this being a volcano? Well, it seems "
+"we’re under the crater, sitting on the magma chamber... I think we should "
+"try to cause it to erupt."
+msgstr "크흐라크라흐스가 이게 화산이라고 한 걸 기억나? 흠, 우리는 분화구 아래, 마그마 방에 앉아 있는 것 같군... 폭발을 일으켜야 할 것 같아."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1167
+msgid ""
+"Huh, makes sense. It will kill all the elves, and we might be able to find a "
+"safe place so the lava doesn’t kill us."
+msgstr "흠, 말이 되는군. 그렇게 하면 모든 엘프를 죽일 수 있고, 우리도 용암에 죽지 않을 안전한 곳을 찾을 수 있을지 모르오."
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1171
+msgid "Yes, an interesting plan. How do you propose we do this?"
+msgstr "그렇소, 흥미로운 계획이오. 어떻게 실행할 생각이오?"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1175
+msgid ""
+"Look up! If this were a normal volcano, you’d see stars and sky. Instead, "
+"there’s a high ceiling, shaped like a cone. This means that something must "
+"be holding back the volcano’s lava flow. This thing, if it exists, could be "
+"our chance to trigger an eruption. The first place I would consider "
+"investigating would be the center of this chamber."
+msgstr "위를 보시오! 이게 보통 화산이라면 별과 하늘이 보여야 하오. 하지만 대신 원뿔 모양의 높은 천장이 있소. 그렇다면 무언가가 화산의 용암 흐름을 막고 있다는 뜻이오. 그런 것이 있다면, 그것이 화산을 분출시킬 기회가 될 수 있소. 내가 가장 먼저 조사해 볼 곳은 이 방의 중심이오."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1179
+msgid ""
+"I see, yes. Quite a gamble, yet what choice do we have? Let’s explore and "
+"hope we find something like what you describe."
+msgstr "알겠소. 상당한 도박이지만, 우리에게 무슨 선택지가 있겠소? 탐험하면서 당신이 말한 것과 같은 것을 찾길 바라도록 합시다."
+
+#. [message]: speaker=Krawg
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1183
+msgid ""
+"Krah!\n"
+"<i>(Looks about the cave, adopts a hostile stance, then glances back at the "
+"dwarves.)</i>"
+msgstr "까악!\n<i>(동굴을 둘러보고 적대적인 자세를 취한 뒤, 드워프들을 돌아봅니다.)</i>"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1188
+msgid ""
+"Indeed, Krawg, we are not alone down here. Orcs and trolls are prowling "
+"around."
+msgstr "그렇소, 크라그. 이 아래에 우리만 있는 게 아니오. 오크와 트롤이 돌아다니고 있소."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1206
+msgid ""
+"Friends, brothers, this is a desperate situation, I need your help. Can we "
+"negotiate pay after we’re back to safety?"
+msgstr "친구들이여, 형제들이여, 상황이 절박하오. 여러분의 도움이 필요하오. 안전한 곳으로 돌아간 뒤 보수를 협상할 수 있겠소?"
+
+#. [message]: speaker=narrator
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1211
+msgid "Recall costs are reduced for the duration of the scenario."
+msgstr "이 시나리오가 진행되는 동안 재소집 비용이 감소합니다."
+
+#. [message]: speaker=Glildur
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1248
+msgid "End of the road, little dwarves! That ruby is as good as ours..."
+msgstr "여기가 끝이다, 꼬마 드워프들아! 저 루비는 이제 우리 것이나 다름없다..."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1287
+msgid "Thursagan! The elves are right on our tail! What should we do?"
+msgstr "투르사간! 엘프들이 바로 뒤까지 쫓아왔소! 어떻게 해야 하오?"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1291
+msgid ""
+"We should try to set off the volcano as soon as possible. Draw the elves "
+"further into the caves, so they can’t escape when it does erupt."
+msgstr "가능한 한 빨리 화산을 분출시켜야 하오. 엘프들을 동굴 깊숙이 유인해 화산이 분출할 때 빠져나가지 못하게 합시다."
+
+#. [message]: speaker=Glildur
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1312
+msgid "Damnation! I almost had it... but now I join Landar..."
+msgstr "젠장! 거의 해낼 뻔했는데... 이제 란다르와 함께하게 되는군..."
+
+#. [message]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1326
+msgid ""
+"This must be the center of the volcano! The lava is blocked just as you "
+"surmised, Thursagan! It’s plugged up with this... enchanted courtyard?"
+msgstr "여기가 화산의 중심임이 틀림없소! 투르사간, 당신이 추측한 대로 용암이 막혀 있소! 이... 마법이 걸린 안뜰이 틀어막고 있군?"
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1330
+msgid ""
+"Aye, it is enchanted; I can tell by those runes. We need to break the "
+"enchantment somehow."
+msgstr "그렇소, 마법이 걸려 있소. 저 룬을 보면 알 수 있지. 어떻게든 마법을 깨뜨려야 하오."
+
+#. [message]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1344
+msgid ""
+"It’s very hot here, above the lava. This bridge also seems rather delicate — "
+"I’d better not loiter here."
+msgstr "용암 위에 있으니 이곳은 매우 뜨겁군. 이 다리도 꽤 약해 보이니 여기서 꾸물거리지 않는 편이 좋겠소."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1364
+msgid ""
+"These trolls are not like others I’ve seen, and they seem to be guarding "
+"this chamber."
+msgstr "이 트롤들은 내가 보아 온 다른 트롤들과 다르고, 이 방을 지키고 있는 것 같소."
+
+#. [message]
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1376
+msgid ""
+"Yes, we tend and preserve this volcano, protecting it from those like you."
+msgstr "그렇다. 우리는 이 화산을 돌보고 보존하며, 너희 같은 자들로부터 지키고 있다."
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1380
+msgid "Us? We’re nice, not like the elves chasing us."
+msgstr "우리 말이오? 우리는 착하오. 우리를 쫓는 엘프들과는 다르지."
+
+#. [message]: speaker=Baglur
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1384
+msgid ""
+"Aye, but it’s no use, Rugnur. There’s no peace between dwarves and trolls, "
+"never has been."
+msgstr "그렇지만 소용없소, 룩누르. 드워프와 트롤 사이에는 평화가 없소. 지금까지도 없었고 앞으로도 없을 거요."
+
+#. [message]: speaker=Gathor
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1428
+msgid ""
+"Ah ha! I knew it, there are intruders! And yet our damned bridge is broken, "
+"it was built by idiots. Come, come, bring planks, we’ve got to get across!"
+msgstr "아하! 내 그럴 줄 알았지. 침입자들이 있군! 그런데 빌어먹을 다리가 부서져 있잖아. 바보들이 만든 다리야. 어서, 어서, 널빤지를 가져와. 건너가야 한다!"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1432
+msgid "Huh. Well, let’s not stay here too long."
+msgstr "흠. 그럼 여기 너무 오래 머물지는 맙시다."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1436
+msgid ""
+"Right, if we can get both the orcs and the elves behind us, maybe they’ll "
+"fight each other."
+msgstr "좋아, 오크와 엘프를 모두 우리 뒤에 남겨 둘 수 있다면 서로 싸우게 만들 수 있을지도 모르오."
+
+#. [scenario]: id=Epilogue
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:3
+msgid "Epilogue"
+msgstr "에필로그"
+
+#. [part]
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:35
+msgid ""
+"And thus, in the eyes of the dwarven sages, Rugnur died a glorious death — "
+"and with him, Thursagan, greatest of the Runesmiths, whose legacy was soon "
+"lost. But our tale is not yet complete. For Alanin lived still, as did Krawg "
+"the Gryphon."
+msgstr "그리하여 드워프 현자들의 눈에 룩누르는 영광스러운 죽음을 맞이했고, 그와 함께 룬대장장이 중 가장 위대했던 투르사간도 죽었습니다. 그의 유산은 곧 잊혔습니다. 하지만 우리의 이야기는 아직 끝나지 않았습니다. 알라닌이 살아 있었고, 그리폰 크라그도 살아 있었기 때문입니다."
+
+#. [part]
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:39
+msgid ""
+"Alanin traveled south to Wesnoth, to report the events of the past years to "
+"Haldric II."
+msgstr "알라닌은 남쪽의 웨스노스로 가서 지난 몇 년간 일어난 일을 할드릭 2세에게 보고했습니다."
+
+#. [part]
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:42
+msgid ""
+"And Krawg — well, Krawg followed him. I know not how. But Krawg made his way "
+"south, to Weldyn, and reached it about the time that Alanin did."
+msgstr "그리고 크라그는... 글쎄, 크라그는 그를 따라갔습니다. 어떻게 그랬는지는 모르겠습니다. 하지만 크라그는 남쪽의 웰딘으로 향했고, 알라닌과 비슷한 시기에 그곳에 도착했습니다."
+
+#. [unit]: type=Royal Guard, id=Guard Captain
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:62
+msgid "Guard Captain"
+msgstr "근위 대장"
+
+#. [unit]: type=Swordsman, id=Gatekeeper
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:79
+msgid "Gatekeeper"
+msgstr "문지기"
+
+#. [message]: speaker=Gatekeeper
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:103
+msgid "Halt! What is your business in Weldyn, capital of Wesnoth?"
+msgstr "멈춰라! 웨스노스의 수도 웰딘에는 무슨 용무로 왔느냐?"
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:107
+msgid ""
+"Stand aside. I am Alanin, of Haldric’s royal guard, and I bring news from "
+"the Northlands."
+msgstr "비키시오. 나는 할드릭 왕의 근위대 소속 알라닌이며, 북부 지방에서 소식을 가져왔소."
+
+#. [message]: speaker=Gatekeeper
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:111
+msgid "Very well. You may pass."
+msgstr "좋소. 지나가도 된다."
+
+#. [message]: speaker=Guard Captain
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:116
+msgid ""
+"I hear you desire to speak to the King, Alanin. What do you have to tell him?"
+msgstr "알라닌, 왕을 만나 이야기하고 싶다고 들었다. 무슨 말을 전하려는 것이냐?"
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:120
+msgid ""
+"I bring tidings of the Sceptre of Fire, commissioned fifteen years ago by "
+"our king. I have been away for a long time, do not delay me even more."
+msgstr "15년 전 우리 왕께서 제작을 명하신 불의 왕홀에 관한 소식을 가져왔습니다. 오랫동안 자리를 비웠으니 더 이상 지체하게 하지 마십시오."
+
+#. [message]: speaker=Guard Captain
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:124
+msgid "Enter, Alanin, and give the King your message."
+msgstr "들어가서 왕께 소식을 전하거라, 알라닌."
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:130
+msgid ""
+"My King, you had sent me on a mission into the Northlands with the Ruby of "
+"Fire. I have returned."
+msgstr "폐하, 폐하께서는 저를 불의 루비와 함께 북부 지방으로 임무를 보내셨습니다. 제가 돌아왔습니다."
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:134
+msgid "Of course, I could not forget. Was the Sceptre completed?"
+msgstr "물론이지, 잊을 리가 있겠느냐. 왕홀은 완성되었느냐?"
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:138
+msgid ""
+"I believe it was completed, my lord, but I do not have it. I’m afraid it is "
+"buried deep in the mountains of the Northlands."
+msgstr "완성되었다고 생각합니다, 폐하. 하지만 제게는 없습니다. 북부 지방의 산맥 깊은 곳에 묻힌 것 같습니다."
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:142
+msgid ""
+"What!? Why? Do the dwarves not honor our contract? Has Rugnur, or whatever "
+"his name is, become a thief?"
+msgstr "뭐라고!? 어째서지? 드워프들이 우리와의 계약을 지키지 않은 것이냐? 룩누르인지 뭔지 하는 자가 도둑이 된 것이냐?"
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:146
+msgid ""
+"My Lord, the dwarves led by Rugnur are dead, slain by fire and smoke as lava "
+"poured out of one of the mountains. I saw the eruption from afar as I was "
+"returning to you."
+msgstr "폐하, 룩누르가 이끌던 드워프들은 죽었습니다. 산 하나에서 용암이 흘러나오며 불과 연기에 휩싸여 죽었지요. 폐하께 돌아오던 중 멀리서 분화를 보았습니다."
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:150
+msgid "Why were you returning without the Sceptre, then?"
+msgstr "그렇다면 왜 왕홀 없이 돌아온 것이냐?"
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:154
+msgid ""
+"We had been besieged by elves, in a dwarvish castle that was not Rugnur’s. "
+"Rugnur sent me back, with the message that the Sceptre was near completion, "
+"but he and all the rest of the dwarves went into the caves south of the "
+"Arkan-thoria, and were immediately followed by hundreds of elves."
+msgstr "우리는 룩누르의 것이 아닌 드워프 성에서 엘프들에게 포위되어 있었습니다. 룩누르는 왕홀이 거의 완성되었다는 소식과 함께 저를 돌려보냈지만, 그와 나머지 드워프들은 아르칸-토리아 남쪽의 동굴로 들어갔고, 곧 수백 명의 엘프가 뒤를 따랐습니다."
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:158
+msgid ""
+"If the Sceptre was not completed in your sight, what makes you so sure it "
+"exists?"
+msgstr "네가 보는 앞에서 왕홀이 완성되지 않았다면, 그것이 존재한다고 어떻게 그토록 확신하느냐?"
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:162
+msgid "I will let Krawg explain that."
+msgstr "그건 크라그가 설명하게 하겠습니다."
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:166
+msgid "Who?"
+msgstr "누구?"
+
+#. [message]: speaker=Gatekeeper
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:190
+msgid ""
+"My lord, a gryphon has just flown over our walls! It may be a sign of an "
+"attack!"
+msgstr "폐하, 방금 그리폰 한 마리가 우리 성벽 위를 날아갔습니다! 공격의 징조일지도 모릅니다!"
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:194
+msgid ""
+"No, that is my... friend Krawg. He went with Rugnur into the caves, but "
+"escaped through a hole in the roof right before the lava filled the cave."
+msgstr "아니다, 저건 내... 친구 크라그다. 룩누르와 함께 동굴에 들어갔지만, 용암이 동굴을 채우기 직전에 천장의 구멍으로 탈출했지."
+
+#. [message]: speaker=Krawg
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:198
+msgid "Kraw! Lost!"
+msgstr "크라악! 잃었다!"
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:202
+msgid "What the devil! I’m supposed to believe this?"
+msgstr "대체 뭐란 말이냐! 내가 이 말을 믿어야 한다고?"
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:206
+msgid ""
+"It’s difficult to accept, you are right, my liege. However, I have fought "
+"side-by-side with the dwarves and this gryphon, and I stake my honor on the "
+"story. What’s more, the gryphon has some evidence. Show him, Krawg."
+msgstr "믿기 어려운 이야기인 것은 맞습니다, 폐하. 하지만 저는 드워프들과 이 그리폰과 나란히 싸웠고, 제 명예를 걸고 이 이야기가 사실임을 맹세합니다. 게다가 이 그리폰에게 증거가 있습니다. 보여 줘, 크라그."
+
+#. [message]: speaker=Krawg
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:210
+msgid "Krah! Here!"
+msgstr "까악! 여기!"
+
+#. [message]: speaker=narrator
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:214
+msgid ""
+"Krawg reached over his back with his beak and brought out a scorched "
+"parchment, which he dropped at the feet of the king."
+msgstr "크라그는 부리로 등 너머를 더듬어 그을린 양피지를 꺼내 왕의 발치에 떨어뜨렸습니다."
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:218
+msgid "Those are the plans for the Sceptre, or at least an earlier version."
+msgstr "그건 왕홀의 설계도다. 적어도 초기판이겠지."
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:222
+msgid ""
+"I see. Well... what do you want me to do now? The Sceptre of Fire is made, "
+"yes, but I don’t know where it is, the makers are dead..."
+msgstr "알겠다. 음... 이제 내가 무엇을 하길 바라느냐? 불의 왕홀은 만들어졌지만, 어디 있는지는 모르고 제작자들은 죽었단 말이지..."
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:226
+msgid ""
+"I do not know. I only bring the news, I did not cause it, nor do I fully "
+"understand its implications. But, my advice would be to do nothing. I "
+"believe you will not find it, though you send a hundred armies to look for "
+"it. But record in the history books that the Sceptre of Fire does exist."
+msgstr "저는 모릅니다. 저는 소식을 전할 뿐, 이런 일을 일으킨 것도 아니고 그 결과를 완전히 이해하는 것도 아닙니다. 하지만 제 조언은 아무것도 하지 말라는 것입니다. 백 군대를 보내 찾더라도 발견하지 못할 것이라 생각합니다. 다만 불의 왕홀이 실제로 존재한다는 사실은 역사책에 기록하십시오."
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:230
+msgid ""
+"Your advice is grating to my ears, not what I wish to hear... and yet, I see "
+"the wisdom in it, and I agree. Alanin, you’ve served in the army long enough "
+"to retire, and even if you hadn’t, you’ve seen enough combat. Go back to "
+"your village, and I shall see that you and your family live well and enjoy "
+"great success."
+msgstr "네 조언은 귀에 거슬리는구나. 내가 듣고 싶던 말도 아니고... 하지만 그 안에 담긴 지혜를 알겠으니 동의하겠다. 알라닌, 자네는 은퇴할 만큼 오랫동안 군에서 복무했고, 그렇지 않더라도 전투를 충분히 겪었다. 마을로 돌아가거라. 자네와 가족이 풍족하게 살며 큰 성공을 누리도록 내가 보살피겠다."
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:234
+msgid "Thank you, my lord."
+msgstr "감사합니다, 폐하."
+
+#. [message]: speaker=narrator
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:246
+msgid ""
+"The Sceptre would not be found until many generations after Haldric II, in "
+"the time of Asheviere the Dark Queen. During that time, it remained in the "
+"caves of the Northlands, occasionally moved around by orcs who never "
+"understood its true power."
+msgstr "왕홀은 할드릭 2세로부터 여러 세대가 지난 뒤, 어둠의 여왕 아셰비에르의 시대가 되어서야 발견되었습니다. 그동안 왕홀은 북부 지방의 동굴에 남아 있었고, 진정한 힘을 이해하지 못한 오크들이 이따금 이리저리 옮겼습니다."
+
+#. [message]: speaker=narrator
+#: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:251
+msgid ""
+"But before it was found, legends grew up around it, and around its makers — "
+"Thursagan, most brilliant of the Dwarven Sages, and Rugnur, the greatest of "
+"the Dwarven Heroes of old."
+msgstr "하지만 발견되기 전부터 왕홀과 그 제작자들, 즉 가장 뛰어난 드워프 현자 투르사간과 옛 드워프 영웅 중 가장 위대한 룩누르를 둘러싸고 전설이 생겨났습니다."
+
+#. [unit_type]: id=Caravan, race=mechanical
+#: data/campaigns/Sceptre_of_Fire/units/Caravan.cfg:4
+msgid "Caravan"
+msgstr "대상"
+
+#. [unit_type]: id=Caravan, race=mechanical
+#: data/campaigns/Sceptre_of_Fire/units/Caravan.cfg:17
+msgid ""
+"Caravans are used to carry gold or supplies long distances. Because of the "
+"immense weight of the cargo this caravan carries, it is not nimble, but the "
+"driver can still try to drive off attackers with his whip."
+msgstr "대상은 금이나 보급품을 먼 거리까지 운반하는 데 사용됩니다. 이 대상이 운반하는 화물은 매우 무거워 민첩하지 않지만, 운전자는 채찍으로 공격자들을 쫓아내려 할 수 있습니다."
+
+#. [special_note]
+#: data/campaigns/Sceptre_of_Fire/units/Caravan.cfg:19
+msgid ""
+"The length of this unit’s improvised weapon allows it to strike first in "
+"defensive melee, but it cannot use it to attack."
+msgstr "이 유닛은 즉석 무기의 길이 덕분에 방어적인 근접전에서 먼저 공격할 수 있지만, 공격에는 이 무기를 사용할 수 없습니다."
+
+#. [attack]: type=impact
+#: data/campaigns/Sceptre_of_Fire/units/Caravan.cfg:25
+msgid "whip"
+msgstr "채찍"
+
+#. [firststrike]: id=deterrentstrike
+#: data/campaigns/Sceptre_of_Fire/units/Caravan.cfg:34
+msgid "deterrent strike"
+msgstr "견제 공격"
+
+#. [firststrike]: id=deterrentstrike
+#: data/campaigns/Sceptre_of_Fire/units/Caravan.cfg:35
+msgid ""
+"This unit always strikes first with this attack if they are defending, but "
+"cannot attack with it at all."
+msgstr "이 유닛은 방어 중일 때 이 공격으로 항상 먼저 공격하지만, 공격할 때는 이 공격을 전혀 사용할 수 없습니다."
+
+#. [unit_type]: id=Cave Wyrm, race=monster
+#: data/campaigns/Sceptre_of_Fire/units/Cave_Wyrm.cfg:5
+msgid "Cave Wyrm"
+msgstr "동굴 웜"
+
+#. [unit_type]: id=Cave Wyrm, race=monster
+#: data/campaigns/Sceptre_of_Fire/units/Cave_Wyrm.cfg:20
+msgid ""
+"Cave Wyrms are strange beasts, stout serpents with wings, but no legs. They "
+"are relatively rare, and their presence is attributed to some eccentric "
+"wizard or dragon. Mature Wyrms have excellent control of their fire breath "
+"attack, as if they are themselves miniature dragons."
+msgstr "동굴 웜은 날개는 있지만 다리는 없는, 통통한 뱀처럼 생긴 기묘한 야수입니다. 비교적 희귀하며, 괴짜 마법사나 용이 만들어 냈다고 여겨집니다. 성체 웜은 마치 작은 용이라도 된 듯 화염 숨결 공격을 훌륭하게 조종합니다."
+
+#. [attack]: type=blade
+#: data/campaigns/Sceptre_of_Fire/units/Cave_Wyrm.cfg:78
+#: data/campaigns/Sceptre_of_Fire/units/Cave_Wyrmlet.cfg:76
+#: data/campaigns/Sceptre_of_Fire/units/Red_Wyrm.cfg:91
+#: data/campaigns/Sceptre_of_Fire/units/Red_Wyrmlet.cfg:90
+msgid "fangs"
+msgstr "송곳니"
+
+#. [attack]: type=fire
+#: data/campaigns/Sceptre_of_Fire/units/Cave_Wyrm.cfg:87
+#: data/campaigns/Sceptre_of_Fire/units/Cave_Wyrmlet.cfg:85
+#: data/campaigns/Sceptre_of_Fire/units/Red_Wyrm.cfg:100
+#: data/campaigns/Sceptre_of_Fire/units/Red_Wyrmlet.cfg:99
+msgid "breath"
+msgstr "숨결"
+
+#. [unit_type]: id=Cave Wyrmlet, race=monster
+#: data/campaigns/Sceptre_of_Fire/units/Cave_Wyrmlet.cfg:4
+msgid "Cave Wyrmlet"
+msgstr "동굴 웜(Wyrm) 새끼"
+
+#. [unit_type]: id=Cave Wyrmlet, race=monster
+#: data/campaigns/Sceptre_of_Fire/units/Cave_Wyrmlet.cfg:18
+msgid ""
+"Cave Wyrms are strange beasts, stout serpents with wings, but no legs. They "
+"are relatively rare, and their presence is attributed to some eccentric "
+"wizard or dragon. The young are small, but hungry and aggressive."
+msgstr "동굴 웜은 날개는 있지만 다리는 없는, 통통한 뱀처럼 생긴 기묘한 야수입니다. 비교적 희귀하며, 괴짜 마법사나 용이 만들어 냈다고 여겨집니다. 새끼는 작지만 굶주려 있고 공격적입니다."
+
+#. [unit_type]: id=Haldric II, race=human
+#: data/campaigns/Sceptre_of_Fire/units/Haldric_II.cfg:4
+msgid "King"
+msgstr "왕"
+
+#. [unit_type]: id=Haldric II, race=human
+#: data/campaigns/Sceptre_of_Fire/units/Haldric_II.cfg:21
+msgid "King of Wesnoth."
+msgstr "웨스노스의 왕."
+
+#. [unit_type]: id=Red Wyrm, race=monster
+#: data/campaigns/Sceptre_of_Fire/units/Red_Wyrm.cfg:17
+msgid "Red Wyrm"
+msgstr "붉은 웜(Wyrm)"
+
+#. [unit_type]: id=Red Wyrm, race=monster
+#: data/campaigns/Sceptre_of_Fire/units/Red_Wyrm.cfg:32
+msgid ""
+"Red Wyrms are strange beasts, stout serpents with wings, but no legs. Their "
+"skin is red and rock-like, impervious to fire but more brittle than regular "
+"scales or any other lizard armor. They are relatively rare, and their "
+"presence is attributed to some eccentric wizard or dragon. Mature Wyrms have "
+"excellent control of their fire breath attack, as if they are themselves "
+"miniature dragons."
+msgstr "붉은 웜은 날개는 있지만 다리는 없는, 통통한 뱀처럼 생긴 기묘한 야수입니다. 피부는 붉고 바위처럼 단단해 불에는 끄떡없지만, 일반적인 비늘이나 다른 도마뱀의 갑옷보다 약합니다. 비교적 희귀하며, 괴짜 마법사나 용이 만들어 냈다고 여겨집니다. 성체 웜은 마치 작은 용이라도 된 듯 화염 숨결 공격을 훌륭하게 조종합니다."
+
+#. [unit_type]: id=Red Wyrmlet, race=monster
+#: data/campaigns/Sceptre_of_Fire/units/Red_Wyrmlet.cfg:17
+msgid "Red Wyrmlet"
+msgstr "붉은 웜(Wyrm) 새끼"
+
+#. [unit_type]: id=Red Wyrmlet, race=monster
+#: data/campaigns/Sceptre_of_Fire/units/Red_Wyrmlet.cfg:31
+msgid ""
+"Red Wyrms are strange beasts, stout serpents with wings, but no legs, and "
+"their skin is like some reddish rock. The rocky skin seems to protect them "
+"from fire, but is quite brittle. They are relatively rare, and their "
+"presence is attributed to some eccentric wizard or dragon. The young are "
+"small, but hungry and aggressive."
+msgstr "붉은 웜은 날개는 있지만 다리는 없는, 통통한 뱀처럼 생긴 기묘한 야수이며 피부는 붉은 바위와 같습니다. 바위 같은 피부는 불로부터 몸을 보호하는 듯하지만 매우 약합니다. 비교적 희귀하며, 괴짜 마법사나 용이 만들어 냈다고 여겨집니다. 새끼는 작지만 굶주려 있고 공격적입니다."
+
+#. [set_menu_item]: id=sof_minecart_boarding_{VAR}
+#: data/campaigns/Sceptre_of_Fire/utils/cart-utils.cfg:221
+msgid "Board Cart"
+msgstr "수레에 타기"
+
+#. [set_menu_item]: id=sof_minecart_unboarding_{VAR}
+#: data/campaigns/Sceptre_of_Fire/utils/cart-utils.cfg:294
+msgid "Leave Cart"
+msgstr "수레에서 내리기"
+
+#: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:6
+msgid "$cost|g"
+msgstr "$cost|g"
+
+#. [message]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:17
+msgid "I already have this one..."
+msgstr "이건 이미 가지고 있어..."
+
+#. [message]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:33
+msgid "We don’t have the funds..."
+msgstr "자금이 부족해..."
+
+#. [message]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:114
+msgid "My tools are ready. Step closer, if you want to witness my rune-work."
+msgstr "내 도구가 준비됐다. 내 룬 작업을 보고 싶다면 가까이 오거라."
+
+#. [rune_choice]: speaker=Thursagan
+#: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:286
+msgid ""
+"I can hammer out a quick little runic charm, it should help you somewhat. "
+"This isn’t the place to do really good work though, so the effects will "
+"vanish in the future. What do you say, is it worth a bit of gold and crystal?"
+msgstr "간단한 룬 부적을 빠르게 만들어 약간 도움을 줄 수는 있다. 하지만 제대로 작업하기에는 좋은 장소가 아니니 효과는 나중에 사라질 게다. 어떠냐, 금과 수정 약간을 지불할 가치가 있겠느냐?"
+
+#. [option]
+#: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:290
+msgid "Exit"
+msgstr "나가기"
+
+#. [option]
+#: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:291
+msgid "Nothing for now."
+msgstr "지금은 아무것도 필요 없다."
+
+#. [option]
+#: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:298
+msgid "Reject"
+msgstr "거절"
+
+#. [option]
+#: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:299
+msgid "No thanks, don’t ask again."
+msgstr "괜찮다. 다시 묻지 마라."
+
+#. [option]
+#: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:316
+msgid "Adds 2 MP"
+msgstr "이동력 2 증가"
+
+#. [option]
+#: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:316
+#: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:401
+msgid "Swiftness"
+msgstr "신속"
+
+#. [option]
+#: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:324
+#: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:439
+msgid "Accuracy"
+msgstr "정확도"
+
+#. [option]
+#: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:324
+msgid "Increases ranged weapon accuracy by 20%"
+msgstr "원거리 무기의 명중률을 20% 증가"
+
+#. [option]
+#: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:333
+#: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:478
+msgid "Force"
+msgstr "힘"
+
+#. [option]
+#: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:333
+msgid "Increases melee weapon damage by 4"
+msgstr "근접 무기의 피해를 4 증가"
+
+#. [rune_choice]: speaker=unit
+#: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:379
+msgid ""
+"This is part of our stash of field runes, we can use them to get a small "
+"temporary boost. We don’t have very many though, and need to contribute "
+"funds for replacements. Should I take this one?"
+msgstr "이것은 우리가 비축한 야전 룬의 일부다. 사용하면 잠시 작은 강화 효과를 얻을 수 있지. 하지만 수량이 많지 않아 교체품을 마련하려면 자금을 보태야 한다. 이걸 받겠느냐?"
+
+#. [option]
+#: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:383
+msgid "No"
+msgstr "아니오"
+
+#. [option]
+#: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:384
+msgid "Not now."
+msgstr "지금은 아니다."
+
+#. [option]
+#: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:401
+msgid "Adds 1 MP"
+msgstr "이동력 1 증가"
+
+#. [option]
+#: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:439
+msgid "Increases ranged weapon accuracy by 10%"
+msgstr "원거리 무기의 명중률을 10% 증가"
+
+#. [option]
+#: data/campaigns/Sceptre_of_Fire/utils/rune-equip.cfg:478
+msgid "Increases melee weapon damage by 2"
+msgstr "근접 무기의 피해를 2 증가"
+
+#. [terrain_type]: id=sof_ancient_stone_floor
+#: data/campaigns/Sceptre_of_Fire/utils/terrain.cfg:4
+msgid "Stone Floor"
+msgstr "돌바닥"
+
+#. [terrain_type]: id=sof_ancient_stone_floor
+#: data/campaigns/Sceptre_of_Fire/utils/terrain.cfg:7
+msgid "Ancient Stone Floor"
+msgstr "고대 돌바닥"
+
+#. [message]: speaker=Rugnur
+#: data/campaigns/Sceptre_of_Fire/utils/utils.cfg:22
+msgid "Gahahh..."
+msgstr "가하하..."
+
+#. [message]: speaker=Haldric II
+#: data/campaigns/Sceptre_of_Fire/utils/utils.cfg:35
+msgid "Maghah..."
+msgstr "마가하..."
+
+#. [message]: speaker=Alanin
+#: data/campaigns/Sceptre_of_Fire/utils/utils.cfg:48
+msgid "Ahhgg..."
+msgstr "아흐그..."
+
+#. [message]: speaker=Krawg
+#: data/campaigns/Sceptre_of_Fire/utils/utils.cfg:71
+msgid "Kraa..."
+msgstr "크라아..."
+
+#. [note]
+#: data/campaigns/Sceptre_of_Fire/utils/utils.cfg:108
+msgid ""
+"Thursagan’s Rune Mastery: while Thursagan is on a keep, selecting an "
+"adjacent dwarf opens a dialog for obtaining temporary upgrades which last "
+"until the end of the scenario."
+msgstr "투르사간의 룬 숙련: 투르사간이 본영에 있을 때 인접한 드워프를 선택하면 시나리오가 끝날 때까지 지속되는 임시 강화를 얻는 대화 상자가 열립니다."
+
+#~ msgid "hammer"
+#~ msgstr "해머"
+
+#~ msgid "Dwarvish Runemaster"
+#~ msgstr "드워프 룬마스터"
+
+#~ msgid "claws"
+#~ msgstr "클로우"
+
+#~ msgid "impact"
+#~ msgstr "충격"
+
+#~ msgid "pierce"
+#~ msgstr "관통"
+
+#~ msgid "blade"
+#~ msgstr "블레이드"

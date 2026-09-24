@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Generated gettext binaries are local test artifacts.
+*.mo
+dist/
+build/
+
+# The archive contains copied Naver Cafe material. Keep it local unless
+# redistribution permission has been verified for every file.
+/References/wesnothko/
+
+# Intermediate glossary extraction reports; glossary.tsv is the maintained source.
+/work/1.18.x/glossary-candidates.tsv
+/work/1.18.x/glossary-inventory.tsv
+/work/1.18.x/glossary-untranslated.tsv

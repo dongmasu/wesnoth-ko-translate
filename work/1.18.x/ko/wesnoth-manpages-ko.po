@@ -1,0 +1,2262 @@
+# Korean translations for Battle for Wesnoth package
+# Copyright (C) 2006 Wesnoth development team.
+# Automatically generated, 2006.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Battle for Wesnoth 1.18.x Korean translation\n"
+"POT-Creation-Date: 2024-05-25 21:28-0500\n"
+"PO-Revision-Date: 2026-09-24 00:00+0900\n"
+"Last-Translator: Wesnoth Korean Translation Team\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# type: TH
+#. type: TH
+#: doc/man/wesnoth.6:16
+#, no-wrap
+msgid "WESNOTH"
+msgstr "웨스노스(WESNOTH)"
+
+#. type: TH
+#: doc/man/wesnoth.6:16 doc/man/wesnothd.6:16
+#, no-wrap
+msgid "2022"
+msgstr "2022"
+
+# type: TH
+#. type: TH
+#: doc/man/wesnoth.6:16
+#, no-wrap
+msgid "wesnoth"
+msgstr "웨스노스(wesnoth)"
+
+# type: TH
+#. type: TH
+#: doc/man/wesnoth.6:16
+#, no-wrap
+msgid "Battle for Wesnoth"
+msgstr "웨스노스 전쟁"
+
+# type: SH
+#. type: SH
+#: doc/man/wesnoth.6:18 doc/man/wesnothd.6:18
+#, no-wrap
+msgid "NAME"
+msgstr "이름"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnoth.6:20
+msgid "wesnoth - Battle for Wesnoth, a turn-based fantasy strategy game"
+msgstr "웨스노스 - 순차 방식 판타지 전략 게임인 웨스노스 전쟁"
+
+# type: SH
+#. type: SH
+#: doc/man/wesnoth.6:21 doc/man/wesnothd.6:24
+#, no-wrap
+msgid "SYNOPSIS"
+msgstr "개요"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnoth.6:26
+msgid "B<wesnoth> [I<OPTIONS>] [I<PATH_TO_DATA>]"
+msgstr "B<wesnoth> [I<OPTIONS>] [I<PATH_TO_DATA>]"
+
+# type: SH
+#. type: SH
+#: doc/man/wesnoth.6:27 doc/man/wesnothd.6:40
+#, no-wrap
+msgid "DESCRIPTION"
+msgstr "설명"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnoth.6:32
+msgid "Battle for B<Wesnoth> is a turn-based fantasy strategy game."
+msgstr "<Wesnoth> 전쟁은 순차 방식 판타지 전략 게임입니다."
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnoth.6:42
+msgid ""
+"Defeat all enemy leaders using a well-chosen cadre of troops, taking care to "
+"manage your resources of gold and villages. All units have their own "
+"strengths and weaknesses; to win, deploy your forces to their best advantage "
+"while denying your foes the chance to do the same. As units gain experience, "
+"they acquire new abilities and become more powerful. Play in your own "
+"language and test your skill against a smart computer opponent, or join "
+"Wesnoth's large community of online players. Create your own custom units, "
+"scenarios or campaigns, and share them with others."
+msgstr "골드, 그리고 마을의 자원을 관리하기 위해서, 부대를 잘 선택하여 모든 적 리더를 물리치시기 바랍니다. 승리하기 위해서는 병력을 최대한 유리하게 배치하면서, 적은 유리하지 않도록 배치해야 합니다. 각 유닛은 경험치를 쌓으면 새로운 능력을 얻고 더 강해집니다. 컴퓨터 AI를 상대로 당신의 스킬을 테스트하거나, 웨스노스의 커뮤니티에 참여하여 플레이해보세요. 당신의 커스텀 유닛과 시나리오, 캠페인 등을 만들어서 다른 사람들과 공유할 수 있습니다."
+
+# type: SH
+#. type: SH
+#: doc/man/wesnoth.6:43 doc/man/wesnothd.6:45
+#, no-wrap
+msgid "OPTIONS"
+msgstr "옵션"
+
+#. type: TP
+#: doc/man/wesnoth.6:45
+#, no-wrap
+msgid "B<--all-translations>"
+msgstr "B<--all-translations>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:49
+msgid ""
+"Show all translations in the in-game language selection list, even if they "
+"are deemed insufficiently complete."
+msgstr "불완전하더라도, 게임 내 언어 선택 목록의 모든 번역을 표시합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:49
+#, no-wrap
+msgid "B<--bunzip2>I<\\ infile.bz2>"
+msgstr "B<--bunzip2>I<\\ infile.bz2>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:55
+msgid ""
+"decompresses a file which should be in bzip2 format and stores it without "
+"the .bz2 suffix. The I<infile.bz2> will be removed."
+msgstr "bzip2 형식이어야 하는 파일의 압축을 풀고 .bz2 접미사 없이 저장합니다. I<infile.bz2>는 삭제됩니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:55
+#, no-wrap
+msgid "B<--bzip2>I<\\ infile>"
+msgstr "B<--bzip2>I<\\ infile>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:61
+msgid ""
+"compresses a file in bzip2 format, stores it as I<infile>.bz2 and removes "
+"I<infile>."
+msgstr "파일을 bzip2 형식으로 압축하고 I<infile>.bz2로 저장한 뒤 I<infile>을 삭제합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:61
+#, no-wrap
+msgid "B<-c[>I<id_campaign>B<],\\ --campaign[>I<=id_campaign>B<]>"
+msgstr "B<-c[>I<id_campaign>B<],\\ --campaign[>I<=id_campaign>B<]>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:66
+msgid ""
+"goes directly to the campaign with id I<id_campaign>.  A selection menu will "
+"appear if no id was specified."
+msgstr "id가 I<id_campaign>인 캠페인으로 바로 이동합니다. id를 지정하지 않으면 선택 메뉴가 나타납니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:66
+#, no-wrap
+msgid "B<--campaign-difficulty[>I<=difficulty>B<]>"
+msgstr "B<--campaign-difficulty[>I<=difficulty>B<]>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:70
+msgid ""
+"The difficulty of the specified campaign (1 to max). If none specified, the "
+"campaign difficulty selection widget will appear."
+msgstr "지정한 캠페인의 난이도입니다(1부터 최댓값까지). 지정하지 않으면 캠페인 난이도 선택 위젯이 나타납니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:70
+#, no-wrap
+msgid "B<--campaign-scenario>I<\\ id_scenario>"
+msgstr "B<--campaign-scenario>I<\\ id_scenario>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:73
+msgid ""
+"The id of the scenario from the specified campaign. The default is the first "
+"scenario."
+msgstr "지정한 캠페인에서 시나리오의 id를 지정합니다. 기본값은 첫 번째 시나리오입니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:73
+#, no-wrap
+msgid "B<--campaign-skip-story>"
+msgstr "B<--campaign-skip-story>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:78
+msgid "Skip [story] screens and dialog through the end of the B<start> event."
+msgstr "B<start> 이벤트가 끝날 때까지 [story] 화면과 대화를 건너뜁니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:78
+#, no-wrap
+msgid "B<--clock>"
+msgstr "B<--clock>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:81
+msgid "Adds the option to show a clock for testing the drawing timer."
+msgstr "그리기 타이머를 테스트할 수 있도록 시계를 표시하는 옵션을 추가합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:81
+#, no-wrap
+msgid "B<--config-dir>I<\\ name>"
+msgstr "B<--config-dir>I<\\ name>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:85
+msgid "Deprecated, use B<--userdata-dir>."
+msgstr "더 이상 사용하지 않습니다. B<--userdata-dir>를 사용하십시오."
+
+#. type: TP
+#: doc/man/wesnoth.6:85
+#, no-wrap
+msgid "B<--config-path>"
+msgstr "B<--config-path>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:89
+msgid "Deprecated, use B<--userdata-path>."
+msgstr "더 이상 사용하지 않습니다. B<--userdata-path>를 사용하십시오."
+
+#. type: TP
+#: doc/man/wesnoth.6:89
+#, no-wrap
+msgid "B<--core>I<\\ id_core>"
+msgstr "B<--core>I<\\ id_core>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:92
+msgid "overrides the loaded core with the one whose id is specified."
+msgstr "불러온 코어를 지정한 id의 코어로 덮어씁니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:92
+#, no-wrap
+msgid "B<--data-dir>I<\\ directory>"
+msgstr "B<--data-dir>I<\\ directory>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:95
+msgid "overrides the data directory with the one specified"
+msgstr "데이터 디렉터리를 지정한 디렉터리로 덮어씁니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:95
+#, no-wrap
+msgid "B<--data-path>"
+msgstr "B<--data-path>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:98
+msgid "prints the path of the data directory and exits."
+msgstr "데이터 디렉터리의 경로를 출력하고 종료합니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnoth.6:98
+#, no-wrap
+msgid "B<-d, --debug>"
+msgstr "B<-d, --debug>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:103
+msgid ""
+"enables additional command mode options in-game (see the wiki page at "
+"https://www.wesnoth.org/wiki/CommandMode for more information about command "
+"mode)."
+msgstr "게임 내에서 추가 명령 모드 옵션을 활성화합니다(명령 모드에 대한 자세한 내용은 https://www.wesnoth.org/wiki/CommandMode의 위키 문서를 참조하십시오)."
+
+#. type: TP
+#: doc/man/wesnoth.6:103
+#, no-wrap
+msgid "B<--debug-lua>"
+msgstr "B<--debug-lua>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:106
+msgid "enables some Lua debugging mechanisms"
+msgstr "일부 Lua 디버깅 기능을 활성화합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:106
+#, no-wrap
+msgid "B<--strict-lua>"
+msgstr "B<--strict-lua>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:109
+msgid "disallow deprecated Lua API calls"
+msgstr "더 이상 사용하지 않는 Lua API 호출을 허용하지 않습니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:109
+#, no-wrap
+msgid "B<-D,--diff>I<\\ left-file>B<\\ >I<right-file>"
+msgstr "B<-D,--diff>I<\\ left-file>B<\\ >I<right-file>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:115
+msgid ""
+"diffs the two WML files; does not preprocess them first (to do that, run "
+"them through B<-p> first). Outputs the diff as DiffWML on standard output or "
+"to the file indicated by I<--output>."
+msgstr "두 WML 파일의 차이를 출력합니다. 먼저 전처리하지 않습니다(전처리하려면 먼저 B<-p>를 통해 실행하십시오). 차이 결과를 표준 출력 또는 I<--output>으로 지정한 파일에 DiffWML 형식으로 출력합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:115
+#, no-wrap
+msgid "B<-e[>I<file>B<],\\ --editor[>I<=file>B<]>"
+msgstr "B<-e[>I<file>B<],\\ --editor[>I<=file>B<]>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:122
+msgid ""
+"start the in-game map editor directly. If I<file> is specified, equivalent "
+"to B<-l> B<--load>."
+msgstr "게임 내 지도 편집기를 바로 시작합니다. I<file>을 지정하면 B<-l> B<--load>와 같습니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnoth.6:122
+#, no-wrap
+msgid "B<--fps>"
+msgstr "B<--fps>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:127
+msgid ""
+"displays the number of frames per second the game is currently running at in "
+"a corner of the screen as well as writes these values to a file in the "
+"userdata directory."
+msgstr "게임의 현재 초당 프레임 수를 화면 모서리에 표시하고, 그 값을 사용자 데이터 디렉터리의 파일에도 기록합니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnoth.6:127
+#, no-wrap
+msgid "B<-f, --fullscreen>"
+msgstr "B<-f, --fullscreen>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnoth.6:130
+msgid "runs the game in full screen mode."
+msgstr "게임을 전체 화면 모드로 실행합니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnoth.6:130
+#, no-wrap
+msgid "B<--gunzip>I<\\ infile.gz>"
+msgstr "B<--gunzip>I<\\ infile.gz>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnoth.6:136
+msgid ""
+"decompresses a file which should be in gzip format and stores it without "
+"the .gz suffix. The I<infile.gz> will be removed."
+msgstr "gzip 형식이어야 하는 파일의 압축을 풀고 .gz 접미사 없이 저장합니다. I<infile.gz>는 삭제됩니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnoth.6:136
+#, no-wrap
+msgid "B<--gzip>I<\\ infile>"
+msgstr "B<--gzip>I<\\ infile>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnoth.6:142
+msgid ""
+"compresses a file in gzip format, stores it as I<infile>.gz and removes "
+"I<infile>."
+msgstr "파일을 gzip 형식으로 압축하고 I<infile>.gz로 저장한 뒤 I<infile>을 삭제합니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnoth.6:142 doc/man/wesnothd.6:55
+#, no-wrap
+msgid "B<-h, --help>"
+msgstr "B<-h, --help>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnoth.6:145
+msgid ""
+"displays a summary of command line options to standard output, and exits."
+msgstr "명령줄 옵션 요약을 표준 출력에 표시하고 종료합니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnoth.6:145
+#, no-wrap
+msgid "B<-l,\\ --load>I<\\ file>"
+msgstr "B<-l,\\ --load>I<\\ file>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:156
+msgid ""
+"loads the savegame I<file> from the standard save game directory. If the B<-"
+"e> or B<--editor> option is used as well, starts the editor with the map "
+"from I<file> open. If it is a directory, the editor will start with a load "
+"map dialog opened there."
+msgstr "표준 저장 게임 디렉터리에서 저장 게임 I<file>을 불러옵니다. B<-e> 또는 B<--editor> 옵션도 사용하면 I<file>의 지도가 열린 편집기를 시작합니다. I<file>이 디렉터리라면 해당 디렉터리를 연 지도 불러오기 대화 상자와 함께 편집기를 시작합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:156
+#, no-wrap
+msgid "B<-L,\\ --language>I<\\ lang>"
+msgstr "B<-L,\\ --language>I<\\ lang>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:163
+msgid ""
+"uses language I<lang> (symbol) this session.  Example: B<--language "
+"ang_GB@latin>"
+msgstr "이번 세션에서 언어 기호 I<lang>을 사용합니다. 예: B<--language ang_GB@latin>"
+
+# type: TP
+#. type: TP
+#: doc/man/wesnoth.6:163 doc/man/wesnothd.6:58
+#, no-wrap
+msgid "B<--log->I<level>B<=>I<domain1>B<,>I<domain2>B<,>I<...>"
+msgstr "B<--log->I<level>B<=>I<domain1>B<,>I<domain2>B<,>I<...>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:178
+msgid ""
+"sets the severity level of the log domains.  B<all> can be used to match any "
+"log domain. Available levels: B<error>,\\ B<warning>,\\ B<info>,\\ B<debug>,"
+"\\ B<none>.  By default the B<warning> level is used for most domains, but "
+"B<deprecation> defaults to B<none> unless combined with the B<-d> option."
+msgstr "로그 도메인의 심각도 수준을 설정합니다. B<all>을 사용하면 모든 로그 도메인과 일치시킬 수 있습니다. 사용 가능한 수준은 B<error>,\\ B<warning>,\\ B<info>,\\ B<debug>,\\ B<none>입니다. 기본적으로 대부분의 도메인에는 B<warning> 수준이 사용되지만, B<deprecation>은 B<-d> 옵션과 함께 사용하지 않는 한 기본값이 B<none>입니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:178
+#, no-wrap
+msgid "B<--log-precise>"
+msgstr "B<--log-precise>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:181
+msgid "shows the timestamps in log output with more precision."
+msgstr "로그 출력의 타임스탬프를 더 높은 정밀도로 표시합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:181
+#, no-wrap
+msgid "B<--log-strict>"
+msgstr "B<--log-strict>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:187
+msgid ""
+"sets the strict level of the logger. Any messages sent to log domains of "
+"this level or more severe will cause the unit test to fail regardless of the "
+"victory result. Only relevant when used with B<-u>."
+msgstr "로거의 엄격성 수준을 설정합니다. 이 수준 이상으로 심각한 로그 도메인에 전송된 메시지가 있으면 승리 결과와 관계없이 단위 테스트가 실패합니다. B<-u>와 함께 사용할 때만 유효합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:187
+#, no-wrap
+msgid "B<--logdomains[>I<=filter>B<]>"
+msgstr "B<--logdomains[>I<=filter>B<]>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:192
+msgid ""
+"lists defined log domains (only the ones containing I<filter> if used) and "
+"exits"
+msgstr "정의된 로그 도메인을 나열하고 종료합니다(I<filter>를 사용하면 해당 문자열을 포함하는 도메인만 나열합니다)."
+
+#. type: TP
+#: doc/man/wesnoth.6:192
+#, no-wrap
+msgid "B<--no-log-to-file>"
+msgstr "B<--no-log-to-file>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:195
+msgid ""
+"prevents redirecting logged output to a file. Log files are created in the "
+"logs directory under the userdata folder."
+msgstr "로그 출력이 파일로 리디렉션되는 것을 방지합니다. 로그 파일은 사용자 데이터 폴더 아래의 logs 디렉터리에 생성됩니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:195
+#, no-wrap
+msgid "B<--log-to-file>"
+msgstr "B<--log-to-file>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:198
+msgid ""
+"log output is written to a file. Cancels the effect of --no-log-to-file "
+"whether implicit or explicit."
+msgstr "로그 출력을 파일에 기록합니다. --no-log-to-file이 암묵적으로 또는 명시적으로 적용된 효과를 취소합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:198
+#, no-wrap
+msgid "B<--wnoconsole>"
+msgstr "B<--wnoconsole>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:201
+msgid ""
+"For Windows, when used with --no-log-to-file, results in output being "
+"written to cerr/cout instead of CONOUT. Otherwise, does nothing."
+msgstr "Windows에서 --no-log-to-file과 함께 사용하면 CONOUT 대신 cerr/cout에 출력을 기록합니다. 그 외에는 아무 작업도 하지 않습니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:201
+#, no-wrap
+msgid "B<--max-fps>I<\\ fps>"
+msgstr "B<--max-fps>I<\\ fps>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:208
+msgid ""
+"the number of frames per second the game can show, the value should be "
+"between B<1> and B<1000>, the default is the monitor's refresh rate."
+msgstr "게임이 표시할 수 있는 초당 프레임 수입니다. 값은 B<1>에서 B<1000> 사이여야 하며, 기본값은 모니터의 새로 고침 빈도입니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnoth.6:208
+#, no-wrap
+msgid "B<-m, --multiplayer>"
+msgstr "B<-m, --multiplayer>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:214
+msgid ""
+"runs a multiplayer game. There are additional options that can be used "
+"together with B<--multiplayer> as explained below."
+msgstr "멀티플레이 게임을 실행합니다. 아래 설명처럼 B<--multiplayer>와 함께 사용할 수 있는 추가 옵션이 있습니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:214
+#, no-wrap
+msgid "B<--mp-test>"
+msgstr "B<--mp-test>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:217
+msgid "load the test mp scenarios."
+msgstr "테스트 mp 시나리오를 로드합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:217
+#, no-wrap
+msgid "B<--new-widgets>"
+msgstr "B<--new-widgets>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:220
+msgid ""
+"there is a new WIP widget toolkit, this option enables it. This is very "
+"experimental, don't fill bug reports since most are known. Parts of the "
+"library are deemed stable and will work without this switch."
+msgstr "새로운 개발 중인 위젯 도구 모음이 있으며, 이 옵션으로 활성화할 수 있습니다. 매우 실험적인 기능이므로 대부분 알려진 문제이니 버그 보고서를 작성하지 마십시오. 라이브러리의 일부는 안정적인 것으로 간주되어 이 스위치 없이도 작동합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:220
+#, no-wrap
+msgid "B<--nodelay>"
+msgstr "B<--nodelay>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:224
+msgid ""
+"runs the game without any delays for graphic benchmarking. This is "
+"automatically enabled by B<--nogui>."
+msgstr "그래픽 벤치마킹을 위해 지연 없이 게임을 실행합니다. B<--nogui>를 사용하면 자동으로 활성화됩니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:224
+#, no-wrap
+msgid "B<--noaddons>"
+msgstr "B<--noaddons>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:227
+msgid "disables loading of user addons."
+msgstr "사용자 부가 기능을 불러오지 않습니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnoth.6:227
+#, no-wrap
+msgid "B<--nocache>"
+msgstr "B<--nocache>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnoth.6:230
+msgid "disables caching of game data."
+msgstr "게임 데이터 캐싱을 비활성화합니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnoth.6:230
+#, no-wrap
+msgid "B<--nogui>"
+msgstr "B<--nogui>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:238
+msgid ""
+"runs the game without the GUI. Only available in combination with B<--"
+"multiplayer> or B<--screenshot> or B<--plugin>."
+msgstr "GUI 없이 게임을 실행합니다. B<--multiplayer>, B<--screenshot> 또는 B<--plugin>과 함께 사용할 때만 사용할 수 있습니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:238
+#, no-wrap
+msgid "B<--nobanner>"
+msgstr "B<--nobanner>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:241
+msgid "suppress the startup banner."
+msgstr "시작 배너를 표시하지 않습니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnoth.6:241
+#, no-wrap
+msgid "B<--nomusic>"
+msgstr "B<--nomusic>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnoth.6:244
+msgid "runs the game without music."
+msgstr "음악 없이 게임을 실행합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:244
+#, no-wrap
+msgid "B<--noreplaycheck>"
+msgstr "B<--noreplaycheck>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:248
+msgid ""
+"don't try to validate replay of unit test. Only relevant when used with B<-"
+"u>."
+msgstr "단위 테스트의 리플레이를 검증하지 않습니다. B<-u>와 함께 사용할 때만 유효합니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnoth.6:248
+#, no-wrap
+msgid "B<--nosound>"
+msgstr "B<--nosound>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnoth.6:251
+msgid "runs the game without sounds and music."
+msgstr "효과음과 음악 없이 게임을 실행합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:251
+#, no-wrap
+msgid "B<--output>I<\\ file>"
+msgstr "B<--output>I<\\ file>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:254
+msgid "output to the specified file. Applicable to diffing operations."
+msgstr "지정한 파일로 출력합니다. 차이 비교 작업에 적용됩니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:254
+#, no-wrap
+msgid "B<--password>I<\\ password>"
+msgstr "B<--password>I<\\ password>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:259
+msgid ""
+"uses I<password> when connecting to a server, ignoring other preferences. "
+"Unsafe."
+msgstr "서버에 연결할 때 다른 설정을 무시하고 I<password>를 사용합니다. 안전하지 않습니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:259
+#, no-wrap
+msgid "B<--plugin>I<\\ script>"
+msgstr "B<--plugin>I<\\ script>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:266
+msgid ""
+"(experimental) load a I<script> which defines a Wesnoth plugin. Similar to "
+"B<--script>, but Lua file should return a function which will be run as a "
+"coroutine and periodically woken up with updates."
+msgstr "(실험적) Wesnoth 플러그인을 정의하는 I<script>를 불러옵니다. B<--script>와 비슷하지만 Lua 파일이 코루틴으로 실행되고 주기적으로 업데이트와 함께 재개될 함수를 반환해야 합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:266
+#, no-wrap
+msgid "B<-P,--patch>I<\\ base-file>B<\\ >I<patch-file>"
+msgstr "B<-P,--patch>I<\\ base-file>B<\\ >I<patch-file>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:271
+msgid ""
+"applies a DiffWML patch to a WML file; does not preprocess either of the "
+"files.  Outputs the patched WML to standard output or to the file indicated "
+"by I<--output>."
+msgstr "WML 파일에 DiffWML 패치를 적용합니다. 두 파일 모두 전처리하지 않습니다. 패치된 WML을 표준 출력 또는 I<--output>으로 지정한 파일에 출력합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:271
+#, no-wrap
+msgid "B<-p,\\ --preprocess>I<\\ source-file/folder>B<\\ >I<target-directory>"
+msgstr "B<-p,\\ --preprocess>I<\\ source-file/folder>B<\\ >I<target-directory>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:281
+msgid ""
+"preprocesses a specified file/folder. For each file(s) a plain .cfg file and "
+"a processed .cfg file will be written in specified target directory. If a "
+"folder is specified, it will be preprocessed recursively based on the known "
+"preprocessor rules. The common macros from the \"data/core/macros\" "
+"directory will be preprocessed before the specified resources.  Example: B<-"
+"p ~/wesnoth/data/campaigns/tutorial ~/result.> For details regarding the "
+"preprocessor visit: https://wiki.wesnoth.org/PreprocessorRef#Command-"
+"line_preprocessor."
+msgstr "지정한 파일 또는 폴더를 전처리합니다. 각 파일에 대해 일반 .cfg 파일과 처리된 .cfg 파일을 지정한 대상 디렉터리에 기록합니다. 폴더를 지정하면 알려진 전처리 규칙에 따라 재귀적으로 전처리합니다. 지정한 리소스보다 먼저 \"data/core/macros\" 디렉터리의 공통 매크로를 전처리합니다. 예: B<-p ~/wesnoth/data/campaigns/tutorial ~/result.> 전처리기에 대한 자세한 내용은 https://wiki.wesnoth.org/PreprocessorRef#Command-line_preprocessor를 참조하십시오."
+
+#. type: TP
+#: doc/man/wesnoth.6:281
+#, no-wrap
+msgid "B<--preprocess-defines=>I<DEFINE1>B<,>I<DEFINE2>B<,>I<...>"
+msgstr "B<--preprocess-defines=>I<DEFINE1>B<,>I<DEFINE2>B<,>I<...>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:288
+msgid ""
+"comma separated list of defines to be used by the B<--preprocess> command. "
+"If B<SKIP_CORE> is in the define list the \"data/core\" directory won't be "
+"preprocessed."
+msgstr "B<--preprocess> 명령에서 사용할 define의 쉼표로 구분된 목록입니다. define 목록에 B<SKIP_CORE>가 있으면 \"data/core\" 디렉터리는 전처리하지 않습니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:288
+#, no-wrap
+msgid "B<--preprocess-input-macros>I<\\ source-file>"
+msgstr "B<--preprocess-input-macros>I<\\ source-file>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:295
+msgid ""
+"used only by the B<--preprocess> command. Specifies a file that contains "
+"B<[preproc_define]>s to be included before preprocessing."
+msgstr "B<--preprocess> 명령에서만 사용합니다. 전처리 전에 포함할 B<[preproc_define]>을 담은 파일을 지정합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:295
+#, no-wrap
+msgid "B<--preprocess-output-macros[>I<=target-file>B<]>"
+msgstr "B<--preprocess-output-macros[>I<=target-file>B<]>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:306
+msgid ""
+"used only by the B<--preprocess> command. Will output all preprocessed "
+"macros in the target file. If the file is not specified the output will be "
+"file '_MACROS_.cfg' in the target directory of preprocess's command. The "
+"output file can be passed to B<--preprocess-input-macros>.  This switch "
+"should be typed before the B<--preprocess> command."
+msgstr "B<--preprocess> 명령에서만 사용합니다. 전처리된 모든 매크로를 대상 파일에 출력합니다. 파일을 지정하지 않으면 전처리 명령의 대상 디렉터리에 '_MACROS_.cfg' 파일로 출력합니다. 출력 파일은 B<--preprocess-input-macros>에 전달할 수 있습니다. 이 스위치는 B<--preprocess> 명령 앞에 입력해야 합니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnoth.6:306
+#, no-wrap
+msgid "B<-r\\ >I<X>B<x>I<Y>B<,\\ --resolution\\ >I<X>B<x>I<Y>"
+msgstr "B<-r\\ >I<X>B<x>I<Y>B<,\\ --resolution\\ >I<X>B<x>I<Y>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:311
+msgid "sets the screen resolution. Example: B<-r> B<800x600>."
+msgstr "화면 해상도를 설정합니다. 예: B<-r> B<800x600>."
+
+#. type: TP
+#: doc/man/wesnoth.6:311
+#, no-wrap
+msgid "B<--render-image>I<\\ image>B<\\ >I<output>"
+msgstr "B<--render-image>I<\\ image>B<\\ >I<output>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:314
+msgid ""
+"takes a valid wesnoth 'image path string' with image path functions, and "
+"outputs to a .png file. Image path functions are documented at https://wiki."
+"wesnoth.org/ImagePathFunctionWML."
+msgstr "유효한 Wesnoth 'image path string'을 이미지 경로 함수와 함께 받아 .png 파일로 출력합니다. 이미지 경로 함수는 https://wiki.wesnoth.org/ImagePathFunctionWML에 문서화되어 있습니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:314
+#, no-wrap
+msgid "B<-R,\\ --report>"
+msgstr "B<-R,\\ --report>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:317
+msgid ""
+"initializes game directories, prints build information suitable for use in "
+"bug reports, and exits."
+msgstr "게임 디렉터리를 초기화하고, 버그 보고서에 사용할 수 있는 빌드 정보를 출력한 뒤 종료합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:317
+#, no-wrap
+msgid "B<--rng-seed>I<\\ number>"
+msgstr "B<--rng-seed>I<\\ number>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:324
+msgid ""
+"seeds the random number generator with I<number>.  Example: B<--rng-seed> "
+"B<0>."
+msgstr "난수 생성기를 I<number>로 초기화합니다. 예: B<--rng-seed> B<0>."
+
+#. type: TP
+#: doc/man/wesnoth.6:324
+#, no-wrap
+msgid "B<--screenshot>I<\\ map>B<\\ >I<output>"
+msgstr "B<--screenshot>I<\\ map>B<\\ >I<output>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:331
+msgid ""
+"saves a screenshot of I<map> to I<output> without initializing a screen."
+msgstr "화면을 초기화하지 않고 I<map>의 스크린샷을 I<output>에 저장합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:331
+#, no-wrap
+msgid "B<--script>I<\\ file>"
+msgstr "B<--script>I<\\ file>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:336
+msgid "(experimental)  I<file> containing a Lua script to control the client."
+msgstr "(실험적) 클라이언트를 제어하는 Lua 스크립트를 담은 I<file>입니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:336
+#, no-wrap
+msgid "B<-s[>I<host>B<],\\ --server[>I<=host>B<]>"
+msgstr "B<-s[>I<host>B<],\\ --server[>I<=host>B<]>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:341
+msgid ""
+"connects to the specified host if any, otherwise connect to the first server "
+"in preferences. Example: B<--server> B<server.wesnoth.org>."
+msgstr "지정한 호스트가 있으면 해당 호스트에 연결하고, 없으면 설정에 지정된 첫 번째 서버에 연결합니다. 예: B<--server> B<server.wesnoth.org>."
+
+#. type: TP
+#: doc/man/wesnoth.6:341
+#, no-wrap
+msgid "B<--showgui>"
+msgstr "B<--showgui>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:345
+msgid "runs the game with the GUI, overriding any implicit B<--nogui>."
+msgstr "암묵적으로 지정된 B<--nogui>를 무시하고 GUI와 함께 게임을 실행합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:345
+#, no-wrap
+msgid "B<--strict-validation>"
+msgstr "B<--strict-validation>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:348
+msgid "validation errors are treated as fatal errors."
+msgstr "검증 오류를 치명적 오류로 취급합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:348
+#, no-wrap
+msgid "B<-t[>I<scenario_id>B<],\\ --test[>I<=scenario_id>B<]>"
+msgstr "B<-t[>I<scenario_id>B<],\\ --test[>I<=scenario_id>B<]>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:358
+msgid ""
+"runs the game in a small test scenario. The scenario should be one defined "
+"with a B<[test]> WML tag. The default is B<test>.  A demonstration of the "
+"B<[micro_ai]> feature can be started with B<micro_ai_test>."
+msgstr "작은 테스트 시나리오에서 게임을 실행합니다. 시나리오는 B<[test]> WML 태그로 정의되어 있어야 합니다. 기본값은 B<test>입니다. B<micro_ai_test>를 사용하면 B<[micro_ai]> 기능의 예제를 시작할 수 있습니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:358
+#, no-wrap
+msgid "B<--translations-over>I<\\ percent>"
+msgstr "B<--translations-over>I<\\ percent>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:364
+msgid ""
+"Set the standard for deeming a translation is complete enough to show in the "
+"in-game language list to I<percent>.  Valid values are 0 to 100."
+msgstr "번역이 게임 내 언어 목록에 표시할 만큼 충분히 완료되었다고 판단할 기준을 I<percent>로 설정합니다. 유효한 값은 0부터 100까지입니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:364
+#, no-wrap
+msgid "B<-u,\\ --unit>I<\\ scenario-id>"
+msgstr "B<-u,\\ --unit>I<\\ scenario-id>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:368
+msgid "runs the specified test scenario as a unit test. Implies B<--nogui>."
+msgstr "지정한 테스트 시나리오를 단위 테스트로 실행합니다. B<--nogui>를 암시합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:368
+#, no-wrap
+msgid "B<--unsafe-scripts>"
+msgstr "B<--unsafe-scripts>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:373
+msgid ""
+"makes the B<package> package available to lua scripts, so that they can load "
+"arbitrary packages. Do not do this with untrusted scripts! This action gives "
+"lua the same permissions as the wesnoth executable."
+msgstr "B<package> 패키지를 Lua 스크립트에서 사용할 수 있게 하여 임의의 패키지를 불러올 수 있도록 합니다. 신뢰할 수 없는 스크립트에서는 사용하지 마십시오! 이 작업으로 Lua에 Wesnoth 실행 파일과 동일한 권한이 부여됩니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:373
+#, no-wrap
+msgid "B<-S,--use-schema>I<\\ path>"
+msgstr "B<-S,--use-schema>I<\\ path>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:377
+msgid "sets the WML schema for use with B<-V,--validate>."
+msgstr "B<-V,--validate>에 사용할 WML 스키마를 설정합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:377
+#, no-wrap
+msgid "B<--userconfig-dir>I<\\ name>"
+msgstr "B<--userconfig-dir>I<\\ name>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:388
+msgid ""
+"sets the user configuration directory to I<name> under $HOME or \"My "
+"Documents\\eMy Games\" for windows.  You can also specify an absolute path "
+"for the configuration directory outside the $HOME or \"My Documents\\eMy "
+"Games\". On Windows it is also possible to specify a directory relative to "
+"the process working directory by using path starting with \".\\e\" or \".."
+"\\e\".  Under X11 this defaults to $XDG_CONFIG_HOME or $HOME/.config/"
+"wesnoth, on other systems to the userdata path."
+msgstr "사용자 설정 디렉터리를 $HOME 아래의 I<name>으로 설정하거나, Windows에서는 \"My Documents\\eMy Games\" 아래의 I<name>으로 설정합니다. $HOME 또는 \"My Documents\\eMy Games\" 외부의 절대 경로도 지정할 수 있습니다. Windows에서는 \".\\e\" 또는 \"..\\e\"로 시작하는 경로를 사용해 프로세스의 작업 디렉터리를 기준으로 한 디렉터리를 지정할 수도 있습니다. X11에서는 기본값이 $XDG_CONFIG_HOME 또는 $HOME/.config/wesnoth이고, 그 외 시스템에서는 사용자 데이터 경로입니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:388
+#, no-wrap
+msgid "B<--userconfig-path>"
+msgstr "B<--userconfig-path>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnoth.6:391
+msgid "prints the path of the user configuration directory and exits."
+msgstr "사용자 설정 디렉터리의 경로를 출력하고 종료합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:391
+#, no-wrap
+msgid "B<--userdata-dir>I<\\ name>"
+msgstr "B<--userdata-dir>I<\\ name>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:400
+msgid ""
+"sets the userdata directory to I<name> under $HOME or \"My Documents\\eMy "
+"Games\" for windows.  You can also specify an absolute path for the userdata "
+"directory outside the $HOME or \"My Documents\\eMy Games\". On Windows it is "
+"also possible to specify a directory relative to the process working "
+"directory by using path starting with \".\\e\" or \"..\\e\"."
+msgstr "사용자 데이터 디렉터리를 Windows에서는 $HOME 또는 \"My Documents\\eMy Games\" 아래의 I<name>으로 설정합니다. 사용자 데이터 디렉터리에 대해 $HOME 또는 \"My Documents\\eMy Games\" 바깥의 절대 경로를 지정할 수도 있습니다. Windows에서는 \".\\e\" 또는 \"..\\e\"로 시작하는 경로를 사용해 프로세스 작업 디렉터리에 상대적인 디렉터리를 지정할 수도 있습니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:400
+#, no-wrap
+msgid "B<--userdata-path>"
+msgstr "B<--userdata-path>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:403
+msgid "prints the path of the userdata directory and exits."
+msgstr "사용자 데이터 디렉토리의 경로를 인쇄하고 종료합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:403
+#, no-wrap
+msgid "B<--username>I<\\ username>"
+msgstr "B<--username>I<\\ username>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:408
+msgid ""
+"uses I<username> when connecting to a server, ignoring other preferences."
+msgstr "다른 설정은 무시하고 서버에 연결할 때 I<username>을 사용합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:408
+#, no-wrap
+msgid "B<--validate>I<\\ path>"
+msgstr "B<--validate>I<\\ path>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:411
+msgid "validates a file against the WML schema."
+msgstr "파일을 WML 스키마에 맞는지 검증합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:411
+#, no-wrap
+msgid "B<--validate-addon>I<\\ addon_id>"
+msgstr "B<--validate-addon>I<\\ addon_id>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:414
+msgid "validates the WML of the given addon as you play."
+msgstr "플레이하는 동안 지정된 부가 기능의 WML을 검증합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:414
+#, no-wrap
+msgid "B<--validate-core>"
+msgstr "B<--validate-core>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:417
+msgid "validates the core WML as you play."
+msgstr "플레이하는 동안 핵심 WML을 검증합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:417
+#, no-wrap
+msgid "B<--validate-schema \\ path>"
+msgstr "B<--validate-schema \\ path>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:420
+msgid "validates a file as a WML schema."
+msgstr "파일을 WML 스키마로 검증합니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnoth.6:420
+#, no-wrap
+msgid "B<--validcache>"
+msgstr "B<--validcache>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnoth.6:423
+msgid "assumes that the cache is valid. (dangerous)"
+msgstr "캐시가 유효하다고 간주합니다. (위험)"
+
+# type: TP
+#. type: TP
+#: doc/man/wesnoth.6:423
+#, no-wrap
+msgid "B<-v, --version>"
+msgstr "B<-v, --version>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnoth.6:426
+msgid "shows the version number and exits."
+msgstr "버전 번호를 표시하고 종료합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:426
+#, no-wrap
+msgid "B<--simple-version>"
+msgstr "B<--simple-version>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:429
+msgid "shows the version number and nothing else, then exits."
+msgstr "버전 번호만 표시하고 종료합니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnoth.6:429
+#, no-wrap
+msgid "B<-w, --windowed>"
+msgstr "B<-w, --windowed>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnoth.6:432
+msgid "runs the game in windowed mode."
+msgstr "게임을 창 모드로 실행합니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnoth.6:432
+#, no-wrap
+msgid "B<--with-replay>"
+msgstr "B<--with-replay>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnoth.6:437
+msgid "replays the game loaded with the B<--load> option."
+msgstr "B<--load> 옵션으로 불러온 게임을 리플레이합니다."
+
+# type: SH
+#. type: SH
+#: doc/man/wesnoth.6:438
+#, no-wrap
+msgid "Options for --multiplayer"
+msgstr "--multiplayer 옵션"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnoth.6:445
+msgid ""
+"The side-specific multiplayer options are marked with I<number>.  I<number> "
+"has to be replaced by a side number. It usually is 1 or 2 but depends on the "
+"number of players possible in the chosen scenario."
+msgstr "진영별 멀티플레이 옵션은 I<number>로 표시합니다. I<number>는 진영 번호로 바꿔야 합니다. 보통 1 또는 2이지만 선택한 시나리오에서 가능한 플레이어 수에 따라 달라집니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:445
+#, no-wrap
+msgid "B<--ai-config>I<\\ number>B<:>I<value>"
+msgstr "B<--ai-config>I<\\ number>B<:>I<value>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnoth.6:448
+msgid ""
+"selects a configuration file to load for the AI controller for this side."
+msgstr "이 진영의 AI 컨트롤러에 불러올 설정 파일을 선택합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:448
+#, no-wrap
+msgid "B<--algorithm>I<\\ number>B<:>I<value>"
+msgstr "B<--algorithm>I<\\ number>B<:>I<value>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:458
+msgid ""
+"selects a non-standard algorithm to be used by the AI controller for this "
+"side. The algorithm is defined by an B<[ai]> tag, which can be a core one "
+"either in \"data/ai/ais\" or \"data/ai/dev\" or an algorithm defined by an "
+"addon. Available values include: B<idle_ai> and B<experimental_ai>."
+msgstr "이 진영의 AI 컨트롤러에 사용할 비표준 알고리즘을 선택합니다. 알고리즘은 B<[ai]> 태그로 정의하며, \"data/ai/ais\" 또는 \"data/ai/dev\"에 있는 핵심 알고리즘이거나 부가 기능에서 정의한 알고리즘일 수 있습니다. 사용할 수 있는 값에는 B<idle_ai>와 B<experimental_ai>가 있습니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:458
+#, no-wrap
+msgid "B<--controller>I<\\ number>B<:>I<value>"
+msgstr "B<--controller>I<\\ number>B<:>I<value>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:465
+msgid ""
+"selects the controller for this side. Available values: B<human>, B<ai> and "
+"B<null>."
+msgstr "이 진영의 컨트롤러를 선택합니다. 사용할 수 있는 값은 B<human>, B<ai>, B<null>입니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:465
+#, no-wrap
+msgid "B<--era>I<\\ value>"
+msgstr "B<--era>I<\\ value>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnoth.6:472
+msgid ""
+"use this option to play in the selected era instead of the B<Default> era. "
+"The era is chosen by an id. Eras are described in the B<data/multiplayer/"
+"eras.cfg> file."
+msgstr "B<Default> 시대 대신 선택한 시대에서 플레이하려면 이 옵션을 사용합니다. 시대는 ID로 선택합니다. 시대는 B<data/multiplayer/eras.cfg> 파일에 설명되어 있습니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnoth.6:472
+#, no-wrap
+msgid "B<--exit-at-end>"
+msgstr "B<--exit-at-end>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:476
+msgid ""
+"exits once the scenario is over, without displaying victory/defeat dialog "
+"which normally requires the user to click End Scenario.  This is also used "
+"for scriptable benchmarking."
+msgstr "시나리오가 끝나면 종료합니다. 일반적으로 사용자가 시나리오 종료를 클릭해야 표시되는 승리/패배 대화 상자는 표시하지 않습니다. 스크립트로 실행하는 벤치마킹에도 사용합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:476
+#, no-wrap
+msgid "B<--ignore-map-settings>"
+msgstr "B<--ignore-map-settings>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:479
+msgid "do not use map settings, use default values instead."
+msgstr "지도 설정을 사용하지 않고 기본값을 사용합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:479
+#, no-wrap
+msgid "B<--label>I<\\ label>"
+msgstr "B<--label>I<\\ label>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:484
+msgid "sets the I<label> for AIs."
+msgstr "AI의 I<label>을 설정합니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:484
+#, no-wrap
+msgid "B<--multiplayer-repeat>I<\\ value>"
+msgstr "B<--multiplayer-repeat>I<\\ value>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:491
+msgid ""
+"repeats a multiplayer game I<value> times. Best to use with B<--nogui> for "
+"scriptable benchmarking."
+msgstr "멀티플레이 게임을 I<value>회 반복합니다. 스크립트로 실행하는 벤치마킹에는 B<--nogui>와 함께 사용하는 것이 좋습니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:491
+#, no-wrap
+msgid "B<--parm>I<\\ number>B<:>I<name>B<:>I<value>"
+msgstr "B<--parm>I<\\ number>B<:>I<name>B<:>I<value>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnoth.6:500
+msgid ""
+"sets additional parameters for this side. This parameter depends on the "
+"options used with B<--controller> and B<--algorithm>.  It should only be "
+"useful for people designing their own AI. (not yet documented completely)"
+msgstr "이 진영의 추가 매개변수를 설정합니다. 이 매개변수는 B<--controller> 및 B<--algorithm>과 함께 사용하는 옵션에 따라 달라집니다. 자체 AI를 설계하는 사람에게만 유용합니다. (아직 문서화가 완전히 이루어지지 않았습니다.)"
+
+#. type: TP
+#: doc/man/wesnoth.6:500
+#, no-wrap
+msgid "B<--scenario>I<\\ value>"
+msgstr "B<--scenario>I<\\ value>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnoth.6:504
+msgid ""
+"selects a multiplayer scenario by id. The default scenario id is "
+"B<multiplayer_The_Freelands>."
+msgstr "ID로 멀티플레이 시나리오를 선택합니다. 기본 시나리오 ID는 B<multiplayer_The_Freelands>입니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:504
+#, no-wrap
+msgid "B<--side>I<\\ number>B<:>I<value>"
+msgstr "B<--side>I<\\ number>B<:>I<value>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnoth.6:509
+msgid ""
+"selects a faction of the current era for this side. The faction is chosen by "
+"an id. Factions are described in the data/multiplayer.cfg file."
+msgstr "이 진영의 현재 시대 세력을 선택합니다. 세력은 ID로 선택합니다. 세력은 data/multiplayer.cfg 파일에 설명되어 있습니다."
+
+#. type: TP
+#: doc/man/wesnoth.6:509
+#, no-wrap
+msgid "B<--turns>I<\\ value>"
+msgstr "B<--turns>I<\\ value>"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:512
+msgid ""
+"sets the number of turns for the chosen scenario. By default no turn limit "
+"is set."
+msgstr "선택한 시나리오의 턴 수를 설정합니다. 기본적으로 턴 제한은 설정되지 않습니다."
+
+#. type: SH
+#: doc/man/wesnoth.6:513 doc/man/wesnothd.6:286
+#, no-wrap
+msgid "EXIT STATUS"
+msgstr "종료 상태"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:518
+msgid ""
+"Normal exit status is 0.  An exit status of 1 indicates an (SDL, video, "
+"fonts, etc) initialization error. An exit status of 2 indicates an error "
+"with the command line options."
+msgstr "일반적인 종료 상태는 0입니다. 종료 상태 1은 SDL, 비디오, 글꼴 등의 초기화 오류를 나타냅니다. 종료 상태 2는 명령줄 옵션 오류를 나타냅니다."
+
+#. type: Plain text
+#: doc/man/wesnoth.6:528
+msgid ""
+"When running unit tests (withB<\\ -u>), the exit status is different. An "
+"exit status of 0 indicates that the test passed, and 1 indicates that the "
+"test failed. An exit status of 3 indicates that the test passed, but "
+"produced an invalid replay file. An exit status of 4 indicates that the test "
+"passed, but the replay produced errors. These latter two are only returned "
+"if B<--noreplaycheck> is not passed."
+msgstr "유닛 테스트를 실행할 때(withB<\\ -u>)는 종료 상태가 다릅니다. 종료 상태 0은 테스트 통과를, 1은 테스트 실패를 나타냅니다. 종료 상태 3은 테스트는 통과했지만 잘못된 리플레이 파일을 생성했음을 나타냅니다. 종료 상태 4는 테스트는 통과했지만 리플레이에서 오류가 발생했음을 나타냅니다. 뒤의 두 상태는 B<--noreplaycheck>를 전달하지 않은 경우에만 반환됩니다."
+
+# type: SH
+#. type: SH
+#: doc/man/wesnoth.6:529 doc/man/wesnothd.6:290
+#, no-wrap
+msgid "AUTHOR"
+msgstr "저자"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnoth.6:532
+msgid "Written by David White E<lt>davidnwhite@verizon.netE<gt>."
+msgstr "작성자: David White E<lt>davidnwhite@verizon.netE<gt>."
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnoth.6:534
+msgid ""
+"Edited by Nils Kneuper E<lt>crazy-ivanovic@gmx.netE<gt>, ott E<lt>ott@gaon."
+"netE<gt> and Soliton E<lt>soliton.de@gmail.comE<gt>."
+msgstr "편집자: Nils Kneuper E<lt>crazy-ivanovic@gmx.netE<gt>, ott E<lt>ott@gaon.netE<gt>, Soliton E<lt>soliton.de@gmail.comE<gt>."
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnoth.6:536
+msgid ""
+"This manual page was originally written by Cyril Bouthors "
+"E<lt>cyril@bouthors.orgE<gt>."
+msgstr "이 매뉴얼 페이지는 원래 Cyril Bouthors E<lt>cyril@bouthors.orgE<gt>가 작성했습니다."
+
+#. type: Plain text
+#: doc/man/wesnoth.6:538 doc/man/wesnothd.6:297
+msgid "Visit the official homepage: https://www.wesnoth.org/"
+msgstr "공식 홈페이지를 방문하십시오: https://www.wesnoth.org/"
+
+# type: SH
+#. type: SH
+#: doc/man/wesnoth.6:539 doc/man/wesnothd.6:298
+#, no-wrap
+msgid "COPYRIGHT"
+msgstr "저작권"
+
+#. type: Plain text
+#: doc/man/wesnoth.6:542 doc/man/wesnothd.6:301
+msgid "Copyright \\(co 2003-2024 David White E<lt>davidnwhite@verizon.netE<gt>"
+msgstr "저작권 \\(co 2003-2024 David White E<lt>davidnwhite@verizon.netE<gt>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnoth.6:545 doc/man/wesnothd.6:304
+msgid ""
+"This is Free Software; this software is licensed under the GPL version 2, as "
+"published by the Free Software Foundation.  There is NO warranty; not even "
+"for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE."
+msgstr "이것은 자유 소프트웨어입니다. 이 소프트웨어는 Free Software Foundation이 공표한 GPL 버전 2에 따라 사용 허가됩니다. 어떠한 보증도 제공하지 않으며, 상품성이나 특정 목적에 대한 적합성에 대한 보증도 제공하지 않습니다."
+
+# type: SH
+#. type: SH
+#: doc/man/wesnoth.6:546 doc/man/wesnothd.6:305
+#, no-wrap
+msgid "SEE ALSO"
+msgstr "관련 항목"
+
+#
+#
+#.  This program is free software; you can redistribute it and/or modify
+#.  it under the terms of the GNU General Public License as published by
+#.  the Free Software Foundation; either version 2 of the License, or
+#.  (at your option) any later version.
+#.  This program is distributed in the hope that it will be useful,
+#.  but WITHOUT ANY WARRANTY; without even the implied warranty of
+#.  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#.  GNU General Public License for more details.
+#.  You should have received a copy of the GNU General Public License
+#.  along with this program; if not, write to the Free Software
+#.  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+#. type: Plain text
+#: doc/man/wesnothd.6:15
+msgid "B<wesnothd>(6)"
+msgstr "B<wesnothd>(6)"
+
+# type: TH
+#. type: TH
+#: doc/man/wesnothd.6:16
+#, no-wrap
+msgid "WESNOTHD"
+msgstr "WESNOTHD"
+
+# type: TH
+#. type: TH
+#: doc/man/wesnothd.6:16
+#, no-wrap
+msgid "wesnothd"
+msgstr "wesnothd"
+
+# type: TH
+#. type: TH
+#: doc/man/wesnothd.6:16
+#, no-wrap
+msgid "Battle for Wesnoth multiplayer network daemon"
+msgstr "Battle for Wesnoth 멀티플레이 네트워크 데몬"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:23
+msgid "wesnothd - Battle for B<Wesnoth> multiplayer network daemon"
+msgstr "wesnothd - Battle for B<Wesnoth> 멀티플레이 네트워크 데몬"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:36
+msgid ""
+"B<wesnothd> [\\|B<-dv>\\|] [\\|B<-c> I<path>\\|] [\\|B<-p> I<port>\\|] [\\|"
+"B<-t> I<number>\\|] [\\|B<-T> I<number>\\|]"
+msgstr "B<wesnothd> [\\|B<-dv>\\|] [\\|B<-c> I<path>\\|] [\\|B<-p> I<port>\\|] [\\|B<-t> I<number>\\|] [\\|B<-T> I<number>\\|]"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:39
+msgid "B<wesnothd> B<-V>"
+msgstr "B<wesnothd> B<-V>"
+
+#. type: Plain text
+#: doc/man/wesnothd.6:44
+msgid ""
+"Manages Battle for Wesnoth multiplayer games. See https://www.wesnoth.org/"
+"wiki/ServerAdministration on what commands the server accepts via the "
+"wesnoth client (/query ...) or the fifo."
+msgstr "Battle for Wesnoth 멀티플레이 게임을 관리합니다. wesnoth 클라이언트(/query ...) 또는 FIFO를 통해 서버가 허용하는 명령은 https://www.wesnoth.org/wiki/ServerAdministration을 참조하십시오."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:47
+#, no-wrap
+msgid "B<-c\\ >I<path>B<,\\ --config>I<\\ path>"
+msgstr "B<-c\\ >I<path>B<,\\ --config>I<\\ path>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:52
+msgid ""
+"tells wesnothd where to find the config file to use. See the section "
+"B<SERVER CONFIG> below for the syntax. You can reload the config with "
+"sending SIGHUP to the server process."
+msgstr "wesnothd에 사용할 설정 파일의 위치를 알려 줍니다. 문법은 아래의 B<SERVER CONFIG> 절을 참조하십시오. 서버 프로세스에 SIGHUP을 보내 설정을 다시 불러올 수 있습니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:52
+#, no-wrap
+msgid "B<-d, --daemon>"
+msgstr "B<-d, --daemon>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:55
+msgid "runs wesnothd as a daemon."
+msgstr "wesnothd를 데몬으로 실행합니다."
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:58
+msgid "tells you what the command line options do."
+msgstr "명령줄 옵션의 기능을 표시합니다."
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:72
+msgid ""
+"sets the severity level of the log domains.  B<all> can be used to match any "
+"log domain. Available levels: B<error>,\\ B<warning>,\\ B<info>,\\ "
+"B<debug>.  By default the B<error> level is used and the B<info> level for "
+"the B<server> domain."
+msgstr "로그 도메인의 심각도 수준을 설정합니다. 모든 로그 도메인과 일치시키려면 B<all>을 사용할 수 있습니다. 사용할 수 있는 수준은 B<error>,\\ B<warning>,\\ B<info>,\\ B<debug>입니다. 기본적으로 B<error> 수준을 사용하며 B<info> 도메인에는 B<server> 수준을 사용합니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:72
+#, no-wrap
+msgid "B<-p\\ >I<port>B<,\\ --port>I<\\ port>"
+msgstr "B<-p\\ >I<port>B<,\\ --port>I<\\ port>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:77
+msgid ""
+"binds the server to the specified port. If no port is specified, port "
+"B<15000> will be used."
+msgstr "서버를 지정된 포트에 연결합니다. 포트를 지정하지 않으면 B<15000> 포트를 사용합니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:77
+#, no-wrap
+msgid "B<-t\\ >I<number>B<,\\ --threads>I<\\ number>"
+msgstr "B<-t\\ >I<number>B<,\\ --threads>I<\\ number>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:81
+msgid ""
+"sets the maximum number of waiting worker threads for network I/O to n "
+"(default: B<5>,\\ max:\\ B<30>)."
+msgstr "네트워크 I/O를 위해 대기할 작업자 스레드의 최대 수를 n으로 설정합니다(기본값: B<5>,\\ 최대: B<30>)."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:81
+#, no-wrap
+msgid "B<-T\\ >I<number>B<,\\ --max-threads>I<\\ number>"
+msgstr "B<-T\\ >I<number>B<,\\ --max-threads>I<\\ number>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:88
+msgid ""
+"sets the maximum number of worker threads that will be created.  If set to "
+"B<0> there will be no limit (default: B<0>)."
+msgstr "생성할 작업자 스레드의 최대 수를 설정합니다. B<0>으로 설정하면 제한이 없습니다(기본값: B<0>)."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:88
+#, no-wrap
+msgid "B<-V, --version>"
+msgstr "B<-V, --version>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:91
+msgid "shows version number and exits."
+msgstr "버전 번호를 표시하고 종료합니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:91
+#, no-wrap
+msgid "B<-v, --verbose>"
+msgstr "B<-v, --verbose>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:94
+msgid "turns debug logging on."
+msgstr "디버그 로깅을 켭니다."
+
+# type: SH
+#. type: SH
+#: doc/man/wesnothd.6:95
+#, no-wrap
+msgid "SERVER CONFIG"
+msgstr "서버 설정"
+
+# type: SS
+#. type: SS
+#: doc/man/wesnothd.6:97
+#, no-wrap
+msgid "The general syntax is:"
+msgstr "일반 문법은 다음과 같습니다:"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:101
+msgid "[I<tag>]"
+msgstr "[I<tag>]"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:103
+msgid "I<key>=\"I<value>\""
+msgstr "I<key>=\"I<value>\""
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:105
+msgid "I<key>=\"I<value>,I<value>,...\""
+msgstr "I<key>=\"I<value>,I<value>,...\""
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:107
+msgid "[/I<tag>]"
+msgstr "[/I<tag>]"
+
+# type: SS
+#. type: SS
+#: doc/man/wesnothd.6:108
+#, no-wrap
+msgid "Global keys:"
+msgstr "전역 키:"
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:110
+#, no-wrap
+msgid "B<allow_remote_shutdown>"
+msgstr "B<allow_remote_shutdown>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:114
+msgid ""
+"If set to B<no> (default), shut_down and restart requests are ignored unless "
+"they come from the fifo.  Set it to B<yes> to allow remote shutdown via a /"
+"query by an administrator."
+msgstr "B<no>로 설정하면(기본값) FIFO에서 온 요청이 아닌 한 종료 및 다시 시작 요청을 무시합니다. 관리자가 /query를 통해 원격으로 종료할 수 있게 하려면 B<yes>로 설정하십시오."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:114
+#, no-wrap
+msgid "B<ban_save_file>"
+msgstr "B<ban_save_file>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:118
+msgid ""
+"Full or relative path to a (gzip compressed) file that the server can read "
+"and write.  Bans will be saved to this file and read again on server start."
+msgstr "서버가 읽고 쓸 수 있는 (gzip으로 압축된) 파일의 절대 또는 상대 경로입니다. 차단 목록은 이 파일에 저장되며 서버가 시작할 때 다시 읽습니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:118
+#, no-wrap
+msgid "B<compress_stored_rooms>"
+msgstr "B<compress_stored_rooms>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:121
+msgid ""
+"Determines whether the rooms file should be read and written to in "
+"compressed form. Defaults to B<yes>."
+msgstr "방 파일을 압축된 형식으로 읽고 쓸지 결정합니다. 기본값은 B<yes>입니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:121
+#, no-wrap
+msgid "B<connections_allowed>"
+msgstr "B<connections_allowed>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:124
+msgid ""
+"The number of allowed connections from the same IP. B<0> means infinite. "
+"(default: B<5>)"
+msgstr "같은 IP에서 허용되는 연결 수입니다. B<0>은 무제한을 의미합니다. (기본값: B<5>)"
+
+#. type: TP
+#: doc/man/wesnothd.6:124
+#, no-wrap
+msgid "B<deny_unregistered_login>"
+msgstr "B<deny_unregistered_login>"
+
+#. type: Plain text
+#: doc/man/wesnothd.6:129
+msgid ""
+"Whether to prevent users who are not registered with the B<user_handler> "
+"being used from logging in. (default: false)"
+msgstr "B<user_handler>에 등록되지 않은 사용자의 로그인을 막을지 여부입니다. (기본값: false)"
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:129
+#, no-wrap
+msgid "B<disallow_names>"
+msgstr "B<disallow_names>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:136
+msgid ""
+"Names/nicks that are not accepted by the server. B<*> and B<?> from wildcard "
+"patterns are supported. See B<glob>(7)  for more details.  Default values "
+"(used if nothing is specified) are: B<*admin*,*admln*,*server*,ai,ai?,"
+"computer,human,network,player>."
+msgstr "서버에서 허용하지 않을 이름/별명입니다. wildcard 패턴의 B<*>와 B<?>를 지원합니다. 자세한 내용은 B<glob>(7)을 참조하십시오. 지정하지 않았을 때 사용하는 기본값은 다음과 같습니다: B<*admin*,*admln*,*server*,ai,ai?,computer,human,network,player>."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:136
+#, no-wrap
+msgid "B<fifo_path>"
+msgstr "B<fifo_path>"
+
+#. type: Plain text
+#: doc/man/wesnothd.6:140
+msgid ""
+"The path to the fifo you can echo server commands into (same as /query ... "
+"from wesnoth).  If not specified defaults to the compile-time path (default: "
+"B</var/run/wesnothd/socket>)."
+msgstr "서버 명령을 echo할 수 있는 FIFO의 경로입니다(wesnoth의 /query ...와 동일). 지정하지 않으면 컴파일 시 경로를 사용합니다(기본값: B</var/run/wesnothd/socket>)."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:140
+#, no-wrap
+msgid "B<max_messages>"
+msgstr "B<max_messages>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:143
+msgid ""
+"The number of allowed messages in B<messages_time_period>. (default: B<4>)"
+msgstr "B<messages_time_period> 동안 허용되는 메시지 수입니다. (기본값: B<4>)"
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:143
+#, no-wrap
+msgid "B<messages_time_period>"
+msgstr "B<messages_time_period>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:146
+msgid ""
+"The time period (in seconds) message flooding is detected in. (default: "
+"B<10> seconds)"
+msgstr "메시지 도배를 감지하는 시간 간격(초)입니다. (기본값: B<10>초)"
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:146
+#, no-wrap
+msgid "B<motd>"
+msgstr "B<motd>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:149
+msgid "The message of the day."
+msgstr "오늘의 메시지입니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:149
+#, no-wrap
+msgid "B<new_room_policy>"
+msgstr "B<new_room_policy>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:152
+msgid ""
+"Determines who can create new rooms on the server. Available values are "
+"B<everyone>, B<registered>, B<admin> and B<nobody>, and give the permission "
+"respectively to everyone, registered users, admin users or disables new room "
+"creation. Default value is B<everyone>."
+msgstr "서버에서 새 방을 만들 수 있는 사람을 결정합니다. 사용할 수 있는 값은 B<everyone>, B<registered>, B<admin>, B<nobody>이며, 각각 모든 사용자·등록 사용자·관리자에게 권한을 부여하거나 새 방 생성을 비활성화합니다. 기본값은 B<everyone>입니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:152
+#, no-wrap
+msgid "B<passwd>"
+msgstr "B<passwd>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:155
+msgid ""
+"The password used to gain admin privileges (via B</query admin >I<password>)."
+msgstr "관리자 권한을 얻는 데 사용하는 비밀번호입니다(B</query admin >I<password>를 통해)."
+
+#. type: TP
+#: doc/man/wesnothd.6:155
+#, no-wrap
+msgid "B<replay_save_path>"
+msgstr "B<replay_save_path>"
+
+#. type: Plain text
+#: doc/man/wesnothd.6:158
+msgid ""
+"The directory where the server stores game replays. (Don't forget the "
+"trailing /!) Defaults to `' which means the directory wesnothd was started "
+"in."
+msgstr "서버가 게임 리플레이를 저장하는 디렉터리입니다. (끝의 /를 잊지 마십시오!) 기본값은 `'이며, 이는 wesnothd가 시작된 디렉터리를 의미합니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:158
+#, no-wrap
+msgid "B<restart_command>"
+msgstr "B<restart_command>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:161
+msgid ""
+"The command that the server uses to start a new server process via the "
+"B<restart> command. (Can only be issued via the fifo. See the "
+"B<allow_remote_shutdown> setting.)"
+msgstr "서버가 B<restart> 명령을 통해 새 서버 프로세스를 시작할 때 사용하는 명령입니다. (FIFO를 통해서만 실행할 수 있습니다. B<allow_remote_shutdown> 설정을 참조하십시오.)"
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:161
+#, no-wrap
+msgid "B<room_save_file>"
+msgstr "B<room_save_file>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:164
+msgid ""
+"Path to a file where the room info should be stored. This file is read on "
+"server startup and written to later. If empty or not set, rooms are not "
+"loaded and not saved."
+msgstr "방 정보를 저장할 파일의 경로입니다. 이 파일은 서버 시작 시 읽고 이후에 기록합니다. 비어 있거나 설정되지 않으면 방을 불러오거나 저장하지 않습니다."
+
+#. type: TP
+#: doc/man/wesnothd.6:164
+#, no-wrap
+msgid "B<save_replays>"
+msgstr "B<save_replays>"
+
+#. type: Plain text
+#: doc/man/wesnothd.6:167
+msgid ""
+"Defines whether the server will automatically save replays of games. "
+"(default: B<false>)"
+msgstr "서버가 게임 리플레이를 자동으로 저장할지 정의합니다. (기본값: B<false>)"
+
+#. type: TP
+#: doc/man/wesnothd.6:167
+#, no-wrap
+msgid "B<tls_enabled>"
+msgstr "B<tls_enabled>"
+
+#. type: Plain text
+#: doc/man/wesnothd.6:170
+msgid "Enable use of TLS. If true, requires 3 following options to be set too."
+msgstr "TLS 사용을 활성화합니다. true인 경우 다음 3개 옵션도 설정해야 합니다."
+
+#. type: TP
+#: doc/man/wesnothd.6:170
+#, no-wrap
+msgid "B<tls_fullchain>"
+msgstr "B<tls_fullchain>"
+
+#. type: Plain text
+#: doc/man/wesnothd.6:173
+msgid "TLS full certificate chain in .pem format"
+msgstr ".pem 형식의 TLS 전체 인증서 체인"
+
+#. type: TP
+#: doc/man/wesnothd.6:173
+#, no-wrap
+msgid "B<tls_private_key>"
+msgstr "B<tls_private_key>"
+
+#. type: Plain text
+#: doc/man/wesnothd.6:176
+msgid "private key for TLS in .pem format"
+msgstr ".pem 형식의 TLS 개인 키"
+
+#. type: TP
+#: doc/man/wesnothd.6:176
+#, no-wrap
+msgid "B<tls_dh>"
+msgstr "B<tls_dh>"
+
+#. type: Plain text
+#: doc/man/wesnothd.6:179
+msgid ""
+"TLS DH parameters, as .pem file. Generate with B<openssl dhparam -out "
+"filename.pem 4096>"
+msgstr ".pem 파일 형식의 TLS DH 매개변수입니다. B<openssl dhparam -out filename.pem 4096>으로 생성하십시오."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:179
+#, no-wrap
+msgid "B<versions_accepted>"
+msgstr "B<versions_accepted>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:183
+msgid ""
+"A comma separated list of version strings to be accepted by the server. B<*> "
+"and B<?> from wildcard patterns are supported.  (defaults to the "
+"corresponding wesnoth version)"
+msgstr "서버에서 허용할 버전 문자열을 쉼표로 구분한 목록입니다. wildcard 패턴의 B<*>와 B<?>를 지원합니다. (기본값은 해당 Wesnoth 버전입니다.)"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:185
+msgid "Example: B<versions_accepted=\"*\"> accepts any version string."
+msgstr "예: B<versions_accepted=\"*\">는 모든 버전 문자열을 허용합니다."
+
+#. type: TP
+#: doc/man/wesnothd.6:185
+#, no-wrap
+msgid "B<id>"
+msgstr "B<id>"
+
+#. type: Plain text
+#: doc/man/wesnothd.6:188
+msgid ""
+"The ID of the server when using the database functionality to store game "
+"information. Generally is the major.minor version of accepted clients, such "
+"as 1.16 or 1.17."
+msgstr "게임 정보를 저장하는 데이터베이스 기능을 사용할 때의 서버 ID입니다. 일반적으로 1.16 또는 1.17과 같이 허용된 클라이언트의 주 버전.부 버전입니다."
+
+# type: SS
+#. type: SS
+#: doc/man/wesnothd.6:189
+#, no-wrap
+msgid "Global tags:"
+msgstr "전역 꼬리표:"
+
+#. type: Plain text
+#: doc/man/wesnothd.6:196
+msgid ""
+"B<[redirect]> A tag to specify a server to redirect certain client versions "
+"to. Is not used if B<versions_accepted> is not set."
+msgstr "B<[redirect]> 특정 클라이언트 버전을 전달할 서버를 지정하는 태그입니다. B<versions_accepted>가 설정되지 않으면 사용하지 않습니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:197
+#, no-wrap
+msgid "B<host>"
+msgstr "B<host>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:200
+msgid "The address of the server to redirect to."
+msgstr "전달할 서버의 주소입니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:200
+#, no-wrap
+msgid "B<port>"
+msgstr "B<port>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:203
+msgid "The port to connect to."
+msgstr "연결할 포트입니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:203
+#, no-wrap
+msgid "B<version>"
+msgstr "B<version>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:208
+msgid ""
+"A comma separated list of versions to redirect. Behaves the same way as "
+"B<versions_accepted> in regard to wildcard patterns."
+msgstr "전달할 버전을 쉼표로 구분한 목록입니다. wildcard 패턴에 관해서는 B<versions_accepted>와 같은 방식으로 작동합니다."
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:212
+msgid ""
+"B<[ban_time]> A tag to define convenient keywords for temporary ban time "
+"lengths."
+msgstr "B<[ban_time]> 임시 차단 기간을 편리한 키워드로 정의하는 태그입니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:213
+#, no-wrap
+msgid "B<name>"
+msgstr "B<name>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:216
+msgid "The name used to reference the ban time."
+msgstr "차단 기간을 참조할 때 사용하는 이름입니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:216
+#, no-wrap
+msgid "B<time>"
+msgstr "B<time>"
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:224
+msgid ""
+"The time length definition.  The format is: %d[%s[%d%s[...]]] where %s is s "
+"(seconds), m (minutes), h (hours), D (days), M (months) or Y (years) and %d "
+"is a number.  If no time modifier is given minutes (m) are assumed.  "
+"Example: B<time=\"1D12h30m\"> results in a ban time of 1 day, 12 hours and "
+"30 minutes."
+msgstr "기간 길이 정의입니다. 형식은 %d[%s[%d%s[...]]]이며, 여기서 %s는 s(초), m(분), h(시간), D(일), M(개월), Y(년)이고 %d는 숫자입니다. 기간 단위가 지정되지 않으면 분(m)으로 간주합니다. 예: B<time=\"1D12h30m\">은 1일 12시간 30분의 차단 기간을 지정합니다."
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:230
+msgid ""
+"B<[proxy]> A tag to tell the server to act as a proxy and forward the "
+"connected client's requests to the specified server.  Accepts the same keys "
+"as B<[redirect]>."
+msgstr "B<[proxy]> 서버가 프록시로 동작하며 연결된 클라이언트의 요청을 지정된 서버로 전달하도록 하는 태그입니다. B<[redirect]>와 같은 키를 사용합니다."
+
+#. type: Plain text
+#: doc/man/wesnothd.6:241
+msgid ""
+"B<[user_handler]> Configures the user handler. If no B<[user_handler]> "
+"section is present in the configuration the server will run without any nick "
+"registration service. All additional tables that are needed for the "
+"B<forum_user_handler> to function can be found in table_definitions.sql in "
+"the Wesnoth source repository. Requires mysql support enabled. For cmake "
+"this is B<ENABLE_MYSQL> and for scons this is B<forum_user_handler.>"
+msgstr "B<[user_handler]> 사용자 처리기를 설정합니다. 설정에 B<[user_handler]> 섹션이 없으면 서버는 별명 등록 서비스 없이 실행됩니다. B<forum_user_handler>가 작동하는 데 필요한 추가 테이블은 Wesnoth 소스 저장소의 table_definitions.sql에서 찾을 수 있습니다. mysql 지원을 활성화해야 합니다. cmake에서는 B<ENABLE_MYSQL>이고 scons에서는 B<forum_user_handler.>입니다."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:242
+#, no-wrap
+msgid "B<db_host>"
+msgstr "B<db_host>"
+
+#. type: Plain text
+#: doc/man/wesnothd.6:245
+msgid "The hostname of the database server"
+msgstr "데이터베이스 서버의 호스트 이름"
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:245
+#, no-wrap
+msgid "B<db_name>"
+msgstr "B<db_name>"
+
+#. type: Plain text
+#: doc/man/wesnothd.6:248
+msgid "The name of the database"
+msgstr "데이터베이스 이름"
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:248
+#, no-wrap
+msgid "B<db_user>"
+msgstr "B<db_user>"
+
+#. type: Plain text
+#: doc/man/wesnothd.6:251
+msgid "The name of the user under which to log into the database"
+msgstr "데이터베이스에 로그인할 때 사용할 사용자 이름"
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:251
+#, no-wrap
+msgid "B<db_password>"
+msgstr "B<db_password>"
+
+#. type: Plain text
+#: doc/man/wesnothd.6:254
+msgid "This user's password"
+msgstr "이 사용자의 비밀번호"
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:254
+#, no-wrap
+msgid "B<db_users_table>"
+msgstr "B<db_users_table>"
+
+#. type: Plain text
+#: doc/man/wesnothd.6:257
+msgid ""
+"The name of the table in which your phpbb forum saves its user data. Most "
+"likely this will be E<lt>table-prefixE<gt>_users (e.g. phpbb3_users)."
+msgstr "phpbb 포럼이 사용자 데이터를 저장하는 테이블 이름입니다. 대부분 E<lt>table-prefixE<gt>_users 형식입니다(예: phpbb3_users)."
+
+# type: TP
+#. type: TP
+#: doc/man/wesnothd.6:257
+#, no-wrap
+msgid "B<db_extra_table>"
+msgstr "B<db_extra_table>"
+
+#. type: Plain text
+#: doc/man/wesnothd.6:260
+msgid ""
+"The name of the table in which wesnothd will save its own data about users."
+msgstr "wesnothd가 사용자에 관한 자체 데이터를 저장할 테이블 이름입니다."
+
+#. type: TP
+#: doc/man/wesnothd.6:260
+#, no-wrap
+msgid "B<db_game_info_table>"
+msgstr "B<db_game_info_table>"
+
+#. type: Plain text
+#: doc/man/wesnothd.6:263
+msgid ""
+"The name of the table in which wesnothd will save its own data about games."
+msgstr "wesnothd가 게임에 관한 자체 데이터를 저장할 테이블 이름입니다."
+
+#. type: TP
+#: doc/man/wesnothd.6:263
+#, no-wrap
+msgid "B<db_game_player_info_table>"
+msgstr "B<db_game_player_info_table>"
+
+#. type: Plain text
+#: doc/man/wesnothd.6:266
+msgid ""
+"The name of the table in which wesnothd will save its own data about the "
+"players in a game."
+msgstr "wesnothd가 게임 참가자에 관한 자체 데이터를 저장할 테이블 이름입니다."
+
+#. type: TP
+#: doc/man/wesnothd.6:266
+#, no-wrap
+msgid "B<db_game_modification_info_table>"
+msgstr "B<db_game_modification_info_table>"
+
+#. type: Plain text
+#: doc/man/wesnothd.6:269
+msgid ""
+"The name of the table in which wesnothd will save its own data about the "
+"modifications used in a game."
+msgstr "wesnothd가 게임에서 사용된 수정 사항에 관한 자체 데이터를 저장할 테이블 이름입니다."
+
+#. type: TP
+#: doc/man/wesnothd.6:269
+#, no-wrap
+msgid "B<db_user_group_table>"
+msgstr "B<db_user_group_table>"
+
+#. type: Plain text
+#: doc/man/wesnothd.6:272
+msgid ""
+"The name of the table in which your phpbb forum saves its user group data. "
+"Most likely this will be E<lt>table-prefixE<gt>_user_group (e.g. "
+"phpbb3_user_group)."
+msgstr "phpbb 포럼이 사용자 그룹 데이터를 저장하는 테이블 이름입니다. 대부분 E<lt>table-prefixE<gt>_user_group 형식입니다(예: phpbb3_user_group)."
+
+#. type: TP
+#: doc/man/wesnothd.6:272
+#, no-wrap
+msgid "B<db_connection_history_table>"
+msgstr "B<db_connection_history_table>"
+
+#. type: Plain text
+#: doc/man/wesnothd.6:275
+msgid ""
+"The name of the table in which to store login/logout times. Also used for "
+"matching IPs to users and vice versa."
+msgstr "로그인 및 로그아웃 시간을 저장할 테이블 이름입니다. IP를 사용자와 연결하거나 그 반대로 연결하는 데에도 사용합니다."
+
+#. type: TP
+#: doc/man/wesnothd.6:275
+#, no-wrap
+msgid "B<db_topics_table>"
+msgstr "B<db_topics_table>"
+
+#. type: Plain text
+#: doc/man/wesnothd.6:278
+msgid ""
+"The name of the table in which your phpbb forum saves its topic (thread) "
+"information. Most likely this will be E<lt>table-prefixE<gt>_topics (e.g. "
+"phpbb3_topics)."
+msgstr "phpbb 포럼이 주제(스레드) 정보를 저장하는 테이블 이름입니다. 대부분 E<lt>table-prefixE<gt>_topics 형식입니다(예: phpbb3_topics)."
+
+#. type: TP
+#: doc/man/wesnothd.6:278
+#, no-wrap
+msgid "B<db_banlist_table>"
+msgstr "B<db_banlist_table>"
+
+#. type: Plain text
+#: doc/man/wesnothd.6:281
+msgid ""
+"The name of the table in which your phpbb forum saves its user bans data. "
+"Most likely this will be E<lt>table-prefixE<gt>_banlist (e.g. "
+"phpbb3_banlist)."
+msgstr "phpbb 포럼이 사용자 차단 정보를 저장하는 테이블 이름입니다. 대부분 E<lt>table-prefixE<gt>_banlist 형식입니다(예: phpbb3_banlist)."
+
+#. type: TP
+#: doc/man/wesnothd.6:281
+#, no-wrap
+msgid "B<mp_mod_group>"
+msgstr "B<mp_mod_group>"
+
+#. type: Plain text
+#: doc/man/wesnothd.6:284
+msgid ""
+"The ID of the forum group to be considered as having moderation authority."
+msgstr "조정 권한이 있는 것으로 간주할 포럼 그룹의 ID입니다."
+
+#. type: Plain text
+#: doc/man/wesnothd.6:289
+msgid ""
+"Normal exit status is 0 when the server was properly shutdown. An exit "
+"status of 2 indicates an error with the command line options."
+msgstr "서버가 정상적으로 종료되면 종료 상태는 0입니다. 종료 상태 2는 명령줄 옵션 오류를 나타냅니다."
+
+# type: Plain text
+#. type: Plain text
+#: doc/man/wesnothd.6:295
+msgid ""
+"Written by David White E<lt>davidnwhite@verizon.netE<gt>.  Edited by Nils "
+"Kneuper E<lt>crazy-ivanovic@gmx.netE<gt>, ott E<lt>ott@gaon.netE<gt>, "
+"Soliton E<lt>soliton.de@gmail.comE<gt> and Thomas Baumhauer E<lt>thomas."
+"baumhauer@gmail.comE<gt>.  This manual page was originally written by Cyril "
+"Bouthors E<lt>cyril@bouthors.orgE<gt>."
+msgstr "작성자: David White E<lt>davidnwhite@verizon.netE<gt>. 편집자: Nils Kneuper E<lt>crazy-ivanovic@gmx.netE<gt>, ott E<lt>ott@gaon.netE<gt>, Soliton E<lt>soliton.de@gmail.comE<gt>, Thomas Baumhauer E<lt>thomas.baumhauer@gmail.comE<gt>. 이 매뉴얼 페이지는 원래 Cyril Bouthors E<lt>cyril@bouthors.orgE<gt>가 작성했습니다."
+
+#. type: Plain text
+#: doc/man/wesnothd.6:308
+msgid "B<wesnoth>(6)"
+msgstr "B<wesnoth>(6)"

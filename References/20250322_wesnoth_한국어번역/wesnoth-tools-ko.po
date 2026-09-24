@@ -1,0 +1,533 @@
+# #-#-#-#-#  wesnoth-tools.py.pot (PACKAGE VERSION)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Wesnoth development team
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# ks k, 2025
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2025-03-17 04:21 UTC\n"
+"PO-Revision-Date: 2024-04-07 10:57+0000\n"
+"Last-Translator: ks k, 2025\n"
+"Language-Team: Korean (https://app.transifex.com/kmshts/teams/4548/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: data/tools/GUI.pyw:78
+msgid "Open a Graphical User Interface (GUI) to WML Tools"
+msgstr "WML 도구에 대한 그래픽 사용자 인터페이스(GUI)를 열기"
+
+#: data/tools/GUI.pyw:82
+msgid ""
+"Launch GUI.pyw in the specified language. Language code is expected as a "
+"POSIX locale name, refer to gettext.wesnoth.org for a full list."
+msgstr ""
+"`지정된 언어로 GUI.pyw를 실행합니다. 언어 코드는 POSIX 로케일 이름으로 예상됩니다. 전체 목록은 "
+"gettext.wesnoth.org를 참조하세요."
+
+#: data/tools/GUI.pyw:88 data/tools/GUI.pyw:102 data/tools/GUI.pyw:1411
+#: data/tools/GUI.pyw:1460 data/tools/GUI.pyw:1503 data/tools/GUI.pyw:1532
+#: data/tools/GUI.pyw:1568 data/tools/GUI.pyw:1592 data/tools/GUI.pyw:1635
+#: data/tools/GUI.pyw:1654 data/tools/GUI.pyw:1980
+msgid "Error"
+msgstr "오류"
+
+#. TRANSLATORS: {0} is "translations", the directory where compiled
+#. translation files (.mo) are stored.
+#: data/tools/GUI.pyw:90
+#, python-brace-format
+msgid ""
+"‘{0}’ directory not found. Please run the GUI.pyw program packaged with the "
+"Wesnoth installation."
+msgstr "'{0}' 디렉터리를 찾을 수 없습니다. 웨스노스 설치와 함께 패키지된 GUI.pyw 프로그램을 실행하세요."
+
+#. TRANSLATORS: {0} is the language argument entered by the user.
+#: data/tools/GUI.pyw:104
+#, python-brace-format
+msgid "Locale {0} not recognized."
+msgstr "로케일 {0} 을(를) 인식할 수 없습니다."
+
+#. TRANSLATORS: {0} is the name of command being executed.
+#: data/tools/GUI.pyw:385
+#, python-brace-format
+msgid ""
+"Running: {0}\n"
+"Please wait..."
+msgstr ""
+"실행 중: {0}\n"
+"기다리세요..."
+
+#: data/tools/GUI.pyw:399
+msgid "Terminate script"
+msgstr "스크립트를 종료"
+
+#: data/tools/GUI.pyw:450
+msgid "Cut"
+msgstr "잘라내기"
+
+#: data/tools/GUI.pyw:455
+msgid "Copy"
+msgstr "복사"
+
+#: data/tools/GUI.pyw:461
+msgid "Paste"
+msgstr "붙여넣기"
+
+#: data/tools/GUI.pyw:467
+msgid "Select All"
+msgstr "모두 선택"
+
+#: data/tools/GUI.pyw:540
+msgid "Working directory"
+msgstr "작업 디렉토리"
+
+#: data/tools/GUI.pyw:552 data/tools/GUI.pyw:595
+msgid "Browse..."
+msgstr "찾아보기..."
+
+#. TRANSLATORS: Clear button for clearing the directory text box.
+#: data/tools/GUI.pyw:559 data/tools/GUI.pyw:602
+msgid "Clear"
+msgstr "지움"
+
+#: data/tools/GUI.pyw:652
+msgid "wmllint mode"
+msgstr "WML 보푸라기 교정 모드"
+
+#. TRANSLATORS: Normal run mode for the WML tool.
+#: data/tools/GUI.pyw:659 data/tools/GUI.pyw:1079
+msgid "Normal"
+msgstr "일반"
+
+#. TRANSLATORS: Tooltip explanation for normal run mode.
+#: data/tools/GUI.pyw:668 data/tools/GUI.pyw:1088
+msgid "Perform conversion and save changes to file"
+msgstr "변환을 수행하고 변경 사항을 파일에 저장"
+
+#: data/tools/GUI.pyw:671 data/tools/GUI.pyw:1091
+msgid "Dry run"
+msgstr "시험 실행"
+
+#. TRANSLATORS: Tooltip explanation for dry run mode.
+#: data/tools/GUI.pyw:680 data/tools/GUI.pyw:1100
+msgid "Perform conversion without saving changes to file"
+msgstr "파일에 변경 사항을 저장하지 않고 변환을 수행"
+
+#: data/tools/GUI.pyw:683
+msgid "Clean"
+msgstr "지움"
+
+#. TRANSLATORS: Tooltip explanation for clean mode.
+#: data/tools/GUI.pyw:692
+msgid "Delete back-up files"
+msgstr "백업 파일을 삭제"
+
+#: data/tools/GUI.pyw:695
+msgid "Diff"
+msgstr "차이점"
+
+#. TRANSLATORS: Tooltip explanation for diff run mode.
+#: data/tools/GUI.pyw:704
+msgid "Show differences in converted files"
+msgstr "변환된 파일의 차이점을 표시"
+
+#: data/tools/GUI.pyw:707
+msgid "Revert"
+msgstr "되돌림"
+
+#. TRANSLATORS: Tooltip explanation for revert run mode.
+#: data/tools/GUI.pyw:716
+msgid "Revert conversions using back-up files"
+msgstr "백업 파일을 사용하여 변환을 되돌림"
+
+#: data/tools/GUI.pyw:719 data/tools/GUI.pyw:1103
+msgid "Verbosity level"
+msgstr "자세한 수준"
+
+#. TRANSLATORS: Verbosity level.
+#: data/tools/GUI.pyw:727 data/tools/GUI.pyw:1111
+msgid "Terse"
+msgstr "간결함"
+
+#. TRANSLATORS: Verbosity level.
+#: data/tools/GUI.pyw:738
+msgid "Show changes"
+msgstr "변경 사항을 표시"
+
+#. TRANSLATORS: Verbosity level.
+#: data/tools/GUI.pyw:748
+msgid "Name files before processing"
+msgstr "처리하기 전에 파일 이름을 지정"
+
+#. TRANSLATORS: Verbosity level.
+#: data/tools/GUI.pyw:758
+msgid "Show parse details"
+msgstr "구문 분석 상세 정보를 표시"
+
+#: data/tools/GUI.pyw:767
+msgid "wmllint options"
+msgstr "WML 보푸라기 교정 선택사항"
+
+#. TRANSLATORS: EOL = Special characters marking 'end-of-line'.
+#: data/tools/GUI.pyw:775
+msgid "Convert EOL characters to Unix format"
+msgstr "EOL 문자를 유닉스 형식으로 변환"
+
+#. TRANSLATORS: 'side=' in this context refers to WML and should not be
+#. translated.
+#: data/tools/GUI.pyw:786
+msgid "Warn about tags without side= keys"
+msgstr "side= keys가 없는 태그에 대해 경고합니다"
+
+#: data/tools/GUI.pyw:795
+msgid "Disable checks for unknown units"
+msgstr "알 수 없는 유닛에 대한 검사를 사용 안함 설정"
+
+#: data/tools/GUI.pyw:804
+msgid "Disable spellchecking"
+msgstr "맞춤법 검사를 사용 안함 설정"
+
+#: data/tools/GUI.pyw:813
+msgid "Skip core directory"
+msgstr "핵심 디렉토리를 건너뛰기"
+
+#: data/tools/GUI.pyw:840
+msgid "wmlscope options"
+msgstr "WML 범위 선택사항"
+
+#: data/tools/GUI.pyw:852
+msgid "Check for duplicate macro definitions"
+msgstr "중복된 매크로 정의가 있는지 확인"
+
+#: data/tools/GUI.pyw:861
+msgid "Check for duplicate resource files"
+msgstr "중복된 자원 파일이 있는지 확인"
+
+#: data/tools/GUI.pyw:870
+msgid "Make definition list"
+msgstr "정의 목록을 만듬"
+
+#: data/tools/GUI.pyw:879
+msgid "List files that will be processed"
+msgstr "처리할 파일 목록"
+
+#: data/tools/GUI.pyw:888
+msgid "Report unresolved macro references"
+msgstr "해결되지 않은 매크로 참조를 보고"
+
+#: data/tools/GUI.pyw:897
+msgid "Extract help from macro definition comments"
+msgstr "매크로 정의 주석에서 도움말을 추출"
+
+#: data/tools/GUI.pyw:906
+msgid "Report all macros with untyped formals"
+msgstr "모든 지정하지 않는 매개변수를 가진 매크로를 보고"
+
+#: data/tools/GUI.pyw:915
+msgid "Show progress"
+msgstr "진행 상황을 표시"
+
+#: data/tools/GUI.pyw:935 data/tools/GUI.pyw:1147
+msgid "Exclude file names matching regular expression:"
+msgstr "정규식과 일치하는 파일 이름을 제외:"
+
+#: data/tools/GUI.pyw:953
+msgid "Exclude file names not matching regular expression:"
+msgstr "정규식과 일치하지 않는 파일 이름을 제외:"
+
+#. TRANSLATORS: 'n' in this context refers to number, as in 'n number of
+#. files'.
+#: data/tools/GUI.pyw:973
+msgid "Report only on macros referenced in exactly n files:"
+msgstr "정확히 n개의 파일에서 참조된 매크로에서만 보고:"
+
+#: data/tools/GUI.pyw:993
+msgid "Report macro definitions and usages in file:"
+msgstr "파일에서  매크로 정의 및 사용법을 보고:"
+
+#: data/tools/GUI.pyw:1011
+msgid "Allow unused macros with names matching regular expression:"
+msgstr "정규식과 일치하는 이름을 가진 사용되지 않는 매크로를 허용:"
+
+#: data/tools/GUI.pyw:1073
+msgid "wmlindent mode"
+msgstr "WML 들여쓰기 모드"
+
+#. TRANSLATORS: Verbosity level.
+#: data/tools/GUI.pyw:1121
+msgid "Verbose"
+msgstr "자세히"
+
+#. TRANSLATORS: Verbosity level.
+#: data/tools/GUI.pyw:1131
+msgid "Report unchanged files"
+msgstr "변경되지 않은 파일을 보고"
+
+#: data/tools/GUI.pyw:1140
+msgid "wmlindent options"
+msgstr "WML 들여쓰기 선택사항"
+
+#. TRANSLATORS: Option to run 'quietly'.
+#: data/tools/GUI.pyw:1167
+msgid "Quiet mode"
+msgstr "정숙 모드"
+
+#. TRANSLATORS: Tooltip explanation for quiet option.
+#: data/tools/GUI.pyw:1175
+msgid "Do not generate output messages"
+msgstr "출력 메시지를 생성하지 않음"
+
+#: data/tools/GUI.pyw:1195
+msgid "Output directory:"
+msgstr "출력 디렉토리:"
+
+#: data/tools/GUI.pyw:1201
+msgid "Options"
+msgstr "선택 사항"
+
+#: data/tools/GUI.pyw:1206
+msgid "Scan subdirectories"
+msgstr "하위 디렉토리들을 검사"
+
+#: data/tools/GUI.pyw:1211
+msgid "Show optional warnings"
+msgstr "선택적 경고를 표시"
+
+#. TRANSLATORS: Also called "Needs work".
+#: data/tools/GUI.pyw:1217
+msgid "Mark all strings as fuzzy"
+msgstr "모든 문자열을 퍼지로 표시"
+
+#: data/tools/GUI.pyw:1221
+msgid "Advanced options"
+msgstr "고급 선택사항"
+
+#: data/tools/GUI.pyw:1225
+msgid "Package version"
+msgstr "꾸러미 판번호"
+
+#: data/tools/GUI.pyw:1242
+msgid "Initial textdomain:"
+msgstr "초기 글자 영역:"
+
+#: data/tools/GUI.pyw:1288 data/tools/GUI.pyw:1394
+msgid "Run wmllint"
+msgstr "WML 보푸라기를 실행"
+
+#: data/tools/GUI.pyw:1295
+msgid "Save as text..."
+msgstr "글자로 저장..."
+
+#: data/tools/GUI.pyw:1302
+msgid "Clear output"
+msgstr "출력물을 지움"
+
+#: data/tools/GUI.pyw:1309
+msgid "About..."
+msgstr "프로그램 정보..."
+
+#: data/tools/GUI.pyw:1316
+msgid "Exit"
+msgstr "종료"
+
+#: data/tools/GUI.pyw:1332 data/tools/GUI.pyw:1466
+msgid "wmllint"
+msgstr "WML 보푸라기"
+
+#: data/tools/GUI.pyw:1336 data/tools/GUI.pyw:1538
+msgid "wmlscope"
+msgstr "WML 범위"
+
+#: data/tools/GUI.pyw:1340 data/tools/GUI.pyw:1574
+msgid "wmlindent"
+msgstr "WML 들여쓰기"
+
+#: data/tools/GUI.pyw:1344 data/tools/GUI.pyw:1624
+msgid "wmlxgettext"
+msgstr "wmlxgettext"
+
+#: data/tools/GUI.pyw:1347
+msgid "Output"
+msgstr "출력"
+
+#: data/tools/GUI.pyw:1397
+msgid "Run wmlscope"
+msgstr "WML 범위를 실행"
+
+#: data/tools/GUI.pyw:1400
+msgid "Run wmlindent"
+msgstr "WML 들여쓰기를 실행"
+
+#: data/tools/GUI.pyw:1403
+msgid "Run wmlxgettext"
+msgstr "wmlxgettext를 실행"
+
+#: data/tools/GUI.pyw:1411
+msgid ""
+"No directory selected.\n"
+"\n"
+"Please select a directory or disable the \"Skip core directory\" option."
+msgstr ""
+"선택한 디렉토리가 없습니다.\n"
+"\n"
+"디렉토리를 선택하거나 \"핵심 디렉토리를 건너뛰기\" 선택사항을 사용 안함으로 설정하십시오."
+
+#: data/tools/GUI.pyw:1446 data/tools/GUI.pyw:1518
+msgid ""
+"Core directory or one of its subdirectories selected in the add-on selection box.\n"
+"\n"
+"The tool will be run only on the Wesnoth core directory."
+msgstr ""
+"부가 기능 선택 상자에서 선택한 핵심 디렉토리 또는 해당 하위 디렉토리 중 하나입니다.\n"
+"\n"
+"이 도구는 웨스노스 핵심 디렉토리에서만 실행됩니다."
+
+#: data/tools/GUI.pyw:1446 data/tools/GUI.pyw:1454 data/tools/GUI.pyw:1518
+#: data/tools/GUI.pyw:1526 data/tools/GUI.pyw:1561 data/tools/GUI.pyw:1587
+#: data/tools/GUI.pyw:1606
+msgid "Warning"
+msgstr "경고"
+
+#: data/tools/GUI.pyw:1454 data/tools/GUI.pyw:1526
+msgid ""
+"No directory selected.\n"
+"\n"
+"The tool will be run only on the Wesnoth core directory."
+msgstr ""
+"선택한 디렉토리가 없습니다.\n"
+"\n"
+"이 도구는 웨스노스 핵심 디렉토리에서만 실행됩니다."
+
+#: data/tools/GUI.pyw:1460 data/tools/GUI.pyw:1532 data/tools/GUI.pyw:1568
+#: data/tools/GUI.pyw:1592
+msgid "The selected directory does not exist."
+msgstr "선택한 디렉토리가 없습니다."
+
+#: data/tools/GUI.pyw:1503
+msgid "Invalid value. Value must be an integer in the range 0-999."
+msgstr "잘못된 값입니다. 값은 0-999 범위의 정수여야 합니다."
+
+#: data/tools/GUI.pyw:1561
+msgid ""
+"No directory selected.\n"
+"\n"
+"The tool will be run on the Wesnoth core directory."
+msgstr ""
+"선택한 디렉토리가 없습니다.\n"
+"\n"
+"이 도구는 웨스노스 핵심 디렉토리에서 실행됩니다."
+
+#: data/tools/GUI.pyw:1587
+msgid ""
+"No directory selected.\n"
+"\n"
+"The tool will not be run."
+msgstr ""
+"선택한 디렉토리가 없습니다.\n"
+"\n"
+"도구가 실행되지 않습니다."
+
+#. TRANSLATORS: Dialogue box title.
+#: data/tools/GUI.pyw:1599
+msgid "Overwrite Confirmation"
+msgstr "덮어쓰기 확인"
+
+#. TRANSLATORS: {0} is a placeholder for a file name, and not meant to be
+#. modified.
+#: data/tools/GUI.pyw:1601
+#, python-brace-format
+msgid ""
+"File {0} already exists.\n"
+"Do you want to overwrite it?"
+msgstr ""
+"파일 {0} 이(가) 이미 있습니다.\n"
+"덮어쓰겠습니까?"
+
+#: data/tools/GUI.pyw:1606
+msgid ""
+"No output file selected.\n"
+"\n"
+"The tool will not be run."
+msgstr ""
+"선택한 출력 파일이 없습니다.\n"
+"\n"
+"도구가 실행되지 않습니다."
+
+#: data/tools/GUI.pyw:1635
+#, python-brace-format
+msgid ""
+"There was an error while executing {0}.\n"
+"\n"
+"Error code: {1}"
+msgstr ""
+"{0} 을(를) 실행하는 동안 오류가 발생했습니다.\n"
+"\n"
+"오류 코드: {1}"
+
+#: data/tools/GUI.pyw:1646
+msgid "Text file"
+msgstr "글자 파일"
+
+#: data/tools/GUI.pyw:1654
+#, python-brace-format
+msgid ""
+"Error while writing to:\n"
+"{0}\n"
+"\n"
+"Error code: {1}\n"
+"\n"
+"{2}"
+msgstr ""
+"다음 주소에 쓰는 중 오류 발생:\n"
+"{0}\n"
+"\n"
+"오류 코드: {1}\n"
+"\n"
+"{2}"
+
+#: data/tools/GUI.pyw:1671
+msgid "About Maintenance Tools GUI"
+msgstr "유지 관리 도구 GUI 정보"
+
+#. TRANSLATORS: {0} is a placeholder for Wesnoth's current version, and not
+#. meant to be modified.
+#: data/tools/GUI.pyw:1673
+#, python-brace-format
+msgid ""
+"© Elvish_Hunter, 2014-2025\n"
+"\n"
+"Version: {0}\n"
+"\n"
+"Part of The Battle for Wesnoth project and released under the GNU GPL v2 license\n"
+"\n"
+"Icons are taken from the Tango Desktop Project (http://tango.freedesktop.org), and are released in the Public Domain."
+msgstr ""
+"© Elvish_Hunter, 2014-2025\n"
+"\n"
+"판번호: {0}\n"
+"\n"
+"웨스노스의 전쟁 프로젝트의 일부이며 GNU GPL v2 허가서로 출시되었습니다.\n"
+"\n"
+"아이콘은 Tango 데스크톱 프로젝트(http://tango.freedesktop.org)에서 가져왔고, 공개 도메인에서 출시됩니다."
+
+#. TRANSLATORS: Dialogue box title.
+#: data/tools/GUI.pyw:1687
+msgid "Exit Confirmation"
+msgstr "종료 확인"
+
+#: data/tools/GUI.pyw:1688
+msgid "Do you really want to quit?"
+msgstr "정말로 종료하시겠습니까?"
+
+#: data/tools/GUI.pyw:1980
+msgid "This application must be placed into the wesnoth/data/tools directory."
+msgstr "이 응용프로그램은 wesnoth/data/tools 디렉토리에 있어야 합니다."

@@ -1,0 +1,3431 @@
+# 
+# Translators:
+# ks k, 2025
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2025-03-17 04:21 UTC\n"
+"PO-Revision-Date: 2022-09-01 04:55+0000\n"
+"Last-Translator: ks k, 2025\n"
+"Language-Team: Korean (https://app.transifex.com/kmshts/teams/4548/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. [era]: id=world_conquest_era
+#: data/campaigns/World_Conquest/_main.cfg:41
+msgid "World Conquest"
+msgstr "세계 정복"
+
+#. [era]: id=world_conquest_era
+#: data/campaigns/World_Conquest/_main.cfg:42
+msgid ""
+"Units are defined as pairs in recruit list: Every time a unit is recruited, it is replaced by its pair. This era is designed to be balanced playing World Conquest II.\n"
+"Includes an in-game help to know pairs status, with a right-click on an empty hex."
+msgstr ""
+"유닛은 모집 목록에서 짝으로 정의됩니다. 유닛을 모집할 때마다 해당 짝으로 대체됩니다. 이 시대는 '2차 세계 정복'에서 균형 잡힌 플레이를 위해 설계되었습니다.\n"
+"빈 육각형에서 오른쪽 클릭을 하면 짝의 상태를 확인할 수 있는 게임 내 도움말이 포함되어 있습니다."
+
+#. [trait]: id=heroic
+#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:57
+msgid "heroic"
+msgstr "영웅적인"
+
+#. [trait]: id=heroic
+#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:58
+msgid "female^heroic"
+msgstr "여성^영웅적인"
+
+#. [trait]: id=expert
+#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:95
+msgid "expert"
+msgstr "숙련된"
+
+#. [trait]: id=expert
+#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:96
+msgid "female^expert"
+msgstr "여성^숙련된"
+
+#. [trait]: id=epic
+#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:112
+msgid "epic"
+msgstr "전설적인"
+
+#. [trait]: id=epic
+#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:113
+msgid "female^epic"
+msgstr "여성^전설적인"
+
+#. [trait]: id=epic
+#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:114
+msgid "Always AMLA with 60 XP and raises maximum health by 6 HP."
+msgstr "경험치 60을 획득하면 항상 AMLA(레벨 초과 성장)하며, 최대 체력이 6 증가합니다."
+
+#. [advancement]: id=amla_default
+#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:150
+msgid "Max HP bonus +6%"
+msgstr "최대 체력 +6% 증가"
+
+#. [trait]: id=legendary_zombie
+#. [trait]: id=legendary_goblin
+#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:173
+#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:217
+msgid "legendary"
+msgstr "전설적인"
+
+#. [trait]: id=legendary_zombie
+#. [trait]: id=legendary_goblin
+#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:174
+#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:218
+msgid "female^legendary"
+msgstr "여성^전설적인"
+
+#. [trait]: id=legendary_zombie
+#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:175
+msgid "Special advancement to Chocobone enabled."
+msgstr "초코본으로 특별 승급이 가능합니다."
+
+#. [trait]: id=legendary_goblin
+#: data/campaigns/World_Conquest/era/campaign/heroes.cfg:219
+msgid "Special advancement to Goblin Pillager enabled."
+msgstr "고블린 약탈자로 특별 승급이 가능합니다."
+
+#. [multiplayer_side]: id=The Alliance, type=random
+#: data/campaigns/World_Conquest/era/factions/The_Alliance.cfg:6
+msgid "The Alliance"
+msgstr "동맹"
+
+#. [world_conquest_data]
+#: data/campaigns/World_Conquest/era/factions/The_Alliance.cfg:16
+msgid "Young Ogre, Undead and Northerners"
+msgstr "어린 오우거, 언데드, 노던너"
+
+#. [multiplayer_side]: id=The_Artisans, type=random
+#: data/campaigns/World_Conquest/era/factions/The_Artisans.cfg:8
+msgid "The Artisans"
+msgstr "장인"
+
+#. [multiplayer_side]: id=The Cult, type=random
+#: data/campaigns/World_Conquest/era/factions/The_Cult.cfg:6
+msgid "The Cult"
+msgstr "이교도"
+
+#. [world_conquest_data]
+#: data/campaigns/World_Conquest/era/factions/The_Cult.cfg:16
+msgid "Young Ogre, Drakes and Northerners"
+msgstr "어린 오우거, 반룡들, 노던너"
+
+#. [multiplayer_side]: id=The_Defiance, type=random
+#: data/campaigns/World_Conquest/era/factions/The_Defiance.cfg:8
+msgid "The Defiance"
+msgstr "저항군"
+
+#. [multiplayer_side]: id=The Empire, type=random
+#: data/campaigns/World_Conquest/era/factions/The_Empire.cfg:7
+msgid "The Empire"
+msgstr "제국"
+
+#. [multiplayer_side]: id=The Gang, type=random
+#: data/campaigns/World_Conquest/era/factions/The_Gang.cfg:6
+msgid "The Gang"
+msgstr "갱단"
+
+#. [world_conquest_data]
+#: data/campaigns/World_Conquest/era/factions/The_Gang.cfg:16
+msgid "Dune Herbalist, Loyalists and Knalgan Alliance"
+msgstr "사막 약초사, 충성파, 크날가 동맹"
+
+#. [multiplayer_side]: id=The Guild, type=random
+#: data/campaigns/World_Conquest/era/factions/The_Guild.cfg:6
+msgid "The Guild"
+msgstr "길드"
+
+#. [world_conquest_data]
+#: data/campaigns/World_Conquest/era/factions/The_Guild.cfg:16
+msgid "Dune Soldier, Loyalists and Drakes"
+msgstr "사막 병사, 충성파, 반룡"
+
+#. [multiplayer_side]: id=The Hand, type=random
+#: data/campaigns/World_Conquest/era/factions/The_Hand.cfg:6
+msgid "The Hand"
+msgstr "손"
+
+#. [world_conquest_data]
+#: data/campaigns/World_Conquest/era/factions/The_Hand.cfg:17
+msgid "Dune Rider, Knalgan Alliance and Drakes"
+msgstr "사막 기수, 크날간 동맹, 드레이크"
+
+#. [multiplayer_side]: id=The Horde, type=random
+#: data/campaigns/World_Conquest/era/factions/The_Horde.cfg:6
+msgid "The Horde"
+msgstr "무리"
+
+#. [world_conquest_data]
+#: data/campaigns/World_Conquest/era/factions/The_Horde.cfg:16
+msgid "Dune Rider, Knalgan Alliance and Rebels"
+msgstr "사막 기수, 크날간 동맹, 반군"
+
+#. [multiplayer_side]: id=The_Marauders, type=random
+#: data/campaigns/World_Conquest/era/factions/The_Marauders.cfg:8
+msgid "The Marauders"
+msgstr "약탈자"
+
+#. [multiplayer_side]: id=The Militia, type=random
+#: data/campaigns/World_Conquest/era/factions/The_Militia.cfg:6
+msgid "The Militia"
+msgstr "민병대"
+
+#. [world_conquest_data]
+#: data/campaigns/World_Conquest/era/factions/The_Militia.cfg:16
+msgid "Dune Rover, Undead and Loyalists"
+msgstr "사막 방랑자, 언데드, 충성파"
+
+#. [multiplayer_side]: id=The Scourge, type=random
+#: data/campaigns/World_Conquest/era/factions/The_Scourge.cfg:7
+msgid "The Scourge"
+msgstr "재앙"
+
+#. [multiplayer_side]: id=The Trust, type=random
+#: data/campaigns/World_Conquest/era/factions/The_Trust.cfg:7
+msgid "The Trust"
+msgstr "신뢰"
+
+#. [label]: id=title
+#. [lua]: root_node.on_modified
+#: data/campaigns/World_Conquest/gui/help_dialog.cfg:45
+#: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:233
+msgid "WoCopedia"
+msgstr "WoCopedia"
+
+#. [label]: id=title
+#. [lua]: gui.widget.add_invest_item
+#: data/campaigns/World_Conquest/gui/help_dialog.cfg:281
+#: data/campaigns/World_Conquest/gui/help_dialog.cfg:379
+#: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest_show_dialog.lua:55
+msgid "Artifacts"
+msgstr "유물"
+
+#. [label]
+#: data/campaigns/World_Conquest/gui/help_dialog.cfg:396
+msgid "Recruits"
+msgstr "소집"
+
+#. [label]
+#: data/campaigns/World_Conquest/gui/help_dialog.cfg:463
+msgid "Deserters"
+msgstr "탈영병"
+
+#. [label]
+#: data/campaigns/World_Conquest/gui/help_dialog.cfg:482
+msgid "Commanders"
+msgstr "지휘관"
+
+#. [label]
+#. [lua]: gui.widget.add_invest_item
+#: data/campaigns/World_Conquest/gui/help_dialog.cfg:501
+#: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest_show_dialog.lua:74
+msgid "Heroes"
+msgstr "영웅"
+
+#. [label]: id=title_random_leaders
+#: data/campaigns/World_Conquest/gui/help_dialog.cfg:520
+msgid "Random Leaders"
+msgstr "무작위 지도자"
+
+#. [label]: id=title
+#. [lua]: preshow
+#: data/campaigns/World_Conquest/gui/help_dialog.cfg:569
+#: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:45
+msgid "Settings"
+msgstr "설정"
+
+#. [label]
+#: data/campaigns/World_Conquest/gui/help_dialog.cfg:588
+msgid "Use World Conquest Unitmarkers"
+msgstr "World Conquest 유닛 마커 사용"
+
+#. [label]
+#: data/campaigns/World_Conquest/gui/help_dialog.cfg:608
+msgid "Use World Conquest experimental pickup"
+msgstr "World Conquest 실험적 아이템 획득을 사용"
+
+#. [label]
+#: data/campaigns/World_Conquest/gui/help_dialog.cfg:628
+msgid "Show pickup confirmation"
+msgstr "아이템 획득 확인을 표시"
+
+#. [label]
+#: data/campaigns/World_Conquest/gui/help_dialog.cfg:648
+msgid "Difficulty"
+msgstr "난이도"
+
+#. [label]: id=title
+#: data/campaigns/World_Conquest/gui/invest_dialog.cfg:34
+msgid "Choose a bonus for your team"
+msgstr "팀에 대한 보너스를 선택하세요"
+
+#. [label]
+#. [lua]: gui.widget.add_invest_item
+#: data/campaigns/World_Conquest/gui/invest_dialog.cfg:240
+#: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest_show_dialog.lua:134
+msgid "Before:"
+msgstr "이전:"
+
+#. [label]
+#. [lua]: gui.widget.add_invest_item
+#: data/campaigns/World_Conquest/gui/invest_dialog.cfg:259
+#: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest_show_dialog.lua:134
+msgid "After:"
+msgstr "이후:"
+
+#. [button]: id=ok
+#: data/campaigns/World_Conquest/gui/invest_dialog.cfg:302
+msgid "Get This Item"
+msgstr "이 아이템 획득"
+
+#. [button]: id=ok
+#: data/campaigns/World_Conquest/gui/invest_dialog.cfg:327
+#: data/campaigns/World_Conquest/gui/invest_tellunit.cfg:58
+#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:236
+msgid "OK"
+msgstr "확인"
+
+#. [label]: id=title
+#: data/campaigns/World_Conquest/gui/invest_tellunit.cfg:24
+msgid "You got"
+msgstr "획득함"
+
+#. [label]: id=title
+#: data/campaigns/World_Conquest/gui/pickup_confirmation.cfg:24
+msgid "Pick up item?"
+msgstr "아이템을 획득하시겠습니까?"
+
+#. [button]: id=res_yes
+#: data/campaigns/World_Conquest/gui/pickup_confirmation.cfg:62
+msgid "Yes"
+msgstr "예"
+
+#. [button]: id=res_no
+#: data/campaigns/World_Conquest/gui/pickup_confirmation.cfg:72
+msgid "No"
+msgstr "아니오"
+
+#. [label]: id=title
+#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:29
+msgid "Map Settings"
+msgstr "지도 설정"
+
+#. [label]
+#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:50
+msgid " players: "
+msgstr " 플레이어: "
+
+#. [label]
+#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:64
+msgid " scenario: "
+msgstr " 시나리오: "
+
+#. [label]
+#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:85
+msgid " map: "
+msgstr " 지도: "
+
+#. [label]
+#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:112
+msgid "map size"
+msgstr "지도 크기"
+
+#. [label]
+#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:128
+msgid "village density"
+msgstr "마을 밀도"
+
+#. [label]
+#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:144
+msgid "keep size"
+msgstr "거점 크기"
+
+#. [label]
+#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:160
+msgid "iterations"
+msgstr "반복 횟수"
+
+#. [label]
+#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:176
+msgid "terrain factor"
+msgstr "지형 요소"
+
+#. [label]
+#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:192
+msgid "island factor"
+msgstr "섬 요소"
+
+#. [label]
+#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:208
+msgid "number of keeps"
+msgstr "거점 수"
+
+#: data/campaigns/World_Conquest/lua/campaign/enemy_themed.lua:5
+msgid "$name|’s pet"
+msgstr "$name|의 애완동물"
+
+#: data/campaigns/World_Conquest/lua/campaign/objectives.lua:6
+msgid "Defeat all enemy leaders and commanders"
+msgstr "모든 적 대장 및 지휘관을 처치하라"
+
+#: data/campaigns/World_Conquest/lua/campaign/objectives.lua:7
+msgid "Turns run out"
+msgstr "차례 종료"
+
+#: data/campaigns/World_Conquest/lua/campaign/objectives.lua:8
+msgid "Lose your leader and all your commanders"
+msgstr "당신의 대장 및 모든 지휘관을 잃음"
+
+#: data/campaigns/World_Conquest/lua/campaign/objectives.lua:10
+msgid "An in-game help is available: right-click on any empty hex."
+msgstr "게임 내 도움말을 사용할 수 있습니다: 빈 육각형을 우클릭하세요."
+
+#. [lua]: carryover.remaining_gold_message
+#: data/campaigns/World_Conquest/lua/campaign/scenario.lua:87
+msgid "Average remaining gold: "
+msgstr "평균 남은 금화: "
+
+#: data/campaigns/World_Conquest/lua/era/era.lua:12
+msgid "Tell me how my recruit works"
+msgstr "소집 시스템이 어떻게 작동하는지 알려줘"
+
+#: data/campaigns/World_Conquest/lua/era/era.lua:13
+msgid ""
+"Every time you recruit a unit, it is replaced in your recruit list by its "
+"pair. The following pairs can also be found here:"
+msgstr "유닛을 소집할 때마다 해당 유닛이 짝으로 교체됩니다. 다음 짝도 여기에서 찾을 수 있습니다:"
+
+#. [lua]: wesnoth.wml_actions.wc2_recruit_info
+#: data/campaigns/World_Conquest/lua/era/era.lua:319
+msgid "You are not using a WC2 faction."
+msgstr "당신은 WC2 진영을 사용하고 있지 않습니다."
+
+#. [lua]: artifacts.give_item
+#: data/campaigns/World_Conquest/lua/game_mechanics/artifacts.lua:156
+msgid "I cannot pick up that item."
+msgstr "해당 아이템을 획득할 수 없습니다."
+
+#. [lua]: wesnoth.wml_actions.wc2_show_item_info
+#: data/campaigns/World_Conquest/lua/game_mechanics/artifacts.lua:238
+msgid "Remind me what this item does"
+msgstr "이 아이템의 효과를 알려줘"
+
+#. [lua]: wesnoth.wml_actions.wc2_place_bonus
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus.lua:23
+msgid "place"
+msgstr "배치"
+
+#. [lua]: span_font_family
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus.lua:33
+msgid "$name's $type"
+msgstr "$name의 $type"
+
+#. [lua]: bonus.found_artifact
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus.lua:148
+msgid "Hey, I found some treasure!"
+msgstr "이봐, 보물을 찾았어!"
+
+#. [lua]: bonus.found_hero
+#. [lua]: bonus.found_training
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus.lua:163
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus.lua:195
+msgid "Someone is here!"
+msgstr "누군가 여기 있다!"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:3
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:5
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:7
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:9
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:11
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:13
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:15
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:17
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:19
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:21
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:23
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:25
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:27
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:51
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:59
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:61
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:83
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:95
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:101
+msgid "Bane"
+msgstr "불운"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:3
+msgid "Cargo"
+msgstr "화물"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:3
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:11
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:13
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:15
+msgid "Disaster"
+msgstr "재난"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:3
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:79
+msgid "Expedition"
+msgstr "탐험"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:3
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:13
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:15
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:19
+msgid "Massacre"
+msgstr "대학살"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:3
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:5
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:7
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:9
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:13
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:15
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:19
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:33
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:35
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:39
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:41
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:43
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:45
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:47
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:53
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:59
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:61
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:63
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:65
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:67
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:101
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:103
+msgid "Point"
+msgstr "점수"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:3
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:5
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:7
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:9
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:11
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:13
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:15
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:17
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:19
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:21
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:23
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:27
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:33
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:35
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:37
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:39
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:41
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:43
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:45
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:47
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:49
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:53
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:59
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:61
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:63
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:65
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:67
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:81
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:85
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:87
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:89
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:91
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:93
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:95
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:99
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:101
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:103
+msgid "Rest"
+msgstr "휴식"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:3
+msgid "Rocks"
+msgstr "바위"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:3
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:9
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:29
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:31
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:33
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:35
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:39
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:41
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:43
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:45
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:47
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:53
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:63
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:65
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:67
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:71
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:73
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:75
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:77
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:79
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:87
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:93
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:97
+msgid "Route"
+msgstr "경로"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:3
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:11
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:19
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:21
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:23
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:39
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:45
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:49
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:53
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:63
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:65
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:67
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:81
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:85
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:89
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:91
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:93
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:95
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:99
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:101
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:103
+msgid "Ruin"
+msgstr "폐허"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:3
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:11
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:35
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:37
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:39
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:41
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:43
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:53
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:63
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:65
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:67
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:95
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:99
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:101
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:103
+msgid "Vestige"
+msgstr "유물"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:3
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:59
+msgid "Waters"
+msgstr "수역"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:5
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:7
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:9
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:11
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:13
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:15
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:17
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:19
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:21
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:23
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:25
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:27
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:37
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:51
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:59
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:61
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:81
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:83
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:95
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:101
+msgid "Curse"
+msgstr "저주"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:5
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:7
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:9
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:11
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:15
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:19
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:23
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:45
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:49
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:53
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:61
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:63
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:65
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:71
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:73
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:77
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:79
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:91
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:95
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:101
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:103
+msgid "Exile"
+msgstr "추방"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:5
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:7
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:9
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:11
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:13
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:15
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:17
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:19
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:21
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:23
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:25
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:27
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:45
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:49
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:51
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:53
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:59
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:61
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:63
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:65
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:67
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:81
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:83
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:85
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:91
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:93
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:95
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:99
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:101
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:103
+msgid "Lair"
+msgstr "은신처"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:5
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:7
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:9
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:13
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:15
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:17
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:19
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:21
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:23
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:25
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:27
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:33
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:35
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:37
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:39
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:45
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:47
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:49
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:51
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:53
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:59
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:61
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:63
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:65
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:67
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:77
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:81
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:83
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:91
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:93
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:95
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:101
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:103
+msgid "Passage"
+msgstr "통로"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:7
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:9
+msgid "Death"
+msgstr "사망"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:7
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:19
+msgid "Quagmire"
+msgstr "수렁"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:9
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:13
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:17
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:63
+msgid "Cemetery"
+msgstr "공동묘지"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:9
+msgid "Desert"
+msgstr "사막"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:9
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:11
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:19
+msgid "Desolation"
+msgstr "황폐"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:9
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:21
+msgid "Despair"
+msgstr "절망"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:9
+msgid "Wasteland"
+msgstr "황무지"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:11
+msgid "Destruction"
+msgstr "파괴"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:17
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:21
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:51
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:83
+msgid "Cave"
+msgstr "동굴"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:17
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:23
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:63
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:67
+msgid "Graveyard"
+msgstr "묘지"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:17
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:21
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:23
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:37
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:49
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:51
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:81
+msgid "Grotto"
+msgstr "동굴"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:19
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:101
+msgid "Bog"
+msgstr "늪"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:19
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:21
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:59
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:61
+msgid "Hideout"
+msgstr "은신처"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:21
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:25
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:49
+msgid "Den"
+msgstr "굴"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:21
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:25
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:27
+msgid "Dungeon"
+msgstr "던전"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:21
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:25
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:27
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:49
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:51
+msgid "Mine"
+msgstr "광산"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:21
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:23
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:27
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:37
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:49
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:51
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:59
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:61
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:81
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:83
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:101
+msgid "Secret"
+msgstr "비밀"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:23
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:85
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:87
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:89
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:91
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:93
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:95
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:99
+msgid "Crypt"
+msgstr "지하묘"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:23
+msgid "Dream"
+msgstr "꿈"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:23
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:85
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:87
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:89
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:91
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:93
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:95
+msgid "Mausoleum"
+msgstr "왕릉"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:23
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:63
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:81
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:95
+msgid "Ossuary"
+msgstr "골동"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:25
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:27
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:91
+msgid "Peak"
+msgstr "봉우리"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:25
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:51
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:77
+msgid "Quarry"
+msgstr "채석장"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:25
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:51
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:77
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:79
+msgid "Site"
+msgstr "장소"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:27
+msgid "Destiny"
+msgstr "운명"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:27
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:33
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:35
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:37
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:39
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:41
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:43
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:45
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:53
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:55
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:57
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:59
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:61
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:63
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:65
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:67
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:69
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:71
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:73
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:75
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:77
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:79
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:83
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:91
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:93
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:95
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:97
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:99
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:101
+msgid "Domain"
+msgstr "영역"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:27
+msgid "Door"
+msgstr "문"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:27
+msgid "Gate"
+msgstr "관문"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:29
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:31
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:75
+msgid "Armory"
+msgstr "무기고"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:29
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:31
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:45
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:47
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:55
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:57
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:69
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:71
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:73
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:75
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:77
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:79
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:97
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:99
+msgid "Enclave"
+msgstr "영토"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:29
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:31
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:73
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:75
+msgid "Fair"
+msgstr "공정한"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:29
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:31
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:73
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:75
+msgid "Festival"
+msgstr "축제"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:29
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:31
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:47
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:75
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:87
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:89
+msgid "Market"
+msgstr "시장"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:29
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:33
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:39
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:41
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:43
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:47
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:75
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:87
+msgid "Path"
+msgstr "길"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:29
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:33
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:39
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:41
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:43
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:47
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:75
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:87
+msgid "Road"
+msgstr "도로"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:29
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:31
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:73
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:75
+msgid "Tournament"
+msgstr "토너먼트"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:31
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:45
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:47
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:69
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:71
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:73
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:75
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:77
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:79
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:85
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:87
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:89
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:91
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:93
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:97
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:99
+msgid "Refuge"
+msgstr "피난처"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:35
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:37
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:39
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:41
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:43
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:85
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:91
+msgid "Memory"
+msgstr "메모리"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:35
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:37
+msgid "Rock"
+msgstr "바위"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:35
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:39
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:41
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:43
+msgid "Triumph"
+msgstr "승리"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:41
+msgid "Monolith"
+msgstr "돌기둥"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:43
+msgid "Obelisk"
+msgstr "오벨리스크"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:47
+msgid "Desire"
+msgstr "욕망"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:49
+msgid "Well"
+msgstr "우물"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:53
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:57
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:93
+msgid "Cliff"
+msgstr "절벽"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:53
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:77
+msgid "Plateau"
+msgstr "고원"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:55
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:57
+msgid "Bay"
+msgstr "만"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:55
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:57
+msgid "Coast"
+msgstr "해안"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:55
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:57
+msgid "Harbor"
+msgstr "항구"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:55
+msgid "Lighthouse"
+msgstr "등대"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:55
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:57
+msgid "Port"
+msgstr "항구"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:55
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:57
+msgid "Seaport"
+msgstr "항구"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:55
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:57
+msgid "Shore"
+msgstr "해변"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:57
+msgid "Beacon"
+msgstr "봉화"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:57
+msgid "Signal"
+msgstr "신호"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:61
+msgid "Marsh"
+msgstr "늪"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:63
+msgid "Delirium"
+msgstr "광기"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:67
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:81
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:85
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:87
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:89
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:91
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:93
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:97
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:99
+msgid "Conclave"
+msgstr "회의"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:69
+msgid "Farm"
+msgstr "농장"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:69
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:97
+msgid "Field"
+msgstr "밭"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:69
+msgid "Granary"
+msgstr "곡물 창고"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:69
+msgid "Grassland"
+msgstr "초원"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:69
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:97
+msgid "Meadow"
+msgstr "초원"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:69
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:97
+msgid "Prairie"
+msgstr "초원"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:69
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:97
+msgid "Shire"
+msgstr "마을"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:69
+msgid "Windmill"
+msgstr "풍차"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:71
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:73
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:75
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:77
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:79
+msgid "Outpost"
+msgstr "전초 기지"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:77
+msgid "Shelter"
+msgstr "대피소"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:81
+msgid "Altar"
+msgstr "제단"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:81
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:85
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:87
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:89
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:91
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:93
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:95
+msgid "Oracle"
+msgstr "오라클"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:85
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:87
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:89
+msgid "Academy"
+msgstr "아카데미"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:85
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:87
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:89
+msgid "Library"
+msgstr "도서관"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:85
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:87
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:89
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:91
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:93
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:99
+msgid "Sanctuary"
+msgstr "성역"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:85
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:87
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:89
+msgid "School"
+msgstr "학교"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:85
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:87
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:89
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:91
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:93
+msgid "Shrine"
+msgstr "성소"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:85
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:87
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:89
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:91
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:93
+msgid "Temple"
+msgstr "신전"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:95
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:101
+msgid "Decay"
+msgstr "부패"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:95
+msgid "Moor"
+msgstr "늪"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:95
+msgid "Perversion"
+msgstr "타락"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:97
+msgid "Glade"
+msgstr "숲속 공터"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:97
+msgid "Tree"
+msgstr "나무"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:99
+msgid "Observatory"
+msgstr "천문대"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/bonus_point_definitions.lua:99
+msgid "Tower"
+msgstr "탑"
+
+#. [lua]: wc2_invest.invest
+#: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest.lua:144
+msgid "WC2 Invest"
+msgstr "WC2 투자"
+
+#. [lua]: gui.widget.add_invest_item
+#: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest_show_dialog.lua:77
+msgid ""
+"Commanders will take your leader’s place when the leader dies, possible "
+"commanders:"
+msgstr "사령관은 대장이 죽으면 대장의 자리를 대신합니다, 가능한 사령관들:"
+
+#. [lua]: gui.widget.add_invest_item
+#: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest_show_dialog.lua:84
+msgid "Commander"
+msgstr "사령관"
+
+#. [lua]: gui.widget.add_invest_item
+#: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest_show_dialog.lua:84
+msgid "promote to leader"
+msgstr "대장으로 승진"
+
+#. [lua]: gui.widget.add_invest_item
+#: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest_show_dialog.lua:102
+msgid "possible units:"
+msgstr "가능한 유닛들:"
+
+#. [lua]: gui.widget.add_invest_item
+#: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest_show_dialog.lua:109
+msgid "Deserter"
+msgstr "탈영병"
+
+#. [lua]: gui.widget.add_invest_item
+#. [lua]: preshow
+#: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest_show_dialog.lua:117
+#: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:42
+msgid "Training"
+msgstr "훈련"
+
+#. [lua]: gui.widget.add_invest_item
+#: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest_show_dialog.lua:124
+msgid "$name Training"
+msgstr "$name 훈련"
+
+#. [lua]: gui.widget.add_invest_item
+#: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest_show_dialog.lua:139
+msgid "Other"
+msgstr "기타"
+
+#. [lua]: gui.widget.add_invest_item
+#: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest_show_dialog.lua:143
+msgid "+70 gold and +1 village"
+msgstr "+70 금화 및 +1 마을"
+
+#. [lua]: gui.widget.add_invest_item
+#: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest_show_dialog.lua:148
+msgid "Stock up supplies"
+msgstr "물자 비축"
+
+#. [lua]: gui.widget.add_invest_item
+#: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest_show_dialog.lua:153
+msgid "Gives 70 gold and places a village on your keep."
+msgstr "70 금화와 당신의 성에 마을을 추가합니다."
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/promote_commander.lua:5
+msgid "No! This is the end!"
+msgstr "안 돼! 끝이야!"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/promote_commander.lua:6
+msgid "Don’t lose heart comrades, we can still win this battle."
+msgstr "동지들, 희망을 잃지 마라, 우리는 아직 이 전투를 이길 수 있다."
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/random_names.lua:2
+msgid ""
+"Aban,Abidin,Acacalide,Acimaëli,Acratoforo,Actarof,Adham,Adnan,Adramitio,Ael-"
+"Lagaleth,Aereste,Agshirt,Ahyaul,Aigaitha,Aigaithil,Aigaithol,Aigalam,Aigaling,Aigalir,Aigalol,Aigalsin,Aigatan,Aigatlod,Aigatsel,Aigatsol,Aigatu,Aigcataz,Aigcatil,Aigcating,Aigcatim,Aigcatsol,Aigcatur,Aigdring,Aigdril,Aigdersil,Aigdursol,Aigthain,Aigthasim,Aigthaug,Ainhuol,Ainuel,Aj"
+" "
+"Taum,Akoark,Akort,Akzalk,Alabrylla,Alaebrylla,Alaeniver,Alaitha,Alaith,Alaithol,Alaithsol,Alaithu,Alalil,Alalla,Alalol,Alalsol,Alalum,Alamade,Alamaitheol,Alanamix,Alaryan,Alatarc,Alating,Alatlor,Alatsil,Alberast,Aldarsol,Aldram,Aldril,Aldring,Aldrinm,Aldrulo,Aldrol,Aldumcatil,Aldura,Aldurlosp,Aldurol,Aleacla,Aleara,Alearka,Alena,Alengwen,Aleuksia,Al-"
+"Kuz,Alianora,Aligbrula,Alilonna,Alim,Alinash,Alingwen,Alinoe,Alistre,Almarcy,Alminzo,Alolonna,Alora,Althaam,Althail,Althalea,Althalo,Althaol,Althasil,Althasol,Althau,Althiela,Alubrylla,Aluneire,Aluniver,Aluryan,Alussa,Alwcla,Alwllyra,Alwlyan,Alwna,Alynoic,Alyra,Alyryan,Almahdi,Altaf,Amedë,Amilmaldur,Amorfir,Amowyn,Amprixta,Anaitharl,Anaithing,Anaithu,Analil,Anallom,Analol,Analsil,Analuh,Anataj,Anating,Anatir,Anatol,Anatsol,Ancataz,Ancatil,Ancatol,Ancattu,Andril,Andrih,Andrulop,Andrun,Anduril,Andurol,Andursol,Anduru,Anerion,Anexir,Anglachem,Anilad,Anilgawyn,Anitraz,Ankthorez,Anoithil,Anoush,Antarah,Anthaal,Anthaing,Anthaim,Anthaol,Anthasil,Anthasor,Anthaul,Anui,Anundil,Ardenia,Arnenvier,Arkarm,Arix,Arnondo,Asadel,Asbasalieg,Asgalioth,Asgertase,Asgriah,Ashraf,Asvetro,Athir,Atrede,Aufiloch,Auginet,Augithad,Augaithing,Augaithsil,Augaithur,Augalam,Augaling,Augating,Augatlo,Augatol,Augatsil,Augcatil,Augcatun,Augdrin,Augdrur,Augdursil,Augdura,Augduril,Augdursol,Augduruh,Augthail,Augthaim,Augthalo,Augthaol,Aungubulang,Ausrethgul,Auuglann,Auxdornath,Avenore,Axiz,Azimur,Azkabin,Azluheb,Azorein,Azurena,Azurix,Baart,Babreca,Bacbouc,Badri,Baelgaltir,Bagar,Baha,Bahamix,Bahiyy,Bahlagdi,Bahldrusk,Bahomet,Balfelor,Bakr,Bakri,Baligh,Balqueria,Bandar,Baogrish,Baradug,Barag,Barakah,Barbag,Barguntil,Barkuk,Barnasab,Bashnak,Baugahler,Baugdurol,Bayhar,Belineur,Belandil,Beleumaodir,Belise,Belithraldor,Belondel,Belurmeinseil,Belyrion,Bentesicime,Beolduf,Beraorg,Bercenego,Bergsnoth,Berigstan,Berq"
+" "
+"Tzerit,Bersevian,Beuchaliol,Bhunk,Bicoru,Bidush,Bielura,Bierthur,Bifix,Bik,Bilal,Bilerau,Bilg,Bilo,Binak,Biol,Biothfeorst,Birt,Bishr,Bisiluash,Bistemut,Biung,Bjouz,Bloik,Blokkar,Blygwyn,Bogdush,Bogor,Bok,Bolg,Bolunir,Bomduril,Borduntur,Borig,Borkuk,Borosnoat,Bort,Boshnak,Boulosh,Braedda,Brakor,Brassa,Bravyan,Breabrylla,Breall,Brealla,Brealonna,Breana,Brell,Brellyra,Brera,Brerka,Breryan,Bricla,Brirka,Brithaithol,Britomartix,Brobrylla,Brogk,Brollyra,Brona,Bronoic,Brora,Brugaranti,Brugung,Brungwen,Bruorka,Bruryan,Brwra,Brycla,Brynoic,Bukkak,Bulruk,Budail,Budush,Bugdish,Buk,Bunak,Burag,Burg,Burgaur,Burhan,Burk,Buurk,Cael"
+" "
+"Einur,Caella,Caena,Caengwen,Caervecuto,Caevyan,Caldur,Calebrindel,Calebrindir,Calianasa,Calimire,Calisbia,Calla,Calusa,Calówien,Canduil,Caranfir,Carang,Carduan,Caribdi,Carla,Carseglio,Cassa,Cealonna,Cecropido,Celang,Cera,Ceryan,Cewdda,Chagron,Chamil,Chiona,Churumol,Cibrylla,Cicla,Cinoic,Cira,Cirduel,Cirsai,Cissa,Cithraldur,Clacla,Claella,Claelyan,Claenoic,Clalla,Clallyra,Clara,Clarka,Clavyan,Cleacla,Cleall,Clealyan,Cleana,Cleezi,Clemirfone,Clenoic,Clezz,Clibrylla,Clill,Clillyra,Clilyan,Clinoic,Clissa,Clobrylla,Clollyra,Clona,Clothildrien,Clungwen,Clurka,Cluvyan,Clwdda,Clwlla,Clwvyan,Clydda,Clylla,Colgton,Cora,Coranthyo,Corkkar,Corodro,Corugush,Coryan,Cradagon,Crespuo,Crudvo,Crysgarin,Cucla,Cudda,Cundir,Curcopia,Curnacuyac,Curyan,Cwleina,Cwengwen,Cywivyan,Cydda,Cylasu,Cylla,Cyllyra,Cylyan,Cyniver,Cyvyan,Dabirmiliun,Dabnusagosh,Daedda,Daelyan,Daengwen,Daenoic,Dagnea,Dalaleika,Dallyra,Dalmalso,Damell,Dangwen,Danmonlulbam,Dara,Dassa,Deanoic,Deassa,Deborisa,Deimiluel,Delandel,Delaraldur,Delkkak,Della,Delilmaldor,Deliol,Delorion,Delundil,Demalot,Demla,Denya,Derceto,Deucalion,Devyan,Deyalh,Dhakwan,Dhogari,Dicla,Dijuf,Diniver,Dinsill,Dirala,Dirraquio,Dissa,Dobielon,Doburah,Dollyra,Donmolig,Dornoth,Dorobal,Doromina,Drahganilo,Drasan,Drensig,Drethmol,Dullyra,Dulonna,Dulaithil,Dulaithing,Dulaithlot,Dulaithsil,Dulaithsol,Dulalat,Dulalin,Dulalsil,Dulatil,Dulating,Dulatol,Dulatsol,Dulatur,Dulcatil,Dulcating,Dulcatlom,Duldril,Duldrik,Duldralo,Duldrol,Dulprisil,Duldruz,Duldurag,Dulduring,Duldursil,Duldurur,Dulnica,Dulthalol,Dulthasil,Dulthasol,Dulthaun,Dumanti,Dumuthi,Durbag,Durktuver,Duselia,Dwbrylla,Dwdda,Dwna,Dwnoic,Dwra,Dybrylla,Dydda,Dyssa,Eäréwiel,Eärilmadë,Ealumox,Ebernith,Ebougrush,Ebraham,Edalei,Edusten,Eefur,Efnix,Efnushguraj,Egnosian,Egulym,Einidia,Eisal,Eitcha,Eki,Eladrieng,Elacla,Elaedda,Elaell,Elaelonna,Elaessa,Elaevyan,Elaiseng,Elallyra,Elalonna,Elara,Elavern,Elebrildor,Elebrindel,Elélan,Elémbor,Elemir,Elealla,Eleanoic,Elenoic,Elerka,Eleusinion,Eliomir,Eliondil,Elithae,Elivyan,Elomuar,Elorfilad,Elradrien,Elrioldor,Elriolith,Elrorfir,Elsviriz,Elueso,Elulonna,Elurka,Elval,Elvandir,Elvaramir,Elvioldur,Elwllyra,Elwlonna,Elwngwen,Elwra,Elycla,Elyllyra,Elyngwen,Elyniver,Elyrion,Elyrka,Elzea,Enariol,Endaira,Endornathain,Enuilamde,Eowimbor,Eowiomir,Eowyla,Eponure,Eradash,Eradiush,Eragdish,Eragor,Eranak,Erang,Erarg,Erart,Erigdush,Erik,Erinak,Eriol,Erirag,Erirbag,Erirg,Erirt,Erishnak,Eriurk,Erogdush,Erok,Erong,Erorbag,Ertjon,Erudish,Erugar,Erugdush,Erulo,Erunk,Eruol,Erurag,Eruurk,Eshi,Eshkyrech,Esmodrigor,Estielem,Estinfalide,Estumbuprag,Etsenia,Eubuleo,Eugabor,Eulimn,Eulqaia,Eurinoa,Eur"
+" "
+"Masup,Evirigna,Evouli,Exnaug,Eyyu,Ezneale,Fabudain,Fadriendel,Faduhc,Faeminyon,Faervilim,Faiminei,Faisulal,Falvila,Fanthurfin,Falulmisso,Famyih,Fanaithsil,Farandir,Farlamir,Farseluo,Faugamel,Fazzi,Fáwyn,Feagoil,Febarnet,Feplerchaun,Ferabela,Ferdigan,Ferfamora,Fersijadmul,Festum,Feyz,Fgor,Fizlandilu,Fienar,Figalfin,Filanur,Filictor,Filvarëule,Finafgol,Findolith,Finduanor,Fioril,Fiorlah,Fizztrax,Flaamenthil,Flixta,Flizzil,Floqke,Fnigah,Foiginoch,Folmagauh,Fondarea,Fongaorn,Formontor,Forouzandeh,Fougul,Foutum,Fódë,Frellah,Freomeda,Frikeq,Frizzle,Fraonderic,Ftiotide,Fudail,Fuensithiem,Fuitheck,Furlamthaol,Furviramo,Fusenoyc,Fymn,Fyrion,Gabithol,Gadash,Gadriendil,Gadrieng,Gagdush,Gagor,Galalith,Galar,Galeck,Galela,Galeldur,Galelith,Galo,Galsh,Gamal,Gamilenao,Ganak,Ganamau,Ganelfir,Gaunk,Gaol,Garadin,Garag,Garaldor,Garchin,Gark,Garkuk,Garlan,Garlin,Garruj,Garushi,Garzilium,Gashnak,Gashinar,Gasthol,Gaugramelo,Gaunthelar,Gaushii,Gaustun,Gawna,Gegchi,Gelka,Gelknick,Genoro,Gerchog,Gewcla,Ghafur,Ghakhan,Ghani,Ghayth,Gienk,Gigor,Gillan,Gillohn,Ginak,Ging,Giombor,Girt,Gisharri,Glamadriel,Glamaithil,Glamaithim,Glamaithol,Glamaithsol,Glamalil,Glamaling,Glamalir,Glamallot,Glamaluf,Glamatug,Glamcatah,Glamcatil,Glamcatu,Glamdran,Glamdril,Glamdrelo,Glamdirsol,Glamdurain,Glamduring,Glamdurix,Glamthaal,Glamthasil,Glamthasol,Glamthaug,Glararil,Glaunurg,Glilmal,Glimir,Glomin,Glómir,Gnukk,Goark,Gogdish,Gogdush,Gomaithar,Gomaithil,Gomaithsol,Gomalil,Gomalux,Gomatarr,Gomatil,Gomating,Gomativ,Gomcatil,Gomcatlo,Gomdrah,Gomdril,Gomdring,Gomdrim,Gomdrol,Gomduri,Gomdurloh,Gomdursil,Gomdursol,Gomdurup,Gomthaatz,Gomthalor,Gomthasol,Gorfindil,Gorospkin,Gort,Goruk,Gorzol,Goshnak,Goust,Gozmiog,Grada,Grahklin,Grak,Gralg,Gralo,Granak,Graol,Graoug,Grarbag,Greragrog,Greth,Gribbel,Gridash,Griedush,Gridda,Grigar,Grignish,Grigor,Grilg,Grilo,Grink,Grirg,Grishnak,Grishuglunakh,Grithmau,Grodish,Grogar,Grolg,Gronk,Grorag,Grorg,Grork,Grort,Groshnak,Grotish,Grouk,Grudash,Grugdish,Grugdush,Gruk,Grulo,Grunk,Gruol,Grurg,Grurt,Gruurk,Grymma,Gugdish,Gugdush,Gulcating,Gulg,Gulo,Gumbundulun,Gumalsil,Gunak,Guong,Gurbag,Gurt,Gushnak,Gurk,Gurm,Guthmorcobel,Gwaera,Gwaessa,Gweacla,Gwedda,Gwerka,Gwicla,Gwirka,Gwobrylla,Gwoll,Gwona,Gwongwen,Gwonoic,Gworyan,Gwullyra,Gwussa,Gwycla,Gwydda,Gywvyan,Habohl,Habudamil,Hachuel,Hadash,Haderald,Hadiel,Hadum,Hafmaihjin,Hagar,Hagdelstaf,Hagdush,Hagor,Haik,Hakam,Halimanir,Hanfonderlincan,Hank,Haragdinul,Hareth,Harith,Harrmukhag,Harpalice,Harquem,Hashnak,Hasz,Hathnei,Haub,Haugduring,Haurapitko,Hausieg,Hayanami,Hayanee,Hebril,Heffez,Hegledna,Heldra,Herbet,Hertrazzir,Herudo,Hesz,Hezzi,Hidaspe,Hidush,Higduhn,Hilal,Hilg,Hilgarion,Hilmariand,Hilonome,Hilsmagath,Hinak,Hing,Hiol,Hiragna,Hirg,Hisiloem,Hobgar,Hodul,Hogor,Hoi,Hoidish,Holinurie,Holruk,Hong,Hool,Horbag,Horfindel,Horgsten,Hort,Hougssen,Housneak,Huadash,Hualg,Huchnubulo,Hudish,Huesk,Hugor,Huk,Hulo,Huol,Hurag,Hurbag,Hurimtum,Hurk,Hushnak,Huurk,Huyagharu,Ibmaecire,Ibmahalej,Ibsongord,Ichtka,Ictareuse,Idaluam,Idrasil,Iekal,Ifianasa,Ifbajimn,Igfeniorth,Igmavenar,Ihbur,Ihmusif,Ikatere,Ilamound,Ilisiade,Illa,Ilmiwir,Ilsalaah,Inai,Inalai,Inexi,Iraene,Irele,Iridelia,Irix,Iripza,Irobryne,Isadrieng,Isaurico,Iselan,Isilmandel,Isirion,Isorfilad,Isorfindir,Isurnym,Isuwyn,Isyndel,Isáwen,Isebridien,Isebrinia,Isemlath,Isendra,Iséng,Iseviel,Isil-"
+"Garith,Isithradien,Isithrarith,Isithrawiel,Isóthien,Ismozg,Issalai,Istirazu,Ithlurnae,Ivayinna,Iverone,Ivinhao,Ivonitha,Iznoud,Jabuoc,Jacla,Jadnor,Jaena,Jaerka,Jaevyan,Jalasad,Jalika,Jalyan,Jana,Jarame,Jarka,Jasmuniure,Jassa,Jaugwan,Jaumalon,Jawhar,Jeabrylla,Jealla,Jeanoic,Jelifem,Jemara,Jeniver,Jerco,Jerguo,Jeudriel,Jezzix,Jibran,Jibril,Jiel"
+" "
+"Dahr,Jiryan,Jissa,Jizz,Joll,Jolla,Jona,Jongwen,Jonoic,Jora,Jorka,Jovyan,Jowe,Jubair,Judda,Juffarin,Jugrund,Jull,Julonna,Jumah,Junayd,Jura,Jureh,Jusif,Juturne,Juwain,Jwll,Jwlyan,Jycla,Jyniver,Jynoic,Jyrka,Jyvyan,Kadar,Kadin,Kadir,Kahil,Kalesiw,Kaliez,Kalinthya,Kalknix,Kall,Kalynteri,Kategard,Karak,Karbuk,Kargnak,Karterak,Karum,Kauthyn,Kayrak,Kegchitosh,Kelkrar,Kepz,Kernix,Kersezz,Kerta,Kertrasz,Kerx,Kerxenix,Kezz,Khaliq,Khayr,Khimessei,Kiryle,Klexaz,Klezyx,Khangatilha,Kiepp,Kierkugar,Kilkrar,Kingrok,Kitara,Kladiul,Klept,Klowe,Klud,Koen,Kognucha,Kokkan,Kolbyn,Koleri,Kolk,Komak,Koqeiri,Koqnir,Korgnak,Koria,Kork,Koruck,Koslourg,Kou"
+" "
+"Korul,Kórrigan,Kramak,Krog,Krukrak,Krumuk,Kruo,Kuknuk,Kurkur,Kurmak,Krisva,Konstentyn,Korim,Koschye,Krarax,Krenarex,Krex,Krinex,Kroo,Kropstin,Kthulju,Kurmalund,Kushana,Kyrtk,Laeniver,Laenoic,Laeryan,Lagrest,Lagusster,Laivaergne,Laizix,Lalaith,Lamatro,Langwen,Laomedontu,Laphira,Larka,Lassa,Lauvin,Lazki,Lealonna,Lealyan,Ledda,Legilad,Legorfindil,Legorfirion,Legorniath,Leifarom,Leivura,Lelonna,Lelyan,Lengwen,Leprethnaum,Lerka,Lessa,Leucotoe,Leukritia,Leuria,Lewlla,Licurgo,Lidda,Lill,Lilupar,Lina,Lipku,Lirka,Liryan,Lisgurerg,Lisidice,Lisuvik,Livyan,Lixeez,Loberta,Lobrishg,Locla,Lodda,Lollyra,Lolonna,Lomurg,Lophareon,Lorbuc,Lorquiel,Lortand,Lorthac,Lorthik,Loturni,Loubregarc,Loungodul,Lowryan,Luanud,Luargko,Lucanaor,Lugoum,Lullah,Lulyan,Lungwen,Lunoic,Luriniel,Luryan,Luvatamir,Lwcla,Lwnoic,Lycla,Lylla,Lylyan,Lyna,Lynoic,Lómariand,Maecla,Maeniver,Maerilna,Magirilion,Mahjub,Mahmud,Mahrul,Maijzasal,Maimun,Makron,Malaputo,Malatare,Maldurse,Mamurio,Mansrabunag,Maraldur,Mariudan,Markaak,Mar"
+" "
+"Kaog,Markuk,Marthaol,Maru,Marvin,Masaw,Masude,Masulami,Mausika,Mavyan,Meacla,Mealyan,Meana,Meangwen,Meanoic,Medda,Medesicaste,Meglusur,Megrollu,Meiseleng,Mejmed,Melalin,Meleagride,Melesagor,Melianur,Melicenea,Melifior,Melisteo,Mengwen,Meniver,Meradda,Meraecla,Meraelyan,Merall,Merallyra,Merana,Meranoic,Merealonna,Mereangwen,Mereaniver,Merebrylla,Merella,Merengwen,Meressa,Mergcan,Merilyan,Merina,Merinoic,Merissa,Merivyan,Merknik,Merogiv,Merolla,Merolyan,Merona,Meroniver,Mersulla,Merubrylla,Merulda,Merurka,Merwlla,Merwnoic,Merwryan,Merydda,Merylyan,Mesligfor,Messa,Meuj,Merask,Meyumn,Mhoro,Midsidrie,Migly,Milandra,Milonna,Minoloti,Miomir,Mireyah,Mirsha,Miskapuo,Mithrand,Miyen"
+" Kha,Mohrouh,Molokti,Molyan,Mondir,Moniver,Monsantir,Mor "
+"Drokuhr,Morduf,Morelna,Morgemil,Morisyeva,Morridgen,Moruboa,Morunthya,Morwen,Mossa,Mosgarnaruth,Mot,Mouresla,Moxanzz,Mubdugollush,Mudda,Mughni,Muhodre,Mulcatsol,Mullyra,Mulyan,Muneirwe,Munsif,Muntasir,Muqtadir,Murad,Murid,Murshid,Murstain,Murtada,Muryan,Musawwir,Mwbrylla,Mwlyan,Mwngwen,Mwnoic,Mycla,Myall,Mylla,Myngol,Myra,Myvyan,Mylith,Nabrylla,Nadrieldor,Naecla,Naell,Nalith,Nalyan,Nangwen,Naraithil,Naraithing,Naraithol,Naraithsil,Naraithsol,Naraithum,Naralan,Naralil,Naralsil,Naraluh,Naratlol,Naratsil,Narcating,Narcativ,Narcatol,Narcatsil,Narcatsol,Nardrab,Nardril,Nardring,Nardrig,Nardrol,Nardarsil,Nardrsol,Nardrul,Nardurah,Narduril,Nardurol,Nargak,Nargig,Narthalo,Nasdrubolish,Nathlaroel,Naucrati,Naumaragoth,Naxisz,Nazmi,Nealla,Neallyra,Nealonna,Nearof,Neavyan,Nemertex,Nera,Nerogish,Nessa,Ngondo,Nibalusg,Nibiru,Nibrash,Nidal,Nieron,Nimbuel,Nimdroth,Ninoic,Niryan,Nivyan,Nix,Noalor,Nobrylla,Nocht,Noctaul,Nolla,Nonoic,Nokan,Norfilith,Norfindir,Norka,Noryan,Noughalya,Nuaym,Nucla,Nuhayd,Nuhmu,Nulla,Nulyan,Numair,Numan,Nungwen,Nuri,Nusktar,Nusrah,Nuvyan,Nuyll,Nwllyra,Nwryan,Nwvyan,Nybrylla,Nylyan,Nymn,Nyryan,Nyssa,Nyvyan,Obeor,Odailuo,Oden,Odiel,Odo,Odoacru,Odurme,Oenoxoe,Ofirion,Ogdenescu,Ogi"
+" "
+"Kegnach,Ogliara,Ohcan,Ohecyn,Oktubahli,Olamdursol,Olath,Olegar,Oleif,Oleiron,Olineur,Olk,Olufarin,Omerith,Omoran,Onesipo,Onore,Onyi,Oona,Opalei,Orguathise,Orguel,Orialdur,Oridash,Orkut,Orleomyr,Ormagg,Orofarnië,Oroloqi,Orrh,Orsendur,Orsifal,Orsil,Orugusk,Osarcyn,Osbuhgnax,Oselienn,Oshibi,Osse,Osteron,Othroshagrat,Otogarim,Otride,Otsere,Ougdram,Oumina,Owac,Owadd,Owaddyn,Owaecyn,Owaedry,Owain,Owaryn,Oweran,Owercyn,Owidry,Owinyc,Owodd,Owoddry,Owogwyn,Owollyn,Oworcyn,Oworraent,Owuddyn,Owugwyn,Owur,Owyran,Oxpeii,Padrusil,Pagdish,Pagor,Pahsur,Paige,Palo,Pambedrumne,Pamirie,Paol,Parag,Parduthal,Parsifeluem,Parviz,Pashnak,Paskemuthar,Pausul,Pedergish,Pegrorausg,Pelaithaz,Pelaithil,Pelaithing,Pelaithiq,Pelaithlot,Pelaithol,Pelaithsil,Pelaithsol,Pelalil,Pelaling,Pelalsil,Pelalsol,Pelalum,Pelatil,Pelating,Pelatol,Pelatsil,Pelatur,Pelcating,Pelcatlop,Pelcatol,Peldrat,Peldril,Peldrsol,Peldruh,Pelduril,Pelduring,Pelduri,Peldurol,Peldursol,Peldurum,Pelthaal,Pelthasil,Pelusso,Persidul,Perthwan,Pesralg,Pestiurn,Phalaxi,Phoebe,Phutalmo,Pidush,Pigrush,Pilg,Pinak,Piper,Pirgasb,Plaxih,Plesix,Podager,Podish,Podusg,Poledean,Polg,Porbag,Porg,Pourk,Poret,Porfildur,Poshnak,Pradish,Pragdush,Pragor,Pralg,Pralo,Prang,Praol,Prarag,Prarg,Prark,Prartsag,Prashnak,Praurk,Prerfosurz,Presch,Pridish,Prigar,Prigdish,Prigor,Prilg,Prilo,Prinak,Priol,Prirbag,Prirg,Prirt,Priurk,Prodash,Progush,Prolg,Prolo,Pronak,Prong,Pronk,Prool,Prourk,Prudish,Prugar,Prugdish,Pruk,Prunak,Prunk,Prurbarg,Prurg,Pruurk,Psipocum,Ptoliporto,Puladam,Pulg,Pulo,Punak,Punhg,Purag,Purg,Pusmahalu,Pustten,Puurk,Pyanepsie,Pyldur,Pyturc,Qadir,Qahhar,Qalioqe,Qam,Qanatloc,Qawi,Qayyum,Qeg"
+" "
+"Verkum,Qilenrama,Qitanira,Qizzeq,Quarismesta,Quddul,Quirenia,Quirisofo,Quisadz,Quroqoniba,Rabarecnu,Rabolux,Radash,Raebrylla,Raera,Raerka,Ragar,Ragdish,Rah,Rahlea,Rahunlar,Raithuin,Rakovisu,Ralonna,Raluenil,Ramnusia,Rang,Ranko,Ransevkurr,Raol,Rara,Rarag,Rarbag,Rark,Rarka,Rashid,Rashnak,Rassa,Rastud,Raurk,Ravsnuc,Rawdda,Razzaq,Reacla,Realla,Reana,Reangwen,Reh"
+" "
+"Shai,Rella,Relyan,Rengwen,Rei,Reknak,Renuto,Rerka,Reshan,Revyan,Rewllyra,Riamn,Rialna,Rik,Rileg,Rilluna,Rilmandil,Rilmasil,Rilyan,Rimilmandir,Rinak,Rirg,Rirka,Rithrandil,Riwlla,Roacura,Rodry,Rodush,Rogdish,Rohul,Roirk,Rolduen,Rolo,Ronak,Rorfindil,Rorta,Roth,Rubenof,Rucla,Rudash,Rufaroz,Rugar,Rugdish,Ruhnar,Ruk,Rulairuki,Runadrieng,Rung,Ruol,Rurag,Ruryan,Rushnak,Ruslika,Ruvlonna,Rwngwen,Rybrylla,Ryna,Ryngwen,Rynk,Rytuirka,Sador,Saell,Saellyra,Saenuber,Saerka,Saessa,Sahnor,Saibarini,Sailik,Salanix,Salimeh,Salik,Sallyra,Salmiegar,Salmiriem,Samosatu,Sandix,Sangaratil,Sanoic,Sanrauv,Saprazz,Sapnux,Saqr,Sara,Saria,Sariyah,Sarjine,Sarrusavag,Sarumegor,Sasegar,Sassa,Sati,Satral,Savnish,Schohozarog,Scorbu,Searka,Sebetide,Sebrun,Sehetti,Seif"
+" "
+"Girud,Seliandra,Selinunt,Seluomon,Sembriolibam,Semirami,Sena,Senoic,Sentinumo,Senzlerne,Seplattin,Seprorian,Sera,Sergustu,Serieva,Seulona,Sgalisse,Sgriag,Shaelmoc,Shakur,Siddiq,Sieulieare,Sigrery,Sigwuverno,Silfeleng,Sillumatti,Silmiril,Silonna,Sinan,Sinderul,Sinobia,Sira,Siraj,Sireyan,Sirvou,Sivnisiek,Skalix,Skandim,Skazix,Skeely,Skeezun,Sklizle,Skloe,Skorh,Skrez,Slive,Slizil,Slughirago,Slouag,Smirgaurn,Smirk,Sniuhgor,Sodelstan,Soederlein,Soereng,Sofian,Soldevig,Soleinth,Sonna,Soraceno,Sorekol,Sorfind,Sorivor,Sorka,Sorolle,Sougorn,Sowngwen,Soxgeurt,Sprizz,Sqal,Srygor,Ssexur,Sterizz,Stur,Subhi,Subrylla,Sucrator,Sufyan,Sugner,Suhayb,Sull,Sulonna,Sulyan,Suniong,Suqruto,Sura,Surdakhaur,Sussa,Suvok,Sverunidgi,Svignir,Swanoic,Swlla,Swlyan,Swvyan,Sylar,Syllyra,Sylyan,Syssa,Tadriendir,Tagnia,Takolak,Talerez,Tallasue,Talsthaf,Taltibio,Tanaël,Taral,Taraldur,Tarcatum,Tarex,Tarigolin,Tarnix,Tarsaff,Tarthmoul,Tarysth,Tauh,Taumacu,Tavyscite,Tawfiq,Tawhid,Tawwab,Taxiarqi,Taymullah,Taysir,Tel-"
+"Fabiel,Telxipea,Temisnioz,Teptum,Tequely,Terpsicore,Terthasol,Tesmurad,Teugarsen,Thael,Thalaisiel,Tharil-"
+"Garën,Thessaly,Thirgoalin,Thorsgan,Thrambor,Thraom,Thraral,Thrilgamir,Thrilmandel,Thrimir,Thrion,Throlar,Thrund,Thryriand,Thyndamara,Tilgan,Tilmalad,Timoh,Tinimir,Tinindil,Tinithrar,Tinoldor,Tinond,Tinorfind,Timbirtidul,Tirasch,Tirax,Tirix,Tissamo,Tiznuscievi,Tombadulum,Torval,Torfildur,Torquc,Trabuk,Trakkon,Trathdurl,Treidursol,Tremacalo,Trithaithan,Trithaithil,Trithaithif,Trithaithlov,Trithaithsil,Trinaithsol,Trirtaithu,Trigalilh,Trithalol,Trithata,Trislatil,Trithatloh,Triwatsol,Trithcatlo,Trithcatsol,Trithcatug,Trithdril,Trithdring,Trithdrim,Trithdrloh,Trithdrun,Trithduril,Trithduring,Trithdurlom,Trithdurol,Trithdursil,Trithduru,Trithaap,Trimathail,Triththaing,Triththauq,Trogish,Tufail,Tujcara,Tunorfiwyn,Uarso,Ubereo,Ucalea,Udirne,Udomaela,Uffestux,Ugmelorth,Uksul,Ulmë,Umutno,Unadrieldor,Unadrier,Unalah,Unaraldur,Unaril,Unénia,Uneldor,Ungolyost,Unil-"
+"Gadia,Unilmadia,Unindra,Uniolia,Uniolith,Unionia,Unioril,Unondir,Unorfildor,Unorfiril,Unorfiwen,Unulad,Unóndra,Unuviel,Unynia,Uradriela,Uraclya,Uradriedia,Urambar,Uránia,Urárith,Urebriclya,Ureclya,Urilmadia,Urilmawiel,Uriolia,Urkar,Urkiark,Usguthmaonu,Ushvasali,Uspai,Usthinier,Utter,Utok,Uzra,Vaclo,Vadoish,Vadush,Vaescansa,Vak,Vaklin,Valcemlegduf,Valinior,Valnirra,Valnit,Valnor,Vandir,Varag,Varala,Vararion,Varbag,Vashitt,Vaudash,Vebril,Vebrilah,Vebrinduil,Velisk,Vellin,Velnick,Venduvalo,Venezh,Veralon,Veramo,Verath,Verditt,Verilial,Verkon,Verlinn,Vermad,Vernoro,Verra,Vertick,Verusagno,Veshtar,Veskalica,Vigar,Vigdish,Vigor,Vihlo,Vilg,Vilsug,Vink,Virag,Virishneya,Virnella,Viroika,Virrugo,Virt,Virugusso,Vishnak,Vitrusgha,Vixezburto,Vladnir,Vladuanov,Vogdish,Vogor,Volugnaso,Vonak,Vorfin,Vorfindil,Vorg,Vork,Voshnak,Vougielan,Vourk,Vradash,Vragar,Vragdush,Vragor,Vralo,Vrang,Vrarbag,Vrarg,Vrart,Vraurk,Vren,Vridash,Vridish,Vrigor,Vrinak,Vring,Vrirt,Vrishnak,Vriurk,Vrodash,Vrogar,Vrogor,Vrolo,Vrong,Vrorg,Vrork,Vrudish,Vrugdush,Vrulg,Vrung,Vruol,Vrurg,Vrurt,Vruurk,Vudish,Vugnael,Vuk,Vulg,Vulo,Vulsulta,Vumla,Vunak,Vurag,Vurbag,Vurg,Vushnak,Vushtin,Vylgrid,Wadud,Wajid,Wakh,Wakil,Walayla,Warathan,Warith,Wedielya,Wendomilla,Weira,Westraz,Widviringio,Wiggur,Wilnira,Wilp,Windego,Wintfeil,Wonrunmaldin,Worolusga,Wotiah,Wurgturah,Xaffrasz,Xaigatil,Xaihan,Xalertha,Xarangat,Xartrez,Xasz,Xaztex,Xeminei,Xenghir,Xerxix,Xibir,Xiesza,Xirasz,Xirr,Xirtra,Xirz,Xiterz,Xixzart,Xoishcan,Xoloshiva,Xour,Xue,Xu"
+" "
+"Ghamul,Yanirah,Yarabo,Yatungoa,Yaugol,Yazan,Yazid,Yeamila,Yeseriz,Ygrille,Ylena,Ylogcan,Yogthila,Yowuddry,Yrt,Ysacla,Ysaenoic,Ysaerka,Ysanoic,Yseacla,Ysealonna,Ysealyan,Ysedda,Ysell,Yselonna,Ysilyan,Ysinoic,Ysodda,Ysongwen,Ysura,Yswniver,Ysycla,Ysylla,Ysylyan,Ysyrka,Ysyssa,Yuhgurtah,Yunur,Yuraena,Yuriaz,Yushua,Yusri,Yutarh,Zaembriel,Zagriw,Zahir,Zaki,Zakwan,Zalamua,Zalde,Zalmut,Zandler,Zarep,Zazabi,Zburait,Zebeli,Zedrix,Zeikhal,Zeliste,Zenur,Zhiro,Ziembieth,Zilrix,Ziyad,Zogier,Zora,Zorgal,Zorugoth,Zoruleive,Zouhan,Zouridga,Zubayr,Zuhayr,Zuree,Zzupde"
+msgstr ""
+"아반,아비딘,아카칼리데,아키마엘리,아크라토포로,악타로프,아드함,아드난,아드라미티오,아엘-"
+"라갈레트,아에레스테,악시르트,아흐야울,아이가이타,아이가이틸,아이가이톨,아이갈람,아이갈링,아이갈리르,아이갈롤,아이갈신,아이가탄,아이갓로드,아이갓셀,아이갓솔,아이가투,아이그카타즈,아이그카틸,아이그카팅,아이그카팀,아이그캇솔,아이그카투르,아이그드링,아이그드릴,아이그데르실,아이그두르솔,아이그타인,아이그타심,아이그타우그,아인후올,아이누엘,아즈"
+" "
+"타움,아코아르크,아코르트,악잘크,알라브릴라,알라에브릴라,알라에니베르,알라이타,알라이트,알라이톨,알라이트솔,알라이투,알랄릴,알랄라,알랄롤,알랄솔,알랄움,알라마데,알라마이테올,알라나믹스,알라리안,알라타르크,알라팅,알랄로르,알랏실,알베라스트,알다르솔,알드람,알드릴,알드링,알드림,알드룰로,알드롤,알둠캇일,알두라,알두를로스프,알두롤,알레아클라,알레아라,알레아르카,알레나,알렝귄,알레욱시아,알-쿠즈,알리아노라,알리그브룰라,알릴로나,알림,알리나시,알링웬,알리노에,알리스트레,알마르시,알민조,알롤로나,알로라,알타암,알타일,알탈레아,알탈로,알타올,알타실,알타솔,알타우,알티엘라,알루브릴라,알루네이레,알루니베르,알루리안,알루사,알우클라,알울리라,알울리안,알우나,알리노익,알리라,알리리안,알마디,알타프,아메데,아밀말두르,아모르피르,아모윈,암프릭스타,아나이타를,아나이팅,아나이투,아날릴,아날롬,아날롤,아날실,아날루,아나타즈,아나팅,아나티르,아나톨,아낫솔,안캇아즈,안캇일,안캇올,안캇투,안드릴,안드리,안드룰롭,안드룬,안두릴,안두롤,안두르솔,안두루,아네리온,아넥시르,앙글라켐,아닐라드,아닐가윈,아니트라즈,앙크토레즈,아노이틸,아노우시,안타라,안타알,안타잉,안타임,안타올,안타실,안타소르,안타울,아누이,아눈딜,아르데니아,아른엔비어,아르카름,아릭스,아른온도,아사델,아스바살리에그,아스갈리오트,아스게르타세,아스그리아,아시라프,아스베트로,아티르,아트레데,아우필로크,아우기넷,아우기타드,아우가이팅,아우가이트실,아우가이투르,아우갈람,아우갈링,아우가팅,아우갓로,아우갓올,아우갓실,아웃캇일,아웃캇운,아웃드린,아웃드루르,아웃두르실,아웃두라,아웃두릴,아웃두르솔,아웃두루,아웃타일,아웃타임,아웃탈로,아웃타올,아웅구불랑,아우스레트굴,아우우글란,아욱스도르나트,아베노레,악시즈,아지무르,아즈카빈,아즐루헤브,아조레인,아주레나,아주릭스,바아르트,바브레카,박부크,바드리,배르갈티르,바가르,바하,바하믹스,바히이,바라그디,바를드루스크,바호멧,발펠로르,바크르,바크리,발리그,발퀘리아,반다르,바오그리시,바라둑,바라그,바라카,바르바그,바르군틸,바르쿠크,바르나사브,바시낵,바우가러,바우그두롤,바이하르,벨리네우르,벨란딜,벨레우마오디르,벨리세,벨리트랄도르,벨론델,벨루르메인세일,벨리리온,벤테시키메,베올두프,베라오르그,베르체네고,베르그스노트,베리그스탄,베르크"
+" "
+"체릿,베르세비안,베우칼리올,분크,비코루,비두시,비엘루라,비에르투르,비픽스,빅,빌랄,빌레라우,빌그,빌로,비낙,비올,비오트페오르스트,비르트,비시르,비실루아시,비스테뭇,비웅,브조우즈,블로이크,블로카르,블리그윈,보그두시,보고르,복,볼그,볼루니르,봄두릴,보르둔투르,보리그,보르쿠크,보로스노앗,보르트,보시낵,볼로시,브래다,브라코르,브라사,브라비안,브레아브릴라,브레알,브레알라,브레알로나,브레아나,브렐,브렐리라,브레라,브레르카,브레리안,브리클라,브리르카,브리타이톨,브리토마르틱스,브로브릴라,브로그크,브롤리라,브로나,브로노익,브로라,브루가란티,브루궁,브룬웬,브루오르카,브루리안,브루라,브리클라,브리노익,부카크,불루크,부다일,부두시,부그디시,부크,부낙,부라그,부르그,부르가우르,부르한,부르크,부우르크,카엘"
+" "
+"에이누르,카엘라,카에나,카엔웬,카에르베쿠토,카에비안,칼두르,칼레브린델,칼레브린디르,칼리아나사,칼리미레,칼리스비아,칼라,칼루사,칼로위엔,칸두일,카란피르,카랑,카르두안,카리브디,카를라,카르세글리오,카사,케알로나,세크로피도,셀랑,세라,세리안,세우다,차그론,차밀,치오나,추루몰,시브릴라,시클라,시노익,시라,시르두엘,시르사이,시사,시트랄두르,클라클라,클라엘라,클라엘리안,클라에노익,클랄라,클랄리라,클라라,클라르카,클라비안,클레아클라,클레알,클레알리안,클레아나,클레에지,클레미르폰,클레노익,클레즈,클리브릴라,클릴,클릴리라,클릴리안,클리노익,클리사,클로브릴라,클롤리라,클로나,클로틸드리엔,클룬웬,클루르카,클루비안,클우다,클울라,클우비안,클리다,클릴라,콜그톤,코라,코란티오,코르카르,코로드로,코루구시,코리안,크라다곤,크레스푸오,크루드보,크리스가린,쿠클라,쿠다,쿤디르,쿠르코피아,쿠르나쿠약,쿠리안,쿨레이나,퀸웬,씨위비안,씨다,씰라수,씰라,씰리라,씰리안,씨니버,씨비안,다비르밀리운,다브누사고시,대다,대리안,대엔웬,대노익,다그네아,달라레이카,달리라,달말소,다멜,당웬,단몬룰밤,다라,다사,데아노익,데아사,데보리사,데이밀루엘,델란델,델라랄두르,델카크,델라,델릴말도르,델리올,델로리온,델룬딜,데말롯,데믈라,데냐,데르체토,데우칼리온,데비안,데얄,다크완,도가리,디클라,디주프,디니버,딘실,디랄라,디라퀴오,디사,도비엘론,도부라,돌리라,돈몰리그,도르노트,도로발,도로미나,드라간일로,드라산,드렌시그,드레트몰,둘리라,둘로나,둘라이틸,둘라이팅,둘라이트롯,둘라이트실,둘라이트솔,둘랄랏,둘랄린,둘랄실,둘라틸,둘라팅,둘라톨,둘랏솔,둘라투르,둘캇일,둘캇팅,둘캇롬,둘드릴,둘드릭,둘드랄로,둘드롤,둘프리실,둘드루즈,둘두라그,둘두링,둘두르실,둘두루르,둘니카,둘탈롤,둘타실,둘타솔,둘타운,두만티,두무티,두르바그,두르크투버,두셀리아,두브릴라,두다,두나,두노익,두라,디브릴라,디다,디사,에아레위엘,에아릴마데,에알루목스,에베르니트,에부그루시,에브라함,에달레이,에두스텐,에푸르,에프닉스,에프누시구라즈,에그노시안,에굴림,에이니디아,에이살,에이차,에키,엘라드리엥,엘라클라,엘라에다,엘라엘,엘라엘로나,엘라에사,엘라에비안,엘라이센,엘랄리라,엘랄로나,엘라라,엘라버른,엘레브릴도르,엘레브린델,엘레란,엘렘보르,엘레미르,엘레알라,엘레아노익,엘레노익,엘레르카,엘레우시니온,엘리오미르,엘리온딜,엘리타에,엘리비안,엘로무아르,엘로르필라드,엘라드리엔,엘리올도르,엘리올리트,엘로르피르,엘스비리즈,엘루에소,엘룰로나,엘루르카,엘발,엘반디르,엘바라미르,엘비올두르,엘울리라,엘울로나,엘운웬,엘우라,엘리클라,엘릴리라,엘링웬,엘리니버,엘리리온,엘리르카,엘제아,에나리올,엔다이라,엔도르나타인,에누일람데,에오윔보르,에오위오미르,에오윌라,에포누레,에라다시,에라디우시,에라그디시,에라고르,에라낙,에랑,에라르그,에라르트,에리그두시,에릭,에리낙,에리올,에리라그,에리르바그,에리르그,에리르트,에리시낵,에리우르크,에로그두시,에록,에롱,에로르바그,에르트존,에루디시,에루가르,에루그두시,에룰로,에룬크,에루올,에루라그,에루우르크,에시,에시키레크,에스모드리고르,에스티엘렘,에스틴팔리데,에스툼부프라그,에체니아,에우불레오,에우가보르,에울림,에울카이아,에우리노아,에우르"
+" "
+"마숩,에비리그나,에보울리,에크스나웃,에이유,에즈네알,파부다인,파드리엔델,파두크,파에민욘,파에르빌림,파이미네이,파이술랄,팔빌라,판투르핀,팔룰미소,파미,파나이트실,파란디르,파를라미르,파르셀루오,파우가멜,파지,파윈,페아고일,페바르넷,페플레르차운,페라벨라,페르디간,페르파모라,페르시자드물,페스툼,페이즈,프고르,피즐란딜루,피에나르,피갈핀,필라누르,필릭토르,필바레울,피나프골,핀돌리트,핀두아노르,피오릴,피오를라,피즈트랙스,플라아멘틸,플릭스타,플리질,플로크,프니가,포이기노크,폴마가우,폰다레아,폰가오른,포르몬토르,포루잔데,푸굴,푸툼,푸데,프렐라,프레오메다,프리크,프리즐,프라온데릭,프티오티데,푸다일,푸엔시티엠,푸이테크,푸를람타올,푸르비라모,푸세노익,푸믄,피리온,가비톨,가다시,가드리엔딜,가드리엥,가그두시,가고르,갈랄리트,갈라르,갈레크,갈렐라,갈렐두르,갈렐리트,갈로,갈시,가말,가밀레나오,가낙,가나마우,가넬피르,가운크,가올,가라딘,가라그,가랄도르,가르친,가르크,가르쿠크,가를란,가를린,가루지,가루시,가르질리움,가시낵,가시나르,가스톨,가우그라멜로,가운텔라르,가우시,가우스툰,가우나,게그치,겔카,겔크닉,게노로,게르촉,게우클라,가푸르,가칸,가니,가이트,기엥크,기고르,길란,길로,기낙,깅,기옴보르,기르트,기샤리,글라마드리엘,글라마이틸,글라마이팀,글라마이톨,글라마이트솔,글라말릴,글라말링,글라말리르,글라말롯,글라말루프,글라마투그,글람캇아,글람캇일,글람캇우,글람드란,글람드릴,글람드렐로,글람디르솔,글람두라인,글람두링,글람두릭스,글람타알,글람타실,글람타솔,글람타우그,글라라릴,글라우누르그,글릴말,글리미르,글로민,글로미르,그누크,고아르크,고그디시,고그두시,고마이타르,고마이틸,고마이트솔,고말릴,고말룩스,고마타르,고마틸,고마팅,고마티브,곰캇일,곰캇로,곰드라,곰드릴,곰드링,곰드림,곰드롤,곰두리,곰두를로,곰두르실,곰두르솔,곰두룹,곰타아츠,곰탈로르,곰타솔,고르핀딜,고로스프킨,고르트,고루크,고르졸,고시낵,고우스트,고즈미오그,그라다,그라클린,그라크,그랄그,그랄로,그라낙,그라올,그라오웃,그라르바그,그레라그록,그레트,그리벨,그리다시,그리에두시,그리다,그리가르,그리그니시,그리고르,그릴그,그릴로,그링크,그리르그,그리시낵,그리수글루낙,그리트마우,그로디시,그로가르,그롤그,그롱크,그로라그,그로르그,그로르크,그로르트,그로시낵,그로티시,그로우크,그루다시,그루그디시,그루그두시,그루크,그룰로,그룬크,그루올,그루르그,그루르트,그루우르크,그리마,구그디시,구그두시,굴캇팅,굴그,굴로,굼분둘룬,구말실,구낙,구옹,구르바그,구르트,구시낵,구르크,구름,구트모르코벨,과에라,과에사,과에아클라,과에다,과에르카,과이클라,과이르카,과오브릴라,과올,과오나,과온웬,과오노익,과오리안,과울리라,과우사,과이클라,과이다,기우비안,하보,하부다밀,하추엘,하다시,하데랄드,하디엘,하둠,하프마이진,하가르,하그델스타프,하그두시,하고르,하익,하캄,할리마니르,한폰더린칸,한크,하라그디눌,하레트,하리트,하르묵하그,하르팔리체,하르켐,하시낵,하스즈,하트네이,하우브,하웃두링,하우라피트코,하우시에그,하야나미,하야네,헤브릴,헤페즈,헤글레드나,헬드라,헤르벳,헤르트라지르,헤루도,헤스즈,헤지,히다스페,히두시,히그두,힐랄,힐그,힐가리온,힐마리안드,힐로노메,힐스마가트,히낙,힝,히올,히라그나,히르그,히실로엠,호브가르,호둘,호고르,호이,호이디시,호리누리에,홀루크,홍,호올,호르바그,호르핀델,호르그스텐,호르트,호우그센,하우스니크,후아다시,후알그,후크누불로,후디시,후에스크,후고르,후크,후로,후올,후라그,후르바그,후림툼,후르크,후시낵,후우르크,후야가루,입맥시레,입마할레즈,입송고르드,익트카,익타레우스,이달루암,이드라실,이에칼,이피아나사,이프바짐,이그페니오르트,이그마베나르,이부르,이무시프,이카테레,일라모운드,일리시아데,일라,일미위르,일살라아,이나이,이날라이,이넥시,이라에네,이렐레,이리델리아,이릭스,이립자,이로브라인,이사드리엥,이사우리코,이셀란,이실만델,이시리온,이소르필라드,이소르핀디르,이수르님,이수윈,이신델,이사웬,이세브리디엔,이세브리니아,이셈라트,이센드라,이생,이세비엘,이실-"
+"가리트,이시트라디엔,이시트라리트,이시트라위엘,이소티엔,이스모즈그,이살라이,이스티라주,이트루르나에,이바인나,이베론,이빈하오,이보니타,이즈노우드,자부옥,자클라,자드노르,자에나,자에르카,자에비안,잘라사드,잘리카,잘리안,자나,자라메,자르카,자스무니우레,자사,자웃완,자우말론,자와르,제아브릴라,제알라,제아노익,젤리펨,제마라,제니버,제르코,제르구오,제우드리엘,제직스,지브란,지브릴,지엘"
+" "
+"다르,지리안,지사,지즈,졸,졸라,조나,종웬,조노익,조라,조르카,조비안,조웨,주바이르,주다,주파린,주그룬드,줄,줄로나,주마,주나이드,주라,주레,주시프,주투르네,주웨인,줄,줄리안,지클라,지니버,지노익,지르카,지비안,카다르,카딘,카디르,카힐,칼레시우,칼리에즈,칼린티아,칼크닉스,칼,칼린테리,카테가르드,카라크,카르부크,카르그낙,카르테라크,카름,카우틴,카이라크,케그치토시,켈크라르,케프즈,케르닉스,케르세즈,케르타,케르트라스즈,케르크스,케르크세닉스,케즈,칼리크,카이르,키메세이,키릴,클렉사즈,클레직스,칸가틸하,키에프,키에르쿠가르,킬크라르,킹록,키타라,클라디울,클렙트,클로웨,클루드,코엔,코그누차,코칸,콜빈,콜레리,콜크,코마크,코케이리,코크니르,코르그낙,코리아,코르크,코룩,코슬로르그,코우"
+" "
+"코룰,코리간,크라마크,크로그,크루크라크,크루무크,크루오,쿠크누크,쿠르쿠르,쿠르마크,크리스바,콘스텐틴,코림,코시에,크라락스,크레나렉스,크렉스,크리넥스,크루,크롭스틴,크툴주,쿠르말룬드,쿠샤나,키르트크,라에니버,라에노익,라에리안,라그레스트,라구스테르,라이배르그네,라이직스,랄라이트,라마트로,랑웬,라오메돈투,라피라,라르카,라사,라우빈,라즈키,레알로나,레알리안,레다,레길라드,레고르핀딜,레고르피리온,레고르니아트,레이파롬,레이부라,렐로나,렐리안,렝웬,레프레트나움,레르카,레사,레우코토에,레우크리티아,레우리아,레울라,리쿠르고,리다,릴,릴루파르,리나,립쿠,리르카,리리안,리스구레르그,리시디체,리수빅,리비안,릭세에즈,로베르타,로브리시그,로클라,로다,롤리라,롤로나,로무르그,로파레온,로르부크,로르퀴엘,로르탄드,로르탁,로르틱,로투르니,루브레가르크,롱고둘,로우리안,루아누드,루아르그코,루카나오르,루고움,룰라,룰리안,룽웬,루노익,루리니엘,루리안,루바타미르,루클라,루노익,리클라,릴라,릴리안,리나,리노익,로마리안드,매클라,매니버,매릴나,마기릴리온,마주브,마무드,마르울,마이자살,마이문,마크론,말라푸토,말라타레,말두르세,마무리오,만스라부나그,마랄두르,마리우단,마르카악,마르"
+" "
+"카오그,마르쿠크,마르타올,마루,마르빈,마사우,마수데,마술라미,마우시카,마비안,메아클라,메알리안,메아나,메앙웬,메아노익,메다,메데시카스테,메글루수르,메그롤루,메이셀렝,메즈메드,멜랄린,멜레아그리데,멜레사고르,멜리아누르,멜리체네아,멜리피오르,멜리스테오,멩웬,메니버,메라다,메라에클라,메라엘리안,메랄,메랄리라,메라나,메라노익,메레알로나,메레앙웬,메레아니버,메레브릴라,메렐라,메렝웬,메레사,메르그칸,메릴리안,메리나,메리노익,메리사,메리비안,메르크닉,메로기브,메롤라,메롤리안,메로나,메로니버,메르술라,메루브릴라,메루르다,메루르카,메루라,메루노익,메루리안,메리다,메릴리안,메슬리그포르,메사,메우즈,메라스크,메윰,모로,미드시드리에,미글리,밀란드라,밀로나,미놀로티,미오미르,미레야,미르샤,미스카푸오,미트란드,미옌"
+" 카,모로우,몰록티,몰리안,몬디르,모니버,몬산티르,모르 "
+"드로쿠르,모르두프,모렐나,모르게밀,모리시에바,모리젠,모루보아,모룬티아,모르웬,모사,모스가르나루트,못,모우레슬라,목산즈,무브두골루시,무다,무그니,무호드레,물캇솔,물리라,물리안,무네이르웨,문시프,문타시르,묵타디르,무라드,무리드,무르시드,무르스테인,무르타다,무리안,무사위르,무브릴라,무리안,뭉웬,무노익,미클라,미알,밀라,밍골,미라,미비안,밀리트,나브릴라,나드리엘도르,나에클라,나엘,날리트,날리안,낭웬,나라이틸,나라이팅,나라이톨,나라이트실,나라이트솔,나라이툼,나랄란,나랄릴,나랄실,나랄루,나랏롤,나랏실,나르캇팅,나르캇티브,나르캇올,나르캇실,나르캇솔,나르드랍,나르드릴,나르드링,나르드리그,나르드롤,나르다르실,나르드르솔,나르드룰,나르두라,나르두릴,나르두롤,나르각,나르기그,나르샬로,나스드루볼리시,나슬라로엘,나우크라티,나우마라고스,낙시스즈,나즈미,네알라,네알리라,네알론나,네아로프,네아비안,네메르텍스,네라,네로기시,네사,느곤도,니발루스그,니비루,니브래시,니달,니에론,님부엘,님드로스,니노익,니르얀,니브얀,닉스,노알로르,노브릴라,노흐트,녹타울,놀라,노노익,노칸,노르필리스,노르핀디르,노르카,노르얀,노우갈랴,누아임,누클라,누하이드,누흐무,눌라,눌얀,누마이르,누만,눙웬,누리,누스크타르,누스라,누브얀,누일,눌리라,눌리안,눌비안,나이브릴라,나일리안,님,나이르얀,니사,나이브얀,오베오르,오다일루오,오덴,오디엘,오도,오도아크루,오두르메,오에녹소에,오피리온,오그덴에스쿠,오기"
+" "
+"케그나흐,오글리아라,오흐칸,오헤신,옥투바흘리,올람두르솔,올라스,올레가르,올레이프,올레이론,올리뇌르,올크,올루파린,오메리스,오모란,오네시포,오노레,오니,우나,오팔레이,오르구아시세,오르구엘,오리알두르,오리다시,오르쿠트,오를레오미르,오르마그,오로파르니에,오롤로키,오르,오르센두르,오르시팔,오르실,오루구스크,오사르신,오스부그낙스,오셀리엔,오시비,오세,오스테론,오스로샤그라트,오토가림,오트리데,오체레,오우그드램,오우미나,오왁,오와드,오와딘,오웨신,오웨드리,오웨인,오와린,오웨란,오웨르신,오위드리,오위닉,오워드,오워드리,오워그윈,오워린,오워르신,오워라엔트,오우딘,오우그윈,오우르,오위란,옥스페이,파드루실,파그디시,파고르,파스루,페이지,팔로,팜베드룸네,팜이리에,파올,파라그,파르두살,파르시펠륨,파르비즈,파시낙,파스케무사르,파우술,페데르기시,페그로라우스그,펠라이사즈,펠라이실,펠라이싱,펠라이시크,펠라이슬롯,펠라이솔,펠라이스실,펠라이스솔,펠랄릴,펠랄링,펠랄실,펠랄솔,펠랄룸,펠랏일,펠라팅,펠라톨,펠랏실,펠라투르,펠카팅,펠캇롭,펠캇올,펠드랏,펠드릴,펠드르솔,펠드루,펠두릴,펠두링,펠두리,펠두롤,펠두르솔,펠두룸,펠타알,펠타실,펠루소,페르시둘,페르스완,페스랄그,페스티우른,팔락시,피비,푸탈모,피두시,피그루시,필그,피낙,파이퍼,피르가스브,플락시,플레식스,포다게르,포디시,포두스그,폴레데안,폴그,포르바그,포르그,포우르크,포렛,포르필두르,포시낙,프라디시,프라그두시,프라고르,프랄그,프랄로,프랑,프라올,프라라그,프라르그,프라르크,프라르트삭,프라시낙,프라우르크,프레르포수르즈,프레시,프리디시,프리가르,프리그디시,프리고르,프릴그,프릴로,프리낙,프리올,프리르바그,프리르그,프리르트,프리우르크,프로다시,프로구시,프롤그,프롤로,프로낙,프롱,프론크,프룰,프로우르크,프루디시,프루가르,프루그디시,프루크,프루낙,프룬크,프루르바그,프루르그,프루우르크,프시포컴,프톨리포르토,풀라담,풀그,풀로,푸낙,푼그,푸라그,푸르그,푸스마할루,푸스텐,푸우르크,피아네프시에,필두르,피투르크,카디르,카하르,칼리오케,캄,카낫록,카위,카이윰,케그"
+" "
+"베르쿰,킬렌라마,키타니라,키제크,콰리스메스타,쿠둘,퀴레니아,퀴리소포,퀴사드즈,쿠로코니바,라바레크누,라볼룩스,라다시,래브릴라,라에라,라에르카,라가르,라그디시,라,라흘레아,라훈라르,라이투인,라코비수,랄론나,랄루에닐,람누시아,랑,란코,란세브쿠르,라올,라라,라라그,라르바그,라르크,라르카,라시드,라시낙,라사,라스투드,라우르크,라브스눅,로우다,라작,레아클라,레알라,레아나,레앙웬,레흐"
+" "
+"샤이,렐라,렐리안,렝웬,레이,레크낙,레누토,레르카,레샨,레브얀,레울리라,리암,리알나,릭,릴레그,릴루나,릴만딜,릴마실,릴리안,리밀만디르,리낙,리르그,리르카,리스란딜,리울라,로아쿠라,로드리,로두시,로그디시,로훌,로이르크,롤듀엔,롤로,로낙,로르핀딜,로르타,로스,루베노프,루클라,루다시,루파로즈,루가르,루그디시,루나르,루크,룰라이루키,루나드리엥,룽,루올,루라그,루리안,루시낙,루슬리카,루브론나,르웅웬,라이브릴라,라이나,랭웬,린크,리투이르카,사도르,사엘,새리라,사에누베르,사에르카,새사,사노르,사이바리니,사일릭,살라닉스,살리메,살릭,살리라,살미에가르,살미리엠,사모사투,산딕스,상가라틸,사노익,산라우브,사프라즈,삽눅스,사크르,사라,사리아,사리야,사르진,사루사바그,사루메고르,사세가르,사사,사티,사트랄,사브니시,쇼호자로그,스코르부,세아르카,세베티데,세브룬,세헤티,세이프"
+" "
+"기루드,셀리안드라,셀리눈트,셀루오몬,셈브리올리밤,세미라미,세나,세노익,센티누모,젠즐레르네,세플라틴,세프로리안,세라,세르구스투,세리에바,세울로나,스갈리세,스그리아그,샤엘목,샤쿠르,시디크,시에울리에아레,시그레리,시그우베르노,실펠렝,실루마티,실미릴,실론나,시난,신데룰,시노비아,시라,시라즈,시레얀,시르부,시브니시엑,스칼릭스,스칸딤,스카직스,스키리,스키준,스클리즐,스클로에,스코르,스크레즈,슬라이브,슬리질,슬루기라고,슬로우아그,스미르가우른,스미르크,스니우고르,소델스탄,쇠더레인,쇠렝,소피안,솔데비그,솔레인스,손나,소라체노,소레콜,소르핀드,소리보르,소르카,소롤레,소우고른,소웅웬,속스게우르트,스프리즈,스콸,스리고르,세쿠르,스테리즈,스투르,수브히,수브릴라,수크라토르,수피안,수그네르,수하이브,술,술론나,술리안,수니옹,수크루토,수라,수르다카우르,수사,수복,스베루니디,스비그니르,스와노익,슬라,슐리안,슈브얀,사일러,실리라,실리안,시사,타드리엔디르,타그니아,타콜락,탈레레즈,탈라수에,탈스타프,탈티비오,타나엘,타랄,타랄두르,타르카툼,타렉스,타리골린,타르닉스,타르사프,타르스물,타리스스,타우,타우마쿠,타비스키테,타우피크,타우히드,타우왑,택시아르키,타이물라흐,타이시르,텔-파비엘,텔크시페아,테미스니오즈,텝툼,테쿨리,테르프시코레,테르타솔,테스무라드,테우가르센,타엘,탈라이시엘,타릴-"
+"가렌,테살리,티르고알린,토르스간,스람보르,트라옴,트라랄,트릴가미르,트릴만델,트리미르,트리온,트롤라르,트룬드,트리리안드,틴다마라,틸간,틸말라드,티모,티니미르,티닌딜,티니트라르,티놀도르,티논드,티노르핀드,팀비르티둘,티라시,티락스,티릭스,티사모,티즈누스키에비,톰바둘룸,토르발,토르필두르,토르큐크,트라부크,트락콘,트라스두를,트레이두르솔,트레마칼로,트리타이탄,트리타이실,트리타이티프,트리타이슬로브,트리타이스실,트리나이스솔,트리르타이투,트리갈릴,트리살롤,트리타타,트리슬라틸,트리탓로,트리왓솔,트리스캣로,트리스캣솔,트리스캣우그,트리스드릴,트리스드링,트리스드림,트리스드를로,트리스드룬,트리스두릴,트리스두링,트리스두를롬,트리스두롤,트리스두르실,트리스두루,트리사압,트리마타일,트리스타잉,트리스타우크,트로기시,투파일,투즈카라,투노르피윈,우아르소,우베레오,우칼레아,우디르네,우도마엘라,우페스툭스,우그멜로르스,우크술,울메,우무트노,우나드리엘도르,우나드리어,우날라,우나랄두르,우나릴,우네니아,우넬도르,운골리오스트,우닐-"
+"가디아,우닐마디아,우닌드라,우니올리아,우니올리스,우니오니아,우니오릴,우논디르,우노르필도르,우노르피릴,우노르피웬,우눌라드,우논드라,우누비엘,우니니아,우라드리엘라,우라클리아,우라드리에디아,우람바르,우라니아,우라리스,우레브리클리아,우레클리아,우릴마디아,우릴마위엘,우리올리아,우르카르,우르키아르크,우스구스마오누,우시바살리,우스파이,우스시니어,우테르,우토크,우즈라,바클로,바도이시,바두시,바에스칸사,바크,바클린,발켐레그두프,발리니오르,발니라,발니트,발노르,반디르,바라그,바랄라,바라리온,바르바그,바시트,바우다시,베브릴,베브릴라,베브린두일,벨리스크,벨린,벨니크,벤두발로,베네즈,베랄론,베라모,베라스,베르디트,베릴리알,베르콘,베를린,베르마드,베르노로,베라,베르틱,베루사그노,베시타르,베스칼리카,비가르,비그디시,비고르,비흘로,빌그,빌수그,빈크,비라그,비리시네야,비르넬라,비로이카,비루고,비르트,비루구소,비시낙,비트루스가,빅세즈부르토,블라드니르,블라두아노브,보그디시,보고르,볼루그나소,보낙,보르핀,보르핀딜,보르그,보르크,보시낙,보우지엘란,보우르크,브라다시,브라가르,브라그두시,브라고르,브랄로,브랑,브라르바그,브라르그,브라르트,브라우르크,브렌,브리다시,브리디시,브리고르,브리낙,브링,브리르트,브리시낙,브리우르크,브로다시,브로가르,브로고르,브롤로,브롱,브로르그,브로르크,브루디시,브루그두시,브루르그,브룽,브루올,브루르그,브루르트,브루우르크,부디시,부그나엘,부크,불그,불로,불술타,부믈라,부낙,부라그,부르바그,부르그,부시낙,부시틴,빌그리드,와두드,와지드,와크,와킬,왈라일라,와라탄,와리트,웨디엘랴,웬도밀라,웨이라,웨스트라즈,위드비린지오,위구르,윌니라,윌프,윈데고,윈트페일,원룬말딘,워롤루스가,워티아,우르그투라,자프라스즈,자이가틸,자이한,잘레르타,자랑갓,자르트레즈,자스즈,자즈텍스,제미네이,젱기르,제르직스,지비르,지에스자,지라스즈,지르,지르트라,지르즈,지터즈,직스자르트,조이시칸,졸로시바,조우르,쉬에,수"
+" "
+"가물,야니라,야라보,야툰고아,야우골,야잔,야지드,예아밀라,예세리즈,이그릴레,일레나,일로그칸,요그틸라,요우드리,이르트,이사클라,이사에노익,이사에르카,이사노익,이세아클라,이세알론나,이세알리안,이세다,이셀,이셀론나,이실리안,이시노익,이소다,이송웬,이수라,이스운이버,이시클라,이실라,이실리안,이시르카,이시사,유그르타,유누르,유라에나,유리아즈,유슈아,유스리,유타르,자엠브리엘,자그리우,자히르,자키,자크완,잘라무아,잘데,잘무트,잰들러,자렙,자자비,즈부라이트,제벨리,제드릭스,제이칼,젤리스테,제누르,지로,지엠비에스,질릭스,지야드,조기에르,조라,조르갈,조루고스,조룰레이베,조우한,조우리드가,주바이르,주하이르,주레에,즈주프데"
+
+#. [lua]: training.describe_training_level
+#: data/campaigns/World_Conquest/lua/game_mechanics/training.lua:114
+msgid "$name Training Maximum Level"
+msgstr "$name 훈련 최대 레벨"
+
+#. [lua]: training.describe_training_level
+#: data/campaigns/World_Conquest/lua/game_mechanics/training.lua:118
+msgid "$name Training level $level"
+msgstr "$name 훈련 레벨 $level"
+
+#. [lua]: training.describe_training_level2
+#: data/campaigns/World_Conquest/lua/game_mechanics/training.lua:127
+msgid "Maximum Level"
+msgstr "최대 레벨"
+
+#. [lua]: training.describe_training_level2
+#: data/campaigns/World_Conquest/lua/game_mechanics/training.lua:129
+msgid "level $level"
+msgstr "레벨 $level"
+
+#. [lua]: training.generate_message
+#: data/campaigns/World_Conquest/lua/game_mechanics/training.lua:146
+msgid "$chance| chance to $arrow $desc"
+msgstr "$chance|  $arrow로 $desc할 기회"
+
+#. [lua]: training.apply
+#: data/campaigns/World_Conquest/lua/game_mechanics/training.lua:216
+msgid "trained"
+msgstr "훈련됨"
+
+#. [lua]: training.apply
+#: data/campaigns/World_Conquest/lua/game_mechanics/training.lua:217
+msgid "female^trained"
+msgstr "여성^훈련됨"
+
+#. [lua]: training.describe_bonus
+#: data/campaigns/World_Conquest/lua/game_mechanics/training.lua:269
+msgid "Nothing to learn here"
+msgstr "배울 것이 없습니다"
+
+#. [lua]: training.describe_bonus
+#: data/campaigns/World_Conquest/lua/game_mechanics/training.lua:271
+msgid "From $level_before to $level_after"
+msgstr "$level_before 레벨에서 $level_after 레벨로"
+
+#. an Elvish Archer joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:5
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:68
+msgid ""
+"You look like you could use some help. Mind if I join in? It’s been a while "
+"since I had a good fight!"
+msgstr "당신은 도움이 필요해 보입니다. 제가 함께 해도 될까요? 좋은 싸움은 오랜만이라서요!"
+
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:6
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:322
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:346
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:379
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:391
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:403
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:412
+msgid "Excellent. We could always use more help."
+msgstr "훌륭합니다. 우리는 언제든지 더 많은 도움이 필요합니다."
+
+#. an Orcish Grunt joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:10
+msgid "’bout time. Been forever since I had a good fight, eh?"
+msgstr "드디어 왔군요. 좋은 싸움은 오랜만이었죠?"
+
+#. a Troll Whelp joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:16
+msgid "Who you? I help you smash!"
+msgstr "그대는 누군가? 내가 도와주겠소!"
+
+#. an Orcish Archer joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:22
+msgid ""
+"My clan was destroyed long ago, leaving me to fend for myself. Let me join "
+"your army and I will fight as though your clan was my own!"
+msgstr "내 부족은 오래 전에 멸망했어. 이제 나는 혼자서 살아가야 해. 내게 네 군대에 합류할 기회를 줘. 내 부족처럼 싸울 거야!"
+
+#. an Orcish Assassin joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:28
+msgid "Hey boss. Looks like you’ve got some prey that need killing."
+msgstr "이봐, 보스. 당신에게 처치해야 할 먹이가 있네요."
+
+#. a Wolf Rider joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:34
+msgid "I hunts. I join you, I hunts good for you!"
+msgstr "나는 사냥을 해. 네가 나와 함께 하면 잘 사냥할 수 있어!"
+
+#. speaker is a Wose, just after a Wolf Rider joins their side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:40
+msgid "Very well. But take care where your dog does its stuff."
+msgstr "좋아요. 하지만 네 개가 어디서 일을 하든 조심해."
+
+#. an Orcish Leader joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:45
+msgid ""
+"Heh, looks like you whelps might be getting in over your heads. Good thing "
+"I’m here now to win this fight for ya, huh?"
+msgstr "허, 네 자식들이 이제 머리끝까지 갔군. 다행히 내가 여기 있어서 이 싸움은 내가 이길 거야."
+
+#. a Naga Fighter joins a player's side
+#. a Dune Soldier joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:51
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:428
+msgid ""
+"I too have come a long way to this strange land. Perhaps we were destined to"
+" join blades here."
+msgstr "나도 이 낯선 땅에 멀리서 왔다. 아마 여기서 칼을 맞댈 운명이었나 봐."
+
+#. speaker is a Gryphon, just after a naga or merfolk joins their side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:57
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:102
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:112
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:179
+msgid "Looks like we fished some tasty help."
+msgstr "우리는 맛있는 도움이 오는 걸 낚은 것 같아."
+
+#. an Elvish Fighter joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:62
+msgid "Need a friendly blade?"
+msgstr "친구 같은 칼이 필요하나요?"
+
+#. an Elvish Shaman joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:74
+msgid ""
+"The mother forest sends you her blessings. Let us join together against her "
+"foes."
+msgstr "어머니 숲이 당신에게 축복을 보내고 있습니다. 그녀의 적들에 맞서 함께 싸웁시다."
+
+#. speaker is an elf or wose, just after a shaman joins their side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:80
+msgid "Yeah, flower power!"
+msgstr "그래, 꽃의 힘이야!"
+
+#. an Elvish Scout joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:85
+msgid ""
+"I offer you the service of my arrows and my steed. You will find none that "
+"fly faster than either."
+msgstr "내 화살과 내 말을 제공하겠습니다. 둘 중 어느 것도 더 빠르게 날아가는 것은 없을 것입니다."
+
+#. a Wose joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:91
+msgid "Hmm! Welcome, tree-friends. We will pound our enemies into dust!"
+msgstr "흐음! 환영합니다, 나무의 친구들. 우리는 적들을 먼지로 만들 것입니다!"
+
+#. a Merman Hunter joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:97
+msgid ""
+"Greetings, friends. I am a lone hunter and have no legions of warriors to "
+"offer you, but I will gladly lend my arms to your cause."
+msgstr ""
+"안녕하세요, 친구들. 나는 외로운 사냥꾼이고 당신에게 전사 군단을 제공할 수는 없지만, 기꺼이 내 팔을 당신의 대의에 바치겠습니다."
+
+#. a Mermaid Initiate joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:107
+msgid ""
+"You have come a long way over the ocean, yet I see that you know little of "
+"her ways. Let me show you."
+msgstr "당신은 바다를 건너 멀리 왔지만, 나는 당신이 그녀의 방식에 대해 잘 모르고 있다는 것을 봅니다. 내가 보여주겠습니다."
+
+#. a Cavalryman joins a player's side
+#. a Sergeant joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:117
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:162
+msgid ""
+"You’re not from around here, but I seem to find myself between employers at "
+"the moment and I’m not picky. I’ll fight for you, if you’ll have me."
+msgstr "당신은 여기 사람은 아니지만, 지금은 고용주가 없어서 나는 까다롭지 않아요. 저를 받아주신다면, 제가 당신을 위해 싸울게요."
+
+#. speaker is female, just after a Cavalryman or Horseman joins their side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:123
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:133
+msgid "Of course. How could a girl say no to a man riding a horse?"
+msgstr "물론이죠. 말 타는 남자에게 어떻게 거절할 수 있겠어요?"
+
+#. a Horseman joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:128
+msgid ""
+"Hurrah! Now THIS is a battle too grand to be missed. Save some for me, eh?"
+msgstr "으쌰! 이제 이건 놓칠 수 없는 전투네요. 나를 위해서 조금 남겨두세요, 알죠?"
+
+#. a Spearman joins a player's side
+#. a Woodsman joins a player's side
+#. a Dune Rover joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:138
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:417
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:434
+msgid ""
+"Ho there, friends! I am but a soldier of humble circumstances, yet long have"
+" I dreamed of joining great wars beyond our shores. Let me join your "
+"mission!"
+msgstr ""
+"이봐, 친구들! 나는 겸손한 처지의 군인일 뿐이지만, 오랫동안 우리 땅을 넘어 큰 전쟁에 참여하고 싶었어요. 제발 제게 당신의 임무에 "
+"참여할 기회를 주세요!"
+
+#. a Fencer joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:144
+msgid ""
+"Looks like you’re a bit down on your luck, my friends. But now that I am "
+"here, there’s nothing to worry about!"
+msgstr "친구들, 운이 좀 안 좋은 것 같군요. 하지만 이제 내가 왔으니 걱정할 필요 없어요!"
+
+#. a Heavy Infantryman joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:150
+msgid ""
+"Finally reinforcements are here! I’ve been pinned down for days. Help me "
+"fight my way out of here and I’ll gladly follow you!"
+msgstr "드디어 지원군이 왔어요! 며칠 동안 갇혀 있었죠. 저를 여기서 빼내주시면 기꺼이 따르겠습니다!"
+
+#. a Bowman joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:156
+msgid ""
+"Greetings, my lords. I have watched your battle from afar and yearn to join "
+"such a glorious campaign. I pledge myself to your service!"
+msgstr ""
+"안녕하세요, 제 위인들. 멀리서 당신의 전투를 지켜보았고, 이렇게 영광스러운 캠페인에 참여하고 싶습니다. 제 자신을 당신의 서비스에 "
+"바칩니다!"
+
+#. a Mage joins a player's side
+#. a Dune Herbalist joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:168
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:422
+msgid ""
+"Long have I studied the ways of lore, and I have much wisdom to offer. Allow"
+" me to guide you on your quest and together we will accomplish great things!"
+msgstr ""
+"오랫동안 지식의 길을 공부해왔고, 많은 지혜를 드릴 수 있습니다. 저에게 당신의 퀘스트를 안내하게 해주시면, 함께 큰 일을 이룰 수 있을"
+" 것입니다!"
+
+#. a Merman Fighter joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:174
+msgid ""
+"I bring greetings from the merfolk. We have heard your plight, and though we"
+" have few warriors to spare among us, I would gladly lend my trident to your"
+" cause."
+msgstr ""
+"저는 머미족의 인사를 전합니다. 우리는 당신의 곤경을 들었습니다. 우리 중 전사는 많지 않지만, 기꺼이 제 삼지창을 당신의 대의에 "
+"바치겠습니다."
+
+#. a Dwarvish Fighter joins a player's side
+#. a Dwarvish Scout joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:184
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:246
+msgid "Having trouble, eh? Never worry, lads, we’ll sort ’em out soon enough!"
+msgstr "어려움에 처했군요? 걱정 마세요, 친구들, 우리는 곧 해결할 거예요!"
+
+#. a Thief joins a player's side. This one's British slang for "you've caught
+#. me stealing, let me work for you instead", with extra words that are just
+#. parts of the idiom.
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:190
+msgid ""
+"You’ve got me, guv, it’s a fair cop! Just lemme work for you instead. You "
+"won’t regret it, guv, I promise!"
+msgstr "잡혔군요, 고마, 정당한 체포입니다! 대신 제가 당신을 위해 일할게요. 후회하지 않으실 겁니다, 고마, 약속해요!"
+
+#. a Dwarvish Thunderer joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:196
+msgid ""
+"Listen up, ye primitive screwheads! This... is me BOOM STICK. Lemme show you"
+" what this baby can do!"
+msgstr "듣기 싫겠지만, 이 멍청이들! 이건 내 '붐 스틱'이야. 이게 뭘 할 수 있는지 보여줄게!"
+
+#. a Poacher joins a player's side
+#. a Thug joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:202
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:362
+msgid ""
+"What, you want my help? A guy like me? Huh, that’s rich. Oh well... let’s "
+"give it a shot, eh?"
+msgstr "뭐, 내가 도와줄까? 나 같은 사람이? 하, 참 기가 막히군. 어쨌든... 한 번 해보죠!"
+
+#. a Dwarvish Guardsman joins a player's side
+#. a Dune Rider joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:208
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:446
+msgid ""
+"A soldier is no good without something to fight for. Let me fight for you!"
+msgstr "군인은 싸울 이유가 없으면 소용없어요. 제가 당신을 위해 싸울게요!"
+
+#. a Footpad joins a player's side. The first half is "please don’t attack
+#. me", the second is "you seem to be in a difficult situation too, I’m good
+#. at talking or fighting my way out".
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:214
+msgid ""
+"Hey, hey, easy there! I done nothin’ to hurt you. We’re all friends here, "
+"right? Looks like you might be in a tight spot, but don’t worry. No one’s "
+"better at getting out of tight spots than me, boss!"
+msgstr ""
+"이봐, 이봐, 진정해! 난 당신을 해치지 않았어. 우리는 모두 친구잖아, 그렇지? 네가 어려운 상황에 처한 것 같아 보이지만 걱정 마. "
+"난 어떤 어려운 상황도 헤쳐 나갈 수 있는 사람이라구, 보스!"
+
+#. an Ulfserker joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:220
+msgid "Chin up, lads. Today is a good day to die!"
+msgstr "힘내라, 친구들. 오늘은 죽기 좋은 날이다!"
+
+#. the speaker is another dwarf, after an Ulf joins their side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:226
+msgid "Brave words. Welcome to The Fight Club..."
+msgstr "용감한 말이군. 싸움의 클럽에 오신 걸 환영한다..."
+
+#. a Gryphon Rider joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:231
+msgid "Need a hand? Me an’ me bird can get just about anywheres you need."
+msgstr "도움이 필요해? 나랑 내 새가 네가 원하는 곳이면 어디든지 갈 수 있어."
+
+#. the speaker is a naga or merfolk, after a Gryphon Rider joins their side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:237
+msgid "Sounds good. You scared me for a moment."
+msgstr "좋아. 잠깐 깜짝 놀랐잖아."
+
+#. the speaker is a bat or a gryphon, after a Gryphon Rider or Drake Glider
+#. joins their side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:241
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:291
+msgid "Cool. We could always need more air power."
+msgstr "좋아. 우리는 항상 공중 전력을 더 많이 필요로 하니까."
+
+#. a Drake Fighter joins a player's side; they will have their standard weapon
+#. (a "war blade" in English)
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:252
+msgid ""
+"The ancient spirits tell me my destiny lies with yours. My blade is at your "
+"command."
+msgstr "고대의 영혼들이 말하길, 나의 운명이 너의 운명과 함께 한다고 한다. 내 칼날은 너의 명령에 달려있다."
+
+#. a Drake Clasher joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:258
+msgid ""
+"Stand fast, for I bring you the strength of dragons to assist you in your "
+"battle!"
+msgstr "굳건히 서라, 내가 네 싸움에 용의 힘을 더해줄 것이다!"
+
+#. a Drake Burner joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:264
+msgid ""
+"Today is a most auspicious day for you, for I deem you worthy of the power "
+"of dragonfire. Show me your foes and I will incinerate them!"
+msgstr ""
+"오늘은 너에게 아주 길한 날이야, 내가 너에게 용의 불꽃의 힘을 줄 만한 자격이 있다고 여기기 때문이다. 네 적들을 보여줘, 내가 그들을"
+" 태워버리겠어!"
+
+#. the speaker is another drake, after a Drake Burner joins their side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:270
+msgid "Perfect. We can always use more firepower."
+msgstr "완벽하다. 우리는 항상 더 많은 화력을 필요로 하니까."
+
+#. a Saurian Augur joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:275
+msgid ""
+"You no fight good enough, no have saurian way. I show you way of saurian!"
+msgstr "너는 충분히 잘 싸우지 못해, 사우리언의 방식이 없어. 내가 사우리언의 길을 보여줄게!"
+
+#. the speaker is another saurian, after a Saurian Augur joins their side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:281
+msgid "Sure, bro..."
+msgstr "알겠어, 형..."
+
+#. a Drake Glider joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:286
+msgid ""
+"You may be out to take over the land and the seas, but you’ll never get "
+"anywhere without control of the skies. Fortunately I’m here to help you!"
+msgstr "네가 땅과 바다를 정복하려 한다 해도, 하늘을 지배하지 않으면 아무 데도 못 가. 다행히 내가 도와줄게!"
+
+#. a Saurian Skirmisher joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:296
+msgid ""
+"Tribe fall long time ago, now tribe lost. This last fight of tribe. I fight "
+"with you, make last very great!"
+msgstr ""
+"족장은 오래전에 쓰러졌고, 이제 부족은 잃어버렸다. 이 부족의 마지막 전투다. 내가 너와 함께 싸울 거야, 마지막을 매우 위대하게 "
+"만들자!"
+
+#. a Skeleton joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:302
+msgid ""
+"Don’t hit me! I’m just your average regular friendly talking skeleton, see? "
+"Looks like you fellows could use some help!"
+msgstr "날 때리지 마! 나는 그냥 평범한 친근하게 말을 하는 뼈다귀일 뿐이야, 알겠지? 너희들이 좀 도움이 필요해 보이잖아!"
+
+#. a Skeleton Archer joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:308
+msgid ""
+"I am called forth from eternal rest, bound to follow he who called me. Show "
+"me the enemy, master!"
+msgstr "나는 영원한 휴식에서 불려졌고, 나를 부른 자를 따르도록 묶여 있어. 적을 보여주라, 주인님!"
+
+#. a Ghoul joins a player's side, and this line does not fit a Ghoul at all,
+#. it’s a pantomime-level stereotype of a British hero.
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:315
+msgid ""
+"I say, old sport! It looks like you’ve got a spot of bother. Well, chin up, "
+"I say! I’m sure we’ll make a simply smashing team-up. We can sort this lot "
+"out and be done by tea, what?"
+msgstr ""
+"이봐, 친구! 네가 좀 어려운 상황에 처한 것 같군. 자, 힘내! 내가 말하잖아, 우리는 정말 멋진 팀이 될 거야. 이 일은 우리가 "
+"정리해서 차 마시기 전엔 끝날 거야, 그렇지?"
+
+#. response to the Ghoul’s introduction line
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:319
+msgid "Have at thee, unholy abomin... wait, huh?"
+msgstr "받아라, 불경한 괴물... 잠깐, 뭐라고?"
+
+#. a Dark Adept joins a player's side
+#. a Dune Burner joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:327
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:440
+msgid ""
+"You may not trust me or my reasons, but it seems you are not in a position "
+"to be choosy about your allies. Let me assist you and you just may survive."
+msgstr ""
+"내가나 내 이유를 믿지 않을 수도 있지만, 네가 동맹을 고를 여유가 없는 것 같군. 내가 도와주면 아마 살아남을 수 있을 거야."
+
+#. a Ghost joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:333
+msgid ""
+"Who calls me from my slumber? I sense a great battle being joined. Point me "
+"towards the enemy and I will feast upon their very souls!"
+msgstr "누가 내 잠을 깨우는가? 나는 큰 전투가 벌어지고 있음을 느낀다. 나를 적에게로 인도해라, 그들의 영혼을 삼킬 것이다!"
+
+#. a Vampire Bat joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:339
+msgid "Skreeeeeeee!"
+msgstr "스크리이이이이이이!"
+
+#. after a Vampire Bat joins the player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:343
+msgid ""
+"This creature seems unusually intelligent for its kind. Perhaps it will help"
+" us!"
+msgstr "이 생물은 그 종류에 비해 유난히 똑똑한 것 같군. 아마도 우리를 도와줄 것이다!"
+
+#. a Young Ogre joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:351
+msgid "You friend are? I friend help!"
+msgstr "너는 친구야? 나는 친구 돕는다!"
+
+#. the speaker is an ogre or troll, after a Young Ogre joins their side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:357
+msgid "Me friend. We can play together."
+msgstr "나 친구. 우리는 같이 놀 수 있다."
+
+#. a Goblin Spearman joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:368
+msgid "Ah, please no hurtings me! I helps you, see?"
+msgstr "아, 제발 나를 다치게 하지 마! 내가 너를 도와줄 거야, 봐?"
+
+#. after a Goblin Spearman joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:372
+msgid "Fine. We could need a small help."
+msgstr "좋아. 우리는 작은 도움이 필요할 수도 있어."
+
+#. after a Goblin Spearman joins a player's side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:376
+msgid "Excellent. We could always need cannon fodder."
+msgstr "훌륭하다. 우리는 언제든지 총알받이가 필요할 수 있다."
+
+#. a Walking Corpse joins a player’s side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:384
+msgid "..."
+msgstr "..."
+
+#. after a Walking Corpse joins the player’s side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:388
+msgid "Odd, it doesn’t seem to attack. I wonder if we can use it?"
+msgstr "이상하군, 공격하지 않는 것 같다. 우리가 이걸 사용할 수 있을지 궁금하군?"
+
+#. a Peasant or Ruffian joins a player's side. This line is the speech of an
+#. overeager schoolchild.
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:397
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:407
+msgid "Oooh oooh oooh! I want to help! Pick me, pick me!"
+msgstr "오오오! 나 도와줄래! 나를 뽑아, 나를 뽑아!"
+
+#. after a Peasant or Ruffian joins the player’s side
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:400
+#: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:409
+msgid "...fine. I guess."
+msgstr "...알겠어."
+
+#. [lua]: preshow
+#: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:24
+#: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:26
+msgid "Game Mechanics"
+msgstr "게임 메커니즘"
+
+#. [lua]: preshow
+#: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:27
+msgid "<b>Gold</b>\n"
+msgstr "<b>금</b>\n"
+
+#. [lua]: preshow
+#: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:28
+msgid ""
+"Carryover rate is 15% and split evenly among players. Negative amounts will not carry over. Early finish bonus is superior to village control, but it is not directly related to the carryover amount.\n"
+"\n"
+msgstr ""
+"이월 비율은 15%이며, 플레이어 간에 고르게 나뉩니다. 음수는 이월되지 않습니다. 일찍 끝내면 보너스가 마을 제어보다 우수하지만, 이월 금액과는 직접적인 관련이 없습니다.\n"
+"\n"
+
+#. [lua]: preshow
+#: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:29
+msgid "<b>Autorecall</b>\n"
+msgstr "<b>자동 회수</b>\n"
+
+#. [lua]: preshow
+#: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:30
+msgid ""
+"Units with the <b>heroic</b> trait are recalled at the start of each scenario with no cost (up to castle size).\n"
+"\n"
+msgstr ""
+"<b>영웅적인</b> 특성을 가진 유닛은 각 시나리오 시작 시 비용 없이 회수됩니다 (성 크기까지).\n"
+"\n"
+
+#. [lua]: preshow
+#: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:31
+msgid "<b>Recall Cost</b>\n"
+msgstr "<b>회수 비용</b>\n"
+
+#. [lua]: preshow
+#: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:32
+msgid ""
+"Units costing less than 17 gold are cheaper to recall.\n"
+"\n"
+msgstr ""
+"17 금보다 적은 비용의 유닛은 회수 비용이 저렴합니다.\n"
+"\n"
+
+#. [lua]: preshow
+#: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:33
+msgid "<b>Training</b>\n"
+msgstr "<b>훈련</b>\n"
+
+#. [lua]: preshow
+#: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:34
+msgid ""
+"Every time you recruit a new unit, your training levels will be applied. If a unit gains training benefits, you can see them with the trait \"trained\". Each unit’s chance of gaining training benefits is independent of another’s.\n"
+"\n"
+msgstr ""
+"새로운 유닛을 모집할 때마다 훈련 수준이 적용됩니다. 유닛이 훈련 혜택을 얻으면 \"훈련됨\" 특성으로 표시됩니다. 각 유닛이 훈련 혜택을 얻을 확률은 서로 독립적입니다.\n"
+"\n"
+
+#. [lua]: preshow
+#: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:35
+msgid "<b>Upkeep</b>\n"
+msgstr "<b>유지비</b>\n"
+
+#. [lua]: preshow
+#: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:36
+msgid ""
+"Units with the <b>heroic</b> trait or holding any magic <b>item</b> have free upkeep.\n"
+"\n"
+msgstr ""
+"<b>영웅적인</b> 특성을 가진 유닛이나 마법 <b>아이템</b>을 보유한 유닛은 유지비가 무료입니다.\n"
+"\n"
+
+#. [lua]: preshow
+#: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:37
+msgid "<b>Bonus Points</b>\n"
+msgstr "<b>보너스 포인트</b>\n"
+
+#. [lua]: preshow
+#: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:38
+msgid ""
+"In every scenario the game generates as many bonus points on the map as there are players in the game, the bonus points can be picked up by player units and either contain artifacts, loyal units, or training.\n"
+"\n"
+msgstr ""
+"각 시나리오에서 게임은 맵에 있는 보너스 포인트 수만큼 보너스 포인트를 생성합니다. 보너스 포인트는 플레이어 유닛이 주워서 유물, 충성스러운 유닛 또는 훈련을 포함할 수 있습니다.\n"
+"\n"
+
+#. [lua]: preshow
+#: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:39
+msgid "<b>Army discipline</b>\n"
+msgstr "<b>군대 훈련</b>\n"
+
+#. [lua]: preshow
+#: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:40
+msgid ""
+"At scenarios 1 to 3, for each training level players already own, trainers found have 2% to 4% chance to become advanced trainers (provide 2 levels). Becomes irrelevant from scenario 4 onwards because all trainers will always be advanced.\n"
+"\n"
+msgstr ""
+"시나리오 1부터 3까지, 플레이어가 이미 보유한 훈련 수준마다 발견된 훈련자가 2%에서 4% 확률로 고급 훈련자가 됩니다(2레벨 제공)."
+" 시나리오 4 이후부터는 모든 훈련자가 항상 고급 훈련자가 되므로 더 이상 중요하지 않습니다.\n"
+
+#. [lua]: preshow
+#: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:42
+msgid ""
+"Training improves newly recruited units, it has no effect on already "
+"recruited units. The following list shows all available training, the "
+"training you currently have is marked in green."
+msgstr ""
+"훈련은 새로 모집된 유닛을 향상시키며, 이미 모집된 유닛에는 영향을 미치지 않습니다. 다음 목록은 사용 가능한 모든 훈련을 보여주며, "
+"현재 보유한 훈련은 녹색으로 표시됩니다."
+
+#. [lua]: preshow
+#: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:43
+msgid "Items"
+msgstr "아이템들"
+
+#. [lua]: preshow
+#: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:43
+msgid ""
+"Items can be given to units to make them stronger. You can get items in "
+"three ways: 1) By choosing an item as your starting bonus; 2) By finding it "
+"on a map in a bonus point; 3) By dropping from enemies in later scenarios. "
+"Note, however, that not all units can pick up all items."
+msgstr ""
+"아이템은 유닛에게 부여하여 강하게 만들 수 있습니다. 아이템을 얻을 수 있는 방법은 세 가지입니다: 1) 시작 보너스로 아이템을 "
+"선택하기; 2) 보너스 포인트에서 아이템을 찾기; 3) 후속 시나리오에서 적이 떨어뜨리는 아이템을 얻기. 그러나 모든 유닛이 모든 "
+"아이템을 주울 수 있는 것은 아니니 유의하세요."
+
+#. [lua]: preshow
+#: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:44
+msgid "Factions"
+msgstr "당파"
+
+#. [lua]: preshow
+#: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:44
+msgid ""
+"The World Conquest era consists of factions that are built from pairs of "
+"mainline factions. One faction will have a healer available (Drakes, "
+"Dunefolk, Rebels and Loyalists) and one will not (Orcs, Dwarves and Undead)."
+" The recruit list is also organized in pairs so that sometimes you will have"
+" to recruit a different unit before you can recruit the units that you want."
+" The available heroes, deserters, and random leaders also depend on your "
+"factions; the items you can get do not depend on the faction you choose."
+msgstr ""
+"세계 정복 시대는 주류 파벌을 짝지어 구성된 당파들로 이루어져 있습니다. 하나의 당파는 치료자를 보유하고 있고(드레이크, 듄포크, "
+"반란군, 충성파) 다른 하나는 그렇지 않습니다(오크들, 난쟁이들, 언데드). 모집 목록은 짝으로 구성되어 있어 원하는 유닛을 모집하기 "
+"전에 다른 유닛을 먼저 모집해야 할 수도 있습니다. 이용 가능한 영웅, 탈영병, 랜덤 대장은 당신의 당파에 따라 다르며, 얻을 수 있는 "
+"아이템은 선택한 당파와 관계없습니다."
+
+#. [lua]: type_icon
+#: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:169
+msgid " (not available for enemies)"
+msgstr " (적에게는 사용 불가능)"
+
+#. [lua]: type_icon
+#: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:170
+msgid " (not available for players)"
+msgstr " (플레이어에게는 사용 불가능)"
+
+#. [lua]: wc_ii_generate_scenario
+#. [lua]: wct_store_possible_encampment_ford
+#: data/campaigns/World_Conquest/lua/map/main.lua:125
+#: data/campaigns/World_Conquest/lua/map/postgeneration/1A_Start.lua:146
+msgid "Start"
+msgstr "시작"
+
+#. [lua]: wc_ii_generate_scenario
+#: data/campaigns/World_Conquest/lua/map/main.lua:127
+msgid "Scenario "
+msgstr "시나리오 "
+
+#. [lua]: wc_ii_generate_scenario
+#: data/campaigns/World_Conquest/lua/map/main.lua:129
+msgid "Final Battle"
+msgstr "최종 전투"
+
+#. [lua]: wct_map_2a_post_bunus_decoration
+#: data/campaigns/World_Conquest/lua/map/postgeneration/2A_Springs.lua:183
+msgid "water^Springs"
+msgstr "물^봄"
+
+#. [lua]: world_conquest_tek_map_decoration_2c
+#: data/campaigns/World_Conquest/lua/map/postgeneration/2C_Glaciers.lua:208
+msgid "Glaciers"
+msgstr "빙하"
+
+#. [lua]: wct_map_2d_post_bunus_decoration
+#: data/campaigns/World_Conquest/lua/map/postgeneration/2D_Provinces.lua:165
+msgid "Provinces"
+msgstr "주"
+
+#. [lua]: wct_map_2f_post_bunus_decoration
+#: data/campaigns/World_Conquest/lua/map/postgeneration/2F_Clayey.lua:127
+msgid "Clayey"
+msgstr "진흙"
+
+#. [lua]: wct_map_3c_post_bunus_decoration
+#: data/campaigns/World_Conquest/lua/map/postgeneration/3C_Delta.lua:389
+msgid "river^Delta"
+msgstr "강^델타"
+
+#. [lua]: world_conquest_tek_map_repaint_3d
+#: data/campaigns/World_Conquest/lua/map/postgeneration/3D_Sulfurous.lua:62
+msgid "Sulfurous"
+msgstr "황산"
+
+#. [lua]: wct_map_3e_post_bunus_decoration
+#: data/campaigns/World_Conquest/lua/map/postgeneration/3E_Coral.lua:79
+msgid "made of^Coral"
+msgstr "산호로 만든"
+
+#. [lua]: wct_map_4a_post_bunus_decoration
+#: data/campaigns/World_Conquest/lua/map/postgeneration/4A_Thermal.lua:201
+msgid "Thermal"
+msgstr "열"
+
+#. [lua]: world_conquest_tek_map_repaint_4b
+#: data/campaigns/World_Conquest/lua/map/postgeneration/4B_Volcanic.lua:416
+msgid "Volcanic"
+msgstr "화산"
+
+#. [lua]: wct_map_4d_post_bunus_decoration
+#: data/campaigns/World_Conquest/lua/map/postgeneration/4D_Podzol.lua:135
+msgid "Podzol"
+msgstr "포드졸"
+
+#. [lua]: wct_map_4e_post_bunus_decoration
+#: data/campaigns/World_Conquest/lua/map/postgeneration/4E_Wicked.lua:644
+msgid "Wicked"
+msgstr "사악한"
+
+#. [lua]: wild_store_roads_in_cave_zone
+#: data/campaigns/World_Conquest/lua/map/postgeneration/4F_Wild.lua:268
+msgid "Wild"
+msgstr "야생"
+
+#. [lua]: world_conquest_tek_map_repaint_6d
+#: data/campaigns/World_Conquest/lua/map/postgeneration/6D_Feudal.lua:457
+msgid "Feudal"
+msgstr "봉건"
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:44
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:48
+msgid "To war! Prepare to defend yourselves!"
+msgstr "전쟁이다! 자신을 방어할 준비를 해라!"
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:45
+msgid ""
+"Why do we fight amongst ourselves? We should band together and take the "
+"coast with our combined forces!"
+msgstr "왜 우리는 서로 싸우고 있는가? 우리는 힘을 합쳐 해안을 정복해야 한다!"
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:46
+msgid ""
+"You speak truly; together we can overpower the rest. After that, who knows? "
+"Together we could go on to conquer other lands across the sea!"
+msgstr ""
+"너는 정말로 옳은 말을 한다. 함께라면 나머지들을 압도할 수 있다. 그 후에는, 누가 알겠는가? 함께라면 바다 건너의 다른 땅들도 정복할"
+" 수 있을 것이다!"
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:50
+msgid ""
+"Foolish upstarts. You will never defeat us! Come, my allies. Let us crush "
+"them!"
+msgstr "어리석은 놈들. 너희는 절대로 우리를 이길 수 없다! 오라, 내 동맹들이여. 놈들을 부숴버리자!"
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:51
+msgid "Yes! We will drive them into the sea!"
+msgstr "그래! 우리가 놈들을 바다로 몰아넣을 것이다!"
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:53
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:55
+msgid "Never fear! Your trusted friends stand beside you!"
+msgstr "절대로 두려워하지 마라! 믿을 수 있는 친구들이 네 옆에 있다!"
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:58
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:72
+msgid "Victory is ours! Let us set sail in search of new lands to conquer!"
+msgstr "승리는 우리의 것이다! 새로운 땅을 정복하기 위해 항해를 시작하자!"
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:61
+msgid "Ahhh. Just look at these fertile lands, ripe for conquest!"
+msgstr "아아. 이 비옥한 땅을 보라, 정복하기에 완벽하다!"
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:62
+msgid "What’s this?! Foreign invaders have set foot upon our shores!"
+msgstr "이게 뭐지?! 이방의 침략자들이 우리의 해안에 발을 들여놓았다!"
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:63
+msgid ""
+"We’ll send them back to where they came from quick enough. All troops, to "
+"me!"
+msgstr "우리는 놈들을 빨리 돌아가게 할 것이다. 모든 부대여, 나에게 모여라!"
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:65
+msgid "We win! Truly ours will be a glorious empire!"
+msgstr "우리가 이겼다! 진정으로 우리의 제국은 찬란할 것이다!"
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:66
+msgid ""
+"Do not get hasty! To reach the great continents of the east we must subdue "
+"the savage coast of Moragdu, notorious for its corsairs, before we can "
+"advance further."
+msgstr "서두르지 마라! 동쪽의 위대한 대륙에 도달하려면, 우리는 먼저 그 해적들로 악명 높은 모라그두의 거친 해안을 정복해야 한다."
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:68
+msgid ""
+"What’s this? It is a long time since strangers have set foot upon Moragdu — "
+"and in such great numbers too!"
+msgstr "이게 무엇인가? 모라그두에 이방인이 발을 들인 지 오래되었는데, 이렇게 많은 수로 오는 것은 처음이다!"
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:69
+msgid ""
+"The time of prophecies is upon us! The destroyers have arrived from beyond "
+"the sea!"
+msgstr "예언의 시간이 다가왔다! 파괴자들이 바다 너머에서 도착했다!"
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:70
+msgid ""
+"I don’t know what the lizard is babbling about, but we’ll sort these "
+"‘destroyers’ out quickly enough."
+msgstr "그 도마뱀 녀석이 무슨 말을 하는지 모르겠지만, 우리는 그 ‘파괴자들’을 금방 정리할 것이다."
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:75
+msgid "Ready yourselves, men! The conquering hordes are upon us!"
+msgstr "준비하라, 제군들! 정복의 무리가 우리에게 다가온다!"
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:76
+msgid ""
+"Word has come to our island of your victories. Your army is impressive, but "
+"it will avail you not."
+msgstr "너희들의 승리에 대한 소식이 우리 섬에 전해졌다. 너희 군대는 인상적이지만, 아무 소용없을 것이다."
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:77
+msgid "Indeed. You come this far, and no farther!"
+msgstr "정말로. 너희는 여기까지 왔지만, 더는 나아가지 못할 것이다!"
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:78
+msgid ""
+"Hah! We didn’t come all this way just to give up and go home. We will "
+"destroy you as we have destroyed all that have stood before us!"
+msgstr ""
+"하! 우리는 여기까지 오면서 포기하고 돌아가려 온 게 아니다. 우리는 우리 앞에 있던 모든 것들을 파괴한 것처럼 너희도 파괴할 것이다!"
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:79
+msgid "So be it. We stand squarely behind our allies."
+msgstr "그렇다면. 우리는 우리의 동맹을 전적으로 지지한다."
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:80
+msgid "You are not the only ones with allies! We’ll push on till the end!"
+msgstr "너희만 동맹이 있는 것이 아니다! 우리는 끝까지 밀고 나갈 것이다!"
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:82
+msgid "Onwards to the ships!"
+msgstr "배로 향하자!"
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:83
+msgid ""
+"We have travelled great oceans and brought low mighty empires. Should we not"
+" wait until our forces regain their strength?"
+msgstr "우리는 거대한 바다를 건너고 강력한 제국들을 무너뜨렸습니다. 우리의 군대가 힘을 회복할 때까지 기다리지 않겠습니까?"
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:84
+msgid ""
+"One last effort! We better finish our campaign when we hold initiative, "
+"before Winter arrives."
+msgstr "마지막 힘을 짜내자! 주도권을 쥐고 있을 때 우리의 작전을 끝내야 해, 겨울이 오기 전에."
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:88
+msgid ""
+"Finally we come to the shores of the last continent. Here at the edge of the"
+" world our empire shall be made complete."
+msgstr "마침내 우리는 마지막 대륙의 해안에 도달했다. 여기, 세상의 끝에서 우리의 제국은 완성될 것이다."
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:89
+msgid "Never! Your mad quest ends here, tyrant."
+msgstr "절대 안 된다! 너의 미친 탐험은 여기서 끝이다, 폭군!"
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:90
+msgid ""
+"All the peoples of the world stand against you. Though we would be enemies "
+"otherwise, we are united in our cause. We must stop you!"
+msgstr ""
+"세상의 모든 민족이 너희에 맞서 일어섰다. 평소라면 서로 적일지라도, 우리는 이 목적을 위해 하나가 되었다. 반드시 너희를 막아내고 "
+"말겠다!"
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:91
+msgid "No, not all of them. Today our full strength stands behind our allies!"
+msgstr "아니, 모두가 그런 것은 아니다. 오늘은 우리의 모든 힘이 동맹들을 위해 함께한다!"
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:93
+msgid "That’s it, our work is done here!"
+msgstr "됐군, 여기서 우리의 일은 끝났다!"
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:94
+msgid "The whole world is now ours to command!"
+msgstr "이제 온 세상은 우리가 지배할 차례야!"
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:95
+msgid "It was hard, but I almost regret the fun is over."
+msgstr "힘들었지만, 재미가 끝나버린 게 거의 아쉬워."
+
+#. [lua]: end_message
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/plot.lua:99
+msgid "The End"
+msgstr "끝"
+
+#. [lua]: add_enemy_side
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/side_definitions.lua:36
+msgid "Enemies"
+msgstr "적들"
+
+#. [lua]: add_player_side
+#: data/campaigns/World_Conquest/lua/map/scenario_utils/side_definitions.lua:60
+msgid "Allies"
+msgstr "동맹들"
+
+#: data/campaigns/World_Conquest/lua/optional_mechanics/unitmarker.lua:12
+msgid "Special Overlay"
+msgstr "특수 오버레이"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:7
+msgid "Adamant armor"
+msgstr "아다만트 갑옷"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:9
+msgid "blade/impact/pierce: up to 10% resistances, steadfast"
+msgstr "칼날/충격/관통: 최대 10% 저항력, 불굴의 의지"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:10
+msgid ""
+"The sturdy plates of this lightweight armor increase the user’s physical "
+"resistances (to a maximum of 10%) and grants the steadfast ability."
+msgstr "이 가벼운 갑옷의 견고한 판은 사용자의 물리적 저항력을 증가시키며(최대 10%), 불굴의 의지 능력을 부여합니다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:28
+msgid "Assassin’s ring"
+msgstr "암살자의 반지"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:30
+msgid "melee: backstab"
+msgstr "근접: 백스탭"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:31
+msgid ""
+"This plain ring with a pleasantly smooth and slippery surface gives its "
+"owner unmatched sneak attacking skills."
+msgstr "부드럽고 미끄러운 표면을 가진 이 평범한 반지는 소유자에게 비할 데 없는 은밀한 공격 능력을 부여합니다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:47
+msgid "Azure pearl"
+msgstr "푸른 진주"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:49
+msgid ""
+"Full movement and up to 60% defense in water or swamp and up to 70% defense "
+"in reef."
+msgstr "물이나 늪에서 완전한 이동과 최대 60%의 방어력, 산호초에서는 최대 70%의 방어력."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:50
+msgid ""
+"This wondrous gem lets the bearer breathe and move through water as if it "
+"was air, strongly improving their mobility in water and granting the "
+"submerge ability."
+msgstr ""
+"이 신비로운 보석은 착용자가 물속에서 공기처럼 숨쉬고 이동할 수 있게 하여 물속에서의 이동 능력을 크게 향상시키고 잠수 능력을 "
+"부여합니다."
+
+#. [dummy]: id=bezoar
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:80
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:91
+msgid "Bezoar"
+msgstr "베조아"
+
+#. [dummy]: id=bezoar
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:82
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:93
+msgid "fearless, undead, healthy, tenacity"
+msgstr "두려움 없음, 언데드, 건강, 끈기"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:83
+msgid ""
+"This shamanic totem protects from poison, drain, and plague. Bearers of the "
+"totem are immune to fear and their vulnerabilities are reduced."
+msgstr ""
+"이 샤먼의 토템은 독, 생명력 흡수, 전염병으로부터 보호합니다. 토템의 소유자는 두려움에 면역이 있으며 그들의 취약성이 감소합니다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:136
+msgid "Blood ring"
+msgstr "피의 반지"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:138
+msgid "melee: drains"
+msgstr "근접: 생명력 흡수"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:139
+msgid ""
+"This pulsing ring empowers the bearer’s melee attacks with the ability to "
+"drain lifeforce from their victim."
+msgstr "이 맥박이 뛰는 반지는 소유자의 근접 공격에 피해자에게서 생명력을 흡수하는 능력을 부여합니다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:155
+msgid "Cruel spike"
+msgstr "잔인한 창"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:157
+msgid "melee: charge"
+msgstr "근접: 돌진"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:158
+msgid ""
+"This enchanted spear drives the owner to commit himself to his rage. A "
+"unit’s melee strikes are doubled in power when attacking, but the same is "
+"true for the retaliation strike of the defender."
+msgstr ""
+"이 마법의 창은 소유자를 분노에 몰입하게 만듭니다. 유닛의 근접 공격은 공격 시 두 배의 피해를 주며, 방어자의 반격도 마찬가지로 두 "
+"배의 피해를 줍니다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:174
+msgid "Cursed symbol of life"
+msgstr "저주받은 생명의 상징"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:176
+msgid "ranged: drains"
+msgstr "원거리: 생명력 흡수"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:177
+msgid ""
+"This vampiric amulet allows a unit to drain enemy life from a safe distance."
+msgstr "이 뱀파이어의 부적은 유닛이 안전한 거리에서 적의 생명력을 흡수할 수 있게 합니다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:193
+msgid "Eagle eye longbow"
+msgstr "독수리 눈의 장궁"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:195
+msgid "ranged: marksman and +25% damage"
+msgstr "원거리: 명사수 및 +25% 피해"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:196
+msgid ""
+"This enchanted longbow enhances the wielder’s ranged attacks with uncanny "
+"precision and increased damage."
+msgstr "이 마법의 장궁은 소유자의 원거리 공격에 뛰어난 정확도와 증가된 피해를 부여합니다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:217
+msgid "Forbidden grimoire"
+msgstr "금지된 마법서"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:219
+msgid "melee: plague"
+msgstr "근접: 전염병"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:220
+msgid ""
+"This unholy manual gives the user the arcane knowledge to resurrect enemies "
+"slain in melee combat as the walking dead."
+msgstr "이 불경한 마법서는 사용자가 근접 전투에서 처치한 적을 언데드로 되살리는 비밀 지식을 제공합니다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:237
+msgid "Forcefield"
+msgstr "힘의 장벽"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:239
+msgid "adjacent enemies do 13% less damage"
+msgstr "인접한 적의 피해 13% 감소"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:240
+msgid ""
+"Charged with intense magic, this shield generates a forcefield causing "
+"adjacent enemies to inflict less damage around the wielder."
+msgstr "강력한 마법이 충전된 이 방패는 힘의 장벽을 생성하여 인접한 적들이 사용자를 중심으로 피해를 덜 입히게 합니다."
+
+#. [leadership]: id=forcefield
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:249
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:250
+msgid "forcefield"
+msgstr "힘의 장벽"
+
+#. [leadership]: id=forcefield
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:251
+msgid "Adjacent enemies do 13% less damage."
+msgstr "인접한 적의 피해 13% 감소."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:266
+msgid "Ghast’s marrow"
+msgstr "귀신의 골수"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:268
+msgid "feeding, +3 HP"
+msgstr "포식, +3 HP"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:269
+msgid ""
+"This grisly concoction instills the drinker with an insatiable unholy hunger"
+" for more blood. Every time a foe is slain, a part of his lifeforce is "
+"eternally claimed through arcane ghoulish powers."
+msgstr ""
+"이 끔찍한 혼합물은 마시는 이에게 더 많은 피를 갈망하는 끝없는 불경한 허기를 불어넣습니다. 적을 처치할 때마다 그의 생명력 일부가 "
+"마법적인 구울의 능력을 통해 영원히 흡수됩니다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:290
+msgid "Heart of fire"
+msgstr "불의 심장"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:292
+msgid "melee: fire and +25% damage, +30 resistance vs fire"
+msgstr "근접: 화염, +25% 피해, +30 화염 저항"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:293
+msgid ""
+"This magic orb infuses the wielder’s melee attacks with fiery power, "
+"changing their damage type. It also improves fire resistance."
+msgstr "이 마법 구슬은 사용자의 근접 공격에 불사의 힘을 주입하여 피해 유형을 변경합니다. 또한 화염 저항을 향상시킵니다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:310
+msgid "Herald armor"
+msgstr "전령 갑옷"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:312
+msgid "illuminates, lawful, heals +4, firststrike"
+msgstr "조명, 법적, 치유 +4, 선제공격"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:313
+msgid ""
+"This holy armor of thin gold radiates pure light, illuminating the bearer’s "
+"body and soul. This effect will heal allies, blind evil, and preemptively "
+"smite those who seek to do harm."
+msgstr ""
+"이 얇은 금으로 된 성스러운 갑옷은 순수한 빛을 발산하여 착용자의 몸과 영혼을 비춥니다. 이 효과는 동맹을 치유하고, 악을 눈멀게 하며,"
+" 해를 끼치려는 자들을 선제적으로 처벌합니다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:348
+msgid "Holy water"
+msgstr "성수"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:350
+msgid "melee: arcane and +25% damage, +30 resistance vs arcane"
+msgstr "근접: 마법, +25% 피해, +30 마법 저항"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:351
+msgid ""
+"This sacred vial anoints melee attacks with arcane power, increasing their "
+"damage and changing their damage type. It also increases arcane resistance."
+msgstr "이 신성한 병은 근접 공격에 마법의 힘을 부여하여 피해를 증가시키고 피해 유형을 변경합니다. 또한 마법 저항을 증가시킵니다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:372
+msgid "Ice bow"
+msgstr "얼음 활"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:374
+msgid "19-1 ranged-cold slows"
+msgstr "19-1 원거리-냉기 속도 감소"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:375
+msgid ""
+"Draw this magical bow to summon an ice arrow that will freeze and slow its "
+"target upon hit."
+msgstr "이 마법의 활을 당겨 얼음 화살을 소환하여 적을 맞히면 얼리고 속도를 감소시킵니다."
+
+#. [effect]: type=cold
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:380
+msgid "ice bow"
+msgstr "얼음 활"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:418
+msgid "Medicinal herbs"
+msgstr "약초"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:420
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:5
+msgid "heals +8, cures"
+msgstr "회복 +8, 해독"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:421
+msgid ""
+"These potent herbs give the bearer the ability to heal adjacent units and "
+"cure their poison."
+msgstr "이 강력한 약초는 소지자에게 인접 유닛을 치유하고 독을 해독할 수 있는 능력을 부여합니다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:439
+msgid "Melange"
+msgstr "멜란지"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:441
+msgid ""
+"no undead^consumed by a living being: +1 damage and +1 moves and -20% XP to "
+"advance"
+msgstr "언데드에게는 효과가 없으며, 살아있는 존재가 소비할 때: 피해 +1, 이동력 +1, 최대 경험치 -20%"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:442
+msgid ""
+"This exotic drug of organic origin enhances user’s vitality and awareness. "
+"It has no effect when consumed by undead."
+msgstr "이 유기적 기원의 이국적인 약물은 사용자의 생명력과 인식을 강화합니다. 언데드가 섭취하면 효과가 없습니다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:469
+msgid "Ointment of venom"
+msgstr "독 연고"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:471
+msgid "blade/pierce: poison and +20% damage"
+msgstr "검/찌르기: 독 및 +20% 피해"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:472
+msgid ""
+"This deadly poison envenoms the user’s blade and pierce attacks, increasing "
+"damage and allowing them to inflict poison."
+msgstr "이 치명적인 독은 사용자의 검과 찌르기 공격에 독을 입히며, 피해를 증가시키고 독을 발생시킬 수 있게 합니다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:489
+msgid "Ring of frostbite"
+msgstr "동상 반지"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:491
+msgid "melee: cold and slows"
+msgstr "근접: 냉기 및 속도 저하"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:492
+msgid ""
+"This frigid ring envelops the user’s melee attacks with icy cold, changing "
+"their damage to cold and allowing them to inflict deathly chills that slow "
+"the enemy."
+msgstr ""
+"이 차가운 반지는 사용자의 근접 공격을 얼음의 차가운 기운으로 감싸, 그들의 피해를 냉기로 변화시키고 적을 느리게 만드는 치명적인 냉기를"
+" 불러일으킨다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:509
+msgid "Ring of power"
+msgstr "힘의 반지"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:511
+msgid "arcane/cold/fire: disengage"
+msgstr "비전/냉기/불: 해제"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:512
+msgid ""
+"Wearing this ring enhances damage with arcane and elemental attacks, "
+"allowing using them with supernatural skill and presence."
+msgstr "이 반지를 착용하면 비전 및 원소 공격의 피해가 증가하며, 초자연적인 기술과 존재감을 통해 이를 사용할 수 있다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:526
+msgid "Root of the Elder Wose"
+msgstr "늙은 보스의 뿌리"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:528
+msgid "impact: +1 strike and +2 damage"
+msgstr "충격: +1 타격 및 +2 피해"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:529
+msgid ""
+" Dwarven forged, this blunt weapon mimics the crushing power of the wose."
+msgstr "드워프에서 제작된 이 둔기는 보스의 압도적인 힘을 모방한 것이다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:543
+msgid "Runic sword"
+msgstr "룬검"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:545
+msgid "melee: magical"
+msgstr "근접: 마법"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:546
+msgid ""
+"This magic sword empowers the wielder’s melee attacks with the magical "
+"property."
+msgstr "이 마법의 검은 사용자의 근접 공격에 마법 속성을 부여한다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:562
+msgid "Staff of radiance"
+msgstr "빛의 지팡이"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:564
+msgid "11-3 ranged-arcane magical"
+msgstr "11-3 사거리-비전 마법"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:565
+msgid "This sacred rod can unleash brilliant bursts of luminous energy."
+msgstr "이 신성한 지팡이는 빛나는 에너지의 폭발을 발산할 수 있다."
+
+#. [effect]: type=arcane
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:570
+msgid "staff of radiance"
+msgstr "빛의 지팡이"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:608
+msgid "Stormbringer"
+msgstr "폭풍의 선도자"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:610
+msgid "melee: fury"
+msgstr "근접: 분노"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:611
+msgid ""
+"This tormented sword causes rage in any who wield it. Melee attacks will "
+"gain the fury ability pressing engagement for 3 rounds."
+msgstr "이 고통받는 검은 이를 다루는 자에게 분노를 일으킨다. 근접 공격은 분노 능력을 얻고, 3라운드 동안 교전이 계속된다."
+
+#. [berserk]: id=wct_fury
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:624
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:625
+msgid "fury"
+msgstr "분노"
+
+#. [berserk]: id=wct_fury
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:626
+msgid ""
+"Whether used offensively or defensively, this attack presses the engagement "
+"until one of the combatants is slain, or 3 rounds of attacks have occurred."
+msgstr "공격적이든 방어적이든 이 공격은 교전이 계속되도록 하여, 한 명의 전투자가 사망하거나 3라운드가 끝날 때까지 계속된다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:633
+msgid "Sylph bow"
+msgstr "실프 활"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:635
+msgid "ranged-blade/impact/pierce: +60% strikes and +1 damage"
+msgstr "사거리-칼날/충격/관통: +60% 타격 및 +1 피해"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:636
+msgid ""
+"A runic bow. This elvish heirloom, passed from Queen to Princess, gathers "
+"power with each generation and speeds up the wielders movements so that more"
+" strikes can be landed before the engagement is over."
+msgstr ""
+"룬이 새겨진 활. 이 엘프의 유물은 왕비에서 공주로 전해져 내려오며, 각 세대마다 힘을 모아 사용자의 움직임을 빠르게 하여 교전이 끝나기"
+" 전에 더 많은 타격을 날릴 수 있게 한다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:651
+msgid "Terror disguise"
+msgstr "공포의 변장"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:653
+msgid "darkness, chaotic, corruption, distract"
+msgstr "어둠, 혼돈, 부패, 방해"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:654
+msgid ""
+"This cursed outfit spreads a trail of darkness, harming those who get too "
+"close."
+msgstr "이 저주받은 의상은 어둠의 흔적을 퍼뜨리며, 가까이 다가오는 자들에게 해를 끼친다."
+
+#. [illuminates]: id=darkness
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:674
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:675
+msgid "darkness"
+msgstr "어둠"
+
+#. [illuminates]: id=darkness
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:676
+msgid ""
+"This unit darkens the surrounding area, making chaotic units fight better, "
+"and lawful units fight worse. Any units adjacent to this unit will fight as "
+"if it were dusk when it is day, and as if it were night when it is dusk."
+msgstr ""
+"이 유닛은 주변 지역을 어둡게 만들어, 혼돈적인 유닛은 더 잘 싸우고, 법에 따른 유닛은 더 못 싸운다. 이 유닛과 인접한 모든 유닛은 "
+"낮일 때는 황혼처럼, 황혼일 때는 밤처럼 싸운다."
+
+#. [dummy]: id=wc2_corruption
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:681
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:682
+msgid "corruption"
+msgstr "부패"
+
+#. [dummy]: id=wc2_corruption
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:683
+msgid ""
+"This unit corrupts adjacent enemies at the beginning of our turn. Corrupted "
+"units lose 6 HP or are reduced to 1 HP. Corruption cannot, of itself, kill a"
+" unit."
+msgstr ""
+"이 유닛은 우리의 턴이 시작될 때 인접한 적을 부패시킨다. 부패한 유닛은 6HP를 잃거나 1HP로 줄어든다. 부패는 자체적으로 유닛을 "
+"죽일 수 없다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:696
+msgid "The Key"
+msgstr "열쇠"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:701
+msgid "This magical object opens the gateway between dimensions."
+msgstr "이 마법의 물체는 차원의 문을 열 수 있다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:723
+msgid "Tome of secrets"
+msgstr "비밀의 서"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:725
+msgid "-50% XP to advance"
+msgstr "-50% 경험치로 진급"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:726
+msgid "This forgotten book imparts ancient knowledge to the reader."
+msgstr "이 잊혀진 책은 독자에게 고대의 지식을 전해준다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:734
+msgid "Trident of storms"
+msgstr "폭풍의 삼지창"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:736
+msgid "17-2 ranged-fire magical"
+msgstr "17-2 원거리 마법 공격"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:737
+msgid ""
+"This legendary trident can summon lightning from the heavens, granting its "
+"wielder magical ranged fire attack."
+msgstr "이 전설적인 삼지창은 하늘에서 번개를 불러내어, 사용자가 마법의 원거리 화염 공격을 하게 합니다."
+
+#. [effect]: type=fire
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:742
+msgid "storm trident"
+msgstr "폭풍의 삼지창"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:757
+msgid "Trolls blood potion"
+msgstr "트롤의 피 포션"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:762
+msgid "This foul-smelling potion allows the imbiber to regenerate health."
+msgstr "이 악취 나는 포션은 마시는 자에게 체력 회복을 허용합니다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:772
+msgid "War banner"
+msgstr "전쟁 깃발"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:774
+msgid "adjacent allies do 20% more damage"
+msgstr "인접한 아군이 20% 더 많은 피해를 입힙니다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:775
+msgid ""
+"This inspiring banner rallies the bearer’s allies to war, imparting a damage"
+" bonus to the allied units around it."
+msgstr "이 영감을 주는 깃발은 지배자의 아군을 전쟁으로 이끌며, 주변의 아군 유닛에게 피해 보너스를 부여합니다."
+
+#. [leadership]: id=banner
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:785
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:786
+msgid "banner"
+msgstr "깃발"
+
+#. [leadership]: id=banner
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:787
+msgid ""
+"This unit can lead ~allied~ units that are next to it, making them fight "
+"better. Adjacent allied units will do 20% more damage. This is cumulative "
+"with leadership."
+msgstr ""
+"이 유닛은 자신 옆에 있는 ~아군~ 유닛들을 이끌 수 있으며, 그들이 더 잘 싸울 수 있도록 합니다. 인접한 아군 유닛은 20% 더 많은"
+" 피해를 입힙니다. 이 효과는 리더십과 누적됩니다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:798
+msgid "Winged scepter"
+msgstr "날개 달린 홀"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:800
+msgid ""
+"Full movement and up to 50% defense in all terrains but cave or mushroom "
+"grove."
+msgstr "이 홀은 모든 지형에서 50%의 방어력과 전면 이동 능력을 제공합니다. 동굴과 버섯 숲을 제외한 모든 지형에서 적용됩니다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:801
+msgid ""
+"This wondrous rod imparts the user the ability to soar through the skies, "
+"making it a breeze to move through most terrain. Units that can already fly "
+"get improved defenses."
+msgstr ""
+"이 놀라운 지팡이는 사용자가 하늘을 나는 능력을 부여하며, 대부분의 지형을 쉽게 이동할 수 있게 합니다. 이미 날 수 있는 유닛은 "
+"방어력이 향상됩니다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:841
+msgid "Winter’s bloom"
+msgstr "겨울의 꽃"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:843
+msgid "+15 HP, up to 20% resistance vs cold"
+msgstr "+15 HP, 최대 20% 냉기 저항"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:844
+msgid ""
+"This delicate blossom rarely found in snowy peaks, is strongly appreciated "
+"for its beneficial effects on health."
+msgstr "이 섬세한 꽃은 눈 덮인 봉우리에서 드물게 발견되며, 건강에 미치는 유익한 효과로 높이 평가됩니다."
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:859
+msgid "Zephyr cloak"
+msgstr "제피르 망토"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:861
+msgid "skirmisher, ambush, nightstalk, +2 moves"
+msgstr "척후, 매복, 은밀, 이동력 +2"
+
+#. [artifact]
+#: data/campaigns/World_Conquest/resources/data/artifacts.cfg:862
+msgid ""
+"This lightweight cloak renders its wearer almost invisible in the darkness "
+"and lets them move with fluid grace past enemies with ease."
+msgstr ""
+"이 가벼운 망토는 착용자를 어둠 속에서 거의 보이지 않게 만들며, 적을 쉽게 지나갈 수 있도록 유려하게 움직일 수 있게 합니다."
+
+#. [trainer]: type=Lich
+#: data/campaigns/World_Conquest/resources/data/training.cfg:10
+msgid "Dark"
+msgstr "어두운"
+
+#. [trainer]: type=Lich
+#: data/campaigns/World_Conquest/resources/data/training.cfg:11
+msgid ""
+"I haven’t lived centuries fighting others’ battles, but I could combat "
+"boredom teaching your men a couple of things about dark techniques."
+msgstr ""
+"나는 수세기를 살아오며 다른 이들의 전투를 싸운 적은 없지만, 너희 군사들에게 어두운 기술에 대해 몇 가지 가르쳐 주며 지루함을 이길 수"
+" 있을 거야."
+
+#. [trainer]: type=Duelist
+#: data/campaigns/World_Conquest/resources/data/training.cfg:60
+msgid "Movement"
+msgstr "이동"
+
+#. [trainer]: type=Duelist
+#: data/campaigns/World_Conquest/resources/data/training.cfg:61
+msgid ""
+"What, you want me to join the fight? Quite out of the question, old boy! I’m"
+" afraid battlefields just aren’t my scene — no drama, no style, no romance! "
+"No finesse at all! You probably wouldn’t understand, so let me show you. "
+"I’ll teach you how to break out of those dreary marching formations and step"
+" light as a feather!"
+msgstr ""
+"뭐, 내가 전투에 참여하길 원한다고? 전혀 말도 안 돼, 친구! 나는 전장과는 맞지 않아 — 드라마도 없고, 스타일도 없고, 로맨스도 "
+"없지! 전혀 세련되지 않아! 아마 이해 못 할 걸, 내가 보여줄게. 나는 너에게 지루한 행진 대형을 벗어나는 방법과 가벼운 발걸음을 "
+"가르쳐 줄 거야!"
+
+#. [trainer]: type=Orcish Warrior
+#: data/campaigns/World_Conquest/resources/data/training.cfg:78
+msgid "Melee Combat"
+msgstr "근접 전투"
+
+#. [trainer]: type=Orcish Warrior
+#: data/campaigns/World_Conquest/resources/data/training.cfg:79
+msgid ""
+"Looks like you could use some help. A grizzled old veteran like me won’t be "
+"much use on the field, but I bet I can teach your men a thing or two about "
+"swordplay."
+msgstr ""
+"도움이 필요해 보이는군. 나 같은 까마득한 노병은 전장에서 별 도움이 안 되겠지만, 네 군사들에게 검술에 대해 몇 가지 가르쳐 줄 수 "
+"있을 거야."
+
+#. [chance]
+#: data/campaigns/World_Conquest/resources/data/training.cfg:103
+msgid "melee: +1 strikes"
+msgstr "근접: +1 타격"
+
+#. [trainer]: type=Elvish Ranger
+#: data/campaigns/World_Conquest/resources/data/training.cfg:121
+msgid "Ranger Tactics"
+msgstr "레인저 전술"
+
+#. [trainer]: type=Elvish Ranger
+#: data/campaigns/World_Conquest/resources/data/training.cfg:122
+msgid ""
+"I sympathize with your cause, but this is not my battle. I will not fight "
+"for you, but I will gladly instruct your recruits in the art of the ranger, "
+"that they may better fight on their own."
+msgstr ""
+"나는 너의 목적에 동감하지만, 이 전투는 내 전투가 아니야. 나는 너를 위해 싸우지 않겠지만, 나는 기꺼이 네 훈련생들에게 레인저의 "
+"기술을 가르쳐 줄 거야, 그들이 스스로 싸울 수 있도록 말이지."
+
+#. [trainer]: type=Drake Flare
+#: data/campaigns/World_Conquest/resources/data/training.cfg:160
+msgid "Combat Experience"
+msgstr "전투 경험"
+
+#. [trainer]: type=Drake Flare
+#: data/campaigns/World_Conquest/resources/data/training.cfg:161
+msgid ""
+" Join the battle? Nay, lads, my talents would be wasted on the frontlines. "
+"Give me some raw recruits to work with, though, and I’ll whip ’em into shape"
+" for you. I know what real battle is like; by the time I’m through with ’em,"
+" your newbies might have some idea of it too."
+msgstr ""
+"전투에 참여하라고? 아니, 친구들, 내 능력은 전선에서 낭비될 거야. 하지만 신병 몇 명을 맡겨 줘, 그들을 너희를 위해 훈련시켜줄게. "
+"나는 진짜 전투가 어떤 건지 알아; 내가 그들을 다루고 나면, 네 신병들도 그게 어떤 건지 알게 될 거야."
+
+#. [trainer]: type=Dwarvish Runesmith
+#: data/campaigns/World_Conquest/resources/data/training.cfg:187
+msgid "Health"
+msgstr "체력"
+
+#. [trainer]: type=Dwarvish Runesmith
+#: data/campaigns/World_Conquest/resources/data/training.cfg:188
+msgid ""
+"Looks like a pretty grim fight you’ve got up ahead. I’ve got too many "
+"troubles of my own to join in, but stick about a while and I’ll put some "
+"steel in your backbone. When I’m through with you you’ll be able to keep on "
+"going no matter the odds!"
+msgstr ""
+"앞으로 꽤 힘든 싸움이 있을 것 같군. 나도 내 일이 너무 많아서 참여할 순 없지만, 잠시 있어봐, 네 척추에 강철을 넣어줄게. 내가 "
+"너를 훈련시키고 나면, 네가 어떤 상황에서도 계속 싸울 수 있을 거야!"
+
+#. [chance]
+#: data/campaigns/World_Conquest/resources/data/training.cfg:221
+msgid "ranged: disengage"
+msgstr "원거리: 철수"
+
+#. [dummy]: id=wc2_disengage
+#: data/campaigns/World_Conquest/resources/data/training.cfg:235
+msgid "disengage"
+msgstr "철수"
+
+#. [dummy]: id=wc2_disengage
+#: data/campaigns/World_Conquest/resources/data/training.cfg:236
+msgid ""
+"Attack with this weapon gives unit 1 moves at end of combat (unit doesn’t "
+"gain a new attack)."
+msgstr "이 무기로 공격하면 전투 종료 시 유닛이 1회의 이동을 얻습니다(유닛은 새로운 공격을 얻지 않습니다)."
+
+#. [chance]
+#: data/campaigns/World_Conquest/resources/data/training.cfg:247
+msgid "Full movement on turn recruited or recalled"
+msgstr "모집하거나 소환된 차례에 완전 이동"
+
+#. [chance]
+#: data/campaigns/World_Conquest/resources/data/training.cfg:313
+msgid "$range|: $special|"
+msgstr "$range|: $special|"
+
+#. [chance]
+#. [skirmisher]: id=distract
+#: data/campaigns/World_Conquest/resources/data/training.cfg:378
+#: data/campaigns/World_Conquest/resources/data/training.cfg:403
+#: data/campaigns/World_Conquest/resources/data/training.cfg:404
+msgid "distract"
+msgstr "교란"
+
+#. [chance]
+#. [resistance]: id=tenacity
+#: data/campaigns/World_Conquest/resources/data/training.cfg:390
+#: data/campaigns/World_Conquest/resources/data/training.cfg:427
+#: data/campaigns/World_Conquest/resources/data/training.cfg:428
+msgid "tenacity"
+msgstr "불굴"
+
+#. [skirmisher]: id=distract
+#: data/campaigns/World_Conquest/resources/data/training.cfg:405
+msgid "Allied units ignore enemy zones of control adjacent to this unit."
+msgstr "이 유닛 옆의 아군 유닛들은 적의 통제 구역을 무시합니다."
+
+#. [resistance]: id=tenacity
+#: data/campaigns/World_Conquest/resources/data/training.cfg:429
+msgid "This unit’s vulnerabilities are halved when defending."
+msgstr "이 유닛은 방어할 때 취약성이 절반으로 줄어듭니다."
+
+#. [chance]
+#: data/campaigns/World_Conquest/resources/data/training.cfg:469
+msgid "heals +4, cures"
+msgstr "치유 +4, 치료"
+
+#. [chance]
+#: data/campaigns/World_Conquest/resources/data/training.cfg:545
+msgid "+$boost| moves"
+msgstr "+$boost| 이동"
+
+#. [chance]
+#: data/campaigns/World_Conquest/resources/data/training.cfg:559
+msgid "$range|: +$boost| damage"
+msgstr "$range|: +$boost| 피해"
+
+#. [chance]
+#: data/campaigns/World_Conquest/resources/data/training.cfg:575
+msgid "$range|: +1 damage per level"
+msgstr "$range|: 레벨당 +1 피해"
+
+#. [chance]
+#: data/campaigns/World_Conquest/resources/data/training.cfg:591
+msgid "+$hitpoints| hitpoints"
+msgstr "+$hitpoints| 생명력"
+
+#. [chance]
+#: data/campaigns/World_Conquest/resources/data/training.cfg:606
+msgid "+$hitpoints| hitpoints per level"
+msgstr "+$hitpoints| 레벨당 생명력"
+
+#. [chance]
+#: data/campaigns/World_Conquest/resources/data/training.cfg:622
+msgid "$value| XP to advance"
+msgstr "$value| 진급을 위한 경험치"
+
+#. [chance]
+#: data/campaigns/World_Conquest/resources/data/training.cfg:636
+msgid "free upkeep"
+msgstr "무료 유지비"
+
+#. [chance]
+#: data/campaigns/World_Conquest/resources/data/training.cfg:646
+msgid "Village/Castle: +5 defense"
+msgstr "마을/성: 방어력 +5"
+
+#. [chance]
+#: data/campaigns/World_Conquest/resources/data/training.cfg:678
+msgid ""
+"$terrain|: +$def| defense and full movement, +$res| resistance vs $dmg_type|"
+msgstr "$terrain|: +$def| 방어력과 전면 이동, +$res| 저항력 vs $dmg_type"
+
+#. [chance]
+#: data/campaigns/World_Conquest/resources/data/training.cfg:707
+msgid "$terrain|: +10 defense and full movement"
+msgstr "$terrain|: 방어력 +10 및 완전 이동"
+
+#. [chance]
+#: data/campaigns/World_Conquest/resources/data/training.cfg:718
+msgid "+moves defense"
+msgstr "+이동 방어력"
+
+#. [chance]
+#: data/campaigns/World_Conquest/resources/data/training.cfg:728
+msgid "melee: optional charge"
+msgstr "근거리: 선택적 돌격"
+
+#. [chance]
+#: data/campaigns/World_Conquest/resources/data/training.cfg:753
+msgid "$range|: arcane and +25% damage"
+msgstr "$range|: 아케인 및 +25% 피해"
+
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:5
+msgid "World Conquest 1p"
+msgstr "월드 정복 1인"
+
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:8
+msgid "World Conquest 2p"
+msgstr "월드 정복 2인"
+
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:11
+msgid "World Conquest 3p"
+msgstr "월드 정복 3인"
+
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:14
+msgid "World Conquest 4p"
+msgstr "월드 정복 4인"
+
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:17
+msgid "WC1p"
+msgstr "WC1인"
+
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:20
+msgid "WC2p"
+msgstr "WC2인"
+
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:23
+msgid "WC3p"
+msgstr "WC3인"
+
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:26
+msgid "WC4p"
+msgstr "WC4인"
+
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:29
+msgid ""
+"A randomly generated campaign for 1 player. It has 6 levels of difficulty.\n"
+"(Expert level, 5 scenarios.)"
+msgstr ""
+"1인용으로 무작위로 생성된 캠페인입니다. 6개의 난이도 레벨이 있습니다.\n"
+"(전문가 난이도, 5개의 시나리오.)"
+
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:33
+msgid ""
+"A randomly generated cooperative campaign for 2 players. It has 6 levels of difficulty.\n"
+"(Expert level, 5 scenarios.)"
+msgstr ""
+"2인용으로 무작위로 생성된 협동 캠페인입니다. 6개의 난이도 레벨이 있습니다.\n"
+"(전문가 난이도, 5개의 시나리오.)"
+
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:37
+msgid ""
+"A randomly generated cooperative campaign for 3 players. It has 6 levels of difficulty.\n"
+"(Expert level, 5 scenarios.)"
+msgstr ""
+"3인용으로 무작위로 생성된 협동 캠페인입니다. 6개의 난이도 레벨이 있습니다.\n"
+"(전문가 난이도, 5개의 시나리오.)"
+
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:41
+msgid ""
+"A randomly generated cooperative campaign for 4 players. It has 6 levels of difficulty.\n"
+"(Expert level, 5 scenarios.)"
+msgstr ""
+"4인용으로 무작위로 생성된 협동 캠페인입니다. 6개의 난이도 레벨이 있습니다.\n"
+"(전문가 난이도, 5개의 시나리오.)"
+
+#. [campaign]: id=WC_II_{PLAYERS}p,
+#. description={WC_II_CAMPAIGN_DESC_{PLAYERS}P}, type=mp
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:117
+msgid "Beginner"
+msgstr "초심자"
+
+#. [campaign]: id=WC_II_{PLAYERS}p,
+#. description={WC_II_CAMPAIGN_DESC_{PLAYERS}P}, type=mp
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:117
+msgid "Peasant"
+msgstr "농부"
+
+#. [campaign]: id=WC_II_{PLAYERS}p,
+#. description={WC_II_CAMPAIGN_DESC_{PLAYERS}P}, type=mp
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:118
+msgid "Easy"
+msgstr "쉬움"
+
+#. [campaign]: id=WC_II_{PLAYERS}p,
+#. description={WC_II_CAMPAIGN_DESC_{PLAYERS}P}, type=mp
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:118
+msgid "Sergeant"
+msgstr "하사"
+
+#. [campaign]: id=WC_II_{PLAYERS}p,
+#. description={WC_II_CAMPAIGN_DESC_{PLAYERS}P}, type=mp
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:119
+msgid "Lieutenant"
+msgstr "부관"
+
+#. [campaign]: id=WC_II_{PLAYERS}p,
+#. description={WC_II_CAMPAIGN_DESC_{PLAYERS}P}, type=mp
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:119
+msgid "Medium"
+msgstr "보통"
+
+#. [campaign]: id=WC_II_{PLAYERS}p,
+#. description={WC_II_CAMPAIGN_DESC_{PLAYERS}P}, type=mp
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:120
+msgid "General"
+msgstr "장군"
+
+#. [campaign]: id=WC_II_{PLAYERS}p,
+#. description={WC_II_CAMPAIGN_DESC_{PLAYERS}P}, type=mp
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:120
+msgid "Hard"
+msgstr "어려움"
+
+#. [campaign]: id=WC_II_{PLAYERS}p,
+#. description={WC_II_CAMPAIGN_DESC_{PLAYERS}P}, type=mp
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:121
+msgid "Challenging"
+msgstr "도전"
+
+#. [campaign]: id=WC_II_{PLAYERS}p,
+#. description={WC_II_CAMPAIGN_DESC_{PLAYERS}P}, type=mp
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:121
+msgid "Grand Marshal"
+msgstr "대원수"
+
+#. [campaign]: id=WC_II_{PLAYERS}p,
+#. description={WC_II_CAMPAIGN_DESC_{PLAYERS}P}, type=mp
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:122
+msgid "Expert"
+msgstr "전문가"
+
+#. [campaign]: id=WC_II_{PLAYERS}p,
+#. description={WC_II_CAMPAIGN_DESC_{PLAYERS}P}, type=mp
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:122
+msgid "Nightmare"
+msgstr "악몽"
+
+#. [about]
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:125
+msgid "Campaign Design"
+msgstr "캠페인 설계"
+
+#. [about]
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:132
+msgid "Prose, Grammatical and Text Assistance"
+msgstr "문체, 문법 및 텍스트 지원"
+
+#. [about]
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:148
+msgid "Minor Code Contributors"
+msgstr "소규모 코드 기여자들"
+
+#. [about]
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:158
+msgid "Playtesting"
+msgstr "플레이테스트"
+
+#. [about]
+#: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:177
+msgid "Campaign Maintenance"
+msgstr "캠페인 유지/보수"

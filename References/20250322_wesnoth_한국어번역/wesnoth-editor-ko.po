@@ -1,0 +1,576 @@
+# #-#-#-#-#  wesnoth-editor.cpp.pot (PACKAGE VERSION)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Wesnoth development team
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# ks k, 2025
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2025-03-17 04:21 UTC\n"
+"PO-Revision-Date: 2022-08-31 05:33+0000\n"
+"Last-Translator: ks k, 2025\n"
+"Language-Team: Korean (https://app.transifex.com/kmshts/teams/4548/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. [brush]: id=brush-1
+#: data/core/editor/brushes.cfg:6
+msgid "Single Hex"
+msgstr "단일 칸"
+
+#. [brush]: id=brush-2
+#: data/core/editor/brushes.cfg:16
+msgid "Radius 1 Hex"
+msgstr "반경 1칸"
+
+#. [brush]: id=brush-3
+#: data/core/editor/brushes.cfg:26
+msgid "Radius 2 Hex"
+msgstr "반경 2칸"
+
+#. [brush]: id=brush-nw-se
+#: data/core/editor/brushes.cfg:47
+msgid "Hex Line NW-SE"
+msgstr "북서-남동 라인"
+
+#. [brush]: id=brush-sw-ne
+#: data/core/editor/brushes.cfg:63
+msgid "Hex Line SW-NE"
+msgstr "북서-남동 라인"
+
+#. [editor_group]: id=all
+#: data/core/editor/terrain-groups.cfg:11
+msgid "all"
+msgstr "모든 타일"
+
+#. [editor_group]: id=water
+#: data/core/editor/terrain-groups.cfg:17
+msgid "water"
+msgstr "수상 타일"
+
+#. [editor_group]: id=flat
+#: data/core/editor/terrain-groups.cfg:24
+msgid "flat"
+msgstr "평지 타일"
+
+#. [editor_group]: id=desert
+#: data/core/editor/terrain-groups.cfg:31
+msgid "desert"
+msgstr "사막 타일"
+
+#. [editor_group]: id=embellishments
+#: data/core/editor/terrain-groups.cfg:38
+msgid "embellishments"
+msgstr "타일 장식"
+
+#. [editor_group]: id=forest
+#: data/core/editor/terrain-groups.cfg:45
+msgid "forest"
+msgstr "삼림 타일"
+
+#. [editor_group]: id=fall
+#: data/core/editor/terrain-groups.cfg:52
+msgid "fall"
+msgstr "가을"
+
+#. [editor_group]: id=frozen
+#: data/core/editor/terrain-groups.cfg:59
+msgid "frozen"
+msgstr "냉동 타일"
+
+#. [editor_group]: id=rough
+#: data/core/editor/terrain-groups.cfg:66
+msgid "rough"
+msgstr "구릉 타일"
+
+#. [editor_group]: id=cave
+#: data/core/editor/terrain-groups.cfg:73
+msgid "cave"
+msgstr "동굴 타일"
+
+#. [editor_group]: id=obstacle
+#: data/core/editor/terrain-groups.cfg:80
+msgid "obstacle"
+msgstr "장애 타일"
+
+#. [editor_group]: id=village
+#: data/core/editor/terrain-groups.cfg:87
+msgid "village"
+msgstr "마을 타일"
+
+#. [editor_group]: id=castle
+#: data/core/editor/terrain-groups.cfg:94
+msgid "castle"
+msgstr "성채 타일"
+
+#. [editor_group]: id=bridge
+#: data/core/editor/terrain-groups.cfg:101
+msgid "bridge"
+msgstr "다리 타일"
+
+#. [editor_group]: id=special
+#: data/core/editor/terrain-groups.cfg:108
+msgid "special"
+msgstr "특수 타일"
+
+#. [editor_group]: id=elevation
+#: data/core/editor/terrain-groups.cfg:115
+msgid "elevation"
+msgstr "높이"
+
+#. [editor_times]: id=empty
+#. Describes a scenario in the editor that has not set a time of day schedule
+#: data/core/editor/time-of-day.cfg:6
+msgid "time of day^None"
+msgstr "없음"
+
+#. [editor_times]: id=test
+#: data/core/editor/time-of-day.cfg:11
+msgid "Test"
+msgstr "테스트"
+
+#. [editor_times]: id=default
+#: data/core/editor/time-of-day.cfg:22
+msgid "Default"
+msgstr "기본"
+
+#. [editor_times]: id=summer
+#: data/core/editor/time-of-day.cfg:28
+msgid "Summer"
+msgstr "여름"
+
+#. [editor_times]: id=winter
+#: data/core/editor/time-of-day.cfg:34
+msgid "Winter"
+msgstr "겨울"
+
+#. [editor_times]: id=24
+#: data/core/editor/time-of-day.cfg:60
+msgid "24 Hour Schedule"
+msgstr "24시간 일정"
+
+#. [editor_times]: id=after_the_fall
+#: data/core/editor/time-of-day.cfg:66
+msgid "After the Fall"
+msgstr "가을 후"
+
+#. [theme]: id=editor
+#: data/themes/editor.cfg:11
+msgid "theme^Editor"
+msgstr "편집기"
+
+#. [menu]: id=menu-editor-file, type=turbo
+#: data/themes/editor.cfg:61
+msgid "File"
+msgstr "파일"
+
+#. [menu]: id=menu-editor-recent
+#: data/themes/editor.cfg:72
+msgid "Load Recent"
+msgstr "최근 파일을 불러오기"
+
+#. [menu]: id=menu-editor-map
+#: data/themes/editor.cfg:80
+msgid "Map"
+msgstr "지도"
+
+#. [menu]: id=menu-unit-facing
+#: data/themes/editor.cfg:88
+msgid "Unit Facing"
+msgstr "유닛의 색"
+
+#. [menu]: id=menu-editor-transitions
+#: data/themes/editor.cfg:94
+msgid "Transition Update"
+msgstr "전이 업데이트"
+
+#. [menu]: id=menu-editor-window
+#: data/themes/editor.cfg:101
+msgid "Window"
+msgstr "창"
+
+#. [menu]: id=menu-editor-addon
+#: data/themes/editor.cfg:110
+msgid "Add-on"
+msgstr "부가 기능"
+
+#. [menu]: id=menu-editor-areas
+#: data/themes/editor.cfg:119
+msgid "Areas"
+msgstr "영역"
+
+#. [menu]: id=menu-editor-local-time
+#: data/themes/editor.cfg:127
+msgid "Assign Local Time"
+msgstr "현지 시간 설정"
+
+#. [menu]: id=menu-editor-local-schedule
+#: data/themes/editor.cfg:133
+msgid "Assign Local Time Schedule"
+msgstr "현지 시간 일정"
+
+#. [menu]: id=menu-editor-unit
+#: data/themes/editor.cfg:141
+msgid "Unit"
+msgstr "유닛"
+
+#. [menu]: id=menu-editor-side
+#: data/themes/editor.cfg:151
+msgid "Side"
+msgstr "진영"
+
+#. [label]: id=villages-icon
+#: data/themes/editor.cfg:168
+msgid "villages"
+msgstr "마을들"
+
+#. [label]: id=units-icon
+#: data/themes/editor.cfg:184
+msgid "units"
+msgstr "유닛"
+
+#. [menu]: id=switch_time
+#: data/themes/editor.cfg:479
+msgid "Time Schedule Menu"
+msgstr "시간 일정 차림표"
+
+#. [menu]: id=menu-playlist
+#: data/themes/editor.cfg:490
+msgid "Playlist"
+msgstr "플레이목록"
+
+#. [menu]: id=menu-editor-schedule
+#: data/themes/editor.cfg:496
+msgid "Assign Time Schedule"
+msgstr "시간 일정 설정"
+
+#: src/editor/action/mouse/mouse_action_unit.cpp:58
+msgid "Identifier: "
+msgstr "ID: "
+
+#: src/editor/action/mouse/mouse_action_unit.cpp:60
+msgid "Name: "
+msgstr "이름: "
+
+#: src/editor/action/mouse/mouse_action_unit.cpp:62
+msgid "Type: "
+msgstr "유형: "
+
+#: src/editor/action/mouse/mouse_action_unit.cpp:63
+msgid "Level: "
+msgstr "수준: "
+
+#: src/editor/action/mouse/mouse_action_unit.cpp:64
+msgid "Cost: "
+msgstr "비용: "
+
+#: src/editor/controller/editor_controller.cpp:187
+msgid "Fatal error"
+msgstr "치명적인 오류"
+
+#: src/editor/controller/editor_controller.cpp:217
+msgid "Do you really want to quit?"
+msgstr "정말로 종료하시겠습니까?"
+
+#: src/editor/controller/editor_controller.cpp:219
+msgid ""
+"Do you really want to quit? Changes to this map since the last save will be "
+"lost."
+msgstr "정말로 종료하시겠습니까? 마지막 저장 이후에 행한 지도의 변동사항을 잃게 됩니다."
+
+#: src/editor/controller/editor_controller.cpp:221
+msgid ""
+"Do you really want to quit? The following maps were modified and all changes"
+" since the last save will be lost:"
+msgstr "정말로 종료하시겠습니까? 다음의 지도이 수정되어 있으며 종료하면 변경한 부분은 사라집니다:"
+
+#: src/editor/controller/editor_controller.cpp:238
+msgid "No editor time-of-day found."
+msgstr "편집기의 시각설정을 찾을 수 없습니다."
+
+#: src/editor/controller/editor_controller.cpp:886
+msgid "Add-on Files"
+msgstr "부가 기능 파일들"
+
+#: src/editor/controller/editor_controller.cpp:899
+msgid "Opening files is not supported, contact your packager"
+msgstr "파일 열기가 지원되지 않습니다. 꾸러미 제작자에게 문의하세요"
+
+#: src/editor/controller/editor_controller.cpp:1324
+msgid "Change Unit ID"
+msgstr "유닛 ID를 바꾸기"
+
+#: src/editor/controller/editor_controller.cpp:1325
+msgid "ID:"
+msgstr "ID:"
+
+#: src/editor/controller/editor_controller.cpp:1341
+msgid "Rename Unit"
+msgstr "유닛 이름을 바꾸기"
+
+#: src/editor/controller/editor_controller.cpp:1342
+msgid "Name:"
+msgstr "이름:"
+
+#: src/editor/editor_display.cpp:170
+msgid "<span color='#66ff00'><span face='DejaVuSans'>✔</span> $msg</span>"
+msgstr "<span color='#66ff00'><span face='DejaVuSans'>✔</span> $msg</span>"
+
+#: src/editor/editor_display.cpp:172
+msgid "<span color='red'><span face='DejaVuSans'>✘</span> $msg</span>"
+msgstr "<span color='red'><span face='DejaVuSans'>✘</span> $msg</span>"
+
+#: src/editor/map/context_manager.cpp:217
+msgid "Load Map"
+msgstr "지도를 불러오기"
+
+#: src/editor/map/context_manager.cpp:313 src/editor/map/map_context.cpp:1135
+msgid "New Map"
+msgstr "새로운 지도"
+
+#: src/editor/map/context_manager.cpp:326 src/editor/map/map_context.cpp:1135
+msgid "New Scenario"
+msgstr "새로운 시나리오"
+
+#: src/editor/map/context_manager.cpp:382
+msgid "No Recent Files"
+msgstr "최근 파일 없음"
+
+#: src/editor/map/context_manager.cpp:420
+msgid "Unnamed Area"
+msgstr "이름없는 영역"
+
+#: src/editor/map/context_manager.cpp:451
+msgid "New Side"
+msgstr "새로운 진영"
+
+#: src/editor/map/context_manager.cpp:507
+msgid "Apply Mask"
+msgstr "마스크를 적용"
+
+#: src/editor/map/context_manager.cpp:516
+msgid "Error loading mask"
+msgstr "마스크 불러오기 오류"
+
+#: src/editor/map/context_manager.cpp:536
+msgid "Identifier:"
+msgstr "ID:"
+
+#: src/editor/map/context_manager.cpp:536
+msgid "Rename Area"
+msgstr "영역 이름을 바꾸기"
+
+#: src/editor/map/context_manager.cpp:550
+msgid "Choose Target Map"
+msgstr "불러올 지도를 선택하십시오"
+
+#: src/editor/map/context_manager.cpp:559
+#: src/editor/map/context_manager.cpp:984
+msgid "Error loading map"
+msgstr "지도 불러오기 오류"
+
+#: src/editor/map/context_manager.cpp:691
+msgid "Save Map As"
+msgstr "다른 이름으로 지도를 저장"
+
+#: src/editor/map/context_manager.cpp:708
+#: src/editor/map/context_manager.cpp:757 src/editor/map/map_context.cpp:273
+#: src/editor/palette/location_palette.cpp:263
+msgid "Error"
+msgstr "오류"
+
+#: src/editor/map/context_manager.cpp:709
+#: src/editor/map/context_manager.cpp:758
+msgid "Do you really want to save $type1 in $type2 folder?"
+msgstr "$type1 을 $type2 폴더에 저장하겠습니까?"
+
+#: src/editor/map/context_manager.cpp:717
+#: src/editor/map/context_manager.cpp:925
+msgid "This map is already open."
+msgstr "해당 지도는 이미 열려 있습니다."
+
+#: src/editor/map/context_manager.cpp:740
+msgid "Save Scenario As"
+msgstr "다름 이름으로 시나리오를 저장"
+
+#: src/editor/map/context_manager.cpp:766
+msgid "This scenario is already open."
+msgstr "해당 시나리오는 이미 열려 있습니다."
+
+#: src/editor/map/context_manager.cpp:799
+msgid "No random map generators found."
+msgstr "랜덤 지도 생성기가 빌견되지 않습니다."
+
+#: src/editor/map/context_manager.cpp:812
+#: src/editor/map/context_manager.cpp:817
+msgid "Map creation failed."
+msgstr "지도 생성 실패."
+
+#: src/editor/map/context_manager.cpp:832
+msgid "Unsaved Changes"
+msgstr "변경점들이 저장되지 않았음"
+
+#: src/editor/map/context_manager.cpp:833
+msgid ""
+"Do you want to discard all changes made to the map since the last save?"
+msgstr "마지막 저장 이후에 행한 지도 변동사항을 모두 취소하겠습니까?"
+
+#: src/editor/map/context_manager.cpp:886
+msgid "Scenario saved."
+msgstr "시나리오가 저장되었습니다."
+
+#: src/editor/map/context_manager.cpp:901
+msgid "Map saved"
+msgstr "지도가 저장되었습니다."
+
+#: src/editor/map/context_manager.cpp:976
+msgid "Loaded embedded map data"
+msgstr "불러오기된 내장 지도 데이터"
+
+#: src/editor/map/context_manager.cpp:977
+#: src/editor/map/context_manager.cpp:980
+msgid "Map loaded from scenario"
+msgstr "시나리오에서 불러오기된 지도"
+
+#: src/editor/map/context_manager.cpp:980
+msgid "Loaded referenced map file:"
+msgstr "불러오기된 참조 지도 파일:"
+
+#: src/editor/map/editor_map.cpp:146
+#: src/editor/palette/location_palette.cpp:118
+msgid "Player $side_num"
+msgstr "$side_num 번 플레이어"
+
+#: src/editor/map/editor_map.cpp:281
+msgid "The size of the target map is different from the current map"
+msgstr "선택한 지도의 크기가 현재 지도의 크기와 다릅니다"
+
+#: src/editor/map/map_context.cpp:186
+msgid "File not found"
+msgstr "파일이 발견되지 않습니다"
+
+#: src/editor/map/map_context.cpp:193
+msgid "Empty file"
+msgstr "빈 파일"
+
+#: src/editor/map/map_context.cpp:202
+msgid "File does not have .map, .cfg, or .mask extension"
+msgstr "파일에 .map 나 .cfg 나 .mask 확장자가 없습니다"
+
+#: src/editor/map/map_context.cpp:249
+msgid ""
+"The map file looks like a scenario, but the map_data value does not point to"
+" an existing file"
+msgstr "지도 파일이 시나리오처럼 보이지만 map_data 값이 기존 파일을 가리키지 않습니다"
+
+#: src/editor/map/map_context.cpp:268
+msgid "Found the characters ‘<<’ indicating inline lua is present — aborting"
+msgstr "인라인 루아가 있음을 나타내는 문자 ‘<<’ 를 찾았습니다. - 중단하고 있음"
+
+#: src/editor/map/map_context.cpp:273
+msgid "Failed to load the scenario, attempting to load only the map."
+msgstr "시나리오를 불러오지 못했습니다. 지도만 불러오기를 하려고 시도했습니다."
+
+#: src/editor/map/map_context.cpp:280
+msgid ""
+"The map file looks like a scenario, but the map_file value does not point to"
+" an existing file"
+msgstr "지도 파일이 시나리오처럼 보이지만 map_file 값이 기존 파일을 가리키지 않습니다"
+
+#: src/editor/map/map_context.cpp:295
+msgid "Unable to parse file to find map data"
+msgstr "지도 데이터를 찾기 위한 파일을 구문 분석할 수 없습니다"
+
+#: src/editor/map/map_context.cpp:829 src/editor/map/map_context.cpp:869
+msgid "Could not save time schedule: $msg"
+msgstr "시간 일정을 저장할 수 없습니다: $msg"
+
+#: src/editor/map/map_context.cpp:863
+msgid "Time schedule saved."
+msgstr "시간 일정이 저장되었습니다."
+
+#: src/editor/map/map_context.cpp:909
+msgid "Could not save the scenario: $msg"
+msgstr "시나리오를 저장 할 수 없습니다: $msg"
+
+#: src/editor/map/map_context.cpp:940
+msgid "Could not save into scenario"
+msgstr "시나리오 안에 저장 할 수 없습니다"
+
+#: src/editor/map/map_context.cpp:950
+msgid "Could not save the map: $msg"
+msgstr "지도를 저장 할 수 없습니다: $msg"
+
+#: src/editor/palette/editor_palettes.cpp:50
+msgid "(Unknown Group)"
+msgstr "(알 수 없는 묶음)"
+
+#: src/editor/palette/editor_palettes.cpp:308
+msgid "(non-core)"
+msgstr "(핵심 이외)"
+
+#: src/editor/palette/editor_palettes.cpp:309
+msgid "Will not work in game without extra care."
+msgstr "지금 상태로는 게임에서 동작 하지 않습니다."
+
+#: src/editor/palette/item_palette.cpp:33
+msgid "Left-click: Place item $item | Right-click to remove"
+msgstr "왼쪽 클릭: $item 항목을 배치 | 오른쪽 클릭: 제거"
+
+#: src/editor/palette/location_palette.cpp:247
+msgid "Go To"
+msgstr "이동"
+
+#: src/editor/palette/location_palette.cpp:254
+msgid "Add"
+msgstr "추가"
+
+#: src/editor/palette/location_palette.cpp:256
+msgid "New Location Identifier"
+msgstr "새로운 장소 ID"
+
+#: src/editor/palette/location_palette.cpp:264
+msgid "Invalid location id"
+msgstr "불명확한 장소 ID"
+
+#: src/editor/palette/location_palette.cpp:271
+msgid "Delete"
+msgstr "삭제"
+
+#: src/editor/palette/terrain_palettes.cpp:224
+msgid "Left-click: "
+msgstr "왼쪽 클릭: "
+
+#: src/editor/palette/terrain_palettes.cpp:225
+msgid "Right-click: "
+msgstr "오른쪽 클릭: "
+
+#. TRANSLATORS: Similar behavior applies to shift + right-click. This message
+#. specifies left-click
+#. because the logic of whether to show the "overlay only" or "base only"
+#. version depends on the
+#. terrain currently selected for the left button.
+#: src/editor/palette/terrain_palettes.cpp:230
+msgid "Shift + left-click: paint overlay layer only"
+msgstr "쉬프트 + 왼쪽 클릭: 오버레이 레이어만 그리기"
+
+#: src/editor/palette/terrain_palettes.cpp:232
+msgid "Shift + left-click: paint base layer only"
+msgstr "쉬프트 + 왼쪽 클릭: 기본 레이어만 그리기"
+
+#: src/editor/palette/terrain_palettes.cpp:235
+msgid "Cmd + click: copy terrain"
+msgstr "Cmd + 클릭: 지형을 복사"
+
+#: src/editor/palette/terrain_palettes.cpp:237
+msgid "Ctrl + click: copy terrain"
+msgstr "Cmd + 클릭: 지형을 복사"
