@@ -168,7 +168,7 @@ msgstr "동쪽 관문"
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:96
 msgid "Defeat Bashnark"
-msgstr "바쉬나르크를 무찔러라"
+msgstr "바쉬나르크(Bashnark)를 무찔러라"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:100
@@ -185,7 +185,7 @@ msgstr "바쉬나르크를 무찔러라"
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1094
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1147
 msgid "Death of Aiglondur"
-msgstr "아이글론두르의 죽음"
+msgstr "아이글론두르(Aiglondur)의 죽음"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:118
@@ -317,7 +317,7 @@ msgstr "아닙니다, 단지... 운이 나빴을 뿐입니다. 우리는 그저 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:118
 msgid "The Hammer of Thursagan?"
-msgstr "투르사간의 망치?"
+msgstr "투르사간(Thursagan)의 망치?"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:123
@@ -469,7 +469,7 @@ msgstr "알겠습니다, 영주님."
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:240
 msgid "The Order thanks you, Lord Hamel."
-msgstr "집단은 하멜 경에게 감사드립니다."
+msgstr "집단은 하멜(Hamel) 경에게 감사드립니다."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:245
@@ -512,7 +512,7 @@ msgstr "고르타스(Gorthas)"
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:121
 msgid "Help Marth-Tak defeat Gorthas"
-msgstr "마르쓰-탁이 고르타스를 물리치도록 도와라"
+msgstr "마르쓰-탁이 고르타스(Gorthas)를 물리치도록 도와라"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:129
@@ -528,7 +528,7 @@ msgstr "마르쓰-탁이 고르타스를 물리치도록 도와라"
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1098
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1151
 msgid "Death of Angarthing"
-msgstr "앙가르팅의 죽음"
+msgstr "앙가르팅(Angarthing)의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:133
@@ -538,7 +538,7 @@ msgstr "앙가르팅의 죽음"
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Forbidden_Forest.cfg:144
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_The_Siege_of_Kal_Kartha.cfg:229
 msgid "Death of Movrur"
-msgstr "모브루르의 죽음"
+msgstr "모브루르(Movrur)의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:137
@@ -939,7 +939,7 @@ msgstr "물론이죠..."
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:347
 msgid "<i>Angarthing, is something wrong?</i>"
-msgstr "<i>앙가르팅, 무슨 일 있나요?</i>"
+msgstr "<i>앙가르팅(Angarthing), 무슨 일 있나요?</i>"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:352
@@ -1210,7 +1210,7 @@ msgstr "오크의 대장들을 무찔러라"
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1102
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1155
 msgid "Death of Dulcatulos"
-msgstr "둘카툴로스의 죽음"
+msgstr "둘카툴로스(Dulcatulos)의 죽음"
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_The_Siege_of_Kal_Kartha.cfg:261
@@ -1257,7 +1257,7 @@ msgstr "잘 싸워주셔서 감사합니다. 우리는 심각한 곤경에 처�
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_The_Siege_of_Kal_Kartha.cfg:322
 msgid "<i>Dulcatulos, you dunce...</i>"
-msgstr "<i>둘카툴로스, 이 멍청한놈이...</i>"
+msgstr "<i>둘카툴로스(Dulcatulos), 이 멍청한놈이...</i>"
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_The_Siege_of_Kal_Kartha.cfg:327
@@ -1370,7 +1370,7 @@ msgstr "가면 쓴 난쟁이"
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Court_of_Karrag.cfg:131
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1090
 msgid "Defeat Karrag"
-msgstr "카르라그를 무찔러라"
+msgstr "카르라그(Karrag)를 무찔러라"
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Court_of_Karrag.cfg:178
@@ -1545,7 +1545,7 @@ msgstr "지하층"
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:211
 msgid "Find and defeat Karrag"
-msgstr "카르라그를 찾아서 물리쳐라"
+msgstr "카르라그(Karrag)를 찾아서 물리쳐라"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:273

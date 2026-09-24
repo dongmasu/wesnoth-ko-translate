@@ -1114,7 +1114,7 @@ msgstr ""
 #. [unit_type]: id=Galleon, race=mechanical
 #: data/core/units/boats/Galleon.cfg:6
 msgid "Galleon"
-msgstr "갤리언"
+msgstr "갤리언(Galleon)"
 
 #. [unit_type]: id=Galleon, race=mechanical
 #: data/core/units/boats/Galleon.cfg:19
@@ -1145,7 +1145,7 @@ msgstr "발리스타"
 #. [unit_type]: id=Transport Galleon, race=mechanical
 #: data/core/units/boats/Transport_Galleon.cfg:4
 msgid "Transport Galleon"
-msgstr "수송 갤리언"
+msgstr "수송 갤리언(Galleon)"
 
 #. [unit_type]: id=Transport Galleon, race=mechanical
 #: data/core/units/boats/Transport_Galleon.cfg:16
@@ -2382,7 +2382,7 @@ msgstr "말을 탄 채 활을 쏘는 일에는 극소수만 극복할 수 있는
 #: data/core/units/dunefolk/Wyvern_Rider.cfg:4
 #| msgid "Gryphon Rider"
 msgid "Wyvern Rider"
-msgstr "와이번 기수"
+msgstr "와이번(Wyvern) 기수"
 
 #. [unit_type]: id=Dwarvish Arcanister, race=dwarf
 #: data/core/units/dwarves/Arcanister.cfg:4
@@ -3345,7 +3345,7 @@ msgstr ""
 #. [unit_type]: id=Gryphon, race=gryphon
 #: data/core/units/gryphons/Gryphon.cfg:4
 msgid "Gryphon"
-msgstr "그리폰"
+msgstr "그리폰(Gryphon)"
 
 #. [unit_type]: id=Gryphon, race=gryphon
 #: data/core/units/gryphons/Gryphon.cfg:18
@@ -3358,7 +3358,7 @@ msgstr "이 웅장하고 강력한 생물들은 하늘의 지배자들이다. �
 #. [unit_type]: id=Gryphon Master, race=gryphon
 #: data/core/units/gryphons/Gryphon_Master.cfg:4
 msgid "Gryphon Master"
-msgstr "그리폰 마스터"
+msgstr "그리폰(Gryphon) 마스터"
 
 #. [unit_type]: id=Gryphon Master, race=gryphon
 #: data/core/units/gryphons/Gryphon_Master.cfg:18
@@ -3371,7 +3371,7 @@ msgstr "그리폰(Gryphon) 마스터들은 그리폰(Gryphon)을 오랫동안 �
 #. [unit_type]: id=Gryphon Rider, race=gryphon
 #: data/core/units/gryphons/Gryphon_Rider.cfg:4
 msgid "Gryphon Rider"
-msgstr "그리폰 기병"
+msgstr "그리폰(Gryphon) 기병"
 
 #. [unit_type]: id=Gryphon Rider, race=gryphon
 #: data/core/units/gryphons/Gryphon_Rider.cfg:17
@@ -3444,12 +3444,7 @@ msgid ""
 "against most infantry, especially those who have fallen out of line, but "
 "must take care against both spearmen and archers for whom their large size "
 "provide inviting targets."
-msgstr ""
-"주로 Wesnoth에서 보다 황량한 야생 지역 출신인 기마병들은 어릴적부터 기마술을 "
-"훈련받고 엄격한 명예 규칙을 따른다. 기마병의 돌격은 위험하지만 강력한 전술로"
-"서 오랜 시간동안 전장에서 그 가치를 입증하여 왔다. 기마병들은 대부분의 보병들"
-"을 압도하지만 특히 전선에서 이탈한 이들을 잡는데 유용하다. 하지만 그들의 큰 "
-"몸체는 좋은 목표물이 되므로 궁병이나 창병을 상대할 때는 조심하는 것이 좋다."
+msgstr "주로 웨스노스(Wesnoth)에서 보다 황량한 야생 지역 출신인 기마병들은 어릴적부터 기마술을 훈련받고 엄격한 명예 규칙을 따른다. 기마병의 돌격은 위험하지만 강력한 전술로서 오랜 시간동안 전장에서 그 가치를 입증하여 왔다. 기마병들은 대부분의 보병들을 압도하지만 특히 전선에서 이탈한 이들을 잡는데 유용하다. 하지만 그들의 큰 몸체는 좋은 목표물이 되므로 궁병이나 창병을 상대할 때는 조심하는 것이 좋다."
 
 #. [unit_type]: id=Bowman, race=human, gender=male
 #: data/core/units/humans/Loyalist_Bowman.cfg:18
@@ -5943,7 +5938,7 @@ msgstr ""
 #. [unit_type]: id=Skeletal Dragon, race=undead
 #: data/core/units/monsters/Skeletal_Dragon.cfg:4
 msgid "Skeletal Dragon"
-msgstr "뼈만 남은 드래곤"
+msgstr "뼈만 남은 드래곤(Dragon)"
 
 #. [unit_type]: id=Skeletal Dragon, race=undead
 #: data/core/units/monsters/Skeletal_Dragon.cfg:27
@@ -6074,7 +6069,7 @@ msgstr "외딴 눈 덮인 산에 산다고 하는 유인원 같은 생물 예티
 #. [unit_type]: id=Naga Dirkfang, race=naga, gender=male,female
 #: data/core/units/nagas/Dirkfang.cfg:4
 msgid "Naga Dirkfang"
-msgstr "나가 단검이빨"
+msgstr "나가(Naga) 단검이빨"
 
 #. [unit_type]: id=Naga Dirkfang, race=naga, gender=male,female
 #: data/core/units/nagas/Dirkfang.cfg:18
@@ -6103,7 +6098,7 @@ msgstr "나가니 단검이빨"
 #. [unit_type]: id=Naga Fighter, race=naga, gender=male,female
 #: data/core/units/nagas/Fighter.cfg:4
 msgid "Naga Fighter"
-msgstr "나가 투사"
+msgstr "나가(Naga) 투사"
 
 #. [unit_type]: id=Naga Fighter, race=naga, gender=male,female
 #: data/core/units/nagas/Fighter.cfg:18
@@ -6125,7 +6120,7 @@ msgstr "나가 투사 ♀"
 #: data/core/units/nagas/Guard.cfg:4
 #| msgid "Royal Guard"
 msgid "Naga Guard"
-msgstr "나가 경비병"
+msgstr "나가(Naga) 경비병"
 
 #. [unit_type]: id=Naga Guard, race=naga
 #: data/core/units/nagas/Guard.cfg:22
@@ -6141,7 +6136,7 @@ msgstr "나가들은 전장에서 민첩성과 우아함을 중요하게 여기�
 #: data/core/units/nagas/Guard_High.cfg:4
 #| msgid "Naga Fighter"
 msgid "Naga High Guard"
-msgstr "나가의 고위 경비대"
+msgstr "나가(Naga)의 고위 경비대"
 
 #. [unit_type]: id=Naga High Guard, race=naga
 #: data/core/units/nagas/Guard_High.cfg:23
@@ -6164,7 +6159,7 @@ msgstr "방패"
 #: data/core/units/nagas/Guard_Shield.cfg:4
 #| msgid "Drake Slasher"
 msgid "Naga Shield Guard"
-msgstr "나가 방패 경비병"
+msgstr "나가(Naga) 방패 경비병"
 
 #. [unit_type]: id=Naga Shield Guard, race=naga
 #: data/core/units/nagas/Guard_Shield.cfg:22
@@ -6193,7 +6188,7 @@ msgstr "나가 최고의 검술사들만이 쌍검술의 달인들인 미르미�
 #. [female]: gender=female
 #: data/core/units/nagas/Myrmidon.cfg:48
 msgid "Nagini Myrmidon"
-msgstr "나가 미르미돈 ♀"
+msgstr "나가 미르미돈(Myrmidon) ♀"
 
 #. [female]: gender=female
 #: data/core/units/nagas/Myrmidon.cfg:50
@@ -6209,7 +6204,7 @@ msgstr "나기니 최고의 검술사들만이 쌍검술의 달인들인 미르�
 #: data/core/units/nagas/Ophidian.cfg:4
 #| msgid "Naga Myrmidon"
 msgid "Naga Ophidian"
-msgstr "나가 오피디언"
+msgstr "나가(Naga) 오피디언"
 
 #. [unit_type]: id=Naga Ophidian, race=naga, gender=male,female
 #: data/core/units/nagas/Ophidian.cfg:18
@@ -6249,7 +6244,7 @@ msgstr "나가니 오피디언"
 #: data/core/units/nagas/Ringcaster.cfg:4
 #| msgid "Naga Fighter"
 msgid "Naga Ringcaster"
-msgstr "나가 고리 무기수"
+msgstr "나가(Naga) 고리 무기수"
 
 #. [unit_type]: id=Naga Ringcaster, race=naga, gender=male,female
 #: data/core/units/nagas/Ringcaster.cfg:18
@@ -6277,7 +6272,7 @@ msgstr "나가니 고리 무기수"
 #: data/core/units/nagas/Sicarius.cfg:4
 #| msgid "Naga Fighter"
 msgid "Naga Sicarius"
-msgstr "나가 암살자"
+msgstr "나가(Naga) 암살자"
 
 #. [unit_type]: id=Naga Sicarius, race=naga, gender=male,female
 #: data/core/units/nagas/Sicarius.cfg:19
@@ -6306,7 +6301,7 @@ msgstr "나가니 고리 무기수"
 #. [unit_type]: id=Naga Warrior, race=naga, gender=male,female
 #: data/core/units/nagas/Warrior.cfg:4
 msgid "Naga Warrior"
-msgstr "나가 전사"
+msgstr "나가(Naga) 전사"
 
 #. [unit_type]: id=Naga Warrior, race=naga, gender=male,female
 #: data/core/units/nagas/Warrior.cfg:18
@@ -6339,7 +6334,7 @@ msgstr "많은 어린 나기니 전사들은 그들이 두 번째 검을 받을 
 #: data/core/units/nagas/Zephyr.cfg:4
 #| msgid "Naga Fighter"
 msgid "Naga Zephyr"
-msgstr "나가 제피르"
+msgstr "나가(Naga) 제피르"
 
 #. [unit_type]: id=Naga Zephyr, race=naga, gender=male,female
 #: data/core/units/nagas/Zephyr.cfg:19
@@ -6869,7 +6864,7 @@ msgstr "특별한 힘을 가지고 태어난 트롤이 연륜과 지혜를 갖�
 #. [unit_type]: id=Troll Hero, race=troll
 #: data/core/units/trolls/Hero.cfg:4
 msgid "Troll Hero"
-msgstr "트롤 영웅"
+msgstr "트롤(Troll) 영웅"
 
 #. [unit_type]: id=Troll Hero, race=troll
 #: data/core/units/trolls/Hero.cfg:16
@@ -6884,7 +6879,7 @@ msgstr ""
 #. [unit_type]: id=Troll Rocklobber, race=troll
 #: data/core/units/trolls/Rocklobber.cfg:4
 msgid "Troll Rocklobber"
-msgstr "트롤 투석병"
+msgstr "트롤(Troll) 투석병"
 
 #. [unit_type]: id=Troll Rocklobber, race=troll
 #: data/core/units/trolls/Rocklobber.cfg:18
@@ -6915,7 +6910,7 @@ msgstr "트롤들은 오랜 세월동안 인류와 드워프 종족에게 골칫
 #. [unit_type]: id=Troll Shaman, race=troll
 #: data/core/units/trolls/Troll_Shaman.cfg:4
 msgid "Troll Shaman"
-msgstr "트롤 주술사"
+msgstr "트롤(Troll) 주술사"
 
 #. [unit_type]: id=Troll Shaman, race=troll
 #: data/core/units/trolls/Troll_Shaman.cfg:24
@@ -6933,7 +6928,7 @@ msgstr "화염 폭발"
 #. [unit_type]: id=Troll Warrior, race=troll
 #: data/core/units/trolls/Warrior.cfg:4
 msgid "Troll Warrior"
-msgstr "트롤 전사"
+msgstr "트롤(Troll) 전사"
 
 #. [unit_type]: id=Troll Warrior, race=troll
 #: data/core/units/trolls/Warrior.cfg:18
@@ -6951,7 +6946,7 @@ msgstr "트롤들은 대체로 전투에서 어떤 적당한 무기를 필요로
 #. [unit_type]: id=Troll Whelp, race=troll
 #: data/core/units/trolls/Whelp.cfg:4
 msgid "Troll Whelp"
-msgstr "새끼 트롤"
+msgstr "새끼 트롤(Troll)"
 
 #. [unit_type]: id=Troll Whelp, race=troll
 #: data/core/units/trolls/Whelp.cfg:17
@@ -7109,7 +7104,7 @@ msgstr "짐승 기수"
 #: data/core/units/undead/Corpse_Soulless.cfg:296
 #: data/core/units/undead/Corpse_Walking.cfg:270
 msgid "wc_variation^Gryphon"
-msgstr "그리폰"
+msgstr "그리폰(Gryphon)"
 
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:319
@@ -7159,7 +7154,7 @@ msgstr "수영하는 자"
 #: data/core/units/undead/Corpse_Soulless.cfg:419
 #: data/core/units/undead/Corpse_Walking.cfg:420
 msgid "wc_variation^Troll"
-msgstr "트롤"
+msgstr "트롤(Troll)"
 
 #. [variation]
 #: data/core/units/undead/Corpse_Soulless.cfg:428

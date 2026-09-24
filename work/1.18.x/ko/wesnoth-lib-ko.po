@@ -1535,7 +1535,7 @@ msgstr "무너진 사막의 성채"
 #: data/core/terrain.cfg:2438
 #| msgid "Encampment"
 msgid "Troll Encampment"
-msgstr "트롤 야영지"
+msgstr "트롤(Troll) 야영지"
 
 #. [terrain_type]: id=aquatic_camp
 #: data/core/terrain.cfg:2450
@@ -1704,7 +1704,7 @@ msgstr "수중 야영지 본영"
 #: data/core/terrain.cfg:2751
 #| msgid "Encampment Keep"
 msgid "Troll Encampment Keep"
-msgstr "트롤 야영지 본영"
+msgstr "트롤(Troll) 야영지 본영"
 
 #. [terrain_type]: id=merman_castlekeep
 #: data/core/terrain.cfg:2764
@@ -2739,7 +2739,7 @@ msgstr "전투:"
 #: data/gui/window/campaign_dialog.cfg:317
 #| msgid "Save Replay"
 msgid "Default RNG"
-msgstr "기본 난수 생성기"
+msgstr "기본 난수(RNG) 생성기"
 
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:318
@@ -2749,7 +2749,7 @@ msgstr "다시 불러오면 이후 전투 결과가 달라집니다"
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:321
 msgid "Predictable RNG"
-msgstr "예측 가능한 난수"
+msgstr "예측 가능한 난수(RNG)"
 
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:322
@@ -2759,7 +2759,7 @@ msgstr "다시 불러와도 전투 결과가 일정하게 유지됩니다"
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:325
 msgid "Biased RNG (experimental)"
-msgstr "편향된 난수(실험적)"
+msgstr "편향된 난수(RNG)(실험적)"
 
 #. [option]
 #: data/gui/window/campaign_dialog.cfg:326
@@ -4035,7 +4035,7 @@ msgstr "이 웨스노스(Wesnoth) 버전을 빌드할 때 다음 기능이 선�
 #: data/gui/window/game_version.cfg:429
 #| msgid "Show Battle for Wesnoth help"
 msgid "The Battle for Wesnoth"
-msgstr "웨스노스 전쟁"
+msgstr "웨스노스(Wesnoth) 전쟁"
 
 #. [widget]: id=tab_label
 #: data/gui/window/game_version.cfg:508
@@ -4557,7 +4557,7 @@ msgstr "로비 안"
 #: data/gui/window/mp_alerts_options.cfg:184
 #| msgid "Players:"
 msgid "Player joins"
-msgstr "플레이어 참가"
+msgstr "플레이어(Player) 참가"
 
 #. [grid]
 #: data/gui/window/mp_alerts_options.cfg:184
@@ -4568,7 +4568,7 @@ msgstr "플레이어가 로비 또는 게임에 참가할 때"
 #: data/gui/window/mp_alerts_options.cfg:185
 #| msgid "Players:"
 msgid "Player leaves"
-msgstr "플레이어 퇴장"
+msgstr "플레이어(Player) 퇴장"
 
 #. [grid]
 #: data/gui/window/mp_alerts_options.cfg:185
@@ -5114,7 +5114,7 @@ msgstr "변경 사항"
 #: data/gui/window/mp_match_history.cfg:450
 #| msgid "Players:"
 msgid "Player:"
-msgstr "플레이어:"
+msgstr "플레이어(Player):"
 
 #. [text_box]: id=search_player
 #. [text_box]: id=search_game_name
@@ -5161,7 +5161,7 @@ msgstr "가입"
 #. [column]
 #: data/gui/window/mp_method_selection.cfg:226
 msgid "Log on to the official Wesnoth multiplayer server"
-msgstr "공식 Wesnoth 멀티플레이 서버에 접속합니다"
+msgstr "공식 웨스노스(Wesnoth) 멀티플레이 서버에 접속합니다"
 
 #. [widget]: id=name
 #: data/gui/window/mp_method_selection.cfg:235
@@ -5192,7 +5192,7 @@ msgstr "혼자 놀기"
 #. [label]
 #: data/gui/window/mp_report.cfg:50
 msgid "* Player being reported:"
-msgstr "* 신고할 플레이어:"
+msgstr "* 신고할 플레이어(Player):"
 
 #. [label]
 #: data/gui/window/mp_report.cfg:82
@@ -5814,7 +5814,7 @@ msgstr "서버 실행 파일"
 #. [button]: id=mp_wesnothd
 #: data/gui/window/preferences/05_multiplayer.cfg:163
 msgid "Find and set path to MP server to host LAN games"
-msgstr "LAN 게임을 호스팅할 MP 서버 경로 찾기 및 설정"
+msgstr "LAN 게임을 호스팅할 마력(MP) 서버 경로 찾기 및 설정"
 
 #. [button]: id=add_friend
 #: data/gui/window/preferences/05_multiplayer.cfg:264
@@ -6079,7 +6079,7 @@ msgstr "도움말"
 #. [button]: id=help
 #: data/gui/window/title_screen.cfg:178
 msgid "Show Battle for Wesnoth help"
-msgstr "Battle for Wesnoth 도움말을 봅니다"
+msgstr "Battle for 웨스노스(Wesnoth) 도움말을 봅니다"
 
 #. [button]: id=previous_tip
 #: data/gui/window/title_screen.cfg:194
@@ -6560,23 +6560,23 @@ msgstr "싱글플레이/멀티플레이 캠페인"
 
 #: src/gui/dialogs/addon/manager.cpp:168
 msgid "addons_of_type^MP campaigns"
-msgstr "MP 캠페인"
+msgstr "마력(MP) 캠페인"
 
 #: src/gui/dialogs/addon/manager.cpp:169
 msgid "addons_of_type^MP scenarios"
-msgstr "MP 시나리오"
+msgstr "마력(MP) 시나리오"
 
 #: src/gui/dialogs/addon/manager.cpp:170
 msgid "addons_of_type^MP map-packs"
-msgstr "MP 지도 모음"
+msgstr "마력(MP) 지도 모음"
 
 #: src/gui/dialogs/addon/manager.cpp:171
 msgid "addons_of_type^MP eras"
-msgstr "MP 시대"
+msgstr "마력(MP) 시대"
 
 #: src/gui/dialogs/addon/manager.cpp:172
 msgid "addons_of_type^MP factions"
-msgstr "MP 진영"
+msgstr "마력(MP) 진영"
 
 #: src/gui/dialogs/addon/manager.cpp:173
 #| msgid "Choose Resolution"
@@ -6657,7 +6657,7 @@ msgstr "캠페인을 더 쉽거나 어렵게 변경"
 
 #: src/gui/dialogs/addon/manager.cpp:227
 msgid "addon_tag^RNG"
-msgstr "난수"
+msgstr "난수(RNG)"
 
 #. TRANSLATORS: tooltip in the drop-down menu for filtering add-ons
 #: src/gui/dialogs/addon/manager.cpp:229
@@ -7133,7 +7133,7 @@ msgstr "현재 버전"
 
 #: src/gui/dialogs/game_load.cpp:149
 msgid "game_version^Wesnoth $version"
-msgstr "웨스노스 $version"
+msgstr "웨스노스(Wesnoth) $version"
 
 #. TRANSLATORS: "reserve" refers to units on the recall list
 #: src/gui/dialogs/game_load.cpp:235
@@ -7896,14 +7896,14 @@ msgstr "레벨 $lvl"
 #: src/gui/widgets/unit_preview_pane.cpp:493
 #: src/gui/widgets/unit_preview_pane.cpp:512
 msgid "HP: "
-msgstr "HP: "
+msgstr "체력(HP): "
 
 #: src/gui/widgets/unit_preview_pane.cpp:341
 #: src/gui/widgets/unit_preview_pane.cpp:357
 #: src/gui/widgets/unit_preview_pane.cpp:495
 #: src/gui/widgets/unit_preview_pane.cpp:517
 msgid "XP: "
-msgstr "XP: "
+msgstr "경험치(XP): "
 
 #: src/gui/widgets/unit_preview_pane.cpp:359
 #: src/gui/widgets/unit_preview_pane.cpp:519
@@ -7914,7 +7914,7 @@ msgstr "경험치 수정: "
 #: src/gui/widgets/unit_preview_pane.cpp:362
 #: src/gui/widgets/unit_preview_pane.cpp:522
 msgid "MP: "
-msgstr "MP: "
+msgstr "마력(MP): "
 
 #: src/gui/widgets/unit_preview_pane.cpp:400
 #: src/gui/widgets/unit_preview_pane.cpp:550
@@ -7952,7 +7952,7 @@ msgstr "유닛 명령"
 #: src/hotkey/hotkey_command.cpp:55
 #| msgid "Players: "
 msgid "Player Chat"
-msgstr "플레이어 채팅"
+msgstr "플레이어(Player) 채팅"
 
 #: src/hotkey/hotkey_command.cpp:56
 #| msgid "Change Hotkey"

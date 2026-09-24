@@ -131,7 +131,7 @@ msgid ""
 msgstr ""
 "이 유닛은 당신의 차례 시작 시 인접한 아군을 치료할 수 있습니다.\n"
 "\n"
-"이 치료사의 보호를 받는 유닛은 매 턴 최대 4 HP를 회복하며, 중독된 경우 해당 턴 동안 독의 영향을 받지 않습니다.\n"
+"이 치료사의 보호를 받는 유닛은 매 턴 최대 4 체력(HP)를 회복하며, 중독된 경우 해당 턴 동안 독의 영향을 받지 않습니다.\n"
 "그러나 중독된 유닛은 치료사만으로는 완치될 수 없으며, 마을이나 해독할 수 있는 유닛의 도움을 받아야 합니다."
 
 #. [heals]: id=healing
@@ -4730,7 +4730,7 @@ msgstr "이 유닛은 전염병에 면역이 있는 유닛을 제외하고 유�
 #. [advancement]: id=amla_default
 #: data/core/macros/amla.cfg:10
 msgid "Max HP bonus +3, Max XP +20%"
-msgstr "최대 HP 3 증가, 필요 XP 20% 증가"
+msgstr "최대 체력(HP) 3 증가, 필요 경험치(XP) 20% 증가"
 
 #. [time]: id=midday
 #. [time]: id=midday_hour
@@ -5774,7 +5774,7 @@ msgid ""
 "number of strikes is proportional to the percentage of its of maximum HP the "
 "unit has. For example a unit with 3/4 of its maximum HP will get 3/4 of the "
 "number of strikes."
-msgstr "이 공격의 타격횟수는 유닛이 상처를 입어갈때마다 감소합니다. 타격횟수는 유닛의 HP가 몇 % 남았느냐에 비례합니다. 예를 들어 HP가 30% 남은 유닛은 타격횟수도 30%가 됩니다."
+msgstr "이 공격의 타격횟수는 유닛이 상처를 입어갈때마다 감소합니다. 타격횟수는 유닛의 체력(HP)가 몇 % 남았느냐에 비례합니다. 예를 들어 체력(HP)가 30% 남은 유닛은 타격횟수도 30%가 됩니다."
 
 #. [damage]: id=charge
 #: data/core/macros/weapon_specials.cfg:139
@@ -6229,12 +6229,12 @@ msgstr ""
 #. [race]: id=gryphon
 #: data/core/units.cfg:168
 msgid "race^Gryphon"
-msgstr "그리폰"
+msgstr "그리폰(Gryphon)"
 
 #. [race]: id=gryphon
 #: data/core/units.cfg:169
 msgid "race+female^Gryphon"
-msgstr "그리폰"
+msgstr "그리폰(Gryphon)"
 
 #. [race]: id=gryphon
 #: data/core/units.cfg:170
@@ -6620,7 +6620,7 @@ msgstr "“괴물”이라는 용어는 동굴, 황야, 심해 및 세계의 다
 #. [race]: id=naga
 #: data/core/units.cfg:306
 msgid "race^Naga"
-msgstr "나가 ♂"
+msgstr "나가(Naga) ♂"
 
 #. [race]: id=naga
 #: data/core/units.cfg:307
@@ -6653,12 +6653,12 @@ msgstr "뱀과 같은 나가들은 대륙에서 가장 이해하기 어려운 �
 #. [race]: id=ogre
 #: data/core/units.cfg:317
 msgid "race^Ogre"
-msgstr "오우거"
+msgstr "오우거(Ogre)"
 
 #. [race]: id=ogre
 #: data/core/units.cfg:318
 msgid "race+female^Ogre"
-msgstr "오우거"
+msgstr "오우거(Ogre)"
 
 #. [race]: id=ogre
 #: data/core/units.cfg:319
@@ -6821,12 +6821,12 @@ msgstr ""
 #. [race]: id=troll
 #: data/core/units.cfg:365
 msgid "race^Troll"
-msgstr "트롤"
+msgstr "트롤(Troll)"
 
 #. [race]: id=troll
 #: data/core/units.cfg:366
 msgid "race+female^Troll"
-msgstr "트롤"
+msgstr "트롤(Troll)"
 
 #. [race]: id=troll
 #: data/core/units.cfg:367
@@ -7049,7 +7049,7 @@ msgstr ""
 
 #: data/lua/feeding.lua:30 data/lua/feeding.lua:43
 msgid "+1 max HP"
-msgstr "최대 HP +1"
+msgstr "최대 체력(HP) +1"
 
 #. [lua]: wesnoth.interface.game_display.unit_status
 #: data/lua/stun.lua:14
@@ -7197,7 +7197,7 @@ msgstr "추가 능력:"
 #: src/help/help_topic_generators.cpp:571
 #| msgid "HP: "
 msgid "HP:"
-msgstr "체력:"
+msgstr "체력(HP):"
 
 #. TRANSLATORS: This string is used in the help page of a single unit.  If the translation
 #. uses spaces, use non-breaking spaces as appropriate for the target language to prevent
@@ -7243,7 +7243,7 @@ msgstr "선호시간대:"
 #: src/help/help_topic_generators.cpp:602
 #| msgid "Required XP: "
 msgid "Required XP:"
-msgstr "필요한 경험치:"
+msgstr "필요한 경험치(XP):"
 
 #: src/help/help_topic_generators.cpp:620
 msgid "unit help^Attacks"

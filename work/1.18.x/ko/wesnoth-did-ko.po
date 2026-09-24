@@ -107,7 +107,7 @@ msgstr "구울에게 지나치게 많은 쥐를 먹여라."
 #. you can interpret this as a Harry Potter reference or you can think about it as Malin making fun of Drogan's country accent, or you can take artistic liberty with the translation
 #: data/campaigns/Descent_Into_Darkness/achievements.cfg:19
 msgid "Yer a Ghoul, Drogan"
-msgstr "넌 구울이다, 드로간"
+msgstr "넌 구울이다, 드로간(Drogan)"
 
 #. [achievement]: id=did_drogan
 #: data/campaigns/Descent_Into_Darkness/achievements.cfg:20
@@ -203,7 +203,7 @@ msgid ""
 "magical arts. Malin studied there for eight years, learning all manner of "
 "magic from basic control over the elements, to the mystic arts and scrying, "
 "to alchemy and simple medicine."
-msgstr "말린이 10살이었을 때, 지나가던 마법사가 그 소년에게서 강력한 마법 능력을 감지하고, 알두인(Alduin) 섬에서 마법을 배우길 권유했다. 말린은 그곳에서 8년 동안 공부하며, 기본적인 정령 제어부터 비술과 수정점, 연금술, 간단한 의학에 이르기까지 모든 종류의 마법을 배웠다."
+msgstr "말린(Malin)이 10살이었을 때, 지나가던 마법사가 그 소년에게서 강력한 마법 능력을 감지하고, 알두인(Alduin) 섬에서 마법을 배우길 권유했다. 말린(Malin)은 그곳에서 8년 동안 공부하며, 기본적인 정령 제어부터 비술과 수정점, 연금술, 간단한 의학에 이르기까지 모든 종류의 마법을 배웠다."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:44
@@ -215,7 +215,7 @@ msgid ""
 "his lack of patience and general indiscretion eventually led to several "
 "confrontations with his teachers and other students. Believing Malin to be "
 "too reckless, the mages expelled him from Alduin."
-msgstr "알두인(Alduin) 섬에서의 말린의 삶은 사치롭고 평화로웠지만, 학자 마법사들의 가르침이 그의 취향에 너무 철학적이라고 생각했다. 그의 생각은 파르틴(Parthyn)으로 돌아가서 오크를 쫓아내기 위해 더 실용적인 마법이 필요한 곳으로 향했다. 말린은 이러한 마법을 스스로 연구하기 시작했지만, 인내심 부족과 일반적인 무분별함으로 인해 결국 선생들과 다른 학생들과의 대립을 몇 차례 불러일으켰다. 말린이 너무 무모하다고 생각한 마법사들은 알두인(Alduin)에서 그를 추방했다."
+msgstr "알두인(Alduin) 섬에서의 말린(Malin)의 삶은 사치롭고 평화로웠지만, 학자 마법사들의 가르침이 그의 취향에 너무 철학적이라고 생각했다. 그의 생각은 파르틴(Parthyn)으로 돌아가서 오크를 쫓아내기 위해 더 실용적인 마법이 필요한 곳으로 향했다. 말린(Malin)은 이러한 마법을 스스로 연구하기 시작했지만, 인내심 부족과 일반적인 무분별함으로 인해 결국 선생들과 다른 학생들과의 대립을 몇 차례 불러일으켰다. 말린(Malin)이 너무 무모하다고 생각한 마법사들은 알두인(Alduin)에서 그를 추방했다."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:48
@@ -226,7 +226,7 @@ msgid ""
 "night, a particularly powerful band of orcs overran the city walls and Malin "
 "could only watch as his father was cut down by one of the savage orcish "
 "warriors."
-msgstr "말린이 파르틴(Parthyn)으로 돌아왔을 때, 오크들은 이미 도시를 공격하기 시작했다. 그는 최선을 다해 그들을 물리쳤지만, 습격은 훨씬 더 무자비했고 마을 경비병은 그가 기억했던 것보다 훨씬 약해 보였다. 어느 날 밤, 유난히 강력한 오크 무리가 도시 성벽을 휩쓸었고, 말린은 그의 아버지가 야만적인 오크 전사들 중 한 명에게 베어지는 것을 지켜볼 수밖에 없었다."
+msgstr "말린(Malin)이 파르틴(Parthyn)으로 돌아왔을 때, 오크들은 이미 도시를 공격하기 시작했다. 그는 최선을 다해 그들을 물리쳤지만, 습격은 훨씬 더 무자비했고 마을 경비병은 그가 기억했던 것보다 훨씬 약해 보였다. 어느 날 밤, 유난히 강력한 오크 무리가 도시 성벽을 휩쓸었고, 말린(Malin)은 그의 아버지가 야만적인 오크 전사들 중 한 명에게 베어지는 것을 지켜볼 수밖에 없었다."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:52
@@ -268,7 +268,7 @@ msgid ""
 "Malin, troubled by his father’s death and the strength of the orcish "
 "assault, argued to no avail that Darken Volk be allowed to stay. After a "
 "couple days, the necromancer left Parthyn without incident."
-msgstr "말린은 아버지의 죽음과 오크의 강력한 공격에 괴로워하며 다켄 볼크(Darken Volk)가 머물도록 허용해야 한다고 주장했지만, 소용이 없었다. 며칠 후, 강령술사는 별다른 사건 없이 파르틴(Parthyn)을 떠났다."
+msgstr "말린(Malin)은 아버지의 죽음과 오크의 강력한 공격에 괴로워하며 다켄 볼크(Darken Volk)가 머물도록 허용해야 한다고 주장했지만, 소용이 없었다. 며칠 후, 강령술사는 별다른 사건 없이 파르틴(Parthyn)을 떠났다."
 
 #. [side]
 #. [side]: type=Sergeant, id=Drogan
@@ -333,7 +333,7 @@ msgstr "오크의 대장을 죽여라"
 #. [objective]: condition=lose
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:200
 msgid "Orcs reach the outskirts of Parthyn"
-msgstr "오크가 파르틴 외곽에 도달하면 패배"
+msgstr "오크가 파르틴(Parthyn) 외곽에 도달하면 패배"
 
 #. [objective]: condition=lose
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:204
@@ -367,7 +367,7 @@ msgstr "델라 케사르의 죽음"
 #. [objective]: condition=lose
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:212
 msgid "Death of Drogan"
-msgstr "드로간의 죽음"
+msgstr "드로간(Drogan)의 죽음"
 
 #. [message]: speaker=Dela Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:230
@@ -416,7 +416,7 @@ msgid ""
 "Quiet, you. Malin, you’ve got ta hold tha river fort or they’ll overrun us. "
 "Tha raidin’ party should be back in two days ta help us fight ’em off. Fer "
 "now, I’ll send tha remaining guards to help ya."
-msgstr "조용히 해. 말린, 네가 강변 요새를 지켜야 해, 안 그러면 그들이 우리를 덮칠 거야. 약탈대는 이틀 안에 돌아와서 우리가 그들과 싸우는 걸 도와줄 거야. 일단은 남은 경비병들을 보내서 너를 돕게 하겠다."
+msgstr "조용히 해. 말린(Malin), 네가 강변 요새를 지켜야 해, 안 그러면 그들이 우리를 덮칠 거야. 약탈대는 이틀 안에 돌아와서 우리가 그들과 싸우는 걸 도와줄 거야. 일단은 남은 경비병들을 보내서 너를 돕게 하겠다."
 
 #. [message]: speaker=Drogan
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:287
@@ -439,12 +439,12 @@ msgid ""
 "I’m ’shamed of ya, Malin. Even if it’d ensure our survival, nothin’ good "
 "ever comes of necromancy. The moment ya use it, you’ve already sold yer soul "
 "ta black magic!"
-msgstr "말린, 네가 부끄럽다. 생존을 보장한다고 해도, 강령술에서 좋은 건 절대 나오지 않아. 그걸 사용하는 순간, 이미 네 영혼을 흑마법에 팔아넘긴 거야!"
+msgstr "말린(Malin), 네가 부끄럽다. 생존을 보장한다고 해도, 강령술에서 좋은 건 절대 나오지 않아. 그걸 사용하는 순간, 이미 네 영혼을 흑마법에 팔아넘긴 거야!"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:302
 msgid "What?! I am hardly evil, Drogan!"
-msgstr "뭐?! 내가 악당이라니, 드로간!"
+msgstr "뭐?! 내가 악당이라니, 드로간(Drogan)!"
 
 #. [message]: speaker=Drogan
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:307
@@ -498,7 +498,7 @@ msgstr "오크들이 돌파했어. 파르틴(Parthyn)은 공격에 노출되었�
 #. [message]: speaker=unit
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:425
 msgid "Who will be left to defend Parthyn?"
-msgstr "누가 파르틴을 방어하기 위해 남을 것인가?"
+msgstr "누가 파르틴(Parthyn)을 방어하기 위해 남을 것인가?"
 
 #. [message]: speaker=unit
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:441
@@ -528,7 +528,7 @@ msgid ""
 "ya let that necromancer corrupt you. I s’ppose part o’ this is my fault "
 "since I let ’im into Parthyn, but still... Since I showed ’im mercy, I’ll "
 "show ya the same. I’m banishin’ you from Parthyn."
-msgstr "말린, 당연히 나는 네 놈을 그 자리에서 죽여야 한다. 네가 그 강령술사에게 타락했다니 믿을 수가 없어. 내가 그 놈을 파르틴(Parthyn)에 들여보낸 것도 내 잘못의 일부라고 생각하지만... 그래도... 내가 그 놈에게 자비를 베풀었으니, 너에게도 똑같이 하겠다. 너를 파르틴(Parthyn)에서 추방한다."
+msgstr "말린(Malin), 당연히 나는 네 놈을 그 자리에서 죽여야 한다. 네가 그 강령술사에게 타락했다니 믿을 수가 없어. 내가 그 놈을 파르틴(Parthyn)에 들여보낸 것도 내 잘못의 일부라고 생각하지만... 그래도... 내가 그 놈에게 자비를 베풀었으니, 너에게도 똑같이 하겠다. 너를 파르틴(Parthyn)에서 추방한다."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:528
@@ -569,7 +569,7 @@ msgstr "우리는 모두 네가 떠나는 것을 기뻐해야 한다, 강령술�
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:559
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:630
 msgid "Dela? Sister?"
-msgstr "델라? 누나?"
+msgstr "델라(Dela)? 누나?"
 
 #. [message]: speaker=Dela Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:564
@@ -579,19 +579,19 @@ msgstr "글쎄..."
 #. [message]: speaker=Drogan
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:569
 msgid "Ya can’t support ’im on this one, Dela."
-msgstr "델라, 이번에는 그를 지지할 수 없다."
+msgstr "델라(Dela), 이번에는 그를 지지할 수 없다."
 
 #. [message]: speaker=Dela Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:574
 msgid ""
 "I... guess you’re right. You’ve decided your magic is more important than "
 "us, Malin. I can’t help you."
-msgstr "나... 당신 말이 맞는 것 같아. 당신은 당신의 마법이 우리보다 더 중요하다고 결정했어, 말린. 나는 당신을 도울 수 없어."
+msgstr "나... 당신 말이 맞는 것 같아. 당신은 당신의 마법이 우리보다 더 중요하다고 결정했어, 말린(Malin). 나는 당신을 도울 수 없어."
 
 #. [message]: speaker=Drogan
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:579
 msgid "Begone, Malin. I’ve no wish to see yer face around here ever again."
-msgstr "꺼져라, 말린. 네 얼굴을 다시는 여기서 보고 싶지 않다."
+msgstr "꺼져라, 말린(Malin). 네 얼굴을 다시는 여기서 보고 싶지 않다."
 
 #. [message]: speaker=Drogan
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:585
@@ -600,7 +600,7 @@ msgid ""
 "trouble yet. The raidin’ party reports that more warlords be gatherin’ their "
 "armies in the hills, just a few days north o’ tha Great River. I don’t know "
 "if we can fight ’em all off."
-msgstr "혼자서 그 오크들을 용감하게 막아냈군, 말린. 하지만 아직 문제가 끝난 건 아니다. 약탈대가 보고하길, 대강 북쪽의 언덕에 더 많은 군주들이 군대를 모으고 있다고 한다. 우리가 그들을 모두 막아낼 수 있을지 모르겠군."
+msgstr "혼자서 그 오크들을 용감하게 막아냈군, 말린(Malin). 하지만 아직 문제가 끝난 건 아니다. 약탈대가 보고하길, 대강 북쪽의 언덕에 더 많은 군주들이 군대를 모으고 있다고 한다. 우리가 그들을 모두 막아낼 수 있을지 모르겠군."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:590
@@ -648,7 +648,7 @@ msgstr "강령술사와 동맹을 맺는 것보다 죽는 것이 낫다."
 #. [message]: speaker=Dela Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:635
 msgid "I hope that you’ll stay with us, Malin. Be reasonable."
-msgstr "네가 우리와 함께 있기를 바라, 말린. 이성적으로 생각해."
+msgstr "네가 우리와 함께 있기를 바라, 말린(Malin). 이성적으로 생각해."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:640
@@ -662,12 +662,12 @@ msgstr "이성적이라고? 여기서 이성을 보는 사람은 나뿐이야. �
 msgid ""
 "Malin, seekin’ out the help of a necromancer is just... just foolhardy! We "
 "need ya here to help protect the town!"
-msgstr "말린, 강령술사의 도움을 찾는 건 그냥... 그냥 무모해! 우리는 네가 여기 남아서 마을을 지키는 걸 도와줘야 해!"
+msgstr "말린(Malin), 강령술사의 도움을 찾는 건 그냥... 그냥 무모해! 우리는 네가 여기 남아서 마을을 지키는 걸 도와줘야 해!"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:650
 msgid "You will eventually see that I am right, Dela. I am resolved."
-msgstr "델라, 결국 내가 옳았다는 걸 알게 될 거야. 나는 결심했어."
+msgstr "델라(Dela), 결국 내가 옳았다는 걸 알게 될 거야. 나는 결심했어."
 
 #. [scenario]: id=02_Peaceful_Valley
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:5
@@ -683,7 +683,7 @@ msgid ""
 "resolve to make the necessary sacrifices to protect their home. Most "
 "fiercely, he curses the orcs for their mindless savagery, pillagers and "
 "raiders who view violence as little more than sport."
-msgstr "쓰디쓴 외로움 속에 말린은 파르틴(Parthyn)에서 북쪽으로 향하는 오크 무리의 뒤를 쫓는다. 그는 알두인(Alduin) 섬에서 제대로 훈련도 받지 못하고 전투 준비도 되지 않은 채 자신을 내쫓은 마법사들을 저주한다. 고향을 지키기 위해 필요한 희생을 감수할 결단력이 부족한 드로간(Drogan)을 저주한다. 가장 격렬하게, 그는 폭력을 단순한 스포츠 정도로 여기는 약탈자이자 습격자인 오크들의 무분별한 야만성을 저주한다."
+msgstr "쓰디쓴 외로움 속에 말린(Malin)은 파르틴(Parthyn)에서 북쪽으로 향하는 오크 무리의 뒤를 쫓는다. 그는 알두인(Alduin) 섬에서 제대로 훈련도 받지 못하고 전투 준비도 되지 않은 채 자신을 내쫓은 마법사들을 저주한다. 고향을 지키기 위해 필요한 희생을 감수할 결단력이 부족한 드로간(Drogan)을 저주한다. 가장 격렬하게, 그는 폭력을 단순한 스포츠 정도로 여기는 약탈자이자 습격자인 오크들의 무분별한 야만성을 저주한다."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:24
@@ -693,7 +693,7 @@ msgid ""
 "mage suggests that they travel together; Malin obliges, having been "
 "abandoned by his kinsmen. As the weeks pass, Darken Volk teaches Malin more "
 "dark magic."
-msgstr "북동쪽으로 사흘을 여행한 말린은 파르틴(Parthyn)을 구하고 그에게 죽은 자를 되살리는 방법을 가르쳐준 강령술사 다켄 볼크(Darken Volk)를 우연히 만난다. 어둠의 마법사는 그들이 함께 여행할 것을 제안하고, 말린은 동족들에게 버림받았기에 이에 응한다. 몇 주가 지나면서 다켄 볼크(Darken Volk)는 말린에게 더 많은 어둠의 마법을 가르친다."
+msgstr "북동쪽으로 사흘을 여행한 말린(Malin)은 파르틴(Parthyn)을 구하고 그에게 죽은 자를 되살리는 방법을 가르쳐준 강령술사 다켄 볼크(Darken Volk)를 우연히 만난다. 어둠의 마법사는 그들이 함께 여행할 것을 제안하고, 말린(Malin)은 동족들에게 버림받았기에 이에 응한다. 몇 주가 지나면서 다켄 볼크(Darken Volk)는 말린(Malin)에게 더 많은 어둠의 마법을 가르친다."
 
 #. [side]
 #. [unit]: type=Apprentice Mage, id=Fake Malin
@@ -742,7 +742,7 @@ msgstr "모든 고블린 마을을 점령하십시오"
 #: data/campaigns/Descent_Into_Darkness/scenarios/07c_A_Small_Favor3.cfg:1149
 #: data/campaigns/Descent_Into_Darkness/scenarios/07c_A_Small_Favor3.cfg:1196
 msgid "Death of Darken Volk"
-msgstr "다켄 볼크의 죽음"
+msgstr "다켄 볼크(Darken Volk)의 죽음"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:132
@@ -879,7 +879,7 @@ msgstr "에드"
 msgid ""
 "Ahhh... I did not realize there was a swamp near this village. Malin, it "
 "would be beneficial for your training if we were to investigate."
-msgstr "아... 이 마을 근처에 늪이 있는 줄은 몰랐습니다. 말린, 우리가 조사하면 당신의 훈련에 도움이 될 것입니다."
+msgstr "아... 이 마을 근처에 늪이 있는 줄은 몰랐습니다. 말린(Malin), 우리가 조사하면 당신의 훈련에 도움이 될 것입니다."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:453
@@ -952,7 +952,7 @@ msgid ""
 "find them. Although Darken Volk is occasionally demanding and irritable, he "
 "proves to be an effective mentor. Malin’s power grows considerably under the "
 "necromancer’s tutelage."
-msgstr "말린과 다켄 볼크(Darken Volk)는 여름과 가을을 북부 저지대를 여행하며 보냅니다. 그들은 고블린 마을과 작은 오크 캠프를 발견하면 공격합니다. 다켄 볼크(Darken Volk)는 때때로 요구가 많고 짜증을 내지만, 효과적인 멘토임이 증명됩니다. 말린의 힘은 강령술사의 지도 아래 상당히 성장합니다."
+msgstr "말린(Malin)과 다켄 볼크(Darken Volk)는 여름과 가을을 북부 저지대를 여행하며 보냅니다. 그들은 고블린 마을과 작은 오크 캠프를 발견하면 공격합니다. 다켄 볼크(Darken Volk)는 때때로 요구가 많고 짜증을 내지만, 효과적인 멘토임이 증명됩니다. 말린(Malin)의 힘은 강령술사의 지도 아래 상당히 성장합니다."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:29
@@ -1537,7 +1537,7 @@ msgstr "해냈다! 나—"
 #. [message]: speaker=S3_Rebel_Soul
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:1963
 msgid "Freedom! Your sorceries cannot shackle me, Malin the Damned!"
-msgstr "자유다! 네 마법은 나를 속박할 수 없다, 저주받은 말린!"
+msgstr "자유다! 네 마법은 나를 속박할 수 없다, 저주받은 말린(Malin)!"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:1968
@@ -1597,7 +1597,7 @@ msgid ""
 "reaches out to him as it never has before; he listens and it speaks back — "
 "he senses its will and lets it guide him — he embraces the dark magic as an "
 "extension of himself."
-msgstr "춥고 황량한 동굴에서 몇 주가 흘러갑니다. 흑마법의 영향력이 강해짐에 따라 말린의 언데드 통제력도 강해집니다. 그는 그것이 아카데미에서 배운 것과는 다른 종류의 숙달이라는 것을 알게 됩니다. 마법은 이전과는 전혀 다른 방식으로 그에게 다가옵니다. 그는 듣고 그것은 응답합니다. 그는 그것의 의지를 감지하고 그에게 인도하도록 합니다. 그는 흑마법을 자신의 확장으로 받아들입니다."
+msgstr "춥고 황량한 동굴에서 몇 주가 흘러갑니다. 흑마법의 영향력이 강해짐에 따라 말린(Malin)의 언데드 통제력도 강해집니다. 그는 그것이 아카데미에서 배운 것과는 다른 종류의 숙달이라는 것을 알게 됩니다. 마법은 이전과는 전혀 다른 방식으로 그에게 다가옵니다. 그는 듣고 그것은 응답합니다. 그는 그것의 의지를 감지하고 그에게 인도하도록 합니다. 그는 흑마법을 자신의 확장으로 받아들입니다."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Spring_of_Reprisal.cfg:24
@@ -1608,7 +1608,7 @@ msgid ""
 "blankets the river Listra. Though the unstable terrain is hazardous to "
 "traverse, the elder necromancer insists that they press on, saying that he "
 "hopes to catch the orcish fighters unprepared by arriving early in the year."
-msgstr "봄이 오자 다켄 볼크(Darken Volk)는 말린을 북쪽의 험준한 산봉우리로 이끕니다. 높은 곳에서는 눈이 녹아 물줄기가 되어 아래로 흘러내리고 리스트라 강을 덮고 있는 얼음 표면을 갈라놓기 시작합니다. 불안정한 지형은 횡단하기에 위험하지만, 노련한 강령술사는 그들이 계속 나아가야 한다고 주장하며, 일찍 도착하여 오크 전사들을 예상치 못한 상황에서 잡기를 희망한다고 말합니다."
+msgstr "봄이 오자 다켄 볼크(Darken Volk)는 말린(Malin)을 북쪽의 험준한 산봉우리로 이끕니다. 높은 곳에서는 눈이 녹아 물줄기가 되어 아래로 흘러내리고 리스트라 강을 덮고 있는 얼음 표면을 갈라놓기 시작합니다. 불안정한 지형은 횡단하기에 위험하지만, 노련한 강령술사는 그들이 계속 나아가야 한다고 주장하며, 일찍 도착하여 오크 전사들을 예상치 못한 상황에서 잡기를 희망한다고 말합니다."
 
 #. [side]: type=Orcish Warlord, type=Orcish Warrior, id=Gron'r Hronk
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Spring_of_Reprisal.cfg:68
@@ -1623,7 +1623,7 @@ msgstr "크르랄 오반"
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Spring_of_Reprisal.cfg:133
 msgid "Move Malin to the end of the mountain pass"
-msgstr "말린을 산길 끝으로 이동시키십시오"
+msgstr "말린(Malin)을 산길 끝으로 이동시키십시오"
 
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/04_Spring_of_Reprisal.cfg:138
@@ -1767,7 +1767,7 @@ msgid ""
 "thinks of as his home. He has since become a forsaken wanderer, he thinks, "
 "but the still burning image of his father being cut down amidst the ruins of "
 "his home is stamped deep into his thoughts."
-msgstr "계절의 순환은 계속되고 여름과 가을이 다시 돌아옵니다. 말린의 생각은 파르틴(Parthyn)으로 자주 돌아갑니다. 1년 전 그가 여전히 가족과 친구들과 함께 그의 고향이라고 생각하는 소박한 작은 마을에 있었던 곳입니다. 그는 그 이후 버려진 방랑자가 되었다고 생각하지만, 그의 집 폐허 속에서 아버지가 쓰러지는 불타는 이미지는 그의 생각 속에 깊이 새겨져 있습니다."
+msgstr "계절의 순환은 계속되고 여름과 가을이 다시 돌아옵니다. 말린(Malin)의 생각은 파르틴(Parthyn)으로 자주 돌아갑니다. 1년 전 그가 여전히 가족과 친구들과 함께 그의 고향이라고 생각하는 소박한 작은 마을에 있었던 곳입니다. 그는 그 이후 버려진 방랑자가 되었다고 생각하지만, 그의 집 폐허 속에서 아버지가 쓰러지는 불타는 이미지는 그의 생각 속에 깊이 새겨져 있습니다."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Schism.cfg:28
@@ -1790,7 +1790,7 @@ msgid ""
 "camps of orcs with their undead minions. Word spreads among the orcish "
 "towns, which begin to post more guards and dispatch frequent patrols to "
 "exterminate the two necromancers. All of their attempts fail."
-msgstr "말린은 당면한 과제에 주의를 돌립니다. 다켄 볼크(Darken Volk)는 그를 하얀(Whitefang) 송곳니 영토의 심장부로 이끌고, 그곳에서 그들은 언데드 부하들을 이끌고 오크 전체 캠프를 공포에 떨게 하고 살해합니다. 소문은 오크 마을에 퍼지고, 그들은 더 많은 경비병들을 배치하고 두 강령술사를 제거하기 위해 잦은 순찰대를 파견하기 시작합니다. 그들의 모든 시도는 실패합니다."
+msgstr "말린(Malin)은 당면한 과제에 주의를 돌립니다. 다켄 볼크(Darken Volk)는 그를 하얀(Whitefang) 송곳니 영토의 심장부로 이끌고, 그곳에서 그들은 언데드 부하들을 이끌고 오크 전체 캠프를 공포에 떨게 하고 살해합니다. 소문은 오크 마을에 퍼지고, 그들은 더 많은 경비병들을 배치하고 두 강령술사를 제거하기 위해 잦은 순찰대를 파견하기 시작합니다. 그들의 모든 시도는 실패합니다."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Schism.cfg:36
@@ -1800,7 +1800,7 @@ msgid ""
 "orcs pursue the two necromancers east toward the mouth of the river humans "
 "call the Longlier and elves call the Arkan-thoria, where they manage to "
 "surround the humans and force a fight."
-msgstr "말린과 다켄 볼크(Darken Volk)가 오크에 대한 습격을 계속하면서, 그들은 결국 평소에 분열적인 하얀(Whitefang) 송곳니 족장들을 연합하여 반대하도록 강요합니다. 오크들은 인간이 롱리어(Longlier)라고 부르고 엘프가 아르칸-토리아라고 부르는 강 어귀를 향해 동쪽으로 두 강령술사를 추격하고, 그곳에서 그들은 인간들을 포위하고 싸움을 강요합니다."
+msgstr "말린(Malin)과 다켄 볼크(Darken Volk)가 오크에 대한 습격을 계속하면서, 그들은 결국 평소에 분열적인 하얀(Whitefang) 송곳니 족장들을 연합하여 반대하도록 강요합니다. 오크들은 인간이 롱리어(Longlier)라고 부르고 엘프가 아르칸-토리아라고 부르는 강 어귀를 향해 동쪽으로 두 강령술사를 추격하고, 그곳에서 그들은 인간들을 포위하고 싸움을 강요합니다."
 
 #. [side]: type=Orcish Warlord, id=Borth
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Schism.cfg:74
@@ -1923,7 +1923,7 @@ msgid ""
 "rushing toward the Great River instead of calling for reinforcements, but "
 "after a bit of thought, he realizes where the orcs are headed. It is, after "
 "all, the season when they usually raid human towns."
-msgstr "이전 전투에서 남쪽으로 이틀을 이동한 후, 말린은 재편성된 오크 전사들의 흔적을 발견합니다. 그는 리스트라 강 서쪽 둑을 따라 하얀(Whitefang) 송곳니 산맥을 지나 그들을 추격합니다. 그는 왜 그들이 증원군을 요청하는 대신 계속해서 대강을 향해 돌진하는지 궁금해하지만, 잠시 생각한 후 오크들이 어디로 향하고 있는지 깨닫습니다. 결국 그들이 보통 인간 마을을 습격하는 계절입니다."
+msgstr "이전 전투에서 남쪽으로 이틀을 이동한 후, 말린(Malin)은 재편성된 오크 전사들의 흔적을 발견합니다. 그는 리스트라 강 서쪽 둑을 따라 하얀(Whitefang) 송곳니 산맥을 지나 그들을 추격합니다. 그는 왜 그들이 증원군을 요청하는 대신 계속해서 대강을 향해 돌진하는지 궁금해하지만, 잠시 생각한 후 오크들이 어디로 향하고 있는지 깨닫습니다. 결국 그들이 보통 인간 마을을 습격하는 계절입니다."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:24
@@ -1934,7 +1934,7 @@ msgid ""
 "against me, he will be able to raid more human towns undisturbed. Selfish "
 "creature. Exactly what one would expect from an orc.’</i> Malin thinks "
 "carefully and quickly realizes what he should do."
-msgstr "<i>‘이 족장은 나머지 부족에게 나에 대해 경고할 의도가 없습니다. 그는 내가 이렇게 멀리 그를 추격하는 대신 나머지 하얀 송곳니들을 공격할 생각이라고 생각하는 것 같습니다. 그의 형제들이 나와 싸우는 동안 그는 방해받지 않고 더 많은 인간 마을을 습격할 수 있을 것입니다. 이기적인 생물. 오크에게 기대할 수 있는 바로 그것입니다.’</i> 말린은 신중하게 생각하고 자신이 무엇을 해야 할지 재빨리 깨닫습니다."
+msgstr "<i>‘이 족장은 나머지 부족에게 나에 대해 경고할 의도가 없습니다. 그는 내가 이렇게 멀리 그를 추격하는 대신 나머지 하얀 송곳니들을 공격할 생각이라고 생각하는 것 같습니다. 그의 형제들이 나와 싸우는 동안 그는 방해받지 않고 더 많은 인간 마을을 습격할 수 있을 것입니다. 이기적인 생물. 오크에게 기대할 수 있는 바로 그것입니다.’</i> 말린(Malin)은 신중하게 생각하고 자신이 무엇을 해야 할지 재빨리 깨닫습니다."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:28
@@ -1943,7 +1943,7 @@ msgid ""
 "and his servants draw closer to the Great River, hoping to cut off the orcs "
 "before they reach Parthyn. Soon, Malin recognizes some familiar "
 "surroundings..."
-msgstr "그는 지칠 줄 모르고 숲을 헤쳐나가며, 며칠 동안 잠을 포기하고 하인들과 함께 대강에 더 가까이 다가가 오크들이 파르틴(Parthyn)에 도착하기 전에 그들을 차단하기를 희망합니다. 곧 말린은 몇몇 익숙한 주변 환경을 알아봅니다..."
+msgstr "그는 지칠 줄 모르고 숲을 헤쳐나가며, 며칠 동안 잠을 포기하고 하인들과 함께 대강에 더 가까이 다가가 오크들이 파르틴(Parthyn)에 도착하기 전에 그들을 차단하기를 희망합니다. 곧 말린(Malin)은 몇몇 익숙한 주변 환경을 알아봅니다..."
 
 #. [side]: type=Lieutenant, id=Drogan
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:94
@@ -1960,12 +1960,12 @@ msgstr "강 요새 경비병"
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:198
 msgid "Remove the traitor Drogan"
-msgstr "배신자 드로간을 제거하십시오"
+msgstr "배신자 드로간(Drogan)을 제거하십시오"
 
 #. [objective]: condition=lose
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:205
 msgid "Kill any people from Parthyn but Drogan"
-msgstr "드로간을 제외한 파르틴 사람들을 죽이지 마십시오"
+msgstr "드로간(Drogan)을 제외한 파르틴(Parthyn) 사람들을 죽이지 마십시오"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:240
@@ -1981,7 +1981,7 @@ msgid ""
 "banishment seriously, so I’ll tell ya one last time — no matter why you’ve "
 "come back, we’re not welcomin’ ya here. Take one step closer to Parthyn and "
 "I’ll order tha guards to attack ya."
-msgstr "말린, 다시는 널 보지 않기를 바랐다. 네가 너의 추방을 심각하게 생각하지 않는 게 분명하니 마지막으로 한 번 더 말해주겠다. 네가 무슨 이유로 돌아왔든 우리는 널 환영하지 않는다. 파르틴(Parthyn)에 한 발짝이라도 더 다가서면 경비병들에게 공격 명령을 내리겠다."
+msgstr "말린(Malin), 다시는 널 보지 않기를 바랐다. 네가 너의 추방을 심각하게 생각하지 않는 게 분명하니 마지막으로 한 번 더 말해주겠다. 네가 무슨 이유로 돌아왔든 우리는 널 환영하지 않는다. 파르틴(Parthyn)에 한 발짝이라도 더 다가서면 경비병들에게 공격 명령을 내리겠다."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:256
@@ -1996,7 +1996,7 @@ msgstr "오크든 아니든, 넌 떠나야 한다!"
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:266
 msgid "Dela, help me! You, at least, must see reason!"
-msgstr "델라, 나를 도와줘! 적어도 너는 이성을 봐야 해!"
+msgstr "델라(Dela), 나를 도와줘! 적어도 너는 이성을 봐야 해!"
 
 #. [message]: speaker=Drogan
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:271
@@ -2026,7 +2026,7 @@ msgstr "주인님, 그들의 말을 듣지 마십시오! 그 역시 선택할 �
 msgid ""
 "I didn’t think I’d ever see ya again, Malin. But what’s this awful thing "
 "that stands ’side ya?"
-msgstr "말린, 다시는 널 보지 못할 줄 알았다. 그런데 네 옆에 서 있는 저 끔찍한 것은 뭐냐?"
+msgstr "말린(Malin), 다시는 널 보지 못할 줄 알았다. 그런데 네 옆에 서 있는 저 끔찍한 것은 뭐냐?"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:298
@@ -2100,7 +2100,7 @@ msgstr "나에게 멋진 이야기를 들려주는군. 나는 네가 우리에�
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:347
 msgid ""
 "And what of the rest of you? Dela, at least you don’t believe that, do you?"
-msgstr "그리고 나머지 사람들은? 델라, 적어도 너는 그렇게 생각하지 않지, 그렇지?"
+msgstr "그리고 나머지 사람들은? 델라(Dela), 적어도 너는 그렇게 생각하지 않지, 그렇지?"
 
 #. [message]: speaker=Dela Keshar
 #. [message]: speaker=Mal Keshar
@@ -2114,7 +2114,7 @@ msgstr "나는..."
 msgid ""
 "Stop lookin’ ta her, Malin. Tha fact that even Dela be rejectin’ ya should "
 "tell ya how much o’ a traitor ye are."
-msgstr "말린, 그녀를 쳐다보지 마라. 델라조차 너를 거부한다는 사실은 네가 얼마나 배신자인지 말해준다."
+msgstr "말린(Malin), 그녀를 쳐다보지 마라. 델라(Dela)조차 너를 거부한다는 사실은 네가 얼마나 배신자인지 말해준다."
 
 #. [message]: role=advisor
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:362
@@ -2184,7 +2184,7 @@ msgid ""
 "I see that you’ve not lost all o’ yer humanity by allying yerself with tha "
 "orcs. But ya can’t come back, Malin. No necromancer will ever be welcome in "
 "Parthyn."
-msgstr "네가 오크들과 동맹을 맺음으로써 인간성을 완전히 잃지는 않았다는 것을 알겠다. 하지만 넌 돌아올 수 없어, 말린. 파르틴(Parthyn)에서는 어떤 강령술사도 환영받지 못할 것이다."
+msgstr "네가 오크들과 동맹을 맺음으로써 인간성을 완전히 잃지는 않았다는 것을 알겠다. 하지만 넌 돌아올 수 없어, 말린(Malin). 파르틴(Parthyn)에서는 어떤 강령술사도 환영받지 못할 것이다."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:609
@@ -2198,14 +2198,14 @@ msgstr "뭐?! 이 배은망덕한 놈! 네가 도시를 약탈하고 모두를 �
 #. [message]: speaker=Dela Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:614
 msgid "Have ye lost yer mind, Malin? There’s no way we’re banishin’ Drogan!"
-msgstr "말린, 정신 나갔어? 우리가 드로간(Drogan)을 추방할 리가 없잖아!"
+msgstr "말린(Malin), 정신 나갔어? 우리가 드로간(Drogan)을 추방할 리가 없잖아!"
 
 #. [message]: speaker=Drogan
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:619
 msgid ""
 "Malin, ye were once one o’ my friends and tha pride o’ tha town. I truly "
 "don’t want ta fight ya. I’ll give ya one more chance. Leave Parthyn."
-msgstr "말린, 너는 한때 내 친구였고 마을의 자랑이었다. 나는 정말 너와 싸우고 싶지 않다. 마지막으로 한 번 더 기회를 주겠다. 파르틴(Parthyn)을 떠나라."
+msgstr "말린(Malin), 너는 한때 내 친구였고 마을의 자랑이었다. 나는 정말 너와 싸우고 싶지 않다. 마지막으로 한 번 더 기회를 주겠다. 파르틴(Parthyn)을 떠나라."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:624
@@ -2246,7 +2246,7 @@ msgstr "네 배신자 같은 행동이 너에게 무엇을 가져다주었는지
 msgid ""
 "Drogan, no! Malin, you monster, how could ya just murder Drogan in cold "
 "blood?"
-msgstr "드로간(Drogan), 안 돼! 말린, 이 괴물아, 어떻게 드로간(Drogan)을 냉혈하게 살해할 수 있어?"
+msgstr "드로간(Drogan), 안 돼! 말린(Malin), 이 괴물아, 어떻게 드로간(Drogan)을 냉혈하게 살해할 수 있어?"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:741
@@ -2285,7 +2285,7 @@ msgstr "그런데 왜 나 대신 그의 말을 들었어? 나는 우리를 함�
 #. [message]: speaker=Dela Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:766
 msgid "Malin, that’s—"
-msgstr "말린, 그건—"
+msgstr "말린(Malin), 그건—"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:771
@@ -2298,7 +2298,7 @@ msgstr "너는 항상 이랬어. 너는 스스로 생각하지 않아. 항상 �
 #. [message]: speaker=Dela Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:776
 msgid "Malin—"
-msgstr "말린—"
+msgstr "말린(Malin)—"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:781
@@ -2384,7 +2384,7 @@ msgid ""
 "Flee while you still can, Malin the Damned! When I have defeated these orcs "
 "and secured Parthyn against further raids, I will hunt you down and I will "
 "kill you. You are my brother no longer."
-msgstr "아직 도망칠 수 있을 때 도망쳐라, 저주받은 말린! 내가 이 오크들을 물리치고 파르틴(Parthyn)을 추가 습격으로부터 안전하게 지키면, 너를 추격하여 죽일 것이다. 너는 더 이상 내 형제가 아니다."
+msgstr "아직 도망칠 수 있을 때 도망쳐라, 저주받은 말린(Malin)! 내가 이 오크들을 물리치고 파르틴(Parthyn)을 추가 습격으로부터 안전하게 지키면, 너를 추격하여 죽일 것이다. 너는 더 이상 내 형제가 아니다."
 
 #. [message]: speaker=Dela Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:980
@@ -2392,7 +2392,7 @@ msgid ""
 "Flee while you still can, Malin the Damned! When I have secured Parthyn "
 "against further raids, I will hunt you down and I will kill you. You are my "
 "brother no longer."
-msgstr "아직 도망칠 수 있을 때 도망쳐라, 저주받은 말린! 내가 파르틴(Parthyn)을 추가 습격으로부터 안전하게 지키면, 너를 추격하여 죽일 것이다. 너는 더 이상 내 형제가 아니다."
+msgstr "아직 도망칠 수 있을 때 도망쳐라, 저주받은 말린(Malin)! 내가 파르틴(Parthyn)을 추가 습격으로부터 안전하게 지키면, 너를 추격하여 죽일 것이다. 너는 더 이상 내 형제가 아니다."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:988
@@ -2404,7 +2404,7 @@ msgid ""
 "tried to curse him. I was only testing my new spell on him! It was only "
 "supposed to be a simple curse! How was I supposed to know it would kill him? "
 "Blasted Academy."
-msgstr "오 신들이여, 어떻게 이렇게 된 것인가? 내 친여동생이 내 죽음을 직접 확인하겠다고 결심하다니. 파르틴(Parthyn), 내 나라, 내 집에서 추방당하고... 내가 모든 것을 바친 내 백성들에게 버림받고... 그 뚱뚱하고 오크를 사랑하는 두꺼비 제프린과 말다툼을 하고 그를 저주하려고 한 이후로 모든 것이 잘못되었다. 나는 단지 그에게 새로운 주문을 시험하고 있었을 뿐이다! 단순한 저주였을 뿐이다! 그게 그를 죽일 줄 내가 어떻게 알았겠는가? 빌어먹을 아카데미."
+msgstr "오(O) 신들이여, 어떻게 이렇게 된 것인가? 내 친여동생이 내 죽음을 직접 확인하겠다고 결심하다니. 파르틴(Parthyn), 내 나라, 내 집에서 추방당하고... 내가 모든 것을 바친 내 백성들에게 버림받고... 그 뚱뚱하고 오(O)크를 사랑하는 두꺼비 제프린과 말다툼을 하고 그를 저주하려고 한 이후로 모든 것이 잘못되었다. 나는 단지 그에게 새로운 주문을 시험하고 있었을 뿐이다! 단순한 저주였을 뿐이다! 그게 그를 죽일 줄 내가 어떻게 알았겠는가? 빌어먹을 아카데미."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:993
@@ -2426,7 +2426,7 @@ msgid ""
 "days bereft of rest and sleep. He closes his eyes, trying to purge the last "
 "few hours from his mind, but the darkness only makes the images all the more "
 "vivid. He is tired, <i>so</i> tired, but sleep does not come."
-msgstr "태어난 도시에서 도망친 말린은 대강 북쪽의 숲이 우거진 언덕으로 탈출한다. 서쪽으로 어느 정도 떨어진 곳에서 그는 며칠 동안 휴식과 잠도 없이 마침내 멈춘다. 그는 눈을 감고 지난 몇 시간을 마음에서 지우려고 노력하지만, 어둠은 이미지를 더욱 생생하게 만들 뿐이다. 그는 <i>너무나</i> 지쳐있지만 잠은 오지 않는다."
+msgstr "태어난 도시에서 도망친 말린(Malin)은 대강 북쪽의 숲이 우거진 언덕으로 탈출한다. 서쪽으로 어느 정도 떨어진 곳에서 그는 며칠 동안 휴식과 잠도 없이 마침내 멈춘다. 그는 눈을 감고 지난 몇 시간을 마음에서 지우려고 노력하지만, 어둠은 이미지를 더욱 생생하게 만들 뿐이다. 그는 <i>너무나</i> 지쳐있지만 잠은 오지 않는다."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/07a_A_Small_Favor.cfg:88
@@ -2449,7 +2449,7 @@ msgid ""
 "Malin the Damned! Cursed! Cursed. Cursed...’</i> They echo over and over, "
 "first a choir, then a duet, both male, then just one, a single voice alone "
 "in the darkness."
-msgstr "<i>“아니, 아니야. 다른 방법이 있었다 해도 그들은 어차피 나를 버렸을 거야. 그들은 틀렸어... 눈이 멀었어. 내가 한 일에 후회는 없어. 후회는 없어...”</i> 그는 목소리를 진압한다. 잠이 오고, 꿈도 없는 긴 어둠이 악몽 같은 형상들에 의해 잠시 중단된다. 기괴하고 끔찍한 것들이 으스스하게 익숙한 목소리로 속삭인다. <i>‘너는 저주받았어, 저주받은 말린! 저주받았어! 저주받았어. 저주받았어...’</i> 그들은 합창으로, 그다음에는 남성 듀엣으로, 그다음에는 단 하나, 어둠 속에서 홀로 있는 단일 목소리로 계속해서 울려 퍼진다."
+msgstr "<i>“아니, 아니야. 다른 방법이 있었다 해도 그들은 어차피 나를 버렸을 거야. 그들은 틀렸어... 눈이 멀었어. 내가 한 일에 후회는 없어. 후회는 없어...”</i> 그는 목소리를 진압한다. 잠이 오고, 꿈도 없는 긴 어둠이 악몽 같은 형상들에 의해 잠시 중단된다. 기괴하고 끔찍한 것들이 으스스하게 익숙한 목소리로 속삭인다. <i>‘너는 저주받았어, 저주받은 말린(Malin)! 저주받았어! 저주받았어. 저주받았어...’</i> 그들은 합창으로, 그다음에는 남성 듀엣으로, 그다음에는 단 하나, 어둠 속에서 홀로 있는 단일 목소리로 계속해서 울려 퍼진다."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/07a_A_Small_Favor.cfg:96
@@ -2458,7 +2458,7 @@ msgid ""
 "brief thought before heading farther west. Soon, he catches sight of the "
 "golden banners of Tath and reunites with his teacher just outside of the "
 "city."
-msgstr "말린은 뒤에서 피어오르는 연기 기둥을 보고 잠에서 깬다. 그는 잠시 생각한 후 서쪽으로 더 향한다. 곧 그는 타스의 황금 깃발을 발견하고 도시 바로 밖에서 스승과 재회한다."
+msgstr "말린(Malin)은 뒤에서 피어오르는 연기 기둥을 보고 잠에서 깬다. 그는 잠시 생각한 후 서쪽으로 더 향한다. 곧 그는 타스의 황금 깃발을 발견하고 도시 바로 밖에서 스승과 재회한다."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/07a_A_Small_Favor.cfg:100
@@ -2473,7 +2473,7 @@ msgstr "<i>“내 제자로서의 마지막 시험으로, 당신은 내가 책�
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/07a_A_Small_Favor.cfg:104
 msgid "Malin replies, <i>“They are no longer countrymen of mine.”</i>"
-msgstr "말린은 <i>“그들은 더 이상 제 동족이 아닙니다.”</i> 라고 대답한다."
+msgstr "말린(Malin)은 <i>“그들은 더 이상 제 동족이 아닙니다.”</i> 라고 대답한다."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/07a_A_Small_Favor.cfg:108
@@ -2553,12 +2553,12 @@ msgstr "신전"
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/07a_A_Small_Favor.cfg:422
 msgid "Move Malin and Darken Volk into the Mage Lady’s manor"
-msgstr "말린과 다켄 볼크(Darken Volk)를 마법사 여인의 저택으로 이동시키십시오"
+msgstr "말린(Malin)과 다켄 볼크(Darken Volk)를 마법사 여인의 저택으로 이동시키십시오"
 
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/07a_A_Small_Favor.cfg:427
 msgid "Defeat General Taylor"
-msgstr "테일러 장군을 물리치십시오"
+msgstr "테일러(Taylor) 장군을 물리치십시오"
 
 #. [note]
 #: data/campaigns/Descent_Into_Darkness/scenarios/07a_A_Small_Favor.cfg:446
@@ -2687,7 +2687,7 @@ msgstr "건물 내부"
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/07b_A_Small_Favor2.cfg:125
 msgid "Find Lady Karae"
-msgstr "카라에 여사를 찾으십시오"
+msgstr "카라에(Karae) 여사를 찾으십시오"
 
 #. [unit]: type=Silver Mage, id=Lady Karae, gender=female
 #: data/campaigns/Descent_Into_Darkness/scenarios/07b_A_Small_Favor2.cfg:177
@@ -2715,7 +2715,7 @@ msgstr "여성 경비병"
 msgid ""
 "Malin and Darken Volk enter the mage lady’s manor, closing the heavy gates "
 "behind them."
-msgstr "말린과 다켄 볼크(Darken Volk)는 마법사 여인의 저택에 들어가 무거운 문을 닫습니다."
+msgstr "말린(Malin)과 다켄 볼크(Darken Volk)는 마법사 여인의 저택에 들어가 무거운 문을 닫습니다."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/07b_A_Small_Favor2.cfg:424
@@ -2871,7 +2871,7 @@ msgstr "누군가 여기서... 물약을... 가지고 장난을 치고 있었군
 #. [message]: speaker=Lady Karae
 #: data/campaigns/Descent_Into_Darkness/scenarios/07b_A_Small_Favor2.cfg:893
 msgid "Darken Volk... you... wouldn’t dare..."
-msgstr "다켄 볼크... 당신... 설마..."
+msgstr "다켄 볼크(Darken Volk)... 당신... 설마..."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/07b_A_Small_Favor2.cfg:897
@@ -3063,12 +3063,12 @@ msgstr "잠깐, 나를 버리고 가는 건 아니죠?"
 msgid ""
 "Escape the manor (Malin reaches the tunnel in the northeast cellar before "
 "Darken Volk)"
-msgstr "저택에서 탈출하십시오 (말린이 다켄 볼크(Darken Volk)보다 먼저 북동쪽 지하실의 터널에 도착)"
+msgstr "저택에서 탈출하십시오 (말린(Malin)이 다켄 볼크(Darken Volk)보다 먼저 북동쪽 지하실의 터널에 도착)"
 
 #. [objective]: condition=lose
 #: data/campaigns/Descent_Into_Darkness/scenarios/07c_A_Small_Favor3.cfg:1188
 msgid "Darken Volk reaches the tunnel before Malin does"
-msgstr "다켄 볼크(Darken Volk)가 말린보다 먼저 터널에 도착"
+msgstr "다켄 볼크(Darken Volk)가 말린(Malin)보다 먼저 터널에 도착"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/07c_A_Small_Favor3.cfg:1212
@@ -3080,7 +3080,7 @@ msgstr "수고했다, 꼬마야."
 msgid ""
 "As he heads into the tunnel, Darken Volk collapses the entrance, leaving "
 "Malin to be captured and executed by the city guards."
-msgstr "터널로 향하면서 다켄 볼크(Darken Volk)는 입구를 무너뜨려 말린은 도시 경비병들에게 붙잡혀 처형당하게 된다."
+msgstr "터널로 향하면서 다켄 볼크(Darken Volk)는 입구를 무너뜨려 말린(Malin)은 도시 경비병들에게 붙잡혀 처형당하게 된다."
 
 #. [scenario]: id=08_Alone_at_Last
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:5
@@ -3104,7 +3104,7 @@ msgid ""
 "with stone-cold dispassion. There is no acknowledgment... no word of "
 "gratitude — only a sense of unease that has as much to do with the book as "
 "it does with Darken Volk."
-msgstr "어둠 속에는 침묵이 가득하고, 곰팡이 핀 동굴 벽에서 떨어지는 불규칙한 물방울 소리만이 침묵을 깬다. 말린은 때때로 다켄 볼크(Darken Volk)를 바라보며 노련한 강령술사에게서 무언가를 기대하지만, 차가운 무관심만 마주할 뿐이다. 인정도 없고... 감사의 말도 없다—단지 책과 다켄 볼크(Darken Volk) 모두와 관련된 불안감만이 감돌 뿐이다."
+msgstr "어둠 속에는 침묵이 가득하고, 곰팡이 핀 동굴 벽에서 떨어지는 불규칙한 물방울 소리만이 침묵을 깬다. 말린(Malin)은 때때로 다켄 볼크(Darken Volk)를 바라보며 노련한 강령술사에게서 무언가를 기대하지만, 차가운 무관심만 마주할 뿐이다. 인정도 없고... 감사의 말도 없다—단지 책과 다켄 볼크(Darken Volk) 모두와 관련된 불안감만이 감돌 뿐이다."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:27
@@ -3122,7 +3122,7 @@ msgstr "웨스노스인들"
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:170
 msgid "Take the book back from Darken Volk"
-msgstr "다켄 볼크에게서 책을 되찾으십시오"
+msgstr "다켄 볼크(Darken Volk)에게서 책을 되찾으십시오"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:220
@@ -3145,7 +3145,7 @@ msgstr "이제 책을 나에게 넘겨라."
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:246
 msgid ""
 "Darken Volk grabs the mysterious book from Malin’s hands and stalks away."
-msgstr "다켄 볼크(Darken Volk)는 말린의 손에서 신비한 책을 움켜쥐고 성큼성큼 걸어간다."
+msgstr "다켄 볼크(Darken Volk)는 말린(Malin)의 손에서 신비한 책을 움켜쥐고 성큼성큼 걸어간다."
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:255
@@ -3200,7 +3200,7 @@ msgstr "왜 아무 말도 안 하는 거야?! 전혀 신경 쓰지 않는 거야
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:336
 msgid ""
 "... you can’t abandon me too, not the way they did... Father, Drogan, Dela..."
-msgstr "... 당신마저 나를 버릴 수는 없어, 그들이 그랬던 것처럼... 아버지, 드로간(Drogan), 델라..."
+msgstr "... 당신마저 나를 버릴 수는 없어, 그들이 그랬던 것처럼... 아버지, 드로간(Drogan), 델라(Dela)..."
 
 #. [message]: role=advisor
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:346
@@ -3344,7 +3344,7 @@ msgstr "오만한 바보의 거창한 말이군. 내가 이 건방진 녀석을 
 msgid ""
 "I finally found you, Malin! At last, you’ll pay fer what you’ve done to my "
 "people and my home. I won’t let you live ta see another sunset."
-msgstr "드디어 널 찾았다, 말린! 마침내 넌 내 백성과 내 집에 저지른 일에 대한 대가를 치르게 될 거야. 널 살려둬서 또 다른 석양을 보게 하진 않겠어."
+msgstr "드디어 널 찾았다, 말린(Malin)! 마침내 넌 내 백성과 내 집에 저지른 일에 대한 대가를 치르게 될 거야. 널 살려둬서 또 다른 석양을 보게 하진 않겠어."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:761
@@ -3357,7 +3357,7 @@ msgid ""
 "You didn’t think I’d keep my word? You thought I’d forgive you fer killing "
 "Drogan and tearing apart our town? You don’t know how badly I want ta kill "
 "ya, Malin."
-msgstr "내가 약속을 지키지 않을 거라고 생각했어? 내가 드로간(Drogan)을 죽이고 우리 마을을 갈기갈기 찢어놓은 널 용서할 거라고 생각했어? 내가 널 얼마나 죽이고 싶어하는지 넌 몰라, 말린."
+msgstr "내가 약속을 지키지 않을 거라고 생각했어? 내가 드로간(Drogan)을 죽이고 우리 마을을 갈기갈기 찢어놓은 널 용서할 거라고 생각했어? 내가 널 얼마나 죽이고 싶어하는지 넌 몰라, 말린(Malin)."
 
 #. [message]: speaker=Dela Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:776
@@ -3392,7 +3392,7 @@ msgstr "봤어? 이게 당신이 날 버렸을 때 일어나는 일이야!"
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:864
 msgid ""
 "Ungrateful wretch, this is how you repay me? Curse you, Malin the Damned!"
-msgstr "은혜를 모르는 악당, 이게 네가 나에게 갚는 방식이냐? 저주받아라, 저주받은 말린!"
+msgstr "은혜를 모르는 악당, 이게 네가 나에게 갚는 방식이냐? 저주받아라, 저주받은 말린(Malin)!"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:879
@@ -3407,7 +3407,7 @@ msgstr "글쎄, 그 책을 전장에서 가져와야겠군."
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:896
 msgid "Bring the book back to Malin’s camp"
-msgstr "책을 말린의 진영으로 가져오십시오"
+msgstr "책을 말린(Malin)의 진영으로 가져오십시오"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:914
@@ -3497,7 +3497,7 @@ msgstr "...하지만, 지금 포기하는 것은 낭비일 것 같아..."
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:1162
 msgid "So, they are all dead. The paladin, Darken Volk, Dela..."
-msgstr "결국 그들은 모두 죽었어. 팔라딘, 다켄 볼크(Darken Volk), 델라..."
+msgstr "결국 그들은 모두 죽었어. 팔라딘, 다켄 볼크(Darken Volk), 델라(Dela)..."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:1167
@@ -3525,7 +3525,7 @@ msgid ""
 "incantations with his dying breaths, then conquer his own spirit in much the "
 "same way he binds the spirits of others. Because he retains his own will, "
 "however, the lich can call upon the awesome powers of the spirit world.”</i>"
-msgstr "말린이 되찾은 책에 이렇게 적혀 있다. <i>“강령술 주문은 영혼을 육체의 한계에서 해방시킬 수 있지만, 영혼이 육체에서 분리된 후에만 가능하다. 강령술사는 죽어가는 숨결로 필요한 주문을 외워야 하며, 다른 영혼을 속박하는 것과 같은 방식으로 자신의 영혼을 정복해야 한다. 그러나 리치는 자신의 의지를 유지하기 때문에 영혼 세계의 엄청난 힘을 불러낼 수 있다.”</i>"
+msgstr "말린(Malin)이 되찾은 책에 이렇게 적혀 있다. <i>“강령술 주문은 영혼을 육체의 한계에서 해방시킬 수 있지만, 영혼이 육체에서 분리된 후에만 가능하다. 강령술사는 죽어가는 숨결로 필요한 주문을 외워야 하며, 다른 영혼을 속박하는 것과 같은 방식으로 자신의 영혼을 정복해야 한다. 그러나 리치는 자신의 의지를 유지하기 때문에 영혼 세계의 엄청난 힘을 불러낼 수 있다.”</i>"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:41
@@ -3536,7 +3536,7 @@ msgid ""
 "Still, the words, that terrifying idea, stick in the back of his mind. Life "
 "has offered him nothing; could death be any worse? Death... and not rebirth, "
 "but undeath."
-msgstr "말린은 책을 덮는다. 이 모든 시간과 그가 싸워온 모든 것 후에, 그는 절망에 굴복하고 죽을 수 있을까? 그는 단순히 포기하는 사람이 아니었지만, 그가 싸울 것이 남아 있을까? 여전히 그 단어들, 그 무서운 생각이 그의 마음속에 박혀 있다. 삶은 그에게 아무것도 제공하지 않았다. 죽음이 더 나쁠 수 있을까? 죽음... 그리고 환생이 아닌, 불멸."
+msgstr "말린(Malin)은 책을 덮는다. 이 모든 시간과 그가 싸워온 모든 것 후에, 그는 절망에 굴복하고 죽을 수 있을까? 그는 단순히 포기하는 사람이 아니었지만, 그가 싸울 것이 남아 있을까? 여전히 그 단어들, 그 무서운 생각이 그의 마음속에 박혀 있다. 삶은 그에게 아무것도 제공하지 않았다. 죽음이 더 나쁠 수 있을까? 죽음... 그리고 환생이 아닌, 불멸."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:45
@@ -3545,7 +3545,7 @@ msgid ""
 "frontier village where few questions are asked. When word eventually filters "
 "to the town that Parthyn has been overrun by orcs, Malin rouses himself from "
 "his listless state without really knowing why, and heads northward."
-msgstr "웨스노스(Wesnoth) 전체에서 금지된 말린은 질문이 거의 없는 외딴 국경 마을에서 피난처를 찾는다. 파르틴(Parthyn)이 오크에게 점령되었다는 소식이 마을에 전해지자 말린은 이유도 모른 채 무기력한 상태에서 벗어나 북쪽으로 향한다."
+msgstr "웨스노스(Wesnoth) 전체에서 금지된 말린(Malin)은 질문이 거의 없는 외딴 국경 마을에서 피난처를 찾는다. 파르틴(Parthyn)이 오크에게 점령되었다는 소식이 마을에 전해지자 말린(Malin)은 이유도 모른 채 무기력한 상태에서 벗어나 북쪽으로 향한다."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:49
@@ -3555,7 +3555,7 @@ msgid ""
 "futility of his quest — harassing and harrying one clan of orcs is a far "
 "different task than waging a truly meaningful war against them as a whole. "
 "Then again, perhaps he is beyond the point of ordinary reason."
-msgstr "말린은 곧 거대한 오크 군대의 흔적을 발견하고 그들의 야영지에 도착할 때까지 그들을 따라간다. 오크의 수를 보자 그는 자신의 탐구의 헛됨을 깨닫기 시작한다. 오크 한 부족을 괴롭히고 공격하는 것은 전체를 상대로 진정으로 의미 있는 전쟁을 벌이는 것과는 완전히 다른 일이다. 다시 말하지만, 어쩌면 그는 일반적인 이성의 지점을 넘어섰을지도 모른다."
+msgstr "말린(Malin)은 곧 거대한 오크 군대의 흔적을 발견하고 그들의 야영지에 도착할 때까지 그들을 따라간다. 오크의 수를 보자 그는 자신의 탐구의 헛됨을 깨닫기 시작한다. 오크 한 부족을 괴롭히고 공격하는 것은 전체를 상대로 진정으로 의미 있는 전쟁을 벌이는 것과는 완전히 다른 일이다. 다시 말하지만, 어쩌면 그는 일반적인 이성의 지점을 넘어섰을지도 모른다."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:53
@@ -3564,7 +3564,7 @@ msgid ""
 "raises his undead to assault the camp. Within mere minutes, nearly his "
 "entire army is destroyed and he is badly injured by a poisoned dagger. Malin "
 "retreats and finds refuge in a small cave."
-msgstr "<i>어쨌든 내가 할 수 있는 일은 아무것도 남지 않았다,</i> 말린은 생각하고, 야영지를 공격하기 위해 그의 언데드를 일으킨다. 몇 분 안에 그의 거의 모든 군대가 파괴되고 그는 독이 든 단검에 심하게 부상을 입는다. 말린은 후퇴하여 작은 동굴에서 피난처를 찾는다."
+msgstr "<i>어쨌든 내가 할 수 있는 일은 아무것도 남지 않았다,</i> 말린(Malin)은 생각하고, 야영지를 공격하기 위해 그의 언데드를 일으킨다. 몇 분 안에 그의 거의 모든 군대가 파괴되고 그는 독이 든 단검에 심하게 부상을 입는다. 말린(Malin)은 후퇴하여 작은 동굴에서 피난처를 찾는다."
 
 #. [side]
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:93
@@ -3580,7 +3580,7 @@ msgstr "의식을 완료하세요"
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:206
 msgid ""
 "While Malin is standing on a runestone, he receives additional abilities"
-msgstr "말린이 룬스톤 위에 서 있는 동안 추가 능력을 얻습니다."
+msgstr "말린(Malin)이 룬스톤 위에 서 있는 동안 추가 능력을 얻습니다."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:287
@@ -3621,7 +3621,7 @@ msgid ""
 "and soul for. I forsook my people, my family, my home... to follow that "
 "damned necromancer! And in the end, he betrayed me too, just like Drogan, "
 "just like Dela..."
-msgstr "그래... 그래. 책. 내 피와 영혼을 바친 반쯤 썩고 너덜너덜해진 책. 나는 내 백성, 내 가족, 내 집을 버리고... 그 빌어먹을 강령술사를 따랐어! 결국 그는 드로간(Drogan)처럼, 델라처럼 나를 배신했어..."
+msgstr "그래... 그래. 책. 내 피와 영혼을 바친 반쯤 썩고 너덜너덜해진 책. 나는 내 백성, 내 가족, 내 집을 버리고... 그 빌어먹을 강령술사를 따랐어! 결국 그는 드로간(Drogan)처럼, 델라(Dela)처럼 나를 배신했어..."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:429
@@ -3704,7 +3704,7 @@ msgid ""
 "have expected Drogan and Dela to follow suit so easily. My family and "
 "friends, yes, but they were nothing but simpletons. If only they had tried "
 "to understand me instead of shunning me outright."
-msgstr "해골이 역겹고 혐오스러운 것이라고 생각했던 때가 기억난다. 산 자가 죽음의 가장 두드러진 형상을 두려워하는 것은 당연하다고 생각한다. 내가 그런 순진한 생각을 버렸다고 해도... 드로간(Drogan)과 델라가 그렇게 쉽게 따라올 것이라고 기대할 수는 없었을 것이다. 내 가족과 친구들은 그렇다 쳐도, 그들은 단순한 바보들이었다. 그들이 나를 완전히 외면하는 대신 이해하려고 노력했더라면."
+msgstr "해골이 역겹고 혐오스러운 것이라고 생각했던 때가 기억난다. 산 자가 죽음의 가장 두드러진 형상을 두려워하는 것은 당연하다고 생각한다. 내가 그런 순진한 생각을 버렸다고 해도... 드로간(Drogan)과 델라(Dela)가 그렇게 쉽게 따라올 것이라고 기대할 수는 없었을 것이다. 내 가족과 친구들은 그렇다 쳐도, 그들은 단순한 바보들이었다. 그들이 나를 완전히 외면하는 대신 이해하려고 노력했더라면."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:882
@@ -3726,7 +3726,7 @@ msgstr "물리적 형태가 완전히 무너진다. 남는 것은 무엇인가?"
 msgid ""
 "The soul. Dela always said I was a creature without a soul. I suppose she "
 "was jesting at the time, but maybe not after I killed Drogan."
-msgstr "영혼. 델라는 항상 내가 영혼 없는 존재라고 말했다. 그때는 농담이었겠지만, 내가 드로간(Drogan)을 죽인 후에는 아닐지도 모른다."
+msgstr "영혼. 델라(Dela)는 항상 내가 영혼 없는 존재라고 말했다. 그때는 농담이었겠지만, 내가 드로간(Drogan)을 죽인 후에는 아닐지도 모른다."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:1092
@@ -3737,7 +3737,7 @@ msgid ""
 "a monster for using my power to save our town. My people would rather feed "
 "themselves to orcs than follow my ‘sorcerous ways’. Drogan, Dela... all of "
 "them! They are the ones without souls, not me!"
-msgstr "흥! 나는 이런 말을 들을 자격이 없고, 그녀 같은 사람에게 대답할 필요도 없다. 나는 내 백성과 가족을 보호하기 위해 싸웠을 뿐이지만, 내가 받은 것은 경멸과 추방뿐이었다. 내 여동생은 내가 마을을 구하기 위해 힘을 사용한 것을 괴물 같다고 생각했다. 내 백성은 내 ‘마법의 길’을 따르는 것보다 오크에게 자신들을 먹이는 것을 더 좋아할 것이다. 드로간(Drogan), 델라... 그들 모두! 영혼 없는 것은 그들이지 내가 아니다!"
+msgstr "흥! 나는 이런 말을 들을 자격이 없고, 그녀 같은 사람에게 대답할 필요도 없다. 나는 내 백성과 가족을 보호하기 위해 싸웠을 뿐이지만, 내가 받은 것은 경멸과 추방뿐이었다. 내 여동생은 내가 마을을 구하기 위해 힘을 사용한 것을 괴물 같다고 생각했다. 내 백성은 내 ‘마법의 길’을 따르는 것보다 오크에게 자신들을 먹이는 것을 더 좋아할 것이다. 드로간(Drogan), 델라(Dela)... 그들 모두! 영혼 없는 것은 그들이지 내가 아니다!"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:1097
@@ -3897,7 +3897,7 @@ msgstr "힘을 되찾으십시오"
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:259
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:277
 msgid "Destruction of Mal Keshar"
-msgstr "말 케샤르의 파괴"
+msgstr "말 케샤르(Mal Keshar)의 파괴"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:1968
@@ -3935,7 +3935,7 @@ msgstr "빌어먹을 쥐새끼들!"
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:2075
 msgid ""
 "Dela used to be afraid of spiders. Imagine if she saw something like this..."
-msgstr "델라는 거미를 무서워했지. 그녀가 이런 걸 봤다면 어땠을까..."
+msgstr "델라(Dela)는 거미를 무서워했지. 그녀가 이런 걸 봤다면 어땠을까..."
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:2088
@@ -4252,7 +4252,7 @@ msgstr "<i><big>몇몇 쇠약한 영혼들은 네게 아무런 도움이 되지 
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:3677
 msgid "Defeat Xanthric"
-msgstr "잔트릭을 물리치십시오"
+msgstr "잔트릭(Xanthric)을 물리치십시오"
 
 #. [note]
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:3688
@@ -4908,7 +4908,7 @@ msgstr "좋았던 옛날을 아직 기억하나? 네가 어렸을 때, 네 아�
 msgid ""
 "It were so much simpler back then, without yer complicated magic ’n yer "
 "crazy education ta mess things up. Don’t ya think so, Malin?"
-msgstr "그때는 네 복잡한 마법과 네 미친 교육이 일을 망치기 전이라 훨씬 더 단순했지. 그렇게 생각하지 않나, 말린?"
+msgstr "그때는 네 복잡한 마법과 네 미친 교육이 일을 망치기 전이라 훨씬 더 단순했지. 그렇게 생각하지 않나, 말린(Malin)?"
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1573
@@ -4944,7 +4944,7 @@ msgid ""
 "have someone I could talk to as just, you know, a friend. And then ya went "
 "and screwed it all up by turnin’ to that dark magic of yours. You don’t know "
 "how much that hurt me. You really don’t, Malin."
-msgstr "당신이 알두인(Alduin)에서 처음 돌아왔을 때, 저는 당신을 만나서 너무너무 기뻤어요. 당신과 저, 그리고 아버지가 마침내 다시 가족이 될 수 있고, 마침내 그냥 친구로서 이야기할 수 있는 사람이 생겼다고 생각했어요. 그런데 당신은 그 끔찍한 흑마법에 빠져 모든 걸 망쳐버렸죠. 그게 저에게 얼마나 큰 상처를 줬는지 당신은 몰라요. 정말 몰라요, 말린."
+msgstr "당신이 알두인(Alduin)에서 처음 돌아왔을 때, 저는 당신을 만나서 너무너무 기뻤어요. 당신과 저, 그리고 아버지가 마침내 다시 가족이 될 수 있고, 마침내 그냥 친구로서 이야기할 수 있는 사람이 생겼다고 생각했어요. 그런데 당신은 그 끔찍한 흑마법에 빠져 모든 걸 망쳐버렸죠. 그게 저에게 얼마나 큰 상처를 줬는지 당신은 몰라요. 정말 몰라요, 말린(Malin)."
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1617
@@ -5176,7 +5176,7 @@ msgid ""
 "I can still hear his infernal cackling ringing in my head. Sure thing, "
 "Zephrin, right... like my whole life was some sort of work of fiction!</i>"
 msgstr ""
-"<i>오늘 또 그 빌어먹을 기억이 되살아나서 날 괴롭혔어. 제프린과 내가 오크에 대해 논쟁했던 아카데미 시절이었지. 아직도 그의 쉰 목소리가 ‘재밌는 이야기야, 말린, 하지만 자막을 넣어야 해. 알다시피, 이 이야기를 만드는 동안 어떤 오크도 다치지 않았다는 걸 모두가 이해하도록 말이야, 하하하.’라고 말하던 게 기억나.\n"
+"<i>오늘 또 그 빌어먹을 기억이 되살아나서 날 괴롭혔어. 제프린과 내가 오크에 대해 논쟁했던 아카데미 시절이었지. 아직도 그의 쉰 목소리가 ‘재밌는 이야기야, 말린(Malin), 하지만 자막을 넣어야 해. 알다시피, 이 이야기를 만드는 동안 어떤 오크도 다치지 않았다는 걸 모두가 이해하도록 말이야, 하하하.’라고 말하던 게 기억나.\n"
 "\n"
 "아직도 그의 지독한 웃음소리가 내 머릿속에 울리는 것 같아. 물론이지, 제프린, 그래... 마치 내 인생 전체가 일종의 허구인 것처럼!</i>"
 
@@ -5412,7 +5412,7 @@ msgid ""
 "own, personal power. Malin’s focus on improving his magical prowess has left "
 "little time for him to improve his swordsmanship, but he still holds on to "
 "his short sword as his melee weapon of choice."
-msgstr "다큰 볼크의 지도 아래 말린은 언데드 군대를 일으키는 도구이자 자신의 개인적인 힘을 증가시키는 수단으로 강령술을 능숙하게 다루게 되었습니다. 마법 능력을 향상시키는 데 집중한 말린은 검술을 향상시킬 시간이 거의 없었지만, 여전히 그의 근접 무기로 짧은 검을 선택합니다."
+msgstr "다큰 볼크의 지도 아래 말린(Malin)은 언데드 군대를 일으키는 도구이자 자신의 개인적인 힘을 증가시키는 수단으로 강령술을 능숙하게 다루게 되었습니다. 마법 능력을 향상시키는 데 집중한 말린(Malin)은 검술을 향상시킬 시간이 거의 없었지만, 여전히 그의 근접 무기로 짧은 검을 선택합니다."
 
 #. [unit_type]: id=Dark Mage, race=human
 #: data/campaigns/Descent_Into_Darkness/units/Dark_Mage.cfg:4
@@ -5429,7 +5429,7 @@ msgid ""
 "continues to use it for melee combat, perhaps more as a keepsake than an "
 "effective weapon. His increasing skill with magic, however, is more than "
 "enough to compensate."
-msgstr "말린의 검은 제대로 관리하지 않아 녹슬었지만, 여전히 근접 전투에서 사용합니다. 효과적인 무기라기보다는 기념품에 가까울지도 모릅니다. 하지만 그의 마법 숙련도는 점점 증가하고 있으며, 그 정도면 충분히 보완됩니다."
+msgstr "말린(Malin)의 검은 제대로 관리하지 않아 녹슬었지만, 여전히 근접 전투에서 사용합니다. 효과적인 무기라기보다는 기념품에 가까울지도 모릅니다. 하지만 그의 마법 숙련도는 점점 증가하고 있으며, 그 정도면 충분히 보완됩니다."
 
 #. [unit_type]: id=Frontier Baroness, race=human, gender=female
 #: data/campaigns/Descent_Into_Darkness/units/Frontier_Baroness.cfg:6
@@ -5514,7 +5514,7 @@ msgstr "그림자 파동 마법 피해 감소 효과"
 #: data/campaigns/Descent_Into_Darkness/units/Mal_Keshar.cfg:159
 #: data/campaigns/Descent_Into_Darkness/utils/amlas.cfg:397
 msgid "Drain HP from nearby enemies, but lose HP every turn"
-msgstr "주변 적의 HP 흡수, 하지만 매 턴 HP 감소"
+msgstr "주변 적의 체력(HP) 흡수, 하지만 매 턴 체력(HP) 감소"
 
 #. [attack]: type=arcane
 #: data/campaigns/Descent_Into_Darkness/units/Mal_Keshar.cfg:211
@@ -5560,11 +5560,11 @@ msgstr "생명력 증가"
 
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:101
 msgid "Malin’s sword gains the magical special"
-msgstr "말린의 검에 마법 특수 효과 추가"
+msgstr "말린(Malin)의 검에 마법 특수 효과 추가"
 
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:158
 msgid "Malin’s sword gains the plague special"
-msgstr "말린의 검에 역병 특수 효과 추가"
+msgstr "말린(Malin)의 검에 역병 특수 효과 추가"
 
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:180
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:278
@@ -5573,7 +5573,7 @@ msgstr "원거리 공격력 +2, 하지만 비전 저항력 -10%"
 
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:199
 msgid "Malin’s melee attack heals him every hit"
-msgstr "말린의 근접 공격은 매 공격 시 그를 치유합니다."
+msgstr "말린(Malin)의 근접 공격은 매 공격 시 그를 치유합니다."
 
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:216
 msgid "Chill tempest gains the impetuity special"
@@ -5581,7 +5581,7 @@ msgstr "냉기 폭풍에 맹렬함 특수 효과 추가"
 
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:233
 msgid "Malin gains a special corpse launching attack"
-msgstr "말린에게 특별한 시체 발사 공격 추가"
+msgstr "말린(Malin)에게 특별한 시체 발사 공격 추가"
 
 #. [effect]: type=impact
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:240
@@ -5598,7 +5598,7 @@ msgstr "근접 공격력 +2"
 msgid ""
 "Malin gains +10% resistance to blade and pierce, but loses -10% resistance "
 "to arcane"
-msgstr "말린은 칼날과 관통 저항력이 +10% 증가하지만, 비전 저항력은 -10% 감소합니다."
+msgstr "말린(Malin)은 칼날과 관통 저항력이 +10% 증가하지만, 비전 저항력은 -10% 감소합니다."
 
 #. [advancement]: id=malin_melee_vitalize_amla
 #: data/campaigns/Descent_Into_Darkness/units/Malin_Keshar.cfg:339

@@ -295,7 +295,7 @@ msgstr "적 대장을 무찔러라"
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:428
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:566
 msgid "Death of Tallin"
-msgstr "탈린의 죽음"
+msgstr "탈린(Tallin)의 죽음"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:236
@@ -657,7 +657,7 @@ msgstr "언데드"
 #. [side]: type=Death Knight, id=Mal Barath
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:159
 msgid "Mal Barath"
-msgstr "말 바라쓰"
+msgstr "말(Mal) 바라쓰"
 
 #. [side]: type=Troll Warrior, id=Thung
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:174
@@ -672,7 +672,7 @@ msgstr "델자쓰(Delzath)"
 #. [side]: type=Death Knight, id=Mal Tath
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:221
 msgid "Mal Tath"
-msgstr "말 타쓰"
+msgstr "말(Mal) 타쓰"
 
 #. [objective]: condition=win
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:242
@@ -1347,7 +1347,7 @@ msgstr "늑대 기병들을 처치하기"
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:203
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:578
 msgid "Death of Hamel"
-msgstr "하멜의 죽음"
+msgstr "하멜(Hamel)의 죽음"
 
 #. [message]: speaker=Pruol
 #: data/campaigns/Northern_Rebirth/scenarios/03_To_the_Mines.cfg:123
@@ -1592,7 +1592,7 @@ msgstr "주위를 둘러 보아라, 탈린(Tallin); 모든 권력의 모든 것,
 #. [message]: role=Supporter
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:346
 msgid "Tallin! Get hold of yourself!"
-msgstr "탈린! 정신차려요!"
+msgstr "탈린(Tallin)! 정신차려요!"
 
 #. [message]: speaker=Malifor
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:351
@@ -1744,7 +1744,7 @@ msgstr "그러면 그렇게 하시오. 허락하겠소. 그 젊은이의 위험�
 #. [message]: role=follower
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:537
 msgid "Thank you, Lord Hamel."
-msgstr "고맙소, 하멜 군주."
+msgstr "고맙소, 하멜(Hamel) 군주."
 
 #. [scenario]: id=05a_01_The_Pursuit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:5
@@ -1796,7 +1796,7 @@ msgstr "망령을 통과하기."
 #. [objective]: condition=win
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:324
 msgid "Find Malifor and destroy him"
-msgstr "말리포르를 찾아 없앨것"
+msgstr "말리포르(Malifor)를 찾아 없앨것"
 
 #. [note]
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:341
@@ -1978,7 +1978,7 @@ msgstr "아, 그런 생각은 하지 마시오. 우리 사이에 빚에 대한 �
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:738
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:275
 msgid "Thank you, Tallin."
-msgstr "고마워요, 탈린."
+msgstr "고마워요, 탈린(Tallin)."
 
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:655
@@ -2317,7 +2317,7 @@ msgstr "정의의 지팡이다! 대체 이런 곳까지 어떻게 내려와 있�
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1291
 msgid "What do you have there, Abhai?"
-msgstr "아브하이, 당신은 거기서 뭘가질건가요?"
+msgstr "아브하이(Abhai), 당신은 거기서 뭘가질건가요?"
 
 #. [message]: speaker=Abhai
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1296
@@ -2352,7 +2352,7 @@ msgstr "아아아, 심판의 지팡이가 여기에 놓여져 있는것도 예�
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1311
 msgid "Why can’t you wield it, Abhai?"
-msgstr "아브하이, 왜 당신이 사용하지 않는것이오?"
+msgstr "아브하이(Abhai), 왜 당신이 사용하지 않는것이오?"
 
 #. [message]: speaker=Abhai
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1316
@@ -2390,7 +2390,7 @@ msgstr "저... 저것은 정의의 지팡이다!"
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1366
 msgid "Do you know anything about it, Camerin?"
-msgstr "저것에 대해 아는 것이 있나, 카메린?"
+msgstr "저것에 대해 아는 것이 있나, 카메린(Camerin)?"
 
 #. [message]: speaker=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1371
@@ -2483,7 +2483,7 @@ msgstr "정지! 거기 누구야? 동료인가? 적인가?"
 #. [message]: speaker=second_unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1603
 msgid "Depends. Are you loyal to Malifor?"
-msgstr "네 대답에 달려있지. 말리포르에게 충성하나?"
+msgstr "네 대답에 달려있지. 말리포르(Malifor)에게 충성하나?"
 
 #. [message]: speaker=Dulcatas
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1608
@@ -2590,7 +2590,7 @@ msgstr "자 이젠 됐다."
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1869
 msgid "Malifor the Great’s Study"
-msgstr "위대한 말리포르의 연구소"
+msgstr "위대한 말리포르(Malifor)의 연구소"
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1874
@@ -2702,12 +2702,12 @@ msgstr "감히 이 터널들을 뚫을 수 있는 너는 누구지?"
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2103
 msgid "I... I am one of Tallin’s men..."
-msgstr "저... 저는 탈린의 부하입니다..."
+msgstr "저... 저는 탈린(Tallin)의 부하입니다..."
 
 #. [message]: speaker=Abhai
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2108
 msgid "Who is this ‘Tallin’?"
-msgstr "누가 ‘탈린’ 인가?"
+msgstr "누가 ‘탈린(Tallin)’ 인가?"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2113
@@ -2749,7 +2749,7 @@ msgstr "나는 군주 아브하이(Abhai) 라네... 한때... 서쪽에 있는 �
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2144
 msgid "Let me guess. Malifor?"
-msgstr "내가 한번 맞춰보겠소. 말리포르인거요?"
+msgstr "내가 한번 맞춰보겠소. 말리포르(Malifor)인거요?"
 
 #. [message]: speaker=Abhai
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2149
@@ -3069,7 +3069,7 @@ msgstr "드디어! 승리는 우리의 것이다! 잘했어, 얘들아!"
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2863
 msgid "So, where to now, Tallin?"
-msgstr "그럼, 이젠 어디로 갈까요, 탈린?"
+msgstr "그럼, 이젠 어디로 갈까요, 탈린(Tallin)?"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2868
@@ -3127,7 +3127,7 @@ msgstr "가림(Galim)"
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:138
 msgid "It is well, Hamel. Our people prosper."
-msgstr "잘됐어요, 하멜. 이제 우리 백성은 번영합니다."
+msgstr "잘됐어요, 하멜(Hamel). 이제 우리 백성은 번영합니다."
 
 #. [message]: speaker=Hamel
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:143
@@ -3221,7 +3221,7 @@ msgstr "탈린(Tallin), 크날가(Knalga)는 매우 부유한 나라였으요. �
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:205
 msgid "Thank you, Hamel."
-msgstr "고맙소, 하멜."
+msgstr "고맙소, 하멜(Hamel)."
 
 #. [message]: speaker=Hamel
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:211
@@ -3247,7 +3247,7 @@ msgstr "당신이 쇠스랑을 잘 다루는 건 알고 있소. 검을 들기로
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:227
 msgid "I would be honored, Lord Hamel."
-msgstr "영광입니다, 하멜 군주."
+msgstr "영광입니다, 하멜(Hamel) 군주."
 
 #. [message]: speaker=Hamel
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:232
@@ -3351,7 +3351,7 @@ msgstr "차례가 끝날 때까지 저항하기"
 #. [objectives]
 #: data/campaigns/Northern_Rebirth/scenarios/06a_Old_Friend.cfg:198
 msgid "Defeat Rakshas, if you can..."
-msgstr "가능하다면 라크샤스를 무찌르기..."
+msgstr "가능하다면 라크샤스(Rakshas)를 무찌르기..."
 
 #. [message]: id=Rakshas
 #: data/campaigns/Northern_Rebirth/scenarios/06a_Old_Friend.cfg:217
@@ -3918,7 +3918,7 @@ msgstr "로소티안"
 #. [objective]: condition=win
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:317
 msgid "Save Stalrag from Ro’Sothian"
-msgstr "로소티안에게서 스탈라그를 구출"
+msgstr "로소티안에게서 스탈라그(Stalrag)를 구출"
 
 #. [objective]: condition=win
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:326
@@ -3928,7 +3928,7 @@ msgstr "로아르티안을 체포하기"
 #. [objective]: condition=lose
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:337
 msgid "Death of Stalrag"
-msgstr "스탈라그의 죽음"
+msgstr "스탈라그(Stalrag)의 죽음"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:356
@@ -3999,7 +3999,7 @@ msgstr "카메린(Camerin)! 어둠의 큰 군주시여, 오랫동안 뵙지 못�
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:414
 msgid "whisper^Camerin, you know him?"
-msgstr "카메린, 그 사람 알아요?"
+msgstr "카메린(Camerin), 그 사람 알아요?"
 
 #. [message]: speaker=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:419
@@ -4770,7 +4770,7 @@ msgstr "탈린(Tallin)을 북쪽 표지판으로 이동시켜라"
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:724
 #: data/campaigns/Northern_Rebirth/scenarios/11a_The_Eastern_Flank.cfg:218
 msgid "Death of Eryssa"
-msgstr "에릿사의 죽음"
+msgstr "에릿사(Eryssa)의 죽음"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:185
@@ -4808,7 +4808,7 @@ msgstr "그래요, 나도 그런 결론이 될 거라고 생각했어요. 실제
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:215
 msgid "You mean Malifor?"
-msgstr "말리포르 말이니?"
+msgstr "말리포르(Malifor) 말이니?"
 
 #. [message]: speaker=Elenia
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:220
@@ -5201,7 +5201,7 @@ msgstr "오 안돼! 라크샤스(Rakshas)는 그 금화로 많은 병사를 일�
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:63
 msgid "Aye. Well I ken it, Tallin."
-msgstr "예. 나도 그렇게 생각해요, 탈린."
+msgstr "예. 나도 그렇게 생각해요, 탈린(Tallin)."
 
 #. [case]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:70
@@ -5329,7 +5329,7 @@ msgstr "우리는 트롤의 흔적을 찾아 쫓을 것입니다. 그것은 우�
 #. [then]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:124
 msgid "Eryssa, what news of the elves?"
-msgstr "에릿사, 요정들에게 무슨일이 생겼어?"
+msgstr "에릿사(Eryssa), 요정들에게 무슨일이 생겼어?"
 
 #. [then]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:126
@@ -5578,7 +5578,7 @@ msgstr "입 닥쳐, 겁쟁이야!"
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:698
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:705
 msgid "Help Tallin defeat the enemy leaders"
-msgstr "탈린을 돕고 적 지도자를 무찌를 것"
+msgstr "탈린(Tallin)을 돕고 적 지도자를 무찌를 것"
 
 #. [unit]: id=Hidel, type=Elvish Marshal
 #. [unit]: type=Elvish Marshal, id=Hidel
@@ -5668,7 +5668,7 @@ msgstr "하이마드린(Himadrin)"
 #. [message]: speaker=Himadrin
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:921
 msgid "Which one of you rabble is Tallin?"
-msgstr "너희 폭도놈들중에 누가 탈린인가?"
+msgstr "너희 폭도놈들중에 누가 탈린(Tallin)인가?"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:926
@@ -5737,7 +5737,7 @@ msgstr "하이델(Hidel), 나를 구해준 분을 소개하겠어요. 탈린(Tal
 #. [message]: speaker=Hidel
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:1027
 msgid "It is an honor to meet you, Tallin."
-msgstr "만나서 영광입니다, 탈린."
+msgstr "만나서 영광입니다, 탈린(Tallin)."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:1032
@@ -5814,7 +5814,7 @@ msgstr "네, 저도 들었어요. 당신은 저를 존경하지만, 이 용감�
 #. [message]: speaker=Hidel
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:1119
 msgid "You must be the famous Tallin."
-msgstr "당신은 유명한 탈린이어야 합니다."
+msgstr "당신은 유명한 탈린(Tallin)이어야 합니다."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:1124
@@ -5908,7 +5908,7 @@ msgstr "발진(Rash)"
 #. [side]: type=Orcish Warlord, id=Al'Mar
 #: data/campaigns/Northern_Rebirth/scenarios/11a_The_Eastern_Flank.cfg:114
 msgid "Al’Mar"
-msgstr "알마르"
+msgstr "알마르(Mar)"
 
 #. [side]: type=Orcish Warlord, id=Ha'Tang
 #: data/campaigns/Northern_Rebirth/scenarios/11a_The_Eastern_Flank.cfg:130
@@ -5951,7 +5951,7 @@ msgstr "내 금화는 어디있지?!"
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/11a_The_Eastern_Flank.cfg:316
 msgid "It’s Rakshas!"
-msgstr "라크샤스다!"
+msgstr "라크샤스(Rakshas)다!"
 
 #. [message]: speaker=Gore
 #: data/campaigns/Northern_Rebirth/scenarios/11a_The_Eastern_Flank.cfg:321
@@ -6013,7 +6013,7 @@ msgstr "젠장! 겁쟁이가 도망쳐버렸어. 에릿사(Eryssa), 당신의 �
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/11a_The_Eastern_Flank.cfg:398
 msgid "Hidel?"
-msgstr "하이델?"
+msgstr "하이델(Hidel)?"
 
 #. [message]: speaker=Hidel
 #: data/campaigns/Northern_Rebirth/scenarios/11a_The_Eastern_Flank.cfg:403
@@ -6351,7 +6351,7 @@ msgstr "몇 시간의 힘든 여정 끝에 일행은 전투 현장에 도착했�
 #. [message]: id=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:464
 msgid "Sisal, how do you fare?"
-msgstr "시잘, 잘지냈어?"
+msgstr "시잘(Sisal), 잘지냈어?"
 
 #. [message]: id=Sisal
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:469
@@ -6429,7 +6429,7 @@ msgstr "아! 잘가요, 친구여. 지금 하이델(Hidel)에 참여하기위해
 #. [message]: id=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:548
 msgid "Sisal! Noooo!"
-msgstr "시잘! 안돼!"
+msgstr "시잘(Sisal)! 안돼!"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:553
@@ -6514,7 +6514,7 @@ msgstr "탈린(Tallin)"
 #. [side]: type=Orcish Warlord, id=Ar'Muff
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:155
 msgid "Ar’Muff"
-msgstr "아르머프"
+msgstr "아르머프(Muff)"
 
 #. [side]: type=Orcish Warlord, id=Calter
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:200
@@ -6785,7 +6785,7 @@ msgstr "하멜(Hamel)! 제기랄, 서쪽 측면 군대를 진압할 난쟁이들
 #. [message]: id=Eryssa,Elenia
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:1083
 msgid "Sisal! Noooo! Not you too!"
-msgstr "시잘! 안돼!!! 너무하군!"
+msgstr "시잘(Sisal)! 안돼!!! 너무하군!"
 
 #. [scenario]: id=14a_Epilogue
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:6
@@ -6810,7 +6810,7 @@ msgstr "결국, 라크샤스(Rakshas)는 패배했고 놈이 모았던 군대도
 #. [message]: id=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:81
 msgid "How is that, Tallin?"
-msgstr "어떻게 그런 일이, 탈린이?"
+msgstr "어떻게 그런 일이, 탈린(Tallin)이?"
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:85
@@ -6990,12 +6990,12 @@ msgstr "기꺼이, 탈린(Tallin). 우리는 우리가 필요 할때까지 Warde
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:206
 msgid "Stalrag?"
-msgstr "스탈라그?"
+msgstr "스탈라그(Stalrag)?"
 
 #. [message]: id=Stalrag
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:210
 msgid "I am yours to command, my lord Tallin."
-msgstr "명령에 따르겠습니다. 탈린 주군이여."
+msgstr "명령에 따르겠습니다. 탈린(Tallin) 주군이여."
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:214
@@ -7017,7 +7017,7 @@ msgstr "당신은 나와 신스플리터들을 현명하게 이끌었습니다. 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:233
 msgid "Camerin?"
-msgstr "카메린?"
+msgstr "카메린(Camerin)?"
 
 #. [message]: id=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:237
@@ -7029,7 +7029,7 @@ msgstr "헥, 그래요! 당신들과 함께 있어서 정말 즐거웠어요. �
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:248
 msgid "Elenia?"
-msgstr "엘레니아?"
+msgstr "엘레니아(Elenia)?"
 
 #. [message]: id=Elenia
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:252
@@ -7061,7 +7061,7 @@ msgstr "엘레니아(Elenia), 당신은 소중한 동맹이자 위대한 친구�
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:286
 msgid "Krash?"
-msgstr "크라쉬?"
+msgstr "크라쉬(Krash)?"
 
 #. [message]: id=Krash
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:290
@@ -7141,7 +7141,7 @@ msgstr "감사합니다, 탈린(Tallin). 살아있는 자와 죽은 자의 세�
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:343
 msgid "My thanks to you as well, Abhai. May you rest in peace."
-msgstr "감사의 당신에게뿐만 아니라, Abhai. 당신은 평화에서 휴식 할 수 있습니다."
+msgstr "감사의 당신에게뿐만 아니라, 아브하이(Abhai). 당신은 평화에서 휴식 할 수 있습니다."
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:349
@@ -7327,7 +7327,7 @@ msgstr "아....! 나는 이렇게 죽지만, 우리의 작전은... 끝나지 �
 #. [message]: role=Supporter
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:21
 msgid "No, Tallin, we can’t do it without you!"
-msgstr "아니, 탈린, 우리는 당신없이 그것을 할 수 없다!"
+msgstr "아니, 탈린(Tallin), 우리는 당신없이 그것을 할 수 없다!"
 
 #. [message]: speaker=Camerin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:42
@@ -7347,12 +7347,12 @@ msgstr "(<i>고통에 울부짓는다</i>)"
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:86
 msgid "Krash!"
-msgstr "크라쉬!"
+msgstr "크라쉬(Krash)!"
 
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:100
 msgid "It’s no good, Tallin, he is gone."
-msgstr "좋지 않군요 탈린, 그는 떠났습니다."
+msgstr "좋지 않군요 탈린(Tallin), 그는 떠났습니다."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:105
@@ -7712,7 +7712,7 @@ msgstr "아아, 당신은 나 없이 임무를 계속해야 해요!"
 #. [message]: speaker=Elenia
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:825
 msgid "Eryssa, no! Please don’t die!"
-msgstr "에릿사 언니! 안돼! 죽지 말아요!"
+msgstr "에릿사(Eryssa) 언니! 안돼! 죽지 말아요!"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:832

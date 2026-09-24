@@ -110,7 +110,7 @@ msgstr "평화의 끝"
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:22
 msgid "Defeat Alber"
-msgstr "알베르를 무찔러라"
+msgstr "알베르(Alber)를 무찔러라"
 
 #. [objective]: condition=lose
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:26
@@ -1254,7 +1254,7 @@ msgstr "자유다! 정말 고맙소, 검은 눈 아들이여. 나는 암살자�
 #. [scenario]: id=05_To_the_Harbor_of_Tirigaz
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:4
 msgid "To the Harbor of Tirigaz"
-msgstr "티리가즈 항구로 가는 길"
+msgstr "티리가즈(Tirigaz) 항구로 가는 길"
 
 #. [side]: type=Lich, id=Na-Mana
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:80
@@ -1442,7 +1442,7 @@ msgstr "아프만(Affman)"
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/06_Black_Flag.cfg:122
 msgid "Defeat Slowhand and Harman"
-msgstr "느린손과 하르만을 무찔러라"
+msgstr "느린손(Slowhand)과 하르만(Harman)을 무찔러라"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/06_Black_Flag.cfg:174
@@ -2122,7 +2122,7 @@ msgstr "명을 받들겠습니다, 부인."
 #. [scenario]: id=09_Shan_Taum_the_Smug
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:4
 msgid "Shan Taum the Smug"
-msgstr "교만한 자 샨 타움"
+msgstr "교만한 자 샨 타움(Shan Taum)"
 
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:20
@@ -2132,7 +2132,7 @@ msgstr "샨 타움(Shan Taum)의 위협으로부터 20 차례를 버틸 것"
 #. [objectives]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:24
 msgid "Defeat Shan Taum"
-msgstr "샨 타움을 무찔러라"
+msgstr "샨 타움(Shan Taum)을 무찔러라"
 
 #. [side]: type=Orcish Warlord, id=Shan Taum
 #. [unit]: type=Orcish Warlord, id=Shan Taum
@@ -2340,9 +2340,7 @@ msgstr "남쪽 다리를 파괴하라 (카포우에와 그뤼는 북쪽에 남�
 msgid ""
 "In order to recruit saurians later on, bring Inarix and at least four "
 "saurians to safety"
-msgstr ""
-"나중에 사우리언들을 소집하려면, Inarix와 함께 최소한 사우리언 4 기가 생존해"
-"야 합니다"
+msgstr "나중에 사우리언들을 소집하려면, 이나릭스(Inarix)와 함께 최소한 사우리언 4 기가 생존해야 합니다"
 
 #. [note]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:65
@@ -3753,7 +3751,7 @@ msgstr "마침내, 석달이 지나고, 카포우에와 그 지친 그러나 강
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/16_The_Coward.cfg:199
 msgid "Good morning, Shan Taum!"
-msgstr "좋은 아침이다, 샨 타움!"
+msgstr "좋은 아침이다, 샨 타움(Shan Taum)!"
 
 #. [message]: speaker=Shan Taum
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/16_The_Coward.cfg:206
@@ -4096,12 +4094,12 @@ msgstr "북부 동맹"
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:26
 msgid "Kill Shan Taum and Earl Lanbec’h"
-msgstr "샨 타움과 란벡흐 백작을 죽일 것"
+msgstr "샨 타움(Shan Taum)과 란벡흐 백작을 죽일 것"
 
 #. [objective]: condition=lose
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:37
 msgid "Death of Howgarth III"
-msgstr "호우가르쓰 3세의 죽음"
+msgstr "호우가르쓰(Howgarth) 3세의 죽음"
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:180

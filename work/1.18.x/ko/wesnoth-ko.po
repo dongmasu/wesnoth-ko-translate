@@ -1766,7 +1766,7 @@ msgstr "이 금화 하나가 나에게 10 배로 돌아오기를 빌겠어."
 #. [option]
 #: data/core/macros/items.cfg:54
 msgid "Peace throughout Wesnoth."
-msgstr "웨스노스 전역의 평화."
+msgstr "웨스노스(Wesnoth) 전역의 평화."
 
 #. [message]: speaker=unit
 #: data/core/macros/items.cfg:62
@@ -3406,13 +3406,13 @@ msgstr "장막"
 #. [core]: id=default
 #: data/cores.cfg:5
 msgid "Wesnoth (Default)"
-msgstr "웨스노스 (기본)"
+msgstr "웨스노스(Wesnoth) (기본)"
 
 #. [core]: id=default
 #: data/cores.cfg:8
 #| msgid "The Battle for Wesnoth Help"
 msgid "The standard Wesnoth core."
-msgstr "표준 웨스노스 핵심입니다."
+msgstr "표준 웨스노스(Wesnoth) 핵심입니다."
 
 #. [language]
 #: data/english.cfg:3
@@ -3754,12 +3754,12 @@ msgstr ""
 #. [server]
 #: data/game_config.cfg:4
 msgid "Official Wesnoth Server"
-msgstr "공식 웨스노스 서버"
+msgstr "공식 웨스노스(Wesnoth) 서버"
 
 #. [server]
 #: data/game_config.cfg:8
 msgid "Alternate Wesnoth Server"
-msgstr "대체(Wesnoth) 웨스노스 서버"
+msgstr "대체(Wesnoth) 웨스노스(Wesnoth) 서버"
 
 #. [label]: id=title
 #: data/gui/window/install_dependencies.cfg:37
@@ -4148,7 +4148,7 @@ msgstr "지도 편집기의 <i>지역</i> 메뉴를 사용하여 나중에 이�
 #: data/tips.cfg:5 data/tips.cfg:9 data/tips.cfg:13
 #| msgid "<i>― The Wesnoth Tactical Guide</i>"
 msgid "<i>― The Wesnoth Design Guide</i>"
-msgstr "<i>― 웨스노스 설계 안내서</i>"
+msgstr "<i>― 웨스노스(Wesnoth) 설계 안내서</i>"
 
 #. [tip]
 #: data/tips.cfg:8
@@ -4174,7 +4174,7 @@ msgstr "대장에게 경험치를 주는 것을 주저하지 말도록! 그대�
 #. [tip]
 #: data/tips.cfg:17 data/tips.cfg:149
 msgid "<i>― Great Mage Delfador, 516YW</i>"
-msgstr "<i>― 큰 마법사 델파도르, 웨스노스력 516년</i>"
+msgstr "<i>― 큰 마법사 델파도르(Delfador), 웨스노스력 516년</i>"
 
 #. [tip]
 #: data/tips.cfg:20
@@ -4195,7 +4195,7 @@ msgstr "당신은 <b>행동</b> 메뉴에서 <b>적 이동 범위 보기</b> 를
 #: data/tips.cfg:206 data/tips.cfg:214 data/tips.cfg:234 data/tips.cfg:242
 #: data/tips.cfg:250 data/tips.cfg:266 data/tips.cfg:271 data/tips.cfg:276
 msgid "<i>― The Wesnoth Tactical Guide</i>"
-msgstr "<i>― 웨스노스 전술 안내서</i>"
+msgstr "<i>― 웨스노스(Wesnoth) 전술 안내서</i>"
 
 #. [tip]
 #: data/tips.cfg:24
@@ -4208,7 +4208,7 @@ msgstr "<i>영리한</i> 특성을 가진 유닛들은 승급에 필요한 경�
 #. [tip]
 #: data/tips.cfg:25
 msgid "<i>― King Konrad, 536YW</i>"
-msgstr "<i>― 콘라드 왕, 웨스노스력 536년</i>"
+msgstr "<i>― 콘라드(Konrad) 왕, 웨스노스력 536년</i>"
 
 #. [tip]
 #: data/tips.cfg:28
@@ -4280,7 +4280,7 @@ msgstr "누리집 www.wesnoth.org 에서 전술 안내서, 기술 지원, 웨스
 #. [tip]
 #: data/tips.cfg:53
 msgid "<i>― The Wesnoth Community</i>"
-msgstr "<i>― 웨스노스 커뮤니티</i>"
+msgstr "<i>― 웨스노스(Wesnoth) 커뮤니티</i>"
 
 #. [tip]
 #: data/tips.cfg:56
@@ -4552,7 +4552,7 @@ msgstr "부상한 유닛의 회복을 기다리고 싶다면, 유닛을 한 줄�
 #. [tip]
 #: data/tips.cfg:157
 msgid "<i>― Princess Li’sar, 515YW</i>"
-msgstr "<i>― 리사르 공주, 웨스노스력 515년</i>"
+msgstr "<i>― 리사르(Li’sar) 공주, 웨스노스력 515년</i>"
 
 #. [tip]
 #: data/tips.cfg:160
@@ -4595,7 +4595,7 @@ msgstr "<i>신령</i> 공격은 언데드에 대해 매우 강력한 위력을 �
 #. [tip]
 #: data/tips.cfg:177
 msgid "<i>― Great Sage Dacyn, 626YW</i>"
-msgstr "<i>― 대현자 다신, 웨스노스력 626년</i>"
+msgstr "<i>― 대현자 다신(Dacyn), 웨스노스력 626년</i>"
 
 #. [tip]
 #: data/tips.cfg:180
@@ -4632,7 +4632,7 @@ msgstr "수준이 낮은 유닛을 빨리 수준 향상을 시키기 위해서�
 #. [tip]
 #: data/tips.cfg:193
 msgid "<i>― Queen Li’sar, 528YW</i>"
-msgstr "<i>― 리사르 여왕, 웨스노스력 528년</i>"
+msgstr "<i>― 리사르(Li’sar) 여왕, 웨스노스력 528년</i>"
 
 #. [tip]
 #. Whiteboard is another name for the Planning Mode
@@ -4716,7 +4716,7 @@ msgstr "특성이 튼튼한 유닛이 심각한 타격을 받고 있을 때에�
 #. [tip]
 #: data/tips.cfg:226 data/tips.cfg:238
 msgid "<i>― Lord Hamel of Knalga</i>"
-msgstr "<i>― 크날가의 하멜 군주</i>"
+msgstr "<i>― 크날가(Knalga)의 하멜(Hamel) 군주</i>"
 
 #. [tip]
 #: data/tips.cfg:229
@@ -4783,7 +4783,7 @@ msgstr "일부 고급 유닛은 <i>통솔</i>, <i>치유</i>, <i>은밀</i> 등�
 #: data/tips.cfg:254
 #| msgid "<i>― Memoirs of Gweddry, 627YW</i>"
 msgid "<i>― Sir Gerrick of Westin, 607YW</i>"
-msgstr "<i>― 웨스틴의 게릭 경, 웨스노스력 607년</i>"
+msgstr "<i>― 웨스틴(Westin)의 게릭(Gerrick) 경, 웨스노스력 607년</i>"
 
 #. [tip]
 #: data/tips.cfg:257
@@ -4797,7 +4797,7 @@ msgstr "오아시스의 깨끗한 물은 부상자들을 치료할 것입니다.
 #: data/tips.cfg:258
 #| msgid "<i>― King Konrad, 536YW</i>"
 msgid "<i>― Dominant Gorlack, 3YW</i>"
-msgstr "<i>― 지배하는 자 고를락, 웨스노스력 3년</i>"
+msgstr "<i>― 지배하는 자 고를락(Gorlack), 웨스노스력 3년</i>"
 
 #. [tip]
 #: data/tips.cfg:261
@@ -4811,7 +4811,7 @@ msgstr "유닛이 두 동맹 진영의 치료사 옆에 있으면 양쪽 차례�
 #: data/tips.cfg:262
 #| msgid "<i>― Lord Hamel of Knalga</i>"
 msgid "<i>― Lord Tallin of Knalga, 538 YW</i>"
-msgstr "<i>― 크날가의 하멜 군주, 웨스노스력 538년</i>"
+msgstr "<i>― 크날가(Knalga)의 하멜 군주, 웨스노스력 538년</i>"
 
 #. [tip]
 #: data/tips.cfg:265
@@ -5702,7 +5702,7 @@ msgstr "대화 메시지"
 
 #: src/desktop/windows_tray_notification.cpp:126 src/game_config.cpp:568
 msgid "The Battle for Wesnoth"
-msgstr "웨스노스 전쟁"
+msgstr "웨스노스(Wesnoth) 전쟁"
 
 #: src/font/text_formatting.cpp:52
 msgid "Invalid Color"
@@ -5887,7 +5887,7 @@ msgstr "네트워크 상대"
 
 #: src/game_initialization/connect_engine.cpp:1252
 msgid "Local Player"
-msgstr "로컬 플레이어"
+msgstr "로컬 플레이어(Player)"
 
 #: src/game_initialization/connect_engine.cpp:1254
 msgid "Nobody"
@@ -6226,11 +6226,11 @@ msgstr "불러오려는 파일이 손상되었습니다: '"
 
 #: src/game_launcher.cpp:741
 msgid "File I/O Error while reading the game"
-msgstr "게임 읽기 중 파일 I/O 오류"
+msgstr "게임 읽기 중 파일 I/오(O) 오(O)류"
 
 #: src/game_launcher.cpp:743
 msgid "File I/O Error while reading the game: '"
-msgstr "게임 읽기 중 파일 입/출력 오류: '"
+msgstr "게임 읽기 중 파일 입/출력 오(O)류: '"
 
 #: src/game_launcher.cpp:922
 msgid "Error while starting server: "

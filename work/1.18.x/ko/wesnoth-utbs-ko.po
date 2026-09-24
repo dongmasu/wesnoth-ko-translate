@@ -113,7 +113,7 @@ msgid ""
 "\n"
 "Units cannot be killed or deal no damage as a result of dehydration."
 msgstr ""
-"탈수증: 이 유닛은 탈수 상태입니다. 치료사는 증상의 악화를 막을 수 있고 오아시스의 물은 증상을 없앨 수 있지만, 증상이 있으면 한 낮에는 $dehydration HP를 잃고 한 차례마다 피해가 1씩 감소합니다. \n"
+"탈수증: 이 유닛은 탈수 상태입니다. 치료사는 증상의 악화를 막을 수 있고 오아시스의 물은 증상을 없앨 수 있지만, 증상이 있으면 한 낮에는 $dehydration 체력(HP)를 잃고 한 차례마다 피해가 1씩 감소합니다. \n"
 "\n"
 "유닛은 탈수증으로 인해 죽지는 않고, 공격 데미지가 0이 되지 않습니다."
 
@@ -183,7 +183,7 @@ msgstr "살아남은 엘프들을 구출하라"
 #. [objective]: condition=win
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:123
 msgid "Defeat Xanthos"
-msgstr "싼토스를 무찌를 것"
+msgstr "싼토스(Xanthos)를 무찌를 것"
 
 #. [objective]: condition=lose
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:133
@@ -198,7 +198,7 @@ msgstr "싼토스를 무찌를 것"
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:414
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:277
 msgid "Death of Kaleh"
-msgstr "칼레흐의 죽음"
+msgstr "칼레흐(Kaleh)의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:137
@@ -212,14 +212,14 @@ msgstr "칼레흐의 죽음"
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:361
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:418
 msgid "Death of Nym"
-msgstr "님의 죽음"
+msgstr "님(Nym)의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:141
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:221
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:255
 msgid "Death of Garak"
-msgstr "가라크의 죽음"
+msgstr "가라크(Garak)의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:154
@@ -233,7 +233,7 @@ msgstr "가라크의 죽음"
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:365
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:422
 msgid "Death of Zhul"
-msgstr "줄의 죽음"
+msgstr "줄(Zhul)의 죽음"
 
 #. [value]: type=Quenoth Fighter, gender=male
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:181
@@ -278,12 +278,12 @@ msgstr "탈리우(Taliu)"
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:232
 msgid "Hey Kaleh, are you in there?"
-msgstr "이봐 칼레흐, 거기 있어?"
+msgstr "이봐 칼레흐(Kaleh), 거기 있어?"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:237
 msgid "Nym, is that you?"
-msgstr "님, 너니?"
+msgstr "님(Nym), 너니?"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:242
@@ -376,7 +376,7 @@ msgstr "세일(Seil)"
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:380
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:581
 msgid "Kaleh, Nym, help us!"
-msgstr "칼레흐, 님, 도와줘!"
+msgstr "칼레흐(Kaleh), 님(Nym), 도와줘!"
 
 #. [message]: speaker=Nym
 #. [message]: speaker=Kaleh
@@ -1170,7 +1170,7 @@ msgstr "보세요, 오아시스입니다! 상쾌한 물 덕분에 우리 민족�
 #. [scenario]: id=02_Across_the_Harsh_Sands, role=Hunting Ogre
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:582
 msgid "Hunting Ogre"
-msgstr "오우거를 사냥"
+msgstr "오우거(Ogre)를 사냥"
 
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:617
@@ -1202,7 +1202,7 @@ msgstr "신선한 고기다!"
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:682
 msgid "Ogre ambush!"
-msgstr "오우거의 매복기습이다!"
+msgstr "오우거(Ogre)의 매복기습이다!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:692
@@ -1228,7 +1228,7 @@ msgstr "이봐! 저것좀 봐, 놈들이 뭔가 떨어뜨렸어... 돌로된 병
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:753
 msgid "Nym! No! Don’t open—"
-msgstr "님! 안돼! 열지—"
+msgstr "님(Nym)! 안돼! 열지—"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:763
@@ -1437,7 +1437,7 @@ msgstr "그의 성을 수색하던 중 우리는 금화로 가득 찬 상자를 
 #. [else]: role=Ogre Nomad
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1300
 msgid "Ogre Nomad"
-msgstr "오우거 유목민"
+msgstr "오우거(Ogre) 유목민"
 
 #. [message]: type=Ogre
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1312
@@ -1745,17 +1745,17 @@ msgstr "모든 언데드 대장을 무찌를 것"
 #. [objective]: condition=win
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:211
 msgid "Defeat Possessed Garak"
-msgstr "빙의된 가라크를 무찌를 것"
+msgstr "빙의된 가라크(Garak)를 무찌를 것"
 
 #. [objective]: condition=win
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:222
 msgid "Defeat Azkotep"
-msgstr "아즈코텝을 무찌를 것"
+msgstr "아즈코텝(Azkotep)을 무찌를 것"
 
 #. [objective]: condition=win
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:235
 msgid "Defeat Ystara"
-msgstr "이스타라를 무찌를 것"
+msgstr "이스타라(Ystara)를 무찌를 것"
 
 #. [objective]: condition=lose
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:266
@@ -1794,12 +1794,12 @@ msgstr "잘모르겠어요..."
 #. [message]: speaker=Azkotep
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:384
 msgid "We meet again, Ystara."
-msgstr "다시 만났구나, 이스타라."
+msgstr "다시 만났구나, 이스타라(Ystara)."
 
 #. [message]: speaker=Ystara
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:388
 msgid "You think you can take me, Azkotep?"
-msgstr "날 데려갈 수 있을 것 같으냐, 아즈코텝?"
+msgstr "날 데려갈 수 있을 것 같으냐, 아즈코텝(Azkotep)?"
 
 #. [message]: speaker=Azkotep
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:392
@@ -1908,7 +1908,7 @@ msgstr "이런 투사들... 그들은 내가 상대하겠습니다. 줄(Zhul), �
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:652
 msgid "Garak, but the suns..."
-msgstr "가라크, 하지만 아직 태양이 뜨지 않았어요..."
+msgstr "가라크(Garak), 하지만 아직 태양이 뜨지 않았어요..."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:656
@@ -2026,7 +2026,7 @@ msgstr "이렇게 끝이다... 니놈의 투사는 죽었다, 엘프족이여...
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:898
 msgid "Where is Garak? Has anybody seen him?"
-msgstr "가라크는 어디있나요? 그를 본 사람이 있나요?"
+msgstr "가라크(Garak)는 어디있나요? 그를 본 사람이 있나요?"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:902
@@ -2059,7 +2059,7 @@ msgstr "빙의된 가라크(Garak)"
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:979
 msgid "Eloh protect us, what has he done?"
-msgstr "엘로님이 우리를 지켜주십니다, 그가 무슨 짓을 한 거죠?"
+msgstr "엘로(Eloh)님이 우리를 지켜주십니다, 그가 무슨 짓을 한 거죠?"
 
 #. [message]: speaker=Possessed Garak
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:983
@@ -2105,12 +2105,12 @@ msgstr "하하하...!"
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:1153
 msgid "Eloh protect us, what is happening?"
-msgstr "엘로님 저희를 지켜주소서, 무슨 일이지?"
+msgstr "엘로(Eloh)님 저희를 지켜주소서, 무슨 일이지?"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:1166
 msgid "Garak?"
-msgstr "가라크?"
+msgstr "가라크(Garak)?"
 
 #. [message]: speaker=Possessed Garak
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:1170
@@ -2165,7 +2165,7 @@ msgstr "내가 너무 일찍 말했는지도 몰라. 젠장 우리아, 그는 �
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:1426
 msgid "But to kill Garak? How can we?"
-msgstr "하지만 가라크를 죽일수 밖에 없는건가? 어떻게 할 수 있습니까?"
+msgstr "하지만 가라크(Garak)를 죽일수 밖에 없는건가? 어떻게 할 수 있습니까?"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:1430
@@ -2324,7 +2324,7 @@ msgstr "줄(Zhul), 나 대신 소년을 지켜주세요, (<i>콜록</i>) 나는 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:1750
 msgid "What about Garak?"
-msgstr "가라크는 어떻게 되었어요?"
+msgstr "가라크(Garak)는 어떻게 되었어요?"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:1760
@@ -2721,7 +2721,7 @@ msgstr "나가(Naga) 호수"
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:568
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:569
 msgid "female^Lake Naga"
-msgstr "나가 호수"
+msgstr "나가(Naga) 호수"
 
 #. [message]: speaker=Orac
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:605
@@ -2925,7 +2925,7 @@ msgstr "복면의 인물"
 #. [message]: speaker=Cloaked Figure
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:1039
 msgid "Kaleh, I am death incarnate."
-msgstr "칼레흐, 나는 죽음의 화신이다."
+msgstr "칼레흐(Kaleh), 나는 죽음의 화신이다."
 
 #. [message]: speaker=Cloaked Figure
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:1045
@@ -3042,22 +3042,22 @@ msgstr "복면의 그림자를 무찌를 것"
 #. [objective]: condition=lose
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:367
 msgid "Death of Fundin"
-msgstr "푼딘의 죽음"
+msgstr "푼딘(Fundin)의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:374
 msgid "Death of Nori"
-msgstr "노리의 죽음"
+msgstr "노리(Nori)의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:381
 msgid "Death of Thungar"
-msgstr "툰가르의 죽음"
+msgstr "툰가르(Thungar)의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:388
 msgid "Death of Gnarl"
-msgstr "그나를의 죽음"
+msgstr "그나(Gnarl)를의 죽음"
 
 #. [unit]: type=Quenoth Flanker
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:439
@@ -3140,7 +3140,7 @@ msgid ""
 "shield, Kaleh. I think you should keep your doubts to yourself; it would not "
 "do to unduly worry our people. Eloh will always protect us, if we follow her "
 "path."
-msgstr "어디서 그런 생각이 난거니? 틀림없이 엘로(Eloh)께서는 태양이 우리를 비추고 있는 낮에 가장 강력해. 그러나 가장 어두운 밤에도 그녀는 그녀의 신자들을 보호할 것이라고 해. 황금시대로 거슬러 올라가도, 거룩한 엘프 전사들은 Eloh의 도움을 받아 지하에 숨어있는 오크와 다른 사악한 존재에 대항하여 성전을 이끌고 토벌하고 있습니다. 믿음은 우리의 방패야, 칼레흐(Kaleh). 네가 의심을 품지 말아야 한다고 생각해. 동료들에게 불필요한 불안을 줄 필요는 없잖아. 그녀의 길을 따른다면, 엘로(Eloh)께서는 언제든지 우리를 보호해 주실 거야."
+msgstr "어디서 그런 생각이 난거니? 틀림없이 엘로(Eloh)께서는 태양이 우리를 비추고 있는 낮에 가장 강력해. 그러나 가장 어두운 밤에도 그녀는 그녀의 신자들을 보호할 것이라고 해. 황금시대로 거슬러 올라가도, 거룩한 엘프 전사들은 엘로(Eloh)의 도움을 받아 지하에 숨어있는 오크와 다른 사악한 존재에 대항하여 성전을 이끌고 토벌하고 있습니다. 믿음은 우리의 방패야, 칼레흐(Kaleh). 네가 의심을 품지 말아야 한다고 생각해. 동료들에게 불필요한 불안을 줄 필요는 없잖아. 그녀의 길을 따른다면, 엘로(Eloh)께서는 언제든지 우리를 보호해 주실 거야."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:525
@@ -3237,7 +3237,7 @@ msgstr "와우! 지금 그거 봤어요? 그 큰 종유석이 거미위로 떨�
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:692
 msgid "Eloh must indeed be watching over us."
-msgstr "엘로께서 우릴  지켜보고 계신 게 틀림없어."
+msgstr "엘로(Eloh)께서 우릴  지켜보고 계신 게 틀림없어."
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:711
@@ -3264,7 +3264,7 @@ msgstr "도와주세요! 놈들이 거기 안에!"
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:757
 msgid "Nym, your timing is impeccable."
-msgstr "역시 님, 짜맞춘것처럼 완벽한 타이밍이네."
+msgstr "역시 님(Nym), 짜맞춘것처럼 완벽한 타이밍이네."
 
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:768
@@ -3314,7 +3314,7 @@ msgstr "수비병 난쟁이"
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:912
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:913
 msgid "Troll Defender"
-msgstr "수비병 트롤"
+msgstr "수비병 트롤(Troll)"
 
 #. [event]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:853
@@ -3324,7 +3324,7 @@ msgstr "난쟁이 대장"
 #. [event]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:873
 msgid "Troll Leader"
-msgstr "대장 트롤"
+msgstr "대장 트롤(Troll)"
 
 #. [message]: speaker=$explorer.id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:942
@@ -3335,7 +3335,7 @@ msgstr "와우."
 #. "this" refers to the trolls and dwarves fighting
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:949
 msgid "Whoa. Kaleh, you have to come see this."
-msgstr "와우. 칼레흐, 와서 이것 좀 보세요."
+msgstr "와우. 칼레흐(Kaleh), 와서 이것 좀 보세요."
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1055
@@ -3490,7 +3490,7 @@ msgstr "우리 바로 앞에 버려진 난쟁이제 요새가 있는 것 같습�
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1223
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1287
 msgid "Troll Skirmisher"
-msgstr "척후병 트롤"
+msgstr "척후병 트롤(Troll)"
 
 #. [else]
 #. [modify_unit]
@@ -3533,7 +3533,7 @@ msgstr "그나(Gnarl)"
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1542
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1553
 msgid "Troll Flamecaster"
-msgstr "트롤 화염술사"
+msgstr "트롤(Troll) 화염술사"
 
 #. [message]: speaker=Troll Flamecaster
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1558
@@ -3998,14 +3998,14 @@ msgstr "대장 트롤을 제거"
 #. [unit]: type=Troll, id=Troll Interrogator
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:280
 msgid "Troll Interrogator"
-msgstr "심문관 트롤"
+msgstr "심문관 트롤(Troll)"
 
 #. [unit]: type=Troll Whelp, id=Troll Assistant
 #. [unit]: type=Troll Whelp
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:295
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:323
 msgid "Troll Assistant"
-msgstr "조교 트롤"
+msgstr "조교 트롤(Troll)"
 
 #. [unit]: type=Troll Whelp, id=Ulg
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:309
@@ -4018,7 +4018,7 @@ msgstr "울그(Ulg)"
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:1230
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:1264
 msgid "Troll High Shaman"
-msgstr "대주술사 트롤"
+msgstr "대주술사 트롤(Troll)"
 
 #. [message]: speaker=Grimnir
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:403
@@ -4073,7 +4073,7 @@ msgstr "당신이 동료들을 제 위치로 배치시키면, 나는 발파할 �
 #. [unit]: id=Troll Brute, type=Troll
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:466
 msgid "Troll Brute"
-msgstr "난폭한 트롤"
+msgstr "난폭한 트롤(Troll)"
 
 #. [event]
 #. [unit]: type=Troll
@@ -4098,7 +4098,7 @@ msgstr "난폭한 트롤"
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07b_Talking_with_Trolls.cfg:292
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07b_Talking_with_Trolls.cfg:306
 msgid "Troll Guard"
-msgstr "트롤 경비병"
+msgstr "트롤(Troll) 경비병"
 
 #. [message]: speaker=Grimnir
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:497
@@ -4332,12 +4332,12 @@ msgstr "그리크나그흐의 가호가 있기 바랍니다. 빨리 돌아오겠
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:1255
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:1256
 msgid "Troll Reinforcements"
-msgstr "지원군 트롤"
+msgstr "지원군 트롤(Troll)"
 
 #. [unit]: type=Great Troll, id=Troll Chieftain
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:1292
 msgid "Troll Chieftain"
-msgstr "트롤 족장"
+msgstr "트롤(Troll) 족장"
 
 #. [unit]: type=Troll Shaman, id=High Advisor
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:1349
@@ -5708,27 +5708,27 @@ msgstr "외부를 탐색하라"
 #. [objective]: condition=win
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:413
 msgid "Defeat Sergeant Durstrag"
-msgstr "두르스트라그 하사를 무찌를 것"
+msgstr "두르스트라그(Durstrag) 하사를 무찌를 것"
 
 #. [objective]: condition=lose
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:434
 msgid "Death of Grog"
-msgstr "그로그의 죽음"
+msgstr "그로그(Grog)의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:442
 msgid "Death of Nog"
-msgstr "노그의 죽음"
+msgstr "노그(Nog)의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:450
 msgid "Death of Rogrimir"
-msgstr "로그리미르의 죽음"
+msgstr "로그리미르(Rogrimir)의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:458
 msgid "Death of Jarl"
-msgstr "자를의 죽음"
+msgstr "자를(Jarl)의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:466
@@ -5797,7 +5797,7 @@ msgstr "멀리서 뭔가 무너지는 소리가 난 것 같아. 그리고 그 �
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:593
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:614
 msgid "Troll Avenger"
-msgstr "복수자 트롤"
+msgstr "복수자 트롤(Troll)"
 
 #. [message]: role=avenger
 #. The grammar here is troll speech, and its second sentence merges the second and third sentences of the dwarven equivalent.
@@ -6494,7 +6494,7 @@ msgstr "주인님, 명령이 무엇입니까?"
 #. [message]: speaker=Kromph
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2077
 msgid "Kromph need command. Command me!"
-msgstr "크롬프는 명령이 필요합니다. 나에게 명령을 내려주십시오!"
+msgstr "크롬프(Kromph)는 명령이 필요합니다. 나에게 명령을 내려주십시오!"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2082
@@ -6707,7 +6707,7 @@ msgstr "나는 너 같은 어리석은 놈이 감히 우리의 안식을 방해�
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2367
 msgid "Got any other timely advice, Zhul?"
-msgstr "줄, 지금 이때 적당한 다른 조언은 없어요?"
+msgstr "줄(Zhul), 지금 이때 적당한 다른 조언은 없어요?"
 
 #. [message]: speaker=$ally_id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2372
@@ -6770,7 +6770,7 @@ msgstr "똑똑히 보아라, 칼레흐(Kaleh), 너의 가장 꺼림칙한 적의
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2474
 msgid "Oh Eloh save us, it’s... it’s an elf."
-msgstr "오 엘로님, 우릴 구해주세요, 저 녀석은... 엘프잖아요."
+msgstr "오 엘로(Eloh)님, 우릴 구해주세요, 저 녀석은... 엘프잖아요."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2479
@@ -6987,7 +6987,7 @@ msgstr "칼레, 너의 허락 하에, 나는 밖으로 정찰하러 가야 할 �
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2783
 msgid "You can go Nym, just be careful."
-msgstr "맡길게, 님, 그저 조심해."
+msgstr "맡길게, 님(Nym), 그저 조심해."
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2788
@@ -7228,7 +7228,7 @@ msgstr "엘로(Eloh)"
 #. [message]: speaker=Eloh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3256
 msgid "Kaleh, Kaleh, come to me."
-msgstr "칼레흐, 칼레흐, 나를 따라오너라."
+msgstr "칼레흐(Kaleh), 칼레흐(Kaleh), 나를 따라오너라."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3261
@@ -7248,7 +7248,7 @@ msgstr "나는 꿈을 꾸고 있습니까? 아니면 현실입니까? 지금 가
 #. [message]: speaker=Eloh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3280
 msgid "Hail Kaleh, it is I, Eloh."
-msgstr "너를 불렀다, 칼레흐, 나는 엘로이니라."
+msgstr "너를 불렀다, 칼레흐(Kaleh), 나는 엘로(Eloh)이니라."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3287
@@ -7267,7 +7267,7 @@ msgstr "나의 힘을 의심하는 것이냐? 너가 어둠 속에서 벗어났�
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3307
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3324
 msgid "Kaleh, who are you talking to?"
-msgstr "칼레흐, 누구랑 얘기하는 거야?"
+msgstr "칼레흐(Kaleh), 누구랑 얘기하는 거야?"
 
 #. [message]: speaker=Eloh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3312
@@ -7298,27 +7298,27 @@ msgstr "그래, 나는 내 백성들을 위험과 죽음에서 벗어나 영원�
 #. [message]: speaker=$ally_id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3350
 msgid "Kaleh, a quick question—"
-msgstr "칼레흐, 질문 하나 할—"
+msgstr "칼레흐(Kaleh), 질문 하나 할—"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3357
 msgid "Not now Grog, I’m busy."
-msgstr "그로그, 지금은 안돼요, 바쁩니다."
+msgstr "그로그(Grog), 지금은 안돼요, 바쁩니다."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3363
 msgid "Not now Nog, I’m busy."
-msgstr "노그, 지금은 안돼요, 바쁩니다."
+msgstr "노그(Nog), 지금은 안돼요, 바쁩니다."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3369
 msgid "Not now Rogrimir, I’m busy."
-msgstr "로그리미르, 지금은 안돼요, 바쁩니다."
+msgstr "로그리미르(Rogrimir), 지금은 안돼요, 바쁩니다."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3375
 msgid "Not now Jarl, I’m busy."
-msgstr "자를, 지금은 안돼요, 바쁩니다."
+msgstr "자를(Jarl), 지금은 안돼요, 바쁩니다."
 
 #. [message]: speaker=Eloh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3381
@@ -7587,7 +7587,7 @@ msgstr "나는 아무래도 인간이란 놈들은 좋아할 수 없어요. 하�
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3704
 msgid "I’m back, Kaleh."
-msgstr "내가 돌아왔어, 칼레흐."
+msgstr "내가 돌아왔어, 칼레흐(Kaleh)."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3709
@@ -8163,7 +8163,7 @@ msgstr "16번의 차례안에 적어도 2 명의 인어를 구출하라"
 #. [objective]: condition=win
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:335
 msgid "Defeat Tanstafaal and Eloh"
-msgstr "탄스타파알과 엘로를 무찔러라"
+msgstr "탄스타파알(Tanstafaal)과 엘로(Eloh)를 무찔러라"
 
 #. [objective]: condition=win
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:346
@@ -9513,7 +9513,7 @@ msgstr "우리는 이미 많은 낯선 곳으로 여행을 했고, 그래도 살
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:2505
 msgid "Wherever you go Kaleh, I will follow."
-msgstr "칼레흐, 너가 간다면 나도 갈거야."
+msgstr "칼레흐(Kaleh), 너가 간다면 나도 갈거야."
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:2509
@@ -9667,7 +9667,7 @@ msgstr "아니요, 자신을 소개하지 않아도 돼요. 나는 이미 당신
 #. [message]: speaker=Grog
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:183
 msgid "Grog says thank you."
-msgstr "그로그가 고맙다고 말했다."
+msgstr "그로그(Grog)가 고맙다고 말했다."
 
 #. [message]: speaker=Melusand
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:189
@@ -9681,7 +9681,7 @@ msgstr "아니요, 자신을 소개하지 않아도 돼요. 나는 이미 당신
 #. [message]: speaker=Nog
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:194
 msgid "Nog says thank you."
-msgstr "노그가 고맙다고 말했다."
+msgstr "노그(Nog)가 고맙다고 말했다."
 
 #. [message]: speaker=Melusand
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:200
@@ -10100,7 +10100,7 @@ msgstr "알아! 알고 있다고! 너는 내가 그 벌로 목숨을 끊길 바�
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:482
 msgid "No, no, no one is blaming you, Kaleh."
-msgstr "아니, 아니야, 아무도 널 탓하지 않아, 칼레흐."
+msgstr "아니, 아니야, 아무도 널 탓하지 않아, 칼레흐(Kaleh)."
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:487
@@ -10515,7 +10515,7 @@ msgstr "사로잡힌 인어"
 #. [objective]: condition=win
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:375
 msgid "Kaleh must capture a keep"
-msgstr "칼레흐가 아성을 점령해야 한다"
+msgstr "칼레흐(Kaleh)가 아성을 점령해야 한다"
 
 #. [objective]: condition=win
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:382
@@ -10645,7 +10645,7 @@ msgstr "겨우 입 다물어 주니 맑아졌다. 기분이 나쁜 녀석이었�
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:648
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:666
 msgid "Naga Leader"
-msgstr "나가 대장"
+msgstr "나가(Naga) 대장"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:695
@@ -10934,7 +10934,7 @@ msgstr "그럴지도 모르지. 하지만 내 결정때문에 너무 많은 사�
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:1325
 msgid "May Eloh protect you."
-msgstr "엘로의 가호가 있기를."
+msgstr "엘로(Eloh)의 가호가 있기를."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:1330
@@ -11046,17 +11046,17 @@ msgstr "최후의 대결"
 #. [objective]: condition=win
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:257
 msgid "Defeat the false Eloh"
-msgstr "가짜 엘로를 물리칠것"
+msgstr "가짜 엘로(Eloh)를 물리칠것"
 
 #. [objective]: condition=win
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:267
 msgid "Defeat Yechnagoth"
-msgstr "예크나고쓰를 물리칠것"
+msgstr "예크나고쓰(Yechnagoth)를 물리칠것"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:303
 msgid "Kaleh! No!"
-msgstr "칼레흐! 안돼!"
+msgstr "칼레흐(Kaleh)! 안돼!"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:329
@@ -11091,12 +11091,12 @@ msgstr "그래서 이 엘프의 보잘것없는 친구들이 그를 구할 수 �
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:422
 msgid "Nym, Zhul, Grog, you shouldn’t have."
-msgstr "님, 줄, 그로그 오지 말았어야 했어요."
+msgstr "님(Nym), 줄(Zhul), 그로그(Grog) 오지 말았어야 했어요."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:428
 msgid "Nym, Zhul, Nog, you shouldn’t have."
-msgstr "님, 줄, 노그 오지 말았어야 했어요."
+msgstr "님(Nym), 줄(Zhul), 노그(Nog) 오지 말았어야 했어요."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:434
@@ -11106,12 +11106,12 @@ msgstr "님(Nym), 줄(Zhul), 로그리미르(Rogrimir) 오지 말았어야 했�
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:441
 msgid "Nym, Zhul, Jarl, you shouldn’t have."
-msgstr "님, 줄, 자를 오지 말았어야 했어요."
+msgstr "님(Nym), 줄(Zhul), 자를(Jarl) 오지 말았어야 했어요."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:449
 msgid "Nym, Zhul, you shouldn’t have."
-msgstr "님, 줄 오지 말았어야 했어요."
+msgstr "님(Nym), 줄(Zhul) 오지 말았어야 했어요."
 
 #. [message]: speaker=Eloh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:456
@@ -11145,7 +11145,7 @@ msgstr "지레아(Zylea)"
 #. [message]: speaker=Anarion
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:518
 msgid "All hail Eloh!"
-msgstr "엘로 만세!"
+msgstr "엘로(Eloh) 만세!"
 
 #. [message]: speaker=Zylea
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:523
@@ -11262,7 +11262,7 @@ msgstr "저건 뭐지?!"
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:855
 msgid "Eloh protect us!"
-msgstr "엘로여, 우리를 지켜주소서!"
+msgstr "엘로(Eloh)여, 우리를 지켜주소서!"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:896
@@ -11328,12 +11328,12 @@ msgstr "드디어. 끝났어요."
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:1450
 msgid "Is Yechnagoth really dead?"
-msgstr "예크나고쓰는 정말 죽었나요?"
+msgstr "예크나고쓰(Yechnagoth)는 정말 죽었나요?"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:1456
 msgid "Yes, she’s dead Nym."
-msgstr "그래, 그녀는 죽었어, 님."
+msgstr "그래, 그녀는 죽었어, 님(Nym)."
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/12_The_Final_Confrontation.cfg:1461
@@ -11894,7 +11894,7 @@ msgstr "내가 여기에 기록한 사건들이 있은 지 몇 년이 지났고,
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:458
 msgid "Hey Kaleh, how’s the writing going?"
-msgstr "이봐 칼레흐, 글쓰는 것은 어떻게 되어가고 있어?"
+msgstr "이봐 칼레흐(Kaleh), 글쓰는 것은 어떻게 되어가고 있어?"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:463
@@ -11983,7 +11983,7 @@ msgstr "침략자의 재생"
 msgid ""
 "The unit will heal itself 150 HP per turn. If it is poisoned, it will remove "
 "the poison instead of healing."
-msgstr "이 유닛은 차례마다 자신의 HP를 150 만큼 스스로 치유합니다. 중독되면 회복하는 대신 독을 제거합니다."
+msgstr "이 유닛은 차례마다 자신의 체력(HP)를 150 만큼 스스로 치유합니다. 중독되면 회복하는 대신 독을 제거합니다."
 
 #. [unit_type]: id=Central Body2
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Alien_Body.cfg:114
@@ -12065,7 +12065,7 @@ msgstr "모래 먼지 흡수"
 #. [regenerate]
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Dust_Devil.cfg:75
 msgid "The unit will heal itself 6 HP per turn on sand or dirt terrain."
-msgstr "이 유닛은 모래나 흙 지형에서 차례마다 자신의 HP를 6만큼 스스로 치유합니다."
+msgstr "이 유닛은 모래나 흙 지형에서 차례마다 자신의 체력(HP)를 6만큼 스스로 치유합니다."
 
 #. [advancement]: id=Dust1
 #: data/campaigns/Under_the_Burning_Suns/units/monsters/Dust_Devil.cfg:81
@@ -12129,22 +12129,22 @@ msgstr "작은 질퍽이"
 #. [unit_type]: id=Naga Guardian
 #: data/campaigns/Under_the_Burning_Suns/units/nagas/Naga_Guardians.cfg:5
 msgid "Naga Guardian"
-msgstr "나가 지킴이"
+msgstr "나가(Naga) 지킴이"
 
 #. [unit_type]: id=Naga Warden
 #: data/campaigns/Under_the_Burning_Suns/units/nagas/Naga_Guardians.cfg:19
 msgid "Naga Warden"
-msgstr "나가 파수꾼"
+msgstr "나가(Naga) 파수꾼"
 
 #. [unit_type]: id=Naga Sentinel
 #: data/campaigns/Under_the_Burning_Suns/units/nagas/Naga_Guardians.cfg:33
 msgid "Naga Sentinel"
-msgstr "나가 보초병"
+msgstr "나가(Naga) 보초병"
 
 #. [unit_type]: id=Naga Hunter, race=naga
 #: data/campaigns/Under_the_Burning_Suns/units/nagas/Naga_Hunter.cfg:4
 msgid "Naga Hunter"
-msgstr "나가 사냥꾼"
+msgstr "나가(Naga) 사냥꾼"
 
 #. [unit_type]: id=Naga Hunter, race=naga
 #: data/campaigns/Under_the_Burning_Suns/units/nagas/Naga_Hunter.cfg:18
@@ -13581,12 +13581,12 @@ msgstr "나는 죽기에는 너무 어리다. 나의 동료들은 어떻게 되�
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/utils/deaths.cfg:37
 msgid "Save me, Kaleh, I’m dying..."
-msgstr "살려줘, 칼레흐, 죽을 것 같아..."
+msgstr "살려줘, 칼레흐(Kaleh), 죽을 것 같아..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/utils/deaths.cfg:58
 msgid "Eloh protect us, I have fallen."
-msgstr "엘로여, 모두를 지켜주소서, 저는 여기까지인것 같습니다."
+msgstr "엘로(Eloh)여, 모두를 지켜주소서, 저는 여기까지인것 같습니다."
 
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/utils/deaths.cfg:80
@@ -13669,7 +13669,7 @@ msgstr "회복됨"
 #. Floating text shown when Garak's teaching ability transfers experience points
 #: data/campaigns/Under_the_Burning_Suns/utils/garak-abilities.cfg:56
 msgid "+$amount XP"
-msgstr "경험치 +$amount"
+msgstr "경험치(XP) +$amount"
 
 #. [part]
 #: data/campaigns/Under_the_Burning_Suns/utils/storytxt.cfg:7

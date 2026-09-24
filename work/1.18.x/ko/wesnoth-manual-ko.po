@@ -31,7 +31,7 @@ msgstr "ko"
 #. type: Content of: <book><bookinfo><title>
 #: doc/manual/manual.en.xml:8
 msgid "Battle for Wesnoth User&#8217;s Manual"
-msgstr "웨스노스의 전쟁 사용자 설명서"
+msgstr "웨스노스(Wesnoth)의 전쟁 사용자 설명서"
 
 # type: Content of: <book><preface><title>
 #. type: Content of: <book><preface><title>
@@ -382,7 +382,7 @@ msgstr "종료"
 #. type: Content of: <book><chapter><section><variablelist><varlistentry><listitem><simpara>
 #: doc/manual/manual.en.xml:227
 msgid "Click this button to close Wesnoth."
-msgstr "이 버튼을 클릭하여 웨스노스를 닫습니다."
+msgstr "이 버튼을 클릭하여 웨스노스(Wesnoth)를 닫습니다."
 
 # type: Content of: <book><chapter><section><variablelist><varlistentry><term>
 #. type: Content of: <book><chapter><section><variablelist><varlistentry><term>
@@ -494,7 +494,7 @@ msgid ""
 "The campaign is the primary form in which Wesnoth is intended to be played, "
 "is probably the most enjoyable, and is the recommended way for new players "
 "to learn the game."
-msgstr "캠페인은 Wesnoth를 플레이하도록 의도된 주요 형태이며, 아마도 가장 즐길 수 있는 방식이며, 새로운 플레이어가 게임을 배우기 위한 권장 방법입니다."
+msgstr "캠페인은 웨스노스(Wesnoth)를 플레이하도록 의도된 주요 형태이며, 아마도 가장 즐길 수 있는 방식이며, 새로운 플레이어가 게임을 배우기 위한 권장 방법입니다."
 
 # type: Content of: <book><chapter><section><section><title>
 #. type: Content of: <book><chapter><section><section><title>
@@ -526,7 +526,7 @@ msgid ""
 "play time is only a few hours. When playing just a single scenario, your "
 "units won&#8217;t carry to future games and building up your army&#8217;s "
 "strength is possible only within the scenario."
-msgstr "일반적으로 멀티플레이어 게임은 인터넷을 통해 다른 플레이어와 플레이합니다 (LAN이 있는 경우 LAN에서도 실행할 수 있습니다). 이 모든 게임은 Wesnoth 멀티플레이어 서버를 통해 조정됩니다. 멀티플레이어 게임은 플레이어 수 (및 맵 크기)에 따라 1시간에서 10시간까지 걸릴 수 있습니다. 평균 시간은 3시간에서 7시간 사이입니다. 게임은 원하는 만큼 저장하고 불러올 수 있습니다. 따라서 플레이 시간은 몇 시간밖에 안 되더라도 일부 게임은 1~2주 동안 지속될 수 있습니다. 단일 시나리오만 플레이할 때는 유닛이 다음 게임으로 이어지지 않으며, 군대의 강화를 구축하는 것은 시나리오 내에서만 가능합니다."
+msgstr "일반적으로 멀티플레이어 게임은 인터넷을 통해 다른 플레이어와 플레이합니다 (LAN이 있는 경우 LAN에서도 실행할 수 있습니다). 이 모든 게임은 웨스노스(Wesnoth) 멀티플레이어 서버를 통해 조정됩니다. 멀티플레이어 게임은 플레이어 수 (및 맵 크기)에 따라 1시간에서 10시간까지 걸릴 수 있습니다. 평균 시간은 3시간에서 7시간 사이입니다. 게임은 원하는 만큼 저장하고 불러올 수 있습니다. 따라서 플레이 시간은 몇 시간밖에 안 되더라도 일부 게임은 1~2주 동안 지속될 수 있습니다. 단일 시나리오만 플레이할 때는 유닛이 다음 게임으로 이어지지 않으며, 군대의 강화를 구축하는 것은 시나리오 내에서만 가능합니다."
 
 # type: Content of: <book><chapter><section><section><simpara>
 #. type: Content of: <book><chapter><section><section><simpara>
@@ -1488,7 +1488,7 @@ msgid ""
 "a unit that has some combination of low hitpoints, good defense, or high "
 "resistances. Resilient units are especially useful for holding strategic "
 "positions against opponents."
-msgstr "강인한 유닛은 평소보다 체력(HP)이 4 HP 더 많고 레벨당 1 HP가 추가로 증가합니다. 강인한 유닛은 캠페인의 모든 단계에서 유용할 수 있으며, 모든 유닛에게 유용한 특성입니다. 강인함은 낮은 체력(HP), 좋은 방어력 또는 높은 저항력의 조합을 가진 유닛에서 가장 유용하게 작용하는 경우가 많습니다. 강인한 유닛은 특히 적을 상대로 전략적 위치를 지키는 데 유용합니다."
+msgstr "강인한 유닛은 평소보다 체력(HP)이 4 체력(HP) 더 많고 레벨당 1 체력(HP)가 추가로 증가합니다. 강인한 유닛은 캠페인의 모든 단계에서 유용할 수 있으며, 모든 유닛에게 유용한 특성입니다. 강인함은 낮은 체력(HP), 좋은 방어력 또는 높은 저항력의 조합을 가진 유닛에서 가장 유용하게 작용하는 경우가 많습니다. 강인한 유닛은 특히 적을 상대로 전략적 위치를 지키는 데 유용합니다."
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 #: doc/manual/manual.en.xml:939
@@ -1570,7 +1570,7 @@ msgid ""
 "rest heal even when traveling or fighting.  Healthy units have 1 HP plus 1 "
 "HP per level more than usual and rest heal the usual 2 HP after each turn "
 "regardless."
-msgstr "활력으로 유명한 일부 드워프는 다른 드워프보다 더 튼튼하며 이동하거나 싸우는 중에도 휴식을 취하며 회복할 수 있습니다. 건강한 유닛은 평소보다 체력(HP)이 1 HP 더 많고 레벨당 1 HP가 추가로 증가하며, 턴마다 평소와 같이 2 HP를 회복합니다."
+msgstr "활력으로 유명한 일부 드워프는 다른 드워프보다 더 튼튼하며 이동하거나 싸우는 중에도 휴식을 취하며 회복할 수 있습니다. 건강한 유닛은 평소보다 체력(HP)이 1 체력(HP) 더 많고 레벨당 1 체력(HP)가 추가로 증가하며, 턴마다 평소와 같이 2 체력(HP)를 회복합니다."
 
 # type: Content of: <book><chapter><section><section><simpara>
 #. type: Content of: <book><chapter><section><section><simpara>
@@ -1828,7 +1828,7 @@ msgid ""
 "This attack poisons the target. Poisoned units lose 8 HP every turn until "
 "they are cured or are reduced to 1 HP. Poison can not, of itself, kill a "
 "unit."
-msgstr "이 공격은 대상을 중독시킵니다. 중독된 유닛은 치료되거나 체력(HP)이 1 HP가 될 때까지 매 턴마다 8 HP를 잃습니다. 독 자체로는 유닛을 죽일 수 없습니다."
+msgstr "이 공격은 대상을 중독시킵니다. 중독된 유닛은 치료되거나 체력(HP)이 1 체력(HP)가 될 때까지 매 턴마다 8 체력(HP)를 잃습니다. 독 자체로는 유닛을 죽일 수 없습니다."
 
 # type: Content of: <book><chapter><section><section><variablelist><varlistentry><listitem><simpara>
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><listitem><simpara>
@@ -1959,7 +1959,7 @@ msgid ""
 "poison from taking effect for that turn.  A poisoned unit cannot be cured of "
 "its poison by a healer, and must seek the care of a village or a unit that "
 "can cure."
-msgstr "매 턴 시작 시 인접한 아군 유닛을 치유할 수 있습니다. 이 치유자의 보살핌을 받는 유닛은 턴당 최대 4 HP를 회복하거나 해당 턴에 독의 효과를 멈출 수 있습니다. 중독된 유닛은 치유자에 의해 독이 치료될 수 없으며, 마을이나 치료할 수 있는 유닛의 도움을 받아야 합니다."
+msgstr "매 턴 시작 시 인접한 아군 유닛을 치유할 수 있습니다. 이 치유자의 보살핌을 받는 유닛은 턴당 최대 4 체력(HP)를 회복하거나 해당 턴에 독의 효과를 멈출 수 있습니다. 중독된 유닛은 치유자에 의해 독이 치료될 수 없으며, 마을이나 치료할 수 있는 유닛의 도움을 받아야 합니다."
 
 # type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
@@ -1976,7 +1976,7 @@ msgid ""
 "healer may heal up to 8 HP per turn, or stop poison from taking effect for "
 "that turn.  A poisoned unit cannot be cured of its poison by a healer, and "
 "must seek the care of a village or a unit that can cure."
-msgstr "이 유닛은 약초 요법과 마법을 결합하여 전장에서 일반적으로 가능한 것보다 더 빠르게 유닛을 치유합니다. 이 치유자의 보살핌을 받는 유닛은 턴당 최대 8 HP를 회복하거나 해당 턴에 독의 효과를 멈출 수 있습니다. 중독된 유닛은 치유자에 의해 독이 치료될 수 없으며, 마을이나 치료할 수 있는 유닛의 도움을 받아야 합니다."
+msgstr "이 유닛은 약초 요법과 마법을 결합하여 전장에서 일반적으로 가능한 것보다 더 빠르게 유닛을 치유합니다. 이 치유자의 보살핌을 받는 유닛은 턴당 최대 8 체력(HP)를 회복하거나 해당 턴에 독의 효과를 멈출 수 있습니다. 중독된 유닛은 치유자에 의해 독이 치료될 수 없으며, 마을이나 치료할 수 있는 유닛의 도움을 받아야 합니다."
 
 # type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
@@ -3087,7 +3087,7 @@ msgid ""
 "higher level units weaken an enemy, but cede the kill to a unit more in need "
 "of the XP. Healers in particular are often weak in combat and often need to "
 "<emphasis>steal</emphasis> kills in this way to advance levels."
-msgstr "유닛은 적 유닛을 죽임으로써 가장 많은 경험치(XP)를 얻습니다(죽인 유닛 레벨당 8XP). 따라서 종종 상위 레벨 유닛이 적을 약화시키고, XP가 더 필요한 유닛에게 마무리 공격을 양보하는 것이 합리적입니다. 특히 치유자는 전투에서 종종 약하며, 레벨을 올리기 위해 이러한 방식으로 마무리를 <emphasis>가로채야</emphasis> 할 필요가 많습니다."
+msgstr "유닛은 적 유닛을 죽임으로써 가장 많은 경험치(XP)를 얻습니다(죽인 유닛 레벨당 8XP). 따라서 종종 상위 레벨 유닛이 적을 약화시키고, 경험치(XP)가 더 필요한 유닛에게 마무리 공격을 양보하는 것이 합리적입니다. 특히 치유자는 전투에서 종종 약하며, 레벨을 올리기 위해 이러한 방식으로 마무리를 <emphasis>가로채야</emphasis> 할 필요가 많습니다."
 
 # type: Content of: <book><chapter><section><section><simpara>
 #. type: Content of: <book><chapter><section><section><simpara>

@@ -537,7 +537,7 @@ msgstr "그럼 적들이 더 오기 전에 오크의 기지 중 한곳을 쳐서
 #. [message]: id=Anduilas
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:372
 msgid "Very well, Kalenz — lead us!"
-msgstr "좋네, 칼렌츠 — 우릴 이끌어주게!"
+msgstr "좋네, 칼렌츠(Kalenz) — 우릴 이끌어주게!"
 
 #. [objective]: condition=win
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:386
@@ -547,7 +547,7 @@ msgstr "오크 대장들 중 아무나 죽일 것"
 #. [objective]: condition=win
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:391
 msgid "Keep Velon alive"
-msgstr "Velon을 생존시키기"
+msgstr "벨론(Velon)을 생존시키기"
 
 #. [objective]: condition=lose
 #. [objective]: condition=win
@@ -571,7 +571,7 @@ msgstr "Velon을 생존시키기"
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/22_Northern_Battle.cfg:305
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/23_End_of_War.cfg:119
 msgid "Death of Kalenz"
-msgstr "칼렌츠의 죽음"
+msgstr "칼렌츠(Kalenz)의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:399
@@ -591,7 +591,7 @@ msgstr "칼렌츠의 죽음"
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/19_Costly_Revenge.cfg:224
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/22_Northern_Battle.cfg:309
 msgid "Death of Landar"
-msgstr "란다르의 죽음"
+msgstr "란다르(Landar)의 죽음"
 
 #. [message]: id=Velon
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:425
@@ -613,7 +613,7 @@ msgstr "아! 칼렌츠(Kalenz)가 옳았고 내가 틀렸구나. 도망쳐라. �
 #. [message]: id=Velon
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:452
 msgid "Flee, Kalenz... find vengeance for us!"
-msgstr "달아나게, 칼렌츠... 우리의 복수를 해주게!"
+msgstr "달아나게, 칼렌츠(Kalenz)... 우리의 복수를 해주게!"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/01_The_Uprooting.cfg:456
@@ -796,7 +796,7 @@ msgstr "칼렌츠(Kalenz)나 란다르(Landar)는 반드시 표지판에 도착�
 #. [objective]: condition=win
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/02_Hostile_Mountains.cfg:512
 msgid "Defeat Grugl"
-msgstr "그루글을 무찌를것"
+msgstr "그루글(Grugl)을 무찌를것"
 
 #. [objective]: condition=lose
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/02_Hostile_Mountains.cfg:524
@@ -807,12 +807,12 @@ msgstr "그루글을 무찌를것"
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/14_Human_Alliance.cfg:265
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/17_Breaking_the_Siege.cfg:279
 msgid "Death of Olurf"
-msgstr "올루프의 죽음"
+msgstr "올루프(Olurf)의 죽음"
 
 #. [message]: speaker={SPEAKER_NAME}
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/02_Hostile_Mountains.cfg:540
 msgid "We made it. Onwards to Wesmere!"
-msgstr "해냈다. 웨스미어로 가자!"
+msgstr "해냈다. 웨스미어(Wesmere)로 가자!"
 
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/02_Hostile_Mountains.cfg:551
@@ -938,13 +938,13 @@ msgstr "모든 적 지도자를 무찔러라."
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand.cfg:319
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/14_Human_Alliance.cfg:277
 msgid "Death of Galtrid"
-msgstr "갈트리드의 죽음"
+msgstr "갈트리드(Galtrid)의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/03_Kalian_under_Attack.cfg:810
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/03_Kalian_under_Attack.cfg:882
 msgid "Death of Eradion"
-msgstr "에라디온의 죽음"
+msgstr "에라디온(Eradion)의 죽음"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/03_Kalian_under_Attack.cfg:832
@@ -1215,7 +1215,7 @@ msgstr "기꺼이 그대의 도움을 받겠소, 우리가 저 침략자들을 �
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/22_Northern_Battle.cfg:287
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/23_End_of_War.cfg:123
 msgid "Death of Cleodil"
-msgstr "클레오딜의 죽음"
+msgstr "클레오딜(Cleodil)의 죽음"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/04_The_Elvish_Treasury.cfg:374
@@ -1886,7 +1886,7 @@ msgstr "나무붙이, 내가 너희의 소중한 수도가 불타고 파괴되�
 msgid ""
 "Galtrid, my friend. Do not let my death be in vain. Destroy these foul orcs, "
 "and sing for me in the green woods when we have won."
-msgstr "Galtrid, 내 친우여. 내 죽음을 헛되게 하지 말아주게. 이 추악한 오크족을 무찌르고, 우리가 승리하면 푸른 숲속에서 나를 위해 노래해주게."
+msgstr "갈트리드(Galtrid), 내 친우여. 내 죽음을 헛되게 하지 말아주게. 이 추악한 오크족을 무찌르고, 우리가 승리하면 푸른 숲속에서 나를 위해 노래해주게."
 
 #. [message]: id=Galtrid
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/07_Elves_Last_Stand.cfg:651
@@ -2154,7 +2154,7 @@ msgstr "현상금 사냥꾼들"
 #| "Chapter Three,\n"
 #| "<i>The Book of Crelanu</i>"
 msgid "Chapter Three: The Book of Crelanu"
-msgstr "제 3 장: 크렐라누의 책"
+msgstr "제 3 장: 크렐라누(Crelanu)의 책"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:27
@@ -2215,7 +2215,7 @@ msgstr "숙련된 전사들"
 #. [objective]: condition=win
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:301
 msgid "Kalenz crosses the river"
-msgstr "칼렌츠가 강을 건넌다"
+msgstr "칼렌츠(Kalenz)가 강을 건넌다"
 
 #. [message]: id=Huurgh
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:332
@@ -2308,7 +2308,7 @@ msgstr "란다르(Landar)는 카리안을 떠나오기 전에 $left_behind_landa
 #. [message]: speaker=unit
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:411
 msgid "We made it. Onwards to Thoria!"
-msgstr "해냈다! 토리아로 가자!"
+msgstr "해냈다! 토리아(Thoria)로 가자!"
 
 #. [message]: id=Olurf
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/09_Bounty_Hunters.cfg:415
@@ -2392,7 +2392,7 @@ msgstr "그리폰(Gryphon) 대장"
 #. [objective]: condition=win
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/10_Cliffs_of_Thoria.cfg:186
 msgid "Reach the signpost with Kalenz"
-msgstr "칼렌츠가 표지판에 도달"
+msgstr "칼렌츠(Kalenz)가 표지판에 도달"
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/10_Cliffs_of_Thoria.cfg:225
@@ -2574,12 +2574,12 @@ msgstr "아아, 전투! 아마도 이것이 내 운명인지 모르지. 가세 �
 #. [objective]: condition=win
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/11_Battle_of_the_Book.cfg:209
 msgid "Defeat Aquagar"
-msgstr "아쿠아가르를 무찌를것"
+msgstr "아쿠아가르(Aquagar)를 무찌를것"
 
 #. [objective]: condition=lose
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/11_Battle_of_the_Book.cfg:229
 msgid "Death of Crelanu"
-msgstr "크렐라누의 죽음"
+msgstr "크렐라누(Crelanu)의 죽음"
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter3/11_Battle_of_the_Book.cfg:247
@@ -3046,7 +3046,7 @@ msgstr "편리한 놈들이군! 이제 우리 도움이 필요해지니 한달�
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/13_News_from_the_Front.cfg:235
 msgid "Landar! You’re back! All is well?"
-msgstr "돌아왔군 란다르! 일은 잘 되었는가?"
+msgstr "돌아왔군 란다르(Landar)! 일은 잘 되었는가?"
 
 #. [message]: id=Landar
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/13_News_from_the_Front.cfg:239
@@ -3141,7 +3141,7 @@ msgstr "모든 턴이 지날 때까지 버텨라"
 #. [objective]: condition=lose
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/14_Human_Alliance.cfg:273
 msgid "Death of Aldar"
-msgstr "알다르의 죽음"
+msgstr "알다르(Aldar)의 죽음"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/14_Human_Alliance.cfg:292
@@ -3224,7 +3224,7 @@ msgstr "카리안에서는 아무 소식도 얻지 못했습니다."
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/14_Human_Alliance.cfg:359
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/14_Human_Alliance.cfg:523
 msgid "Kalenz! We come to fight beside you!"
-msgstr "칼렌츠! 당신과 함께 싸우기 위해 왔습니다!"
+msgstr "칼렌츠(Kalenz)! 당신과 함께 싸우기 위해 왔습니다!"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/14_Human_Alliance.cfg:363
@@ -3342,7 +3342,7 @@ msgstr "친구들이여, 오늘 우리는 큰 승리를 거두었지만, 그 승
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/15_The_Treaty.cfg:73
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/15_The_Treaty.cfg:83
 msgid "Haldric II"
-msgstr "할드릭 2세"
+msgstr "할드릭(Haldric) 2세"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/15_The_Treaty.cfg:27
@@ -3468,7 +3468,7 @@ msgstr "내가 감히 가르칠 수 있는 모든 걸 가르쳤어요. 칼렌츠
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:50
 msgid "Cleodil..."
-msgstr "클레오딜..."
+msgstr "클레오딜(Cleodil)..."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:55
@@ -3717,12 +3717,12 @@ msgstr "우리는 큰 족장을 죽이고 마법약의 효과가 끝나기 전�
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:687
 msgid "Crelanu’s philter affecting Kalenz"
-msgstr "크렐라누의 마법약이 칼렌츠에게 영향을 주었다"
+msgstr "크렐라누(Crelanu)의 마법약이 칼렌츠(Kalenz)에게 영향을 주었다"
 
 #. [event]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:697
 msgid "Crelanu’s philter affecting Landar"
-msgstr "크렐라누의 마법약이 란다르에게 영향을 주었다"
+msgstr "크렐라누(Crelanu)의 마법약이 란다르(Landar)에게 영향을 주었다"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:703
@@ -3821,7 +3821,7 @@ msgstr "탄-두르(Tan-Durr)"
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/17_Breaking_the_Siege.cfg:275
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/22_Northern_Battle.cfg:292
 msgid "Death of Uradredia"
-msgstr "우라드레디아의 죽음"
+msgstr "우라드레디아(Uradredia)의 죽음"
 
 #. [message]: id=Kior-Pur
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/17_Breaking_the_Siege.cfg:307
@@ -3907,7 +3907,7 @@ msgstr "당신이 말한대로요, 클레오딜(Cleodil). 그 마법의 약이 �
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/18_Hour_of_Glory.cfg:27
 msgid "Crelanu warned us this might occur..."
-msgstr "크렐라누가 이런 일이 있을 거라고 경고했어요..."
+msgstr "크렐라누(Crelanu)가 이런 일이 있을 거라고 경고했어요..."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/18_Hour_of_Glory.cfg:32
@@ -4353,7 +4353,7 @@ msgstr "오블릴(Oblil)"
 #. [objective]: condition=win
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/21_Elvish_Assassins.cfg:366
 msgid "Kalenz reaches the signpost"
-msgstr "칼렌츠가 표지판으로 이동"
+msgstr "칼렌츠(Kalenz)가 표지판으로 이동"
 
 #. [unit]: id=Galenor, type=Elvish Scout
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/21_Elvish_Assassins.cfg:401
@@ -4436,18 +4436,14 @@ msgstr "란다르(Landar)가 살아있는 한 칼렌츠(Kalenz)와 클레오딜(
 msgid ""
 "Kalenz’s veterans joined the host of the Northern Elves under Uradredia. "
 "Very soon, Landar’s army appeared..."
-msgstr ""
-"Kalenz의 숙련병들은 Uradredia의 지휘하에 북방 엘프의 무리에 합류했다. 바로 "
-"곧, Landar의 군단이 나타났다..."
+msgstr "칼렌츠(Kalenz)의 숙련병들은 우라드레디아(Uradredia)의 지휘하에 북방 엘프의 무리에 합류했다. 바로 곧, 란다르(Landar)의 군단이 나타났다..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/22_Northern_Battle.cfg:145
 msgid ""
 "Kalenz can only recall shamans and their advancements from his former army; "
 "the rest of his men joined Uradredia before he arrived."
-msgstr ""
-"Kalenz는 그의 이전 군단으로부터 오직 샤먼과 그 승급자들만을 재소집할 수 있습"
-"니다. 그의 나머지 군단은 그가 도착하기 전에 Uradredia에게 합류했습니다."
+msgstr "칼렌츠(Kalenz)는 그의 이전 군단으로부터 오직 샤먼과 그 승급자들만을 재소집할 수 있습니다. 그의 나머지 군단은 그가 도착하기 전에 우라드레디아(Uradredia)에게 합류했습니다."
 
 #. [objective]: condition=win
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/22_Northern_Battle.cfg:277
@@ -4458,7 +4454,7 @@ msgstr "6일동안 살아남는다"
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/22_Northern_Battle.cfg:313
 #| msgid "Survive for six days"
 msgid "Kalenz survives for six days"
-msgstr "칼렌츠가 6일 동안 살아남는다"
+msgstr "칼렌츠(Kalenz)가 6일 동안 살아남는다"
 
 #. [note]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/22_Northern_Battle.cfg:324
@@ -4516,7 +4512,7 @@ msgstr "북부 요정들과의 전투가 란다르(Landar)의 반란 종식의 �
 #. [objective]: condition=win
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/23_End_of_War.cfg:115
 msgid "Defeat Landar"
-msgstr "란다르를 무찌를것"
+msgstr "란다르(Landar)를 무찌를것"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/23_End_of_War.cfg:140
@@ -4691,7 +4687,7 @@ msgstr ""
 #. [heals]: id=heals_kalenz
 #: data/campaigns/Legend_of_Wesmere/utils/abilities.cfg:32
 msgid "heals Kalenz +4"
-msgstr "칼렌츠 치유효과 +4"
+msgstr "칼렌츠(Kalenz) 치유효과 +4"
 
 #. [heals]: id=heals_kalenz
 #: data/campaigns/Legend_of_Wesmere/utils/abilities.cfg:33
@@ -4793,7 +4789,7 @@ msgstr "다쳤어요!"
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/utils/characters.cfg:386
 msgid "Cleodil! No! I will aid you."
-msgstr "클레오딜! 안돼! 내가 돕겠소."
+msgstr "클레오딜(Cleodil)! 안돼! 내가 돕겠소."
 
 #. [message]: speaker=unit
 #: data/campaigns/Legend_of_Wesmere/utils/deaths.cfg:10
@@ -4808,7 +4804,7 @@ msgstr "이제 끝났다! 드디어 안식할 수 있겠구나!"
 #. [message]: speaker=unit
 #: data/campaigns/Legend_of_Wesmere/utils/deaths.cfg:31
 msgid "Farewell, Kalenz!"
-msgstr "잘 있게, 칼렌츠!"
+msgstr "잘 있게, 칼렌츠(Kalenz)!"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Legend_of_Wesmere/utils/deaths.cfg:36

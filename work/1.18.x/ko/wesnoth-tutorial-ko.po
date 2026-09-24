@@ -84,7 +84,7 @@ msgstr "리사르(Li’sar)"
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:9
 #| msgid "Wesnoth Tutorial Part I"
 msgid "Wesnoth Tutorial — Part I"
-msgstr "웨스노스 자습서 — 1부"
+msgstr "웨스노스(Wesnoth) 자습서 — 1부"
 
 #. [side]: type=Fighter, id=student
 #. [side]
@@ -142,7 +142,7 @@ msgstr "움직임에 대한 수업을 완료할 때까지 차례를 끝낼 수 �
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:167
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:195
 msgid "Welcome to Wesnoth!"
-msgstr "웨스노스 세계에 오신걸 환영합니다!"
+msgstr "웨스노스(Wesnoth) 세계에 오신걸 환영합니다!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:148
@@ -182,13 +182,13 @@ msgstr "이 자습서에서 당신은 리사르(Li’sar)를 선택했습니다.
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:175
 #| msgid "Left click on Konrad"
 msgid "Click on Konrad"
-msgstr "콘라드를 클릭"
+msgstr "콘라드(Konrad)를 클릭"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:177
 #| msgid "Left click on Li’sar"
 msgid "Click on Li’sar"
-msgstr "리사르를 클릭"
+msgstr "리사르(Li’sar)를 클릭"
 
 #. [then]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:319
@@ -228,13 +228,13 @@ msgstr "리사르(Li’sar) 유닛 위로 마우스를 가져가거나 선택하
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:375
 #| msgid "Move Konrad to the keep"
 msgid "Move Konrad next to Delfador"
-msgstr "콘라드를 델파도르 옆으로 이동"
+msgstr "콘라드(Konrad)를 델파도르(Delfador) 옆으로 이동"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:377
 #| msgid "Move Li’sar to the keep"
 msgid "Move Li’sar next to Delfador"
-msgstr "리사르를 델파도르 옆으로 이동"
+msgstr "리사르(Li’sar)를 델파도르(Delfador) 옆으로 이동"
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:394
@@ -454,13 +454,13 @@ msgstr "마을"
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:646
 #| msgid "Move Konrad to capture a village"
 msgid "Move Konrad to a nearby village"
-msgstr "콘라드를 가까운 마을로 이동 시키세요"
+msgstr "콘라드(Konrad)를 가까운 마을로 이동 시키세요"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:648
 #| msgid "Move Li’sar to capture a village"
 msgid "Move Li’sar to a nearby village"
-msgstr "리사르를 가까운 마을로 이동 시키세요"
+msgstr "리사르(Li’sar)를 가까운 마을로 이동 시키세요"
 
 #. [hint_message]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:660
@@ -535,12 +535,12 @@ msgstr "아성"
 #. [event]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:720
 msgid "Move Konrad to the keep"
-msgstr "콘라드를 아성으로 이동"
+msgstr "콘라드(Konrad)를 아성으로 이동"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:722
 msgid "Move Li’sar to the keep"
-msgstr "리사르를 아성으로 이동"
+msgstr "리사르(Li’sar)를 아성으로 이동"
 
 #. [hint_message]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:739
@@ -946,7 +946,7 @@ msgstr "승리 메세지가 뜨면, 시나리오가 끝났다는 표시로 지�
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:5
 #| msgid "Wesnoth Tutorial Part II"
 msgid "Wesnoth Tutorial — Part II"
-msgstr "웨스노스 자습서 — 2부"
+msgstr "웨스노스(Wesnoth) 자습서 — 2부"
 
 #. [side]: type=Orcish Warrior, id=Thrag
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:43
@@ -1016,18 +1016,18 @@ msgstr "오크 대장을 무찔러라"
 #. [objective]: condition=lose
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:141
 msgid "Death of Konrad"
-msgstr "콘라드의 죽음"
+msgstr "콘라드(Konrad)의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:152
 msgid "Death of Li’sar"
-msgstr "리사르의 죽음"
+msgstr "리사르(Li’sar)의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:163
 #| msgid "Death of Konrad"
 msgid "Death of Galdrad"
-msgstr "갈드라드의 죽음"
+msgstr "갈드라드(Galdrad)의 죽음"
 
 #. [disallow_end_turn]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:184

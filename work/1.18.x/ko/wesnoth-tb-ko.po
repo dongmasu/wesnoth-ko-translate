@@ -287,7 +287,7 @@ msgstr "마그리드(Magrid)"
 #. [objective]: condition=win
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:167
 msgid "Slay Mordak, the evil mage"
-msgstr "사악한 마법사 모르닥을 베어라"
+msgstr "사악한 마법사 모르닥(Mordak)을 베어라"
 
 #. [objective]: condition=lose
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:171
@@ -296,7 +296,7 @@ msgstr "사악한 마법사 모르닥을 베어라"
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:143
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:288
 msgid "Death of Arvith"
-msgstr "아르비쓰의 죽음"
+msgstr "아르비쓰(Arvith)의 죽음"
 
 #. [objectives]
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:182
@@ -377,7 +377,7 @@ msgstr "바란(Baran)이 지금쯤 제 위치에 도착했을 것이다. 몰아�
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:254
 msgid "Baran has not made his attack!"
-msgstr "바란이 공격하지 않고 있어!"
+msgstr "바란(Baran)이 공격하지 않고 있어!"
 
 #. [message]: role=Mercenary
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:259
@@ -513,16 +513,9 @@ msgid ""
 "Besides... I want my brother back."
 msgstr ""
 "363 YW 5월 16일\n"
-"Maghre의 Arvith의 일기에서 발췌.\n"
+"Maghre의 아르비쓰(Arvith)의 일기에서 발췌.\n"
 "\n"
-"하지만 난 이제 미신 따위는 뛰어넘었다. 나는 세상을 떠돌면서 이런 종류의 이야"
-"기들 뒤에 숨겨진 진실을 예측해낼 수 있게 되었다. 숲 속엔 엘프들이 산다. 전설"
-"에 어떤 근거가 있다면 우호적인 이들은 아닐 것이다. 부하들이 걱정이다. 기마는 "
-"숲 속에선 잘 싸우지 못하고, 엘프들은 자기들 영토에선 더욱 위험해질 것이다. 하"
-"지만 해야할 일과 풀어야할 의문들이 있다. 뭔가 큰 일이 벌어지고 있다. 네크로맨"
-"서 하나가 마을을 공포에 몰아넣는건 별다른 일이 아니지만, 어째서 그를 죽였는데"
-"도 그 하인들은 사라지지 않았을까? 그들은 어디로 향한 것일까? 그리고 더 중요"
-"한 것, 어째서 그들은 Baran을 잡아갔는가?\n"
+"하지만 난 이제 미신 따위는 뛰어넘었다. 나는 세상을 떠돌면서 이런 종류의 이야기들 뒤에 숨겨진 진실을 예측해낼 수 있게 되었다. 숲 속엔 엘프들이 산다. 전설에 어떤 근거가 있다면 우호적인 이들은 아닐 것이다. 부하들이 걱정이다. 기마는 숲 속에선 잘 싸우지 못하고, 엘프들은 자기들 영토에선 더욱 위험해질 것이다. 하지만 해야할 일과 풀어야할 의문들이 있다. 뭔가 큰 일이 벌어지고 있다. 네크로맨서 하나가 마을을 공포에 몰아넣는건 별다른 일이 아니지만, 어째서 그를 죽였는데도 그 하인들은 사라지지 않았을까? 그들은 어디로 향한 것일까? 그리고 더 중요한 것, 어째서 그들은 바란(Baran)을 잡아갔는가?\n"
 "\n"
 "뿐만 아니라... 나는 내 아우를 돌려받길 원한다."
 
@@ -545,7 +538,7 @@ msgstr "납치범"
 #. [side]: type=Dark Adept, id=Muff Toras
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:174
 msgid "Muff Toras"
-msgstr "머프 토라스"
+msgstr "머프(Muff) 토라스"
 
 #. [objective]: condition=win
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:239
@@ -1012,7 +1005,7 @@ msgstr "실내 (등불)"
 #. [objective]: condition=win
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:309
 msgid "Rescue Baran"
-msgstr "바란을 구출하라"
+msgstr "바란(Baran)을 구출하라"
 
 #. [objective]: condition=win
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:321
@@ -1029,7 +1022,7 @@ msgstr "아르비쓰(Arvith)를 그의 아우가 갇힌 감방으로 이동시�
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:147
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:292
 msgid "Death of Baran"
-msgstr "바란의 죽음"
+msgstr "바란(Baran)의 죽음"
 
 #. [objectives]
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:360
@@ -1073,25 +1066,25 @@ msgstr "암호는"
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:429
 #| msgid "Sithrak"
 msgid "Sithrak!"
-msgstr "시트라크!"
+msgstr "시트라크(Sithrak)!"
 
 #. [option]
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:432
 #| msgid "Eleben"
 msgid "Eleben!"
-msgstr "엘레벤!"
+msgstr "엘레벤(Eleben)!"
 
 #. [option]
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:435
 #| msgid "Jarlom"
 msgid "Jarlom!"
-msgstr "자를롬!"
+msgstr "자를롬(Jarlom)!"
 
 #. [option]
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:438
 #| msgid "Hamik"
 msgid "Hamik!"
-msgstr "하미크!"
+msgstr "하미크(Hamik)!"
 
 #. [message]: speaker=Guard_leader
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:451
@@ -1169,25 +1162,25 @@ msgstr "오, 물론이지. 깜빡할 뻔 했군."
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:643
 #| msgid "Akranbral"
 msgid "Akranbral!"
-msgstr "아크란브랄!"
+msgstr "아크란브랄(Akranbral)!"
 
 #. [option]
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:646
 #| msgid "Drakanal"
 msgid "Drakanal!"
-msgstr "드라카날!"
+msgstr "드라카날(Drakanal)!"
 
 #. [option]
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:649
 #| msgid "Xaskanat"
 msgid "Xaskanat!"
-msgstr "자스카나트!"
+msgstr "자스카나트(Xaskanat)!"
 
 #. [option]
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:652
 #| msgid "Katklagad"
 msgid "Katklagad!"
-msgstr "캇크라가드!"
+msgstr "캇크라가드(Katklagad)!"
 
 #. [message]: speaker=Guard2_leader
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:665
@@ -1214,7 +1207,7 @@ msgstr "네놈들 손에 죽든 타이라크(Tairach)의 손에 죽든, 죽는�
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:705
 msgid "‘Tairach’? Who or what is Tairach?"
-msgstr "‘타이라크’? 타이라크가 사람인가 물건인가?"
+msgstr "‘타이라크(Tairach)’? 타이라크(Tairach)가 사람인가 물건인가?"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:710
@@ -1260,7 +1253,7 @@ msgstr "내가 뭘 찾았나 보라세요! 50 골드입니다."
 #. [message]: speaker=unit
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:845
 msgid "I found Baran. He is in this cell."
-msgstr "바란을 찾았습니다. 감방에 있었습니다."
+msgstr "바란(Baran)을 찾았습니다. 감방에 있었습니다."
 
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:856
@@ -1376,19 +1369,11 @@ msgid ""
 "given us plenty of time to talk."
 msgstr ""
 "363 YW 5월 27일\n"
-"Maghre의 Baran의 일기에서 발췌.\n"
+"Maghre의 바란(Baran)의 일기에서 발췌.\n"
 "\n"
-"집에 거의 다 왔다. 지난 한주는 내게 수많은 감정들로 가득찬 나날이었다. 더없"
-"이 행복하면서도 동시에 곤란한 기분. 지하 감옥에서 나와서 다시 태양을 보고, 죽"
-"음이나 그보다 더 나쁜일을 상상하지 않아도 된다는 것은 정말 멋진 일이었다... "
-"하지만 그와 함께, 나는 형에게 보답해야 한다는 그만큼 어려운 의무를 마주하게 "
-"되었다.\n"
+"집에 거의 다 왔다. 지난 한주는 내게 수많은 감정들로 가득찬 나날이었다. 더없이 행복하면서도 동시에 곤란한 기분. 지하 감옥에서 나와서 다시 태양을 보고, 죽음이나 그보다 더 나쁜일을 상상하지 않아도 된다는 것은 정말 멋진 일이었다... 하지만 그와 함께, 나는 형에게 보답해야 한다는 그만큼 어려운 의무를 마주하게 되었다.\n"
 "\n"
-"Arvith는 나를 감옥에서 구해주던 그때 나를 거의 용서했다. 그래도 우리가 예전처"
-"럼 서로에게 편안한 감정을 갖는 것은 지난 한주 전부가 걸렸다. 우리가 다시 예전"
-"처럼 돌아올 수 있었다는건 정말 다행한 일이다. 우리는 회색 숲을 멀리 돌아 가면"
-"서 정말로 아름다운 지방 풍경 사이를 여행했다. 우리는 서로 이야기할 시간을 많"
-"이 가졌다."
+"아르비쓰(Arvith)는 나를 감옥에서 구해주던 그때 나를 거의 용서했다. 그래도 우리가 예전처럼 서로에게 편안한 감정을 갖는 것은 지난 한주 전부가 걸렸다. 우리가 다시 예전처럼 돌아올 수 있었다는건 정말 다행한 일이다. 우리는 회색 숲을 멀리 돌아 가면서 정말로 아름다운 지방 풍경 사이를 여행했다. 우리는 서로 이야기할 시간을 많이 가졌다."
 
 #. [part]
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:34
@@ -1412,21 +1397,13 @@ msgid ""
 "something real?"
 msgstr ""
 "363 YW 5월 27일\n"
-"Maghre의 Baran의 일기에서 발췌.\n"
+"Maghre의 바란(Baran)의 일기에서 발췌.\n"
 "\n"
-"비록 내 마음은 더 편해졌지만, 내 생각은 종종 Toen Caric의 그 때로 돌아간다. "
-"우리는 큰 피해 없이 오크들을 격퇴해낼 수 있었다. 나만 아니었다면 Arvith가 입"
-"안한 협공 작전으로 충분히 승리할 수 있었던 것이다. 나는 무모하게도 내 부하들"
-"을 뒤에 내버려두었다. 나는 적의 무장을 부상입히고 그를 전장에서 몰아냈지만, "
-"그 대가는 더욱 컸다. 내가 내 지휘하에 있던 이들과 함께 있었다면 그들은 죽지 "
-"않았을 것이다.\n"
+"비록 내 마음은 더 편해졌지만, 내 생각은 종종 Toen Caric의 그 때로 돌아간다. 우리는 큰 피해 없이 오크들을 격퇴해낼 수 있었다. 나만 아니었다면 아르비쓰(Arvith)가 입안한 협공 작전으로 충분히 승리할 수 있었던 것이다. 나는 무모하게도 내 부하들을 뒤에 내버려두었다. 나는 적의 무장을 부상입히고 그를 전장에서 몰아냈지만, 그 대가는 더욱 컸다. 내가 내 지휘하에 있던 이들과 함께 있었다면 그들은 죽지 않았을 것이다.\n"
 "\n"
-"나는 Arvith가 그들의 죽음에 분노했던 점을 탓할 수도, 내가 저지른 잘못을 되돌"
-"릴 수도 없지만, 아무래도 시간이 어느정도 약이 되었던 것 같다. 우리는 형제로"
-"서 다시 마을에 돌아왔다.\n"
+"나는 아르비쓰(Arvith)가 그들의 죽음에 분노했던 점을 탓할 수도, 내가 저지른 잘못을 되돌릴 수도 없지만, 아무래도 시간이 어느정도 약이 되었던 것 같다. 우리는 형제로서 다시 마을에 돌아왔다.\n"
 "\n"
-"하지만 난 여전히 불안했다. 난 의문스러웠다... 이 예감은 단지 그 지하 감옥에서"
-"의 시간들의 잔재인가, 아니면 뭔가 실제로 있을 일의 경고인가?"
+"하지만 난 여전히 불안했다. 난 의문스러웠다... 이 예감은 단지 그 지하 감옥에서의 시간들의 잔재인가, 아니면 뭔가 실제로 있을 일의 경고인가?"
 
 #. [side]: type=Orcish Warlord, id=Tairach
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:87
@@ -1620,17 +1597,11 @@ msgid ""
 "new patron, I have asked leave of him to visit my brother and he gave it."
 msgstr ""
 "365YW 9월 22일\n"
-"Maghre의 Arvith의 일기에서 발췌.\n"
+"Maghre의 아르비쓰(Arvith)의 일기에서 발췌.\n"
 "\n"
-"Maghre는 지난번에 보았을 때보다 훨씬 나아진 모습이다. Baran은 2년 만에 기적"
-"을 일궈냈다. 마을은 재건되었고, 주변의 농장들도 복구되었으며 사람들은 다시 일"
-"하고 있다. 아우의 우려에도 불구하고 우리 마을 사람들에겐 그 어떤 위협도 없"
-"다.\n"
+"Maghre는 지난번에 보았을 때보다 훨씬 나아진 모습이다. 바란(Baran)은 2년 만에 기적을 일궈냈다. 마을은 재건되었고, 주변의 농장들도 복구되었으며 사람들은 다시 일하고 있다. 아우의 우려에도 불구하고 우리 마을 사람들에겐 그 어떤 위협도 없다.\n"
 "\n"
-"지난 두 해동안 떠나 있는 것은 예전보다 더 힘든 일이었지만, 나와 Baran은 서로"
-"의 할일이 있었고, 우리가 만날 기회는 거의 없었다. 하지만 우리 용병단은 새로"
-"운 고객을 맞아 왕국의 이 지역을 지나게 되었고, 나는 양해를 구하고 아우를 만나"
-"러 갔다."
+"지난 두 해동안 떠나 있는 것은 예전보다 더 힘든 일이었지만, 나와 바란(Baran)은 서로의 할일이 있었고, 우리가 만날 기회는 거의 없었다. 하지만 우리 용병단은 새로운 고객을 맞아 왕국의 이 지역을 지나게 되었고, 나는 양해를 구하고 아우를 만나러 갔다."
 
 #. [part]
 #: data/campaigns/Two_Brothers/scenarios/05_Epilogue.cfg:27
@@ -1646,12 +1617,9 @@ msgid ""
 "In the meantime, though, it’s good to relax and enjoy the peace."
 msgstr ""
 "365YW 9월 22일\n"
-"Maghre의 Arvith의 일기에서 발췌.\n"
+"Maghre의 아르비쓰(Arvith)의 일기에서 발췌.\n"
 "\n"
-"이 고객이란, 하필이면 엘프다. 나는 엘프와 친구가 될거라고는 상상도 못해봤지"
-"만, 그는 다른 이들과는 달리 오만하지 않았다. 그는 Kalenz라고 한다. 그는 정말"
-"로 오래 살았다. 나는 그의 눈빛만 보고도 그걸 구분할 수 있다. 우리는 곧 일을 "
-"시작하게 될 듯하다.\n"
+"이 고객이란, 하필이면 엘프다. 나는 엘프와 친구가 될거라고는 상상도 못해봤지만, 그는 다른 이들과는 달리 오만하지 않았다. 그는 칼렌츠(Kalenz)라고 한다. 그는 정말로 오래 살았다. 나는 그의 눈빛만 보고도 그걸 구분할 수 있다. 우리는 곧 일을 시작하게 될 듯하다.\n"
 "\n"
 "하지만 한편으로는 쉬면서 평화를 즐기는 것도 나쁘지 않다."
 

@@ -66,7 +66,7 @@ msgstr "적"
 #. [side]: type=Death Knight
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:148
 msgid "Mal Sevu"
-msgstr "말 세부"
+msgstr "말(Mal) 세부"
 
 #. [side]: type=Orcish Sovereign
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:181
@@ -81,7 +81,7 @@ msgstr "그레그(Greg)"
 #. [side]: type=Death Knight
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:247
 msgid "Mal Shiki"
-msgstr "말 쉬키"
+msgstr "말(Mal) 쉬키"
 
 #. [side]
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:275

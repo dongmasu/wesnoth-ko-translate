@@ -67,7 +67,7 @@ msgstr "경험치(XP) 60을 획득하면 항상 AMLA(레벨 초과 성장)하며
 #. [advancement]: id=amla_default
 #: data/campaigns/World_Conquest/era/campaign/heroes.cfg:150
 msgid "Max HP bonus +6%"
-msgstr "최대 체력 +6% 증가"
+msgstr "최대 체력(HP) +6% 증가"
 
 #. [trait]: id=legendary_zombie
 #. [trait]: id=legendary_goblin
@@ -101,7 +101,7 @@ msgstr "동맹"
 #. [world_conquest_data]
 #: data/campaigns/World_Conquest/era/factions/The_Alliance.cfg:16
 msgid "Young Ogre, Undead and Northerners"
-msgstr "어린 오우거, 언데드, 노던너"
+msgstr "어린 오우거(Ogre), 언데드, 노던너"
 
 #. [multiplayer_side]: id=The_Artisans, type=random
 #: data/campaigns/World_Conquest/era/factions/The_Artisans.cfg:8
@@ -116,7 +116,7 @@ msgstr "이교도"
 #. [world_conquest_data]
 #: data/campaigns/World_Conquest/era/factions/The_Cult.cfg:16
 msgid "Young Ogre, Drakes and Northerners"
-msgstr "어린 오우거, 반룡들, 노던너"
+msgstr "어린 오우거(Ogre), 반룡들, 노던너"
 
 #. [multiplayer_side]: id=The_Defiance, type=random
 #: data/campaigns/World_Conquest/era/factions/The_Defiance.cfg:8
@@ -2735,7 +2735,7 @@ msgstr "귀신의 골수"
 #. [artifact]
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:268
 msgid "feeding, +3 HP"
-msgstr "포식, +3 HP"
+msgstr "포식, +3 체력(HP)"
 
 #. [artifact]
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:269
@@ -3072,7 +3072,7 @@ msgstr "비밀의 서"
 #. [artifact]
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:725
 msgid "-50% XP to advance"
-msgstr "-50% 경험치로 진급"
+msgstr "-50% 경험치(XP)로 진급"
 
 #. [artifact]
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:726
@@ -3170,7 +3170,7 @@ msgstr "겨울의 꽃"
 #. [artifact]
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:843
 msgid "+15 HP, up to 20% resistance vs cold"
-msgstr "+15 HP, 최대 20% 냉기 저항"
+msgstr "+15 체력(HP), 최대 20% 냉기 저항"
 
 #. [artifact]
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:844
@@ -3368,7 +3368,7 @@ msgstr "+$hitpoints| 레벨당 생명력"
 #. [chance]
 #: data/campaigns/World_Conquest/resources/data/training.cfg:621
 msgid "$value| XP to advance"
-msgstr "$value| 진급을 위한 경험치"
+msgstr "$value| 진급을 위한 경험치(XP)"
 
 #. [chance]
 #: data/campaigns/World_Conquest/resources/data/training.cfg:635

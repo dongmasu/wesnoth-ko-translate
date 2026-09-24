@@ -172,7 +172,7 @@ msgstr "시나리오 4b: 용병"
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:43
 msgid "Rescue all 6 prisoners from ‘<i>Mal Ravanal’s Capital</i>’."
-msgstr "‘<i>말 라바날의 수도</i>’에서 죄수 6명을 모두 구출하세요."
+msgstr "‘<i>말(Mal) 라바날의 수도</i>’에서 죄수 6명을 모두 구출하세요."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:43
@@ -218,7 +218,7 @@ msgstr "‘<i>오우거 포획</i>’에서 어떤 오우거도 노예로 만들
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:51
 msgid "Scenario 7a: Ogre Rights Advocate"
-msgstr "시나리오 7a: 오우거 권리 옹호자"
+msgstr "시나리오 7a: 오우거(Ogre) 권리 옹호자"
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:53
@@ -1302,7 +1302,7 @@ msgstr "아무 유닛이나 북서쪽의 표지판으로 이동시키세요"
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:167
 msgid "Kill Addogin (bonus reward)"
-msgstr "아도긴 처치(보너스 보상)"
+msgstr "아도긴(Addogin) 처치(보너스 보상)"
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:186
@@ -1804,7 +1804,7 @@ msgstr "<i>(약초는 시작 본영 주변 모든 방향에 퍼져 있습니다)
 msgid ""
 "Any unit that begins or ends its turn adjacent to a swamp hex will become "
 "poisoned. Hahid and Safyam are already immune."
-msgstr "늪 육각 타일에 인접한 곳에서 턴을 시작하거나 끝내는 유닛은 중독됩니다. 하히드와 사피암(Safyam)은 이미 면역입니다."
+msgstr "늪 육각 타일에 인접한 곳에서 턴을 시작하거나 끝내는 유닛은 중독됩니다. 하히드(Hahid)와 사피암(Safyam)은 이미 면역입니다."
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:591
@@ -1843,17 +1843,17 @@ msgstr "우리 스승님이 돌아가셨다! 우리 중 누구도 고향을 보�
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:722
 msgid ""
 "Give Hahid $gold_cost gold; assault the undead fortress. <i>(challenging)</i>"
-msgstr "하히드에게 금화 $gold_cost개를 주고 언데드 요새를 공격하세요. <i>(어려움)</i>"
+msgstr "하히드(Hahid)에게 금화 $gold_cost개를 주고 언데드 요새를 공격하세요. <i>(어려움)</i>"
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:732
 msgid "Give Hahid nothing; return westward towards Wesnoth. <i>(normal)</i>"
-msgstr "하히드에게 아무것도 주지 않고 웨스노스(Wesnoth)를 향해 서쪽으로 돌아가세요. <i>(보통)</i>"
+msgstr "하히드(Hahid)에게 아무것도 주지 않고 웨스노스(Wesnoth)를 향해 서쪽으로 돌아가세요. <i>(보통)</i>"
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:742
 msgid "Give Hahid $gold_extra gold."
-msgstr "하히드에게 금화 $gold_extra개를 주세요."
+msgstr "하히드(Hahid)에게 금화 $gold_extra개를 주세요."
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:759
@@ -1990,7 +1990,7 @@ msgstr "늪의 증기가 우리를 압도하고 있어... 예방 조치를 했�
 #. [scenario]: id=04c_Mal-Ravanals_Capital
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:5
 msgid "Mal-Ravanal’s Capital"
-msgstr "Mal-Ravanal의 수도"
+msgstr "말 라바날(Mal-Ravanal)의 수도"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:16
@@ -2379,14 +2379,14 @@ msgstr "무법자의 대장을 찾아라"
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:230
 #| msgid "Shodrano"
 msgid "Kill Shodrano"
-msgstr "소드라노를 죽여라"
+msgstr "소드라노(Shodrano)를 죽여라"
 
 #. [objective]: condition=win
 #. Rilaka is a male Dark Adept
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:241
 #| msgid "Defeat Khrakrahs"
 msgid "Defeat Rilaka"
-msgstr "릴라카를 물리치십시오"
+msgstr "릴라카(Rilaka)를 물리치십시오"
 
 #. [objective]: condition=lose
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:251
@@ -2436,7 +2436,7 @@ msgstr "라에타르반(Raetharvan)"
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:366
 msgid "Hail, Gweddry!"
-msgstr "어서오시오, 궤드리!"
+msgstr "어서오시오, 궤드리(Gweddry)!"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:370
@@ -2996,7 +2996,7 @@ msgstr "말-운-카라드를 물리치십시오"
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:146
 msgid "Rescue Dolburras before he drowns"
-msgstr "돌부라스가 익사하기 전에 구출하세요"
+msgstr "돌부라스(Dolburras)가 익사하기 전에 구출하세요"
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:164
@@ -3100,7 +3100,7 @@ msgstr "비약 구매(금화 10개)."
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:339
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:664
 msgid "Leave the elixir for Hahid."
-msgstr "하히드에게 비약 남겨 두기."
+msgstr "하히드(Hahid)에게 비약 남겨 두기."
 
 #. [message]: speaker=Mal-un-Karad
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:299
@@ -3406,7 +3406,7 @@ msgstr "이 주둔지를 지휘하는 사람이 누구입니까? 시간이 없�
 #. [message]: speaker=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:783
 msgid "Owaec? Is that you?"
-msgstr "오와에크? 자네인가?"
+msgstr "오와에크(Owaec)? 자네인가?"
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:787
@@ -3730,7 +3730,7 @@ msgstr "오우거를 많이 포획했습니다! 우리 군대에 좋은 보탬�
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:6
 #| msgid "The Crossing"
 msgid "Ogre Crossing"
-msgstr "오우거 건넘터"
+msgstr "오우거(Ogre) 건넘터"
 
 #. [part]
 #. Delfador's Memoirs was around 160 years ago, DiD was around 240 years ago.
@@ -3764,17 +3764,17 @@ msgstr "사우리안족"
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:470
 #| msgid "Northern Outpost"
 msgid "Parthyn Guardpost"
-msgstr "파르틴 경비 초소"
+msgstr "파르틴(Parthyn) 경비 초소"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:194
 msgid "Defeat Izziasch"
-msgstr "이자이아슈를 물리치세요"
+msgstr "이자이아슈(Izziasch)를 물리치세요"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:198
 msgid "Reach the north shore before Grug dies"
-msgstr "그루그가 죽기 전에 북쪽 강변에 도착하세요"
+msgstr "그루그(Grug)가 죽기 전에 북쪽 강변에 도착하세요"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:250
@@ -3811,7 +3811,7 @@ msgstr "<span size='small'><i>너와 다를 것도 없지 않나?</i></span> 오
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:279
 msgid "Lizard, Grug say leave!"
-msgstr "도마뱀, 그루그가 나가라고 한다!"
+msgstr "도마뱀, 그루그(Grug)가 나가라고 한다!"
 
 #. [message]: speaker=Izziasch
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:283
@@ -3956,12 +3956,12 @@ msgstr "우리가 당신의 적과 싸우는 것을 도우면, 우리와 함께 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:783
 msgid "Mmmm... Grug think..."
-msgstr "으음... 그루그 생각 중..."
+msgstr "으음... 그루그(Grug) 생각 중..."
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:792
 msgid "... Grug head hurt. Grug say join you."
-msgstr "... 그루그 머리 아프다. 그루그가 너희와 함께하겠다고 한다."
+msgstr "... 그루그(Grug) 머리 아프다. 그루그(Grug)가 너희와 함께하겠다고 한다."
 
 #. [message]: speaker=Izziasch
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:846
@@ -4054,7 +4054,7 @@ msgstr "바고크(Bagork)"
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:195
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:43
 msgid "Clan Whitefang"
-msgstr "하얀(Whitefang) 송곳니 일족"
+msgstr "하얀(Whitefang) 송곳니 일족(Clan)"
 
 #. [side]: type=Orcish Warlord, id=Prok-Bak
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:143
@@ -4084,7 +4084,7 @@ msgstr "턴이 끝나기 전에 가능한 한 많은 금화를 모으세요.\n�
 #. two male dwarves
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:273
 msgid "Move Dolburras next to Pelathsil."
-msgstr "돌부라스를 펠라실 옆으로 이동시키세요."
+msgstr "돌부라스(Dolburras)를 펠라실 옆으로 이동시키세요."
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:291
@@ -4288,7 +4288,7 @@ msgstr "다친의 말을 믿는다면 그의 친구 라반의 빛과 지혜도 �
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:521
 msgid "Excited Grug fight friends help!"
-msgstr "신난 그루그, 친구 싸움 돕는다!"
+msgstr "신난 그루그(Grug), 친구 싸움 돕는다!"
 
 #. [message]: speaker=Dolburras
 #. "It's a sad day when dwarf fights dwarf... can you not let us pass peacefully?"
@@ -4392,7 +4392,7 @@ msgstr "그럴 리가."
 #. [message]: speaker=Prok-Bak
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:676
 msgid "Chief Dra-Nak will hear of this!"
-msgstr "드라-나크 족장님께서 이 일을 알게 될 것이다!"
+msgstr "드라-나크 족장(Dra-Nak)님께서 이 일을 알게 될 것이다!"
 
 #. [message]: speaker=Aleii
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:687
@@ -4561,7 +4561,7 @@ msgstr "아무 유닛이나 버려진 성으로 이동시키십시오."
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:436
 msgid "Move Grug next to an enemy ogre."
-msgstr "그루그를 적 오우거 옆으로 이동시키세요."
+msgstr "그루그(Grug)를 적 오우거 옆으로 이동시키세요."
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:454
@@ -4788,7 +4788,9 @@ msgstr ""
 msgid ""
 "Aspirant Mortic,\n"
 "As you command."
-msgstr "수습생 모르틱,\n명령대로 하겠습니다."
+msgstr ""
+"수습생 모르틱(Mortic),\n"
+"명령대로 하겠습니다."
 
 #. [message]: speaker=Ogho
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1012
@@ -4913,7 +4915,7 @@ msgstr "새 친구! 나 친구와 안 싸운다."
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1315
 msgid "Grug me! Me friend human."
-msgstr "그루그 나! 나 인간 친구."
+msgstr "그루그(Grug) 나! 나 인간 친구."
 
 #. [message]
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:1320
@@ -5290,7 +5292,7 @@ msgstr "그웨드리, 나와 동행하기로 했잖아. 내가 성문을 작동�
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1083
 msgid "Cave scary! Grug no like!"
-msgstr "동굴 무섭다! 그루그 싫다!"
+msgstr "동굴 무섭다! 그루그(Grug) 싫다!"
 
 #. [message]: speaker=Gweddry
 #. the torches were already burning before any of Gweddry's party entered the castle
@@ -5904,14 +5906,14 @@ msgid ""
 "Ravanal. I have tried once before. Even as a mage, Ravan’s powers near "
 "outmatched my own. As the lich Mal-Ravanal, perhaps only Delfador the Great "
 "could have stood a chance."
-msgstr "아니, 그웨드리. 나도 확신할 수 없어. 하지만 Mal-Ravanal을 물리칠 다른 방법은 모르겠군. 전에도 한 번 시도해 보았지. 마법사였을 때조차 라반의 힘은 내 힘에 거의 맞먹었어. 리치 Mal-Ravanal이 된 지금은 위대한 델파도르(Delfador) 정도만이 맞설 수 있었을지도 모르지."
+msgstr "아니, 그웨드리. 나도 확신할 수 없어. 하지만 말 라바날(Mal-Ravanal)을 물리칠 다른 방법은 모르겠군. 전에도 한 번 시도해 보았지. 마법사였을 때조차 라반의 힘은 내 힘에 거의 맞먹었어. 리치 말 라바날(Mal-Ravanal)이 된 지금은 위대한 델파도르(Delfador) 정도만이 맞설 수 있었을지도 모르지."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2796
 msgid ""
 "This Amulet will give us the edge that I need. With it, I can open a gate to "
 "the Land of the Dead and pull Mal-Ravanal’s unholy spells out of this world."
-msgstr "이 부적이 내게 필요한 우위를 가져다줄 거야. 이것으로 죽은 자들의 땅으로 통하는 문을 열고 Mal-Ravanal의 불경한 주문을 이 세계에서 끌어낼 수 있어."
+msgstr "이 부적이 내게 필요한 우위를 가져다줄 거야. 이것으로 죽은 자들의 땅으로 통하는 문을 열고 말 라바날(Mal-Ravanal)의 불경한 주문을 이 세계에서 끌어낼 수 있어."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2800
@@ -6109,7 +6111,7 @@ msgstr "어서! 이쪽이야!"
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:746
 msgid "Find Gweddry, Dacyn and Owaec"
-msgstr "그웨드리, 다친, 오와에크를 찾으세요"
+msgstr "그웨드리, 다친, 오와에크(Owaec)를 찾으세요"
 
 #. [objective]: condition=lose
 #. Initially shown with 4 escapees.
@@ -6505,7 +6507,7 @@ msgstr "그렇다면 서둘러 웨스노스(Wesnoth)로 돌아가 방어를 도�
 #. Boja is the name of the cave bear
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1611
 msgid "Hey, who are you? Boja, sic ’em!"
-msgstr "이봐, 넌 누구야? 보자, 물어!"
+msgstr "이봐, 넌 누구야? 보자(Boja), 물어!"
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:1615
@@ -6615,7 +6617,7 @@ msgstr "그웨드리와 병사들은 오크의 감옥에서 탈출해 최대한 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:273
 msgid "Move Owaec to the end of the bridge"
-msgstr "오와에크를 다리 끝으로 이동시키세요"
+msgstr "오와에크(Owaec)를 다리 끝으로 이동시키세요"
 
 #. [objectives]
 #. [objective]: condition=win
@@ -7143,7 +7145,7 @@ msgstr "오웩의 사망"
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:532
 #| msgid "Death of Dacyn"
 msgid "Death of Terraent"
-msgstr "테라엔트의 사망"
+msgstr "테라엔트(Terraent)의 사망"
 
 #. [note]
 #. two prisoners and one jailer per gang
@@ -7537,14 +7539,14 @@ msgid ""
 "Can it be? Dacyn the mage? We thought you perished in the wild northlands, "
 "but now I find you alive and isolated from Wesnoth! I must inform Mal-"
 "Ravanal!"
-msgstr "설마? 마법사 다신(Dacyn)이라고? 우리는 네가 황량한 북부 지방에서 죽었다고 생각했는데, 이렇게 웨스노스(Wesnoth)와 고립된 채 살아 있는 너를 발견하다니! Mal-Ravanal에게 알려야 한다!"
+msgstr "설마? 마법사 다신(Dacyn)이라고? 우리는 네가 황량한 북부 지방에서 죽었다고 생각했는데, 이렇게 웨스노스(Wesnoth)와 고립된 채 살아 있는 너를 발견하다니! 말 라바날(Mal-Ravanal)에게 알려야 한다!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1675
 msgid ""
 "Even if we triumph at this crossing, Mal-Ravanal will surely find and "
 "destroy us before we can reunite with Wesnoth..."
-msgstr "이 건널목에서 승리하더라도 웨스노스(Wesnoth)와 다시 합류하기 전에 Mal-Ravanal이 반드시 우리를 찾아내 파괴할 것이다..."
+msgstr "이 건널목에서 승리하더라도 웨스노스(Wesnoth)와 다시 합류하기 전에 말 라바날(Mal-Ravanal)이 반드시 우리를 찾아내 파괴할 것이다..."
 
 #. [scenario]: id=14_The_Drowned_Plains
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:23
@@ -7648,7 +7650,7 @@ msgstr "... 나는 그를 해칠 수 없었어... 내 아버지였거든... 그�
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:460
 msgid "... Lord Gaelyc, I have failed you."
-msgstr "... 게일릭 경, 당신을 실망시켰습니다."
+msgstr "... 게일릭(Gaelyc) 경, 당신을 실망시켰습니다."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:461
@@ -7791,7 +7793,7 @@ msgid ""
 "No, NO! Why are there swamps here? Why are there undead here? How can this "
 "be?! How can Mal-Ravanal have already advanced so far into the heartland of "
 "Wesnoth?"
-msgstr "아니, 안 돼! 왜 여기에 늪이 있는 거지? 왜 여기에 언데드가 있는 거야? 어떻게 이런 일이?! Mal-Ravanal이 어떻게 벌써 웨스노스(Wesnoth) 중심부까지 이렇게 깊이 진격한 거지?"
+msgstr "아니, 안 돼! 왜 여기에 늪이 있는 거지? 왜 여기에 언데드가 있는 거야? 어떻게 이런 일이?! 말 라바날(Mal-Ravanal)이 어떻게 벌써 웨스노스(Wesnoth) 중심부까지 이렇게 깊이 진격한 거지?"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:882
@@ -7863,7 +7865,7 @@ msgstr "알릭(Alric) 경"
 #. speaker is a wraith, he's emerged from the chasms around Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1023
 msgid "Owaec, my son..."
-msgstr "오와에크, 내 아들아..."
+msgstr "오와에크(Owaec), 내 아들아..."
 
 #. [message]: speaker=Lord Alric
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1027
@@ -7879,7 +7881,7 @@ msgstr "아니, 사실이 아니야! 당신은 죽지 않았어! 믿을 수 없�
 #. Owaec rides off to the south, into the shroud, and disappears
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1036
 msgid "Owaec, wait!"
-msgstr "오와에크, 잠깐!"
+msgstr "오와에크(Owaec), 잠깐!"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1055
@@ -7956,7 +7958,7 @@ msgstr "동의하지만, 이상할 만큼 조용하군. 어쩌면 남은 언데�
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1237
 msgid "Loot Addogin’s smugglers’ caches."
-msgstr "아도긴의 밀수품 저장고를 약탈하세요."
+msgstr "아도긴(Addogin)의 밀수품 저장고를 약탈하세요."
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1253
@@ -8002,7 +8004,7 @@ msgstr "자네의 분노가 사라지는 즉시 이 제안도 사라진다! <i>(
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1294
 msgid "Buy the elixir for Owaec (30 gold)."
-msgstr "오와에크에게 영약 사 주기(금 30)"
+msgstr "오와에크(Owaec)에게 영약 사 주기(금 30)"
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1304
@@ -8350,7 +8352,7 @@ msgid ""
 "You fools are welcome to linger here clearing this swamp, but I intend to "
 "travel on alone and defeat Mal-Ravanal. Go as you wish on your own. I have a "
 "task to complete."
-msgstr "너희 바보들은 여기 남아 늪을 치워도 좋다. 하지만 나는 혼자 계속 나아가 Mal-Ravanal을 물리칠 생각이다. 너희는 마음대로 하도록. 나는 끝내야 할 일이 있다."
+msgstr "너희 바보들은 여기 남아 늪을 치워도 좋다. 하지만 나는 혼자 계속 나아가 말 라바날(Mal-Ravanal)을 물리칠 생각이다. 너희는 마음대로 하도록. 나는 끝내야 할 일이 있다."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:2135
@@ -8427,7 +8429,7 @@ msgstr "아나사르(Ana’sar)의 방패"
 #. [side]: type=General, id=Halrad
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:87
 msgid "Carcyn’s Pride"
-msgstr "카르신의 자존심"
+msgstr "카르신(Carcyn)의 자존심"
 
 #. [side]: type=Necromancer, id=Mal-un-Darak
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:176
@@ -8465,7 +8467,7 @@ msgid ""
 "Even this undead force appears to be (cough) but a small fraction of Mal-"
 "Ravanal’s greater host. (cough)(cough) I must meet with the king. Weldyn "
 "will fall if we do not act."
-msgstr "이 언데드 군대조차도 (콜록) Mal-Ravanal의 더 큰 군세 중 극히 일부에 불과한 것 같군. (콜록)(콜록) 왕을 만나야 하오. 우리가 행동하지 않으면 웰딘(Weldyn)은 함락될 것이오."
+msgstr "이 언데드 군대조차도 (콜록) 말 라바날(Mal-Ravanal)의 더 큰 군세 중 극히 일부에 불과한 것 같군. (콜록)(콜록) 왕을 만나야 하오. 우리가 행동하지 않으면 웰딘(Weldyn)은 함락될 것이오."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:628
@@ -8788,19 +8790,19 @@ msgstr "할라드(Halrad), 할릭(Halric), 할로드(Halrod) 장군을 보호하
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:134
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:618
 msgid "Death of Dacyn"
-msgstr "다신의 죽음"
+msgstr "다신(Dacyn)의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1002
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:622
 msgid "Death of Konrad II"
-msgstr "콘라드 2세의 죽음"
+msgstr "콘라드(Konrad) 2세의 죽음"
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1007
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:627
 msgid "Konrad II will not leave the center island."
-msgstr "Konrad 2세는 중앙 섬을 떠나지 않습니다."
+msgstr "콘라드(Konrad) 2세는 중앙 섬을 떠나지 않습니다."
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1010
@@ -8814,7 +8816,7 @@ msgstr "장군들은 그곳에 자신 또는 아군 수비대가 있는 동안 �
 msgid ""
 "If you decide not to duel Mal-Ravanal, surviving generals will aid you in "
 "the next scenario."
-msgstr "Mal-Ravanal과 결투하지 않기로 결정하면 살아남은 장군들이 다음 시나리오에서 당신을 돕습니다."
+msgstr "말 라바날(Mal-Ravanal)과 결투하지 않기로 결정하면 살아남은 장군들이 다음 시나리오에서 당신을 돕습니다."
 
 #. [message]: speaker=Halrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1037
@@ -9035,7 +9037,7 @@ msgstr "용기를 내세요, 승리가 눈앞입니다! 첫 햇살이 말-라바
 msgid ""
 "Look, the first rays of sunlight have pierced through the fog! Mal-Ravanal’s "
 "spell has begun to fail. I only wish Owaec were here to see it..."
-msgstr "보시오, 햇빛의 첫 줄기가 안개를 뚫고 들어왔소! Mal-Ravanal의 주문이 무너지기 시작했소. 오와에크(Owaec)도 여기서 이것을 볼 수 있었다면 좋았을 텐데..."
+msgstr "보시오, 햇빛의 첫 줄기가 안개를 뚫고 들어왔소! 말 라바날(Mal-Ravanal)의 주문이 무너지기 시작했소. 오와에크(Owaec)도 여기서 이것을 볼 수 있었다면 좋았을 텐데..."
 
 #. [message]: speaker=Dacyn
 #. Gweddry and Owaec are dead during this scenario, and Terraent isn't here either
@@ -9043,7 +9045,7 @@ msgstr "보시오, 햇빛의 첫 줄기가 안개를 뚫고 들어왔소! Mal-Ra
 msgid ""
 "The sun has pierced through the night’s fog; Mal-Ravanal’s spell begins to "
 "wane. I need neither Gweddry nor Owaec. I will finish this battle on my own."
-msgstr "태양이 밤의 안개를 뚫고 나왔고 Mal-Ravanal의 주문이 약해지기 시작했소. 그웨드리도 오와에크(Owaec)도 필요 없소. 이 전투는 내가 혼자 끝내겠소."
+msgstr "태양이 밤의 안개를 뚫고 나왔고 말 라바날(Mal-Ravanal)의 주문이 약해지기 시작했소. 그웨드리도 오와에크(Owaec)도 필요 없소. 이 전투는 내가 혼자 끝내겠소."
 
 #. [message]: speaker=Dacyn
 #. any undead unit from side 5 (except the leader) that was within 3 hexes of a living unit has died
@@ -9052,7 +9054,7 @@ msgstr "태양이 밤의 안개를 뚫고 나왔고 Mal-Ravanal의 주문이 약
 msgid ""
 "Mal-Ravanal’s necromancers have overexerted themselves. They are struggling "
 "to maintain all their minions."
-msgstr "Mal-Ravanal의 강령술사들은 힘을 너무 많이 소모했소. 모든 하수인을 유지하느라 고전하고 있소."
+msgstr "말 라바날(Mal-Ravanal)의 강령술사들은 힘을 너무 많이 소모했소. 모든 하수인을 유지하느라 고전하고 있소."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1764
@@ -9147,7 +9149,7 @@ msgstr "훌륭한 일이었소! 병사들을 다른 전선으로 보내겠소."
 #. [message]: speaker=Mal-Xakralan
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1918
 msgid "Mal-Ravanal will make you suffer for this!"
-msgstr "Mal-Ravanal이 이 일의 대가로 너희를 고통받게 할 것이다!"
+msgstr "말 라바날(Mal-Ravanal)이 이 일의 대가로 너희를 고통받게 할 것이다!"
 
 #. [message]: speaker=Mal-Analla
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1942
@@ -9324,7 +9326,7 @@ msgid ""
 "defenders! I must face Mal-Ravanal in a duel, and I must be the one to "
 "strike the infernal lich down! I will trust none other than myself with such "
 "responsibility."
-msgstr "이르디아 전체의 운명을 웰딘(Weldyn)의 무력한 수비대 손에 맡길 수는 없소! 내가 Mal-Ravanal과 결투해 그 지긋지긋한 리치를 쓰러뜨려야 하오! 이런 책임을 맡길 사람은 나 자신 외에는 없소."
+msgstr "이르디아 전체의 운명을 웰딘(Weldyn)의 무력한 수비대 손에 맡길 수는 없소! 내가 말 라바날(Mal-Ravanal)과 결투해 그 지긋지긋한 리치를 쓰러뜨려야 하오! 이런 책임을 맡길 사람은 나 자신 외에는 없소."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2202
@@ -9337,13 +9339,13 @@ msgstr "어려운 결정이고, 결정할 시간도 얼마 남지 않았소. 그
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2208
 msgid "challenge Mal-Ravanal to a duel. <i>(regular)</i>"
-msgstr "Mal-Ravanal에게 결투를 신청합니다. <i>(일반)</i>"
+msgstr "말 라바날(Mal-Ravanal)에게 결투를 신청합니다. <i>(일반)</i>"
 
 #. [option]
 #. both Gweddry and Owaec are dead, so this goes from "challenging" to "very hard"
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2223
 msgid "defeat Mal-Ravanal in pitched battle. <i>(very hard)</i>"
-msgstr "전면전에서 Mal-Ravanal을 물리칩니다. <i>(매우 어려움)</i>"
+msgstr "전면전에서 말 라바날(Mal-Ravanal)을 물리칩니다. <i>(매우 어려움)</i>"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2227
@@ -9379,7 +9381,7 @@ msgid ""
 "News spread quickly. Mal-Ravanal had accepted the challenge. Dacyn and six "
 "of Weldyn’s finest were to duel the lich in the abandoned catacombs under "
 "the city..."
-msgstr "소식은 빠르게 퍼졌습니다. Mal-Ravanal이 도전을 받아들였습니다. 다신(Dacyn)과 웰딘(Weldyn) 최고의 전사 여섯 명이 도시 아래 버려진 지하 묘지에서 리치와 결투하게 되었습니다..."
+msgstr "소식은 빠르게 퍼졌습니다. 말 라바날(Mal-Ravanal)이 도전을 받아들였습니다. 다신(Dacyn)과 웰딘(Weldyn) 최고의 전사 여섯 명이 도시 아래 버려진 지하 묘지에서 리치와 결투하게 되었습니다..."
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:130
@@ -9543,7 +9545,7 @@ msgstr "전쟁이 한창 진행됐는데도 저 녀석은 아직도 마법 실�
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:598
 msgid "Kill $liches_to_kill liches to reveal Mal-Ravanal"
-msgstr "리치 $liches_to_kill명을 죽여 Mal-Ravanal을 드러내세요"
+msgstr "리치 $liches_to_kill명을 죽여 말 라바날(Mal-Ravanal)을 드러내세요"
 
 #. [then]
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:705
@@ -9584,14 +9586,14 @@ msgstr "서쪽 바리케이드에 병력을 배치하고 준비를 마쳤습니�
 msgid ""
 "Now is the time to strike! In the name of the Clans, Mal-Ravanal will be "
 "ended this day!"
-msgstr "지금이 공격할 때입니다! 부족의 이름으로, 오늘 Mal-Ravanal을 끝장내겠습니다!"
+msgstr "지금이 공격할 때입니다! 부족의 이름으로, 오늘 말 라바날(Mal-Ravanal)을 끝장내겠습니다!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:854
 msgid ""
 "Now is the time to strike! By the might of all Wesnoth, Mal-Ravanal shall be "
 "ended this day!"
-msgstr "지금이 공격할 때입니다! 웨스노스(Wesnoth) 전체의 힘으로, 오늘 Mal-Ravanal을 끝장내겠습니다!"
+msgstr "지금이 공격할 때입니다! 웨스노스(Wesnoth) 전체의 힘으로, 오늘 말 라바날(Mal-Ravanal)을 끝장내겠습니다!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:881
@@ -9600,14 +9602,14 @@ msgid ""
 "(cough) Even if Mal-Ravanal is here, I will not be able to (cough) reveal "
 "them until we have killed enough of these liches to break their spell. "
 "(cough)"
-msgstr "이 리치들은 자신을 숨기기 위해 어둠의 마법을 끌어 모으고 있소. (콜록)(콜록) Mal-Ravanal이 여기에 있더라도, 이 리치들을 충분히 죽여 주문을 깨뜨리기 전에는 (콜록) 모습을 드러낼 수 없소. (콜록)"
+msgstr "이 리치들은 자신을 숨기기 위해 어둠의 마법을 끌어 모으고 있소. (콜록)(콜록) 말 라바날(Mal-Ravanal)이 여기에 있더라도, 이 리치들을 충분히 죽여 주문을 깨뜨리기 전에는 (콜록) 모습을 드러낼 수 없소. (콜록)"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:892
 msgid ""
 "Then that’s what we’ll have to do. And we will have to do it quickly, before "
 "Mal-Ravanal’s reinforcing armies overwhelm us."
-msgstr "그렇다면 그렇게 해야 하오. Mal-Ravanal의 지원군이 우리를 압도하기 전에 서둘러야 하오."
+msgstr "그렇다면 그렇게 해야 하오. 말 라바날(Mal-Ravanal)의 지원군이 우리를 압도하기 전에 서둘러야 하오."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:896
@@ -9764,7 +9766,7 @@ msgid ""
 "When Mal-Ravanal fell, the undead army collapsed like puppets with cut "
 "strings. The invading necromancers looked on in horror, unable to comprehend "
 "what had happened."
-msgstr "Mal-Ravanal이 쓰러지자 언데드 군대는 줄이 끊긴 꼭두각시처럼 무너졌습니다. 침공한 강령술사들은 무슨 일이 일어났는지 이해하지 못한 채 공포에 질려 바라보았습니다."
+msgstr "말 라바날(Mal-Ravanal)이 쓰러지자 언데드 군대는 줄이 끊긴 꼭두각시처럼 무너졌습니다. 침공한 강령술사들은 무슨 일이 일어났는지 이해하지 못한 채 공포에 질려 바라보았습니다."
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:21
@@ -9791,7 +9793,7 @@ msgstr "그러나 리치의 몸이 무너지는 순간에도, 구경하던 이�
 msgid ""
 "... and then it thinned, and paled, and a breeze from the west dissolved it "
 "in tatters, and the light of day shone once again undiminished on Weldyn."
-msgstr "... 그리고 그것은 희미해지고, 흐릿해졌으며, 서쪽에서 불어온 산들바람에 조각나며 사라져 갔다. 그리고 한낮의 빛이 원래의 모습으로 Weldyn에 다시 내리쬐었다."
+msgstr "... 그리고 그것은 희미해지고, 흐릿해졌으며, 서쪽에서 불어온 산들바람에 조각나며 사라져 갔다. 그리고 한낮의 빛이 원래의 모습으로 웰딘(Weldyn)에 다시 내리쬐었다."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:113
@@ -9804,7 +9806,7 @@ msgstr "레나에라완(Renaerawan)"
 msgid ""
 "We are gathered here today in remembrance of our dear colleague and friend, "
 "Dacyn, who fell even as he vanquished the arch-lich Mal-Ravanal."
-msgstr "우리는 오늘 사랑하는 동료이자 친구인 다신(Dacyn)을 추모하기 위해 이 자리에 모였습니다. 다신(Dacyn)은 대리치 Mal-Ravanal을 물리내는 순간 쓰러졌습니다."
+msgstr "우리는 오늘 사랑하는 동료이자 친구인 다신(Dacyn)을 추모하기 위해 이 자리에 모였습니다. 다신(Dacyn)은 대리치 말 라바날(Mal-Ravanal)을 물리내는 순간 쓰러졌습니다."
 
 #. [message]: speaker=Renaerawan
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:202
@@ -9822,7 +9824,7 @@ msgstr "오늘 우리는 위대한 승리를 거두었지만, 큰 대가를 치�
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:212
 msgid "Grug sad! Magic man kind."
-msgstr "그루그 슬퍼! 마법사 착한 사람."
+msgstr "그루그(Grug) 슬퍼! 마법사 착한 사람."
 
 #. [message]: speaker=Dolburras
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:216
@@ -9902,7 +9904,7 @@ msgstr "그루그(Grug), 오우거 강령술사는 짐에게 완전히 새로운
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:288
 msgid "Guh... Grug say no magic yes ok."
-msgstr "구... 그루그 마법 안 해, 그래 알겠어."
+msgstr "구... 그루그(Grug) 마법 안 해, 그래 알겠어."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:297
@@ -10321,7 +10323,7 @@ msgstr "모든 드레이크 지도자를 물리치십시오"
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:582
 #| msgid "King Dra-Nak"
 msgid "Death of Chief Dra-Nak"
-msgstr "족장 드라-나크의 사망"
+msgstr "족장(Dra-Nak) 드라-나크의 사망"
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:586
@@ -11005,7 +11007,7 @@ msgstr "마을 주민은 상인, 장인, 또는 귀족 가문의 하인이든 �
 #. [unit_type]: id=Naga Centurion, race=naga, gender=male,female
 #: data/campaigns/Eastern_Invasion/units/Naga_Centurion.cfg:4
 msgid "Naga Centurion"
-msgstr "나가 백인대장"
+msgstr "나가(Naga) 백인대장"
 
 #. [unit_type]: id=Naga Centurion, race=naga, gender=male,female
 #: data/campaigns/Eastern_Invasion/units/Naga_Centurion.cfg:20
@@ -11123,7 +11125,10 @@ msgid ""
 "When any of Mal-Ravanal’s recruits die, that unit will be reanimated as a "
 "weaker undead version of itself. Enemies killed by Mal-Ravanal will rise "
 "again as ghosts."
-msgstr "이 유닛은 쓰러진 아군과 적을 되살릴 수 있습니다.\n\nMal-Ravanal의 병사가 죽으면 해당 유닛은 더 약한 언데드 형태로 되살아납니다. Mal-Ravanal에게 죽은 적은 유령으로 다시 일어납니다."
+msgstr ""
+"이 유닛은 쓰러진 아군과 적을 되살릴 수 있습니다.\n"
+"\n"
+"말 라바날(Mal-Ravanal)의 병사가 죽으면 해당 유닛은 더 약한 언데드 형태로 되살아납니다. 말 라바날(Mal-Ravanal)에게 죽은 적은 유령으로 다시 일어납니다."
 
 #. [unit_type]: id=Skeletal Corpse, race=undead
 #: data/campaigns/Eastern_Invasion/units/Undead_Skeletal_Corpse.cfg:5
@@ -11362,7 +11367,7 @@ msgstr "오와에크(Owaec)"
 
 #: data/campaigns/Eastern_Invasion/utils/character-definitions.cfg:93
 msgid "Konrad II"
-msgstr "콘라드 2세"
+msgstr "콘라드(Konrad) 2세"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:13
@@ -11488,7 +11493,7 @@ msgstr "얀닉(Yannic)! 오늘 부족은 또 다른 용감한 영혼을 잃었�
 #. [message]: speaker=Halrad
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:271
 msgid "I may die, but Wesnoth will never fall!"
-msgstr "나는 죽을지언정 웨스노스는 절대 무너지지 않는다!"
+msgstr "나는 죽을지언정 웨스노스(Wesnoth)는 절대 무너지지 않는다!"
 
 #. [message]: speaker=Halric
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:285
@@ -11617,7 +11622,7 @@ msgstr "쓰러진 내 백성의 복수를 하겠다!"
 msgid ""
 "Mal-Ravanal, at last I face you. I will have my vengeance for the "
 "destruction you wrought on my people!"
-msgstr "Mal-Ravanal, 드디어 너와 마주하는구나. 네가 내 백성에게 저지른 파괴를 복수하겠다!"
+msgstr "말 라바날(Mal-Ravanal), 드디어 너와 마주하는구나. 네가 내 백성에게 저지른 파괴를 복수하겠다!"
 
 #. [message]: speaker=Dolburras
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:140

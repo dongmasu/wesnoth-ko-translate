@@ -141,7 +141,7 @@ msgstr "난쟁이족"
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:37
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:25
 msgid "Haldric II"
-msgstr "할드릭 2세"
+msgstr "할드릭(Haldric) 2세"
 
 #. [side]: type=Elvish Captain, id=Glildur
 #. [side]: type=Elvish Marshal, id=Glildur
@@ -232,12 +232,12 @@ msgstr "불의 루비를 가진 알라닌(Alanin)을 북동쪽 구석의 드워�
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:635
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1102
 msgid "Death of Rugnur"
-msgstr "룩누르의 죽음"
+msgstr "룩누르(Rugnur)의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:243
 msgid "Death of Haldric II"
-msgstr "할드릭 2세의 죽음"
+msgstr "할드릭(Haldric) 2세의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:247
@@ -247,7 +247,7 @@ msgstr "할드릭 2세의 죽음"
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:213
 #: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:101
 msgid "Death of Alanin"
-msgstr "알라닌의 죽음"
+msgstr "알라닌(Alanin)의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:251
@@ -595,7 +595,7 @@ msgstr "엘프 지원군이다! 어디서 온 거지? 조약에 반대하는 엘
 #. [message]: speaker=unit
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:909
 msgid "Die, humans! In the name of Landar!"
-msgstr "죽어라, 인간들아! 란다르의 이름으로!"
+msgstr "죽어라, 인간들아! 란다르(Landar)의 이름으로!"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:913
@@ -610,7 +610,7 @@ msgstr "죽어라, 드워프 쓰레기들아! 란다르(Landar)의 이름으로!
 #. [message]: speaker=second_unit
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:934
 msgid "Yer precious Landar can kiss my axe."
-msgstr "네 소중한 란다르에게 내 도끼나 맛보라고 해."
+msgstr "네 소중한 란다르(Landar)에게 내 도끼나 맛보라고 해."
 
 #. [message]: speaker=unit
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:945
@@ -670,7 +670,7 @@ msgstr "동굴의 모든 엘프를 처치하세요"
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:96
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:144
 msgid "Death of Baglur"
-msgstr "바글루르의 죽음"
+msgstr "바글루르(Baglur)의 죽음"
 
 #. [note]
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:153
@@ -761,7 +761,7 @@ msgstr "참견을 그만두시오, 늙은 드워프! 여기 책임자는 룩누�
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:374
 msgid "Baglur, how do you close the gates?"
-msgstr "바글루르, 문을 어떻게 닫는 거요?"
+msgstr "바글루르(Baglur), 문을 어떻게 닫는 거요?"
 
 #. [message]: speaker=Baglur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:378
@@ -897,7 +897,7 @@ msgstr "룬 세공사에게 도달하기"
 #. [side]: type=Orcish Warrior, id=Bragdash
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:32
 msgid "Bragdash Gar"
-msgstr "브라그다시 가르"
+msgstr "브라그다시 가르(Gar)"
 
 #. [side]: type=Orcish Warrior, id=Bragdash
 #. [side]
@@ -911,7 +911,7 @@ msgstr "오크들"
 #. [side]: type=Goblin Rouser, id=Pidmer
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:50
 msgid "Pidmer Gar"
-msgstr "피드메르 가르"
+msgstr "피드메르 가르(Gar)"
 
 #. [side]: type=Goblin Rouser, id=Pidmer
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:57
@@ -1379,7 +1379,7 @@ msgstr "투르사간(Thursagan)을 찾아 드워프 도시로 돌아오도록 �
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:127
 msgid "Move Thursagan to the signpost"
-msgstr "투르사간을 이정표로 이동시키세요"
+msgstr "투르사간(Thursagan)을 이정표로 이동시키세요"
 
 #. [objective]: condition=lose
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:148
@@ -1390,7 +1390,7 @@ msgstr "투르사간을 이정표로 이동시키세요"
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:639
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1106
 msgid "Death of Krawg"
-msgstr "크라그의 죽음"
+msgstr "크라그(Krawg)의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:157
@@ -1402,7 +1402,7 @@ msgstr "크라그의 죽음"
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:643
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1110
 msgid "Death of Thursagan"
-msgstr "투르사간의 죽음"
+msgstr "투르사간(Thursagan)의 죽음"
 
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:219
@@ -1696,7 +1696,7 @@ msgstr "그래, 투르사간(Thursagan)이 함께 오도록 설득했네. 그리
 #. [message]: speaker=Krawg
 #: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:140
 msgid "Yaa! Krawg!"
-msgstr "야아! 크라그!"
+msgstr "야아! 크라그(Krawg)!"
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:144
@@ -2051,7 +2051,7 @@ msgstr "아... 그렇지, 그렇지. 좋아!"
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:167
 msgid "Theganli?"
-msgstr "테간리?"
+msgstr "테간리(Theganli)?"
 
 #. [message]: speaker=Kuhnar
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:171
@@ -2061,7 +2061,7 @@ msgstr "남쪽 터널의 작업장에 있습니다."
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:175
 msgid "<i>Harrumph!</i> Kuhnar, go summon him!"
-msgstr "<i>흥!</i> 쿠나르, 가서 데려와라!"
+msgstr "<i>흥!</i> 쿠나르(Kuhnar), 가서 데려와라!"
 
 #. [message]: speaker=Kuhnar
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:181
@@ -2144,7 +2144,7 @@ msgstr "글쎄... 쇼어베어(Shorbear) 부족에게 부탁해 보는 건 어�
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:307
 msgid "Shorbear? Who are they?"
-msgstr "쇼어베어? 그들은 누구지?"
+msgstr "쇼어베어(Shorbear)? 그들은 누구지?"
 
 #. [message]: speaker=Theganli
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:311
@@ -2245,7 +2245,7 @@ msgstr "모든 영웅을 쇼어베어(Shorbear) 동굴에 배치하고 적을 �
 #. [objective]: condition=lose
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:199
 msgid "Death of Durstorn"
-msgstr "두르스토른의 죽음"
+msgstr "두르스토른(Durstorn)의 죽음"
 
 #. [message]: speaker=Kuhnar
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:279
@@ -2405,7 +2405,7 @@ msgstr "하! 어디 한번 해 보시지!"
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:395
 msgid "You’re making a mistake, Durstorn."
-msgstr "실수하는 겁니다, 두르스토른."
+msgstr "실수하는 겁니다, 두르스토른(Durstorn)."
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:410
@@ -2444,7 +2444,7 @@ msgstr "용감한 드워프 하나가 달려나가 튼튼한 목 깃털을 붙�
 #. [message]: speaker=narrator
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:457
 msgid "You may now recruit Gryphon Riders."
-msgstr "이제 그리폰 기수를 소집할 수 있습니다."
+msgstr "이제 그리폰(Gryphon) 기수를 소집할 수 있습니다."
 
 #. [message]: speaker=Glildur
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:490
@@ -2683,7 +2683,7 @@ msgstr "닥쳐, 룩누르(Rugnur)! 네가 뭘 안다고 그러는 거냐. 내가
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:320
 msgid "What happened to your honor, Durstorn?!"
-msgstr "당신의 명예는 어떻게 된 겁니까, 두르스토른?!"
+msgstr "당신의 명예는 어떻게 된 겁니까, 두르스토른(Durstorn)?!"
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:324
@@ -2835,7 +2835,7 @@ msgstr "고마워!"
 #. [message]: speaker=narrator
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:532
 msgid "Alanin has gained new abilities!"
-msgstr "알라닌이 새로운 능력을 얻었습니다!"
+msgstr "알라닌(Alanin)이 새로운 능력을 얻었습니다!"
 
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:537
@@ -3086,7 +3086,7 @@ msgstr "모든 영웅을 터널 끝으로 이동시키세요"
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:144
 msgid "Move Thursagan to the forge"
-msgstr "투르사간을 대장간으로 이동시키세요"
+msgstr "투르사간(Thursagan)을 대장간으로 이동시키세요"
 
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:151
@@ -3416,7 +3416,7 @@ msgstr "그래, 크라그(Krawg). 저것이 화산을 봉인하는 마지막 룬
 #. [message]: speaker=Krawg
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:754
 msgid "Krawg sad."
-msgstr "크라그 슬퍼."
+msgstr "크라그(Krawg) 슬퍼."
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:758
@@ -3855,7 +3855,7 @@ msgstr "네가 보는 앞에서 왕홀이 완성되지 않았다면, 그것이 �
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:162
 msgid "I will let Krawg explain that."
-msgstr "그건 크라그가 설명하게 하겠습니다."
+msgstr "그건 크라그(Krawg)가 설명하게 하겠습니다."
 
 #. [message]: speaker=Haldric II
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:166
@@ -3999,7 +3999,7 @@ msgstr "이 유닛은 방어 중일 때 이 공격으로 항상 먼저 공격하
 #. [unit_type]: id=Cave Wyrm, race=monster
 #: data/campaigns/Sceptre_of_Fire/units/Cave_Wyrm.cfg:5
 msgid "Cave Wyrm"
-msgstr "동굴 웜"
+msgstr "동굴 웜(Wyrm)"
 
 #. [unit_type]: id=Cave Wyrm, race=monster
 #: data/campaigns/Sceptre_of_Fire/units/Cave_Wyrm.cfg:20
@@ -4047,7 +4047,7 @@ msgstr "왕"
 #. [unit_type]: id=Haldric II, race=human
 #: data/campaigns/Sceptre_of_Fire/units/Haldric_II.cfg:21
 msgid "King of Wesnoth."
-msgstr "웨스노스의 왕."
+msgstr "웨스노스(Wesnoth)의 왕."
 
 #. [unit_type]: id=Red Wyrm, race=monster
 #: data/campaigns/Sceptre_of_Fire/units/Red_Wyrm.cfg:17

@@ -278,6 +278,42 @@ class GlossaryTests(unittest.TestCase):
             "term",
         )
 
+    def test_embedded_name_audit_pairs_raw_english_names(self):
+        _, rows = glossary_rows()
+        by_source = {row["source_term"]: row["standard_korean"] for row in rows}
+        self.assertEqual(by_source["Deoran"], "데오란(Deoran)")
+        self.assertEqual(
+            by_source["Return to Kerlath"],
+            "케를라스(Kerlath)로 귀환",
+        )
+
+    def test_compound_name_components_are_available_for_prose(self):
+        from tools.audit_and_pair_embedded_names import load_pairs
+
+        pairs, conflicts = load_pairs(GLOSSARY)
+        self.assertFalse(conflicts)
+        pair_map = {(pair.source, pair.korean) for pair in pairs}
+        self.assertIn(("Darken", "다켄"), pair_map)
+        self.assertIn(("Volk", "볼크"), pair_map)
+        self.assertNotIn(("Minister", "에드렌"), pair_map)
+
+    def test_embedded_name_audit_skips_wml_name_generators(self):
+        from tools.audit_and_pair_embedded_names import process_file
+
+        sample = (
+            'msgid ""\n'
+            '"main={prefix}{suffix}\\n"\n'
+            'msgstr ""\n'
+            '"prefix=Ali|Ama\\n"\n'
+        )
+        path = ROOT / "tests" / ".tmp-name-generator.po"
+        path.write_text(sample, encoding="utf-8")
+        try:
+            messages, unresolved = process_file(path, [], apply=False)
+            self.assertEqual((messages, unresolved), (0, 0))
+        finally:
+            path.unlink()
+
     def test_zone_of_control_keeps_the_standard_acronym(self):
         _, rows = glossary_rows()
         by_source = {row["source_term"]: row for row in rows}

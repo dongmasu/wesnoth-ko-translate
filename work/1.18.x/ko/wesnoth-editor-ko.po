@@ -428,7 +428,7 @@ msgstr "불러오기된 참조 지도 파일:"
 #: src/editor/map/editor_map.cpp:146
 #: src/editor/palette/location_palette.cpp:119
 msgid "Player $side_num"
-msgstr "$side_num 번 플레이어"
+msgstr "$side_num 번 플레이어(Player)"
 
 #: src/editor/map/editor_map.cpp:281
 msgid "The size of the target map is different from the current map"

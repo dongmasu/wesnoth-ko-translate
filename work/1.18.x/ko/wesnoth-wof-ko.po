@@ -170,7 +170,7 @@ msgstr "그들의 구술된 기억들은 다른 계층들이 잊어버린 것을
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:49
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:133
 msgid "Gorlack’s Wing"
-msgstr "고를락의 날개"
+msgstr "고를락(Gorlack)의 날개"
 
 #. [side]
 #. [part]
@@ -236,7 +236,7 @@ msgstr "생명체 20 마리를 처치하라    (지금까지 총 $kill_total 마
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:296
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:191
 msgid "Death of Gorlack"
-msgstr "고를락의 죽음"
+msgstr "고를락(Gorlack)의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:88
@@ -249,7 +249,7 @@ msgstr "고를락의 죽음"
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:224
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:195
 msgid "Death of Resha"
-msgstr "레샤의 죽음"
+msgstr "레샤(Resha)의 죽음"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:95
@@ -399,7 +399,7 @@ msgstr "그렇군, 용감한 카르론(Karron)께서 모로고르(Morogor)의 �
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:273
 msgid "Karron, you are without companions."
-msgstr "카르론, 당신은 동료가 없군요."
+msgstr "카르론(Karron), 당신은 동료가 없군요."
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:277
@@ -437,7 +437,7 @@ msgstr "원하는데로."
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:305
 msgid "...... Karron, hold."
-msgstr "...... 카르론, 잠깐만."
+msgstr "...... 카르론(Karron), 잠깐만."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:311
@@ -854,7 +854,7 @@ msgstr "그라그(Grag)"
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:228
 msgid "Karron’s Wing"
-msgstr "카르론의 편대"
+msgstr "카르론(Karron)의 편대"
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:249
@@ -879,7 +879,7 @@ msgstr "남아 있는 오크의 배들을 모두 파괴하라"
 #. [objective]: condition=lose
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:275
 msgid "Death of Viragar"
-msgstr "비라가르의 죽음"
+msgstr "비라가르(Viragar)의 죽음"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:290
@@ -1085,7 +1085,7 @@ msgstr ""
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:515
 msgid "Lo! Karron reinforces us."
-msgstr "보세요! 카르론이 이끄는 지원군입니다."
+msgstr "보세요! 카르론(Karron)이 이끄는 지원군입니다."
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:521
@@ -1112,7 +1112,7 @@ msgstr ""
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:535
 msgid "You do not command me, Gorlack."
-msgstr "당신의 지시 따위는 받을 생각이 없어, 고를락."
+msgstr "당신의 지시 따위는 받을 생각이 없어, 고를락(Gorlack)."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:539
@@ -1395,7 +1395,7 @@ msgid ""
 "Excellent, Resha!\n"
 "Speak of it."
 msgstr ""
-"훌륭하군, 레샤!\n"
+"훌륭하군, 레샤(Resha)!\n"
 "그것에 대해 이야기해보게."
 
 #. [part]
@@ -1553,12 +1553,12 @@ msgstr "비행단을 이끄는 모든 기술들이 시험대에 올랐다. 각�
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:57
 msgid "Contender Gorlack"
-msgstr "경쟁자(Gorlack) 고를락"
+msgstr "경쟁자(Gorlack) 고를락(Gorlack)"
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:97
 msgid "Contender Karron"
-msgstr "경쟁자(Karron) 카르론"
+msgstr "경쟁자(Karron) 카르론(Karron)"
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:146
@@ -1573,7 +1573,7 @@ msgstr "24 차례가 끝날때까지 우위를 유지하라"
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:216
 msgid "Defeat Karron"
-msgstr "카르론을 무찔러라"
+msgstr "카르론(Karron)을 무찔러라"
 
 #. [objective]: condition=lose
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:220
@@ -1583,7 +1583,7 @@ msgstr "24 차례가 끝날 때 우위를 유지 하지 않음"
 #. [objective]: condition=lose
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:224
 msgid "Defeat of Gorlack"
-msgstr "고를락의 패배"
+msgstr "고를락(Gorlack)의 패배"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:231
@@ -2502,7 +2502,7 @@ msgstr "전방 날개"
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:68
 msgid "Haldric Creatures"
-msgstr "할드릭 생명체들"
+msgstr "할드릭(Haldric) 생명체들"
 
 #. [leader]: id=Rhynnin, type=Lieutenant
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:75
@@ -2523,7 +2523,7 @@ msgstr "엘린(Elyn)"
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:150
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:183
 msgid "Sword of Aethyr"
-msgstr "애띠르의 칼"
+msgstr "애띠르(Aethyr)의 칼"
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:147
@@ -2642,7 +2642,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:412
 msgid "Kill Rhynnin"
-msgstr "린닌을 처치하라"
+msgstr "린닌(Rhynnin)을 처치하라"
 
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:421
@@ -2658,7 +2658,7 @@ msgstr "모든 마을을 점령하라"
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:375
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:300
 msgid "Death of Arinexis"
-msgstr "아리넥시스의 죽음"
+msgstr "아리넥시스(Arinexis)의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:442
@@ -2670,7 +2670,7 @@ msgstr "아리넥시스의 죽음"
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:304
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:199
 msgid "Death of Zedrix"
-msgstr "제드릭스의 죽음"
+msgstr "제드릭스(Zedrix)의 죽음"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:455
@@ -2964,10 +2964,10 @@ msgstr ""
 "\n"
 "또 다른 물의 힘을 발견했다. 이곳, 세 자매의 섬들 깊은 곳에 있다. 할드릭(Haldric)이 그것을 고갈시키던 요정 험한것들을 파괴한 지 3년밖에 되지 않았는데, 벌써 북쪽 해안에 큰 소용돌이가 형성되었다. 도깨비불이 그의 배를 쫓아내기 전에 탐색자 퍼스가 알두인(Alduin) 서쪽에서 발견한 소용돌이들과 같다.\n"
 "\n"
-"정말로, 큰 대륙 전체를 따라 20리그(약 96.56km)마다 물의 힘이 있어야 한다. 모든 것이 탐색자 오틸라가 예측한 그대로다. 우리는 그녀를 초록섬에 남겨두지 말았어야 했다. 그녀의 연구 없이는 은빛 기사단이 이 대륙에서 인류가 무엇을 상대하고 있는지 알기까지 수 세기가 걸릴 수도 있다. 정령 세계는 우리가 상상했던 것보다 훨씬 강하다.\n"
+"정말로, 큰 대륙 전체를 따라 20리그(약 96.56km)마다 물의 힘이 있어야 한다. 모든 것이 탐색자 오(O)틸라가 예측한 그대로다. 우리는 그녀를 초록섬에 남겨두지 말았어야 했다. 그녀의 연구 없이는 은빛 기사단이 이 대륙에서 인류가 무엇을 상대하고 있는지 알기까지 수 세기가 걸릴 수도 있다. 정령 세계는 우리가 상상했던 것보다 훨씬 강하다.\n"
 "\n"
 "\n"
-"——무언가 잘못되었다. 북서쪽 망루에서 경고 신호를 받고 남쪽 돌섬에서 연기가 피어오르고 있다. 린닌(Rhynnin)의 원정대가 공격을 받고 있으며, 단순한 도마뱀 족 이상의 것이 있다고 느낀다. 나는 지원을 가야 한다.\n"
+"——무언가 잘못되었다. 북서쪽 망루에서 경고 신호를 받고 남쪽 돌섬에서 연기가 피어오(O)르고 있다. 린닌(Rhynnin)의 원정대가 공격을 받고 있으며, 단순한 도마뱀 족 이상의 것이 있다고 느낀다. 나는 지원을 가야 한다.\n"
 "\n"
 "이 기록을 해독할 시간이 없고, 알 수 없는 적에게 붙잡힐 위험을 무릅쓰고 기록서를 가져갈 수도 없다. 하지만 나는 그것을 파괴하지 않을 것이다. 은빛 기사단의 비밀따위 저주나 쳐 받아라. 바다가 이 책을 엘렌세(Elense) 요새로 운반하여 누군가가 여기서 발견된 것을 알게 되기를 바란다."
 
@@ -3458,12 +3458,12 @@ msgstr "할드릭(Haldric) 국왕"
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:90
 msgid "Queen Jessene"
-msgstr "제세네 여왕"
+msgstr "제세네(Jessene) 여왕"
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:91
 msgid "Lance of Ladoc"
-msgstr "라도크의 창"
+msgstr "라도크(Ladoc)의 창"
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:106
@@ -3480,7 +3480,7 @@ msgstr "모든 인간을 처치하라"
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:148
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:187
 msgid "Death of Karron"
-msgstr "카르론의 죽음"
+msgstr "카르론(Karron)의 죽음"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:155
@@ -3556,7 +3556,7 @@ msgstr ""
 #. [message]: speaker=Iryn
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:237
 msgid "General Vorlyan! We have a problem."
-msgstr "보르리안 장군님! 문제가 생겼습니다."
+msgstr "보르리안(Vorlyan) 장군님! 문제가 생겼습니다."
 
 #. [message]: speaker=Vorlyan
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:241
@@ -3640,7 +3640,7 @@ msgstr "오늘 우리는 배불리 먹을 수 있겠군!"
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:416
 msgid "Alas! Karron is slain!"
-msgstr "아아! 카르론이 죽었다!"
+msgstr "아아! 카르론(Karron)이 죽었다!"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:427
@@ -4269,7 +4269,7 @@ msgstr ""
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:352
 msgid "Salennea, pray allow usss entry."
-msgstr "살레네아, 부디 우리에게 들어가는 것을 허락해주세요."
+msgstr "살레네아(Salennea), 부디 우리에게 들어가는 것을 허락해주세요."
 
 #. [message]: speaker=Vonel
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:358
@@ -4380,7 +4380,7 @@ msgstr "물론입니다, 아가씨."
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:457
 msgid "“The Diary of Lady Salennea”"
-msgstr "“살레네아 숙녀의 일기”"
+msgstr "“살레네아(Salennea) 숙녀의 일기”"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:462
@@ -4706,7 +4706,7 @@ msgstr "‘지는 해의 형제들’ 쓰쓰쓰"
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:265
 msgid "‘Union of Saurgrath and Morogor’"
-msgstr "‘사우르그라트와 모로고르의 연합’"
+msgstr "‘사우르그라트와 모로고르(Morogor)의 연합’"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:271
@@ -4752,7 +4752,7 @@ msgstr ""
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:318
 msgid "Gorlack, the wings are slain."
-msgstr "고를락, 날개들은 죽었습니다."
+msgstr "고를락(Gorlack), 날개들은 죽었습니다."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:322
@@ -5063,7 +5063,7 @@ msgstr "휴전을 할 것이오."
 #. [message]: speaker=Avatar of Nova
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:668
 msgid "Thank you, Gorlack and Resha."
-msgstr "고맙소, 고를락과 레샤여."
+msgstr "고맙소, 고를락(Gorlack)과 레샤(Resha)여."
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:672
@@ -5163,7 +5163,7 @@ msgstr "잘 가요, 내 친구여..."
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:832
 msgid "Resha..."
-msgstr "레샤..."
+msgstr "레샤(Resha)..."
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:857
@@ -5674,7 +5674,7 @@ msgstr ""
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:405
 msgid "You shunned Resha’s fears too."
-msgstr "당신은 레샤의 두려움도 피했죠."
+msgstr "당신은 레샤(Resha)의 두려움도 피했죠."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:409
@@ -5876,12 +5876,12 @@ msgstr "그까이꺼, 거래 한번 허는 거지, 뭐. 느그를 위해 내 꼬
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:751
 msgid "Gorlack, it seems no cave can keep us!"
-msgstr "고를락, 어떤 동굴도 우리를 가둘 수 없는 것 같아!"
+msgstr "고를락(Gorlack), 어떤 동굴도 우리를 가둘 수 없는 것 같아!"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:757
 msgid "<i>Resha...</i>"
-msgstr "<i>레샤...</i>"
+msgstr "<i>레샤(Resha)...</i>"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:763
@@ -5917,7 +5917,7 @@ msgstr "내 친구, 다시 한번 당신에게 빚을 졌어요."
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:802
 msgid "Nay, Resha, it is I that owes you."
-msgstr "아니, 레샤, 빚을 진 것은 나다."
+msgstr "아니, 레샤(Resha), 빚을 진 것은 나다."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:808
@@ -5955,7 +5955,7 @@ msgstr "카르론(Karron)을 여섯 면 모두에서 포위하여 사로잡아�
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:206
 msgid "Karron may employ surprise attacks"
-msgstr "카르론은 기습 공격을 사용할 수 있습니다"
+msgstr "카르론(Karron)은 기습 공격을 사용할 수 있습니다"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:217
@@ -6104,7 +6104,7 @@ msgstr ""
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:307
 msgid "Lisssten to Karron!"
-msgstr "카르론의 말을 들으시오!"
+msgstr "카르론(Karron)의 말을 들으시오!"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:313
@@ -6910,7 +6910,7 @@ msgstr "너무 많은 것이... 미완성으로 남았습니다..."
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/utils/characters.cfg:128
 msgid "Resha!"
-msgstr "레샤!"
+msgstr "레샤(Resha)!"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/utils/characters.cfg:142

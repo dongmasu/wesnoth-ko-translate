@@ -231,7 +231,7 @@ msgstr "나중에:\n\n더 관찰해 본 결과, 이것은 죽음을 피하는 �
 #. [objective]: condition=win
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:175
 msgid "Move Ardonna to the signpost"
-msgstr "아르도나를 표지판으로 이동"
+msgstr "아르도나(Ardonna)를 표지판으로 이동"
 
 #. [note]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:187
@@ -946,7 +946,7 @@ msgstr "오! 성공했어요! 바람이 불면 선장님, 우리를 항구로 �
 #. [scenario]: id=05_Blackwater
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:13
 msgid "Blackwater"
-msgstr "검은물"
+msgstr "검은물(Blackwater)"
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:26
@@ -1197,7 +1197,7 @@ msgstr "동굴 뒤쪽에 터널이 있어요! 유령은 분명 저기로 지나�
 #. [objective]: condition=win
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:285
 msgid "Move Ardonna to the tunnel"
-msgstr "아르도나를 터널로 이동시키십시오"
+msgstr "아르도나(Ardonna)를 터널로 이동시키십시오"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:514
@@ -1447,7 +1447,7 @@ msgstr "마을 방어"
 #. [side]: type=Swordsman, id=Carcyn Fisher
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:58
 msgid "Carcyn Fisher"
-msgstr "카르신 어부"
+msgstr "카르신(Carcyn) 어부"
 
 #. [objective]: condition=win
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:76
@@ -1530,7 +1530,7 @@ msgstr "아니... 뭐, 아시잖아요. 우리를 꺼내 주셔서 정말 감사
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:264
 msgid "You are Carcyn the Third I presume?"
-msgstr "당신이 카르신 3세겠지요?"
+msgstr "당신이 카르신(Carcyn) 3세겠지요?"
 
 #. [message]: speaker=Carcyn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:273
@@ -1564,7 +1564,7 @@ msgstr "이제 유일한 카르신(Carcyn)이군요. 누군가 제 아버지를 
 #. [message]: speaker=Shynal
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:295
 msgid "You’re the only Carcyn for me."
-msgstr "당신만이 제게 유일한 카르신이에요."
+msgstr "당신만이 제게 유일한 카르신(Carcyn)이에요."
 
 #. [message]: speaker=Raydah
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:308
@@ -2144,7 +2144,7 @@ msgstr "나는 별과 별 사이의 어둠을 응시해 왔고 공허에도 겁�
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:230
 msgid "Very well, come along. I am Ardonna."
-msgstr "좋아, 같이 가자. 나는 아르도나야."
+msgstr "좋아, 같이 가자. 나는 아르도나(Ardonna)야."
 
 #. [message]: speaker=Vendraxis
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:234
@@ -2636,7 +2636,7 @@ msgstr "크렐라누(Crelanu)"
 #. [objective]: condition=win
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/16_The_Mage.cfg:73
 msgid "Defeat Crelanu"
-msgstr "크렐라누를 물리치십시오"
+msgstr "크렐라누(Crelanu)를 물리치십시오"
 
 #. [note]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/16_The_Mage.cfg:85
@@ -2677,7 +2677,7 @@ msgstr "린코난(Rinconan)과 제가 여기 남아 당신을 지키겠습니다
 #. [message]: speaker=Crelanu
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/16_The_Mage.cfg:278
 msgid "Yes. Thank you Ginmera."
-msgstr "그래. 고맙구나, 긴메라."
+msgstr "그래. 고맙구나, 긴메라(Ginmera)."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/16_The_Mage.cfg:284
@@ -2932,7 +2932,7 @@ msgstr "강령술사를 리치로 만들려면 성 안에 있을 때 해당 유�
 #. [set_menu_item]: id=lichify
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/18_Abandoned_Outpost.cfg:104
 msgid "Make Into a Lich"
-msgstr "리치로 만들기"
+msgstr "리치(Lich)로 만들기"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/18_Abandoned_Outpost.cfg:134
@@ -3265,7 +3265,7 @@ msgstr "적은 이미 우리 성벽을 뚫으려 하고 있다! 무기를 들어
 #. [message]: speaker=Thrigalurd
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:336
 msgid "Now we avenge the fallen of Knalga!"
-msgstr "이제 크날가의 전사자들을 복수할 때다!"
+msgstr "이제 크날가(Knalga)의 전사자들을 복수할 때다!"
 
 #. [message]: speaker=Carmyna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:359
@@ -3634,7 +3634,7 @@ msgstr "벤드락시스(Vendraxis)"
 #. [objective]: condition=lose
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:96
 msgid "Death of Ardonna"
-msgstr "아르도나의 죽음"
+msgstr "아르도나(Ardonna)의 죽음"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:130
@@ -3655,7 +3655,7 @@ msgstr "하지만 아직 당신을 되살리는 방법을 모르겠어요!"
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:194
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:251
 msgid "Shynal!"
-msgstr "쉬날!"
+msgstr "쉬날(Shynal)!"
 
 #. [message]: speaker=Carcyn
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:198
@@ -3698,7 +3698,7 @@ msgstr "그럴 리가 없어. 그녀는 이미 죽음에서 돌아온 존재였�
 #. [message]: speaker=Shynal
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:272
 msgid "Oh, my sweet Carcyn!"
-msgstr "오, 나의 사랑하는 카르신!"
+msgstr "오, 나의 사랑하는 카르신(Carcyn)!"
 
 #. [message]: speaker=Shynal
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:288
@@ -3748,7 +3748,7 @@ msgstr "아아. 샤이날 같은 마법사가 되고 싶었는데."
 #. [message]: speaker=$unit.id
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:437
 msgid "Aww. I wanted to be a mage like Carcyn."
-msgstr "아아. 카르신 같은 마법사가 되고 싶었는데."
+msgstr "아아. 카르신(Carcyn) 같은 마법사가 되고 싶었는데."
 
 #. [option]
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:444
@@ -4030,7 +4030,7 @@ msgstr "이제 고블린 시체를 되살릴 수 있습니다!"
 #. [value]: type=SotA Flying Corpse_Gryphon
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:87
 msgid "recruit^Flying Corpse (Gryphon)"
-msgstr "날아다니는 시체 (그리폰)"
+msgstr "날아다니는 시체 (그리폰(Gryphon))"
 
 #. [value]: type=SotA Flying Corpse_Gryphon
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:88
@@ -4050,7 +4050,7 @@ msgstr "이제 거미 시체를 되살릴 수 있습니다!"
 #. [value]: type=SotA Walking Corpse_Troll
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:99
 msgid "recruit^Walking Corpse (Troll)"
-msgstr "걸어다니는 시체 (트롤)"
+msgstr "걸어다니는 시체 (트롤(Troll))"
 
 #. [value]: type=SotA Walking Corpse_Troll
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:100
@@ -4075,17 +4075,17 @@ msgstr "Lua 오류가 발생하여 시체를 소집할 수 없습니다."
 #. [lua]: select
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie_recruit_dialog.lua:23
 msgid "HP: "
-msgstr "HP: "
+msgstr "체력(HP): "
 
 #. [lua]: select
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie_recruit_dialog.lua:23
 msgid "MP: "
-msgstr "MP: "
+msgstr "마력(MP): "
 
 #. [lua]: select
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie_recruit_dialog.lua:23
 msgid "XP: "
-msgstr "XP: "
+msgstr "경험치(XP): "
 
 #. [lua]: postshow
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie_recruit_dialog.lua:88

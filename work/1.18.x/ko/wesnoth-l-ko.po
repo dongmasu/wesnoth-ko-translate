@@ -120,7 +120,7 @@ msgstr "불법 명령에 나오는 장군의 이름을 파악하라."
 #. [achievement]: id=liberty_iron
 #: data/campaigns/Liberty/achievements.cfg:21
 msgid "Harper vs. Goliath"
-msgstr "하르페르 대 골리앗"
+msgstr "하르페르(Harper) 대 골리앗"
 
 #. [achievement]: id=liberty_iron
 #: data/campaigns/Liberty/achievements.cfg:22
@@ -232,7 +232,7 @@ msgstr "모든 고블린 약탈자들을 제거하라"
 #. [objective]: condition=lose
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:112
 msgid "Goblins reach the village of Dallben"
-msgstr "고블린들이 달벤의 마을에 당도하는 것"
+msgstr "고블린들이 달벤(Dallben)의 마을에 당도하는 것"
 
 #. [objective]: condition=lose
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:116
@@ -245,7 +245,7 @@ msgstr "고블린들이 달벤의 마을에 당도하는 것"
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:225
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:420
 msgid "Death of Baldras"
-msgstr "발드라스의 죽음"
+msgstr "발드라스(Baldras)의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:120
@@ -258,7 +258,7 @@ msgstr "발드라스의 죽음"
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:229
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:424
 msgid "Death of Harper"
-msgstr "하르페르의 죽음"
+msgstr "하르페르(Harper)의 죽음"
 
 #. [event]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:166
@@ -558,7 +558,7 @@ msgstr "시민 불복종"
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:16
 #| msgid "Baldras"
 msgid "Baldras’ farm"
-msgstr "발드라스의 농장"
+msgstr "발드라스(Baldras)의 농장"
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:21
@@ -630,7 +630,7 @@ msgstr "웰딘(Weldyn)"
 #. [objective]: condition=win
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:96
 msgid "Kill the Wesnoth army captain, Tarwen"
-msgstr "웨스노스 군단의 대장 타르웬을 척살하라"
+msgstr "웨스노스(Wesnoth) 군단의 대장 타르웬(Tarwen)을 척살하라"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:152
@@ -641,7 +641,7 @@ msgstr "저기 보세요, 기수들이 오고있어요."
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:156
 #| msgid "Stand fast, nephew."
 msgid "Stand fast, Harper."
-msgstr "똑바로 서 있거라, 하르페르."
+msgstr "똑바로 서 있거라, 하르페르(Harper)."
 
 #. [message]: speaker=Tarwen
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:169
@@ -710,7 +710,7 @@ msgstr "저도 싸울 수 있어요!"
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:248
 msgid "<i>Harper, do what I says to ya.</i>"
-msgstr "<i>하르페르, 내가 시키는 대로 해라.</i>"
+msgstr "<i>하르페르(Harper), 내가 시키는 대로 해라.</i>"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:252
@@ -907,7 +907,7 @@ msgstr "적 대장 둘을 무찔러라"
 #. [objective]: condition=lose
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:169
 msgid "Death of Relana"
-msgstr "렐라나의 죽음"
+msgstr "렐라나(Relana)의 죽음"
 
 #. [message]: speaker=Relana
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:203
@@ -959,7 +959,7 @@ msgstr "우린 더 많은 정보가 필요해요. 엘렌세파르(Elensefar)와 
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:231
 #| msgid "Elensefar"
 msgid "Elensefar? Why him?"
-msgstr "엘렌세파르? 왜 그사람이오?"
+msgstr "엘렌세파르(Elensefar)? 왜 그사람이오?"
 
 #. [message]: speaker=Relana
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:235
@@ -1180,12 +1180,12 @@ msgstr "적 장군을 격파할 것"
 #. [objective]: condition=lose
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:137
 msgid "Death of Maddock"
-msgstr "마드독의 죽음"
+msgstr "마드독(Maddock)의 죽음"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:212
 msgid "Maddock, I be coming to report—"
-msgstr "마드독, 보고하러 가고 있소—"
+msgstr "마드독(Maddock), 보고하러 가고 있소—"
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:216
@@ -1327,7 +1327,7 @@ msgstr "“여기 빛의 자녀이자 군주와 땅의 충성스러운 수호자
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:363
 msgid "Maddock’s firstborn son."
-msgstr "마드독의 첫번째 아들이지."
+msgstr "마드독(Maddock)의 첫번째 아들이지."
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:367
@@ -1549,13 +1549,13 @@ msgstr "한스(Hans)"
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:151
 #| msgid "The Grey Woods"
 msgid "Enter the Grey Woods with Hans"
-msgstr "한스와 함께 회색 숲으로 들어가라"
+msgstr "한스(Hans)와 함께 회색 숲으로 들어가라"
 
 #. [objective]: condition=lose
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:163
 #| msgid "Death of Harper"
 msgid "Death of Hans"
-msgstr "한스의 죽음"
+msgstr "한스(Hans)의 죽음"
 
 #. [note]
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:168
@@ -1840,7 +1840,7 @@ msgstr "적 순찰대가 전초 기지에 도달하기 전에 모두 무찔러�
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:194
 #| msgid "Death of Harper"
 msgid "Death of Helicrom"
-msgstr "헬리크롬의 죽음"
+msgstr "헬리크롬(Helicrom)의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:198
@@ -2651,7 +2651,7 @@ msgstr "으으윽..."
 #: data/campaigns/Liberty/utils/utils.cfg:38
 #| msgid "Harper"
 msgid "Harper, no!"
-msgstr "하르페르, 안돼!"
+msgstr "하르페르(Harper), 안돼!"
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:884

@@ -54,7 +54,8 @@ work/
 - 용어집 1차 검수가 끝난 뒤에는 `ko/*.po` 전체를 다시 읽는 2차 전수
   번역 검수를 수행합니다. 자동 감사가 통과해도 의미, 문체, 조사,
   고유명사 병기, 문맥별 일관성 검토를 생략하지 않습니다.
-- `sync_contextual_glossary.py`, `normalize_contextual_translations.py`처럼
+- `sync_contextual_glossary.py`, `sync_glossary_korean.py`,
+  `normalize_contextual_translations.py`처럼
   PO나 용어집을 수정하는 도구는 먼저 단독으로 실행하고 종료를 확인합니다.
   이 도구들과 테스트·`msgfmt`·감사 명령을 병렬 실행하지 않습니다.
 - `source_term`에 `^`가 포함된 항목은 먼저 일반 문맥 키인지 Wesnoth의
@@ -183,6 +184,8 @@ gettext 문맥 항목을 재검토하거나 용어집을 갱신한 뒤에는 다
 
 ```sh
 python3 tools/sync_contextual_glossary.py
+python3 tools/audit_and_pair_embedded_names.py
+python3 tools/sync_glossary_korean.py
 python3 tools/audit_po_structure.py
 ```
 
@@ -194,6 +197,7 @@ python3 tools/audit_po_structure.py
 VERSION="${WESNOTH_VERSION:-$(tr -d '\r\n' < VERSION)}"
 python3 -m unittest discover -s tests -v
 python3 tools/audit_glossary.py
+python3 tools/audit_and_pair_embedded_names.py --check
 python3 tools/audit_po_completion.py
 python3 tools/audit_po_structure.py
 find "work/$VERSION/ko" -name '*.po' -print0 |

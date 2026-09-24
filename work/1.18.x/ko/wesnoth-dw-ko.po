@@ -63,7 +63,7 @@ msgstr "어려움"
 #. [campaign]: id=Dead_Water
 #: data/campaigns/Dead_Water/_main.cfg:21
 msgid "Triton"
-msgstr "트리톤"
+msgstr "트리톤(Triton)"
 
 #. [campaign]: id=Dead_Water
 #: data/campaigns/Dead_Water/_main.cfg:23
@@ -1169,7 +1169,7 @@ msgstr "그대의 이름은 무엇인가?"
 #. [message]: speaker=Keshan
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:639
 msgid "I am Keshan."
-msgstr "나는 케샨."
+msgstr "나는 케샨(Keshan)."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:644
@@ -1186,7 +1186,7 @@ msgstr "나는 여기서 북쪽에서 사냥을 하다가 조그만 것들에게
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:654
 msgid "Will you fight with us, Keshan?"
-msgstr "우리와 함께 싸우겠나, 케샨?"
+msgstr "우리와 함께 싸우겠나, 케샨(Keshan)?"
 
 #. [message]: speaker=Keshan
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:659
@@ -1285,7 +1285,7 @@ msgstr "(우선 언데드부터 쳐부술 수 있다)"
 #. [objective]: condition=win
 #: data/campaigns/Dead_Water/scenarios/05_Tirigaz.cfg:77
 msgid "Also kill Marg-Tonz"
-msgstr "Marg-Tonz도 처치하라"
+msgstr "마르그 톤즈(Marg-Tonz)도 처치하라"
 
 #. [side]: id=Marg-Tonz, type=Orcish Sovereign
 #: data/campaigns/Dead_Water/scenarios/05_Tirigaz.cfg:110
@@ -1955,7 +1955,7 @@ msgstr "배고픈 생물들"
 #. [objective]: condition=win
 #: data/campaigns/Dead_Water/scenarios/09_The_Mage.cfg:70
 msgid "Find Caladon the mage"
-msgstr "마법사 칼라돈을 찾아라"
+msgstr "마법사 칼라돈(Caladon)을 찾아라"
 
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/09_The_Mage.cfg:141
@@ -2037,7 +2037,7 @@ msgstr "당신이 칼라돈(Caladon)이겠지. 만나서 반갑군."
 #. [message]: speaker=Caladon
 #: data/campaigns/Dead_Water/scenarios/09_The_Mage.cfg:438
 msgid "I am Caladon. Am I glad to see YOU?"
-msgstr "내가 칼라돈이오만. 만나서 반가워야 하오?"
+msgstr "내가 칼라돈(Caladon)이오만. 만나서 반가워야 하오?"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/09_The_Mage.cfg:442
@@ -2083,7 +2083,7 @@ msgstr "당신같이 아름다운 인어와 그 친구들을 안내하게 되어
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:1105
 #: data/campaigns/Dead_Water/utils/dw-utils.cfg:135
 msgid "Cylanna! I need you!"
-msgstr "실라나! 당신은 죽으면 안되오!"
+msgstr "실라나(Cylanna)! 당신은 죽으면 안되오!"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/09_The_Mage.cfg:490
@@ -2138,12 +2138,12 @@ msgstr "카이 크렐리스의 죽음"
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:192
 #: data/campaigns/Dead_Water/utils/dw-utils.cfg:120
 msgid "Death of Cylanna"
-msgstr "실라나의 죽음"
+msgstr "실라나(Cylanna)의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:196
 msgid "Death of Caladon"
-msgstr "칼라돈의 죽음"
+msgstr "칼라돈(Caladon)의 죽음"
 
 #. [message]: speaker=$spy_unit.id
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:270
@@ -2295,7 +2295,7 @@ msgstr "카이 크렐리스! 여기서 뭐하시는 겁니까? 전번에 만났�
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:434
 msgid "Friend Siddry!"
-msgstr "친구 싯드리로군!"
+msgstr "친구 싯드리(Siddry)로군!"
 
 #. [message]: speaker=Howyrth
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:438
@@ -2704,7 +2704,7 @@ msgstr "우리 고향을 되찾았다!"
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/12_Revenge.cfg:783
 msgid "Cylanna! I will miss you."
-msgstr "실라나! 당신을 잊지 못할 것이오."
+msgstr "실라나(Cylanna)! 당신을 잊지 못할 것이오."
 
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/12_Revenge.cfg:794

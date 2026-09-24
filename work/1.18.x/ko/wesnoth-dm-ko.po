@@ -15,7 +15,7 @@ msgstr ""
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:22
 msgid "Delfador’s Memoirs"
-msgstr "델파도르의 회고록"
+msgstr "델파도르(Delfador)의 회고록"
 
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:23
@@ -224,7 +224,7 @@ msgstr "<i>이름의 여정</i>"
 #. [message]: speaker=narrator
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:80
 msgid "Academy of Magic, Isle of Alduin."
-msgstr "알두인 섬, 마법 학원."
+msgstr "알두인(Alduin) 섬, 마법 학원."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:86
@@ -239,7 +239,7 @@ msgstr "... 토룸 레스트로 타르가 토룸..."
 #. [message]: speaker=Marshal
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:91
 msgid "Come, O aspirant. The Oracles await you."
-msgstr "오, 길에 선 자여, 이리로 오라. 우리의 예언자들이 너를 기다리노라."
+msgstr "오(O), 길에 선 자여, 이리로 오(O)라. 우리의 예언자들이 너를 기다리노라."
 
 #. [message]: speaker=First Oracle
 #: data/campaigns/Delfadors_Memoirs/scenarios/01_Overture.cfg:109
@@ -463,7 +463,7 @@ msgstr "그로고르-툭을 무찔러라"
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:101
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:190
 msgid "Death of Delfador"
-msgstr "델파도르의 죽음"
+msgstr "델파도르(Delfador)의 죽음"
 
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:120
@@ -474,7 +474,7 @@ msgstr "크아아! 빼앗아라! 빼앗아! 아 하 하 하..."
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:131
 msgid "No! Methor... Don’t die!"
-msgstr "안돼! 메토르... 죽지 말아요!"
+msgstr "안돼! 메토르(Methor)... 죽지 말아요!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:135
@@ -662,7 +662,7 @@ msgstr "하그하-탄을 무찔러라"
 #. [objective]: condition=lose
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_Leollyn.cfg:125
 msgid "Death of Leollyn"
-msgstr "레올린의 죽음"
+msgstr "레올린(Leollyn)의 죽음"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_Leollyn.cfg:142
@@ -974,7 +974,7 @@ msgstr "델파도르(Delfador)를 북동쪽의 표지판으로 이동시켜라"
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:119
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:161
 msgid "Death of Lionel"
-msgstr "리오넬의 죽음"
+msgstr "리오넬(Lionel)의 죽음"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:120
@@ -1172,7 +1172,7 @@ msgstr "흐음, 금화가 하나도 남지 않은 것 같군. 그렇다며 우�
 #. [message]: speaker=Harold
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:421
 msgid "What a fickle one, that Garrath..."
-msgstr "정말 변덕스러운 놈이군요, 가라쓰 라는 놈..."
+msgstr "정말 변덕스러운 놈이군요, 가라쓰(Garrath) 라는 놈..."
 
 #. [message]: speaker=Harold
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:439
@@ -1389,7 +1389,7 @@ msgstr "대안이 없는 듯합니다. 우리는 그 섬으로 가야 합니다!
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:111
 msgid "Move Delfador to Ur-Thorodor’s castle"
-msgstr "델파도르를 우르-토로도르의 성으로 이동시킬 것"
+msgstr "델파도르(Delfador)를 우르-토로도르의 성으로 이동시킬 것"
 
 #. [objective]: condition=lose
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:123
@@ -1567,7 +1567,7 @@ msgstr "델파도르(Delfador)에게 마법 유물을 요구하고 표지판으�
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:111
 msgid "Move Delfador to the signpost"
-msgstr "델파도르를 표지판으로 이동시킬 것"
+msgstr "델파도르(Delfador)를 표지판으로 이동시킬 것"
 
 #. [note]
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:131
@@ -1846,7 +1846,7 @@ msgstr "안-우스르카르의 무덤에 들어온 것이 누구냐?"
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:521
 msgid "I... I am Delfador, a mage of Wesnoth."
-msgstr "나... 나는 웨스노스의 마법사 델파도르입니다."
+msgstr "나... 나는 웨스노스(Wesnoth)의 마법사 델파도르(Delfador)입니다."
 
 #. [message]: speaker=narrator
 #. "bestrode" = past tense of archaic verb "bestride", literally
@@ -1954,7 +1954,7 @@ msgstr "나... 나는 죽음에 대항해 삶을, 공포에 대항해 사랑을,
 msgid ""
 "IT IS WELL. Take up, O servant of light, the Staff of An-Usrukhar. The "
 "trials before you will be great. So is its power."
-msgstr "그걸로 좋다. 오 빛의 사도여, 안-우스르카르의 지팡이를 받으라. 그리고 이것의 힘은 강대하며, 네가 직면하게 될 시련 또한 그러하리라."
+msgstr "그걸로 좋다. 오(O) 빛의 사도여, 안-우스르카르의 지팡이를 받으라. 그리고 이것의 힘은 강대하며, 네가 직면하게 될 시련 또한 그러하리라."
 
 #. [scenario]: id=10_The_Gate_Between_Worlds
 #: data/campaigns/Delfadors_Memoirs/scenarios/10_The_Gate_Between_Worlds.cfg:4
@@ -2120,7 +2120,7 @@ msgstr "반쯤 얼어붙은 인간이 그리 위협이 되진 않을 것 같군.
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:205
 msgid "Welcome, Delfador!"
-msgstr "어서오세요, 델파도르!"
+msgstr "어서오세요, 델파도르(Delfador)!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:210
@@ -2234,7 +2234,7 @@ msgstr "적 대장을 무찔러라"
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:109
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:198
 msgid "Death of Chantal"
-msgstr "샨탈의 죽음"
+msgstr "샨탈(Chantal)의 죽음"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:295
@@ -2255,7 +2255,7 @@ msgstr "델파도르(Delfador), 당신의 도움으로 우린 이 지역에서 �
 #. [scenario]: id=12_Terror_at_the_Ford_of_Parthyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:4
 msgid "Terror at the Ford of Parthyn"
-msgstr "파르틴 여울의 공포"
+msgstr "파르틴(Parthyn) 여울의 공포"
 
 #. [leader]: id=Upgar, type=Orcish Warlord
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:63
@@ -2884,7 +2884,7 @@ msgstr "클라르타키스(Clartakis)"
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:105
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:194
 msgid "Death of Kalenz"
-msgstr "칼렌츠의 죽음"
+msgstr "칼렌츠(Kalenz)의 죽음"
 
 #. [message]: speaker=Tan-drul
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:209
@@ -3161,7 +3161,7 @@ msgstr "사악한 피조물들아, 영원한 안식을 취할 시간이 왔다!"
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:265
 #| msgid "That is Delfador. Do you see, now?"
 msgid "That is Delfador. Do you see now?"
-msgstr "저 사람은 델파도르입니다. 이제 보이나요?"
+msgstr "저 사람은 델파도르(Delfador)입니다. 이제 보이나요?"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:269
@@ -3284,7 +3284,7 @@ msgstr "트르그라우(Trgrau)"
 #. [objective]: condition=lose
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:201
 msgid "Death of Garard II"
-msgstr "가라르드 2세의 죽음"
+msgstr "가라르드(Garard) 2세의 죽음"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:228
@@ -3735,7 +3735,7 @@ msgstr "주군, 제가 도시 주변의 방비를 마련해 두겠습니다."
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:115
 msgid "Very well, Lionel, take command."
-msgstr "좋네, 리오넬, 지휘를 맡게."
+msgstr "좋네, 리오넬(Lionel), 지휘를 맡게."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:119
@@ -3814,12 +3814,12 @@ msgstr "그루브-말랄을 무찌를 것"
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:423
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:169
 msgid "Death of Ulrek"
-msgstr "울렉의 죽음"
+msgstr "울렉(Ulrek)의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:118
 msgid "Death of Relgorn"
-msgstr "렐고른의 죽음"
+msgstr "렐고른(Relgorn)의 죽음"
 
 #. [message]: speaker=Gruv-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:135
@@ -3856,7 +3856,7 @@ msgstr "너희 주인의 시대도 얼마남지 않았다. 너의 시대는 오�
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:171
 msgid "I am Delfador. And you are dust!"
-msgstr "나는 델파도르다. 먼지가 되어라!"
+msgstr "나는 델파도르(Delfador)다. 먼지가 되어라!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:182
@@ -4258,7 +4258,7 @@ msgstr "이 시나리오에서만 죽은 자의 땅에서 당신이 쓰던 군�
 #. [message]: speaker=Lionel
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:280
 msgid "Delfador... You raise undead?!"
-msgstr "델파도르... 당신이 언데드를 부른거요?!"
+msgstr "델파도르(Delfador)... 당신이 언데드를 부른거요?!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:285
@@ -4478,7 +4478,7 @@ msgstr "로웰(Lowel)"
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:120
 msgid "Defeat Eldred"
-msgstr "엘드레드를 무찌를 것"
+msgstr "엘드레드(Eldred)를 무찌를 것"
 
 #. [note]
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:140
@@ -4853,7 +4853,7 @@ msgstr "전투준비! 병목 지점들을 막고 그곳에서 버텨낸다!"
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:186
 msgid "Defeat Sagus"
-msgstr "사구스를 무찌를 것"
+msgstr "사구스(Sagus)를 무찌를 것"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/22_Face_of_the_Enemy.cfg:214

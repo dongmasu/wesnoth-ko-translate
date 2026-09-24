@@ -64,7 +64,7 @@ msgid ""
 "with Lich-Lord Jevyan awaits...\n"
 "\n"
 msgstr ""
-"Haldric 왕자를 이끌어 멸망하는 초록 섬을 가로지르고, 대양을 가로질러서 바로 저 Wesnoth 왕국을 건설하는 여정으로 이끌자. 리치 군주 제비안(Jevyan)과의 전쟁이 기다린다...\n"
+"할드릭(Haldric) 왕자를 이끌어 멸망하는 초록 섬을 가로지르고, 대양을 가로질러서 바로 저 웨스노스(Wesnoth) 왕국을 건설하는 여정으로 이끌자. 리치 군주 제비안(Jevyan)과의 전쟁이 기다린다...\n"
 "\n"
 
 #. [campaign]: id=The_Rise_of_Wesnoth
@@ -244,7 +244,7 @@ msgstr "엘다릭 4세 국왕"
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:122
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:162
 msgid "Defeat the Wesfolk Leader"
-msgstr "서부인 대장을 무찌를 것"
+msgstr "서부인(Wesfolk) 대장을 무찌를 것"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:126
@@ -269,7 +269,7 @@ msgstr "서부인 대장을 무찌를 것"
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/20_Return_of_the_Fleet.cfg:178
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:265
 msgid "Death of Prince Haldric"
-msgstr "할드릭 왕자의 죽음"
+msgstr "할드릭(Haldric) 왕자의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:130
@@ -440,7 +440,7 @@ msgstr "시간을 너무 많이 잡아먹었어... 곡물들이 썩어버리면 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:293
 msgid "Die, Wesfolk scum!"
-msgstr "죽어라, 서부인 쓰레기놈아!"
+msgstr "죽어라, 서부인(Wesfolk) 쓰레기놈아!"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:306
@@ -546,7 +546,7 @@ msgstr "엘다릭 4세 국왕의 죽음"
 #. [objective]: condition=lose
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:174
 msgid "Orcs kill the Wesfolk Leader"
-msgstr "오크들이 서부인 대장을 죽임"
+msgstr "오크들이 서부인(Wesfolk) 대장을 죽임"
 
 #. [message]: speaker=King Eldaric IV
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:192
@@ -615,7 +615,7 @@ msgstr "난 도움이 될 수 있어요! 정말로! 나와 내 부하들의 기�
 #. [message]: speaker=King Eldaric IV
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:286
 msgid "Haldric, what say you on this matter?"
-msgstr "할드릭, 넌 어떻게 했으면 좋겠느냐?"
+msgstr "할드릭(Haldric), 넌 어떻게 했으면 좋겠느냐?"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:291
@@ -839,7 +839,7 @@ msgstr "길잃은 부린(Burin)"
 #. [message]: speaker=Burin the Lost
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:180
 msgid "Burin, Burin the Lost. Who be ye?"
-msgstr "부린, 길 잃은 부린이다. 넌 누구냐?"
+msgstr "부린(Burin), 길 잃은 부린(Burin)이다. 넌 누구냐?"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:186
@@ -1341,7 +1341,7 @@ msgstr "남동 — 오래된 나무들 방향. 함부로 들어간 책임은 당
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04b_The_Midlands.cfg:239
 msgid "SW — Southbay."
-msgstr "남서 — 남만국 방향."
+msgstr "남서 — 남만국(Southbay) 방향."
 
 #. [event]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04b_The_Midlands.cfg:263
@@ -1407,7 +1407,7 @@ msgstr "놈들이 제가 지키던 기지를 점거했습니다. 머리에 제�
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04b_The_Midlands.cfg:402
 msgid "Tell me, how fares Southbay?"
-msgstr "말해보게, 남만국의 상황은 어떤가?"
+msgstr "말해보게, 남만국(Southbay)의 상황은 어떤가?"
 
 #. [message]: speaker=Sir Ladoc
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04b_The_Midlands.cfg:407
@@ -1826,7 +1826,7 @@ msgstr "이 웅덩이는 별로 보기 좋지 않은데."
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/06_Temple_in_the_Deep.cfg:208
 #| msgid "You already have the Fire Ruby."
 msgid "Haldric already has the Ruby of Fire."
-msgstr "할드릭은 이미 불의 루비를 가지고 있습니다."
+msgstr "할드릭(Haldric)은 이미 불의 루비를 가지고 있습니다."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/06_Temple_in_the_Deep.cfg:232
@@ -2135,7 +2135,7 @@ msgstr "드디어, 이 숲에서 나가는구나!"
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:4
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:664
 msgid "Clearwater Port"
-msgstr "맑은물 항구"
+msgstr "맑은물(Clearwater) 항구"
 
 #. [side]: type=Noble Commander, id=Prince Haldric
 #. [side]: type=Lieutenant, id=Commander Aethyr
@@ -2227,13 +2227,13 @@ msgstr "세번째 배를 타고 퇴각"
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/20_Return_of_the_Fleet.cfg:182
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:269
 msgid "Death of Lady Jessene"
-msgstr "제세네의 죽음"
+msgstr "제세네(Jessene)의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:436
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/19_The_Vanguard.cfg:194
 msgid "Death of Commander Aethyr"
-msgstr "애띠르 사령관의 죽음"
+msgstr "애띠르(Aethyr) 사령관의 죽음"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:440
@@ -2251,7 +2251,7 @@ msgstr "우리의 왕자는 오크족을 뒤에 달고 맑은물(Clearwater) 항
 #. [message]: speaker=Sir Ruddry
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:461
 msgid "Ha! Clearwater Port still stands!"
-msgstr "하! 맑은물 항구가 아직 건재하구나!"
+msgstr "하! 맑은물(Clearwater) 항구가 아직 건재하구나!"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:466
@@ -2382,7 +2382,7 @@ msgstr "죽은 자의 냇가"
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:643
 msgid "The River Road — To the Swamp of Esten."
-msgstr "강변길 — 에스텐의 늪지대행."
+msgstr "강변길 — 에스텐(Esten)의 늪지대행."
 
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:741
@@ -2540,7 +2540,7 @@ msgstr "자원이 부족하오. 우린 그 어떤 도움이든 얻어내야 하�
 #. [scenario]: id=09_Fallen_Lich_Point
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:4
 msgid "Fallen Lich Point"
-msgstr "몰락한 리치 곶"
+msgstr "몰락한 리치(Lich) 곶"
 
 #. [side]: type=Orcish Warlord, id=Ut'Tan-Grilg
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:36
@@ -2570,7 +2570,7 @@ msgstr "리치를 죽이고 책을 빼앗을 것"
 #. [objective]: condition=win
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:194
 msgid "Haldric enters Southbay’s sewer"
-msgstr "할드릭이 남만국 하수도으로 들어간다"
+msgstr "할드릭(Haldric)이 남만국(Southbay) 하수도으로 들어간다"
 
 #. [message]: speaker=Tan-Pulk
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:220
@@ -2623,7 +2623,7 @@ msgstr "책을 가져오기만 하면, 내가 그걸 번역할 수 있을거에�
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:288
 msgid "Then, into Southbay’s sewer."
-msgstr "그리고 남만국의 하수도으로 가는거지."
+msgstr "그리고 남만국(Southbay)의 하수도으로 가는거지."
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:292
@@ -2721,7 +2721,7 @@ msgstr "리치 군주는 이미 자유입니다."
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:465
 msgid "NW — Southbay."
-msgstr "북서 - 남만국."
+msgstr "북서 - 남만국(Southbay)."
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:470
@@ -2756,7 +2756,7 @@ msgstr "라를그(Rarlg)"
 #. [message]: speaker=Rarlg
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:562
 msgid "Rarlg — argh, a raul-rarlg!"
-msgstr "라를그 — 아옭, 아 라울-라를그!"
+msgstr "라를그(Rarlg) — 아옭, 아 라울-라를그(Rarlg)!"
 
 #. [message]: speaker=Prince Haldric
 #. [message]: speaker=Ut'Tan-Grilg
@@ -2833,7 +2833,7 @@ msgstr "거미"
 #. [objective]: condition=win
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/10_Sewer_of_Southbay.cfg:119
 msgid "Prince Haldric exits the sewer"
-msgstr "할드릭 왕자가 하수도을 빠져나간다"
+msgstr "할드릭(Haldric) 왕자가 하수도을 빠져나간다"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/10_Sewer_of_Southbay.cfg:124
@@ -2956,7 +2956,7 @@ msgstr "‘이 앞’? 지금까진 어디든 위험했는데."
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/10_Sewer_of_Southbay.cfg:397
 msgid "Finally, on to Southbay!"
-msgstr "드디어, 남만국이다!"
+msgstr "드디어, 남만국(Southbay)이다!"
 
 #. [scenario]: id=11_Southbay_in_Winter
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/11_Southbay_in_Winter.cfg:4
@@ -3226,7 +3226,7 @@ msgstr "애드로란 9세 국왕의 죽음"
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/14_Rough_Landing.cfg:170
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:232
 msgid "Death of Lord Typhon"
-msgstr "티폰 군주의 죽음"
+msgstr "티폰(Typhon) 군주의 죽음"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:414
@@ -3269,7 +3269,7 @@ msgstr "오크족이 보입니다! 놈들이 전방을 장악했습니다! 전�
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:461
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:888
 msgid "For the glory of Southbay!"
-msgstr "남만국의 영광을 위해!"
+msgstr "남만국(Southbay)의 영광을 위해!"
 
 #. [message]: speaker=King Addroran IX
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:465
@@ -3432,7 +3432,7 @@ msgstr "남만국(Southbay)"
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:702
 msgid "To Clearwater Port"
-msgstr "맑은물 항구 방향"
+msgstr "맑은물(Clearwater) 항구 방향"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:722
@@ -3609,8 +3609,7 @@ msgstr "설득은 먹히지 않을거라고 보는데요."
 msgid ""
 "Ssso humansss, you’ve come to trouble usss again. Prepare to die! For the "
 "glory of the Lords of Morogor!"
-msgstr ""
-"인간들아, 또 우리를 괴롭히러 왔구나. 죽어라! Morogor 군주들의 영광을 위해!"
+msgstr "인간들아, 또 우리를 괴롭히러 왔구나. 죽어라! 모로고르(Morogor) 군주들의 영광을 위해!"
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/13_Peoples_in_Decline.cfg:225
@@ -4017,7 +4016,7 @@ msgstr "나는 할드릭(Haldric) 왕자요. 우린 싸울 뜻이 없소. 우리
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:439
 msgid "Haldric."
-msgstr "할드릭."
+msgstr "할드릭(Haldric)."
 
 #. [message]: speaker=Lady Dionli
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:443
@@ -4684,7 +4683,7 @@ msgstr "해안은 이제 깨끗하다. 엘프족에게 돌아가자."
 #. [scenario]: id=17c_Troll_Hole
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17c_Troll_Hole.cfg:4
 msgid "Troll Hole"
-msgstr "트롤 동굴"
+msgstr "트롤(Troll) 동굴"
 
 #. [side]: type=Troll Warrior, id=Erart
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17c_Troll_Hole.cfg:37
@@ -4816,7 +4815,7 @@ msgstr "정말로..."
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17d_Cursed_Isle.cfg:164
 msgid "Haldric, think with your brain!"
-msgstr "할드릭, 이성적으로 생각해요!"
+msgstr "할드릭(Haldric), 이성적으로 생각해요!"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17d_Cursed_Isle.cfg:168
@@ -4874,7 +4873,7 @@ msgstr "엘프족이 드디어 안식을 취하게 되겠군. 저주가 우리�
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17d_Cursed_Isle.cfg:364
 msgid "Haldric, you’re too paranoid."
-msgstr "피해망상일 뿐이에요, 할드릭."
+msgstr "피해망상일 뿐이에요, 할드릭(Haldric)."
 
 #. [message]: speaker=Isorfilad
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/17d_Cursed_Isle.cfg:387
@@ -4988,7 +4987,7 @@ msgstr "(<i>후</i>) 알겠습니다."
 #. [message]: speaker=Jessene in Hiding
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/18_A_Spy_in_the_Woods.cfg:154
 msgid "Some friends. I must tell Haldric."
-msgstr "친구들이라. 할드릭에게 알려야겠어."
+msgstr "친구들이라. 할드릭(Haldric)에게 알려야겠어."
 
 #. [scenario]: id=19_The_Vanguard
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/19_The_Vanguard.cfg:4
@@ -5066,7 +5065,7 @@ msgstr "내게 작전이 있소. 제세네(Jessene), 그 트롤 동굴을 기억
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/19_The_Vanguard.cfg:245
 msgid "Haldric! What! Why?"
-msgstr "할드릭! 뭐라구요! 어째서요?"
+msgstr "할드릭(Haldric)! 뭐라구요! 어째서요?"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/19_The_Vanguard.cfg:249
@@ -5222,7 +5221,7 @@ msgstr "탄-리나크(Tan-Rinak)"
 #. [objective]: condition=lose
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/20_Return_of_the_Fleet.cfg:193
 msgid "Death of Aethyr"
-msgstr "애띠르의 죽음"
+msgstr "애띠르(Aethyr)의 죽음"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/20_Return_of_the_Fleet.cfg:210
@@ -5527,7 +5526,7 @@ msgstr "당신이 이끄시오. 당신이 없었다면 여기까지 올 수 없�
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/21_The_Plan.cfg:157
 msgid "Haldric, this is ridiculous! I—"
-msgstr "할드릭, 이건 웃기는 일이에요! 난—"
+msgstr "할드릭(Haldric), 이건 웃기는 일이에요! 난—"
 
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/21_The_Plan.cfg:190
@@ -5650,7 +5649,7 @@ msgstr "애띠르(Aethyr) 사령관이 리치 군주 제비안(Jevyan)에게 자
 #. [objective]: condition=win
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:257
 msgid "Destroy Lich-Lord Jevyan and"
-msgstr "리치 군주 제비안을 무찌르고"
+msgstr "리치 군주 제비안(Jevyan)을 무찌르고"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:261
@@ -5751,7 +5750,7 @@ msgstr "맑은물(Clearwater) 항구의 모든 선량한 백성들을 위해!"
 #. [message]: speaker=Sir Ladoc
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:340
 msgid "For the honor of Southbay!"
-msgstr "남만국의 명예를 위해!"
+msgstr "남만국(Southbay)의 명예를 위해!"
 
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:344
@@ -5813,7 +5812,7 @@ msgstr "이리와봐, 가만 있으라구, 아주 잠깐이면 되거든..."
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:446
 msgid "For the Wesfolk!"
-msgstr "서부인을 위해!"
+msgstr "서부인(Wesfolk)을 위해!"
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:460

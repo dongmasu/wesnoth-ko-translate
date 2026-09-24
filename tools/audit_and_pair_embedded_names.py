@@ -36,6 +36,26 @@ NAME_CATEGORIES = {
     "campaign_name",
     "ability",
 }
+NON_NAME_COMPONENTS = {
+    "a",
+    "and",
+    "chief",
+    "clan",
+    "contender",
+    "duke",
+    "elder",
+    "general",
+    "king",
+    "lady",
+    "lord",
+    "minister",
+    "mother",
+    "mr",
+    "mrs",
+    "queen",
+    "sir",
+    "the",
+}
 PARENTHESIZED = re.compile(r"\(([^()]+)\)")
 ENGLISH_COMPONENT = re.compile(r"[A-Za-z][A-Za-z0-9 .\-’']*")
 PARTICLE = r"(?:은|는|이|가|을|를|의|에|로|와|과|도|만|에서|에게|으로)?"
@@ -62,12 +82,35 @@ def load_pairs(path: Path) -> tuple[list[NamePair], list[str]]:
                     continue
                 korean_prefix = standard[: match.start()].strip()
                 korean_tokens = re.findall(r"[가-힣]+", korean_prefix)
-                source_token_count = len(re.findall(r"[A-Za-z]+", source))
+                source_tokens = re.findall(r"[A-Za-z]+", source)
+                source_token_count = len(source_tokens)
                 korean = " ".join(korean_tokens[-source_token_count:])
-                if not korean:
-                    continue
-                pair = NamePair(source, korean, row["category"], row["source_term"])
-                by_source.setdefault(source, []).append(pair)
+                if korean:
+                    pair = NamePair(source, korean, row["category"], row["source_term"])
+                    by_source.setdefault(source, []).append(pair)
+
+                # A compound name may occur later as individual components in
+                # prose. Reuse the established transliteration for those
+                # components, but never turn titles into names.
+                if (
+                    source == row["source_term"]
+                    and
+                    len(source.split()) > 1
+                    and source_token_count > 1
+                    and len(korean_tokens) >= source_token_count
+                ):
+                    for source_token, korean_token in zip(
+                        source_tokens, korean_tokens[-source_token_count:]
+                    ):
+                        if source_token.lower() in NON_NAME_COMPONENTS:
+                            continue
+                        component = NamePair(
+                            source_token,
+                            korean_token,
+                            row["category"],
+                            row["source_term"],
+                        )
+                        by_source.setdefault(source_token, []).append(component)
 
     pairs: list[NamePair] = []
     conflicts: list[str] = []
@@ -101,11 +144,25 @@ def pair_translation(translation: str, pair: NamePair) -> tuple[str, int]:
         changed += 1
         return f"{pair.korean}{marker}{match.group('particle')}"
 
-    return pattern.sub(replace, translation), changed
+    updated = pattern.sub(replace, translation)
+    source_pattern = SOURCE_TRANSLATION_PATTERNS[pair.source]
+
+    def replace_source(match: re.Match[str]) -> str:
+        nonlocal changed
+        changed += 1
+        return f"{pair.korean}{marker}{match.group('particle')}"
+
+    return source_pattern.sub(replace_source, updated), changed
 
 
 SOURCE_PATTERNS: dict[str, re.Pattern[str]] = {}
 TRANSLATION_PATTERNS: dict[tuple[str, str], re.Pattern[str]] = {}
+SOURCE_TRANSLATION_PATTERNS: dict[str, re.Pattern[str]] = {}
+NESTED_COMPONENT_PAIR = re.compile(
+    r"(?P<left>[가-힣]+)\((?P<left_source>[A-Za-z]+)\)\s+"
+    r"(?P<right>[가-힣]+)\((?P=left_source)\s+"
+    r"(?P=right)\((?P<right_source>[A-Za-z]+)\)\)"
+)
 
 
 def process_file(path: Path, pairs: list[NamePair], apply: bool) -> tuple[int, int]:
@@ -120,17 +177,40 @@ def process_file(path: Path, pairs: list[NamePair], apply: bool) -> tuple[int, i
         if (
             not source
             or not translation
-            or len(source) < 40
             or source.count(",") >= 20
+            or "=" in source
+            or "{" in source
             or is_fuzzy(block)
             or "msgid_plural" in values
         ):
             output.append(block)
             continue
 
-        updated = translation
+        updated = NESTED_COMPONENT_PAIR.sub(
+            r"\g<left>(\g<left_source>) \g<right>(\g<right_source>)",
+            translation,
+        )
         message_changes = 0
-        for pair in sorted(pairs, key=lambda item: len(item.source), reverse=True):
+        whole_sources = {
+            pair.source
+            for pair in pairs
+            if pair.glossary_source == pair.source
+            and source_occurs(pair.source, source)
+        }
+        whole_components = {
+            component
+            for whole in whole_sources
+            for component in re.findall(r"[A-Za-z]+", whole)
+        }
+        for pair in sorted(pairs, key=lambda item: len(item.source)):
+            if (
+                pair.glossary_source != pair.source
+                and (
+                    pair.glossary_source in whole_sources
+                    or pair.source in whole_components
+                )
+            ):
+                continue
             if not source_occurs(pair.source, source):
                 continue
             updated, count = pair_translation(updated, pair)
@@ -173,6 +253,17 @@ def main() -> int:
                 re.escape(pair.korean)
                 + f"(?P<particle>{PARTICLE})(?!{re.escape(f'({pair.source})')})"
                 + r"(?!\()"
+            )
+            for pair in pairs
+        }
+    )
+    SOURCE_TRANSLATION_PATTERNS.update(
+        {
+            pair.source: re.compile(
+                r"(?<![A-Za-z0-9-(])"
+                + re.escape(pair.source)
+                + f"(?P<particle>{PARTICLE})"
+                + r"(?![A-Za-z0-9-])"
             )
             for pair in pairs
         }

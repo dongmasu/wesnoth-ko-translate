@@ -26,7 +26,7 @@ msgstr "사용자 지도"
 #. [achievement_group]
 #: data/multiplayer/achievements.cfg:3
 msgid "Wesnoth Multiplayer (Survivals)"
-msgstr "웨스노스 멀티플레이 (생존)"
+msgstr "웨스노스(Wesnoth) 멀티플레이 (생존)"
 
 #. [achievement]: id=Wesnoth_MP_Dark_Forecast
 #: data/multiplayer/achievements.cfg:9 data/multiplayer/achievements.cfg:10
@@ -471,7 +471,7 @@ msgstr "적 지휘관을 무찌를 것"
 msgid ""
 "The Great Mage Sulla has transported your armies to this bizarre nexus, and "
 "demands that you amuse her by doing battle."
-msgstr "위대한 마법사 Sulla가 당신의 군대를 이 기묘한 결절점으로 순간이동시켰고, 전투를 벌여 자신을 즐겁게 하라고 요구합니다."
+msgstr "위대한 마법사 술라(Sulla)가 당신의 군대를 이 기묘한 결절점으로 순간이동시켰고, 전투를 벌여 자신을 즐겁게 하라고 요구합니다."
 
 #. [note]
 #: data/multiplayer/scenarios/2p_Aethermaw.cfg:315
@@ -485,7 +485,7 @@ msgstr "유닛은 돌무더기가 있는 육각 칸으로 이동할 수 없습�
 msgid ""
 "Beginning on turn 4, the Great Mage Sulla will begin to unite the two halves "
 "of the battlefield. The process will be complete by the end of turn 6."
-msgstr "4턴부터 위대한 마법사 Sulla가 전장의 두 부분을 하나로 합치기 시작합니다. 이 과정은 6턴이 끝날 때 완료됩니다."
+msgstr "4턴부터 위대한 마법사 술라(Sulla)가 전장의 두 부분을 하나로 합치기 시작합니다. 이 과정은 6턴이 끝날 때 완료됩니다."
 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/2p_Aethermaw.cfg:331
@@ -659,7 +659,7 @@ msgid ""
 "back to the domain of the Rysssrylosszkk Clan. Exhausted, and not having "
 "traveled far from the lake, Xikkrisx set the statue down inside of a small "
 "cave, and lay down to rest. He was awoken by a bone-chilling roar."
-msgstr "Syrsszk 출신의 Xikkrisx는 강력한 사우리안 전사로, Rysssrylosszkk 씨족의 장로들이 이 지역으로 보냈습니다. 씨족 이름은 ‘끓는 강에서 적을 사냥하는 씨족’이라는 뜻입니다. 장로들은 인간 전초기지를 상대로 전쟁을 준비하고 있었고, 마지막으로 Ruaskkolin 호수 방향으로 향하는 모습이 목격된 사우리안 신비술사 Oxsrrsk의 강력한 마법이 절실히 필요했습니다. Xikkrisx는 석화된 Oxsrrsk의 몸과, 동굴 바닥의 작은 틈에 떨어진 것으로 보이는 단단히 묶인 두루마리를 발견했습니다. 그는 두루마리를 펼쳐 가운데 부분의 짧은 구절을 읽었습니다. ‘상계에서 결박되어 쫓겨난 뒤, Chak’kso의 분노한 영혼은 해방을 원했고 상계의 일부 지역에 타락의 영향을 끼칠 수 있었다. 그 영향은 지표에서 지하 깊은 곳까지 이어지는 “돌의 길”을 통해 흘러들었다. 이 분노는 거대한 도마뱀의 알을 바꾸어 몸과 영혼을 Chak’kso의 증오를 실현하는 도구로 만들었다.’ 혼란스러웠지만 Xikkrisx는 눈앞의 임무에 집중했습니다. 장로들이 Oxsrrsk를 되살릴 방법을 찾을지도 모른다고 생각한 그는 조각상을 Rysssrylosszkk 씨족의 영역으로 운반하는 길고 고된 일을 시작했습니다. 호수에서 멀리 이동하지도 못한 채 지친 Xikkrisx는 작은 동굴 안에 조각상을 내려놓고 쉬기 위해 누웠습니다. 그리고 뼛속까지 얼어붙는 포효에 잠에서 깨어났습니다."
+msgstr "Syrsszk 출신의 시크리스(Xikkrisx)는 강력한 사우리안 전사로, Rysssrylosszkk 씨족의 장로들이 이 지역으로 보냈습니다. 씨족 이름은 ‘끓는 강에서 적을 사냥하는 씨족’이라는 뜻입니다. 장로들은 인간 전초기지를 상대로 전쟁을 준비하고 있었고, 마지막으로 Ruaskkolin 호수 방향으로 향하는 모습이 목격된 사우리안 신비술사 옥스르스크(Oxsrrsk)의 강력한 마법이 절실히 필요했습니다. 시크리스(Xikkrisx)는 석화된 옥스르스크(Oxsrrsk)의 몸과, 동굴 바닥의 작은 틈에 떨어진 것으로 보이는 단단히 묶인 두루마리를 발견했습니다. 그는 두루마리를 펼쳐 가운데 부분의 짧은 구절을 읽었습니다. ‘상계에서 결박되어 쫓겨난 뒤, Chak’kso의 분노한 영혼은 해방을 원했고 상계의 일부 지역에 타락의 영향을 끼칠 수 있었다. 그 영향은 지표에서 지하 깊은 곳까지 이어지는 “돌의 길”을 통해 흘러들었다. 이 분노는 거대한 도마뱀의 알을 바꾸어 몸과 영혼을 Chak’kso의 증오를 실현하는 도구로 만들었다.’ 혼란스러웠지만 시크리스(Xikkrisx)는 눈앞의 임무에 집중했습니다. 장로들이 옥스르스크(Oxsrrsk)를 되살릴 방법을 찾을지도 모른다고 생각한 그는 조각상을 Rysssrylosszkk 씨족의 영역으로 운반하는 길고 고된 일을 시작했습니다. 호수에서 멀리 이동하지도 못한 채 지친 시크리스(Xikkrisx)는 작은 동굴 안에 조각상을 내려놓고 쉬기 위해 누웠습니다. 그리고 뼛속까지 얼어붙는 포효에 잠에서 깨어났습니다."
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:125
@@ -1168,7 +1168,7 @@ msgstr "이 기묘한 동굴은 한때 웃는 악마의 방으로 알려졌으�
 #. [multiplayer]: id=multiplayer_elensefar_courtyard
 #: data/multiplayer/scenarios/2p_Elensefar_Courtyard.cfg:5
 msgid "2p — Elensefar Courtyard"
-msgstr "2p — 엘렌세파르 안뜰"
+msgstr "2p — 엘렌세파르(Elensefar) 안뜰"
 
 #. [multiplayer]: id=multiplayer_elensefar_courtyard
 #: data/multiplayer/scenarios/2p_Elensefar_Courtyard.cfg:7
@@ -1553,7 +1553,7 @@ msgstr "돌로 만든 조각상입니다."
 #. [multiplayer]: id=multiplayer_Sullas_Ruins
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:43
 msgid "2p — Sulla’s Ruins"
-msgstr "2p - Sulla’s Ruins"
+msgstr "2p - 술라(Sulla)’s Ruins"
 
 #. [multiplayer]: id=multiplayer_Sullas_Ruins
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:44
@@ -1676,7 +1676,7 @@ msgstr "오크 무리가 대륙에 떼 지어 몰려오기 시작했을 때, 아
 #. [multiplayer]: id=multiplayer_thousand_stings_garrison
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:45
 msgid "2p — Thousand Stings Garrison"
-msgstr "2p - Thousand Stings Garrison"
+msgstr "2p - Thousand Stings 수비군(Garrison)"
 
 #. [multiplayer]: id=multiplayer_thousand_stings_garrison
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:47
@@ -1787,7 +1787,7 @@ msgstr "이름의 유래가 된 강령술사의 관이 있는 중앙 타일은 �
 #. [multiplayer]: id=multiplayer_Weldyn_Channel
 #: data/multiplayer/scenarios/2p_Weldyn_Channel.cfg:5
 msgid "2p — Weldyn Channel"
-msgstr "2p - Weldyn Channel"
+msgstr "2p - 웰딘(Weldyn) Channel"
 
 #. [multiplayer]: id=multiplayer_Weldyn_Channel
 #: data/multiplayer/scenarios/2p_Weldyn_Channel.cfg:7
@@ -2143,7 +2143,7 @@ msgstr "<span color='gold'>+$chest_gold 금화</span>"
 #. [multiplayer]: id=multiplayer_Loris_River
 #: data/multiplayer/scenarios/4p_Loris_River.cfg:7
 msgid "4p — Loris River"
-msgstr "4p - 로리스 강변"
+msgstr "4p - 로리스(Loris) 강변"
 
 #. [multiplayer]: id=multiplayer_Loris_River
 #: data/multiplayer/scenarios/4p_Loris_River.cfg:9
