@@ -8,11 +8,10 @@ from tools.audit_glossary import parenthetical_is_source_component
 from tools.merge_reference_translations import parse_field_values
 from tools.normalize_contextual_translations import normalize_translation
 from tools.normalize_korean_spacing import normalize_block
+from tools.project_config import GLOSSARY, WORK_KO
 
 
 ROOT = Path(__file__).resolve().parents[1]
-GLOSSARY = ROOT / "work" / "1.18.x" / "glossary.tsv"
-WORK_KO = ROOT / "work" / "1.18.x" / "ko"
 
 FIELDS = (
     "source_term",

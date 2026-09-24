@@ -9,6 +9,11 @@ import csv
 import re
 from collections import Counter, defaultdict
 from pathlib import Path
+import sys
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+
+from tools.project_config import GLOSSARY, PO_ROOT, WORK_KO
 
 
 FIELDS = (
@@ -417,9 +422,9 @@ def normalize(args: argparse.Namespace) -> tuple[int, int, int]:
 
 def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--glossary", type=Path, default=Path("work/1.18.x/glossary.tsv"))
-    parser.add_argument("--work-ko", type=Path, default=Path("work/1.18.x/ko"))
-    parser.add_argument("--po-root", type=Path, default=Path("po/1.18.x"))
+    parser.add_argument("--glossary", type=Path, default=GLOSSARY)
+    parser.add_argument("--work-ko", type=Path, default=WORK_KO)
+    parser.add_argument("--po-root", type=Path, default=PO_ROOT)
     args = parser.parse_args()
     normalize(args)
     return 0

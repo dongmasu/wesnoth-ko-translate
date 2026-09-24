@@ -7,6 +7,11 @@ import argparse
 import csv
 import re
 from pathlib import Path
+import sys
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+
+from tools.project_config import GLOSSARY, WORK_KO
 
 
 OVERRIDES = {
@@ -180,8 +185,8 @@ def update_po(path: Path) -> int:
 
 def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--glossary", type=Path, default=Path("work/1.18.x/glossary.tsv"))
-    parser.add_argument("--work", type=Path, default=Path("work/1.18.x/ko"))
+    parser.add_argument("--glossary", type=Path, default=GLOSSARY)
+    parser.add_argument("--work", type=Path, default=WORK_KO)
     args = parser.parse_args()
 
     print(f"glossary: {update_glossary(args.glossary)} entries updated")

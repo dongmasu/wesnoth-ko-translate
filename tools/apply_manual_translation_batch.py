@@ -8,6 +8,11 @@ import ast
 import csv
 import re
 from pathlib import Path
+import sys
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+
+from tools.project_config import PO_ROOT, WORK_KO
 
 
 TRANSLATIONS = {
@@ -6393,12 +6398,12 @@ def update_glossary(path: Path, root: Path) -> int:
         if source in known or not is_glossary_candidate(source):
             continue
         japanese = next(
-            (value for candidate in root.glob("po/1.18.x/ja/*.po")
+            (value for candidate in (PO_ROOT / "ja").glob("*.po")
              if (value := po_value(candidate, source))),
             "",
         )
         chinese = next(
-            (value for candidate in root.glob("po/1.18.x/zh_CN/*.po")
+            (value for candidate in (PO_ROOT / "zh_CN").glob("*.po")
              if (value := po_value(candidate, source))),
             "",
         )
@@ -6426,7 +6431,7 @@ def update_glossary(path: Path, root: Path) -> int:
 
 def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--work", type=Path, default=Path("work/1.18.x/ko"))
+    parser.add_argument("--work", type=Path, default=WORK_KO)
     args = parser.parse_args()
     total = 0
     for path in sorted(args.work.glob("*.po")):

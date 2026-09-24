@@ -12,6 +12,7 @@ from merge_reference_translations import (
     parse_field_values,
     replace_msgstr_fields,
 )
+from project_config import GLOSSARY, PO_ROOT, WORK_KO
 
 
 FIELDS = (
@@ -134,17 +135,17 @@ def main() -> int:
     parser.add_argument(
         "--glossary",
         type=Path,
-        default=Path("work/1.18.x/glossary.tsv"),
+        default=GLOSSARY,
     )
     parser.add_argument(
         "--work-ko",
         type=Path,
-        default=Path("work/1.18.x/ko"),
+        default=WORK_KO,
     )
     parser.add_argument(
         "--po-root",
         type=Path,
-        default=Path("po/1.18.x"),
+        default=PO_ROOT,
     )
     args = parser.parse_args()
 

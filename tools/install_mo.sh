@@ -2,7 +2,7 @@
 set -eu
 
 ROOT=$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd)
-VERSION=${VERSION:-1.18.x}
+VERSION=${VERSION:-${WESNOTH_VERSION:-$(tr -d '\r\n' < "$ROOT/VERSION")}}
 SOURCE_DIR=${2:-"$ROOT/dist/$VERSION/ko/LC_MESSAGES"}
 TARGET_DIR=${1:-}
 

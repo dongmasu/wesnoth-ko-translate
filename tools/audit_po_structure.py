@@ -9,6 +9,12 @@ import collections
 import re
 from pathlib import Path
 
+import sys
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+
+from tools.project_config import WORK_KO
+
 
 FIELD_RE = re.compile(
     r"^(msgid_plural|msgid|msgstr(?:\[\d+\])?)\s+(.+)$"
@@ -56,7 +62,7 @@ def mismatch(source: str, translation: str, pattern: re.Pattern[str]) -> bool:
 
 def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument("directory", type=Path, nargs="?", default=Path("work/1.18.x/ko"))
+    parser.add_argument("directory", type=Path, nargs="?", default=WORK_KO)
     args = parser.parse_args()
 
     tag_count = 0

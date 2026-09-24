@@ -10,6 +10,7 @@ import sys
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from tools.merge_reference_translations import parse_field_values, replace_msgstr_fields  # noqa: E402
+from tools.project_config import WORK_KO  # noqa: E402
 
 
 TRANSLATIONS = {
@@ -62,7 +63,7 @@ def apply_file(path: Path) -> int:
 
 def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--work", type=Path, default=Path("work/1.18.x/ko"))
+    parser.add_argument("--work", type=Path, default=WORK_KO)
     args = parser.parse_args()
     total = 0
     for path in sorted(args.work.glob("*.po")):

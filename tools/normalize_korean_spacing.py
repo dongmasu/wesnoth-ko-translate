@@ -6,6 +6,11 @@ from __future__ import annotations
 import argparse
 import re
 from pathlib import Path
+import sys
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+
+from tools.project_config import WORK_KO
 
 
 REPLACEMENTS = (
@@ -81,7 +86,7 @@ def normalize_file(path: Path) -> int:
 
 def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument("directory", type=Path, nargs="?", default=Path("work/1.18.x/ko"))
+    parser.add_argument("directory", type=Path, nargs="?", default=WORK_KO)
     args = parser.parse_args()
     total = 0
     for path in sorted(args.directory.glob("*.po")):

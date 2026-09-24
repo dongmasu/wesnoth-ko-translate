@@ -12,6 +12,6 @@ build/
 /References/wesnothko/
 
 # Intermediate glossary extraction reports; glossary.tsv is the maintained source.
-/work/1.18.x/glossary-candidates.tsv
-/work/1.18.x/glossary-inventory.tsv
-/work/1.18.x/glossary-untranslated.tsv
+/work/*/glossary-candidates.tsv
+/work/*/glossary-inventory.tsv
+/work/*/glossary-untranslated.tsv

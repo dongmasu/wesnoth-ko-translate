@@ -11,12 +11,17 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-PO_ROOT = ROOT / "po" / "1.18.x"
-WORK_KO_ROOT = ROOT / "work" / "1.18.x" / "ko"
-WORK_GLOSSARY = ROOT / "work" / "1.18.x" / "glossary.tsv"
-OUTPUT = ROOT / "work" / "1.18.x" / "glossary-candidates.tsv"
-INVENTORY_OUTPUT = ROOT / "work" / "1.18.x" / "glossary-inventory.tsv"
-UNTRANSLATED_OUTPUT = ROOT / "work" / "1.18.x" / "glossary-untranslated.tsv"
+import sys
+
+sys.path.insert(0, str(ROOT))
+
+from tools.project_config import GLOSSARY, PO_ROOT, WORK_KO, WORK_ROOT
+
+WORK_KO_ROOT = WORK_KO
+WORK_GLOSSARY = GLOSSARY
+OUTPUT = WORK_ROOT / "glossary-candidates.tsv"
+INVENTORY_OUTPUT = WORK_ROOT / "glossary-inventory.tsv"
+UNTRANSLATED_OUTPUT = WORK_ROOT / "glossary-untranslated.tsv"
 FIELD_RE = re.compile(r"^(msgid|msgstr(?:\[\d+\])?)\s+(.+)$")
 WORD_RE = re.compile(r"^[\wÀ-ÿ][\wÀ-ÿ' -]*$", re.UNICODE)
 

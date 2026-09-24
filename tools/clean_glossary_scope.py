@@ -9,7 +9,11 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-GLOSSARY = ROOT / "work" / "1.18.x" / "glossary.tsv"
+import sys
+
+sys.path.insert(0, str(ROOT))
+
+from tools.project_config import GLOSSARY
 FIELDS = (
     "source_term",
     "standard_korean",

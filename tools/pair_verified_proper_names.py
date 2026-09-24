@@ -8,6 +8,11 @@ import ast
 import csv
 import re
 from pathlib import Path
+import sys
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+
+from tools.project_config import GLOSSARY, PO_ROOT
 
 
 EXTERNAL_IDENTIFIERS = {"Discord", "IRC", "Reddit", "SoF", "Steam", "WC", "WoCopedia"}
@@ -118,8 +123,8 @@ def update(path: Path, en_root: Path) -> tuple[int, list[str]]:
 
 def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--glossary", type=Path, default=Path("work/1.18.x/glossary.tsv"))
-    parser.add_argument("--en-root", type=Path, default=Path("po/1.18.x/en_GB"))
+    parser.add_argument("--glossary", type=Path, default=GLOSSARY)
+    parser.add_argument("--en-root", type=Path, default=PO_ROOT / "en_GB")
     args = parser.parse_args()
     count, changed = update(args.glossary, args.en_root)
     print(f"updated: {count}")

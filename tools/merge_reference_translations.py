@@ -12,6 +12,11 @@ import argparse
 import ast
 import re
 from pathlib import Path
+import sys
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+
+from tools.project_config import WORK_KO
 
 
 FIELD_RE = re.compile(
@@ -160,7 +165,7 @@ def main() -> int:
     parser.add_argument(
         "--work",
         type=Path,
-        default=Path("work/1.18.x/ko"),
+        default=WORK_KO,
     )
     parser.add_argument(
         "--reference",

@@ -14,6 +14,7 @@ from merge_reference_translations import (
     parse_field_values,
     replace_msgstr_fields,
 )
+from project_config import GLOSSARY, WORK_KO
 
 
 def load_glossary(path: Path) -> dict[str, str]:
@@ -48,8 +49,8 @@ def apply_file(path: Path, glossary: dict[str, str]) -> int:
 
 def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--glossary", type=Path, default=Path("work/1.18.x/glossary.tsv"))
-    parser.add_argument("--work", type=Path, default=Path("work/1.18.x/ko"))
+    parser.add_argument("--glossary", type=Path, default=GLOSSARY)
+    parser.add_argument("--work", type=Path, default=WORK_KO)
     args = parser.parse_args()
 
     glossary = load_glossary(args.glossary)

@@ -14,12 +14,10 @@ from tools.audit_po_structure import (
     parse_messages,
 )
 from tools.audit_po_completion import audit_directory
+from tools.project_config import DEFAULT_VERSION, PO_ROOT, VERSION, WORK_ROOT, WORK_KO
 
 
 ROOT = Path(__file__).resolve().parents[1]
-PO_ROOT = ROOT / "po" / "1.18.x"
-WORK_ROOT = ROOT / "work" / "1.18.x"
-WORK_KO = WORK_ROOT / "ko"
 REFERENCE_KO = ROOT / "References" / "20250322_wesnoth_한국어번역"
 STRUCTURAL_REGRESSION_SOURCES = {
     "Engraved with a consecrated symbol, this amulet will bless both your "
@@ -193,6 +191,12 @@ class TranslationLayoutTests(unittest.TestCase):
         for locale in ("ko", "ja", "zh_CN", "en_GB"):
             with self.subTest(locale=locale):
                 self.assertTrue((PO_ROOT / locale).is_dir())
+
+    def test_version_configuration_uses_root_default(self):
+        self.assertEqual(DEFAULT_VERSION, "1.18.x")
+        self.assertEqual(VERSION, DEFAULT_VERSION)
+        self.assertEqual(PO_ROOT, ROOT / "po" / VERSION)
+        self.assertEqual(WORK_ROOT, ROOT / "work" / VERSION)
 
     def test_mo_helpers_and_installation_docs_exist(self):
         for name in (

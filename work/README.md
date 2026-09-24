@@ -21,6 +21,9 @@ work/
 - `References/`: 과거 한국어 번역과 네이버 카페 등 참고 자료
 - `References/wesnothko/translation-notes.tsv`: 한글화 팀 게시판과
   자유게시판에서 선별한 용어·명칭 참고 메모
+- 버전 기본값은 루트 `VERSION`에서 읽으며, 도구 실행 시
+  `WESNOTH_VERSION=<버전>`으로 덮어쓸 수 있습니다. 새 버전은 같은
+  `po/<버전>/`, `work/<버전>/`, `dist/<버전>/` 구조를 사용합니다.
 
 ## 작업 기준
 
@@ -184,11 +187,12 @@ python3 tools/audit_po_structure.py
 프로젝트 루트에서 실행합니다.
 
 ```sh
+VERSION="${WESNOTH_VERSION:-$(tr -d '\r\n' < VERSION)}"
 python3 -m unittest discover -s tests -v
 python3 tools/audit_glossary.py
 python3 tools/audit_po_completion.py
 python3 tools/audit_po_structure.py
-find work/1.18.x/ko -name '*.po' -print0 |
+find "work/$VERSION/ko" -name '*.po' -print0 |
   xargs -0 -n1 msgfmt --check --output-file=/dev/null
 ```
 
@@ -218,17 +222,18 @@ find work/1.18.x/ko -name '*.po' -print0 |
 과거 메시지이므로 활성 진행률에서 제외합니다.
 
 ```sh
+VERSION="${WESNOTH_VERSION:-$(tr -d '\r\n' < VERSION)}"
 python3 -m unittest discover -s tests -v
 python3 tools/audit_glossary.py
 python3 tools/audit_po_structure.py
-find work/1.18.x/ko -name '*.po' -print0 |
+find "work/$VERSION/ko" -name '*.po' -print0 |
   xargs -0 -n1 msgfmt --check --output-file=/dev/null
 ```
 
 활성 빈 번역과 fuzzy를 파일별로 확인하려면 다음을 추가로 실행합니다.
 
 ```sh
-for po in work/1.18.x/ko/*.po; do
+for po in "work/$VERSION/ko"/*.po; do
     untranslated="$(
         msgattrib --untranslated --no-fuzzy --no-obsolete "$po" |
         awk '$1 == "msgid" { count++ } END { print count + 0 }'

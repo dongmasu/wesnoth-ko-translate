@@ -12,8 +12,10 @@ from pathlib import Path
 
 try:
     from tools.merge_reference_translations import replace_msgstr_fields
+    from tools.project_config import GLOSSARY, PO_ROOT, WORK_KO
 except ModuleNotFoundError:
     from merge_reference_translations import replace_msgstr_fields
+    from project_config import GLOSSARY, PO_ROOT, WORK_KO
 
 
 FIELDS = (
@@ -155,9 +157,9 @@ def add_short_rows(
 
 def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--work-ko", type=Path, default=Path("work/1.18.x/ko"))
-    parser.add_argument("--glossary", type=Path, default=Path("work/1.18.x/glossary.tsv"))
-    parser.add_argument("--po-root", type=Path, default=Path("po/1.18.x"))
+    parser.add_argument("--work-ko", type=Path, default=WORK_KO)
+    parser.add_argument("--glossary", type=Path, default=GLOSSARY)
+    parser.add_argument("--po-root", type=Path, default=PO_ROOT)
     args = parser.parse_args()
 
     all_messages: dict[str, Counter[str]] = defaultdict(Counter)

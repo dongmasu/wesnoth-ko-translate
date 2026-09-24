@@ -13,6 +13,7 @@ from tools.merge_reference_translations import (  # noqa: E402
     parse_field_values,
     replace_msgstr_fields,
 )
+from tools.project_config import WORK_KO  # noqa: E402
 
 
 TRANSLATIONS = {
@@ -91,7 +92,7 @@ def apply_file(path: Path) -> int:
 
 def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--work", type=Path, default=Path("work/1.18.x/ko"))
+    parser.add_argument("--work", type=Path, default=WORK_KO)
     args = parser.parse_args()
     total = 0
     for path in sorted(args.work.glob("*.po")):

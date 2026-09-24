@@ -6,6 +6,11 @@ from __future__ import annotations
 import argparse
 import csv
 from pathlib import Path
+import sys
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+
+from tools.project_config import GLOSSARY
 
 
 FIELDS = (
@@ -191,7 +196,7 @@ def update_glossary(path: Path) -> tuple[int, list[str]]:
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument(
-        "--glossary", type=Path, default=Path("work/1.18.x/glossary.tsv")
+        "--glossary", type=Path, default=GLOSSARY
     )
     args = parser.parse_args()
     count, changed = update_glossary(args.glossary)

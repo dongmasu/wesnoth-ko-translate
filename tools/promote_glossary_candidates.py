@@ -8,7 +8,13 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-WORK = ROOT / "work" / "1.18.x"
+import sys
+
+sys.path.insert(0, str(ROOT))
+
+from tools.project_config import WORK_ROOT
+
+WORK = WORK_ROOT
 GLOSSARY = WORK / "glossary.tsv"
 CANDIDATES = WORK / "glossary-candidates.tsv"
 

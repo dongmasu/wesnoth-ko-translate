@@ -4,6 +4,10 @@
 게임에 적용하는 방법을 설명합니다. 게임은 실행 시 PO가 아니라 gettext
 바이너리 파일인 `.mo`를 읽습니다.
 
+현재 기본 버전은 루트 `VERSION` 파일에서 읽습니다. 다른 버전은
+`WESNOTH_VERSION=1.19.x`처럼 환경 변수로 지정할 수 있으며, 해당 버전의
+`po/<버전>/`과 `work/<버전>/` 디렉터리가 먼저 준비되어 있어야 합니다.
+
 ## 한국어
 
 ### 1. 준비
@@ -169,10 +173,11 @@ MO를 실제 게임에 설치하거나 완료 tag를 만들기 전에 프로젝�
 다음 검사를 실행합니다.
 
 ```sh
+VERSION="${WESNOTH_VERSION:-$(tr -d '\r\n' < VERSION)}"
 python3 -m unittest discover -s tests -v
 python3 tools/audit_po_completion.py
 python3 tools/audit_po_structure.py
-for po in work/1.18.x/ko/*.po; do
+for po in "work/$VERSION/ko"/*.po; do
     untranslated="$(
         msgattrib --untranslated --no-fuzzy --no-obsolete "$po" |
         awk '$1 == "msgid" { count++ } END { print count + 0 }'
@@ -183,7 +188,7 @@ for po in work/1.18.x/ko/*.po; do
     )"
     printf '%s untranslated=%s fuzzy=%s\n' "$po" "$untranslated" "$fuzzy"
 done
-find work/1.18.x/ko -name '*.po' -print0 |
+find "work/$VERSION/ko" -name '*.po' -print0 |
   xargs -0 -n1 msgfmt --check --output-file=/dev/null
 ```
 
@@ -381,10 +386,11 @@ Before installing MO files into the game or creating the completion tag, run
 the following from the repository root:
 
 ```sh
+VERSION="${WESNOTH_VERSION:-$(tr -d '\r\n' < VERSION)}"
 python3 -m unittest discover -s tests -v
 python3 tools/audit_po_completion.py
 python3 tools/audit_po_structure.py
-for po in work/1.18.x/ko/*.po; do
+for po in "work/$VERSION/ko"/*.po; do
     untranslated="$(
         msgattrib --untranslated --no-fuzzy --no-obsolete "$po" |
         awk '$1 == "msgid" { count++ } END { print count + 0 }'
@@ -395,7 +401,7 @@ for po in work/1.18.x/ko/*.po; do
     )"
     printf '%s untranslated=%s fuzzy=%s\n' "$po" "$untranslated" "$fuzzy"
 done
-find work/1.18.x/ko -name '*.po' -print0 |
+find "work/$VERSION/ko" -name '*.po' -print0 |
   xargs -0 -n1 msgfmt --check --output-file=/dev/null
 ```
 

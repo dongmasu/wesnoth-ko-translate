@@ -12,6 +12,7 @@ import sys
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from tools.merge_reference_translations import is_fuzzy, parse_field_values
+from tools.project_config import WORK_KO
 
 
 @dataclass(frozen=True)
@@ -62,7 +63,7 @@ def main() -> int:
         "directory",
         type=Path,
         nargs="?",
-        default=Path("work/1.18.x/ko"),
+        default=WORK_KO,
     )
     args = parser.parse_args()
 

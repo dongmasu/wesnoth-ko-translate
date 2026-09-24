@@ -85,6 +85,9 @@ Codex, Claude, Gemini, Copilot 또는 사람이 작업하더라도 아래 원칙
 - 1.18.x 완료 tag는 모든 활성 fuzzy와 빈 번역이 없고 테스트·구조 감사·
   `msgfmt --check`가 통과한 뒤에만 만든다. 권장 형식은
   `wesnoth-1.18.x-ko.1`이며, tag와 공개 파일 목록을 검토한 뒤 push한다.
+- 버전별 경로를 코드에 새로 하드코딩하지 않는다. 기본 버전은 루트
+  `VERSION` 파일에서 읽고, 다른 버전은 `WESNOTH_VERSION` 환경 변수로
+  지정한다. `po/<버전>/`, `work/<버전>/`, `dist/<버전>/` 구조를 유지한다.
 
 ## 5. 번역 품질 기준
 
@@ -342,10 +345,11 @@ Codex, Claude, Gemini, Copilot 또는 사람이 작업하더라도 아래 원칙
 권장 감사 명령:
 
 ```sh
+VERSION="${WESNOTH_VERSION:-$(tr -d '\r\n' < VERSION)}"
 python3 -m unittest discover -s tests -v
 python3 tools/audit_po_completion.py
 python3 tools/audit_po_structure.py
-find work/1.18.x/ko -name '*.po' -print0 |
+find "work/$VERSION/ko" -name '*.po' -print0 |
   xargs -0 -n1 msgfmt --check --output-file=/dev/null
 ```
 
@@ -353,7 +357,7 @@ find work/1.18.x/ko -name '*.po' -print0 |
 `untranslated`와 `fuzzy`의 합계가 각각 0이어야 한다.
 
 ```sh
-for po in work/1.18.x/ko/*.po; do
+for po in "work/$VERSION/ko"/*.po; do
     untranslated="$(
         msgattrib --untranslated --no-fuzzy --no-obsolete "$po" |
         awk '$1 == "msgid" { count++ } END { print count + 0 }'

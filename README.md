@@ -9,6 +9,19 @@
 자동화가 마련되어 있습니다. 번역 완료 기준과 실제 게임 적용 절차도
 문서화되어 있습니다.
 
+### 버전 설정
+
+현재 작업 버전은 루트의 `VERSION` 파일에 기록합니다. 도구 실행 시
+`WESNOTH_VERSION` 환경 변수를 지정하면 해당 버전이 우선됩니다.
+따라서 새 버전은 `po/<버전>/`과 `work/<버전>/`을 준비한 뒤 다음처럼
+같은 도구를 재사용할 수 있습니다.
+
+```sh
+VERSION="${WESNOTH_VERSION:-$(tr -d '\r\n' < VERSION)}"
+WESNOTH_VERSION="$VERSION" tools/build_mo.sh
+WESNOTH_VERSION="$VERSION" python3 tools/audit_po_completion.py
+```
+
 ### 문서
 
 - [프로젝트 작업 지침](PROJECT-AI.md)
@@ -107,10 +120,11 @@ tag를 만듭니다. 태그와 공개 파일 목록을 검토한 뒤에만 GitHu
 종료 코드가 나타내는 PO 문법 실패와 별도로 기록합니다.
 
 ```sh
+VERSION="${WESNOTH_VERSION:-$(tr -d '\r\n' < VERSION)}"
 python3 -m unittest discover -s tests -v
 python3 tools/audit_po_completion.py
 python3 tools/audit_po_structure.py
-for po in work/1.18.x/ko/*.po; do
+for po in "work/$VERSION/ko"/*.po; do
     untranslated="$(
         msgattrib --untranslated --no-fuzzy --no-obsolete "$po" |
         awk '$1 == "msgid" { count++ } END { print count + 0 }'
@@ -121,7 +135,7 @@ for po in work/1.18.x/ko/*.po; do
     )"
     printf '%s untranslated=%s fuzzy=%s\n' "$po" "$untranslated" "$fuzzy"
 done
-find work/1.18.x/ko -name '*.po' -print0 |
+find "work/$VERSION/ko" -name '*.po' -print0 |
   xargs -0 -n1 msgfmt --check --output-file=/dev/null
 ```
 

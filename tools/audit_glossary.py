@@ -14,6 +14,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from tools.merge_reference_translations import parse_field_values
+from tools.project_config import GLOSSARY, WORK_KO
 
 
 FIELDS = (
@@ -73,8 +74,8 @@ def parenthetical_is_source_component(parenthetical: str, source: str) -> bool:
 
 def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--glossary", type=Path, default=Path("work/1.18.x/glossary.tsv"))
-    parser.add_argument("--work-ko", type=Path, default=Path("work/1.18.x/ko"))
+    parser.add_argument("--glossary", type=Path, default=GLOSSARY)
+    parser.add_argument("--work-ko", type=Path, default=WORK_KO)
     args = parser.parse_args()
 
     rows = load_rows(args.glossary)

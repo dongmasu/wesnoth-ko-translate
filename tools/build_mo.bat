@@ -3,7 +3,8 @@ setlocal EnableExtensions EnableDelayedExpansion
 
 set "ROOT=%~dp0.."
 set "VERSION=%~1"
-if "%VERSION%"=="" set "VERSION=1.18.x"
+if "%VERSION%"=="" set "VERSION=%WESNOTH_VERSION%"
+if "%VERSION%"=="" for /f "usebackq delims=" %%V in ("%ROOT%\VERSION") do set "VERSION=%%V"
 set "OUT_DIR=%~2"
 if "%OUT_DIR%"=="" set "OUT_DIR=%ROOT%\dist\%VERSION%\ko\LC_MESSAGES"
 set "PO_DIR=%ROOT%\work\%VERSION%\ko"
