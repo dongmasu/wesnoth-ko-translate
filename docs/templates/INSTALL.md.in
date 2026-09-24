@@ -1,6 +1,6 @@
 # 설치 및 적용 안내 / Installation and Usage Guide
 
-이 문서는 `wesnoth-ko-translate`의 Wesnoth 1.18.x 한국어 PO를 실제
+이 문서는 `wesnoth-ko-translate`의 Wesnoth {{WESNOTH_VERSION}} 한국어 PO를 실제
 게임에 적용하는 방법을 설명합니다. 게임은 실행 시 PO가 아니라 gettext
 바이너리 파일인 `.mo`를 읽습니다.
 
@@ -25,7 +25,7 @@ python3 tools/render_docs.py --check
 필요한 도구:
 
 - GNU gettext의 `msgfmt`
-- Wesnoth 1.18.x 설치본
+- Wesnoth {{WESNOTH_VERSION}} 설치본
 - 이 저장소
 
 `msgfmt`가 없다면 운영체제별로 다음 방법 중 하나로 설치합니다.
@@ -143,7 +143,7 @@ tools/install_mo_macos_app.sh \
 open "$HOME/Applications/Wesnoth-1.18.8-unsigned.app"
 ```
 
-이 프로젝트에서 실제로 확인한 1.18.x standalone 실행 명령도
+이 프로젝트에서 실제로 확인한 {{WESNOTH_VERSION}} standalone 실행 명령도
 다음과 같습니다. 앱을 완전히 종료한 뒤 실행해야 하며, macOS가 다른 앱의
 데이터 접근을 물으면 허용합니다.
 
@@ -207,16 +207,16 @@ tools/mark_korean_locale.sh \
 달라질 수 있습니다.
 
 ```text
-C:\Program Files\Battle for Wesnoth 1.18\data\translations\ko\LC_MESSAGES\
-C:\Program Files (x86)\Battle for Wesnoth 1.18\data\translations\ko\LC_MESSAGES\
+C:\Program Files\Battle for Wesnoth {{WESNOTH_MAJOR_MINOR}}\data\translations\ko\LC_MESSAGES\
+C:\Program Files (x86)\Battle for Wesnoth {{WESNOTH_MAJOR_MINOR}}\data\translations\ko\LC_MESSAGES\
 ```
 
 ZIP 압축판은 압축을 푼 폴더가 곧 게임 폴더입니다. 예를 들어 압축을
-`C:\Games\Wesnoth-1.18`에 풀었다면 대상 경로는
+`C:\Games\Wesnoth-{{WESNOTH_MAJOR_MINOR}}`에 풀었다면 대상 경로는
 다음과 같습니다.
 
 ```text
-C:\Games\Wesnoth-1.18\data\translations\ko\LC_MESSAGES\
+C:\Games\Wesnoth-{{WESNOTH_MAJOR_MINOR}}\data\translations\ko\LC_MESSAGES\
 ```
 
 기존 `*.mo` 파일을 별도 폴더에 백업한 뒤 새 MO를 복사해도 되지만,
@@ -231,7 +231,7 @@ call tools\build_mo.bat
 생성된 MO를 게임에 적용합니다. 대상 경로를 인자로 명시해야 합니다.
 
 ```bat
-call tools\install_mo.bat "C:\Program Files\Battle for Wesnoth 1.18\data\translations\ko\LC_MESSAGES"
+call tools\install_mo.bat "C:\Program Files\Battle for Wesnoth {{WESNOTH_MAJOR_MINOR}}\data\translations\ko\LC_MESSAGES"
 ```
 
 스크립트는 기존 MO를 앱 외부의 `dist/<버전>/ko/` 아래
@@ -243,11 +243,11 @@ call tools\install_mo.bat "C:\Program Files\Battle for Wesnoth 1.18\data\transla
 `한국어 (<작업버전>-<MO생성일>)`을 기록하고 원본 설정 파일을 백업합니다.
 
 ```bat
-call tools\mark_korean_locale.bat "C:\Games\Wesnoth-1.18\data\languages\ko_KR.cfg"
+call tools\mark_korean_locale.bat "C:\Games\Wesnoth-{{WESNOTH_MAJOR_MINOR}}\data\languages\ko_KR.cfg"
 ```
 
 이후 게임을 완전히 종료하고 다시 실행한 뒤 언어 선택 창에서
-`한국어 (1.18.x-<MO생성일>)`를 선택합니다. 기존 표시로
+`한국어 ({{WESNOTH_VERSION}}-<MO생성일>)`를 선택합니다. 기존 표시로
 되돌리려면 같은 디렉터리에 생성된
 `ko_KR.cfg.backup-YYYYMMDD-HHMMSS`를 복원합니다.
 
@@ -284,9 +284,9 @@ sudo tools/install_mo.sh \
    선택합니다.
 3. 언어 선택 창의 좌측 하단에서 **Show in-progress or abandoned
    translations**를 체크합니다.
-4. 목록에서 **한국어 (1.18.x-<MO생성일>)**를 선택하고
+4. 목록에서 **한국어 ({{WESNOTH_VERSION}}-<MO생성일>)**를 선택하고
    게임을 재시작합니다.
-5. 번역이 보이지 않으면 게임 버전이 1.18.x인지, MO 파일명이
+5. 번역이 보이지 않으면 게임 버전이 {{WESNOTH_VERSION}}인지, MO 파일명이
    `wesnoth*.mo` textdomain 이름과 일치하는지 확인합니다.
 6. 기존 MO를 백업했다면 원래 파일을 복원해 변경 전 상태로 되돌릴 수
    있습니다.
@@ -346,22 +346,22 @@ find "work/$VERSION/ko" -name '*.po' -print0 |
 `References/wesnothko/`를 기본 제외하지만, 이미 추적 중인 파일에는
 영향이 없으므로 공개 전에 `git status`와 `git ls-files`로 반드시 확인합니다.
 
-### 9. 1.18.x 완료 태그
+### 9. {{WESNOTH_VERSION}} 완료 태그
 
 모든 활성 fuzzy가 검토되고, 비-fuzzy 빈 번역이 없으며, 테스트·구조
 감사·`msgfmt --check`가 통과한 시점에만 완료 태그를 만듭니다.
 
-권장 태그 형식은 `wesnoth-1.18.x-ko.1`입니다. 같은 Wesnoth 버전의
+권장 태그 형식은 `wesnoth-{{WESNOTH_VERSION}}-ko.1`입니다. 같은 Wesnoth 버전의
 번역 수정 릴리스는 `.2`, `.3`처럼 증가시킵니다.
 
 ```sh
 git add README.md INSTALL.md PROJECT-AI.md .gitignore \
     References/20250322_wesnoth_한국어번역 po work tools tests
-git commit -m "Complete Wesnoth 1.18.x Korean translation"
-git tag -a wesnoth-1.18.x-ko.1 \
-    -m "Wesnoth 1.18.x Korean translation"
+git commit -m "Complete Wesnoth {{WESNOTH_VERSION}} Korean translation"
+git tag -a wesnoth-{{WESNOTH_VERSION}}-ko.1 \
+    -m "Wesnoth {{WESNOTH_VERSION}} Korean translation"
 git push origin main
-git push origin wesnoth-1.18.x-ko.1
+git push origin wesnoth-{{WESNOTH_VERSION}}-ko.1
 ```
 
 카페 HTML을 공개하지 않을 경우 위 `git add` 명령에
@@ -370,7 +370,7 @@ git push origin wesnoth-1.18.x-ko.1
 
 ## English
 
-This document explains how to apply the Wesnoth 1.18.x Korean PO files to
+This document explains how to apply the Wesnoth {{WESNOTH_VERSION}} Korean PO files to
 the actual game. Wesnoth loads gettext binary `.mo` files at runtime, not
 the editable `.po` files.
 
@@ -379,7 +379,7 @@ the editable `.po` files.
 You need:
 
 - GNU gettext's `msgfmt`
-- An installed Wesnoth 1.18.x copy
+- An installed Wesnoth {{WESNOTH_VERSION}} copy
 - This repository
 
 Install gettext if `msgfmt` is unavailable:
@@ -541,24 +541,24 @@ The translation directory is:
 Common examples include:
 
 ```text
-C:\Program Files\Battle for Wesnoth 1.18\data\translations\ko\LC_MESSAGES\
-C:\Program Files (x86)\Battle for Wesnoth 1.18\data\translations\ko\LC_MESSAGES\
+C:\Program Files\Battle for Wesnoth {{WESNOTH_MAJOR_MINOR}}\data\translations\ko\LC_MESSAGES\
+C:\Program Files (x86)\Battle for Wesnoth {{WESNOTH_MAJOR_MINOR}}\data\translations\ko\LC_MESSAGES\
 ```
 
 Build and install with the Windows helpers:
 
 ```bat
 call tools\build_mo.bat
-call tools\install_mo.bat "C:\Program Files\Battle for Wesnoth 1.18\data\translations\ko\LC_MESSAGES"
+call tools\install_mo.bat "C:\Program Files\Battle for Wesnoth {{WESNOTH_MAJOR_MINOR}}\data\translations\ko\LC_MESSAGES"
 ```
 
 For the ZIP distribution, the extracted directory is the game directory
 itself. For example, if it was extracted to
-`C:\Games\Wesnoth-1.18`, use:
+`C:\Games\Wesnoth-{{WESNOTH_MAJOR_MINOR}}`, use:
 
 ```bat
-call tools\install_mo.bat "C:\Games\Wesnoth-1.18\data\translations\ko\LC_MESSAGES"
-call tools\mark_korean_locale.bat "C:\Games\Wesnoth-1.18\data\languages\ko_KR.cfg"
+call tools\install_mo.bat "C:\Games\Wesnoth-{{WESNOTH_MAJOR_MINOR}}\data\translations\ko\LC_MESSAGES"
+call tools\mark_korean_locale.bat "C:\Games\Wesnoth-{{WESNOTH_MAJOR_MINOR}}\data\languages\ko_KR.cfg"
 ```
 
 The first helper backs up existing MO files before copying. The second helper
@@ -594,9 +594,9 @@ sudo tools/install_mo.sh \
    **언어 선택**.
 3. In the language selection window, check **Show in-progress or abandoned
    translations** at the bottom left.
-4. Select **한국어 (1.18.x-<MO-build-date>)** and restart the
+4. Select **한국어 ({{WESNOTH_VERSION}}-<MO-build-date>)** and restart the
    game.
-5. If the translation does not appear, verify the game is 1.18.x and that
+5. If the translation does not appear, verify the game is {{WESNOTH_VERSION}} and that
    the MO filenames match the `wesnoth*.mo` textdomains.
 6. Restore the backed-up MO files to undo the change.
 7. If multiple Wesnoth copies are installed, verify that the files were
@@ -655,23 +655,23 @@ source attribution in the public repository. The `.gitignore` excludes
 `References/wesnothko/` by default, but inspect `git status` and
 `git ls-files` before publishing.
 
-### 9. Completion tag for 1.18.x
+### 9. Completion tag for {{WESNOTH_VERSION}}
 
 Create the completion tag only after all active fuzzy entries have been
 reviewed, no non-fuzzy empty translations remain, and the tests, structural
 audit, and `msgfmt --check` all pass.
 
-The recommended tag format is `wesnoth-1.18.x-ko.1`; increment the suffix
+The recommended tag format is `wesnoth-{{WESNOTH_VERSION}}-ko.1`; increment the suffix
 for later translation-only corrections.
 
 ```sh
 git add README.md INSTALL.md PROJECT-AI.md .gitignore \
     References/20250322_wesnoth_한국어번역 po work tools tests
-git commit -m "Complete Wesnoth 1.18.x Korean translation"
-git tag -a wesnoth-1.18.x-ko.1 \
-    -m "Wesnoth 1.18.x Korean translation"
+git commit -m "Complete Wesnoth {{WESNOTH_VERSION}} Korean translation"
+git tag -a wesnoth-{{WESNOTH_VERSION}}-ko.1 \
+    -m "Wesnoth {{WESNOTH_VERSION}} Korean translation"
 git push origin main
-git push origin wesnoth-1.18.x-ko.1
+git push origin wesnoth-{{WESNOTH_VERSION}}-ko.1
 ```
 
 Do not include `References/wesnothko` in `git add` if the Cafe archive is to

@@ -36,4 +36,9 @@ if [ "$found" -eq 0 ]; then
     exit 1
 fi
 
+BUILD_DATE=${WESNOTH_BUILD_DATE:-$(date +%Y%m%d)}
+META_DIR="$ROOT/dist/$VERSION/ko"
+mkdir -p "$META_DIR"
+printf '%s\n' "$BUILD_DATE" > "$META_DIR/MO_BUILD_DATE"
 echo "MO files written to $OUT_DIR"
+echo "MO build date recorded in $META_DIR/MO_BUILD_DATE: $BUILD_DATE"

@@ -24,7 +24,8 @@ set -- "$SOURCE_DIR"/*.mo
 }
 
 mkdir -p "$TARGET_DIR"
-backup="$TARGET_DIR.backup-$(date +%Y%m%d-%H%M%S)"
+backup_root=${WESNOTH_BACKUP_DIR:-"$ROOT/dist/$VERSION/ko"}
+backup="$backup_root/LC_MESSAGES.backup-$(date +%Y%m%d-%H%M%S)"
 existing=0
 for mo in "$TARGET_DIR"/*.mo; do
     if [ -f "$mo" ]; then

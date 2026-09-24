@@ -6,6 +6,7 @@ __pycache__/
 *.mo
 dist/
 build/
+.local-backups/
 
 # The archive contains copied Naver Cafe material. Keep it local unless
 # redistribution permission has been verified for every file.

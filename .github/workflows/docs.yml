@@ -1,0 +1,54 @@
+name: Documentation
+
+on:
+  push:
+    paths:
+      - "VERSION"
+      - "docs/templates/**"
+      - "tools/render_docs.py"
+      - ".github/workflows/docs.yml"
+  pull_request:
+    paths:
+      - "VERSION"
+      - "docs/templates/**"
+      - "tools/render_docs.py"
+      - ".github/workflows/docs.yml"
+  workflow_dispatch:
+    inputs:
+      wesnoth_version:
+        description: "Version to render, for example 1.18.x"
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Check generated documentation
+        if: ${{ github.event_name == 'pull_request' || (github.event_name == 'workflow_dispatch' && inputs.wesnoth_version == '') }}
+        run: python3 tools/render_docs.py --check
+      - name: Render documentation
+        if: ${{ github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && inputs.wesnoth_version != '') }}
+        env:
+          WESNOTH_VERSION: ${{ inputs.wesnoth_version }}
+        run: |
+          if [ -n "$WESNOTH_VERSION" ]; then
+            printf '%s\n' "$WESNOTH_VERSION" > VERSION
+          fi
+          python3 tools/render_docs.py
+      - name: Publish generated documentation
+        if: ${{ github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && inputs.wesnoth_version != '') }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md INSTALL.md PROJECT-AI.md work/README.md VERSION
+          VERSION="$(tr -d '\r\n' < VERSION)"
+          git diff --cached --quiet || git commit -m "Render documentation for Wesnoth $VERSION"
+          git push

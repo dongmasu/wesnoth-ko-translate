@@ -34,4 +34,10 @@ if "%FOUND%"=="0" (
     echo error: no PO files found in "%PO_DIR%"
     exit /b 1
 )
+set "BUILD_DATE=%WESNOTH_BUILD_DATE%"
+if "%BUILD_DATE%"=="" for /f %%D in ('powershell -NoProfile -Command "Get-Date -Format yyyyMMdd"') do set "BUILD_DATE=%%D"
+set "META_DIR=%ROOT%\dist\%VERSION%\ko"
+if not exist "%META_DIR%" mkdir "%META_DIR%"
+> "%META_DIR%\MO_BUILD_DATE" echo %BUILD_DATE%
 echo MO files written to "%OUT_DIR%"
+echo MO build date recorded in "%META_DIR%\MO_BUILD_DATE": %BUILD_DATE%

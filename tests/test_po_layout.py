@@ -204,6 +204,11 @@ class TranslationLayoutTests(unittest.TestCase):
             "build_mo.bat",
             "install_mo.sh",
             "install_mo.bat",
+            "install_mo_macos_external.sh",
+            "install_mo_macos_app.sh",
+            "mark_korean_locale.sh",
+            "mark_korean_locale.bat",
+            "mark_korean_locale.ps1",
         ):
             with self.subTest(name=name):
                 self.assertTrue((ROOT / "tools" / name).is_file())
@@ -214,8 +219,13 @@ class TranslationLayoutTests(unittest.TestCase):
             "tools/build_mo.sh",
             "tools\\build_mo.bat",
             "tools/install_mo.sh",
+            "tools/install_mo_macos_external.sh",
+            "tools/install_mo_macos_app.sh",
+            "tools/mark_korean_locale.sh",
+            "tools\\mark_korean_locale.bat",
             "tools\\install_mo.bat",
             "tools/audit_po_completion.py",
+            "MO_BUILD_DATE",
             "LC_MESSAGES",
         ):
             with self.subTest(marker=marker):

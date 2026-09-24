@@ -8,6 +8,8 @@ if "%VERSION%"=="" for /f "usebackq delims=" %%V in ("%ROOT%\VERSION") do set "V
 set "TARGET_DIR=%~1"
 set "SOURCE_DIR=%~2"
 if "%SOURCE_DIR%"=="" set "SOURCE_DIR=%ROOT%\dist\%VERSION%\ko\LC_MESSAGES"
+set "BACKUP_ROOT=%WESNOTH_BACKUP_DIR%"
+if "%BACKUP_ROOT%"=="" set "BACKUP_ROOT=%ROOT%\dist\%VERSION%\ko"
 
 if "%TARGET_DIR%"=="" (
     echo usage: %~nx0 ^<game translations\ko\LC_MESSAGES^> [source mo directory]
@@ -29,7 +31,7 @@ if not exist "%TARGET_DIR%" mkdir "%TARGET_DIR%"
 dir /b "%TARGET_DIR%\*.mo" >nul 2>nul
 if not errorlevel 1 (
     for /f "usebackq delims=" %%T in (`powershell -NoProfile -Command "(Get-Date).ToString('yyyyMMdd-HHmmss')"`) do set "STAMP=%%T"
-    set "BACKUP=%TARGET_DIR%.backup-!STAMP!"
+    set "BACKUP=%BACKUP_ROOT%\LC_MESSAGES.backup-!STAMP!"
     mkdir "!BACKUP!"
     copy /y "%TARGET_DIR%\*.mo" "!BACKUP!\" >nul
     echo backed up existing MO files to "!BACKUP!"
