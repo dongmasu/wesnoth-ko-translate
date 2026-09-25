@@ -278,7 +278,7 @@ msgid ""
 "Kai, please lead us against them yourself, it will hearten the folk. And — "
 "if you will permit — you now reach the age where a kai must learn battle "
 "skills."
-msgstr "카이(Kai), 저희를 직접 이끌어 놈들과 싸워주신다면, 동포의 사기가 오를겁니다. 그리고 실례가 되지 않는다면 말입니다만 이제 당신도 카이(Kai)로서 전투 기술을 익혀야 할 나이가 된 것 같습니다."
+msgstr "카이(Kai), 저희를 직접 이끌어 놈들과 싸워주신다면, 동포의 사기가 오를 겁니다. 그리고 실례가 되지 않는다면 말입니다만 이제 당신도 카이(Kai)로서 전투 기술을 익혀야 할 나이가 된 것 같습니다."
 
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/01_Invasion.cfg:355
@@ -297,14 +297,14 @@ msgstr "훈련된 전사가 적기 때문에, 레벨 1 유닛당 3명만 소집�
 #. [message]: speaker=Mal-Kevek
 #: data/campaigns/Dead_Water/scenarios/01_Invasion.cfg:389
 msgid "Rise, my slaves! We will create an army for Lord Ravanal."
-msgstr "일어나라, 나의 노예들아! 라바날 군주를 위해 군단을 만들것이다."
+msgstr "일어나라, 나의 노예들아! 라바날 군주를 위해 군단을 만들 것이다."
 
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/01_Invasion.cfg:398
 msgid ""
 "He is raising our dead to fight against us! Even though they were your own "
 "citizens, Krellis, show no mercy. Destroy them if you can."
-msgstr "놈이 백성들의 시체를 일으켜 우리에게 보내고 있어요! 크렐리스(Krellis), 저들이 우리의 시민들이었다고 해서 자비를 보이진 마세요. 할 수 있다면 저들을 파괴해야해요."
+msgstr "놈이 백성들의 시체를 일으켜 우리에게 보내고 있어요! 크렐리스(Krellis), 저들이 우리의 시민들이었다고 해서 자비를 보이진 마세요. 할 수 있다면 저들을 파괴해야 해요."
 
 #. [message]: id=Mal-Kevek
 #: data/campaigns/Dead_Water/scenarios/01_Invasion.cfg:419
@@ -461,7 +461,7 @@ msgid ""
 "an island to the north. She and her priestesses are powerful. With their "
 "help we could probably defeat these enemies. Our task is to convince her to "
 "leave her enclave."
-msgstr "아무래도 불가능할 것 같군요. 도움이 필요합니다. 저의 옛 은사이신 티에게아님께서 북쪽의 섬에서 교육을 맡고 계세요. 그녀와 휘하 여신관들은 강력하죠. 그들의 도움이 있으면 이 적들을 몰아낼 수 있을겁니다. 우리가 할 일은 그녀를 설득해서 거주지 밖으로 데리고 나오는 거에요."
+msgstr "아무래도 불가능할 것 같군요. 도움이 필요합니다. 저의 옛 은사이신 티에게아님께서 북쪽의 섬에서 교육을 맡고 계세요. 그녀와 휘하 여신관들은 강력하죠. 그들의 도움이 있으면 이 적들을 몰아낼 수 있을 겁니다. 우리가 할 일은 그녀를 설득해서 거주지 밖으로 데리고 나오는 거에요."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:310
@@ -540,14 +540,14 @@ msgstr "하지만 모두들이 이런 위험한 여정에 나를 따라오려 �
 msgid ""
 "They will follow. You proved your courage in our last battle. Your father, "
 "the Kai-that-was, would have been proud."
-msgstr "저들은 따라올겁니다. 당신은 지난 전투에서 용맹함을 증명했으니까요. 선대 카이께서도 자랑스러워 하실겁니다."
+msgstr "저들은 따라올 겁니다. 당신은 지난 전투에서 용맹함을 증명했으니까요. 선대 카이께서도 자랑스러워 하실 겁니다."
 
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:394
 msgid ""
 "You have proven your courage in battle, as tradition required of a kai; they "
 "will follow you now."
-msgstr "당신은 전투에서 전통적으로 카이에게 필요한 용맹함이 있음을 증명했습니다. 이들은 이제 당신을 따를겁니다."
+msgstr "당신은 전투에서 전통적으로 카이에게 필요한 용맹함이 있음을 증명했습니다. 이들은 이제 당신을 따를 겁니다."
 
 #. [message]: speaker=Mal-Kevek
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:416
@@ -644,7 +644,7 @@ msgstr "이거 봐! 박쥐가 구석에 웅크리고 있어."
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:606
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:640
 msgid "Aren’t you going to kill it? We need to keep moving."
-msgstr "안 죽여요? 어서 가야해요."
+msgstr "안 죽여요? 어서 가야 해요."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:610
@@ -850,7 +850,7 @@ msgstr "말을 하든 말든 상관없잖아. 물고기는 물고기잖아 .늑�
 msgid ""
 "They look mighty good to me. Might even have a taste later, myself. Let’s "
 "get ’em, boys!"
-msgstr "저 녀석 진짜로 맛있을 것 같다. 나중에 나도 맛좀 볼거야. 자, 놈들을 사냥하자, 얘들아!"
+msgstr "저 녀석 진짜로 맛있을 것 같다. 나중에 나도 맛좀 볼 거야. 자, 놈들을 사냥하자, 얘들아!"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:225
@@ -1070,7 +1070,7 @@ msgstr "진정한 카이이자 선왕의 아들이라 하기에 충분한 말씀
 msgid ""
 "I believe that would work, but many of them will be killed if you do it now. "
 "It might be better to wait."
-msgstr "그게 통하긴 하겠지만, 지금 그랬다간 많은 이들이 죽을겁니다. 좀 더 기다리는 편이 좋겠어요."
+msgstr "그게 통하긴 하겠지만, 지금 그랬다간 많은 이들이 죽을 겁니다. 좀 더 기다리는 편이 좋겠어요."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:434
@@ -1245,7 +1245,7 @@ msgstr "그럼 반갑소, 친구여. 나는 조타 사람들의 지도자인 카
 msgid ""
 "Kai Krellis, you have freed us, and we are forever in your debt. How can we "
 "repay you?"
-msgstr "카이 크렐리스(Kai Krellis), 구해주신 은혜는 영원히 갚지 못할겁니다. 어떻게 하면 보답할 수 있을까요?"
+msgstr "카이 크렐리스(Kai Krellis), 구해주신 은혜는 영원히 갚지 못할 겁니다. 어떻게 하면 보답할 수 있을까요?"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/04_Slavers.cfg:755
@@ -1459,7 +1459,7 @@ msgid ""
 "found some islands in their path. The infirm and young among the refugees "
 "needed a break from travel; Cylanna only vaguely remembered them, but "
 "thought they might be safe."
-msgstr "이제 인어들은 얕은 물보다 더 많은 위험이 도사리는 외해로 나가는 수밖에 없었다. 며칠 뒤, 그들은 자신들이 가는 길 앞에 있는 몇개의 섬을 발견했다. 피난민 중 노쇠한 이와 어린 이들에게는 여행에서 벗어난 잠시의 휴식이 필요했다. 실라나(Cylanna)만이 겨우 그들을 기억해 냈지만, 그들이 안전할 것이라고만 생각했다."
+msgstr "이제 인어들은 얕은 물보다 더 많은 위험이 도사리는 외해로 나가는 수밖에 없었다. 며칠 뒤, 그들은 자신들이 가는 길 앞에 있는 몇 개의 섬을 발견했다. 피난민 중 노쇠한 이와 어린 이들에게는 여행에서 벗어난 잠시의 휴식이 필요했다. 실라나(Cylanna)만이 겨우 그들을 기억해 냈지만, 그들이 안전할 것이라고만 생각했다."
 
 #. [side]: id=Growloff, type=Ranger
 #: data/campaigns/Dead_Water/scenarios/06_Uncharted_Islands.cfg:53
@@ -1557,7 +1557,7 @@ msgstr "난 저런 위험한 야수는 필요없어!"
 msgid ""
 "But he’s tame! Really! He understands dozens of commands. He’ll do what you "
 "tell him. He’s a really nice fish."
-msgstr "녀석은 길들었어! 진짜야! 이녀석은 열두가지 명령을 알아들어. 네가 말하면 그대로 할거야. 얘는 정말 좋은 물고기라구."
+msgstr "녀석은 길들었어! 진짜야! 이녀석은 열두가지 명령을 알아들어. 네가 말하면 그대로 할 거야. 얘는 정말 좋은 물고기라구."
 
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/06_Uncharted_Islands.cfg:250
@@ -2079,13 +2079,13 @@ msgstr "당신같이 아름다운 인어와 그 친구들을 안내하게 되어
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:1105
 #: data/campaigns/Dead_Water/utils/dw-utils.cfg:135
 msgid "Cylanna! I need you!"
-msgstr "실라나(Cylanna)! 당신은 죽으면 안되오!"
+msgstr "실라나(Cylanna)! 당신은 죽으면 안 되오!"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/09_The_Mage.cfg:490
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:1109
 msgid "Tyegëa will never forgive me. We are lost."
-msgstr "티에게아는 나를 용서하지 않을거야. 우린 졌어."
+msgstr "티에게아는 나를 용서하지 않을 거야. 우린 졌어."
 
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/09_The_Mage.cfg:504
@@ -2739,7 +2739,7 @@ msgstr "이 앙크 목걸이는 <i>신령</i> 공격에 70% 저항력을 부여�
 #. [option]
 #: data/campaigns/Dead_Water/scenarios/12_Revenge.cfg:916
 msgid "It doesn’t seem to have helped its previous owner. I don’t want it."
-msgstr "이건 전 소유주에게는 별로 도움이 안되었던 모양이군. 필요없어."
+msgstr "이건 전 소유주에게는 별로 도움이 안 되었던 모양이군. 필요없어."
 
 #. [option]
 #: data/campaigns/Dead_Water/scenarios/12_Revenge.cfg:952
@@ -2997,7 +2997,7 @@ msgstr "힘의 반지는 소유자의 모든 공격력을 1 늘려주며, 추가
 #. [option]
 #: data/campaigns/Dead_Water/utils/items.cfg:207
 msgid "We will let the bat have the ring. It will make him more helpful."
-msgstr "박쥐에게 반지를 주자. 좀 더 도움이 될거야."
+msgstr "박쥐에게 반지를 주자. 좀 더 도움이 될 거야."
 
 #. [option]
 #: data/campaigns/Dead_Water/utils/items.cfg:216

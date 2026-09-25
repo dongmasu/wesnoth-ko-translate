@@ -14,6 +14,7 @@ from tools.audit_po_structure import (
     parse_messages,
 )
 from tools.audit_po_completion import audit_directory
+from tools.audit_locale_comparison import active_entries
 from tools.project_config import DEFAULT_VERSION, PO_ROOT, VERSION, WORK_ROOT, WORK_KO
 
 
@@ -65,6 +66,15 @@ def po_keys(path):
 
 
 class TranslationLayoutTests(unittest.TestCase):
+    def test_locale_comparison_uses_matching_active_keys(self):
+        work = active_entries(WORK_KO)
+        english = active_entries(PO_ROOT / "en_GB")
+        japanese = active_entries(PO_ROOT / "ja")
+        chinese = active_entries(PO_ROOT / "zh_CN")
+        self.assertEqual(set(work), set(english))
+        self.assertEqual(set(work), set(japanese))
+        self.assertEqual(set(work), set(chinese))
+
     def test_documented_rules_cover_structural_exceptions(self):
         project_rules = (ROOT / "PROJECT-AI.md").read_text(encoding="utf-8")
         work_rules = (ROOT / "work" / "README.md").read_text(encoding="utf-8")

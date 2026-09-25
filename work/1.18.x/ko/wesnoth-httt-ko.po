@@ -516,7 +516,7 @@ msgstr "안돼! 놈들이 우리 집을 부수고 있어요!"
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:567
 msgid "There can be no looking back. We must go quickly!"
-msgstr "되돌아볼 시간이 없네. 서둘러 가야해!"
+msgstr "되돌아볼 시간이 없네. 서둘러 가야 해!"
 
 #. [scenario]: id=02_Blackwater_Port
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:4
@@ -627,7 +627,7 @@ msgid ""
 "here long, for your survival is even more important to our cause than the "
 "strength of the port. A ship is due here in two days, surely it will be able "
 "to take you to safety."
-msgstr "그대의 도움이 있으면 놈들을 막아낼 희망을 기대할 수 있지. 하지만 항구의 영향력보다는 그대의 생존이 우리의 뜻을 위해 더욱 중요한 것이니, 여기 오래 머물러서는 안되오. 이틀 안에 배가 도착해서 그대를 안전하게 데려갈 것이오."
+msgstr "그대의 도움이 있으면 놈들을 막아낼 희망을 기대할 수 있지. 하지만 항구의 영향력보다는 그대의 생존이 우리의 뜻을 위해 더욱 중요한 것이니, 여기 오래 머물러서는 안 되오. 이틀 안에 배가 도착해서 그대를 안전하게 데려갈 것이오."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:185
@@ -826,7 +826,7 @@ msgstr "엘렌세파르(Elensefar)에는 숙련된 병력이 필요할 거야."
 #. [side]: type=Orcish Warrior, id=Usadar Q'kai
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_The_Isle_of_Alduin.cfg:72
 msgid "Usadar Q’kai"
-msgstr "Usadar Q’kai"
+msgstr "우사다르 쿠카이(Usadar Q’kai)"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_The_Isle_of_Alduin.cfg:107
@@ -1020,7 +1020,7 @@ msgstr "드와바-쿠카이(Dwaba-Kukai)"
 #. [side]: type=Orcish Warrior, id=Managa'Gwin
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:80
 msgid "Managa’Gwin"
-msgstr "Managa’Gwin"
+msgstr "마나가 그윈(Managa’Gwin)"
 
 #. [unit]: type=Orcish Archer, id=Bugg
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:136
@@ -1304,7 +1304,7 @@ msgid ""
 "I am afraid not, Konrad. I have come across some important documents, and "
 "must make haste with them to the Elven Council. It seems that the time to "
 "stop Asheviere is shorter than I had thought."
-msgstr "안타깝지만 그럴 순 없네, 콘라드(Konrad). 몇가지 중요한 문서가 손에 들어와서, 그걸 엘프의 평의회에 서둘러 전해야해. 아쉐비에레를 저지할 시간이 내 생각보다 더 빨리 온 것 같아."
+msgstr "안타깝지만 그럴 순 없네, 콘라드(Konrad). 몇가지 중요한 문서가 손에 들어와서, 그걸 엘프의 평의회에 서둘러 전해야 해. 아쉐비에레를 저지할 시간이 내 생각보다 더 빨리 온 것 같아."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:709
@@ -1321,7 +1321,7 @@ msgstr "혼자라구요? 주군! 우리들, 당신의 충성스런 병사들이 
 msgid ""
 "You will prevail. I have faith in you. Head north. Elensefar is but three "
 "days’ travel if you make haste."
-msgstr "자네는 승리할거야. 나는 믿네. 북쪽으로 가게. 서두른다면 사흘 만에 엘렌세파르(Elensefar)에 도착할 수 있을거야."
+msgstr "자네는 승리할 거야. 나는 믿네. 북쪽으로 가게. 서두른다면 사흘 만에 엘렌세파르(Elensefar)에 도착할 수 있을 거야."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:725
@@ -2196,7 +2196,7 @@ msgstr "모코 키메르(Mokho Kimer)"
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Crossroads.cfg:229
 msgid "Here we come to the great cross-roads. We should go northeast."
-msgstr "이제 대 갈림길에 들어섰네. 우리는 북동쪽으로 가야해."
+msgstr "이제 대 갈림길에 들어섰네. 우리는 북동쪽으로 가야 해."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Crossroads.cfg:233
@@ -2681,7 +2681,7 @@ msgstr "여기가 그 유명한 그리폰(Gryphon) 산맥이라네."
 msgid ""
 "Gryphon Mountain! Maybe we could steal some eggs from the gryphons and train "
 "the young to be flying mounts. Would that work, Delfador?"
-msgstr "그리폰(Gryphon) 산맥! 어쩌면 여기서 알을 몇개 훔쳐다가 새끼들을 키워서 사람을 태울 수 있을지도 모르겠네요. 그게 될까요, 델파도르(Delfador)?"
+msgstr "그리폰(Gryphon) 산맥! 어쩌면 여기서 알을 몇 개 훔쳐다가 새끼들을 키워서 사람을 태울 수 있을지도 모르겠네요. 그게 될까요, 델파도르(Delfador)?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Gryphon_Mountain.cfg:152
@@ -7991,7 +7991,7 @@ msgstr "그것을 처음 사용할 곳은 우리가 이 구멍에서 빠져나�
 msgid ""
 "The Sceptre makes its wielder powerful, but hardly immortal, child. Use it "
 "prudently. Now come, I believe there is an exit to the north!"
-msgstr "그 홀은 소유자에게 힘을 주지만, 죽지 않게 해 주는 것은 아니다, 꼬마야. 사용할 땐 신중해야 할 거다. 이제 가지, 북쪽에 빠져나갈 길이 있을거야!"
+msgstr "그 홀은 소유자에게 힘을 주지만, 죽지 않게 해 주는 것은 아니다, 꼬마야. 사용할 땐 신중해야 할 거다. 이제 가지, 북쪽에 빠져나갈 길이 있을 거야!"
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/utils/httt_utils.cfg:436

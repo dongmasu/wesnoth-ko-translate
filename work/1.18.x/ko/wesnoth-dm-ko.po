@@ -497,7 +497,7 @@ msgstr "잘했네, 델파도르(Delfador)! 내가 자네에게 베푼 교육이 
 msgid ""
 "I will grieve for master Methor... I must take his advice and seek out "
 "Leollyn."
-msgstr "메토르(Methor) 스승님을 생각하니 정말로 슬프구나... 그의 조언을 따라 레올린(Leollyn)을 찾으러 가야해."
+msgstr "메토르(Methor) 스승님을 생각하니 정말로 슬프구나... 그의 조언을 따라 레올린(Leollyn)을 찾으러 가야 해."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:165
@@ -864,7 +864,7 @@ msgid ""
 "The elves will not fight; they hate the orcs, but spoke darkly of human "
 "greed and foolishness. I have never seen them so unfriendly. There is "
 "something they know of and fear, but they would not tell me what it is."
-msgstr "엘프들은 싸우지 않을겁니다. 그들은 오크를 싫어하지만, 인간의 탐욕과 어리석음에 대해서도 험악한 어조로 언급했습니다. 그들이 그렇게 비우호적인 경우는 처음 봤습니다. 저들이 뭔가 알고서 두려워하고 있다는 느낌을 받았지만, 그들은 그게 뭔지 말해주지 않았습니다."
+msgstr "엘프들은 싸우지 않을 겁니다. 그들은 오크를 싫어하지만, 인간의 탐욕과 어리석음에 대해서도 험악한 어조로 언급했습니다. 그들이 그렇게 비우호적인 경우는 처음 봤습니다. 저들이 뭔가 알고서 두려워하고 있다는 느낌을 받았지만, 그들은 그게 뭔지 말해주지 않았습니다."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_Council_in_Weldyn.cfg:101
@@ -1002,7 +1002,7 @@ msgstr "아니오, 웨스노스(Wesnoth) 사람들이지... 하지만 여기 사
 msgid ""
 "Greetings, strangers! This swamp is dangerous... You wanna cross it, you’ll "
 "need protection — cost you only $fee gold!"
-msgstr "안녕하시오, 이방인들이여! 이 늪지대는 위험하다오... 건널 생각이라면 보호가 필요하지 — 고작 $fee 원밖에 안된다오!"
+msgstr "안녕하시오, 이방인들이여! 이 늪지대는 위험하다오... 건널 생각이라면 보호가 필요하지 — 고작 $fee 원밖에 안 된다오!"
 
 #. [option]
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:144
@@ -1193,7 +1193,7 @@ msgstr "후회하게 될거다!"
 #. [message]: speaker=Harold
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:477
 msgid "They certainly will! Haw haw haw!"
-msgstr "분명히 그럴거야! 하 하 하!"
+msgstr "분명히 그럴 거야! 하 하 하!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:501
@@ -1539,7 +1539,7 @@ msgid ""
 "Wesnoth and ruled it for ages. But what he chose, thinking it rare sport to "
 "abuse one of the hated human mages, was to strike Delfador with his "
 "gauntleted fist."
-msgstr "이 때가 세계의 운명을 바꾼 몇 안되는 순간들 중 하나다. 그 오크 전사는 그 손에 수많은 가능성을 안고 있었다. 그는 그냥 델파도르(Delfador)의 목을 딸 수도 있었다. 만약 그렇게 했다면, 오크들은 웨스노스(Wesnoth) 전역을 점령하고 오랜 세월 그곳을 지배했을 것이다. 하지만 그가 선택한 것은 짜증나는 인간 마법사를 가지고 노는 드문 놀이라는 생각으로 장갑 낀 주먹으로 델파도르(Delfador)를 때린 것이었다."
+msgstr "이 때가 세계의 운명을 바꾼 몇 안 되는 순간들 중 하나다. 그 오크 전사는 그 손에 수많은 가능성을 안고 있었다. 그는 그냥 델파도르(Delfador)의 목을 딸 수도 있었다. 만약 그렇게 했다면, 오크들은 웨스노스(Wesnoth) 전역을 점령하고 오랜 세월 그곳을 지배했을 것이다. 하지만 그가 선택한 것은 짜증나는 인간 마법사를 가지고 노는 드문 놀이라는 생각으로 장갑 낀 주먹으로 델파도르(Delfador)를 때린 것이었다."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:84
@@ -1705,7 +1705,7 @@ msgstr "멜리나(Melinna)"
 msgid ""
 "Iliah-Malal says that he can open a portal to the world of the living. Those "
 "who follow him will walk the earth as they did in life."
-msgstr "일리아흐-말랄은 자기가 산자의 세계로 통하는 문을 열 수 있다고 했네. 그를 따르는 자들은 살았을 때 그랬던 것처럼 대지 위에서 걷게 될거야."
+msgstr "일리아흐-말랄은 자기가 산자의 세계로 통하는 문을 열 수 있다고 했네. 그를 따르는 자들은 살았을 때 그랬던 것처럼 대지 위에서 걷게 될 거야."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:326
@@ -1799,7 +1799,7 @@ msgstr "아니, 그렇지 않소."
 #. [message]: speaker=Rattles
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:441
 msgid "Then you will die forever!"
-msgstr "그럼 영원히 죽게 될거야!"
+msgstr "그럼 영원히 죽게 될 거야!"
 
 #. [message]: speaker=Rattles
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:450
@@ -1817,7 +1817,7 @@ msgstr "그럼 우리가 널 죽여도 신경쓰지 않겠구나! 하 하 하 �
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:465
 #| msgid "Then you will die forever!"
 msgid "Then you will perish forever!"
-msgstr "그럼 영원히 죽게 될거야!"
+msgstr "그럼 영원히 죽게 될 거야!"
 
 #. [event]
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:480
@@ -2090,7 +2090,7 @@ msgstr "델파도르(Delfador)가 일리아흐-말랄을 따라 문으로 나오
 msgid ""
 "It’s hopeless, I’ve lost all track of Iliah-Malal... and I shall freeze "
 "unless I find shelter soon. Perhaps in that forest to the north..."
-msgstr "가망이 없어. 일리아흐-말랄의 모든 흔적을 놓쳐버렸다... 그리고 안가를 찾지 못하면 난 얼어죽고 말거야. 혹시 저 북쪽의 숲이라면..."
+msgstr "가망이 없어. 일리아흐-말랄의 모든 흔적을 놓쳐버렸다... 그리고 안가를 찾지 못하면 난 얼어죽고 말 거야. 혹시 저 북쪽의 숲이라면..."
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:113
@@ -2460,7 +2460,7 @@ msgstr "혹시 생존자들이 있나요? 확인해보죠."
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:592
 msgid "Another village burned. Nobody to be seen!"
-msgstr "다른 마을도 불타 없어졌어요. 아무도 안보이네요!"
+msgstr "다른 마을도 불타 없어졌어요. 아무도 안 보이네요!"
 
 #. [unit]: type=Spearman, id=Theorin
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:612
@@ -2697,7 +2697,7 @@ msgstr "아브민(Abmin)"
 msgid ""
 "This unnatural night will surely bring another wave of the undead. Soldiers, "
 "stand firm and send these abominations back to the darkness!"
-msgstr "이 부자연스러운 밤은 반드시 또 다른 언데드 무리가 몰려올것이다. 병사들이여, 굳게 버텨서 이 괴물들을 어둠으로 돌려보내자!"
+msgstr "이 부자연스러운 밤은 반드시 또 다른 언데드 무리가 몰려올 것이다. 병사들이여, 굳게 버텨서 이 괴물들을 어둠으로 돌려보내자!"
 
 #. [message]: speaker=Upgar
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:1039
@@ -2762,7 +2762,7 @@ msgid ""
 "It is not to be, Delfador. I must return to Lintanir as swiftly as I may; "
 "the Northern Elves must be informed immediately — and mayhap I can find High "
 "Lord Kalenz or get a message to him."
-msgstr "그럴순 없군요, 델파도르(Delfador). 저는 서둘러 린타니르로 돌아가야해요. 북부의 요정들에게도 이 일을 알려야 하고 대군주 칼렌츠(Kalenz)님을 찾거나 그분께 전갈을 보낼 수도 있을 테니까요."
+msgstr "그럴순 없군요, 델파도르(Delfador). 저는 서둘러 린타니르로 돌아가야 해요. 북부의 요정들에게도 이 일을 알려야 하고 대군주 칼렌츠(Kalenz)님을 찾거나 그분께 전갈을 보낼 수도 있을 테니까요."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:1109
@@ -2963,14 +2963,14 @@ msgstr "아주 심각한 문제구나. 요정의 정착지들에는 알렸느냐
 msgid ""
 "Yes. And I have prepared holy water for our warriors. They should be able to "
 "hold against the undead in our forests, at least for now."
-msgstr "네. 전사들에게 성수를 준비하라고 일러두었습니다. 최소한 지금 당장은 숲에서 언데드들을 막아낼 수 있을겁니다."
+msgstr "네. 전사들에게 성수를 준비하라고 일러두었습니다. 최소한 지금 당장은 숲에서 언데드들을 막아낼 수 있을 겁니다."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:279
 msgid ""
 "Holy water? What is this? Have you been dabbling where you should not, in "
 "the Book of Crelanu?"
-msgstr "성수라고? 그건 뭔가? 설마 손대서는 안되는 크렐라누(Crelanu)의 책을 건드린거냐?"
+msgstr "성수라고? 그건 뭔가? 설마 손대서는 안 되는 크렐라누(Crelanu)의 책을 건드린거냐?"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:283
@@ -3598,7 +3598,7 @@ msgid ""
 "primarily to fight raiding orcs, is not well suited to fight even the forces "
 "he fields now. Mages, in combination with heavy infantry, are most effective "
 "against them."
-msgstr "전하, 이들은 길잃은 언데드들이 아닙니다. 저 미친 일리아흐-말랄이 죽은 자의 땅으로 통하는 차원문을 열었습니다. 우리가 이 문을 어서 닫지 않는다면, 그가 통제하는 그나마 적은 수의 적 부대는 끝없는 언데드의 물결로 불어나게 될겁니다. 그리고 장비와 훈련을 주로 습격해오는 오크들에 맞춘 우리 군대는 그가 지금 지휘하는 병력조차도 상대하기 쉽지 않습니다. 중보병과 합세한 마법사들이 놈들을 상대하는데 가장 적합합니다."
+msgstr "전하, 이들은 길잃은 언데드들이 아닙니다. 저 미친 일리아흐-말랄이 죽은 자의 땅으로 통하는 차원문을 열었습니다. 우리가 이 문을 어서 닫지 않는다면, 그가 통제하는 그나마 적은 수의 적 부대는 끝없는 언데드의 물결로 불어나게 될 겁니다. 그리고 장비와 훈련을 주로 습격해오는 오크들에 맞춘 우리 군대는 그가 지금 지휘하는 병력조차도 상대하기 쉽지 않습니다. 중보병과 합세한 마법사들이 놈들을 상대하는데 가장 적합합니다."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:46
@@ -4236,7 +4236,7 @@ msgstr "대마법사 델파도르(Delfador) 말인가, 응? 결국 네 명의 �
 msgid ""
 "Oracles? What nonsense you babble... After you die, I will raise your corpse "
 "and compel you to tell me how to reopen my portal!"
-msgstr "예언자라고? 무슨 헛소리냐... 네놈이 죽고나면 네놈의 시체를 일으켜서 내 차원문을 어떻게 다시 열지를 말하게 만들것이다!"
+msgstr "예언자라고? 무슨 헛소리냐... 네놈이 죽고나면 네놈의 시체를 일으켜서 내 차원문을 어떻게 다시 열지를 말하게 만들 것이다!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:252
@@ -4711,7 +4711,7 @@ msgstr "책의 저주가 벌써 당신에게 무겁게 내려앉아 있구나, �
 #. [message]: speaker=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:172
 msgid "Make sure everybody hears the orders. Nobody must escape."
-msgstr "모두 명심하라. 누구도 달아나게 해선 안된다."
+msgstr "모두 명심하라. 누구도 달아나게 해선 안 된다."
 
 #. [message]: speaker=Rhuwin
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:176

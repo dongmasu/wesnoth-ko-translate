@@ -3093,7 +3093,7 @@ msgid ""
 "As he enters the tunnel underneath Lady Karae’s manor, Darken Volk gestures, "
 "causing the entrance to collapse. The two necromancers turn and begin "
 "walking down the pitch-black tunnel, temporarily safe from pursuit."
-msgstr "카라에(Karae) 여사의 저택 아래 터널로 들어가면서 다켄 볼크(Darken Volk)는 몸짓을 하여 입구를 무너뜨린다. 두 강령술사는 돌아서서 추격으로부터 잠시 안전하게 칠흑같이 어두운 터널을 걷기 시작한다."
+msgstr "카라에(Karae) 여사의 저택 아래 터널로 들어가면서 다켄 볼크(Darken Volk)는 몸짓을 하여 입구를 무너뜨린다. 두 강령술사는 돌아서 추격으로부터 잠시 안전하게 칠흑같이 어두운 터널을 걷기 시작한다."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/08_Alone_at_Last.cfg:23

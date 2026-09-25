@@ -803,7 +803,7 @@ msgstr "난 그런 종자들에게 큰 혐오감을 가지고 있다오. 당신�
 #. [message]: role=Mercenary
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:646
 msgid "He would only slow us down!"
-msgstr "그는 우리 속도만 늦출겁니다!"
+msgstr "그는 우리 속도만 늦출 겁니다!"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:651
@@ -1438,7 +1438,7 @@ msgstr "저기다. 저 언덕 너머에 마을이 보인다. 벌써 우릴 환�
 msgid ""
 "No, they are fleeing from something. We must find out what is happening over "
 "there!"
-msgstr "아니오, 저들은 뭔가로부터 도망나오고 있는겁니다. 저쪽에 대체 무슨 일이 생긴건지 알아야겠소!"
+msgstr "아니오, 저들은 뭔가로부터 도망나오고 있는 겁니다. 저쪽에 대체 무슨 일이 생긴건지 알아야겠소!"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:181

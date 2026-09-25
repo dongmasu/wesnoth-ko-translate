@@ -1067,7 +1067,7 @@ msgid ""
 "symbol of their preferred diet. These creatures are fast and can drain the "
 "blood of those they attack, thereby gaining some of the health lost by their "
 "victims."
-msgstr "피의 박쥐라는 이름은 그들이 선호하는 식단의 상징과도 같은 붉은 빛깔때문에 붙여진 것이다. 이 생명체들은 재빠르며, 또한 그들이 공격한 대상의 피를 빨아들여 그 희생자들이 잃은 체력의 일부를 취할 수 있다."
+msgstr "피의 박쥐라는 이름은 그들이 선호하는 식단의 상징과도 같은 붉은 빛깔 때문에 붙여진 것이다. 이 생명체들은 재빠르며, 또한 그들이 공격한 대상의 피를 빨아들여 그 희생자들이 잃은 체력의 일부를 취할 수 있다."
 
 #. [unit_type]: id=Dread Bat, race=bats
 #: data/core/units/bats/Bat_Dread.cfg:4
@@ -3284,7 +3284,7 @@ msgid ""
 "Nonetheless, a rouser’s frenzied goading effectively steels the less veteran "
 "fighters to strive harder and longer before they die."
 msgstr ""
-"고블린 중에서 기수란 희귀한 존재다. 몇번의 전투에서 살아남은 고블린은 보기드"
+"고블린 중에서 기수란 희귀한 존재다. 몇 번의 전투에서 살아남은 고블린은 보기드"
 "문 역전의 용사로 대접받지만, 이중에서도 다른 고블린에게 그 경력을 알리고 존경"
 "받는 이들은 한층 드물다. 미친듯이 아군들을 몰아붙이는 깃발병들의 기세는 경험"
 "없는 병사들의 마음을 다잡아서 그들의 분투를 이끌어내어, 짧은 수명이나마 늘려"
@@ -3894,7 +3894,7 @@ msgid ""
 msgstr ""
 "검은 여러모로 비싼 사치품이며, 농부들이 가질만한 것은아니다. 창은 훨씬 만들"
 "기 쉬우며 창두가 없어졌을 때라도 어느 정도 제 역할을 할 수 있음에도 대부분의 "
-"사람들이 하나씩은 가질 수 있다. 가죽 갑옷을 입고, 종종 방패와 투창 몇개로 무"
+"사람들이 하나씩은 가질 수 있다. 가죽 갑옷을 입고, 종종 방패와 투창 몇 개로 무"
 "장한 창병들은 대다수 군단의 주력이기에, 제일 기초적인 훈련만을 마친 채 전방으"
 "로 보내지곤 한다."
 
@@ -6109,7 +6109,7 @@ msgid ""
 "and their inability to breathe water leaves them in trepidation of the "
 "abyss. They are small, and somewhat frail in form, but often much more "
 "nimble than their opponents."
-msgstr "뱀 형태의 나가들은 물에서 유효한 기동력을 가진 몇 안되는 종족 중의 하나로, 이 능력으로 이들은 지상에 사는 이들은 닿을 수 없는 효과적으로 지배할 수 있다. 하지만 이들은 완전한 해양생물이 아니며, 물 속에서는 숨을 쉴 수 없기 때문에 심연을 두려워한다. 이들은 작고 연약한 형태를 가졌지만 대체로 다른 상대들보다 훨씬 민첩하다."
+msgstr "뱀 형태의 나가들은 물에서 유효한 기동력을 가진 몇 안 되는 종족 중의 하나로, 이 능력으로 이들은 지상에 사는 이들은 닿을 수 없는 효과적으로 지배할 수 있다. 하지만 이들은 완전한 해양생물이 아니며, 물 속에서는 숨을 쉴 수 없기 때문에 심연을 두려워한다. 이들은 작고 연약한 형태를 가졌지만 대체로 다른 상대들보다 훨씬 민첩하다."
 
 #. [female]: gender=female
 #: data/core/units/nagas/Fighter.cfg:49

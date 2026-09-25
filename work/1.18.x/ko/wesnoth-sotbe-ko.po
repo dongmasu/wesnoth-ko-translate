@@ -327,7 +327,7 @@ msgstr "말해라, 기병."
 msgid ""
 "There is a huge human army marching on us! They can’t be more than one or "
 "two days march from here."
-msgstr "엄청난 인간 군단이 이쪽으로 진군해 오고 있어요! 여기서 하루 이틀 거리면 도착할겁니다."
+msgstr "엄청난 인간 군단이 이쪽으로 진군해 오고 있어요! 여기서 하루 이틀 거리면 도착할 겁니다."
 
 #. [message]: role=second
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:213
@@ -668,7 +668,7 @@ msgid ""
 "Look, you pint-sized idiot, we aren’t out to kill you so why don’t you just "
 "scamper away and hide in a cave or something. We’ll be through here in a few "
 "hours."
-msgstr "이것봐, 이 쪼그만 얼간이 녀석아, 우린 너흴 죽이러 온 것도 아닌데 어째서 날쌔게 달아나든가 동굴이든 어디든 숨지 않는거냐. 우린 몇 시간 안에 여길 지나갈것이다."
+msgstr "이것봐, 이 쪼그만 얼간이 녀석아, 우린 너흴 죽이러 온 것도 아닌데 어째서 날쌔게 달아나든가 동굴이든 어디든 숨지 않는거냐. 우린 몇 시간 안에 여길 지나갈 것이다."
 
 #. [message]: role=Helper
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:174
@@ -723,7 +723,7 @@ msgstr "무슨 일이 있어도 이 산맥을을 지나가야하고 나는 내�
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:220
 msgid ""
 "I’ve never pushed so far. We are crossing the border of the Black-Eye lands."
-msgstr "여기까진 한번도 와 본적이 없네. 우린 지금 검은눈 땅의 경계를 지나고 있는거야."
+msgstr "여기까진 한번도 와 본적이 없네. 우린 지금 검은눈 땅의 경계를 지나고 있는 거야."
 
 #. [unit]: id=Blemaker, type=Troll Warrior
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:239
@@ -824,7 +824,7 @@ msgid ""
 "you can from each of these houses. If anyone refuses to pay, tie them up and "
 "take what they have anyway. Let them know that they live only on my good "
 "graces. I’ll take the army to Barag Gór. Catch up when you’re done."
-msgstr "우린 경고했다, 난쟁이야. 기병들, 흩어져서 집이라는 집에서 눈에 띄는 것을 모두 긁어와라. 따르지 않는 놈이 있다면, 꽁꽁 묶어놓고 무조건 뺏어와라. 놈들이 살아있는건 내 자비 덕분이라는 걸 알게 해줘라. 나는 이대로 바락 고르로 갈것이다. 너희도 끝나는데로 따라오도록 하라."
+msgstr "우린 경고했다, 난쟁이야. 기병들, 흩어져서 집이라는 집에서 눈에 띄는 것을 모두 긁어와라. 따르지 않는 놈이 있다면, 꽁꽁 묶어놓고 무조건 뺏어와라. 놈들이 살아있는건 내 자비 덕분이라는 걸 알게 해줘라. 나는 이대로 바락 고르로 갈 것이다. 너희도 끝나는데로 따라오도록 하라."
 
 #. [message]: role=doggie
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:381
@@ -854,7 +854,7 @@ msgstr "블레마케르, 이번 싸움에 그대의 공이 컸소. 당신과 당
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:431
 msgid "Father, I’d like to join them. Would you mind it?"
-msgstr "아버지, 전 가고 싶어요. 안되나요?"
+msgstr "아버지, 전 가고 싶어요. 안 되나요?"
 
 #. [message]: speaker=Blemaker
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:435
@@ -1364,7 +1364,7 @@ msgid ""
 "Grüü is right. It is not wise to let these undead remain here, cutting off "
 "our supply lines and path of retreat. In these days of turmoil, we don’t "
 "know what lies ahead, so it is best not to leave any threats to our rear."
-msgstr "그뤼의 말이 맞소. 이 언데드들을 남겨서 우리 보급선과 퇴각로를 끊게 만드는건 바람직한 선택이 아니오. 이런 소란스런 시기에는 이 앞에 무슨 일이 있을 지 모르니, 우리 뒤에 그 어떤 위협도 남겨둬선 안되오."
+msgstr "그뤼의 말이 맞소. 이 언데드들을 남겨서 우리 보급선과 퇴각로를 끊게 만드는건 바람직한 선택이 아니오. 이런 소란스런 시기에는 이 앞에 무슨 일이 있을 지 모르니, 우리 뒤에 그 어떤 위협도 남겨둬선 안 되오."
 
 #. [message]: speaker=Vraurk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:245
@@ -1692,7 +1692,7 @@ msgstr "윽! 이 빌어먹을 모래!"
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:166
 msgid ""
 "I’m hungry and we found no giant scorpion yet. I’m sure it would be tasty."
-msgstr "배고파 죽겠는데 거대 전갈이 안보여. 그건 분명히 맛있을거야."
+msgstr "배고파 죽겠는데 거대 전갈이 안 보여. 그건 분명히 맛있을 거야."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:170
@@ -2203,7 +2203,7 @@ msgstr "푸하하하! 너 따위는 아무것도 아니다! 네 땅은 어디 �
 msgid ""
 "How can you talk that way about my father, you miserable coward?! I’ll make "
 "a mug from your skull!"
-msgstr "감히 어떻게 아버지를 그런식으로 말하느냐, 이 비열한 겁쟁이 놈아?! 네놈의 해골로 맥주잔을 만들어버릴것이다!"
+msgstr "감히 어떻게 아버지를 그런식으로 말하느냐, 이 비열한 겁쟁이 놈아?! 네놈의 해골로 맥주잔을 만들어버릴 것이다!"
 
 #. [message]: speaker=Shan Taum
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:145
@@ -2663,7 +2663,7 @@ msgid ""
 "once. This Earl Lanbec’h must know they can’t break through by only fording "
 "the river where the bridge previously stood, so he must have a better plan "
 "than that."
-msgstr "그건 확신할 수 없다. 모든 요새에는 약점이 있어. 프레스팀(Prestim)의 벽은 강하지만 길어서, 방어하려면 한번에 여러 지점에 서야 한다. 이 란벡흐 백작도 자기들이 예전에 다리가 있던 지점으로 강을 건너기만 해서는 뚫을 수 없다는 걸 알테니 뭔가 더 나은 방책을 생각해 뒀을거야."
+msgstr "그건 확신할 수 없다. 모든 요새에는 약점이 있어. 프레스팀(Prestim)의 벽은 강하지만 길어서, 방어하려면 한번에 여러 지점에 서야 한다. 이 란벡흐 백작도 자기들이 예전에 다리가 있던 지점으로 강을 건너기만 해서는 뚫을 수 없다는 걸 알테니 뭔가 더 나은 방책을 생각해 뒀을 거야."
 
 #. [message]: role=cannonfodder
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_of_Armies.cfg:270
@@ -2692,7 +2692,7 @@ msgid ""
 "Fool! We can hold that long. But we have to have Prestim firmly in control "
 "when the shamans arrive with the Great Horde. We can’t let the humans "
 "establish a foothold on this side of the river..."
-msgstr "멍청하긴! 우린 그정도는 버틸 수 있다. 하지만 주술사들이 큰 무리와 함께 와 있을때 우린 프레스팀(Prestim)을 확실하게 장악하고 있어야해. 인간들이 강 이쪽에 발판을 마련하게 둬선 안된다..."
+msgstr "멍청하긴! 우린 그 정도는 버틸 수 있다. 하지만 주술사들이 큰 무리와 함께 와 있을때 우린 프레스팀(Prestim)을 확실하게 장악하고 있어야해. 인간들이 강 이쪽에 발판을 마련하게 둬선 안 된다..."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_of_Armies.cfg:295
@@ -2994,7 +2994,7 @@ msgid ""
 "their knowledge? How also had their enemies known to strike at Borstep, "
 "which was the rally point for orcish forces as well as their main arms and "
 "supply depot?"
-msgstr "오크의 사령관들은 얼어버렸다. 어떻게 그정도의 대규모 부대가 오크의 영토에서 그들이 모르게 그만큼 깊고 먼 곳까지 뚫고 지나갈 수 있었는가? 또한 어떻게 적들이 오크 병력의 집결지이자 주요 무장 및 보급 장소라는것을 알고 보르스테프을 치게 되었단말인가?"
+msgstr "오크의 사령관들은 얼어버렸다. 어떻게 그 정도의 대규모 부대가 오크의 영토에서 그들이 모르게 그만큼 깊고 먼 곳까지 뚫고 지나갈 수 있었는가? 또한 어떻게 적들이 오크 병력의 집결지이자 주요 무장 및 보급 장소라는것을 알고 보르스테프을 치게 되었단말인가?"
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:121
@@ -3610,7 +3610,7 @@ msgstr "검은 눈! 우린 너같이 건방진 놈 따위는 인정하지 않는
 msgid ""
 "Turn around and go back to where you came from or you’ll find your head on a "
 "pike! Right?"
-msgstr "돌아서서 네가 왔던 곳으로 돌아가지 않으면, 네 머리를 창에 꽂아주겠다! 알겠나?"
+msgstr "돌아서 네가 왔던 곳으로 돌아가지 않으면, 네 머리를 창에 꽂아주겠다! 알겠나?"
 
 #. [message]: speaker=Ragvan
 #. [message]: speaker=Kergai
@@ -3646,7 +3646,7 @@ msgstr "이제 얼마든지 해도 된다, 그뤼."
 #. [message]: speaker=second_unit
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/15_Civil_War.cfg:361
 msgid "This rabble won’t be a problem anymore."
-msgstr "이 폭도는 더이상 문제가 안될겁니다."
+msgstr "이 폭도는 더이상 문제가 안될 겁니다."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/15_Civil_War.cfg:370
@@ -3678,7 +3678,7 @@ msgstr "이제 가자, 우리는 샨 타움(Shan Taum)과 볼일이 남아있다
 msgid ""
 "I can’t leave these renegades unguarded at our rear. I must take care of "
 "them before continuing."
-msgstr "이 변절자를 방비도 없이 뒤에 둘 수는 없다. 가기 전에 놈들을 처리해야해."
+msgstr "이 변절자를 방비도 없이 뒤에 둘 수는 없다. 가기 전에 놈들을 처리해야 해."
 
 #. [scenario]: id=16_The_Coward
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/16_The_Coward.cfg:4
@@ -3855,14 +3855,14 @@ msgid ""
 "I doubt it. Shan Taum knows how to dissemble. I’ll bet he sent them out like "
 "we did to clobber the other tribes into his rule. In any case, it will be "
 "convenient for us."
-msgstr "그건 아닐걸. 샨 타움(Shan Taum)은 의도를 숨기는 법을 알지. 아마 놈은 우리가 했던 것처럼 다른 부족들을 수중에 넣으려고 그들을 보냈을거야. 어쨌든 간에 우리에겐 편한 일이지."
+msgstr "그건 아닐걸. 샨 타움(Shan Taum)은 의도를 숨기는 법을 알지. 아마 놈은 우리가 했던 것처럼 다른 부족들을 수중에 넣으려고 그들을 보냈을 거야. 어쨌든 간에 우리에겐 편한 일이지."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/16_The_Coward.cfg:306
 msgid ""
 "Good, we crushed this pocket of resistance too. Now where in the world did "
 "that coward Shan Taum run off to?"
-msgstr "좋아, 이 한줌의 저항도 깨부쉈다. 이제 겁쟁이 샨 타움(Shan Taum) 녀석은 이 빌어먹을 세상 어디로 사라진거야?"
+msgstr "좋아, 이 한줌의 저항도 깨부쉈다. 이제 겁쟁이 샨 타움(Shan Taum) 녀석은 이 빌어먹을 세상 어디로 사라진 거야?"
 
 #. [scenario]: id=17_The_Human_Attack
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:5
@@ -4227,7 +4227,7 @@ msgstr "멈추시오, 란벡흐 백작. 나는 이 오크들과 합의점에 도
 msgid ""
 "You and your damned compromises can go to hell! Your beloved Kapou’e will be "
 "joining you shortly."
-msgstr "네놈과 그 빌어먹을 타협따위 지옥으로나 꺼져라! 네 사랑 카포우에도 곧 네녀석을 따라갈것이다."
+msgstr "네놈과 그 빌어먹을 타협따위 지옥으로나 꺼져라! 네 사랑 카포우에도 곧 네녀석을 따라갈 것이다."
 
 #. [message]: speaker=Howgarth III
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:518
@@ -4240,7 +4240,7 @@ msgid ""
 "Ha ha! Very funny, Howgarth. Look around you. You are going to be dead as "
 "soon as my orc friend here gives the order. And then your men will "
 "automatically assume that Kapou’e tricked and killed you."
-msgstr "하 하! 정말 웃기는군, 호우가르쓰(Howgarth). 네 주변을 둘러봐라. 내 오크 친구가 명령만 내리면 넌 곧 죽을거야. 그리고 네 부하들은 자동적으로 카포우에가 널 속여서 죽였다고 믿게 되는거지."
+msgstr "하 하! 정말 웃기는군, 호우가르쓰(Howgarth). 네 주변을 둘러봐라. 내 오크 친구가 명령만 내리면 넌 곧 죽을 거야. 그리고 네 부하들은 자동적으로 카포우에가 널 속여서 죽였다고 믿게 되는거지."
 
 #. [message]: speaker=Howgarth III
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:529

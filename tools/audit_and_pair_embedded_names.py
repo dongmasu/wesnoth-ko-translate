@@ -440,15 +440,18 @@ def process_file(path: Path, pairs: list[NamePair], apply: bool) -> tuple[int, i
         whole_components = {
             component
             for whole in whole_sources
+            if len(re.findall(r"[A-Za-z]+", whole)) > 1
             for component in re.findall(r"[A-Za-z]+", whole)
         }
         for pair in sorted(pairs, key=lambda item: len(item.source)):
             if (
+                pair.source != source
+                and pair.source in whole_components
+            ):
+                continue
+            if (
                 pair.glossary_source != pair.source
-                and (
-                    pair.glossary_source in whole_sources
-                    or pair.source in whole_components
-                )
+                and pair.glossary_source in whole_sources
             ):
                 continue
             if not source_occurs(pair.source, pairing_source):

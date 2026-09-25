@@ -882,7 +882,7 @@ msgid ""
 msgstr ""
 "대 원수 아에텍 코린이 남긴 마지막 말은 이렇다: “탈라엘 린독! 내가 네놈을 찾아서 여기까지 왔다! 나오지 않으면 할드릭(Haldric)의 회당으로 돌아가서 왕궁에 네가 우리 결투를 회피한 겁쟁이라고 퍼뜨리겠다! 너의 불명예는 내가 너에게 내릴 죽음보다도 고통스러울 것이다!”\n"
 "\n"
-"그는 그렇게 크게 소리쳐서는 안되었다...."
+"그는 그렇게 크게 소리쳐서는 안 되었다...."
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:220
@@ -948,7 +948,7 @@ msgstr "대하의 강변은 알려진 세계에서 가장 비옥한 땅을 이�
 #. [multiplayer]: id=multiplayer_Cynsaun_Battlefield
 #: data/multiplayer/scenarios/2p_Cynsaun_Battlefield.cfg:6
 msgid "2p — Cynsaun Battlefield"
-msgstr "2p - Cynsaun Battlefield"
+msgstr "2인 — 신사운(Cynsaun) 전장"
 
 #. [multiplayer]: id=multiplayer_Cynsaun_Battlefield
 #: data/multiplayer/scenarios/2p_Cynsaun_Battlefield.cfg:8
@@ -1072,7 +1072,7 @@ msgstr "이곳에는 인간과 야수들의 괴이한 동맹이 산다는 소문
 msgid ""
 "Then let us discover what lies in waiting and teach them not to oppose our "
 "claim."
-msgstr "그럼 뭐가 기다리고 있을 지 찾아내서 놈들에게 우리에게 저항해선 안된다는 걸 가르쳐 주도록 하지."
+msgstr "그럼 뭐가 기다리고 있을 지 찾아내서 놈들에게 우리에게 저항해선 안 된다는 걸 가르쳐 주도록 하지."
 
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:215
@@ -1151,7 +1151,7 @@ msgstr "폭설"
 #. [multiplayer]: id=multiplayer_Den_of_Onis
 #: data/multiplayer/scenarios/2p_Den_of_Onis.cfg:6
 msgid "2p — Den of Onis"
-msgstr "2p - Den of Onis"
+msgstr "2인 — 오니(Onis)의 소굴"
 
 #. [multiplayer]: id=multiplayer_Den_of_Onis
 #: data/multiplayer/scenarios/2p_Den_of_Onis.cfg:7
@@ -1185,7 +1185,7 @@ msgstr "지하"
 #. [multiplayer]: id=multiplayer_Fallenstar_Lake
 #: data/multiplayer/scenarios/2p_Fallenstar_Lake.cfg:7
 msgid "2p — Fallenstar Lake"
-msgstr "2p - Fallenstar Lake"
+msgstr "2인 — 낙성호(Fallenstar Lake)"
 
 #. [multiplayer]: id=multiplayer_Fallenstar_Lake
 #: data/multiplayer/scenarios/2p_Fallenstar_Lake.cfg:8
@@ -1197,7 +1197,7 @@ msgstr "아주 오래전 거대한 별 하나가 하늘에서 떨어져 이 침�
 #. [multiplayer]: id=multiplayer_Hamlets
 #: data/multiplayer/scenarios/2p_Hamlets.cfg:6
 msgid "2p — Hamlets"
-msgstr "2p - Hamlets"
+msgstr "2인 — 작은 마을들"
 
 #. [multiplayer]: id=multiplayer_Hamlets
 #: data/multiplayer/scenarios/2p_Hamlets.cfg:7
@@ -1337,7 +1337,7 @@ msgstr "죽음이 선택한 루코스(Rukhos)"
 #. [multiplayer]: id=multiplayer_Howling_Ghost_Badlands
 #: data/multiplayer/scenarios/2p_Howling_Ghost_Badlands.cfg:5
 msgid "2p — Howling Ghost Badlands"
-msgstr "2p - Howling Ghost Badlands"
+msgstr "2인 — 울부짖는 유령 황무지"
 
 #. [multiplayer]: id=multiplayer_Howling_Ghost_Badlands
 #: data/multiplayer/scenarios/2p_Howling_Ghost_Badlands.cfg:6
@@ -1503,7 +1503,7 @@ msgstr "플레이어는 작지만 지형이 빽빽하게 들어찬 이 섬의 �
 #. [multiplayer]: id=multiplayer_Sablestone_Delta
 #: data/multiplayer/scenarios/2p_Sablestone_Delta.cfg:5
 msgid "2p — Sablestone Delta"
-msgstr "2p - Sablestone Delta"
+msgstr "2인 — 세이블스톤(Sablestone) 삼각주"
 
 #. [multiplayer]: id=multiplayer_Sablestone_Delta
 #: data/multiplayer/scenarios/2p_Sablestone_Delta.cfg:6
@@ -1515,7 +1515,7 @@ msgstr "숨겨진 동굴과 들쭉날쭉한 강이 있는 이 조각난 해안 �
 #. [multiplayer]: id=multiplayer_Silverhead_Crossing
 #: data/multiplayer/scenarios/2p_Silverhead_Crossing.cfg:5
 msgid "2p — Silverhead Crossing"
-msgstr "2p - Silverhead Crossing"
+msgstr "2인 — 실버헤드(Silverhead) 나루"
 
 #. [multiplayer]: id=multiplayer_Silverhead_Crossing
 #: data/multiplayer/scenarios/2p_Silverhead_Crossing.cfg:6
@@ -1553,7 +1553,7 @@ msgstr "돌로 만든 조각상입니다."
 #. [multiplayer]: id=multiplayer_Sullas_Ruins
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:43
 msgid "2p — Sulla’s Ruins"
-msgstr "2p - 술라(Sulla)’s Ruins"
+msgstr "2인 — 술라(Sulla)의 유적"
 
 #. [multiplayer]: id=multiplayer_Sullas_Ruins
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:44
@@ -1639,7 +1639,7 @@ msgstr "대하 북쪽에는 사악한 마법에 저주받은 광활하고 척박
 #. [multiplayer]: id=multiplayer_The_Freelands
 #: data/multiplayer/scenarios/2p_The_Freelands.cfg:6
 msgid "2p — The Freelands"
-msgstr "2p - The Freelands"
+msgstr "2인 — 자유령"
 
 #. [multiplayer]: id=multiplayer_The_Freelands
 #: data/multiplayer/scenarios/2p_The_Freelands.cfg:8
@@ -1676,7 +1676,7 @@ msgstr "오크 무리가 대륙에 떼 지어 몰려오기 시작했을 때, 아
 #. [multiplayer]: id=multiplayer_thousand_stings_garrison
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:45
 msgid "2p — Thousand Stings Garrison"
-msgstr "2p - Thousand Stings 수비군(Garrison)"
+msgstr "2인 — 천 번의 독침 수비대"
 
 #. [multiplayer]: id=multiplayer_thousand_stings_garrison
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:47
@@ -1787,7 +1787,7 @@ msgstr "이름의 유래가 된 강령술사의 관이 있는 중앙 타일은 �
 #. [multiplayer]: id=multiplayer_Weldyn_Channel
 #: data/multiplayer/scenarios/2p_Weldyn_Channel.cfg:5
 msgid "2p — Weldyn Channel"
-msgstr "2p - 웰딘(Weldyn) Channel"
+msgstr "2인 — 웰딘(Weldyn) 수로"
 
 #. [multiplayer]: id=multiplayer_Weldyn_Channel
 #: data/multiplayer/scenarios/2p_Weldyn_Channel.cfg:7
@@ -1799,7 +1799,7 @@ msgstr "이 중요한 보급로는 웨스노스(Wesnoth)의 수많은 위대한 
 #. [multiplayer]: id=multiplayer_Alirok_Marsh
 #: data/multiplayer/scenarios/3p_Alirok_Marsh.cfg:5
 msgid "3p — Alirok Marsh"
-msgstr "3p - Alirok Marsh"
+msgstr "3인 — 알이록(Alirok) 늪"
 
 #. [multiplayer]: id=multiplayer_Alirok_Marsh
 #. [multiplayer]: id=multiplayer_Island_of_the_Horatii
@@ -1838,7 +1838,7 @@ msgstr "이 물길로 나뉜 전장에서 세 명의 플레이어가 정면으�
 #. [multiplayer]: id=multiplayer_Island_of_the_Horatii
 #: data/multiplayer/scenarios/3p_Island_of_the_Horatii.cfg:5
 msgid "3p — Island of the Horatii"
-msgstr "3p - Island of the Horatii"
+msgstr "3인 — 호라티이(Horatii)의 섬"
 
 #. [multiplayer]: id=multiplayer_Island_of_the_Horatii
 #: data/multiplayer/scenarios/3p_Island_of_the_Horatii.cfg:6
@@ -1850,7 +1850,7 @@ msgstr "3인 개인전인 이 지도에서는 중앙 섬을 지배하는 것이 
 #. [multiplayer]: id=multiplayer_3p_Morituri
 #: data/multiplayer/scenarios/3p_Morituri.cfg:5
 msgid "3p — Morituri"
-msgstr "3p - Morituri"
+msgstr "3인 — 모리투리(Morituri)"
 
 #. [multiplayer]: id=multiplayer_3p_Morituri
 #: data/multiplayer/scenarios/3p_Morituri.cfg:6
@@ -1881,7 +1881,7 @@ msgstr "멀리 떨어진 전설의 도시 말리사트는 수많은 위대한 �
 #. [multiplayer]: id=multiplayer_Blue_Water_Province
 #: data/multiplayer/scenarios/4p_Blue_Water_Province.cfg:5
 msgid "4p — Blue Water Province"
-msgstr "4p - Blue Water Province"
+msgstr "4인 — 블루워터(Bluewater) 주"
 
 #. [multiplayer]: id=multiplayer_Blue_Water_Province
 #: data/multiplayer/scenarios/4p_Blue_Water_Province.cfg:7
@@ -1923,7 +1923,7 @@ msgstr "2팀"
 #. [multiplayer]: id=multiplayer_Castle_Hopping_Isle
 #: data/multiplayer/scenarios/4p_Castle_Hopping_Isle.cfg:5
 msgid "4p — Castle Hopping Isle"
-msgstr "4p - Castle Hopping Isle"
+msgstr "4인 — 성 건너뛰기 섬"
 
 #. [multiplayer]: id=multiplayer_Castle_Hopping_Isle
 #: data/multiplayer/scenarios/4p_Castle_Hopping_Isle.cfg:7
@@ -2178,7 +2178,7 @@ msgstr "남동 팀"
 #. [multiplayer]: id=multiplayer_4p_Morituri
 #: data/multiplayer/scenarios/4p_Morituri.cfg:5
 msgid "4p — Morituri"
-msgstr "4p - Morituri"
+msgstr "4인 — 모리투리(Morituri)"
 
 #. [multiplayer]: id=multiplayer_4p_Morituri
 #: data/multiplayer/scenarios/4p_Morituri.cfg:7
@@ -2206,7 +2206,7 @@ msgstr "교전로가 5개로 나뉜 2 대 2 지도입니다. 동쪽 팀과 서�
 #. [multiplayer]: id=multiplayer_Ruins_of_Terra-Dwelve
 #: data/multiplayer/scenarios/4p_Ruins_of_Terra-Dwelve.cfg:6
 msgid "4p — Ruins of Terra-Dwelve"
-msgstr "4p - Ruins of Terra-Dwelve"
+msgstr "4인 — 테라-드웰브(Terra-Dwelve)의 유적"
 
 #. [multiplayer]: id=multiplayer_Ruins_of_Terra-Dwelve
 #: data/multiplayer/scenarios/4p_Ruins_of_Terra-Dwelve.cfg:7
@@ -2230,7 +2230,7 @@ msgstr "두 강이 만나는 곳에서 네 개의 강력한 성이 마주 보는
 #. [multiplayer]: id=multiplayer_4p_Underworld
 #: data/multiplayer/scenarios/4p_Underworld.cfg:5
 msgid "4p — Underworld"
-msgstr "4p - Underworld"
+msgstr "4인 — 지하 세계"
 
 #. [multiplayer]: id=multiplayer_4p_Underworld
 #: data/multiplayer/scenarios/4p_Underworld.cfg:6
@@ -2240,7 +2240,7 @@ msgstr "지하 깊은 곳을 배경으로 한 빠른 진행의 2 대 2 지도입
 #. [multiplayer]: id=multiplayer_Xanthe_Chaos
 #: data/multiplayer/scenarios/4p_Xanthe_Chaos.cfg:7
 msgid "4p — Xanthe Chaos"
-msgstr "4p - Xanthe Chaos"
+msgstr "4인 — 잔테(Xanthe)의 혼돈"
 
 #. [multiplayer]: id=multiplayer_Xanthe_Chaos
 #: data/multiplayer/scenarios/4p_Xanthe_Chaos.cfg:9
@@ -2252,7 +2252,7 @@ msgstr "보조 요새가 있고 중앙 공터에서 크고 혼란스러운 전�
 #. [multiplayer]: id=multiplayer_Auction-X
 #: data/multiplayer/scenarios/5p_Auction-X.cfg:5
 msgid "5p — Auction-X"
-msgstr "5p - Auction-X"
+msgstr "5인 — 경매-X"
 
 #. [multiplayer]: id=multiplayer_Auction-X
 #: data/multiplayer/scenarios/5p_Auction-X.cfg:7
@@ -2468,7 +2468,7 @@ msgstr "넌 게임에 졌다. 하지만 걱정 말아라. 언제든 다시 해 �
 #. [multiplayer]: id=multiplayer_The_Manzivan_Traps
 #: data/multiplayer/scenarios/6p_The_Manzivan_Traps.cfg:7
 msgid "6p — The Manzivan Traps"
-msgstr "6p - The Manzivan Traps"
+msgstr "6인 — 만지반(Manzivan)의 함정"
 
 #. [multiplayer]: id=multiplayer_The_Manzivan_Traps
 #: data/multiplayer/scenarios/6p_The_Manzivan_Traps.cfg:10
@@ -2499,7 +2499,7 @@ msgstr "오래전 화산 폭발로 무너진 왕국의 잿더미를 차지하기
 #. [multiplayer]: id=multiplayer_Waterloo_Sunset
 #: data/multiplayer/scenarios/6p_Waterloo_Sunset.cfg:7
 msgid "6p — Waterloo Sunset"
-msgstr "6p - Waterloo Sunset"
+msgstr "6인 — 워털루(Waterloo)의 석양"
 
 #. [multiplayer]: id=multiplayer_Waterloo_Sunset
 #: data/multiplayer/scenarios/6p_Waterloo_Sunset.cfg:9
@@ -2513,7 +2513,7 @@ msgstr "3 대 3 지도입니다. 수적으로 밀리지 않으려면 동맹을 �
 #. [multiplayer]: id=multiplayer_8p_Mokena_Prairie
 #: data/multiplayer/scenarios/8p_Mokena_Prairie.cfg:5
 msgid "8p — Mokena Prairie"
-msgstr "8p - Mokena Prairie"
+msgstr "8인 — 모케나(Mokena) 초원"
 
 #. [multiplayer]: id=multiplayer_8p_Mokena_Prairie
 #: data/multiplayer/scenarios/8p_Mokena_Prairie.cfg:8
@@ -2525,7 +2525,7 @@ msgstr "모리투리에서 영감을 얻은 8인용 지도입니다. 두 팀이 
 #. [multiplayer]: id=multiplayer_8p_Morituri
 #: data/multiplayer/scenarios/8p_Morituri.cfg:5
 msgid "8p — Morituri"
-msgstr "8p - Morituri"
+msgstr "8인 — 모리투리(Morituri)"
 
 #. [multiplayer]: id=multiplayer_8p_Morituri
 #: data/multiplayer/scenarios/8p_Morituri.cfg:7
@@ -2537,7 +2537,7 @@ msgstr "여덟 군대가 끝까지 싸우는 이 독특한 전장에서 팀워�
 #. [multiplayer]: id=multiplayer_Merkwuerdigliebe
 #: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:7
 msgid "9p — Merkwuerdigliebe"
-msgstr "9p - Merkwuerdigliebe"
+msgstr "9인 — 메르크뷔르디히리베(Merkwuerdigliebe)"
 
 #. [multiplayer]: id=multiplayer_Merkwuerdigliebe
 #: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:9

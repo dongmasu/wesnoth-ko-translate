@@ -423,7 +423,7 @@ msgstr "비록 뒤에서 그러한 일을 진행시키는 것은 우리의 뜻�
 msgid ""
 "That is obvious; the Order of Loremasters wants to send an expedition to Kal "
 "Kartha to examine the possibility of restoring the order of Runemasters."
-msgstr "그것은 뻔합니다. 전승 대가 집단은 룬 술사 집단의 복원 가능성을 조사하기 위해 칼 카르타로 원정대 파견을 원할겁니다."
+msgstr "그것은 뻔합니다. 전승 대가 집단은 룬 술사 집단의 복원 가능성을 조사하기 위해 칼 카르타로 원정대 파견을 원할 겁니다."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:193
@@ -565,7 +565,7 @@ msgid ""
 "steel. Even the forgemasters of Knalga don the mask, though perhaps not as "
 "continuously as our friend Movrur does. But we have no time to discuss this "
 "further right now; I see trouble brewing down the road!"
-msgstr "실용적인 면에서 말하면, 날아오는 불꽃이나 쇳물로부터 얼굴을 지키기도 합니다. 크날가(Knalga)의 대장간 장인들조차 가면을 쓰고 있지만, 모브루르(Movrur)처럼 일상적으로 사용하지는 않을겁니다. 하지만 이 이야기는 나중에 합시다. 길 끝에서 문제가 발생하고 있는 것 같습니다!"
+msgstr "실용적인 면에서 말하면, 날아오는 불꽃이나 쇳물로부터 얼굴을 지키기도 합니다. 크날가(Knalga)의 대장간 장인들조차 가면을 쓰고 있지만, 모브루르(Movrur)처럼 일상적으로 사용하지는 않을 겁니다. 하지만 이 이야기는 나중에 합시다. 길 끝에서 문제가 발생하고 있는 것 같습니다!"
 
 #. [message]: speaker=Marth-Tak
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:183
@@ -638,7 +638,7 @@ msgstr "고맙습니다, 난쟁이들이여. 최근 국경 부족들에 대한 �
 msgid ""
 "Indeed? What disturbs me is that these orcs bear arms and coins of dwarvish "
 "make. It intimates that this war-band was hired for this purpose."
-msgstr "그렇습니까? 나로서는, 이 오크들이 난쟁이가 만든 무기나 동전을 가지고 있는 것이 나를 신경이 쓰이게 만듭니다. 이 전투단이 이 목적을 위해 고용되었다는 것을 암시하는것 같습니다."
+msgstr "그렇습니까? 나로서는, 이 오크들이 난쟁이가 만든 무기나 동전을 가지고 있는 것이 나를 신경이 쓰이게 만듭니다. 이 전투단이 이 목적을 위해 고용되었다는 것을 암시하는 것 같습니다."
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:263
@@ -845,7 +845,7 @@ msgstr "<i>조용해, 이 땅거지 새끼야. 이 신참자들에게 도와달�
 #. [message]: role=peasantry
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:259
 msgid "They’ll stop you!"
-msgstr "그들이 너희들을 막을거야!"
+msgstr "그들이 너희들을 막을 거야!"
 
 #. [message]: role=slaver
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:264
@@ -1134,7 +1134,7 @@ msgid ""
 "We allow few outsiders in our forest paths, and no dwarves since the masked "
 "ones began to trouble our eastern margins. No axe-bearers shall come near "
 "our trees. Return whence you came!"
-msgstr "외지인이 우리 숲길을 통과하는것은 거의 허용하지 않고, 가면을 쓴 자들이 우리의 동쪽 경계를 괴롭히기 시작한 이후로 난쟁이들은 허용하지 않는다. 도끼를 든 자는 우리 나무들에 접근하지 말라. 너희가 왔던 곳으로 돌아가라!"
+msgstr "외지인이 우리 숲길을 통과하는 것은 거의 허용하지 않고, 가면을 쓴 자들이 우리의 동쪽 경계를 괴롭히기 시작한 이후로 난쟁이들은 허용하지 않는다. 도끼를 든 자는 우리 나무들에 접근하지 말라. 너희가 왔던 곳으로 돌아가라!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Forbidden_Forest.cfg:216
@@ -1673,7 +1673,7 @@ msgstr "이전에도 우리를 막을 수 없었고, 지금도 막을 수 없을
 msgid ""
 "You shall never pass through here! The doors I guard are sealed by the power "
 "of the Hammer itself."
-msgstr "너희는 절대 여기를 지나갈 수 없어! 내가 지키는 문은 망치 자체의 힘으로 봉쇄되어있다."
+msgstr "너희는 절대 여기를 지나갈 수 없어! 내가 지키는 문은 망치 자체의 힘으로 봉쇄되어 있다."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:637
@@ -1777,7 +1777,7 @@ msgstr "드디어 찬탈자들이 도착했구나."
 msgid ""
 "We are not the usurpers but the liberators of Kal Kartha! We are here to "
 "free our kin from your dark sorcery!"
-msgstr "우리는 찬탈자가 아니라 칼 카르타의 해방자들이다! 우리는 너의 어둠의 마술로부터 우리 친척을 구출하기 위해 여기에 온것이다!"
+msgstr "우리는 찬탈자가 아니라 칼 카르타의 해방자들이다! 우리는 너의 어둠의 마술로부터 우리 친척을 구출하기 위해 여기에 온 것이다!"
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1211
@@ -1785,7 +1785,7 @@ msgid ""
 "You insolent fool! It is I who have led Kal Kartha to glory and I who have "
 "cleansed the lands of the true people from all unworthy scum! Kal Kartha "
 "owes me everything!"
-msgstr "이 건방진 바보 놈아! 칼 카르타를 영광으로 이끈 것은 나이고, 모든 가치 없는 쓰레기들로부터 진정한 민족의 땅을 정화시킨 것도 나다! 칼 카르타는 나에게 그 모든 것을 빚졌다! 나 없이 칼 카르타는 존재할 수 없는것이다!"
+msgstr "이 건방진 바보 놈아! 칼 카르타를 영광으로 이끈 것은 나이고, 모든 가치 없는 쓰레기들로부터 진정한 민족의 땅을 정화시킨 것도 나다! 칼 카르타는 나에게 그 모든 것을 빚졌다! 나 없이 칼 카르타는 존재할 수 없는 것이다!"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1216

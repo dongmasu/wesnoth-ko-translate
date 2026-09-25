@@ -966,6 +966,7 @@ Dunefolk	사막 민족	デューンフォーク	沙丘游民	faction
 Dunes	모래 언덕	砂丘	沙丘	terrain		
 Dungeon	던전	迷宮	地牢	term		
 During the scenario	시나리오 진행 중	シナリオの途中	场景进行时	term		
+Managa’Gwin	마나가 그윈(Managa’Gwin)	Managa’Gwin	马纳加·戈温	faction		
 Dursil	두르실(Dursil)	Dursil	杜斯尔	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
 Durstorn	두르스토른(Durstorn)	Durstorn	达司拓恩	unit_name		
 Durth	두르쓰(Durth)	Durth	德斯	proper_noun		
@@ -2106,7 +2107,7 @@ Mal Keshar	말 케샤르(Mal Keshar)	Mal Keshar	玛尔·凯沙	unit_name
 Mal Maul	말(Mal) 마울	Mal Maul	玛尔·魔尔	proper_noun		
 Mal Sevu	말(Mal) 세부	Mal Sevu	玛尔·瑟夫	faction		
 Mal Shiki	말(Mal) 쉬키	Mal Shiki	玛尔·史奇	faction		
-Mal Tath	말(Mal) 타쓰(Tath)	Mal Tath	玛尔·塔斯	faction		고유명사 병기 기준
+Mal Tath	말 타쓰(Mal Tath)	Mal Tath	玛尔·塔斯	faction		고유명사 병기 기준
 Mal Tera	말 테라(Mal Tera)	Mal Tera	玛尔·特拉	faction		
 Mal-Akranbral	말-아크란브랄(Mal-Akranbral)	Mal-Akranbral	玛尔-阿克兰布劳尔	person_name		
 Mal-Analla	말-아날라(Mal-Analla)	Mal-Analla	玛尔-安娜拉	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
@@ -3823,6 +3824,7 @@ Tyegëa and Priestesses	티에게아(Tyegëa)와 여제사장들	Tyegëa と司�
 Type	속성	種類	类型	proper_noun		
 Tyxrrn the Dauntless	불굴의 틱스른(Tyxrrn)	恐れ知らずのTyxrrn	无畏者提克萨恩	unit_name		
 Udrin	우드린(Udrin)	Udrin	乌德林	faction		
+Usadar Q’kai	우사다르 쿠카이(Usadar Q’kai)	Usadar Q’kai	乌萨达·丘凯	faction		
 Ufes	유페스(Ufes)	Ufes	乌费斯	proper_noun		
 Ugzush	우그주쉬(Ugzush)	Ugzush	乌兹什	proper_noun		
 Uhmit	우흐미트(Uhmit)	Uhmit	尤米特	unit_name		
@@ -4086,7 +4088,7 @@ Winter Elven Castle	겨울 엘프 성	冬のエルフの城	冬季精灵城堡	t
 Winter Elven Keep	겨울 엘프 본영	冬のエルフの主塔	冬季精灵主楼	terrain		
 Winter Mixed Forest	겨울 혼합수림	冬の混交林	冬季混交林	terrain		
 Wizard	마도사	not found	not found	unit_role		
-WoCopedia	WoCopedia	世界征服の手引き	世界征服百科全书	proper_noun		
+WoCopedia	WoC 백과사전	世界征服の手引き	世界征服百科全书	proper_noun		
 WoF	바람(WoF)	WoF	WoF	campaign_name		
 Wolf	늑대	狼	狼	unit_name		
 Wolf Coast	늑대의 해안	オオカミ海岸	恶狼海岸	place_name		

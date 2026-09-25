@@ -1232,7 +1232,7 @@ msgid ""
 "It’s a <i>mage</i>! That <i>would</i> be helpful for the war, you idiot! "
 "It’s only a pup, and unless I miss my guess, it’s a female too. It will be "
 "easy to capture."
-msgstr "<i>마법사</i>잖아! 그거야말로 전쟁에 <i>도움이 되지</i>, 이 멍청아! 아직 애송이이고, 내 추측이 틀리지 않았다면 여자이기도 해. 잡기 쉬울 거야."
+msgstr "<i>마법사</i>잖아! 그 거야말로 전쟁에 <i>도움이 되지</i>, 이 멍청아! 아직 애송이이고, 내 추측이 틀리지 않았다면 여자이기도 해. 잡기 쉬울 거야."
 
 #. [message]: speaker=Blaust
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:579
@@ -2800,7 +2800,7 @@ msgstr "조금만 더 가면 돼."
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/17_Mortality.cfg:138
 msgid ""
 "Ardryn-Na, I’m dying. (<i>Cough, cough</i>) I don’t think... I can stop it."
-msgstr "아르드린-나, 나는 죽게 될거야.. (<i>콜록, 콜록</i>)나는 멈출 수... 없을 것 같아."
+msgstr "아르드린-나, 나는 죽게 될 거야.. (<i>콜록, 콜록</i>)나는 멈출 수... 없을 것 같아."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/17_Mortality.cfg:142
@@ -3026,7 +3026,7 @@ msgid ""
 "the distant future, my new friends and Ras-Tabahn’s population will probably "
 "clash, but that will be a worry for another time, and for now, we each "
 "continue to regard the other as an ally."
-msgstr "라스타반은 나를 그의 노력에 동참하도록 설득하려 했지만, 나는 그의 계획에 대해 심각한 의구심을 가지고 있다. 저는 그가 도시 경비대를 물리칠 수 있을지 확신할 수 없고, 주민을 노예로 삼는 것이 오래된 서부인(Wesfolk) 대장들이 악명을 떨친 이유중 하나라고 생각한다. 저는 보다 자비로운 접근 방식이 우리의 유산을 보장할 가능성이 더 낫다고 생각한다. 우리의 성공을 알리고 시민들이 자발적으로 우리와 합류하도록 초대하는것이 좋을 것이다. 나는 웨스노스(Wesnoth)로 남쪽으로 여행을 떠나 댄 통크와 웰딘(Weldyn)을 방문할 것입니다. 먼 미래의 어느 시점에서 내 새로운 친구들과 라스타반의 세력이 충돌할 가능성이 높지만, 그것은 나중에 걱정할 일이고, 지금은 서로를 동맹으로 여기고 있다."
+msgstr "라스타반은 나를 그의 노력에 동참하도록 설득하려 했지만, 나는 그의 계획에 대해 심각한 의구심을 가지고 있다. 저는 그가 도시 경비대를 물리칠 수 있을지 확신할 수 없고, 주민을 노예로 삼는 것이 오래된 서부인(Wesfolk) 대장들이 악명을 떨친 이유중 하나라고 생각한다. 저는 보다 자비로운 접근 방식이 우리의 유산을 보장할 가능성이 더 낫다고 생각한다. 우리의 성공을 알리고 시민들이 자발적으로 우리와 합류하도록 초대하는 것이 좋을 것이다. 나는 웨스노스(Wesnoth)로 남쪽으로 여행을 떠나 댄 통크와 웰딘(Weldyn)을 방문할 것입니다. 먼 미래의 어느 시점에서 내 새로운 친구들과 라스타반의 세력이 충돌할 가능성이 높지만, 그것은 나중에 걱정할 일이고, 지금은 서로를 동맹으로 여기고 있다."
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/19_Lava_and_Stone.cfg:32

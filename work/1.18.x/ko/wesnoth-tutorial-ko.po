@@ -114,7 +114,7 @@ msgid ""
 "• <small>Healing</small>\n"
 "• <small>Recruiting</small>"
 msgstr ""
-"다음의 기본 사항을 배우게 될겁니다:\n"
+"다음의 기본 사항을 배우게 될 겁니다:\n"
 "• <small>움직임</small>\n"
 "• <small>공격</small>\n"
 "• <small>치유</small>\n"
@@ -679,7 +679,7 @@ msgid ""
 "You wouldn’t do anything stupid like charging that quintain yourself again, "
 "now would you? Use the fighters you recruited first; they’ll be a lot of "
 "help."
-msgstr "또 과녁에게 돌격하는 바보같은 일은 하지 않을 거라 보네, 어떤가? 고용한 싸움꾼들을 이용하게. 그들은 큰 도움이 될거야."
+msgstr "또 과녁에게 돌격하는 바보같은 일은 하지 않을 거라 보네, 어떤가? 고용한 싸움꾼들을 이용하게. 그들은 큰 도움이 될 거야."
 
 #. [message]: speaker=Delfador
 #. a strong elf, so +1 damage
@@ -971,7 +971,7 @@ msgstr "이후에 물러날 기회가 있기를!"
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:125
 msgid "One lucky attack by an Orcish Grunt, and I’m done for!"
-msgstr "오크 졸개에게 운나쁘게 한방만 맞으면, 끝나고 말거야!"
+msgstr "오크 졸개에게 운나쁘게 한방만 맞으면, 끝나고 말 거야!"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:126
@@ -994,7 +994,7 @@ msgstr "이후에 물러날 기회가 있기를!"
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:129
 #| msgid "One lucky attack by an Orcish Grunt, and I’m done for!"
 msgid "female^One lucky attack by an Orcish Grunt, and I’m done for!"
-msgstr "오크 졸개에게 운나쁘게 한방만 맞으면, 끝나고 말거야!"
+msgstr "오크 졸개에게 운나쁘게 한방만 맞으면, 끝나고 말 거야!"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:130
@@ -1105,7 +1105,7 @@ msgstr "뭘 해야 하죠?"
 msgid ""
 "First, we will have to deal with the Orcish Grunt stationed in the middle of "
 "the river. He should be little trouble."
-msgstr "먼저, 우리는 강 중간에 배치된 오크 졸개를 상대해야 한다. 좀 성가실것이다."
+msgstr "먼저, 우리는 강 중간에 배치된 오크 졸개를 상대해야 한다. 좀 성가실 것이다."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:227
@@ -1390,7 +1390,7 @@ msgstr "아직 마을을 점령하지 않았습니다!"
 #| "correcting mistakes."
 msgid ""
 "You forgot to recruit troops! You can press <b>u</b> to undo your last move."
-msgstr "부대를 소집하는것을 잊었군요! <b>u</b>를 누르면 이전 이동을 취소할 수 있습니다."
+msgstr "부대를 소집하는 것을 잊었군요! <b>u</b>를 누르면 이전 이동을 취소할 수 있습니다."
 
 #. [disallow_end_turn]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:480
@@ -1427,7 +1427,7 @@ msgstr "매 차례마다, 당신은 금화 2 개를 얻게 되고, 당신이 소
 msgid ""
 "You forgot to capture a village! You can press <b>u</b> to undo your last "
 "move."
-msgstr "마을을 점령하는것을 잊었군요! <b>u</b>를 누르면 이전 이동을 취소할 수 있습니다."
+msgstr "마을을 점령하는 것을 잊었군요! <b>u</b>를 누르면 이전 이동을 취소할 수 있습니다."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:576
@@ -1474,7 +1474,7 @@ msgid ""
 "However, keep an eye on that ford. The orcs may try to sneak around behind "
 "our forces. It might do to send a few units to defend the banks, and the "
 "village there."
-msgstr "하지만, 저 여울을 잘 지켜봐라. 오크들이 우리 병력의 뒤를 쫒으려 할지 모른다. 둑과 그곳의 마을을 지키기 위해 일부 유닛을 보내는 것이 좋을 수도 있다."
+msgstr "하지만, 저 여울을 잘 지켜봐라. 오크들이 우리 병력의 뒤를 쫓으려 할지 모른다. 둑과 그곳의 마을을 지키기 위해 일부 유닛을 보내는 것이 좋을 수도 있다."
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:603
@@ -1498,7 +1498,7 @@ msgid ""
 "Move them into position so they can attack next turn. There are also other "
 "villages on this side of the river. You should secure them for income and "
 "healing."
-msgstr "그 오크 졸개가 아직도 우리 길을 막고 있다. 놈은 원거리 공격 능력이 없기 때문에, 너의 궁수들은 거의 위험 부담 없이 놈을 끌어들일 수 있을 것이다. 불행하게도, 이번 차례는 너의 유닛이 놈에게 접근할 수 없지만, 놈들을 방치해서는 안된다! 다음 차례에 공격할 수 있도록 위치를 이동하라. 또한 이 강의 이쪽편에 마을들이 있다. 수입과 치유를 위해 그것들을 확보해야 한다."
+msgstr "그 오크 졸개가 아직도 우리 길을 막고 있다. 놈은 원거리 공격 능력이 없기 때문에, 너의 궁수들은 거의 위험 부담 없이 놈을 끌어들일 수 있을 것이다. 불행하게도, 이번 차례는 너의 유닛이 놈에게 접근할 수 없지만, 놈들을 방치해서는 안 된다! 다음 차례에 공격할 수 있도록 위치를 이동하라. 또한 이 강의 이쪽 편에 마을들이 있다. 수입과 치유를 위해 그것들을 확보해야 한다."
 
 #. [hint_message]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:610
@@ -1550,7 +1550,7 @@ msgid ""
 "safe and protected and in range of your keep early in the game. The tide of "
 "battle can turn quickly, and you don’t want to find yourself cut off from "
 "recruiting reinforcements."
-msgstr "잘 배웠구나, 리사르(Li’sar). 게임 초반에 대장을 안전하게 보호하고 아성 근처에 두는 것은 정말 좋은 생각이다. 전투의 흐름은 빠르게 바뀔 수 있기때문에, 지원군 소집이 끊기는 것을 원하지 않는 것이군."
+msgstr "잘 배웠구나, 리사르(Li’sar). 게임 초반에 대장을 안전하게 보호하고 아성 근처에 두는 것은 정말 좋은 생각이다. 전투의 흐름은 빠르게 바뀔 수 있기 때문에, 지원군 소집이 끊기는 것을 원하지 않는 것이군."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:698
@@ -1595,14 +1595,14 @@ msgstr "늑대 기병들이 도착하기 전에 저 섬을 점령해야 한다!"
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:721
 #| msgid "Can’t our units just move around him?"
 msgid "Can’t we just move around the orcs?"
-msgstr "우리 유닛들이 저 오크들을 돌아서 가면 안되나요?"
+msgstr "우리 유닛들이 저 오크들을 돌아서 가면 안 되나요?"
 
 #. [message]: speaker=student
 #. "we" refers to Li'sar, Galdrad, and the mixed-gender troops
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:723
 #| msgid "Can’t our units just move around him?"
 msgid "female^Can’t we just move around the orcs?"
-msgstr "우리 유닛들이 저 오크들을 돌아서 가면 안되나요?"
+msgstr "우리 유닛들이 저 오크들을 돌아서 가면 안 되나요?"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:736
@@ -1758,7 +1758,7 @@ msgid ""
 "We need to occupy that village, otherwise they will take it soon! Move a "
 "unit into the village to stop the orcs capturing it. Whichever unit you "
 "choose will benefit from the village’s healing, too."
-msgstr "우리가 저 마을을 차지하지 않으면, 저들이 곧 차지할거야! 유닛을 마을로 이동시켜서 오크를 막아. 이동시킨 유닛은 마을의 회복효과도 받을 수 있어."
+msgstr "우리가 저 마을을 차지하지 않으면, 저들이 곧 차지할 거야! 유닛을 마을로 이동시켜서 오크를 막아. 이동시킨 유닛은 마을의 회복효과도 받을 수 있어."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:944
@@ -2006,7 +2006,7 @@ msgstr "$unit.name|의 죽음은 안타깝지만, 그나마 높은 경험치를 
 msgid ""
 "Higher level units are powerful, but not invulnerable. We’ll miss you, $unit."
 "name|."
-msgstr "더 높은 레벨 유닛은 강력하지만, 무적의 존재는 아니다. 그리울거야, $unit.name|."
+msgstr "더 높은 레벨 유닛은 강력하지만, 무적의 존재는 아니다. 그리울 거야, $unit.name|."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1328

@@ -198,7 +198,7 @@ msgstr "신뢰"
 #: data/campaigns/World_Conquest/gui/help_dialog.cfg:45
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:233
 msgid "WoCopedia"
-msgstr "WoCopedia"
+msgstr "WoC 백과사전"
 
 #. [label]: id=title
 #. [lua]: gui.widget.add_invest_item

@@ -142,7 +142,7 @@ class GlossaryTests(unittest.TestCase):
                     preferences = block
         self.assertIsNotNone(about)
         self.assertIsNotNone(preferences)
-        self.assertIn('msgstr "음악 담당"', about)
+        self.assertIn('msgstr "음악"', about)
         self.assertIn('msgstr "음악"', preferences)
 
     def test_yes_no_use_response_words_not_presence_words(self):
@@ -221,6 +221,18 @@ class GlossaryTests(unittest.TestCase):
         tarek = next(row for row in rows if row["source_term"] == "Tarek")
         self.assertEqual(tarek["standard_korean"], "타렉(Tarek)")
         self.assertEqual(tarek["reference_japanese"], "Tarek")
+
+    def test_newly_reviewed_proper_names_are_transliterated(self):
+        _, rows = glossary_rows()
+        by_source = {row["source_term"]: row for row in rows}
+        expected = {
+            "Managa’Gwin": "마나가 그윈(Managa’Gwin)",
+            "Usadar Q’kai": "우사다르 쿠카이(Usadar Q’kai)",
+            "WoCopedia": "WoC 백과사전",
+        }
+        for source, translation in expected.items():
+            with self.subTest(source=source):
+                self.assertEqual(by_source[source]["standard_korean"], translation)
 
     def test_named_entities_declared_by_po_ids_are_paired(self):
         _, rows = glossary_rows()
@@ -321,6 +333,65 @@ class GlossaryTests(unittest.TestCase):
         self.assertIn(("Darken", "다켄"), pair_map)
         self.assertIn(("Volk", "볼크"), pair_map)
         self.assertNotIn(("Minister", "에드렌"), pair_map)
+
+    def test_whole_compound_name_is_paired_once(self):
+        from tools.audit_and_pair_embedded_names import (
+            SOURCE_PATTERNS,
+            SOURCE_TRANSLATION_PATTERNS,
+            TRANSLATION_PATTERNS,
+            load_pairs,
+            process_file,
+        )
+
+        pairs, conflicts = load_pairs(GLOSSARY)
+        self.assertFalse(conflicts)
+        path = ROOT / "tests" / ".tmp-mal-tath.po"
+        original_source_patterns = SOURCE_PATTERNS.copy()
+        original_translation_patterns = TRANSLATION_PATTERNS.copy()
+        original_source_translation_patterns = SOURCE_TRANSLATION_PATTERNS.copy()
+        path.write_text(
+            'msgid "Mal Tath arrives."\n'
+            'msgstr "말 타쓰가 도착했다."\n',
+            encoding="utf-8",
+        )
+        try:
+            SOURCE_PATTERNS.clear()
+            TRANSLATION_PATTERNS.clear()
+            SOURCE_TRANSLATION_PATTERNS.clear()
+            for pair in pairs:
+                SOURCE_PATTERNS[pair.source] = re.compile(
+                    r"(?<![A-Za-z0-9-])"
+                    + re.escape(pair.source)
+                    + r"(?![A-Za-z0-9-])"
+                )
+                TRANSLATION_PATTERNS[(pair.korean, pair.source)] = re.compile(
+                    re.escape(pair.korean)
+                    + r"(?P<particle>(?:은|는|이|가|을|를|의|에|로|와|과|도|만|에서|에게|으로)?)"
+                    + rf"(?!{re.escape(f'({pair.source})')})"
+                    + r"(?!\()"
+                )
+                SOURCE_TRANSLATION_PATTERNS[pair.source] = re.compile(
+                    r"(?<![A-Za-z0-9-(])"
+                    + re.escape(pair.source)
+                    + r"(?P<particle>(?:은|는|이|가|을|를|의|에|로|와|과|도|만|에서|에게|으로)?)"
+                    + r"(?![A-Za-z0-9-])"
+                )
+            messages, unresolved = process_file(path, pairs, apply=True)
+            self.assertEqual((messages, unresolved), (1, 0))
+            self.assertIn(
+                'msgstr "말 타쓰(Mal Tath)가 도착했다."',
+                path.read_text(encoding="utf-8"),
+            )
+        finally:
+            path.unlink()
+            SOURCE_PATTERNS.clear()
+            SOURCE_PATTERNS.update(original_source_patterns)
+            TRANSLATION_PATTERNS.clear()
+            TRANSLATION_PATTERNS.update(original_translation_patterns)
+            SOURCE_TRANSLATION_PATTERNS.clear()
+            SOURCE_TRANSLATION_PATTERNS.update(
+                original_source_translation_patterns
+            )
 
     def test_embedded_name_audit_skips_wml_name_generators(self):
         from tools.audit_and_pair_embedded_names import process_file
@@ -615,7 +686,7 @@ class GlossaryTests(unittest.TestCase):
 
     def test_english_only_proper_names_are_transliterated_or_explicit_exceptions(self):
         _, rows = glossary_rows()
-        external = {"Discord", "IRC", "Reddit", "SoF", "Steam", "WC", "WoCopedia"}
+        external = {"Discord", "IRC", "Reddit", "SoF", "Steam", "WC"}
         contexts = {
             "person_name",
             "place_name",
