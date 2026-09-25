@@ -7888,7 +7888,7 @@ msgstr "이 나모들은 덩굴과 기는 식물 같은 숲의 식물을 조종�
 #, fuzzy
 #~| msgid "Young Ogre"
 #~ msgid "Young Roc"
-#~ msgstr "어린 오우거"
+#~ msgstr "어린 오우거(Ogre)"
 
 #~ msgid ""
 #~ "Elves have always had a reputation for archery, a skill that, for many "
@@ -8042,9 +8042,7 @@ msgstr "이 나모들은 덩굴과 기는 식물 같은 숲의 식물을 조종�
 #~ "A being of this order is a revenant of ages long past. Anyone who "
 #~ "encounters an Ancient Lich likely has far worse things to worry about "
 #~ "than death."
-#~ msgstr ""
-#~ "주문으로 된 이 존재는 오랜 옛 시대의 망령이다. 이 고대의 리치와 조우하는 "
-#~ "자는 죽음 보다도 더 나쁜 것을 걱정해야 할 것이다."
+#~ msgstr "주문으로 된 이 존재는 오랜 옛 시대의 망령이다. 이 고대의 리치(Lich)와 조우하는 자는 죽음 보다도 더 나쁜 것을 걱정해야 할 것이다."
 
 #~ msgid ""
 #~ "Giant Mudcrawlers are a larger kind of Mudcrawler, and are magical "

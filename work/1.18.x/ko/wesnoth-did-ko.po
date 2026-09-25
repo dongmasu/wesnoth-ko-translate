@@ -6212,9 +6212,7 @@ msgstr "<italic>text='불구의'</italic> 유닛은 일반 유닛보다 이동�
 #~ msgid ""
 #~ "Despite his increased magical powers, Malin holds on to his short sword "
 #~ "as his melee weapon of choice."
-#~ msgstr ""
-#~ "그의 마법의 힘은 더 커졌지만, Malin은 그의 근접 무기로 여전히 그의 단검을 "
-#~ "사용한다."
+#~ msgstr "그의 마법의 힘은 더 커졌지만, 말린(Malin)은 그의 근접 무기로 여전히 그의 단검을 사용한다."
 
 #~ msgid ""
 #~ "On the frontiers of Wesnoth, all able-bodied men and women must be able "
@@ -6222,11 +6220,7 @@ msgstr "<italic>text='불구의'</italic> 유닛은 일반 유닛보다 이동�
 #~ "use of sword or bow, the women learn the use of staff and sling. The most "
 #~ "proficient are more than a match for any orcs foolish enough to engage "
 #~ "them in combat."
-#~ msgstr ""
-#~ "Wesnoth 국경지대에서는 신체 건강한 모든 남녀가 만약을 대비해 마을을 지킬 "
-#~ "수 있어야 한다. 남자들은 대부분 검이나 활쏘기를 배우며, 여자들은 지팡이와 "
-#~ "돌팔매질을 배운다. 그들 중 가장 능숙한 이들은 그들과 싸우려 드는 멍청한 오"
-#~ "크들을 능히 물리칠 수 있다."
+#~ msgstr "웨스노스(Wesnoth) 국경지대에서는 신체 건강한 모든 남녀가 만약을 대비해 마을을 지킬 수 있어야 한다. 남자들은 대부분 검이나 활쏘기를 배우며, 여자들은 지팡이와 돌팔매질을 배운다. 그들 중 가장 능숙한 이들은 그들과 싸우려 드는 멍청한 오크들을 능히 물리칠 수 있다."
 
 #~ msgid "short sword"
 #~ msgstr "단검"

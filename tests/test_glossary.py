@@ -314,6 +314,132 @@ class GlossaryTests(unittest.TestCase):
         finally:
             path.unlink()
 
+    def test_embedded_name_audit_includes_obsolete_translations(self):
+        from tools.audit_and_pair_embedded_names import process_file
+
+        sample = (
+            '#~ msgid "A young Knight, Deoran, served King Haldric."\n'
+            '#~ msgstr "젊은 기사 Deoran은 Haldric 왕을 섬겼다."\n'
+        )
+        path = ROOT / "tests" / ".tmp-obsolete-name.po"
+        path.write_text(sample, encoding="utf-8")
+        try:
+            messages, unresolved = process_file(path, [], apply=False)
+            self.assertEqual((messages, unresolved), (0, 0))
+        finally:
+            path.unlink()
+
+    def test_obsolete_name_pairing_preserves_obsolete_prefix(self):
+        from tools.audit_and_pair_embedded_names import (
+            NamePair,
+            process_file,
+            SOURCE_PATTERNS,
+            TRANSLATION_PATTERNS,
+            SOURCE_TRANSLATION_PATTERNS,
+        )
+
+        sample = (
+            '#~ msgid "Deoran met Haldric."\n'
+            '#~ msgstr "Deoran은 Haldric을 만났다."\n'
+        )
+        path = ROOT / "tests" / ".tmp-obsolete-name.po"
+        path.write_text(sample, encoding="utf-8")
+        pair_deoran = NamePair("Deoran", "데오란", "person_name", "Deoran")
+        pair_hal = NamePair("Haldric", "할드릭", "person_name", "Haldric")
+        SOURCE_PATTERNS.update(
+            {
+                "Deoran": re.compile(r"(?<![A-Za-z0-9-])Deoran(?![A-Za-z0-9-])"),
+                "Haldric": re.compile(r"(?<![A-Za-z0-9-])Haldric(?![A-Za-z0-9-])"),
+            }
+        )
+        TRANSLATION_PATTERNS.update(
+            {
+                ("데오란", "Deoran"): re.compile(r"데오란(?P<particle>(?:은|는)?)"),
+                ("할드릭", "Haldric"): re.compile(r"할드릭(?P<particle>(?:을|를)?)"),
+            }
+        )
+        SOURCE_TRANSLATION_PATTERNS.update(
+            {
+                "Deoran": re.compile(
+                    r"(?<![A-Za-z0-9-(])Deoran(?P<particle>(?:은|는)?)"
+                    r"(?![A-Za-z0-9-])"
+                ),
+                "Haldric": re.compile(
+                    r"(?<![A-Za-z0-9-(])Haldric(?P<particle>(?:을|를)?)"
+                    r"(?![A-Za-z0-9-])"
+                ),
+            }
+        )
+        try:
+            messages, unresolved = process_file(
+                path,
+                [pair_deoran, pair_hal],
+                apply=True,
+            )
+            self.assertEqual((messages, unresolved), (1, 0))
+            result = path.read_text(encoding="utf-8")
+            self.assertIn(
+                '#~ msgstr "데오란(Deoran)은 할드릭(Haldric)을 만났다."',
+                result,
+            )
+        finally:
+            path.unlink()
+
+    def test_obsolete_fuzzy_name_pairing_is_not_skipped(self):
+        from tools.audit_and_pair_embedded_names import (
+            NamePair,
+            process_file,
+            SOURCE_PATTERNS,
+            TRANSLATION_PATTERNS,
+            SOURCE_TRANSLATION_PATTERNS,
+        )
+
+        sample = (
+            "#, fuzzy\n"
+            '#~| msgid "Deoran met Haldric."\n'
+            '#~ msgid "Deoran met Haldric."\n'
+            '#~ msgstr "Deoran은 Haldric을 만났다."\n'
+        )
+        path = ROOT / "tests" / ".tmp-obsolete-fuzzy-name.po"
+        path.write_text(sample, encoding="utf-8")
+        pairs = [
+            NamePair("Deoran", "데오란", "person_name", "Deoran"),
+            NamePair("Haldric", "할드릭", "person_name", "Haldric"),
+        ]
+        SOURCE_PATTERNS.update(
+            {
+                "Deoran": re.compile(r"(?<![A-Za-z0-9-])Deoran(?![A-Za-z0-9-])"),
+                "Haldric": re.compile(r"(?<![A-Za-z0-9-])Haldric(?![A-Za-z0-9-])"),
+            }
+        )
+        TRANSLATION_PATTERNS.update(
+            {
+                ("데오란", "Deoran"): re.compile(r"데오란(?P<particle>(?:은|는)?)"),
+                ("할드릭", "Haldric"): re.compile(r"할드릭(?P<particle>(?:을|를)?)"),
+            }
+        )
+        SOURCE_TRANSLATION_PATTERNS.update(
+            {
+                "Deoran": re.compile(
+                    r"(?<![A-Za-z0-9-(])Deoran(?P<particle>(?:은|는)?)"
+                    r"(?![A-Za-z0-9-])"
+                ),
+                "Haldric": re.compile(
+                    r"(?<![A-Za-z0-9-(])Haldric(?P<particle>(?:을|를)?)"
+                    r"(?![A-Za-z0-9-])"
+                ),
+            }
+        )
+        try:
+            messages, unresolved = process_file(path, pairs, apply=True)
+            self.assertEqual((messages, unresolved), (1, 0))
+            self.assertIn(
+                '#~ msgstr "데오란(Deoran)은 할드릭(Haldric)을 만났다."',
+                path.read_text(encoding="utf-8"),
+            )
+        finally:
+            path.unlink()
+
     def test_zone_of_control_keeps_the_standard_acronym(self):
         _, rows = glossary_rows()
         by_source = {row["source_term"]: row for row in rows}

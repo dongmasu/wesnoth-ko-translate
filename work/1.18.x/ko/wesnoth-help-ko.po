@@ -7352,7 +7352,7 @@ msgstr "방해 비용"
 #~ "자의 공격력은 1 레벨 차이마다 25%씩 더해집니다."
 
 #~ msgid "The Battle for Wesnoth Help"
-#~ msgstr "Battle for Wesnoth 도움말"
+#~ msgstr "Battle for 웨스노스(Wesnoth) 도움말"
 
 #, fuzzy
 #~| msgid " green if it hasn’t moved this turn,"

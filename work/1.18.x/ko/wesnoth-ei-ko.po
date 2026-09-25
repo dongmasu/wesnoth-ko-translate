@@ -12418,10 +12418,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "To the northern outpost he sent Owaec, a clan noble. To the southern "
 #~ "outpost, he sent Gweddry, who would be accompanied by Dacyn the mage. Our "
 #~ "story begins there."
-#~ msgstr ""
-#~ "북쪽의 전초 기지에는 기마 일족의 귀족인 Owaec을 보내었다. 남쪽의 전초 기지"
-#~ "에는 Gweddry와 함께 마법사 Dacyn을 파견하였다. 이 이야기는 이들을 따라 전"
-#~ "개된다."
+#~ msgstr "북쪽의 전초 기지에는 기마 일족의 귀족인 오와에크(Owaec)을 보내었다. 남쪽의 전초 기지에는 궤드리(Gweddry)와 함께 마법사 다신(Dacyn)을 파견하였다. 이 이야기는 이들을 따라 전개된다."
 
 #~ msgid "Mal-Uldhar"
 #~ msgstr "Mal-Uldhar"
@@ -12440,11 +12437,11 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #, fuzzy
 #~| msgid "What?! Men, to arms! And where did Dacyn go?!"
 #~ msgid "What?! We must hold the outpost! And where did Dacyn go?!"
-#~ msgstr "뭐야?! 제군, 전투 준비! 이 상황에 Dacyn은 어딜 간거야?!"
+#~ msgstr "뭐야?! 제군, 전투 준비! 이 상황에 다신(Dacyn)은 어딜 간거야?!"
 
 #~ msgid ""
 #~ "Gweddry? Good! You are still alive. Quickly, we must leave this place!"
-#~ msgstr "Gweddry? 잘됐군! 아직 살아있구만. 서두르게, 여기서 벗어나야 하네!"
+#~ msgstr "궤드리(Gweddry)? 잘됐군! 아직 살아있구만. 서두르게, 여기서 벗어나야 하네!"
 
 #~ msgid "Where did you go?! And where did you come from?"
 #~ msgstr "어디 계셨던 겁니까?! 그리고 어디서 나오신겁니까?"
@@ -12460,7 +12457,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "여길 지키려 드는 건 무의미해. 자, 어서 가세, 더는 지체할 시간이 없네!"
 
 #~ msgid "Move Gweddry to the trapdoor"
-#~ msgstr "Gweddry를 낙하문으로 이동시킬 것"
+#~ msgstr "궤드리(Gweddry)를 낙하문으로 이동시킬 것"
 
 #~ msgid "Follow me, men! Through the trapdoor!"
 #~ msgstr "나를 따르라, 제군들! "
@@ -12505,10 +12502,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "We are in the middle of the eastern mountains, in a mountain pass leading "
 #~ "east and west. We need to head north, but we cannot go through the "
 #~ "mountains... we must go east, or west, and hope we can get around them."
-#~ msgstr ""
-#~ "우리는 동부 산악지대의 중심부에 있는 동서를 잇는 산길에 있네. 우르는 북쪽"
-#~ "으로 가서 Owaec과 합류해야 하네만, 산악을 가로지를 순 없지... 우린 동쪽이"
-#~ "나 서쪽으로 가서 돌아갈 수 있길 바라는 수밖에 없네."
+#~ msgstr "우리는 동부 산악지대의 중심부에 있는 동서를 잇는 산길에 있네. 우르는 북쪽으로 가서 오와에크(Owaec)과 합류해야 하네만, 산악을 가로지를 순 없지... 우린 동쪽이나 서쪽으로 가서 돌아갈 수 있길 바라는 수밖에 없네."
 
 #~ msgid "Hahaha! We have you surrounded!"
 #~ msgstr "하하하! 너희는 포위됐다!"
@@ -12540,12 +12534,10 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "Indeed, I see no better option. Then, we must kill either of the dark "
 #~ "sorcerers. I would prefer to attack the western one, so we can return to "
 #~ "Wesnoth."
-#~ msgstr ""
-#~ "좋은 생각이네. 그리고 우린 흑마법사들 중에 한쪽을 죽여야 하네. 나는 서쪽"
-#~ "을 공격하는 쪽을 추천하네. 그러면 우린 Wesnoth에 좀더 가까워질 수 있겠지."
+#~ msgstr "좋은 생각이네. 그리고 우린 흑마법사들 중에 한쪽을 죽여야 하네. 나는 서쪽을 공격하는 쪽을 추천하네. 그러면 우린 웨스노스(Wesnoth)에 좀더 가까워질 수 있겠지."
 
 #~ msgid "No! You have defeated me, and can re-enter Wesnoth!"
-#~ msgstr "안돼! 너희는 날 무찔렀으니, 다시 Wesnoth로 갈 수 있겠구나!"
+#~ msgstr "안돼! 너희는 날 무찔렀으니, 다시 웨스노스(Wesnoth)로 갈 수 있겠구나!"
 
 #, fuzzy
 #~| msgid ""
@@ -12557,11 +12549,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "But Gweddry and Dacyn were to find no respite within the borders of "
 #~ "Wesnoth. They marched out of the foothills of the Estmarks into an "
 #~ "unknown forest..."
-#~ msgstr ""
-#~ "하지만 Gweddry와 Dacyn은 탈출 통로가 막힌 상태로 Wesnoth로 다시 돌아가는 "
-#~ "일이 쉬운 일이 아님을 알게 되었다. 그들은 샛자리의 구릉지에서 나와서 "
-#~ "Wesnoth인들이 전에 가 본적이 없는 방향, 즉 한강의 바로 남쪽에 있는 숲지대"
-#~ "로 들어섰다."
+#~ msgstr "하지만 궤드리(Gweddry)와 다신(Dacyn)은 탈출 통로가 막힌 상태로 웨스노스(Wesnoth)로 다시 돌아가는 일이 쉬운 일이 아님을 알게 되었다. 그들은 샛자리의 구릉지에서 나와서 웨스노스(Wesnoth)인들이 전에 가 본적이 없는 방향, 즉 한강의 바로 남쪽에 있는 숲지대로 들어섰다."
 
 #~ msgid "Allies"
 #~ msgstr "동맹"
@@ -12676,7 +12664,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "이 없게 조심해야겠어."
 
 #~ msgid "Hahaha! Nafga will kill the elves!"
-#~ msgstr "하하하! Nafga가 엘프들을 죽일 거다!"
+#~ msgstr "하하하! 나프가(Nafga)가 엘프들을 죽일 거다!"
 
 #~ msgid ""
 #~ "My assassin is dead! The elves must pay, not for his death, but for "
@@ -12717,9 +12705,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgid ""
 #~ "Now that we are free of the mountain range the path northwards is clear. "
 #~ "Let us go north and try to reach Owaec at the outpost."
-#~ msgstr ""
-#~ "이제 산의 영역에서 벗어났다. 북쪽으로 가는 길이 열렸네. 이제 북쪽으로 가"
-#~ "서 전진 기지의 Owaec을 만나세."
+#~ msgstr "이제 산의 영역에서 벗어났다. 북쪽으로 가는 길이 열렸네. 이제 북쪽으로 가서 전진 기지의 오와에크(Owaec)을 만나세."
 
 #, fuzzy
 #~| msgid ""
@@ -12730,11 +12716,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgid ""
 #~ "Wait. I am not sure that is the best option. If we go east now, we may be "
 #~ "able to find the lich who attacked us and destroy him. He must be nearby."
-#~ msgstr ""
-#~ "잠시만요. 그게 최선의 방책인지 좀 의문이 드는군요. 여기서 동쪽으로 가면, "
-#~ "우리를 공격해 온 리치 Mal-Ravanal을 찾아내서, 놈이 Wesnoth를 다시 공격하"
-#~ "기 전에 놈을 끝장낼 수 있을지 모릅니다. 우리가 탈출하고 나서 놈이 우리를 "
-#~ "찾아서 동쪽으로 돌아와 있을 것 같군요."
+#~ msgstr "잠시만요. 그게 최선의 방책인지 좀 의문이 드는군요. 여기서 동쪽으로 가면, 우리를 공격해 온 리치 말 라바날(Mal-Ravanal)을 찾아내서, 놈이 웨스노스(Wesnoth)를 다시 공격하기 전에 놈을 끝장낼 수 있을지 모릅니다. 우리가 탈출하고 나서 놈이 우리를 찾아서 동쪽으로 돌아와 있을 것 같군요."
 
 #~ msgid ""
 #~ "They run from me! Still, it will not help them, the border patrol will "
@@ -12771,9 +12753,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~| "You are right. It is foolish to go onward — we must defeat Mal-Skraat "
 #~| "and turn back, going to the Northern Outpost."
 #~ msgid "You are right. It is foolish to go onward — we will turn back."
-#~ msgstr ""
-#~ "당신의 말이 맞습니다. 더 가는건 어리석은 짓이죠. 우린 Mal-Skraat를 쳐부수"
-#~ "고 돌아가서 북쪽 전초기지로 가야합니다."
+#~ msgstr "당신의 말이 맞습니다. 더 가는건 어리석은 짓이죠. 우린 말 스크라트(Mal-Skraat)를 쳐부수고 돌아가서 북쪽 전초기지로 가야합니다."
 
 #~ msgid "Good! If I defeat them, I can become a lich!"
 #~ msgstr "좋아! 내가 놈들을 쳐부수면 난 리치가 될 수 있어!"
@@ -12792,15 +12772,12 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgid ""
 #~ "We cannot spend any more time attempting to defeat Mal-Skraat. Like it or "
 #~ "not, we must go further into these undead lands."
-#~ msgstr ""
-#~ "Mal-Skraat을 쳐부수려 하기엔 시간이 모자란다. 좋든 싫든, 이젠 언데드의 땅"
-#~ "으로 더 깊이 들어가야 해."
+#~ msgstr "말 스크라트(Mal-Skraat)을 쳐부수려 하기엔 시간이 모자란다. 좋든 싫든, 이젠 언데드의 땅으로 더 깊이 들어가야 해."
 
 #~ msgid ""
 #~ "Noo!! He will reach Mal-Ravanal’s capital, and I shall be punished for "
 #~ "letting him escape!"
-#~ msgstr ""
-#~ "안돼!! 놈이 Mal-Ravanal의 수도로 가면, 놈을 놓친 나는 처벌을 받을 거야!"
+#~ msgstr "안돼!! 놈이 말 라바날(Mal-Ravanal)의 수도로 가면, 놈을 놓친 나는 처벌을 받을 거야!"
 
 #~ msgid "Mal-Galkar"
 #~ msgstr "Mal-Galkar"
@@ -12814,10 +12791,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "Yes, but look! The undead forces are closing in behind us. As I said "
 #~ "before we cannot kill Mal-Ravanal. It was foolish to come this far; we "
 #~ "must turn back!"
-#~ msgstr ""
-#~ "그렇네, 하지만 저길 보게! 언데드의 군세가 우리 뒤에 바짝 따라붙어 있네. 전"
-#~ "에도 말했지만, 우린 Mal-Ravanal을 죽일 수가 없어. 이렇게나 깊이 들어온 건 "
-#~ "어리석은 짓이었네. 우린 돌아가야 해!"
+#~ msgstr "그렇네, 하지만 저길 보게! 언데드의 군세가 우리 뒤에 바짝 따라붙어 있네. 전에도 말했지만, 우린 말 라바날(Mal-Ravanal)을 죽일 수가 없어. 이렇게나 깊이 들어온 건 어리석은 짓이었네. 우린 돌아가야 해!"
 
 #, fuzzy
 #~| msgid ""
@@ -12827,10 +12801,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgid ""
 #~ "Perhaps. To retreat, we must kill one of these dark sorcerers that follow "
 #~ "us. But, perhaps we can kill this Mal-Ravanal. I might wish to try."
-#~ msgstr ""
-#~ "그럴지도 모르죠. 후퇴하려면 먼저 우릴 따라 온 흑마법사 중 하나를 반드시 죽"
-#~ "여야 합니다. 그래도 어쩌면 우리가 이 Mal-Ravanal을 처치할 수 있을지도 모르"
-#~ "고요. 시도는 해 보고 싶군요."
+#~ msgstr "그럴지도 모르죠. 후퇴하려면 먼저 우릴 따라 온 흑마법사 중 하나를 반드시 죽여야 합니다. 그래도 어쩌면 우리가 이 말 라바날(Mal-Ravanal)을 처치할 수 있을지도 모르고요. 시도는 해 보고 싶군요."
 
 #~ msgid ""
 #~ "These humans have dared foolishly to come this far into my land. Crush "
@@ -12867,9 +12838,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgid ""
 #~ "Greetings, Owaec! We have been forced from our positions by undead "
 #~ "invaders. They follow us even now."
-#~ msgstr ""
-#~ "안녕하시오, Owaec! 우리는 언데드 침공군 때문에 위치에서 밀려났소. 놈들은 "
-#~ "지금도 우릴 쫓고 있소."
+#~ msgstr "안녕하시오, 오와에크(Owaec)! 우리는 언데드 침공군 때문에 위치에서 밀려났소. 놈들은 지금도 우릴 쫓고 있소."
 
 #, fuzzy
 #~| msgid ""
@@ -12896,11 +12865,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "However, if we can drive these bandits out, will you organize the "
 #~ "villagers to flee to the west? There they may survive for a time. But "
 #~ "soon nowhere in Wesnoth will be safe."
-#~ msgstr ""
-#~ "이 마을을 지키려는 건 어리석은 생각이네. 여기 있는 모든 사람들은 죽을 거"
-#~ "야. 그래도 우리가 여기의 도적들을 몰아내면, 마을 사람들을 전부 모아서 북방"
-#~ "지역으로 함께 갈 수 있겠지. 그곳이라면 살아남을 수 있네. 하지만 Wesnoth는 "
-#~ "더 이상 안전하지 않아."
+#~ msgstr "이 마을을 지키려는 건 어리석은 생각이네. 여기 있는 모든 사람들은 죽을 거야. 그래도 우리가 여기의 도적들을 몰아내면, 마을 사람들을 전부 모아서 북방지역으로 함께 갈 수 있겠지. 그곳이라면 살아남을 수 있네. 하지만 웨스노스(Wesnoth)는 더 이상 안전하지 않아."
 
 #~ msgid ""
 #~ "Go, go far from here! But me and my kind will chase you, and kill you!"
@@ -12977,12 +12942,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "Northlands. The westward road will keep us inside the realm of Wesnoth, "
 #~ "for a time, before we reach another river crossing north of Glyn’s "
 #~ "Forest. If we travel west we will not have to fight orcs immediately."
-#~ msgstr ""
-#~ "이제 우리는 일족의 땅에 와 있소. 이쪽은 내가 잘 알지. 북쪽으로 가는 길은 "
-#~ "곧장 한강으로 통하오. 그곳을 건너면 오크들의 고향인 북방지역이 나오지. 서"
-#~ "쪽 길은 한동안 Wesnoth의 땅을 지나가게 되오. 그리고 잠시 뒤면 Glyn 숲 북쪽"
-#~ "에 있는 또다른 도하점이 나오지. 만일 그 쪽으로 간다면 오크들과 직접 싸우"
-#~ "게 될 일은 없소."
+#~ msgstr "이제 우리는 일족의 땅에 와 있소. 이쪽은 내가 잘 알지. 북쪽으로 가는 길은 곧장 한강으로 통하오. 그곳을 건너면 오크들의 고향인 북방지역이 나오지. 서쪽 길은 한동안 웨스노스(Wesnoth)의 땅을 지나가게 되오. 그리고 잠시 뒤면 Glyn 숲 북쪽에 있는 또다른 도하점이 나오지. 만일 그 쪽으로 간다면 오크들과 직접 싸우게 될 일은 없소."
 
 #, fuzzy
 #~| msgid ""
@@ -13042,7 +13002,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #, fuzzy
 #~| msgid "Get Gweddry and Owaec across the river"
 #~ msgid "Move Gweddry, Owaec, and Dacyn across the river"
-#~ msgstr "Gweddry와 Owaec을 강 건너로 보낼 것"
+#~ msgstr "궤드리(Gweddry)와 오와에크(Owaec)을 강 건너로 보낼 것"
 
 #, fuzzy
 #~| msgid ""
@@ -13084,7 +13044,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "니다."
 
 #~ msgid "Grug say we no help you! We finish must battle orc with!"
-#~ msgstr "Grug는 너희 안 돕는다고 말해! 우린 오크와 싸움을 끝내야해!"
+#~ msgstr "그루그(Grug)는 너희 안 돕는다고 말해! 우린 오크와 싸움을 끝내야해!"
 
 #~ msgid ""
 #~ "Was that comprehensible to anyone? Silence, foolish ogre. I will deal "
@@ -13116,7 +13076,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #, fuzzy
 #~| msgid "Grug say join you will he."
 #~ msgid "Grug say join you will he. Gork and Drog too."
-#~ msgstr "Grug는 너희에게 할 함께하는 그가 하고 말해."
+#~ msgstr "그루그(Grug)는 너희에게 할 함께하는 그가 하고 말해."
 
 #~ msgid "Gork"
 #~ msgstr "고크"
@@ -13217,7 +13177,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #, fuzzy
 #~| msgid "Move Gweddry to the trapdoor"
 #~ msgid "The stronghold"
-#~ msgstr "Gweddry를 낙하문으로 이동시킬 것"
+#~ msgstr "궤드리(Gweddry)를 낙하문으로 이동시킬 것"
 
 #, fuzzy
 #~| msgid ""
@@ -13243,9 +13203,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgid ""
 #~ "After reaching what they believed was safety, Gweddry and his men had "
 #~ "been captured by trolls from the northern orcish tribes."
-#~ msgstr ""
-#~ "그들이 안전하다고 믿은 곳에 도착한 뒤, Gweddry와 부하들은 북방의 오크들에"
-#~ "게 포획되었다."
+#~ msgstr "그들이 안전하다고 믿은 곳에 도착한 뒤, 궤드리(Gweddry)와 부하들은 북방의 오크들에게 포획되었다."
 
 #~ msgid "Unhk"
 #~ msgstr "Unhk"
@@ -13340,10 +13298,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgid ""
 #~ "Well, we didn’t have to blow up the bridge after all. Now we must return "
 #~ "to save Wesnoth."
-#~ msgstr ""
-#~ "뭐, 다리를 날려버릴 필요는 없었지만, 그래도 어쨌든 우린 북방 지역을 떠나"
-#~ "야 해. 더 많은 오크들이 오고 있다. 하지만 어디로 가지? Wesnoth에는 언데드"
-#~ "들이 있는데."
+#~ msgstr "뭐, 다리를 날려버릴 필요는 없었지만, 그래도 어쨌든 우린 북방 지역을 떠나야 해. 더 많은 오크들이 오고 있다. 하지만 어디로 가지? 웨스노스(Wesnoth)에는 언데드들이 있는데."
 
 #, fuzzy
 #~| msgid "So what do you propose?"
@@ -13390,18 +13345,15 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "of Haldric, living in the Northern Mountains. But he radiates a dark "
 #~ "power these days, and I know not why he has taken up residence this far "
 #~ "south. We must find him, and pray that he still has the Null Stone."
-#~ msgstr ""
-#~ "나도 모르겠군. 내 추측으로는 드래곤 Khrakrahs가 아닌가 싶네. 놈은 Haldric"
-#~ "의 시대에 북부 산맥에 살던 정말로 강력한 괴수였지. 하지만 놈이 살아있는 것"
-#~ "처럼 보이진 않는군. 무슨 일이 있었는지는 몰라도 우린 놈을 무찔러야 하네."
+#~ msgstr "나도 모르겠군. 내 추측으로는 드래곤 크라크라스(Khrakrahs)가 아닌가 싶네. 놈은 할드릭(Haldric)의 시대에 북부 산맥에 살던 정말로 강력한 괴수였지. 하지만 놈이 살아있는 것처럼 보이진 않는군. 무슨 일이 있었는지는 몰라도 우린 놈을 무찔러야 하네."
 
 #~ msgid "Approaching Weldyn"
-#~ msgstr "Weldyn으로"
+#~ msgstr "웰딘(Weldyn)으로"
 
 #, fuzzy
 #~| msgid "Get Gweddry to Weldyn"
 #~ msgid "Move Gweddry to Weldyn castle"
-#~ msgstr "Gweddry를 Weldyn으로 이동시킬 것"
+#~ msgstr "궤드리(Gweddry)를 웰딘(Weldyn)으로 이동시킬 것"
 
 #, fuzzy
 #~| msgid ""
@@ -13410,9 +13362,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgid ""
 #~ "We have finally reached Weldyn, but it seems the undead have it "
 #~ "surrounded. We must break through to reach the King!"
-#~ msgstr ""
-#~ "드디어 Weldyn에 도착했다. 하지만 언데드들이 저곳을 포위하고 있어. 우린 반"
-#~ "드시 포위를 뚫고 전하께 가야 한다!"
+#~ msgstr "드디어 웰딘(Weldyn)에 도착했다. 하지만 언데드들이 저곳을 포위하고 있어. 우린 반드시 포위를 뚫고 전하께 가야 한다!"
 
 #, fuzzy
 #~| msgid ""
@@ -13427,7 +13377,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "곧장 도시로 가게."
 
 #~ msgid "Weldyn has been captured, and Wesnoth is no more..."
-#~ msgstr "Weldyn이 점령당했다. 이제 Wesnoth는 존재하지 않아..."
+#~ msgstr "웰딘(Weldyn)이 점령당했다. 이제 웨스노스(Wesnoth)는 존재하지 않아..."
 
 #~ msgid "The Council"
 #~ msgstr "의회 소집"
@@ -13441,10 +13391,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "Before we begin our council, I must tell you all the history of this lich "
 #~ "we face. He was at first a mage of the realm, like me, and his fall began "
 #~ "during the reign of Haldric VII..."
-#~ msgstr ""
-#~ "회의를 시작하기 전에, 우리가 상대하는 리치의 과거에 대해 먼저 얘기해야겠습"
-#~ "니다. 그는 원래 저와 같은 빛의 마법사였는데, Haldric 7세의 치세때 타락하"
-#~ "기 시작했습니다..."
+#~ msgstr "회의를 시작하기 전에, 우리가 상대하는 리치의 과거에 대해 먼저 얘기해야겠습니다. 그는 원래 저와 같은 빛의 마법사였는데, 할드릭(Haldric) 7세의 치세때 타락하기 시작했습니다..."
 
 #, fuzzy
 #~| msgid ""
@@ -13497,11 +13444,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "see me and the guards let him in, for then he was still a well-respected "
 #~ "mage. When I greeted him, he named himself Mal-Ravanal and challenged me "
 #~ "to a duel."
-#~ msgstr ""
-#~ "어느날, 그는 자신을 위장하고는 내가 머무르고 있던 성을 찾아왔습니다. 그는 "
-#~ "나를 만나고자 했고, 경비들은 그를 들여보냈지요. 그때까진 그는 존경받는 궁"
-#~ "정의 일원이었으니까요. 내가 나가자 그는 자신을 드러내고 그 자신을 Mal-"
-#~ "Ravanal이라 칭하고는, 나에게 결투를 청했습니다."
+#~ msgstr "어느날, 그는 자신을 위장하고는 내가 머무르고 있던 성을 찾아왔습니다. 그는 나를 만나고자 했고, 경비들은 그를 들여보냈지요. 그때까진 그는 존경받는 궁정의 일원이었으니까요. 내가 나가자 그는 자신을 드러내고 그 자신을 말 라바날(Mal-Ravanal)이라 칭하고는, 나에게 결투를 청했습니다."
 
 #~ msgid "Kaldor"
 #~ msgstr "Kaldor"
@@ -13509,9 +13452,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgid ""
 #~ "We must fight, obviously. Surely the might of Wesnoth can triumph over a "
 #~ "mere lich!"
-#~ msgstr ""
-#~ "당연히 싸워야 합니다. 단순한 리치 따위가 Wesnoth의 힘을 능가할 순 없습니"
-#~ "다!"
+#~ msgstr "당연히 싸워야 합니다. 단순한 리치 따위가 웨스노스(Wesnoth)의 힘을 능가할 순 없습니다!"
 
 #, fuzzy
 #~| msgid ""
@@ -13531,13 +13472,13 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgstr "뭐, 이걸로 우리 회의는 끝난 것 같군요. 싸우러 갑시다!"
 
 #~ msgid "Weldyn under Attack"
-#~ msgstr "Weldyn 공방전"
+#~ msgstr "웰딘(Weldyn) 공방전"
 
 #~ msgid "Mal-Grekulak"
 #~ msgstr "Mal-Grekulak"
 
 #~ msgid "Very well. But this... Mal-Ravanal, that you spoke of, is he here?"
-#~ msgstr "좋네. 하지만 저... 자네들이 말하는 Mal-Ravanal, 놈이 여기 있는가?"
+#~ msgstr "좋네. 하지만 저... 자네들이 말하는 말 라바날(Mal-Ravanal), 놈이 여기 있는가?"
 
 #, fuzzy
 #~| msgid "I do not sense his magic, but he might be concealing his presence."
@@ -13567,7 +13508,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #, fuzzy
 #~| msgid "Defeat Mal-Ravanal"
 #~ msgid "Defeat Mal-Ravanal while Dacyn is nearby"
-#~ msgstr "Mal-Ravanal을 격파하라"
+#~ msgstr "말 라바날(Mal-Ravanal)을 격파하라"
 
 #, fuzzy
 #~| msgid ""
@@ -13576,13 +13517,13 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgid ""
 #~ "I have waited a long time for this day to come. I shall have my revenge, "
 #~ "Dacyn!"
-#~ msgstr "이 날이 오기를 오랫동안 기다려왔다. 죽어라, Wesnoth의 Gweddry!"
+#~ msgstr "이 날이 오기를 오랫동안 기다려왔다. 죽어라, 웨스노스(Wesnoth)의 궤드리(Gweddry)!"
 
 #~ msgid "Weldyn Besieged"
-#~ msgstr "Weldyn 포위전"
+#~ msgstr "웰딘(Weldyn) 포위전"
 
 #~ msgid "Death of Konrad"
-#~ msgstr "Konrad의 사망"
+#~ msgstr "콘라드(Konrad)의 사망"
 
 #, fuzzy
 #~| msgid "Letting any enemy unit on to your keep"
@@ -13595,12 +13536,10 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgid ""
 #~ "They killed the royal family... now, even if we save Weldyn, Wesnoth has "
 #~ "fallen."
-#~ msgstr ""
-#~ "놈들이 왕을 죽였다... 이제 우리가 Weldyn을 지켜낸다 해도 Wesnoth는 끝장이"
-#~ "야."
+#~ msgstr "놈들이 왕을 죽였다... 이제 우리가 웰딘(Weldyn)을 지켜낸다 해도 웨스노스(Wesnoth)는 끝장이야."
 
 #~ msgid "The Kingdom of Wesnoth dies with me!"
-#~ msgstr "Wesnoth 왕국은 나와 함께 끝나는구나!"
+#~ msgstr "웨스노스(Wesnoth) 왕국은 나와 함께 끝나는구나!"
 
 #, fuzzy
 #~| msgid ""
@@ -13609,9 +13548,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgid ""
 #~ "It is a great victory we have won here today, vanquishing the arch-lich "
 #~ "Mal-Ravanal."
-#~ msgstr ""
-#~ "우리는 이곳에서 큰 승리를 거두고 Wesnoth의 혼란을 가져온 장본인을 무찔렀"
-#~ "다."
+#~ msgstr "우리는 이곳에서 큰 승리를 거두고 웨스노스(Wesnoth)의 혼란을 가져온 장본인을 무찔렀다."
 
 #~ msgid ""
 #~ "We will be years... perhaps decades... recovering from the ill he has "
@@ -13639,16 +13576,13 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "Dacyn. I would have you remain by Our side, here; as you counseled these "
 #~ "two in war, so shall you counsel Us in peace and the rebuilding of the "
 #~ "Kingdom."
-#~ msgstr ""
-#~ "Dacyn. 그대는 우리의 곁에, 이곳에 남아있게 될 것이다. 전쟁에서 그대가 이"
-#~ "들 둘에게 조언을 해 주었듯이, 왕국의 평화와 재건을 위해 우리에게 조언을 "
-#~ "해 주어야 하네."
+#~ msgstr "다신(Dacyn). 그대는 우리의 곁에, 이곳에 남아있게 될 것이다. 전쟁에서 그대가 이들 둘에게 조언을 해 주었듯이, 왕국의 평화와 재건을 위해 우리에게 조언을 해 주어야 하네."
 
 #~ msgid "Sire, we but did our duty."
 #~ msgstr "전하, 우리는 그저 할 일을 했을 뿐입니다."
 
 #~ msgid "Kneel, Gweddry."
-#~ msgstr "무릎을 꿇게, Gweddry."
+#~ msgstr "무릎을 꿇게, 궤드리(Gweddry)."
 
 #, fuzzy
 #~| msgid ""
@@ -13657,9 +13591,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgid ""
 #~ "And so began the Silver Age of Wesnoth, that time known to historians as "
 #~ "the Reconstruction..."
-#~ msgstr ""
-#~ "이러한 말과 행동들을 통해 Wesnoth의 백은 시대, 역사가들에게 재건의 시대로 "
-#~ "기억된 시대가 시작되었다..."
+#~ msgstr "이러한 말과 행동들을 통해 웨스노스(Wesnoth)의 백은 시대, 역사가들에게 재건의 시대로 기억된 시대가 시작되었다..."
 
 #~ msgid "Mounted Fighter"
 #~ msgstr "기마 투사"
@@ -13710,7 +13642,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #, fuzzy
 #~| msgid "Gweddry reaches the end of the tunnel"
 #~ msgid "Gweddry reaches the western exit"
-#~ msgstr "Gweddry가 터널의 끝자락에 도착한다"
+#~ msgstr "궤드리(Gweddry)가 터널의 끝자락에 도착한다"
 
 #~ msgid "Very well. The best of luck in your battle."
 #~ msgstr "좋소. 당신의 싸움에 행운이 깃들기를."
@@ -13766,9 +13698,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgid ""
 #~ "Somewhere south of us, but we’d best avoid the chamber we just came from. "
 #~ "Oh, and some others escaped too, along with Owaec."
-#~ msgstr ""
-#~ "우리 남쪽의 어딘가일세. 우리는 북쪽에 있는 숨겨진 통로에 있지. 아, 그리고 "
-#~ "Owaec과 함께 다른 몇몇도 탈출했다네."
+#~ msgstr "우리 남쪽의 어딘가일세. 우리는 북쪽에 있는 숨겨진 통로에 있지. 아, 그리고 오와에크(Owaec)과 함께 다른 몇몇도 탈출했다네."
 
 #~ msgid "Well, where’s their leader? I don’t see him."
 #~ msgstr "흠, 놈들의 대장은 어디 있나? 안보이는데."
@@ -13805,10 +13735,10 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgstr "그렇군. 다른 길로 나가야겠군."
 
 #~ msgid "Resist until Dacyn’s return tomorrow night"
-#~ msgstr "Dacyn이 다음날 밤에 돌아올 때까지 버틸 것"
+#~ msgstr "다신(Dacyn)이 다음날 밤에 돌아올 때까지 버틸 것"
 
 #~ msgid "Resist until Dacyn’s return in two days"
-#~ msgstr "Dacyn이 이틀 뒤에 돌아올 때까지 버틸 것"
+#~ msgstr "다신(Dacyn)이 이틀 뒤에 돌아올 때까지 버틸 것"
 
 #~ msgid ""
 #~ "Look. To the east. Undead approach! But wait... I sense something... They "
@@ -13841,9 +13771,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgid ""
 #~ "But... somehow, I do not think Dacyn has abandoned us. He must have had a "
 #~ "reason for leaving."
-#~ msgstr ""
-#~ "하지만... 어쩐지 Dacyn이 우릴 버린 건 아니라는 생각이 드는군. 그가 사라진 "
-#~ "데는 이유가 있을거야."
+#~ msgstr "하지만... 어쩐지 다신(Dacyn)이 우릴 버린 건 아니라는 생각이 드는군. 그가 사라진 데는 이유가 있을거야."
 
 #~ msgid ""
 #~ "Hurry! Before long enemy reinforcements will arrive, and we will all die! "
@@ -13860,10 +13788,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgid ""
 #~ "It doesn’t matter. They are much too powerful for us; our only hope is to "
 #~ "get away, far away. Perhaps we should go north, and meet with Owaec."
-#~ msgstr ""
-#~ "그건 중요한 게 아니야. 놈들은 우리가 상대하기엔 너무나 강대하네. 우리의 유"
-#~ "일한 희망은 최대한 멀리 여기서 벗어나는 거야. 어쩌면 북쪽으로 가서 Owaec"
-#~ "을 만나야 할지도."
+#~ msgstr "그건 중요한 게 아니야. 놈들은 우리가 상대하기엔 너무나 강대하네. 우리의 유일한 희망은 최대한 멀리 여기서 벗어나는 거야. 어쩌면 북쪽으로 가서 오와에크(Owaec)을 만나야 할지도."
 
 #~ msgid ""
 #~ "There are five of us still locked up in the jail. All of us will join you "
@@ -13879,9 +13804,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "This is not good; we are unable to attack Mal-Ravanal at all, for his "
 #~ "magic is too strong! We must turn back, it was foolish to press the "
 #~ "attack."
-#~ msgstr ""
-#~ "이건 좋지 않군. Mal-Ravanal의 마법이 너무 강해서 우린 아예 놈을 공격할 수"
-#~ "도 없어! 돌아가야 해, 공격을 감행한 것은 어리석은 짓이었어."
+#~ msgstr "이건 좋지 않군. 말 라바날(Mal-Ravanal)의 마법이 너무 강해서 우린 아예 놈을 공격할 수도 없어! 돌아가야 해, 공격을 감행한 것은 어리석은 짓이었어."
 
 #~ msgid ""
 #~ "I am not sure. There are bandits in this country, and I have been told "
@@ -13965,9 +13888,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgid ""
 #~ "Informed they were being taken to the orcish king, Dra-Nak, they "
 #~ "attempted to escape before that happened..."
-#~ msgstr ""
-#~ "그들이 오크의 왕 Dra-Nak에게 끌려갈 것을 알게되자, 그들은 그 전에 탈출을 "
-#~ "시도했다..."
+#~ msgstr "그들이 오크의 왕 족장(Dra-Nak)에게 끌려갈 것을 알게되자, 그들은 그 전에 탈출을 시도했다..."
 
 #~ msgid "Escape through the south-west tunnel"
 #~ msgstr "남서쪽 터널을 통해 탈출하라"
@@ -13975,9 +13896,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgid ""
 #~ "I think Dacyn and Owaec have escaped already. Now I have to, also... "
 #~ "these guards are not being very alert, I may be able to get past them..."
-#~ msgstr ""
-#~ "Dacyn과 Owaec은 벌써 탈출했다고 생각된다. 이제 나도 가야해... 이 경비들은 "
-#~ "별로 경계를 하고 있지 않은 것 같으니, 놈들을 지나갈 수 있을거다..."
+#~ msgstr "다신(Dacyn)과 오와에크(Owaec)은 벌써 탈출했다고 생각된다. 이제 나도 가야해... 이 경비들은 별로 경계를 하고 있지 않은 것 같으니, 놈들을 지나갈 수 있을거다..."
 
 #~ msgid "Aha! There is a small crack in the cave wall here."
 #~ msgstr "아하! 여기 동굴 벽에 조그만 틈이 있군."
@@ -13991,18 +13910,12 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "lies in that direction, and we have no ships. We would survive for a "
 #~ "time, but we would still be in Wesnoth, and the undead would still find "
 #~ "us."
-#~ msgstr ""
-#~ "북쪽에는 언데드들이 있으니 갈 수 없네... 동쪽은 언데드들이 온 곳이니 갈 "
-#~ "수 없지... 서쪽에는 대해가 있고, 우리는 배가 없으니 그쪽으로도 갈 수 없"
-#~ "어. 한동안은 살아남을 수 있겠지만, 우린 Wesnoth를 떠날 수 없으니, 언데드들"
-#~ "은 반드시 우릴 찾아낼 걸세."
+#~ msgstr "북쪽에는 언데드들이 있으니 갈 수 없네... 동쪽은 언데드들이 온 곳이니 갈 수 없지... 서쪽에는 대해가 있고, 우리는 배가 없으니 그쪽으로도 갈 수 없어. 한동안은 살아남을 수 있겠지만, 우린 웨스노스(Wesnoth)를 떠날 수 없으니, 언데드들은 반드시 우릴 찾아낼 걸세."
 
 #~ msgid ""
 #~ "We could go south, and return to Wesnoth... but I do not know what that "
 #~ "would accomplish."
-#~ msgstr ""
-#~ "우린 남쪽으로 향해서, Wesnoth로 돌아갈 수 있습니다... 하지만 그렇게 해서 "
-#~ "얻어지는 게 있는지는 모르겠군요."
+#~ msgstr "우린 남쪽으로 향해서, 웨스노스(Wesnoth)로 돌아갈 수 있습니다... 하지만 그렇게 해서 얻어지는 게 있는지는 모르겠군요."
 
 #~ msgid "It would accomplish nothing! The undead will kill us all!"
 #~ msgstr "그래선 아무것도 안돼! 언데드들이 우릴 전부 죽일거야!"
@@ -14012,28 +13925,18 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "us no matter what we do. Our only hope was to isolate ourselves on the "
 #~ "Isle of Vrug. We are too far away now to return that way, and we have "
 #~ "aroused the orcs. We cannot try that again. So, if we have no hope..."
-#~ msgstr ""
-#~ "당신은 Dacyn이 한 말을 듣지 못한거요? 우리가 뭘 하든 오크들이나 언데드들"
-#~ "이 우릴 죽일거요. 우리의 유일한 희망은 우리를 Vrug 섬에 고립시키는 것이었"
-#~ "소. 이제 그리로 돌아가기엔 우린 너무 멀리 왔고, 게다가 우린 오크들을 자극"
-#~ "시켰소. 그 방법은 다시 시도할 수 없지. 그러니, 우리에게 희망이 없다면..."
+#~ msgstr "당신은 다신(Dacyn)이 한 말을 듣지 못한거요? 우리가 뭘 하든 오크들이나 언데드들이 우릴 죽일거요. 우리의 유일한 희망은 우리를 Vrug 섬에 고립시키는 것이었소. 이제 그리로 돌아가기엔 우린 너무 멀리 왔고, 게다가 우린 오크들을 자극시켰소. 그 방법은 다시 시도할 수 없지. 그러니, 우리에게 희망이 없다면..."
 
 #~ msgid ""
 #~ "There is still some hope left. If we return to Wesnoth, we may be able to "
 #~ "aid the king in defeating these invaders. We saw them attack us. And, I "
 #~ "have... advice. To give the king. I may know the undead’s weakness."
-#~ msgstr ""
-#~ "아직 희망이 남아있긴 하네. 우리가 Wesnoth로 돌아가면 어쩌면 왕을 도와 이 "
-#~ "침략자들을 무찌를 수 있을지 모르네. 우린 놈들이 우릴 공격하는 걸 보았지. "
-#~ "그리고 나는... 뭔가 방도가 있네. 왕에게 조언할 것이 있어. 어쩌면 내가 언데"
-#~ "드들의 약점을 알고 있는지도 모르네."
+#~ msgstr "아직 희망이 남아있긴 하네. 우리가 웨스노스(Wesnoth)로 돌아가면 어쩌면 왕을 도와 이 침략자들을 무찌를 수 있을지 모르네. 우린 놈들이 우릴 공격하는 걸 보았지. 그리고 나는... 뭔가 방도가 있네. 왕에게 조언할 것이 있어. 어쩌면 내가 언데드들의 약점을 알고 있는지도 모르네."
 
 #~ msgid ""
 #~ "Very well. If returning to Wesnoth has any chance of success, it is our "
 #~ "best option. We will go south."
-#~ msgstr ""
-#~ "좋습니다. Wesnoth로 돌아가는 쪽에 성공할 가능성이 있다면, 그게 최선의 선택"
-#~ "이겠죠. 남쪽으로 가자."
+#~ msgstr "좋습니다. 웨스노스(Wesnoth)로 돌아가는 쪽에 성공할 가능성이 있다면, 그게 최선의 선택이겠죠. 남쪽으로 가자."
 
 #~ msgid ""
 #~ "I do not like this. But it appears we will die no matter our course of "
@@ -14054,8 +13957,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgid ""
 #~ "We have reached Weldyn. Now we must have a council to decide what to do "
 #~ "next."
-#~ msgstr ""
-#~ "Weldyn에 도착했다. 이제 의회를 소집해서 다음에 할 일을 결정해야 한다."
+#~ msgstr "웰딘(Weldyn)에 도착했다. 이제 의회를 소집해서 다음에 할 일을 결정해야 한다."
 
 #~ msgid ""
 #~ "The guards, surprised by this sudden revelation, advanced to attack him. "
@@ -14070,27 +13972,19 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "Not been seen, that is, until the day when he attacked Gweddry and me in "
 #~ "that outpost on the eastern border. This is the lich we are facing: Mal-"
 #~ "Ravanal."
-#~ msgstr ""
-#~ "모습을 드러내지 않았다는건, 동쪽 국경의 전초기지에 있던 Gweddry와 나를 공"
-#~ "격하던 그 날까지의 이야기입니다. 이 리치가 우리가 상대하는 자, Mal-Ravanal"
-#~ "입니다."
+#~ msgstr "모습을 드러내지 않았다는건, 동쪽 국경의 전초기지에 있던 궤드리(Gweddry)와 나를 공격하던 그 날까지의 이야기입니다. 이 리치가 우리가 상대하는 자, 말 라바날(Mal-Ravanal)입니다."
 
 #~ msgid ""
 #~ "At first we tried to escape them, for we knew they were too powerful; it "
 #~ "is only by horrible luck that we are back in Wesnoth at all."
-#~ msgstr ""
-#~ "처음 우리가 놈들이 너무나 강대하다는 걸 알았을 땐 도망치려고 했었습니다. "
-#~ "우리가 Wesnoth로 돌아온 건 정말 끔찍한 운 덕이지요."
+#~ msgstr "처음 우리가 놈들이 너무나 강대하다는 걸 알았을 땐 도망치려고 했었습니다. 우리가 웨스노스(Wesnoth)로 돌아온 건 정말 끔찍한 운 덕이지요."
 
 #~ msgid ""
 #~ "It doesn’t matter anyway. The point is, we already know we cannot defeat "
 #~ "the hordes of the enemy head-on in battle. So it seems that the only path "
 #~ "to victory is to destroy the head of these necromancers, the lich Mal-"
 #~ "Ravanal."
-#~ msgstr ""
-#~ "어쨌든 상관없소. 요점은, 우린 이미 적의 무리를 정면으로 상대해서는 이길 "
-#~ "수 없다는 점을 알고 있다는 것이오. 그러니 이길 수 있는 유일한 길로 보이는 "
-#~ "건 저 네크로맨서들의 우두머리인 리치 Mal-Ravanal을 쓰러뜨리는 것 뿐입니다."
+#~ msgstr "어쨌든 상관없소. 요점은, 우린 이미 적의 무리를 정면으로 상대해서는 이길 수 없다는 점을 알고 있다는 것이오. 그러니 이길 수 있는 유일한 길로 보이는 건 저 네크로맨서들의 우두머리인 리치 말 라바날(Mal-Ravanal)을 쓰러뜨리는 것 뿐입니다."
 
 #~ msgid "But as yet we have no idea how to do it!"
 #~ msgstr "하지만 우린 아직까지 어떻게 해야 할지 방법을 모르지 않소!"
@@ -14105,18 +13999,13 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgid ""
 #~ "So maybe we can trick him into exposing himself to us? Dacyn, does he "
 #~ "know we know who he is?"
-#~ msgstr ""
-#~ "그러니까 우리가 놈이 스스로를 드러내도록 유인할 수 있다는 건가? Dacyn, 놈"
-#~ "은 우리가 자기를 안다는 걸 아는가?"
+#~ msgstr "그러니까 우리가 놈이 스스로를 드러내도록 유인할 수 있다는 건가? 다신(Dacyn), 놈은 우리가 자기를 안다는 걸 아는가?"
 
 #~ msgid ""
 #~ "No, I don’t think so. I am the only person alive who would recognize the "
 #~ "name Mal-Ravanal, and if he had known I was there when he attacked, he "
 #~ "would have pursued us much more vigorously."
-#~ msgstr ""
-#~ "아니오, 그럴 것 같지는 않습니다. 나는 Mal-Ravanal이라는 이름을 듣고서 살아"
-#~ "있는 유일한 인물이니, 놈이 공격하던 때 내가 거기 있다는 걸 알았다면 놈은 "
-#~ "우릴 훨씬 맹렬하게 추적했을 겁니다."
+#~ msgstr "아니오, 그럴 것 같지는 않습니다. 나는 말 라바날(Mal-Ravanal)이라는 이름을 듣고서 살아있는 유일한 인물이니, 놈이 공격하던 때 내가 거기 있다는 걸 알았다면 놈은 우릴 훨씬 맹렬하게 추적했을 겁니다."
 
 #~ msgid "Messenger of Doom"
 #~ msgstr "파멸의 전령"
@@ -14138,15 +14027,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "may sing that you defeated my captains, but in reality you did nothing "
 #~ "but cower far behind the lines in safety while others braver than you "
 #~ "fought and died in your name.”</i>"
-#~ msgstr ""
-#~ "그분은 말씀하셨다. <i>\"잘 했다. 너희는 나의 덜 강력한 대장중의 일부를, "
-#~ "내 군대의 조그만 조각을 무찔렀다. 만일 내가 나의 공포의 군단이 가진 모든 "
-#~ "힘을 쏟아붓는다면 너희는 벌레처럼 찌그러질 것이다. 하지만 나는 나 개인이 "
-#~ "가진 진정한 힘을 보여주는 승리를 원한다. 대장군 Gweddry와는 달리 나는 내 "
-#~ "병사들의 갑옷 뒤에 숨지 않는다! 오 사령관 Gweddry여, 너는 겁쟁이다! 시인들"
-#~ "은 네가 나의 대장들을 무찔렀다고 노래하겠지만, 사실 보면 너는 안전한 전선"
-#~ "의 저 뒤편에서 더 용감한 자들이 네 이름 아래 싸우고 죽어가는 동안 아무것"
-#~ "도 하지 않고 겁에 질려 있었을 뿐이다.\"</i>"
+#~ msgstr "그분은 말씀하셨다. <i>\"잘 했다. 너희는 나의 덜 강력한 대장중의 일부를, 내 군대의 조그만 조각을 무찔렀다. 만일 내가 나의 공포의 군단이 가진 모든 힘을 쏟아붓는다면 너희는 벌레처럼 찌그러질 것이다. 하지만 나는 나 개인이 가진 진정한 힘을 보여주는 승리를 원한다. 대장군 궤드리(Gweddry)와는 달리 나는 내 병사들의 갑옷 뒤에 숨지 않는다! 오(O) 사령관 궤드리(Gweddry)여, 너는 겁쟁이다! 시인들은 네가 나의 대장들을 무찔렀다고 노래하겠지만, 사실 보면 너는 안전한 전선의 저 뒤편에서 더 용감한 자들이 네 이름 아래 싸우고 죽어가는 동안 아무것도 하지 않고 겁에 질려 있었을 뿐이다.\"</i>"
 
 #~ msgid ""
 #~ "What is the point of this message? Does it consist of anything more than "
@@ -14158,11 +14039,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "doing the work for you! The mighty Gweddry himself would last but a few "
 #~ "moments in actual combat. And my master seeks to prove this. He "
 #~ "challenges you, Gweddry, to a contest, a battle."
-#~ msgstr ""
-#~ "요점은 내 군주님의 졸개들을 무찌른건 네가 아니라 너를 위해 일해주는 다른 "
-#~ "자들이라는 것이다! 강대한 Gweddry님 자신은 실제 접전에서는 얼마 버티지도 "
-#~ "못할 것이다. 그리고 나의 주인님께서는 그것을 증명하고 싶어하신다. 그분은 "
-#~ "너 Gweddry에게 도전하여 시합을 벌이고자 하신다."
+#~ msgstr "요점은 내 군주님의 졸개들을 무찌른건 네가 아니라 너를 위해 일해주는 다른 자들이라는 것이다! 강대한 궤드리(Gweddry)님 자신은 실제 접전에서는 얼마 버티지도 못할 것이다. 그리고 나의 주인님께서는 그것을 증명하고 싶어하신다. 그분은 너 궤드리(Gweddry)에게 도전하여 시합을 벌이고자 하신다."
 
 #~ msgid ""
 #~ "What are his terms? I won’t accept anything obviously weighted towards "
@@ -14181,9 +14058,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgid ""
 #~ "Gweddry, I don’t think you should accept. He is bound to bring more than "
 #~ "six undead to the battle; he will bring an army!"
-#~ msgstr ""
-#~ "Gweddry, 받아들여서는 안될 것 같소. 놈은 당연히 전투에 언데듣 여섯 이상을 "
-#~ "동원할거요. 놈은 군단을 끌고 올거요!"
+#~ msgstr "궤드리(Gweddry), 받아들여서는 안될 것 같소. 놈은 당연히 전투에 언데듣 여섯 이상을 동원할거요. 놈은 군단을 끌고 올거요!"
 
 #~ msgid ""
 #~ "Well, I think you should accept. There is a small chance that it will be "
@@ -14231,7 +14106,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "각자 이름을 알려주기로 하지."
 
 #~ msgid "Remember, we have to kill Mal-Ravanal. He’s here somewhere..."
-#~ msgstr "기억하게, 우린 Mal-Ravanal을 죽여야 해. 그는 여기 어딘가에 있네..."
+#~ msgstr "기억하게, 우린 말 라바날(Mal-Ravanal)을 죽여야 해. 그는 여기 어딘가에 있네..."
 
 #~ msgid "There he is!"
 #~ msgstr "놈이다!"

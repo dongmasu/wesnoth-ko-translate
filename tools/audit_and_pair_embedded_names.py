@@ -13,6 +13,7 @@ try:
     from tools.merge_reference_translations import (
         is_fuzzy,
         parse_field_values,
+        replacement_lines,
         replace_msgstr_fields,
     )
     from tools.project_config import GLOSSARY, WORK_KO
@@ -21,6 +22,7 @@ except ModuleNotFoundError:
     from merge_reference_translations import (
         is_fuzzy,
         parse_field_values,
+        replacement_lines,
         replace_msgstr_fields,
     )
     from project_config import GLOSSARY, WORK_KO
@@ -155,6 +157,73 @@ def pair_translation(translation: str, pair: NamePair) -> tuple[str, int]:
     return source_pattern.sub(replace_source, updated), changed
 
 
+def obsolete_to_parseable(block: str) -> str:
+    """Remove obsolete prefixes while ignoring gettext's previous-msgid lines."""
+    lines = []
+    for line in block.splitlines():
+        if line.startswith("#~|"):
+            continue
+        if line.startswith("#~ "):
+            lines.append(line[3:])
+    return "\n".join(lines)
+
+
+def obsolete_previous_msgid(block: str) -> str:
+    """Read gettext's previous msgid kept in ``#~|`` comments."""
+    lines = [
+        line[4:]
+        for line in block.splitlines()
+        if line.startswith("#~| ")
+    ]
+    return parse_field_values("\n".join(lines)).get("msgid", "")
+
+
+def replace_obsolete_msgstr_fields(
+    block: str,
+    translations: dict[str, str],
+) -> str:
+    """Replace obsolete msgstr fields without discarding obsolete metadata."""
+    lines = block.splitlines()
+    output: list[str] = []
+    index = 0
+    field_re = re.compile(r"^#~ (msgstr(?:\[\d+\])?)\s+(.+)$")
+    while index < len(lines):
+        line = lines[index]
+        match = field_re.match(line)
+        if not match:
+            output.append(line)
+            index += 1
+            continue
+
+        field = match.group(1)
+        value = translations.get(field)
+        if value is None:
+            output.append(line)
+            index += 1
+            while index < len(lines) and lines[index].startswith("#~ "):
+                continuation = lines[index][3:]
+                if continuation.startswith('"'):
+                    output.append(lines[index])
+                    index += 1
+                else:
+                    break
+            continue
+
+        replacement = replacement_lines(field, value)
+        output.extend(f"#~ {replacement_line}" for replacement_line in replacement)
+        index += 1
+        while index < len(lines):
+            continuation = lines[index]
+            if not continuation.startswith("#~ "):
+                break
+            if continuation[3:].startswith('"'):
+                index += 1
+                continue
+            break
+
+    return "\n".join(output)
+
+
 SOURCE_PATTERNS: dict[str, re.Pattern[str]] = {}
 TRANSLATION_PATTERNS: dict[tuple[str, str], re.Pattern[str]] = {}
 SOURCE_TRANSLATION_PATTERNS: dict[str, re.Pattern[str]] = {}
@@ -171,8 +240,13 @@ def process_file(path: Path, pairs: list[NamePair], apply: bool) -> tuple[int, i
     changed_messages = 0
     unresolved = 0
     for block in blocks:
-        values = parse_field_values(block)
+        obsolete = any(line.startswith("#~") for line in block.splitlines())
+        parseable_block = obsolete_to_parseable(block) if obsolete else block
+        values = parse_field_values(parseable_block)
         source = values.get("msgid", "")
+        pairing_source = source
+        if obsolete:
+            pairing_source += "\n" + obsolete_previous_msgid(block)
         translation = values.get("msgstr")
         if (
             not source
@@ -180,7 +254,7 @@ def process_file(path: Path, pairs: list[NamePair], apply: bool) -> tuple[int, i
             or source.count(",") >= 20
             or "=" in source
             or "{" in source
-            or is_fuzzy(block)
+            or (is_fuzzy(block) and not obsolete)
             or "msgid_plural" in values
         ):
             output.append(block)
@@ -195,7 +269,7 @@ def process_file(path: Path, pairs: list[NamePair], apply: bool) -> tuple[int, i
             pair.source
             for pair in pairs
             if pair.glossary_source == pair.source
-            and source_occurs(pair.source, source)
+            and source_occurs(pair.source, pairing_source)
         }
         whole_components = {
             component
@@ -211,7 +285,7 @@ def process_file(path: Path, pairs: list[NamePair], apply: bool) -> tuple[int, i
                 )
             ):
                 continue
-            if not source_occurs(pair.source, source):
+            if not source_occurs(pair.source, pairing_source):
                 continue
             updated, count = pair_translation(updated, pair)
             message_changes += count
@@ -219,7 +293,11 @@ def process_file(path: Path, pairs: list[NamePair], apply: bool) -> tuple[int, i
                 unresolved += 1
 
         if message_changes and apply:
-            block = replace_msgstr_fields(block, {"msgstr": updated})
+            translations = {"msgstr": updated}
+            if obsolete:
+                block = replace_obsolete_msgstr_fields(block, translations)
+            else:
+                block = replace_msgstr_fields(block, translations)
         if message_changes:
             changed_messages += 1
         output.append(block)

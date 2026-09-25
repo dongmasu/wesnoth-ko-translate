@@ -361,8 +361,9 @@ Codex, Claude, Gemini, Copilot 또는 사람이 작업하더라도 아래 원칙
    PO 파일에서 문자열을 여러 줄로 나눈 것과 실제 `\n`을 혼동하지 않는다.
    용어집 자체는 `python3 tools/audit_glossary.py`로 중복·PO 불일치·
    금지 대안 메모 유입·병기 원문 대응을 별도로 검사한다.
-   `python3 tools/audit_and_pair_embedded_names.py --check`로 긴 문자열의
-   고유명사 병기 누락과 중첩 병기를 검사한다. 병기 실행 후에는
+   `python3 tools/audit_and_pair_embedded_names.py --check`로 활성 및
+   obsolete(`#~`) 긴 문자열의 고유명사 병기 누락과 중첩 병기를 검사한다.
+   obsolete 항목도 삭제하지 않고 같은 표기 규칙으로 정리한다. 병기 실행 후에는
    `python3 tools/sync_glossary_korean.py`로 용어집과 정확한 PO 항목을
    동기화한다.
 8. PO를 MO로 변환하기 전에 테스트, 구조 감사, `msgfmt --check`를 모두

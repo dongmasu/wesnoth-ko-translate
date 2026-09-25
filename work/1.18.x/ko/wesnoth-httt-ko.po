@@ -8133,9 +8133,7 @@ msgstr "델파도르(Delfador)는 웨스노스(Wesnoth) 남서쪽 국경 너머�
 #~ msgid ""
 #~ "I fear so, Konrad. It seems that the orcs have come even here. Here to "
 #~ "the place where I was born, where I was trained."
-#~ msgstr ""
-#~ "그런 것 같아 걱정이군, Konrad. 오크들이 이곳에까지 발을 디딘 것 같다. 내"
-#~ "가 태어나고, 훈련을 받았던 이 장소까지."
+#~ msgstr "그런 것 같아 걱정이군, 콘라드(Konrad). 오크들이 이곳에까지 발을 디딘 것 같다. 내가 태어나고, 훈련을 받았던 이 장소까지."
 
 #, fuzzy
 #~| msgid "(Beginner)"
@@ -8211,7 +8209,7 @@ msgstr "델파도르(Delfador)는 웨스노스(Wesnoth) 남서쪽 국경 너머�
 #~ msgstr "자금은 다음 시나리오로 이월되지 않습니다."
 
 #~ msgid "Troll"
-#~ msgstr "트롤"
+#~ msgstr "트롤(Troll)"
 
 #~ msgid "Goblin Knight"
 #~ msgstr "고블린 나이트"

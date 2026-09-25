@@ -8904,7 +8904,7 @@ msgstr "'[$section|]' 섹션에 필수 키 '$key|'가 설정되지 않았습니�
 #, fuzzy
 #~| msgid "Players:"
 #~ msgid "Player Hosted"
-#~ msgstr "플레이어 수:"
+#~ msgstr "플레이어(Player) 수:"
 
 #, fuzzy
 #~| msgid "Choose Theme"
@@ -8971,7 +8971,7 @@ msgstr "'[$section|]' 섹션에 필수 키 '$key|'가 설정되지 않았습니�
 #~ msgstr "게임 저장"
 
 #~ msgid "Choose Player"
-#~ msgstr "플레이어 선택"
+#~ msgstr "플레이어(Player) 선택"
 
 #~ msgid "Which player should start here?"
 #~ msgstr "어떤 플레이어가 여기서 시작합니까?"
@@ -9066,12 +9066,10 @@ msgstr "'[$section|]' 섹션에 필수 키 '$key|'가 설정되지 않았습니�
 #~ "\n"
 #~ "The Battle for Wesnoth forum can be found at https://forums.wesnoth.org/"
 #~ msgstr ""
-#~ "당신은 공식 멀티플레이 서버에 당신의 포럼 아이디와 암호로 접속할 수 있습니"
-#~ "다.\n"
-#~ "서버에 들어가려고 꼭 가입할 필요는 없습니다. 포럼에 등록된 아이디로 접속할"
-#~ "때 외에는 암호는 필요없습니다.\n"
+#~ "당신은 공식 멀티플레이 서버에 당신의 포럼 아이디와 암호로 접속할 수 있습니다.\n"
+#~ "서버에 들어가려고 꼭 가입할 필요는 없습니다. 포럼에 등록된 아이디로 접속할때 외에는 암호는 필요없습니다.\n"
 #~ "\n"
-#~ "Battle for Wesnoth 포럼 주소는 http://www.wesnoth.org/forum/"
+#~ "Battle for 웨스노스(Wesnoth) 포럼 주소는 http://www.wesnoth.org/forum/"
 
 #, fuzzy
 #~| msgid "Speed: "

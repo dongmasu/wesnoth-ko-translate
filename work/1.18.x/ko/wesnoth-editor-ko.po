@@ -569,7 +569,7 @@ msgstr "선택"
 #~ msgstr "선택 해제"
 
 #~ msgid "Player $player_number"
-#~ msgstr "$player_number 번 플레이어"
+#~ msgstr "$player_number 번 플레이어(Player)"
 
 #~ msgid "Recruit: "
 #~ msgstr "고용리스트:"
@@ -603,12 +603,12 @@ msgstr "선택"
 #~ msgstr "파일이 이미 존재합니다. 덮어 씌우시겠습니까?"
 
 #~ msgid "Player"
-#~ msgstr "플레이어"
+#~ msgstr "플레이어(Player)"
 
 #, fuzzy
 #~| msgid "Battle for Wesnoth Map Editor"
 #~ msgid "The Battle for Wesnoth"
-#~ msgstr "Battle for Wesnoth Map Editor"
+#~ msgstr "Battle for 웨스노스(Wesnoth) Map Editor"
 
 #~ msgid "Edit"
 #~ msgstr "수정"

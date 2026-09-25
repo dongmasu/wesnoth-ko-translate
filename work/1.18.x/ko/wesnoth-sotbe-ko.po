@@ -4526,7 +4526,7 @@ msgstr "큰 무리: 모든 유닛의 유지비가 1 감소합니다."
 #~ msgstr "나이든 오크 샤먼"
 
 #~ msgid "Defeat Ar-Dant"
-#~ msgstr "Ar-Dant를 무찔러라"
+#~ msgstr "아르 단트(Ar-Dant)를 무찔러라"
 
 #, fuzzy
 #~| msgid "Move Kapou’e to the end of the mountains"
@@ -4579,9 +4579,7 @@ msgstr "큰 무리: 모든 유닛의 유지비가 1 감소합니다."
 #~ "We’ve succeeded! We’ve passed through the Mountains of Haag! Look at "
 #~ "these green hills! We’ve reached the lands of the free tribes. I can see "
 #~ "the walls of Barag Gór in the distance."
-#~ msgstr ""
-#~ "해냈다! Haag 산맥을 통과했어! 저 초록 언덕들을 봐라! 우린 자유 부족들의 땅"
-#~ "에 왔다. 저 멀리 Barag Gór의 성벽이 보이는구나."
+#~ msgstr "해냈다! 하아그(Haag) 산맥을 통과했어! 저 초록 언덕들을 봐라! 우린 자유 부족들의 땅에 왔다. 저 멀리 Barag Gór의 성벽이 보이는구나."
 
 #~ msgid "Watch Tower"
 #~ msgstr "감시탑"

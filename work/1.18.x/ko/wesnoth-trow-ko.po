@@ -6669,9 +6669,7 @@ msgstr "그건 정말로 좋은 소식이오. 우리의 숫자가 두배가 됐�
 #~ "Well, we can’t go back, and the road ahead is blocked. I guess we’ll have "
 #~ "to risk it and go through the Oldwood forest, then make a break for "
 #~ "Clearwater Port or Southbay."
-#~ msgstr ""
-#~ "좋아, 우린 돌아갈 수도 없고, 앞길은 막혔다는군. 아무래도 위험을 무릅쓰고 "
-#~ "오랜숲을 통과해서 맑은물 항구나 남안국에서 휴식을 취해야 할 것 같다."
+#~ msgstr "좋아, 우린 돌아갈 수도 없고, 앞길은 막혔다는군. 아무래도 위험을 무릅쓰고 오랜숲을 통과해서 맑은물(Clearwater) 항구나 남안국에서 휴식을 취해야 할 것 같다."
 
 #~ msgid "Wose Sapling"
 #~ msgstr "나모 묘목"

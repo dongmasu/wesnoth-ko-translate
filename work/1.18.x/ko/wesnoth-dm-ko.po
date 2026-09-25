@@ -5131,13 +5131,13 @@ msgstr "아르토르(Artor)"
 #~ "있다."
 
 #~ msgid "Garard"
-#~ msgstr "Garard"
+#~ msgstr "가라르드(Garard)"
 
 #~ msgid "Tan-Garthak"
 #~ msgstr "Tan-Garthak"
 
 #~ msgid "King Garard"
-#~ msgstr "Garard 왕"
+#~ msgstr "가라르드(Garard) 왕"
 
 #~ msgid "No! So young..."
 #~ msgstr "안돼! 너무 젊은데..."
@@ -5146,14 +5146,12 @@ msgstr "아르토르(Artor)"
 #~ msgstr "Unuvim"
 
 #~ msgid "Close the Portal and return Delfador to his keep"
-#~ msgstr "전이문을 닫고 Delfador를 본진으로 돌려보낸다"
+#~ msgstr "전이문을 닫고 델파도르(Delfador)를 본진으로 돌려보낸다"
 
 #~ msgid ""
 #~ "Remember that I must strike the final blow, for Iliah-Malal’s un-life "
 #~ "must be ended by a spell I have specially crafted to the task."
-#~ msgstr ""
-#~ "Iliah-Malal의 반-생명은 내가 이 일을 위해 특별히 제작한 주문으로만 끝장낼 "
-#~ "수 있기 때문에, 내가 마지막 일격을 날려야 함을 잊지 마시오."
+#~ msgstr "일리아흐 말랄(Iliah-Malal)의 반-생명은 내가 이 일을 위해 특별히 제작한 주문으로만 끝장낼 수 있기 때문에, 내가 마지막 일격을 날려야 함을 잊지 마시오."
 
 #~ msgid "No! It’s all over!"
 #~ msgstr "안돼! 전부 끝났어!"
@@ -5177,7 +5175,7 @@ msgstr "아르토르(Artor)"
 #~ msgstr "번개"
 
 #~ msgid "Player"
-#~ msgstr "플레이어"
+#~ msgstr "플레이어(Player)"
 
 #~ msgid "Enemies"
 #~ msgstr "적"
