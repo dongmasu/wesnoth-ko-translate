@@ -84,7 +84,8 @@ Codex, Claude, Gemini, Copilot 또는 사람이 작업하더라도 아래 원칙
   조건을 확인하기 전에는 public push 대상이라고 가정하지 않는다.
 - 1.18.x 완료 tag는 모든 활성 fuzzy와 빈 번역이 없고 테스트·구조 감사·
   `msgfmt --check`가 통과한 뒤에만 만든다. 권장 형식은
-  `wesnoth-1.18.x-ko.1`이며, tag와 공개 파일 목록을 검토한 뒤 push한다.
+  `wesnoth-ko-translate-1.18.x-<작업일>`이며, `<작업일>`은 KST/JST
+  기준 마지막 PO 수정일(`YYYYMMDD`)이다. tag와 공개 파일 목록을 검토한 뒤 push한다.
 - 버전별 경로를 코드에 새로 하드코딩하지 않는다. 기본 버전은 루트
   `VERSION` 파일에서 읽고, 다른 버전은 `WESNOTH_VERSION` 환경 변수로
   지정한다. `po/<버전>/`, `work/<버전>/`, `dist/<버전>-<작업일>/` 구조를 유지한다.

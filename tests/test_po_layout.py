@@ -266,6 +266,27 @@ class TranslationLayoutTests(unittest.TestCase):
         self.assertIn("rebuild from", install_doc)
         self.assertIn("동기화", install_doc)
 
+    def test_completion_tag_uses_version_and_last_po_work_date(self):
+        documents = (
+            ROOT / "README.md",
+            ROOT / "PROJECT-AI.md",
+            ROOT / "INSTALL.md",
+            ROOT / "work" / VERSION / "README.md",
+        )
+        old_tag = f"wesnoth-{VERSION}-ko.1"
+        new_tag = f"wesnoth-ko-translate-{VERSION}-"
+
+        for path in documents:
+            content = path.read_text(encoding="utf-8")
+            with self.subTest(path=path.relative_to(ROOT)):
+                self.assertIn(new_tag, content)
+                self.assertNotIn(old_tag, content)
+
+        install_doc = (ROOT / "INSTALL.md").read_text(encoding="utf-8")
+        self.assertIn("KST/JST", install_doc)
+        self.assertIn("PO_LAST_MODIFIED_DATE", install_doc)
+        self.assertIn('TAG="wesnoth-ko-translate-${VERSION}-${WORK_DATE}"', install_doc)
+
     def test_docs_workflow_only_publishes_from_main(self):
         workflow = (ROOT / ".github" / "workflows" / "docs.yml").read_text(
             encoding="utf-8"

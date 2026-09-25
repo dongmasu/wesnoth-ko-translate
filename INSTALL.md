@@ -356,17 +356,22 @@ find "work/$VERSION/ko" -name '*.po' -print0 |
 모든 활성 fuzzy가 검토되고, 비-fuzzy 빈 번역이 없으며, 테스트·구조
 감사·`msgfmt --check`가 통과한 시점에만 완료 태그를 만듭니다.
 
-권장 태그 형식은 `wesnoth-1.18.x-ko.1`입니다. 같은 Wesnoth 버전의
-번역 수정 릴리스는 `.2`, `.3`처럼 증가시킵니다.
+권장 태그 형식은 `wesnoth-ko-translate-1.18.x-<작업일>`입니다.
+`<작업일>`은 KST/JST 기준 마지막 PO 수정일(`YYYYMMDD`)이며,
+`dist/<버전>-<작업일>/ko/PO_LAST_MODIFIED_DATE`에서 읽습니다. 같은 날짜에
+수정 릴리스가 필요하면 PO를 다시 빌드해 새 마지막 수정일을 반영합니다.
 
 ```sh
+VERSION="${WESNOTH_VERSION:-$(tr -d '\r\n' < VERSION)}"
+WORK_DATE="$(tr -d '\r\n' < "dist/${VERSION}-"*/ko/PO_LAST_MODIFIED_DATE)"
+TAG="wesnoth-ko-translate-${VERSION}-${WORK_DATE}"
+
 git add README.md INSTALL.md PROJECT-AI.md .gitignore \
     References/20250322_wesnoth_한국어번역 po work tools tests
 git commit -m "Complete Wesnoth 1.18.x Korean translation"
-git tag -a wesnoth-1.18.x-ko.1 \
-    -m "Wesnoth 1.18.x Korean translation"
+git tag -a "$TAG" -m "Wesnoth ${VERSION} Korean translation ${WORK_DATE}"
 git push origin main
-git push origin wesnoth-1.18.x-ko.1
+git push origin "$TAG"
 ```
 
 카페 HTML을 공개하지 않을 경우 위 `git add` 명령에
@@ -603,7 +608,7 @@ sudo tools/install_mo.sh \
    **언어 선택**.
 3. In the language selection window, check **Show in-progress or abandoned
    translations** at the bottom left.
-4. Select **한국어 (1.18.x-<MO-build-date>)** and restart the
+4. Select **한국어 (1.18.x-<work-date>)** and restart the
    game.
 5. If the translation does not appear, verify the game is 1.18.x and that
    the MO filenames match the `wesnoth*.mo` textdomains.
@@ -673,17 +678,23 @@ Create the completion tag only after all active fuzzy entries have been
 reviewed, no non-fuzzy empty translations remain, and the tests, structural
 audit, and `msgfmt --check` all pass.
 
-The recommended tag format is `wesnoth-1.18.x-ko.1`; increment the suffix
-for later translation-only corrections.
+The recommended tag format is `wesnoth-ko-translate-1.18.x-<work-date>`.
+`<work-date>` is the latest PO modification date in KST/JST (`YYYYMMDD`) and is
+read from `dist/<version>-<work-date>/ko/PO_LAST_MODIFIED_DATE`. For a correction
+on the same date, rebuild from the updated PO files so the latest modification
+date is reflected.
 
 ```sh
+VERSION="${WESNOTH_VERSION:-$(tr -d '\r\n' < VERSION)}"
+WORK_DATE="$(tr -d '\r\n' < "dist/${VERSION}-"*/ko/PO_LAST_MODIFIED_DATE)"
+TAG="wesnoth-ko-translate-${VERSION}-${WORK_DATE}"
+
 git add README.md INSTALL.md PROJECT-AI.md .gitignore \
     References/20250322_wesnoth_한국어번역 po work tools tests
 git commit -m "Complete Wesnoth 1.18.x Korean translation"
-git tag -a wesnoth-1.18.x-ko.1 \
-    -m "Wesnoth 1.18.x Korean translation"
+git tag -a "$TAG" -m "Wesnoth ${VERSION} Korean translation ${WORK_DATE}"
 git push origin main
-git push origin wesnoth-1.18.x-ko.1
+git push origin "$TAG"
 ```
 
 Do not include `References/wesnothko` in `git add` if the Cafe archive is to

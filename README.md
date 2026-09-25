@@ -80,8 +80,10 @@ Mac App Store, Windows, Linux별 경로와 변환 명령은
 생기는 것은 아닙니다.
 
 1.18.x 번역 완료 시에는 모든 활성 fuzzy와 빈 번역을 제거하고 테스트,
-구조 감사, `msgfmt --check`를 통과한 뒤 `wesnoth-1.18.x-ko.1` annotated
-tag를 만듭니다. 태그와 공개 파일 목록을 검토한 뒤에만 GitHub로 push합니다.
+구조 감사, `msgfmt --check`를 통과한 뒤
+`wesnoth-ko-translate-1.18.x-<작업일>` annotated tag를 만듭니다.
+`<작업일>`은 KST/JST 기준 마지막 PO 수정일(`YYYYMMDD`)입니다. 태그와 공개 파일
+목록을 검토한 뒤에만 GitHub로 push합니다.
 
 ### 구조 보존 규칙
 
@@ -226,9 +228,10 @@ redistribution conditions. Public availability alone does not automatically
 grant redistribution rights.
 
 When the 1.18.x translation is complete, remove all active fuzzy and empty
-translations, pass the tests, structural audit, and `msgfmt --check`, then
-create the annotated tag `wesnoth-1.18.x-ko.1`. Review the tag and public file
-list before pushing to GitHub.
+translations, pass the tests, structural audit, and `msgfmt --check`, then create
+the annotated tag `wesnoth-ko-translate-1.18.x-<work-date>`.
+`<work-date>` is the latest PO modification date in KST/JST (`YYYYMMDD`). Review
+the tag and public file list before pushing to GitHub.
 
 ### Structural fidelity
 

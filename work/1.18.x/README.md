@@ -237,9 +237,10 @@ find work/1.18.x/ko -name '*.po' -print0 |
 
 PO는 작업·배포 원본이고, 실제 게임에는 `msgfmt`로 생성한 MO를 설치합니다.
 운영체제별 경로와 변환 명령은 프로젝트 루트의 [INSTALL.md](../../INSTALL.md)에
-기록되어 있습니다. 1.18.x 번역 완료 후에는 `wesnoth-1.18.x-ko.1` 형식의
-annotated tag를 만들고, 카페 HTML 보관본을 공개 저장소에 포함하지 않았는지
-확인한 뒤 push합니다.
+기록되어 있습니다. 1.18.x 번역 완료 후에는
+`wesnoth-ko-translate-1.18.x-<작업일>` 형식의 annotated tag를 만듭니다.
+`<작업일>`은 KST/JST 기준 마지막 PO 수정일(`YYYYMMDD`)이며, 카페 HTML 보관본을
+공개 저장소에 포함하지 않았는지 확인한 뒤 push합니다.
 
 
 작업 후 프로젝트 루트에서 다음 검사를 실행합니다.
