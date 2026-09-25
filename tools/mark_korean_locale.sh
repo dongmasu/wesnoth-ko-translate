@@ -4,14 +4,37 @@ set -eu
 CONFIG=${1:-}
 ROOT=$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd)
 VERSION=${WESNOTH_VERSION:-$(tr -d '\r\n' < "$ROOT/VERSION")}
-if [ -n "${WESNOTH_PO_DATE:-}" ]; then
-    WORK_DATE=$WESNOTH_PO_DATE
+if [ -n "${WESNOTH_PO_TIMESTAMP:-}" ]; then
+    PO_TIMESTAMP=$WESNOTH_PO_TIMESTAMP
+    case "$PO_TIMESTAMP" in
+        [0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]' '[0-9][0-9]:[0-9][0-9]:[0-9][0-9]+0900)
+            PO_DATE=$(printf '%s' "$PO_TIMESTAMP" | cut -c1-10 | tr -d '-')
+            ;;
+        *)
+            echo "error: WESNOTH_PO_TIMESTAMP must be YYYY-MM-DD HH:MM:SS+0900" >&2
+            exit 1
+            ;;
+    esac
+elif [ -n "${WESNOTH_PO_DATE:-}" ]; then
+    PO_DATE=$WESNOTH_PO_DATE
 else
     PO_DATE_FILE=$(find "$ROOT/dist" -type f \
-        -path "$ROOT/dist/$VERSION-"'*'"'/ko/PO_LAST_MODIFIED_DATE' \
+        -path "$ROOT/dist/$VERSION-"'*'/ko/PO_LAST_MODIFIED_DATE \
         2>/dev/null | sort | tail -n 1)
     if [ -n "$PO_DATE_FILE" ]; then
-        WORK_DATE=$(tr -d '\r\n' < "$PO_DATE_FILE")
+        PO_TIMESTAMP=$(tr -d '\r\n' < "$PO_DATE_FILE")
+        case "$PO_TIMESTAMP" in
+            [0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]' '[0-9][0-9]:[0-9][0-9]:[0-9][0-9]+0900)
+                PO_DATE=$(printf '%s' "$PO_TIMESTAMP" | cut -c1-10 | tr -d '-')
+                ;;
+            [0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9])
+                PO_DATE=$PO_TIMESTAMP
+                ;;
+            *)
+                echo "error: invalid PO_LAST_MODIFIED_DATE: $PO_TIMESTAMP" >&2
+                exit 1
+                ;;
+        esac
     else
         latest_epoch=0
         for po in "$ROOT/work/$VERSION/ko"/*.po; do
@@ -28,11 +51,11 @@ else
             echo "error: PO modification date not found" >&2
             exit 1
         }
-        WORK_DATE=$(TZ=Asia/Seoul date -r "$latest_epoch" +%Y%m%d 2>/dev/null ||
+        PO_DATE=$(TZ=Asia/Seoul date -r "$latest_epoch" +%Y%m%d 2>/dev/null ||
             TZ=Asia/Seoul date -d "@$latest_epoch" +%Y%m%d)
     fi
 fi
-MARKER=${2:-${WESNOTH_KO_LOCALE_MARKER:-${VERSION}-${WORK_DATE}}}
+MARKER=${2:-${WESNOTH_KO_LOCALE_MARKER:-${VERSION}-${PO_DATE}}}
 
 if [ -z "$CONFIG" ]; then
     echo "usage: $0 /path/to/data/languages/ko_KR.cfg [marker]" >&2
@@ -69,6 +92,9 @@ awk -v marker="$MARKER" '
     }
     /sort_name = "[^"]*"/ {
         sub(/sort_name = "[^"]*"/, "sort_name = \"" marker "\"")
+    }
+    /percent[[:space:]]*=[[:space:]]*[0-9]+/ {
+        sub(/percent[[:space:]]*=[[:space:]]*[0-9]+/, "percent=100")
     }
     { print }
 ' "$CONFIG" > "$TMP"

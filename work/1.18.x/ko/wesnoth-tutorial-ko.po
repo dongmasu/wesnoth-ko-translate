@@ -12,6 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+
 #. [campaign]: id=Tutorial
 #: data/campaigns/tutorial/_main.cfg:11
 msgid "Battle Training"
@@ -123,12 +124,12 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:125
 msgid "Destroy a fierce enemy"
-msgstr "사나운 적을 격파하라"
+msgstr "사나운 적을 무찔러라"
 
 #. [objective]: condition=lose
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:129
 msgid "Get yourself killed"
-msgstr "자살한다"
+msgstr "죽음을 자초하라"
 
 #. [disallow_end_turn]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:137
@@ -883,7 +884,7 @@ msgstr "그래, 자네는 전투를 통해서 경험치를 얻지만, 특히 상
 msgid ""
 "Now, Konrad, I will leave you with more dummies to practice on! After that, "
 "we have real work to do..."
-msgstr "자, 콘라드(Konrad), 자네가 연습할 수 있게 더 많은 꼭두각시들을 만들어주겠네! 다음번에는 실전이 될 거네..."
+msgstr "자, 콘라드(Konrad), 자네가 연습할 수 있게 더 많은 꼭두각시들을 만들어 주겠네! 다음번에는 실전이 될 거네..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:1105
@@ -893,7 +894,7 @@ msgstr "자, 콘라드(Konrad), 자네가 연습할 수 있게 더 많은 꼭두
 msgid ""
 "Now, Li’sar, I will leave you with more dummies to practice on! After that, "
 "we have real work to do..."
-msgstr "자, 리사르(Li’sar), 자네가 연습할 수 있게 더 많은 꼭두각시들을 만들어주겠네! 다음번에는 실전이 될 거네..."
+msgstr "자, 리사르(Li’sar), 자네가 연습할 수 있게 더 많은 꼭두각시들을 만들어 주겠네! 다음번에는 실전이 될 거네..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:1167
@@ -1135,7 +1136,7 @@ msgid ""
 "The more likely attack, then, is across the bridge. That middle island is "
 "the key: it has a village for healing injured units and forests in which we "
 "fight so well."
-msgstr "좀 더 나은 공격 수단은 다리를 통해 오는거다. 저 중앙의 섬이 요점이다: 여기엔 부상당한 유닛을 치유할 수 있는 마을이 있고, 우리가 싸우기 좋은 숲이 있거든."
+msgstr "좀 더 나은 공격 수단은 다리를 통해 오는 거다. 저 중앙의 섬이 요점이다: 여기엔 부상당한 유닛을 치유할 수 있는 마을이 있고, 우리가 싸우기 좋은 숲이 있거든."
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:235
@@ -1240,7 +1241,7 @@ msgid ""
 "also has a special attack which <i>slows</i> enemies, halving the damage "
 "they do for one turn. However, she’s physically weaker than fighters and "
 "archers, so be careful when sending her into battle."
-msgstr "주술사는 주변의 아군 유닛을 <i>치유</i>하는 능력을 가지고 있습니다. 또한 1 차례동안 적들의 피해를 한 번에 절반으로 줄이는 <i>둔화</i> 특수 공격을 가지고 있습니다. 하지만, 싸움꾼이나 궁수보다는 신체적으로 약하기 때문에 전투를 시킬 때는 주의해야 합니다."
+msgstr "주술사는 주변의 아군 유닛을 <i>치유</i>하는 능력을 가지고 있습니다. 또한 1턴 동안 적의 피해를 절반으로 줄이는 <i>둔화</i> 특수 공격도 가지고 있습니다. 하지만 싸움꾼이나 궁수보다 신체적으로 약하므로 전투에 투입할 때는 주의해야 합니다."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:320
@@ -1458,7 +1459,7 @@ msgstr "갈드라드(Galdrad), 제가 여울로 가면, 놈의 아성 근처로 
 msgid ""
 "female^Galdrad, if I go by the ford, I could sneak up near his keep and "
 "dispatch him quickly."
-msgstr "갈드라드(Galdrad), 제가 여울로 가면, 놈의 아성 근처로 몰래 다가가서 그를 빨리 처치할 수 있을 거에요."
+msgstr "갈드라드(Galdrad), 제가 여울로 가면, 놈의 아성 근처로 몰래 다가가서 그를 빨리 처치할 수 있을 거예요."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:593
@@ -1469,7 +1470,7 @@ msgid ""
 "the forest, I would advise you keep to the trees and attack the orcs from "
 "there; your Fighters will only suffer a 40% chance of being hit in return, "
 "while Shamans and Archers will only incur a 30% chance."
-msgstr "할 수는 있다. 그러나 요정들 (뿐만 아니라 오크들도)은 물속에서는 <i>방어력</i>이 떨어진다. 여울을 천천히 건너려고 하면 더 취약해질 것이다. 적은 80%의 공격 확률을 갖게 될 것이다. 요정들은 숲에서 좋은 방어력을 갖고 있기 때문에 나무들에 머물면서 거기에서 오크들을 공격하는 것이 좋을 것 같다. 그 대가로 너의 싸움꾼들은 40%의 공격 확률을 갖게될 것이고, 주술사와 궁수는 명중률이 30%의 공격 확률만 갖게 될 것이다."
+msgstr "가능은 하다. 하지만 요정은 물론 오크도 물속에서는 <i>방어력</i>이 떨어진다. 여울을 천천히 건너려 하면 더 취약해질 것이다. 적의 명중률은 80%가 된다. 요정은 숲에서 방어력이 좋으므로 나무 사이에 머물며 오크를 공격하는 편이 나을 것 같다. 대신 너의 싸움꾼은 명중률이 40%가 되고, 주술사와 궁수는 30%에 불과할 것이다."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:598
@@ -1809,7 +1810,7 @@ msgstr ""
 "\n"
 "일반적으로 다른 치유 방법을 결합할 수 없다. 한 유닛이 여러명의 치유사들 옆에서 차례를 시작하거나, 혹은 마을과 치유사 옆에서 차례를 시작한다면, 여전히 한 번만 치유될 것이다.\n"
 "\n"
-" 다만, 휴식으로 인한 치유는 규칙의 예외다. 유닛이 한 차례동안 아무 것도 하지 않으면 마을이나 치유사로부터 받을 수 있는 치유와 2의 체력을 치유하는 것을 합산하여 한 차례에 최대 10의 체력을 얻는다."
+" 다만, 휴식으로 인한 치유는 규칙의 예외다. 유닛이 한 차례동안 아무것도 하지 않으면 마을이나 치유사로부터 받을 수 있는 치유와 2의 체력을 치유하는 것을 합산하여 한 차례에 최대 10의 체력을 얻는다."
 
 #. [hint_message]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1007
@@ -2270,7 +2271,7 @@ msgstr ""
 #~ "4 hitpoints at a time, while villages can heal 8 (the maximum healing for "
 #~ "any unit)."
 #~ msgstr ""
-#~ "부상병을 마을로 후퇴시켜야 한다는걸 기억하십시오. 치료사들은 한번에 HP 4밖"
+#~ "부상병을 마을로 후퇴시켜야 한다는걸 기억하십시오. 치료사들은 한 번에 HP 4밖"
 #~ "에 치료할 수 없지만, 마을에서는 8이 회복됩니다(최대치까지)."
 
 #, fuzzy
@@ -2440,7 +2441,7 @@ msgstr ""
 #~ "유닛 설명을 볼 수 있습니다."
 
 #~ msgid "Right click on the other castle tile and recruit another unit"
-#~ msgstr "나머지 성채 타일을 오른쪽 클릭해서 또다른 유닛을 소집"
+#~ msgstr "나머지 성채 타일을 오른쪽 클릭해서 또 다른 유닛을 소집"
 
 #~ msgid ""
 #~ "Had the quintain survived your onslaught, it would have regained two "
@@ -2493,7 +2494,7 @@ msgstr ""
 #~ msgstr ""
 #~ "그래, 자네는 전투를 통해서 경험치를 얻는데, 특히 상대를 처치했을때 더 많"
 #~ "이 얻게되지. 충분한 경험치를 쌓으면 자네는 더 강해질걸세.\n"
-#~ "자 Konrad, 연습할 모형들을 더 두고 가겠네! 다음번엔 실전이 될거네..."
+#~ "자 Konrad, 연습할 모형들을 더 두고 가겠네! 다음번엔 실전이 될 거네..."
 
 #~ msgid ""
 #~ ", your new recruit, has two traits: <i>strong</i> and <i>intelligent</i>. "
@@ -2532,7 +2533,7 @@ msgstr ""
 #~ "expose the Shaman to attack since she is fairly weak herself."
 #~ msgstr ""
 #~ "약간의 도움만 있다면 가능하지. 방어 유닛 곁에 샤먼을 보내두면 그녀가 턴당 "
-#~ "HP 4를 회복시켜 줄거야. 샤먼은 매우 약하니까 그녀가 공격에 노출되지 않게 "
+#~ "HP 4를 회복시켜 줄 거야. 샤먼은 매우 약하니까 그녀가 공격에 노출되지 않게 "
 #~ "조심하도록."
 
 #~ msgid "Move a unit (a Fighter if possible) to the patch of forest"
@@ -2622,7 +2623,7 @@ msgstr ""
 #~ "<i>recall</i> them. Instead we must recruit some new Elvish Fighters."
 #~ msgstr ""
 #~ "지난 전투에서 살아남은 경험 있는 유닛이 있다면 그들을 <i>재소집</i>하면 되"
-#~ "지만, 아무도 없으니 새 엘프 투사를 소집해야해."
+#~ "지만, 아무도 없으니 새 엘프 투사를 소집해야 해."
 
 #~ msgid ""
 #~ "Right click on the tile north-east of you and recruit an Elvish Fighter"
@@ -2638,7 +2639,7 @@ msgstr ""
 #~ msgstr "아니야! 난 엘프 <i>궁사</i>를 소집하라고 했어! 다시 해보도록 해..."
 
 #~ msgid "Eowynial"
-#~ msgstr "Eowynial"
+#~ msgstr "에오위니알(Eowynial)"
 
 #~ msgid "Recruit an Elvish Shaman to your north"
 #~ msgstr "북쪽에 엘프 샤먼을 소집"
@@ -2663,7 +2664,7 @@ msgstr ""
 #~ msgstr "아니야! 난 엘프 <i>투사</i>를 소집하라고 했어! 다시 해보도록 해..."
 
 #~ msgid "Golir"
-#~ msgstr "Golir"
+#~ msgstr "골리르(Golir)"
 
 #~ msgid ""
 #~ "No! I said recall $recall_name1, not $recall_name2|! Now try again..."
@@ -2706,7 +2707,7 @@ msgstr ""
 #~ "losing 1 gold per turn now."
 #~ msgstr ""
 #~ "마을은 유닛 하나의 유지비를 지원하고 턴당 금 1을 제공해. 이제 넌 턴당 금 "
-#~ "1 만을 잃게 될거야."
+#~ "1 만을 잃게 될 거야."
 
 #~ msgid "You’ve learned well, Li’sar! "
 #~ msgstr "잘했어, Li'sar!"
@@ -2714,13 +2715,13 @@ msgstr ""
 #~ msgid ""
 #~ "You should leave the villages near your keep for Konrad to capture. He "
 #~ "needs to stay nearby to recruit more units anyway."
-#~ msgstr "콘라드(Konrad)는 어차피 소집을 위해 남아있어야 하므로 본성 주변의 마을들은 콘라드(Konrad)가 점령하도록 두는 편이 좋습니다."
+#~ msgstr "콘라드(Konrad)는 어차피 소집을 위해 남아 있어야 하므로 본성 주변의 마을들은 콘라드(Konrad)가 점령하도록 두는 편이 좋습니다."
 
 #~ msgid ""
 #~ "You should leave the villages near your keep for Li’sar to capture. She "
 #~ "needs to stay nearby to recruit more units anyway."
 #~ msgstr ""
-#~ "Li'sar는 어차피 소집을 위해 남아있어야 하므로 본성 주변의 마을들은 Li'sar"
+#~ "Li'sar는 어차피 소집을 위해 남아 있어야 하므로 본성 주변의 마을들은 Li'sar"
 #~ "가 점령하도록 두는 편이 좋습니다."
 
 #~ msgid ""
@@ -2763,7 +2764,7 @@ msgstr ""
 #~ "village in the far east of the map. It will take two turns to reach it."
 #~ msgstr ""
 #~ "너의 다른 유닛들은 이번 턴에 오크에게 갈 수 없어. 투사를 맵의 동쪽 끝에 있"
-#~ "는 마을로 보내. 거기에 도착하는데는 2 턴이 걸릴거야."
+#~ "는 마을로 보내. 거기에 도착하는데는 2 턴이 걸릴 거야."
 
 #~ msgid "Tell a Fighter to move to the far east village"
 #~ msgstr "투사에게 동쪽의 마을로 이동하도록 명령"
@@ -2786,7 +2787,7 @@ msgstr ""
 
 #~ msgid "That is often a problem, which is why owning villages is important."
 #~ msgstr ""
-#~ "자주 그런 문제가 발생하기 때문에, 마을을 얼마나 갖고 있느냐 중요한거야."
+#~ "자주 그런 문제가 발생하기 때문에, 마을을 얼마나 갖고 있느냐 중요한 거야."
 
 #~ msgid "Move Konrad to another (unowned) village"
 #~ msgstr "콘라드(Konrad)를 다른 미점령 마을로 이동"
@@ -2807,7 +2808,7 @@ msgstr ""
 #~ msgstr ""
 #~ "다른 유닛은 저 오크에게 닿을 수 없어요. 내 $unit.language_name이(가) 저 녀"
 #~ "석의 반격에서 살아남길 바래야겠어요! 다음 턴에 더 많은 마을을 손에 넣고 모"
-#~ "두를 좀더 가까이 보내야겠어요."
+#~ "두를 좀 더 가까이 보내야겠어요."
 
 #~ msgid "Move your Shaman onto the bridge to stand behind your other unit"
 #~ msgstr "샤먼을 다리 위로 보내서 당신의 다른 유닛 뒤에 있게 하십시오"

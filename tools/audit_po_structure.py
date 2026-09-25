@@ -60,6 +60,15 @@ def mismatch(source: str, translation: str, pattern: re.Pattern[str]) -> bool:
     )
 
 
+def newline_mismatch(source: str, translation: str) -> bool:
+    """Return whether literal newline placement metadata differs."""
+    return (
+        source.count("\n") != translation.count("\n")
+        or source.startswith("\n") != translation.startswith("\n")
+        or source.endswith("\n") != translation.endswith("\n")
+    )
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("directory", type=Path, nargs="?", default=WORK_KO)
@@ -67,6 +76,7 @@ def main() -> int:
 
     tag_count = 0
     placeholder_count = 0
+    newline_count = 0
     for path in sorted(args.directory.glob("*.po")):
         for message in parse_messages(path):
             source_forms = [message.get("msgid_plural") or message["msgid"]]
@@ -101,21 +111,30 @@ def main() -> int:
                 not matches_any_form(translation, PLACEHOLDER_RE)
                 for _, translation in mismatches
             )
-            if not tags_bad and not placeholders_bad:
+            newlines_bad = any(
+                newline_mismatch(source, translation)
+                for source, translation in mismatches
+            )
+            if not tags_bad and not placeholders_bad and not newlines_bad:
                 continue
             if tags_bad:
                 tag_count += 1
             if placeholders_bad:
                 placeholder_count += 1
+            if newlines_bad:
+                newline_count += 1
             kinds = []
             if tags_bad:
                 kinds.append("markup")
             if placeholders_bad:
                 kinds.append("placeholder")
+            if newlines_bad:
+                kinds.append("newline")
             print(f"{path.name}\t{','.join(kinds)}\t{mismatches[0][0]}")
 
     print(f"markup_mismatches={tag_count}")
     print(f"placeholder_mismatches={placeholder_count}")
+    print(f"newline_mismatches={newline_count}")
     return 0
 
 

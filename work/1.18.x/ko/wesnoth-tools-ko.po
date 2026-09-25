@@ -17,6 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+
 #: data/tools/GUI.pyw:77
 msgid "Open a Graphical User Interface (GUI) to WML Tools"
 msgstr "WML 도구에 대한 그래픽 사용자 인터페이스(GUI)를 열기"
@@ -25,7 +26,7 @@ msgstr "WML 도구에 대한 그래픽 사용자 인터페이스(GUI)를 열기"
 msgid ""
 "Launch GUI.pyw in the specified language. Language code is expected as a "
 "POSIX locale name, refer to gettext.wesnoth.org for a full list."
-msgstr "`지정된 언어로 GUI.pyw를 실행합니다. 언어 코드는 POSIX 로케일 이름으로 예상됩니다. 전체 목록은 gettext.wesnoth.org를 참조하세요."
+msgstr "지정된 언어로 GUI.pyw를 실행합니다. 언어 코드는 POSIX 로케일 이름이어야 합니다. 전체 목록은 gettext.wesnoth.org를 참조하세요."
 
 #: data/tools/GUI.pyw:87 data/tools/GUI.pyw:101 data/tools/GUI.pyw:1404
 #: data/tools/GUI.pyw:1453 data/tools/GUI.pyw:1496 data/tools/GUI.pyw:1525
@@ -206,7 +207,7 @@ msgstr "중복된 자원 파일이 있는지 확인"
 
 #: data/tools/GUI.pyw:863
 msgid "Make definition list"
-msgstr "정의 목록을 만듬"
+msgstr "정의 목록 만들기"
 
 #: data/tools/GUI.pyw:872
 msgid "List files that will be processed"
@@ -361,7 +362,7 @@ msgstr "wmlindent 실행"
 
 #: data/tools/GUI.pyw:1396
 msgid "Run wmlxgettext"
-msgstr "wmlxgettext를 실행"
+msgstr "wmlxgettext 실행"
 
 #: data/tools/GUI.pyw:1404
 msgid ""

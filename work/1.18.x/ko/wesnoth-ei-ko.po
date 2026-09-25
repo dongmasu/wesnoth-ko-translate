@@ -12,6 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+
 #. [editor_group]: id=eastern_invasion
 #. [campaign]: id=Eastern_Invasion
 #. [achievement_group]
@@ -418,7 +419,7 @@ msgid ""
 "say. Apparently, these attacks bore much similarity to ones that had "
 "previously occurred on the far southern border where undead had been the "
 "eventual culprit. Dacyn outlined a plan to combat these intrusions."
-msgstr "왕이 이 문제에 대한 소식을 받자 그의 고문 다신이 할 말이 많았습니다. 보아하니 이번 공격은 훨씬 남쪽 국경에서 일어났던 사건과 매우 비슷했고, 당시의 범인은 결국 언데드로 밝혀졌습니다. 다신은 이 침입에 맞설 계획을 세웠습니다."
+msgstr "왕이 이 문제에 대한 소식을 받자 그의 고문 다신(Dacyn)이 할 말이 많았습니다. 보아하니 이번 공격은 훨씬 남쪽 국경에서 일어났던 사건과 매우 비슷했고, 당시의 범인은 결국 언데드로 밝혀졌습니다. 다신(Dacyn)은 이 침입에 맞설 계획을 세웠습니다."
 
 #. [part]
 #. The River Guard posts had been built in 470 YW; they were abandoned in 544 YW.
@@ -453,7 +454,7 @@ msgid ""
 "to them. To the northern outpost he sent Owaec, a Clan noble. To the "
 "southern outpost, he sent Sergeant Gweddry, who would be accompanied by "
 "Dacyn the mage."
-msgstr "정체불명의 적이 동쪽에서 웨스노스(Wesnoth)를 압박하자 다신은 콘라드(Konrad) 2세에게 초소에 다시 병력을 배치해 웰딘(Weldyn) 강 하류를 왕실이 확실히 감시하고 통제하게 하자고 설득했습니다. 그는 가장 유망한 젊은 장교 둘을 초소에 보냈습니다. 북쪽 초소에는 부족 귀족인 오와에크를, 남쪽 초소에는 마법사 다신과 동행할 그웨드리 하사를 보냈습니다."
+msgstr "정체불명의 적이 동쪽에서 웨스노스(Wesnoth)를 압박하자 다신(Dacyn)은 콘라드(Konrad) 2세에게 초소에 다시 병력을 배치해 웰딘(Weldyn) 강 하류를 왕실이 확실히 감시하고 통제하게 하자고 설득했습니다. 그는 가장 유망한 젊은 장교 둘을 초소에 보냈습니다. 북쪽 초소에는 부족 귀족인 오와에크(Owaec)를, 남쪽 초소에는 마법사 다신(Dacyn)과 동행할 그웨드리(Gweddry) 하사를 보냈습니다."
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:65
@@ -467,7 +468,7 @@ msgid ""
 "several weeks, and Gweddry’s men started to grow incautious. Then, one "
 "evening, Gweddry and his men were roused by the startled cries of the night "
 "watchmen..."
-msgstr "왕의 군대가 도착한 뒤로는 모든 일이 순조로웠습니다. 몇 주 동안 공격이 없자 그웨드리의 병사들은 점점 경계를 늦추기 시작했습니다. 그러던 어느 날 저녁, 그웨드리와 병사들은 야간 보초병들의 다급한 비명에 놀라 잠에서 깨어났습니다..."
+msgstr "왕의 군대가 도착한 뒤로는 모든 일이 순조로웠습니다. 몇 주 동안 공격이 없자 그웨드리(Gweddry)의 병사들은 점점 경계를 늦추기 시작했습니다. 그러던 어느 날 저녁, 그웨드리(Gweddry)와 병사들은 야간 보초병들의 다급한 비명에 놀라 잠에서 깨어났습니다..."
 
 #. [side]
 #. [side]: type=Lancer, id=Yannic
@@ -734,7 +735,7 @@ msgstr "뭐- 어떻게 이렇게 많은 놈들이 우리 측면을 친 거지? �
 #. Dacyn doesn't really express much and doesn't like to explain himself
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:712
 msgid "Gweddry? Ah, you survive."
-msgstr "그웨드리? 아, 살아 있었군."
+msgstr "그웨드리(Gweddry)? 아, 살아 있었군."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:716
@@ -839,7 +840,7 @@ msgstr "탈출 터널"
 msgid ""
 "Screams and shouts echoed across the surface as Gweddry rushed his remaining "
 "men into the roughly hewn tunnel. A foul stench wafted up from below..."
-msgstr "그웨드리가 남은 병사들을 거칠게 파인 터널로 서둘러 들여보내는 동안 지상에는 비명과 고함이 울려 퍼졌다. 아래에서 지독한 악취가 올라왔다..."
+msgstr "그웨드리(Gweddry)가 남은 병사들을 거칠게 파인 터널로 서둘러 들여보내는 동안 지상에는 비명과 고함이 울려 퍼졌다. 아래에서 지독한 악취가 올라왔다..."
 
 #. [side]: type=Dwarvish Steelclad, id=Knutan
 #. [side]: type=Dwarvish Lord, id=Pelathsil
@@ -981,7 +982,7 @@ msgid ""
 "Yes, I’m sure that will end well. Gweddry, we may be able to avoid the bulk "
 "of the trolls by going through the dwarves’ tunnel. I doubt they will need "
 "it much longer."
-msgstr "그래, 분명 잘 끝나겠지. 그웨드리, 드워프의 터널을 통과하면 트롤 대부분을 피할 수 있을 거야. 드워프들이 그 터널을 오래 사용할 수 있을지는 모르겠지만."
+msgstr "그래, 분명 잘 끝나겠지. 그웨드리(Gweddry), 드워프의 터널을 통과하면 트롤 대부분을 피할 수 있을 거야. 드워프들이 그 터널을 오래 사용할 수 있을지는 모르겠지만."
 
 #. [message]: speaker=Duduril
 #. speaker is a dwarf, currently alone
@@ -1036,7 +1037,7 @@ msgid ""
 "through this tunnel’s eastern exit. It is unfortunate that it will take us "
 "into the Estmark hills, beyond the borders of Wesnoth. But it is the only "
 "option."
-msgstr "열린 비밀문 하나를 찾았다고 아주 우쭐대는군. 그웨드리, 우리는 이 터널의 동쪽 출구로 달아나야 하오. 유감스럽게도 그 길은 웨스노스(Wesnoth) 국경 너머의 동표 언덕으로 이어지지만, 다른 방법이 없소."
+msgstr "열린 비밀문 하나를 찾았다고 아주 우쭐대는군. 그웨드리(Gweddry), 우리는 이 터널의 동쪽 출구로 달아나야 하오. 유감스럽게도 그 길은 웨스노스(Wesnoth) 국경 너머의 동표 언덕으로 이어지지만, 다른 방법이 없소."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/02_The_Escape_Tunnel.cfg:531
@@ -1094,7 +1095,7 @@ msgid ""
 "Daylight broke over the relieved faces of Gweddry and his men as they "
 "clambered out of the dingy cave. The lush Estmark hills filled the horizon "
 "in all directions."
-msgstr "그웨드리와 병사들이 어두운 동굴에서 기어 나오자 안도한 얼굴 위로 햇빛이 비쳤다. 사방의 지평선이 울창한 에스트마르크 언덕으로 가득했다."
+msgstr "그웨드리(Gweddry)와 병사들이 어두운 동굴에서 기어 나오자 안도한 얼굴 위로 햇빛이 비쳤다. 사방의 지평선이 울창한 에스트마르크 언덕으로 가득했다."
 
 #. [side]: type=Dark Sorcerer, id=Mal-Skraat
 #. [side]: type=Dark Sorcerer, id=Mal-Skraat, gender=male
@@ -1122,7 +1123,7 @@ msgstr "말-칼랏(Mal-Kallat)"
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:160
 msgid "To travel northwest, defeat Mal-Skraat. <i>(easy)</i>"
-msgstr "북서쪽으로 가려면 말-스크라트를 물리치세요. <i>(쉬움)</i>"
+msgstr "북서쪽으로 가려면 말-스크라트(Mal-Skraat)를 물리치세요. <i>(쉬움)</i>"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/03_An_Unexpected_Appearance.cfg:165
@@ -1272,12 +1273,12 @@ msgid ""
 "Gweddry and Dacyn found but scant respite through the west pass. After weeks "
 "of slow and labored mountain marching, they stumbled upon a green valley and "
 "an unknown forest."
-msgstr "그웨드리와 다신(Dacyn)은 서쪽 고개에서 잠깐의 휴식만을 얻었다. 몇 주 동안 힘겹게 산을 행군한 끝에 그들은 푸른 계곡과 이름 모를 숲을 발견했다."
+msgstr "그웨드리(Gweddry)와 다신(Dacyn)은 서쪽 고개에서 잠깐의 휴식만을 얻었다. 몇 주 동안 힘겹게 산을 행군한 끝에 그들은 푸른 계곡과 이름 모를 숲을 발견했다."
 
 #. [side]: type=Elvish Lady, id=Vaelya
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:61
 msgid "Elves"
-msgstr "엘프들"
+msgstr "엘프족"
 
 #. [side]: type=Elvish Lady, id=Vaelya
 #: data/campaigns/Eastern_Invasion/scenarios/04a_An_Elven_Interlude.cfg:65
@@ -1556,7 +1557,7 @@ msgid ""
 "Pursued by a vengeful Mal-Skraat and his minions, Gweddry and Dacyn were "
 "forced eastward out of the Estmarks, into the near reaches of the uncharted "
 "Bitter Swamp."
-msgstr "복수를 꾀하는 말-스크라트와 그 부하들에게 쫓기던 그웨드리와 다신(Dacyn)은 에스트마르크를 빠져나와 미지의 쓴 늪 인근까지 동쪽으로 내몰렸다."
+msgstr "복수를 꾀하는 말-스크라트(Mal-Skraat)와 그 부하들에게 쫓기던 그웨드리(Gweddry)와 다신(Dacyn)은 에스트마르크를 빠져나와 미지의 쓴 늪 인근까지 동쪽으로 내몰렸다."
 
 #. [side]
 #. a group of Dunefolk
@@ -1594,7 +1595,7 @@ msgstr "무마(Muma)"
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:310
 #| msgid "Mal-Skraat"
 msgid "Defeat Mal-Skraat"
-msgstr "말-스크라트를 물리치십시오"
+msgstr "말-스크라트(Mal-Skraat)를 물리치십시오"
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:323
@@ -1750,49 +1751,49 @@ msgstr "알스우단을 충분히 찾고 약간의 비용을 내면, 기꺼이 �
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:549
 msgid "To travel west, defeat Mal-Skraat. <i>(normal)</i>"
-msgstr "서쪽으로 가려면 말-스크라트를 물리치세요. <i>(보통)</i>"
+msgstr "서쪽으로 가려면 말-스크라트(Mal-Skraat)를 물리치세요. <i>(보통)</i>"
 
 #. [objectives]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:552
 msgid ""
 "To travel east, collect 6 alswdan herbs and pay Hahid al-Ali $gold_cost "
 "gold. <i>(challenging)</i>"
-msgstr "동쪽으로 가려면 알스우단 약초 6개를 모으고 하히드 알-알리에게 금화 $gold_cost개를 지불하세요. <i>(어려움)</i>"
+msgstr "동쪽으로 가려면 알스우단 약초 6개를 모으고 하히드 알-알리(Hahid al-Ali)에게 금화 $gold_cost개를 지불하세요. <i>(어려움)</i>"
 
 #. [objectives]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:553
 msgid ""
 "To travel east, collect 5 alswdan herbs and pay Hahid al-Ali $gold_cost "
 "gold. <i>(challenging)</i>"
-msgstr "동쪽으로 가려면 알스우단 약초 5개를 모으고 하히드 알-알리에게 금화 $gold_cost개를 지불하세요. <i>(어려움)</i>"
+msgstr "동쪽으로 가려면 알스우단 약초 5개를 모으고 하히드 알-알리(Hahid al-Ali)에게 금화 $gold_cost개를 지불하세요. <i>(어려움)</i>"
 
 #. [objectives]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:554
 msgid ""
 "To travel east, collect 4 alswdan herbs and pay Hahid al-Ali $gold_cost "
 "gold. <i>(challenging)</i>"
-msgstr "동쪽으로 가려면 알스우단 약초 4개를 모으고 하히드 알-알리에게 금화 $gold_cost개를 지불하세요. <i>(어려움)</i>"
+msgstr "동쪽으로 가려면 알스우단 약초 4개를 모으고 하히드 알-알리(Hahid al-Ali)에게 금화 $gold_cost개를 지불하세요. <i>(어려움)</i>"
 
 #. [objectives]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:555
 msgid ""
 "To travel east, collect 3 alswdan herbs and pay Hahid al-Ali $gold_cost "
 "gold. <i>(challenging)</i>"
-msgstr "동쪽으로 가려면 알스우단 약초 3개를 모으고 하히드 알-알리에게 금화 $gold_cost개를 지불하세요. <i>(어려움)</i>"
+msgstr "동쪽으로 가려면 알스우단 약초 3개를 모으고 하히드 알-알리(Hahid al-Ali)에게 금화 $gold_cost개를 지불하세요. <i>(어려움)</i>"
 
 #. [objectives]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:556
 msgid ""
 "To travel east, collect 2 alswdan herbs and pay Hahid al-Ali $gold_cost "
 "gold. <i>(challenging)</i>"
-msgstr "동쪽으로 가려면 알스우단 약초 2개를 모으고 하히드 알-알리에게 금화 $gold_cost개를 지불하세요. <i>(어려움)</i>"
+msgstr "동쪽으로 가려면 알스우단 약초 2개를 모으고 하히드 알-알리(Hahid al-Ali)에게 금화 $gold_cost개를 지불하세요. <i>(어려움)</i>"
 
 #. [objectives]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:557
 msgid ""
 "To travel east, collect 1 alswdan herb and pay Hahid al-Ali $gold_cost gold. "
 "<i>(challenging)</i>"
-msgstr "동쪽으로 가려면 알스우단 약초 1개를 모으고 하히드 알-알리에게 금화 $gold_cost개를 지불하세요. <i>(어려움)</i>"
+msgstr "동쪽으로 가려면 알스우단 약초 1개를 모으고 하히드 알-알리(Hahid al-Ali)에게 금화 $gold_cost개를 지불하세요. <i>(어려움)</i>"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:559
@@ -1878,7 +1879,7 @@ msgstr "설령 그들을 찾아낸다 해도, 그 영토 한복판에서 언데�
 msgid ""
 "I’m afraid you don’t have the $gold_cost gold to pay for my information, so "
 "I must be off. Best of luck with that ‘Mal-Skraat’ you’re fighting!"
-msgstr "유감이지만 내 정보에 지불할 금화 $gold_cost개가 없는 것 같으니, 나는 가야겠네. 싸우고 있는 ‘말-스크라트’와의 전투에 행운을 빌지!"
+msgstr "유감이지만 내 정보에 지불할 금화 $gold_cost개가 없는 것 같으니, 나는 가야겠네. 싸우고 있는 ‘말-스크라트(Mal-Skraat)’와의 전투에 행운을 빌지!"
 
 #. [message]: speaker=Gweddry
 #. to Dacyn
@@ -1895,7 +1896,7 @@ msgid ""
 "...so the great Gweddry intends to do what all of Wesnoth cannot. Very well. "
 "I cannot return to Wesnoth on my own, so it seems I have little choice but "
 "to join you in your folly."
-msgstr "... 그러니까 위대한 그웨드리가 웨스노스(Wesnoth) 전체도 하지 못하는 일을 하겠다는 거군. 좋아. 혼자 웨스노스(Wesnoth)로 돌아갈 수 없으니, 너희의 어리석은 일에 합류하는 수밖에 없겠어."
+msgstr "... 그러니까 위대한 그웨드리(Gweddry)가 웨스노스(Wesnoth) 전체도 하지 못하는 일을 하겠다는 거군. 좋아. 혼자 웨스노스(Wesnoth)로 돌아갈 수 없으니, 너희의 어리석은 일에 합류하는 수밖에 없겠어."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:840
@@ -1951,14 +1952,14 @@ msgstr "아, 제발. 네가 그 말을 믿지 않을 줄 알았어! 우리가 �
 msgid ""
 "(The Dunefolk have joined you! You must now defeat Mal-Skraat and travel "
 "west. 10 turns have been added to the limit.)"
-msgstr "(사막 민족이 합류했습니다! 이제 말-스크라트를 물리치고 서쪽으로 가야 합니다. 제한 턴이 10턴 늘어났습니다.)"
+msgstr "(사막 민족이 합류했습니다! 이제 말-스크라트(Mal-Skraat)를 물리치고 서쪽으로 가야 합니다. 제한 턴이 10턴 늘어났습니다.)"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:951
 msgid ""
 "The dunefolk are leaving and without their aid we have no chance of even "
 "finding the undead capital. We must defeat Mal-Skraat and proceed westward."
-msgstr "사막 민족이 떠나고 있어 그들의 도움 없이는 언데드 수도를 찾을 가능성조차 없습니다. 말-스크라트를 물리치고 서쪽으로 나아가야 합니다."
+msgstr "사막 민족이 떠나고 있어 그들의 도움 없이는 언데드 수도를 찾을 가능성조차 없습니다. 말-스크라트(Mal-Skraat)를 물리치고 서쪽으로 나아가야 합니다."
 
 #. [message]: speaker=Mal-Skraat
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:968
@@ -1990,14 +1991,14 @@ msgstr "늪의 증기가 우리를 압도하고 있어... 예방 조치를 했�
 #. [scenario]: id=04c_Mal-Ravanals_Capital
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:5
 msgid "Mal-Ravanal’s Capital"
-msgstr "말 라바날(Mal-Ravanal)의 수도"
+msgstr "말-라바날(Mal-Ravanal)의 수도"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:16
 msgid ""
 "Gweddry marched his band of soldiers ever eastward, deeper and deeper into "
 "the bogs. A great wall of stone loomed before them."
-msgstr "그웨드리는 병사들을 이끌고 계속 동쪽으로, 늪 깊숙한 곳으로 행군했다. 거대한 돌벽이 그들 앞에 우뚝 솟아 있었다."
+msgstr "그웨드리(Gweddry)는 병사들을 이끌고 계속 동쪽으로, 늪 깊숙한 곳으로 행군했다. 거대한 돌벽이 그들 앞에 우뚝 솟아 있었다."
 
 #. [side]: type=Dark Sorcerer, id=Mal-Rikna, gender=female
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:67
@@ -2150,7 +2151,7 @@ msgstr "테라엔트(Terraent)"
 msgid ""
 "The Bitter Swamp’s ill reputation is, it seems, well merited. Mal-Ravanal’s "
 "fortress lies before us."
-msgstr "쓴 늪의 나쁜 평판은 아무래도 정당한 것 같군. 말-라바날의 요새가 우리 앞에 있소."
+msgstr "쓴 늪의 나쁜 평판은 아무래도 정당한 것 같군. 말-라바날(Mal-Ravanal)의 요새가 우리 앞에 있소."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:469
@@ -2160,7 +2161,7 @@ msgid ""
 "scant tools we have available to us right now. Even if we were to destroy "
 "Mal-Ravanal’s skeletal body, their spirit would remain and simply possess "
 "another."
-msgstr "그래, 그리고 우리 뒤에서는 그 말썽꾼 말-스크라트를 비롯한 언데드 군대가 포위망을 좁혀 오고 있어. 대체 계획이 뭐지? 지금 우리에게 있는 빈약한 수단으로는 승리할 방법이 없어. 설령 말-라바날의 해골 육신을 파괴한다 해도 영혼은 남아서 다른 몸을 차지할 뿐이야."
+msgstr "그래, 그리고 우리 뒤에서는 그 말썽꾼 말-스크라트(Mal-Skraat)를 비롯한 언데드 군대가 포위망을 좁혀 오고 있어. 대체 계획이 뭐지? 지금 우리에게 있는 빈약한 수단으로는 승리할 방법이 없어. 설령 말-라바날(Mal-Ravanal)의 해골 육신을 파괴한다 해도 영혼은 남아서 다른 몸을 차지할 뿐이야."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:473
@@ -2219,14 +2220,14 @@ msgstr "정말 너희의 조잡한 무기가 통할 거라고 생각했나?"
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:654
 msgid "Mal-Ravanal cannot be defeated right now. We must flee!"
-msgstr "지금은 말-라바날을 물리칠 수 없습니다. 도망쳐야 합니다!"
+msgstr "지금은 말-라바날(Mal-Ravanal)을 물리칠 수 없습니다. 도망쳐야 합니다!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:669
 msgid ""
 "Gweddry, we should not be here. They are merely toying with us right now, "
 "but all will be lost if Mal-Ravanal finds me amongst you!"
-msgstr "그웨드리, 우리는 여기 있으면 안 돼. 지금은 놈들이 우리를 가지고 놀 뿐이지만, 말-라바날이 너희 사이에서 나를 찾으면 모든 것이 끝이야!"
+msgstr "그웨드리(Gweddry), 우리는 여기 있으면 안 돼. 지금은 놈들이 우리를 가지고 놀 뿐이지만, 말-라바날(Mal-Ravanal)이 너희 사이에서 나를 찾으면 모든 것이 끝이야!"
 
 #. [message]: speaker=Mal-Ravanal
 #. Ravanal and Dacyn perk up a bit when talking to or referring to each other
@@ -2330,7 +2331,7 @@ msgid ""
 "journey through the northern Estmarks. After many days of mountainous "
 "travel, they were greatly relieved to see the walls of the northern outpost "
 "silhouetted against the horizon..."
-msgstr "엘프 숲을 통과할 수 있게 되자, 그웨드리와 병사들은 북부 동부 변경을 지나 여행을 재개했다. 여러 날 동안 산길을 이동한 끝에, 지평선에 모습을 드러낸 북부 전초기지의 성벽을 보고 그들은 크게 안도했다..."
+msgstr "엘프 숲을 통과할 수 있게 되자, 그웨드리(Gweddry)와 병사들은 북부 동부 변경을 지나 여행을 재개했다. 여러 날 동안 산길을 이동한 끝에, 지평선에 모습을 드러낸 북부 전초기지의 성벽을 보고 그들은 크게 안도했다..."
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:40
@@ -2338,7 +2339,7 @@ msgid ""
 "Gweddry and his men made good time skirting the eastern Estmarks. After "
 "several weeks of marching, they were greatly relieved to see the walls of "
 "the northern outpost silhouetted against the horizon..."
-msgstr "그웨드리와 병사들은 동부 변경을 따라 이동하며 순조롭게 나아갔다. 몇 주 동안 행군한 끝에, 지평선에 모습을 드러낸 북부 전초기지의 성벽을 보고 그들은 크게 안도했다..."
+msgstr "그웨드리(Gweddry)와 병사들은 동부 변경을 따라 이동하며 순조롭게 나아갔다. 몇 주 동안 행군한 끝에, 지평선에 모습을 드러낸 북부 전초기지의 성벽을 보고 그들은 크게 안도했다..."
 
 #. [part]
 #. only shown if the previous scenario was S04c (Mal-Ravanal’s Capital)
@@ -2353,7 +2354,7 @@ msgid ""
 "if their heels were winged. After weeks of frantic marching, they were "
 "greatly relieved to see the walls of the northern outpost silhouetted "
 "against the horizon..."
-msgstr "쓴 늪을 한참 뒤로 남겨 둔 그웨드리와 병사들은 발에 날개라도 달린 듯 북서쪽으로 달아났습니다. 몇 주 동안 필사적으로 행군한 끝에, 지평선에 북쪽 초소의 성벽이 모습을 드러내자 그들은 크게 안도했습니다..."
+msgstr "쓴 늪을 한참 뒤로 남겨 둔 그웨드리(Gweddry)와 병사들은 발에 날개라도 달린 듯 북서쪽으로 달아났습니다. 몇 주 동안 필사적으로 행군한 끝에, 지평선에 북쪽 초소의 성벽이 모습을 드러내자 그들은 크게 안도했습니다..."
 
 #. [side]: type=Dark Adept, id=Rilaka
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:139
@@ -2402,7 +2403,7 @@ msgstr "릴라카(Rilaka)를 물리치십시오"
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1244
 #| msgid "Death of Gweddry"
 msgid "Death of Gweddry, Dacyn, or Owaec"
-msgstr "그웨드리, 다신 또는 오와에크의 사망"
+msgstr "그웨드리(Gweddry), 다신(Dacyn) 또는 오와에크(Owaec)의 사망"
 
 #. [note]
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:260
@@ -2459,7 +2460,7 @@ msgstr "이 농부들 중 많은 이가 동굴망으로 이어지는 깊은 지�
 msgid ""
 "... I was not able to save everyone. Gweddry, their deaths weigh heavy on my "
 "heart."
-msgstr "... 모두를 구할 수는 없었네. 그웨드리, 그들의 죽음이 내 마음을 무겁게 짓누르고 있어."
+msgstr "... 모두를 구할 수는 없었네. 그웨드리(Gweddry), 그들의 죽음이 내 마음을 무겁게 짓누르고 있어."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:382
@@ -2565,7 +2566,7 @@ msgstr "좋습니다, 그를 풀어 주세요! 오와에크(Owaec), 우리가 �
 msgid ""
 "Very well. Owaec, we will aid you in driving out these bandits. Dacyn, cast "
 "your spell!"
-msgstr "좋소. 오와에크, 우리가 도적들을 몰아내는 일을 돕겠소. 다신, 주문을 시전하시오!"
+msgstr "좋소. 오와에크(Owaec), 우리가 도적들을 몰아내는 일을 돕겠소. 다신(Dacyn), 주문을 시전하시오!"
 
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:530
@@ -2637,7 +2638,7 @@ msgstr "이렇게 끝나는 건가..."
 msgid ""
 "Huzzah!! At last, these villagers are liberated! Gweddry, thank you for your "
 "aid. I place my Clansmen and myself at your service."
-msgstr "만세!! 드디어 이 마을 사람들을 해방했군! 그웨드리, 도와줘서 고맙네. 나와 우리 부족원들을 자네의 수하로 바치겠네."
+msgstr "만세!! 드디어 이 마을 사람들을 해방했군! 그웨드리(Gweddry), 도와줘서 고맙네. 나와 우리 부족원들을 자네의 수하로 바치겠네."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:704
@@ -2685,7 +2686,7 @@ msgid ""
 "Huzzah!! May these be the first of many undead to fall before our hooves! "
 "Gweddry, thank you for your aid. I place my Clansmen and myself at your "
 "service."
-msgstr "만세!! 이들이 우리 발굽 앞에 쓰러질 수많은 언데드 중 첫 번째가 되기를! 그웨드리, 도와줘서 고맙네. 나와 우리 부족원들을 자네의 수하로 바치겠네."
+msgstr "만세!! 이들이 우리 발굽 앞에 쓰러질 수많은 언데드 중 첫 번째가 되기를! 그웨드리(Gweddry), 도와줘서 고맙네. 나와 우리 부족원들을 자네의 수하로 바치겠네."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:877
@@ -2716,21 +2717,21 @@ msgstr "잠시 후..."
 msgid ""
 "Mage, pull your nose out of your books for a moment, would you? Gweddry and "
 "I have some questions about this invasion you speak of."
-msgstr "마법사, 잠시 책에서 코를 떼어 주겠나? 그웨드리와 나는 자네가 말한 침공에 대해 물어볼 것이 있네."
+msgstr "마법사, 잠시 책에서 코를 떼어 주겠나? 그웨드리(Gweddry)와 나는 자네가 말한 침공에 대해 물어볼 것이 있네."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:966
 msgid ""
 "Back at the undead capital, the lich Mal-Ravanal referred to you as an old "
 "friend. What history is there between you?"
-msgstr "언데드 수도에서 리치 말-라바날이 당신을 오랜 친구라고 불렀습니다. 두 분 사이에는 어떤 과거가 있습니까?"
+msgstr "언데드 수도에서 리치 말-라바날(Mal-Ravanal)이 당신을 오랜 친구라고 불렀습니다. 두 분 사이에는 어떤 과거가 있습니까?"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:973
 msgid ""
 "What do you know of the dread lich they called Mal-Ravanal? Back at the "
 "southern outpost, you purposely hid yourself to avoid being seen."
-msgstr "말-라바날이라고 불리는 무서운 리치에 대해 무엇을 알고 있습니까? 남부 전초기지에서 당신은 일부러 모습을 숨겼습니다."
+msgstr "말-라바날(Mal-Ravanal)이라고 불리는 무서운 리치에 대해 무엇을 알고 있습니까? 남부 전초기지에서 당신은 일부러 모습을 숨겼습니다."
 
 #. [message]: speaker=Dacyn
 #. "you" being Owaec and Gweddry, they're both questioning him
@@ -2738,7 +2739,7 @@ msgstr "말-라바날이라고 불리는 무서운 리치에 대해 무엇을 �
 msgid ""
 "I suppose you have a right to know of the adversary we face. I will tell you "
 "about Mal-Ravanal."
-msgstr "우리가 맞서고 있는 적에 대해 알 권리가 있다고 생각하네. 말-라바날에 대해 말해 주지."
+msgstr "우리가 맞서고 있는 적에 대해 알 권리가 있다고 생각하네. 말-라바날(Mal-Ravanal)에 대해 말해 주지."
 
 #. [message]: speaker=Dacyn
 #. Dacyn is an unreliable narrator, he only tells events the way he interprets them but not necessarily as an absolute truth
@@ -2752,7 +2753,7 @@ msgid ""
 "greatest mages and eventually bring ruin to the entire kingdom. She offered "
 "only a small piece of cryptic advice, that avoiding this calamity would "
 "require a peerless wisdom to harness the use of tremendous power."
-msgstr "할드릭(Haldric) 7세의 치세 말기에 린타니르 숲의 실프 하나가 웰딘(Weldyn)에 와서, 웨스노스(Wesnoth)의 가장 위대한 마법사들을 타락시키고 결국 왕국 전체를 파멸로 이끌 힘이 나타났다고 말했다. 그녀는 암호 같은 조언을 조금 남겼을 뿐이다. 이 재앙을 피하려면 막대한 힘을 다룰 비할 데 없는 지혜가 필요하다는 것이었다."
+msgstr "할드릭(Haldric) 7세의 치세 말기에 린타니르(Lintanir) 숲의 실프 하나가 웰딘(Weldyn)에 와서, 웨스노스(Wesnoth)의 가장 위대한 마법사들을 타락시키고 결국 왕국 전체를 파멸로 이끌 힘이 나타났다고 말했다. 그녀는 암호 같은 조언을 조금 남겼을 뿐이다. 이 재앙을 피하려면 막대한 힘을 다룰 비할 데 없는 지혜가 필요하다는 것이었다."
 
 #. [message]: speaker=Dacyn
 #. Ravan is also of an unspecified gender, and not assumed to be only human
@@ -2833,7 +2834,7 @@ msgid ""
 "come to a conclusion. I do not have the power to defeat Mal-Ravanal as I am "
 "now. We must travel north, away from Wesnoth, back to the sanctuary where I "
 "had defeated Ravan once before."
-msgstr "그렇소. 하지만 아직 희망을 잃지는 않았소. 이 일을 다시 한번 숙고한 끝에 결론을 내렸소. 지금의 나는 말-라바날을 물리칠 힘이 없소. 우리는 웨스노스(Wesnoth)에서 멀어지는 북쪽으로 가서, 내가 한때 라반(Ravan)을 물리쳤던 성소로 돌아가야 하오."
+msgstr "그렇소. 하지만 아직 희망을 잃지는 않았소. 이 일을 다시 한 번 숙고한 끝에 결론을 내렸소. 지금의 나는 말-라바날(Mal-Ravanal)을 물리칠 힘이 없소. 우리는 웨스노스(Wesnoth)에서 멀어지는 북쪽으로 가서, 내가 한때 라반(Ravan)을 물리쳤던 성소로 돌아가야 하오."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1050
@@ -2849,7 +2850,7 @@ msgid ""
 "withstand the endless armies of the dead. Our blood is limited and the more "
 "it is spilled, the more their strength grows. Only by using the power from "
 "the sanctuary to destroy the Lich can we find salvation."
-msgstr "말-라바날을 물리치(Lich)는 데 실패하면, 우리의 어떤 노력으로도 끝없는 망자의 군대를 막아 낼 수 없소. 우리의 피에는 한계가 있고, 피를 흘릴수록 그들의 힘은 더욱 강해지오. 성소의 힘으로 리치(Lich)를 파괴해야만 구원을 찾을 수 있소."
+msgstr "말-라바날(Mal-Ravanal)을 물리치(Lich)는 데 실패하면, 우리의 어떤 노력으로도 끝없는 망자의 군대를 막아 낼 수 없소. 우리의 피에는 한계가 있고, 피를 흘릴수록 그들의 힘은 더욱 강해지오. 성소의 힘으로 리치(Lich)를 파괴해야만 구원을 찾을 수 있소."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1058
@@ -2934,7 +2935,7 @@ msgid ""
 "Enough of this. We cannot afford to waste time with petty bandits while Mal-"
 "Ravanal ravages Wesnoth. Owaec, come with us or stay here and die, I care "
 "not either way."
-msgstr "이제 그만하지. 말-라바날이 웨스노스(Wesnoth)를 유린하는 동안 하찮은 도적들과 시간을 낭비할 수는 없어. 오와에크(Owaec), 우리와 함께 가든 여기 남아 죽든 상관없다."
+msgstr "이제 그만하지. 말-라바날(Mal-Ravanal)이 웨스노스(Wesnoth)를 유린하는 동안 하찮은 도적들과 시간을 낭비할 수는 없어. 오와에크(Owaec), 우리와 함께 가든 여기 남아 죽든 상관없다."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1148
@@ -2960,7 +2961,7 @@ msgid ""
 "In the west, where the Great River is deep and wide, the few crossings are "
 "known by all and heavily guarded. Hoping to evade detection, Gweddry and his "
 "band made for one of the numerous eastern fords instead..."
-msgstr "위대한 강가 깊고 넓은 서쪽에는 건널 수 있는 곳이 얼마 되지 않아 모두에게 알려져 있고 경비도 삼엄하다. 발각을 피하기 위해 그웨드리 일행은 대신 동쪽의 수많은 여울 중 하나를 향했다..."
+msgstr "위대한 강가 깊고 넓은 서쪽에는 건널 수 있는 곳이 얼마 되지 않아 모두에게 알려져 있고 경비도 삼엄하다. 발각을 피하기 위해 그웨드리(Gweddry) 일행은 대신 동쪽의 수많은 여울 중 하나를 향했다..."
 
 #. [side]: type=Necromancer, id=Mal-un-Karad
 #. male
@@ -2991,7 +2992,7 @@ msgstr "북부 동맹"
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:137
 #| msgid "Mal-un-Zanrad"
 msgid "Defeat Mal-un-Karad"
-msgstr "말-운-카라드를 물리치십시오"
+msgstr "말-운-카라드(Mal-un-Karad)를 물리치십시오"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/06a_Undead_Crossing.cfg:146
@@ -3222,7 +3223,7 @@ msgid ""
 "Since its founding in the early days of Wesnoth, it had grown into a "
 "prosperous and well-fortified border town. Gweddry and his band approached "
 "cautiously, hoping to reunite with Wesnoth’s armies."
-msgstr "왕실이 세우고 기마 부족들이 관리하는 소라도크(Soradoc)는 위대한 강과 웰딘(Weldyn) 강이 만나는 전략적 요충지를 통제했다. 웨스노스(Wesnoth) 초기부터 세워진 이 국경 도시는 번영하고 방비가 튼튼한 도시로 성장했다. 그웨드리 일행은 웨스노스(Wesnoth) 군대와 합류하기를 바라며 조심스럽게 다가갔다."
+msgstr "왕실이 세우고 기마 부족들이 관리하는 소라도크(Soradoc)는 위대한 강과 웰딘(Weldyn) 강이 만나는 전략적 요충지를 통제했다. 웨스노스(Wesnoth) 초기부터 세워진 이 국경 도시는 번영하고 방비가 튼튼한 도시로 성장했다. 그웨드리(Gweddry) 일행은 웨스노스(Wesnoth) 군대와 합류하기를 바라며 조심스럽게 다가갔다."
 
 #. [side]: type=Lancer, id=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:60
@@ -3340,7 +3341,7 @@ msgstr "동의하지만... 강력한 언데드가 도시를 포위하고 있어.
 msgid ""
 "Maybe, maybe not. Remember that our true goal lies far to the north. Nothing "
 "we do here today will more than inconvenience Mal-Ravanal."
-msgstr "그럴 수도, 아닐 수도 있지. 우리의 진짜 목표는 북쪽 먼 곳에 있다는 걸 기억하게. 오늘 여기서 우리가 하는 일은 말-라바날에게 약간의 불편을 주는 것 이상은 아니야."
+msgstr "그럴 수도, 아닐 수도 있지. 우리의 진짜 목표는 북쪽 먼 곳에 있다는 걸 기억하게. 오늘 여기서 우리가 하는 일은 말-라바날(Mal-Ravanal)에게 약간의 불편을 주는 것 이상은 아니야."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:597
@@ -3366,7 +3367,7 @@ msgstr "아, 국경 전초기지에서 내게서 도망친 주둔군이군. 이�
 #. Mal-Mana dispatches a bat messenger to say she's spotted Dacyn.
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:621
 msgid "And see who is among them! I shall inform Mal-Ravanal at once."
-msgstr "그들 사이에 누가 있는지 보아라! 즉시 말-라바날에게 알리겠다."
+msgstr "그들 사이에 누가 있는지 보아라! 즉시 말-라바날(Mal-Ravanal)에게 알리겠다."
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:673
@@ -3561,7 +3562,7 @@ msgstr "아직 언데드 지휘관이 몇 명 남아 있어, 우리가 강을 �
 msgid ""
 "We must not tarry here too long. Mal-Ravanal is fickle and may return to "
 "vanquish us all."
-msgstr "여기 너무 오래 머물러서는 안 됩니다. 말-라바날은 변덕스러우니 돌아와 우리 모두를 물리칠지도 모릅니다."
+msgstr "여기 너무 오래 머물러서는 안 됩니다. 말-라바날(Mal-Ravanal)은 변덕스러우니 돌아와 우리 모두를 물리칠지도 모릅니다."
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/06b_Soradoc.cfg:997
@@ -3742,7 +3743,7 @@ msgid ""
 "humanity and began delving into the dark arts. And it was here where Gweddry "
 "and his men attempted their escape from Wesnoth and Mal-Ravanal’s undead "
 "hordes into the wild northlands."
-msgstr "파르틴(Parthyn) 여울은 악명으로 아베즈(Abez) 다음가는 곳이다. 일리아-말랄의 유령 군대가 처음으로 공포를 퍼뜨렸지만 전설적인 델파도르(Delfador)에게 패퇴한 곳이지. 말린 케샤르(Malin Keshar)가 인간성을 내던지고 어둠의 마법을 파고들기 시작한 곳이기도 하다. 그리고 그웨드리와 병사들이 웨스노스(Wesnoth)와 말-라바날의 언데드 무리를 피해 북쪽 황야로 달아나려 했던 곳도 바로 여기다."
+msgstr "파르틴(Parthyn) 여울은 악명으로 아베즈(Abez) 다음가는 곳이다. 일리아-말랄의 유령 군대가 처음으로 공포를 퍼뜨렸지만 전설적인 델파도르(Delfador)에게 패퇴한 곳이지. 말린 케샤르(Malin Keshar)가 인간성을 내던지고 어둠의 마법을 파고들기 시작한 곳이기도 하다. 그리고 그웨드리(Gweddry)와 병사들이 웨스노스(Wesnoth)와 말-라바날(Mal-Ravanal)의 언데드 무리를 피해 북쪽 황야로 달아나려 했던 곳도 바로 여기다."
 
 #. [side]: type=Ogre, id=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:41
@@ -4025,7 +4026,7 @@ msgid ""
 "Gweddry and his men made good time past the Great River’s northern banks, "
 "leaving the undead far behind. With winter drawing near, they unexpectedly "
 "stumbled upon an inhabited valley..."
-msgstr "그웨드리와 병사들은 위대한 강 북쪽 강변을 빠르게 지나 언데드를 멀리 따돌렸다. 겨울이 다가오던 때, 그들은 뜻밖에도 사람들이 사는 계곡을 발견했다..."
+msgstr "그웨드리(Gweddry)와 병사들은 위대한 강 북쪽 강변을 빠르게 지나 언데드를 멀리 따돌렸다. 겨울이 다가오던 때, 그들은 뜻밖에도 사람들이 사는 계곡을 발견했다..."
 
 #. [side]: type=Dwarvish Lord, id=Pelathsil
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:57
@@ -4054,7 +4055,7 @@ msgstr "바고크(Bagork)"
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:195
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:43
 msgid "Clan Whitefang"
-msgstr "하얀 송곳니 일족"
+msgstr "하얀(Whitefang) 송곳니 일족"
 
 #. [side]: type=Orcish Warlord, id=Prok-Bak
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:143
@@ -4205,7 +4206,7 @@ msgid ""
 "Gweddry, we will have to reprovision despite this conflict. If we spend "
 "cautiously and control enough farms, we should be able to gather enough "
 "supplies to see us through the winter."
-msgstr "그웨드리, 이 전투 중에도 보급품을 다시 마련해야 합니다. 신중하게 지출하고 농장을 충분히 장악하면 겨울을 날 만큼의 물자를 모을 수 있을 겁니다."
+msgstr "그웨드리(Gweddry), 이 전투 중에도 보급품을 다시 마련해야 합니다. 신중하게 지출하고 농장을 충분히 장악하면 겨울을 날 만큼의 물자를 모을 수 있을 겁니다."
 
 #. [message]: speaker=Dolburras
 #. to Gweddry
@@ -4271,7 +4272,7 @@ msgid ""
 "die, we seek an unknown mage hovel with some unknown power that the High "
 "Advisor has yet to explain more about. Gweddry, surely you feel this is "
 "strange?"
-msgstr "... 이제 더는 참을 수 없군. 웨스노스(Wesnoth)가 피를 흘리는 동안 수석 고문은 먹을 것을 찾으러 우리를 북쪽으로 이끌고 있어. 병사와 백성이 죽어 가는데도, 수석 고문이 아무런 설명도 하지 않은 미지의 힘이 있다는 어느 마법사의 오두막을 찾고 있지. 그웨드리, 이건 이상하다고 생각하지 않나?"
+msgstr "... 이제 더는 참을 수 없군. 웨스노스(Wesnoth)가 피를 흘리는 동안 수석 고문은 먹을 것을 찾으러 우리를 북쪽으로 이끌고 있어. 병사와 백성이 죽어 가는데도, 수석 고문이 아무런 설명도 하지 않은 미지의 힘이 있다는 어느 마법사의 오두막을 찾고 있지. 그웨드리(Gweddry), 이건 이상하다고 생각하지 않나?"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:506
@@ -4426,7 +4427,7 @@ msgid ""
 "Gweddry, I urge you to gather at least 300 gold before we head further "
 "north. We cannot afford to tarry here while Wesnoth contends against Mal-"
 "Ravanal."
-msgstr "그웨드리, 더 북쪽으로 가기 전에 금화를 최소 300개 모으길 권합니다. 웨스노스(Wesnoth)가 말-라바날과 싸우는 동안 여기서 지체할 여유는 없습니다."
+msgstr "그웨드리(Gweddry), 더 북쪽으로 가기 전에 금화를 최소 300개 모으길 권합니다. 웨스노스(Wesnoth)가 말-라바날(Mal-Ravanal)과 싸우는 동안 여기서 지체할 여유는 없습니다."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:764
@@ -4440,7 +4441,7 @@ msgstr "점령한 모든 농장에서 보급품을 모으는 일을 끝냈습니
 msgid ""
 "Let us forge onward. We have almost reached our destination, and will soon "
 "have the power to save Wesnoth from Mal-Ravanal."
-msgstr "계속 나아갑시다. 목적지에 거의 다 왔고, 곧 웨스노스(Wesnoth)를 말-라바날에게서 구할 힘을 얻게 될 겁니다."
+msgstr "계속 나아갑시다. 목적지에 거의 다 왔고, 곧 웨스노스(Wesnoth)를 말-라바날(Mal-Ravanal)에게서 구할 힘을 얻게 될 겁니다."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:776
@@ -4456,7 +4457,7 @@ msgid ""
 "Without more provisions it will be difficult to travel further north, but "
 "neither can we afford to spend any more time here while Wesnoth battles Mal-"
 "Ravanal..."
-msgstr "보급품이 더 없으면 북쪽으로 가기 어렵지만, 웨스노스(Wesnoth)가 말-라바날과 싸우는 동안 여기서 더 시간을 보낼 수도 없습니다..."
+msgstr "보급품이 더 없으면 북쪽으로 가기 어렵지만, 웨스노스(Wesnoth)가 말-라바날(Mal-Ravanal)과 싸우는 동안 여기서 더 시간을 보낼 수도 없습니다..."
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:785
@@ -4480,7 +4481,7 @@ msgstr "레벨을 다시 시작합니다."
 msgid ""
 "I only hope we are not too late... If what we saw at Soradoc was any guide, "
 "Mal-Ravanal may soon overrun all of Wesnoth!"
-msgstr "너무 늦지 않았기만을 바랄 뿐이야... 소라도크(Soradoc)에서 본 것이 징조라면 말-라바날이 곧 웨스노스(Wesnoth) 전체를 휩쓸지도 몰라!"
+msgstr "너무 늦지 않았기만을 바랄 뿐이야... 소라도크(Soradoc)에서 본 것이 징조라면 말-라바날(Mal-Ravanal)이 곧 웨스노스(Wesnoth) 전체를 휩쓸지도 몰라!"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:822
@@ -4501,7 +4502,7 @@ msgid ""
 "As Gweddry and his band continued north, winter tightened its grip on the "
 "wildlands. The days began to shorten and the air swiftly grew chill, making "
 "the already challenging mountains even more perilous to traverse."
-msgstr "그웨드리와 일행이 북쪽으로 계속 나아가자 겨울이 황야를 더욱 세게 조여 왔다. 낮이 짧아지고 공기가 빠르게 차가워져, 이미 험난한 산맥을 지나가는 일은 더욱 위험해졌다."
+msgstr "그웨드리(Gweddry)와 일행이 북쪽으로 계속 나아가자 겨울이 황야를 더욱 세게 조여 왔다. 낮이 짧아지고 공기가 빠르게 차가워져, 이미 험난한 산맥을 지나가는 일은 더욱 위험해졌다."
 
 #. [side]: type=Hurricane Drake, id=Kaslar Ro
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:75
@@ -4520,7 +4521,7 @@ msgstr "카슬라르 로"
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:100
 #: data/campaigns/Eastern_Invasion/scenarios/99_Empire.cfg:127
 msgid "Drakes"
-msgstr "반룡들"
+msgstr "반룡족"
 
 #. [side]: type=Sky Drake, id=Kegra
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:105
@@ -4593,7 +4594,7 @@ msgid ""
 "Doubtful, but <i>our</i> victory is close. Across this river lies the "
 "abandoned sanctuary, and within lies an artifact that can destroy Mal-"
 "Ravanal once and for all. That is the object of our quest."
-msgstr "그럴지는 의문이지만, <i>우리의</i> 승리가 가까워진 건 확실해. 이 강 건너에는 버려진 성소가 있고, 그 안에는 말-라바날을 완전히 없앨 수 있는 유물이 있어. 그것이 우리가 찾는 목표야."
+msgstr "그럴지는 의문이지만, <i>우리의</i> 승리가 가까워진 건 확실해. 이 강 건너에는 버려진 성소가 있고, 그 안에는 말-라바날(Mal-Ravanal)을 완전히 없앨 수 있는 유물이 있어. 그것이 우리가 찾는 목표야."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:482
@@ -4698,7 +4699,7 @@ msgid ""
 "Gweddry, you should try to conserve our gold over the next few conflicts. We "
 "will be hard-pressed to find many villages in these lands and will surely "
 "need more for later."
-msgstr "그웨드리, 앞으로 몇 번의 전투에서는 금화를 아끼도록 하세요. 이 땅에서는 마을을 많이 찾기 어려울 테니 나중에 더 필요할 겁니다."
+msgstr "그웨드리(Gweddry), 앞으로 몇 번의 전투에서는 금화를 아끼도록 하세요. 이 땅에서는 마을을 많이 찾기 어려울 테니 나중에 더 필요할 겁니다."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:831
@@ -5035,7 +5036,7 @@ msgstr "고블린 지휘관"
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:681
 msgid "Move Dacyn, Gweddry, and reinforcements into the gate"
-msgstr "다신(Dacyn), 그웨드리와 지원군을 성문 안으로 이동시키세요"
+msgstr "다신(Dacyn), 그웨드리(Gweddry)와 지원군을 성문 안으로 이동시키세요"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:688
@@ -5045,7 +5046,7 @@ msgstr "성문 열쇠 두 개를 찾으세요"
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:695
 msgid "Move Dacyn, Gweddry, and reinforcements into the inner gate"
-msgstr "다신(Dacyn), 그웨드리와 지원군을 안쪽 성문으로 이동시키세요"
+msgstr "다신(Dacyn), 그웨드리(Gweddry)와 지원군을 안쪽 성문으로 이동시키세요"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:702
@@ -5125,7 +5126,7 @@ msgid ""
 "granting false life to the dead will fail, and their fearsome armies will "
 "collapse into piles of bones. I am wielding this power for the good of "
 "Irdya, not for your honor’s sake."
-msgstr "그렇게 근시안적으로 굴지 마시오. 죽은 자의 땅으로 통하는 차원문을 열 힘이 있다면 말-라바날의 영혼을 이 세상에서 끌어낼 수 있소. 그러면 죽은 자에게 거짓 생명을 부여하는 주문이 실패하고, 그 무시무시한 군대는 뼈더미로 무너질 것이오. 나는 당신의 명예를 위해서가 아니라 이르디아의 선을 위해 이 힘을 휘두르고 있소."
+msgstr "그렇게 근시안적으로 굴지 마시오. 죽은 자의 땅으로 통하는 차원문을 열 힘이 있다면 말-라바날(Mal-Ravanal)의 영혼을 이 세상에서 끌어낼 수 있소. 그러면 죽은 자에게 거짓 생명을 부여하는 주문이 실패하고, 그 무시무시한 군대는 뼈더미로 무너질 것이오. 나는 당신의 명예를 위해서가 아니라 이르디아의 선을 위해 이 힘을 휘두르고 있소."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:799
@@ -5150,7 +5151,7 @@ msgid ""
 "nothing of the mystic arts, yet you mask your ignorance by cowering behind a "
 "pretend morality. If that is what you insist on doing, then by all means "
 "return to Wesnoth and add your corpses to Mal-Ravanal’s ever-growing hordes."
-msgstr "당신의 트집 잡기는 이제 지긋지긋하오. 이 어리석은 마구간 소년아, 당신은 신비술에 대해 아무것도 모르면서 가식적인 도덕 뒤에 숨어 자신의 무지를 감추고 있소. 계속 그렇게 하겠다면, 어서 웨스노스(Wesnoth)로 돌아가 말-라바날의 끊임없이 불어나는 무리에 당신의 시체를 보태시오."
+msgstr "당신의 트집 잡기는 이제 지긋지긋하오. 이 어리석은 마구간 소년아, 당신은 신비술에 대해 아무것도 모르면서 가식적인 도덕 뒤에 숨어 자신의 무지를 감추고 있소. 계속 그렇게 하겠다면, 어서 웨스노스(Wesnoth)로 돌아가 말-라바날(Mal-Ravanal)의 끊임없이 불어나는 무리에 당신의 시체를 보태시오."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:811
@@ -5158,7 +5159,7 @@ msgid ""
 "Unlike you, I have the knowledge and power to defeat the undead, and I "
 "intend to use it to destroy Mal-Ravanal. Will you wallow in your "
 "shortsightedness, or do you intend to help me safeguard all that lives?"
-msgstr "당신과 달리 나는 언데드를 물리칠 지식과 힘이 있고, 그것을 사용해 말-라바날을 파괴할 생각이오. 계속 근시안적인 생각에 빠져 있을 작정이오, 아니면 살아 있는 모든 것을 지키는 일을 돕겠소?"
+msgstr "당신과 달리 나는 언데드를 물리칠 지식과 힘이 있고, 그것을 사용해 말-라바날(Mal-Ravanal)을 파괴할 생각이오. 계속 근시안적인 생각에 빠져 있을 작정이오, 아니면 살아 있는 모든 것을 지키는 일을 돕겠소?"
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:820
@@ -5181,7 +5182,7 @@ msgid ""
 "Gweddry, if you truly wish to aid this madman, I will guard the outer gates "
 "for you. But I will not enter that evil stronghold. I would sooner perish "
 "than travel one step closer towards Dacyn’s foul amulet."
-msgstr "그웨드리, 정말로 이 미치광이를 돕고 싶다면 내가 자네를 위해 외문을 지키겠네. 하지만 저 사악한 요새 안으로 들어가지는 않겠네. 다신(Dacyn)의 역겨운 부적에 한 걸음이라도 더 가까이 가느니 차라리 죽겠네."
+msgstr "그웨드리(Gweddry), 정말로 이 미치광이를 돕고 싶다면 내가 자네를 위해 외문을 지키겠네. 하지만 저 사악한 요새 안으로 들어가지는 않겠네. 다신(Dacyn)의 역겨운 부적에 한 걸음이라도 더 가까이 가느니 차라리 죽겠네."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:837
@@ -5248,7 +5249,7 @@ msgid ""
 "This antechamber only has room for eight. I must go to retrieve the "
 "artifact, and Gweddry has agreed to accompany me, so that leaves room for "
 "six more."
-msgstr "이 전실에는 여덟 명만 들어갈 수 있습니다. 나는 유물을 찾으러 가야 하고 그웨드리가 동행하기로 했으니, 여섯 명이 더 들어갈 수 있습니다."
+msgstr "이 전실에는 여덟 명만 들어갈 수 있습니다. 나는 유물을 찾으러 가야 하고 그웨드리(Gweddry)가 동행하기로 했으니, 여섯 명이 더 들어갈 수 있습니다."
 
 #. [message]: speaker=Dacyn
 #. the player needs to choose 6 troops
@@ -5256,7 +5257,7 @@ msgstr "이 전실에는 여덟 명만 들어갈 수 있습니다. 나는 유물
 msgid ""
 "Gweddry, are you still choosing your troops? I must end my turn in the "
 "antechamber to cycle the gate and enter the sanctuary."
-msgstr "그웨드리, 아직 병력을 고르고 있나? 성소에 들어가려면 전실에서 턴을 끝내 성문을 작동해야 해."
+msgstr "그웨드리(Gweddry), 아직 병력을 고르고 있나? 성소에 들어가려면 전실에서 턴을 끝내 성문을 작동해야 해."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:949
@@ -5267,7 +5268,7 @@ msgstr "나는 이 사악한 여정을 돕지 않겠다."
 #. somewhat like an airlock
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1003
 msgid "I am ready to cycle the gates. Gweddry, shall we proceed?"
-msgstr "성문을 작동할 준비가 되었습니다. 그웨드리, 진행할까요?"
+msgstr "성문을 작동할 준비가 되었습니다. 그웨드리(Gweddry), 진행할까요?"
 
 #. [option]
 #. 6 soldiers
@@ -5287,7 +5288,7 @@ msgstr "아니요, 아직은 그럴 수 없어요."
 msgid ""
 "Gweddry, you agreed to accompany me. We must both enter this antechamber "
 "before I cycle the gates."
-msgstr "그웨드리, 나와 동행하기로 했잖아. 내가 성문을 작동하기 전에 우리 둘 다 이 전실에 들어가야 해."
+msgstr "그웨드리(Gweddry), 나와 동행하기로 했잖아. 내가 성문을 작동하기 전에 우리 둘 다 이 전실에 들어가야 해."
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1083
@@ -5852,7 +5853,7 @@ msgstr "(싱긋 웃으며) 네가 그렇게 말해 주길 바랐지!"
 msgid ""
 "Gweddry may command the whole of our party, but do not forget that I too can "
 "recruit and recall! I will need soldiers to hold the line against these orcs."
-msgstr "그웨드리가 우리 일행 전체를 지휘할 수는 있지만, 나도 병사를 모집하고 재소집할 수 있다는 걸 잊지 마십시오! 이 오크들을 상대로 전선을 지킬 병사가 필요합니다."
+msgstr "그웨드리(Gweddry)가 우리 일행 전체를 지휘할 수는 있지만, 나도 병사를 모집하고 재소집할 수 있다는 걸 잊지 마십시오! 이 오크들을 상대로 전선을 지킬 병사가 필요합니다."
 
 #. [message]
 #. Turn 21 (start of the fourth night) the second wave of orcs arrive and announce their plans.
@@ -5912,7 +5913,7 @@ msgid ""
 "Ravanal. I have tried once before. Even as a mage, Ravan’s powers near "
 "outmatched my own. As the lich Mal-Ravanal, perhaps only Delfador the Great "
 "could have stood a chance."
-msgstr "아니, 그웨드리. 나도 확신할 수 없어. 하지만 말-라바날(Mal-Ravanal)을 물리칠 다른 방법은 모르겠군. 전에도 한 번 시도해 보았지. 마법사였을 때조차 라반(Ravan)의 힘은 내 힘에 거의 맞먹었어. 리치 말-라바날(Mal-Ravanal)이 된 지금은 위대한 델파도르(Delfador) 정도만이 맞설 수 있었을지도 모르지."
+msgstr "아니, 그웨드리(Gweddry). 나도 확신할 수 없어. 하지만 말-라바날(Mal-Ravanal)을 물리칠 다른 방법은 모르겠군. 전에도 한 번 시도해 보았지. 마법사였을 때조차 라반(Ravan)의 힘은 내 힘에 거의 맞먹었어. 리치 말-라바날(Mal-Ravanal)이 된 지금은 위대한 델파도르(Delfador) 정도만이 맞설 수 있었을지도 모르지."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2796
@@ -5934,7 +5935,7 @@ msgid ""
 "You are right, Gweddry. I cannot know. But I must try. If I do not, Wesnoth "
 "— nay, all of Irdya — will surely fall to ruin. As long as I try, there is "
 "still a chance. Sacrificing myself means nothing for the greater good."
-msgstr "네 말이 맞아, 그웨드리. 나도 알 수 없어. 하지만 시도해야 해. 내가 하지 않는다면 웨스노스(Wesnoth), 아니 이르디아 전체가 반드시 파멸할 거야. 내가 시도하는 한 아직 기회는 있어. 대의를 위해 나 자신을 희생하는 것은 아무것도 아니야."
+msgstr "네 말이 맞아, 그웨드리(Gweddry). 나도 알 수 없어. 하지만 시도해야 해. 내가 하지 않는다면 웨스노스(Wesnoth), 아니 이르디아 전체가 반드시 파멸할 거야. 내가 시도하는 한 아직 기회는 있어. 대의를 위해 나 자신을 희생하는 것은 아무것도 아니야."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2813
@@ -6020,7 +6021,7 @@ msgid ""
 "After their surrender, Gweddry, Dacyn, and Owaec were promptly taken before "
 "the orcish chieftain, Dra-Nak. The rest were thrown into the prisons to "
 "await their turn..."
-msgstr "항복한 뒤 그웨드리, 다신(Dacyn), 오와에크(Owaec)는 즉시 오크 족장 드라-나크(Dra-Nak) 앞으로 끌려갔습니다. 나머지는 차례를 기다리도록 감옥에 던져졌습니다..."
+msgstr "항복한 뒤 그웨드리(Gweddry), 다신(Dacyn), 오와에크(Owaec)는 즉시 오크 족장 드라-나크(Dra-Nak) 앞으로 끌려갔습니다. 나머지는 차례를 기다리도록 감옥에 던져졌습니다..."
 
 #. [side]
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:94
@@ -6071,7 +6072,7 @@ msgstr "비무장"
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:685
 msgid ""
 "Several of Gweddry’s men find themselves locked away in a crude orcish cell."
-msgstr "그웨드리의 병사 몇 명이 조잡한 오크 감옥에 갇힌 자신들의 처지를 깨달았다."
+msgstr "그웨드리(Gweddry)의 병사 몇 명이 조잡한 오크 감옥에 갇힌 자신들의 처지를 깨달았다."
 
 #. [message]: role=escapee sidekick 1
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:690
@@ -6618,7 +6619,7 @@ msgstr "철수 작전"
 msgid ""
 "Gweddry and his men escaped from the orcish prisons and fled westward as "
 "swiftly as they could, closely pursued by the orcs and their drake vassals."
-msgstr "그웨드리와 병사들은 오크의 감옥에서 탈출해 최대한 빠르게 서쪽으로 달아났고, 오크와 그들의 드레이크 종자들이 바짝 뒤쫓았습니다."
+msgstr "그웨드리(Gweddry)와 병사들은 오크의 감옥에서 탈출해 최대한 빠르게 서쪽으로 달아났고, 오크와 그들의 드레이크 종자들이 바짝 뒤쫓았습니다."
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:273
@@ -6783,7 +6784,7 @@ msgstr "속도를 좀 더 내면 도망치는 데 도움이 되겠지!"
 msgid ""
 "Gweddry, you saw how Dacyn struggled to channel his Light. What do you think "
 "of this?"
-msgstr "그웨드리, 다신(Dacyn)이 자신의 빛을 다루는 데 애먹는 걸 봤지. 이 일을 어떻게 생각해?"
+msgstr "그웨드리(Gweddry), 다신(Dacyn)이 자신의 빛을 다루는 데 애먹는 걸 봤지. 이 일을 어떻게 생각해?"
 
 #. [message]: speaker=Dolburras
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:485
@@ -6795,7 +6796,7 @@ msgstr "그래, 자네 그자의 기침도 눈치챘나? 숨기려는 것 같던
 msgid ""
 "... it is a bad sign, to be sure. But Dacyn is determined to protect Wesnoth "
 "and destroy Mal-Ravanal, and I believe he is our only chance at doing so."
-msgstr "... 분명 나쁜 징조야. 하지만 다신(Dacyn)은 웨스노스(Wesnoth)를 지키고 말-라바날을 물리치겠다고 마음먹었고, 그렇게 할 우리의 유일한 희망인 것 같아."
+msgstr "... 분명 나쁜 징조야. 하지만 다신(Dacyn)은 웨스노스(Wesnoth)를 지키고 말-라바날(Mal-Ravanal)을 물리치겠다고 마음먹었고, 그렇게 할 우리의 유일한 희망인 것 같아."
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/12_Evacuation.cfg:493
@@ -6814,7 +6815,7 @@ msgstr "의도는 선하다는 데 동의하지만, 시간이 지날수록 그 �
 msgid ""
 "I choose to place my faith in the holy Light, not the darkness! We will "
 "overcome Mal-Ravanal’s evil, and this dark amulet’s as well."
-msgstr "나는 어둠이 아니라 성스러운 빛을 믿겠다! 우리는 말-라바날의 악과 이 어두운 부적의 악도 이겨 낼 거야."
+msgstr "나는 어둠이 아니라 성스러운 빛을 믿겠다! 우리는 말-라바날(Mal-Ravanal)의 악과 이 어두운 부적의 악도 이겨 낼 거야."
 
 #. [message]: speaker=Hahid al-Ali
 #. Last message in the "Gweddry, you saw how Dacyn struggled to channel his Light" conversation
@@ -6870,7 +6871,7 @@ msgstr "좋아, 다리를 파괴하자."
 msgid ""
 "Owaec, you fool! I am trapped on the east bank! Without my help Wesnoth will "
 "surely fall to Mal-Ravanal..."
-msgstr "오와에크(Owaec), 이 바보야! 나는 동쪽 강둑에 갇혔어! 내 도움이 없으면 웨스노스(Wesnoth)는 분명 말-라바날에게 무너질 거야..."
+msgstr "오와에크(Owaec), 이 바보야! 나는 동쪽 강둑에 갇혔어! 내 도움이 없으면 웨스노스(Wesnoth)는 분명 말-라바날(Mal-Ravanal)에게 무너질 거야..."
 
 #. [message]: speaker=Dacyn
 #. Owaec has just destroyed the bridge
@@ -6878,7 +6879,7 @@ msgstr "오와에크(Owaec), 이 바보야! 나는 동쪽 강둑에 갇혔어! �
 msgid ""
 "Owaec, you fool! Gweddry is trapped on the east bank! Without his help "
 "Wesnoth will surely fall to Mal-Ravanal..."
-msgstr "오와에크(Owaec), 이 바보야! 그웨드리가 동쪽 강둑에 갇혔어! 그의 도움이 없으면 웨스노스(Wesnoth)는 분명 말-라바날에게 무너질 거야..."
+msgstr "오와에크(Owaec), 이 바보야! 그웨드리(Gweddry)가 동쪽 강둑에 갇혔어! 그의 도움이 없으면 웨스노스(Wesnoth)는 분명 말-라바날(Mal-Ravanal)에게 무너질 거야..."
 
 #. [message]: speaker=Owaec
 #. Several high-level units were left unrecalled. For a brief cutscene, 10 unrecalled units (high levels preferred) appear on the starting castle.
@@ -7064,7 +7065,7 @@ msgid ""
 "As Gweddry, Owaec, and Dacyn fled across the Listra, a frenzy of shouts, "
 "screams, and roars broke out from behind. Neither the orcs nor the drakes "
 "attempted to give pursuit."
-msgstr "그웨드리, 오와에크(Owaec), 다신(Dacyn)이 리스트라를 건너 달아나자 뒤에서 고함과 비명, 포효가 광란처럼 터져 나왔다. 오크도 드레이크도 추격하려 하지 않았다."
+msgstr "그웨드리(Gweddry), 오와에크(Owaec), 다신(Dacyn)이 리스트라를 건너 달아나자 뒤에서 고함과 비명, 포효가 광란처럼 터져 나왔다. 오크도 드레이크도 추격하려 하지 않았다."
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:42
@@ -7219,7 +7220,7 @@ msgstr "신성한 모든 것에 걸고, 저 여자는 노예를 무기로 휘두
 msgid ""
 "More prisoners approach from the northwest! I have not the time to depart "
 "and return with Gweddry, or those dwarves will surely be slain."
-msgstr "북서쪽에서 더 많은 죄수들이 다가온다! 그웨드리와 함께 떠났다가 돌아올 시간이 없다. 그렇지 않으면 저 드워프들은 틀림없이 죽임을 당할 것이다."
+msgstr "북서쪽에서 더 많은 죄수들이 다가온다! 그웨드리(Gweddry)와 함께 떠났다가 돌아올 시간이 없다. 그렇지 않으면 저 드워프들은 틀림없이 죽임을 당할 것이다."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:648
@@ -7567,7 +7568,7 @@ msgid ""
 "pressed hurriedly westward. Their hearts sank as they passed battlefield "
 "after battlefield, in the ruins of what used to be Wesnoth’s thriving "
 "eastern provinces."
-msgstr "웨스노스(Wesnoth) 군과 합류하기를 고대하며 그웨드리, 오와에크(Owaec), 다신(Dacyn)은 서쪽으로 서둘러 나아갔다. 한때 번영했던 웨스노스(Wesnoth) 동부 지방의 폐허에서 전장을 잇달아 지나자 그들의 마음은 무거워졌다."
+msgstr "웨스노스(Wesnoth) 군과 합류하기를 고대하며 그웨드리(Gweddry), 오와에크(Owaec), 다신(Dacyn)은 서쪽으로 서둘러 나아갔다. 한때 번영했던 웨스노스(Wesnoth) 동부 지방의 폐허에서 전장을 잇달아 지나자 그들의 마음은 무거워졌다."
 
 #. [leader]: type=Barrow Wight, id=Sir Seoraery
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:113
@@ -7921,7 +7922,7 @@ msgstr "나도 몰랐네. 느꼈어야 했지만, 어둠이 거의 압도적이�
 msgid ""
 "... but it is a necessary price to pay. I will not let up until Mal-Ravanal "
 "is defeated, whatever the cost may be."
-msgstr "... 하지만 치러야 할 대가야. 대가가 무엇이든 말-라바날을 물리칠 때까지 멈추지 않겠다."
+msgstr "... 하지만 치러야 할 대가야. 대가가 무엇이든 말-라바날(Mal-Ravanal)을 물리칠 때까지 멈추지 않겠다."
 
 #. [message]: speaker=Owaec
 #. Owaec is near his father's castle, and there's a dead (not undead) skeleton on the keep
@@ -8164,7 +8165,7 @@ msgstr "... 리치(Lich), 너는 여기에 있을 자가 아니다... 떠나라.
 msgid ""
 "Is that... an undead dragon? Dear Light! Raising such a powerful thrall must "
 "have been no small feat, even for a necromancer such as Mal-Ravanal."
-msgstr "저게... 언데드 드래곤인가? 오, 빛이시여! 말-라바날 같은 강령술사조차 그렇게 강력한 노예를 되살리는 건 결코 쉬운 일이 아니었을 텐데."
+msgstr "저게... 언데드 드래곤인가? 오, 빛이시여! 말-라바날(Mal-Ravanal) 같은 강령술사조차 그렇게 강력한 노예를 되살리는 건 결코 쉬운 일이 아니었을 텐데."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1745
@@ -8417,7 +8418,7 @@ msgid ""
 "Leaving the rotting Horse Plains far behind, Gweddry, Owaec, and Dacyn "
 "marched hurriedly towards Weldyn, capital of Wesnoth. They dreaded what they "
 "might find there..."
-msgstr "썩어 가는 말 평야를 뒤로 멀리 남겨 둔 채, 그웨드리와 오와에크(Owaec), 다신(Dacyn)은 웨스노스(Wesnoth)의 수도 웰딘(Weldyn)을 향해 서둘러 행군했습니다. 그곳에서 무엇을 발견하게 될지 두려워하면서..."
+msgstr "썩어 가는 말 평야를 뒤로 멀리 남겨 둔 채, 그웨드리(Gweddry)와 오와에크(Owaec), 다신(Dacyn)은 웨스노스(Wesnoth)의 수도 웰딘(Weldyn)을 향해 서둘러 행군했습니다. 그곳에서 무엇을 발견하게 될지 두려워하면서..."
 
 #. [side]: type=General, id=Halrad
 #. [unit]: type=General, id=Halrad
@@ -8545,7 +8546,7 @@ msgid ""
 "The siege around Westin has been broken, but Kerlath’s forces are badly "
 "depleted. I’m afraid we won’t be able to mount a counter-offensive in time "
 "to support you, especially with Mal-Xlana still holding Fort Tahn."
-msgstr "웨스틴(Westin) 포위는 풀렸지만 케를라스(Kerlath)의 병력은 크게 소모되었습니다. 특히 말 즐라나(Mal-Xlana)가 아직 탄 요새를 점령하고 있어, 제때 반격을 개시해 폐하를 지원할 수 없을까 두렵습니다."
+msgstr "웨스틴(Westin) 포위는 풀렸지만 케를라스(Kerlath)의 병력은 크게 소모되었습니다. 특히 말 즐라나(Mal-Xlana)가 아직 탄(Tahn) 요새를 점령하고 있어, 제때 반격을 개시해 폐하를 지원할 수 없을까 두렵습니다."
 
 #. [message]: speaker=Aeraeka
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:872
@@ -8578,7 +8579,7 @@ msgid ""
 "defeat these invaders. The only path to victory is cutting off the head of "
 "the snake. Mal-Ravanal, who you once knew as the mage Ravan, must be "
 "destroyed."
-msgstr "내 이야기와 외모는 중요하지 않다. 중요한 건 내가 이 침략자들을 물리칠 방법을 안다는 거지. 승리로 가는 유일한 길은 뱀의 머리를 자르는 것이다. 자네들이 한때 마법사 라반(Ravan)으로 알았던 말-라바날을 없애야 해."
+msgstr "내 이야기와 외모는 중요하지 않다. 중요한 건 내가 이 침략자들을 물리칠 방법을 안다는 거지. 승리로 가는 유일한 길은 뱀의 머리를 자르는 것이다. 자네들이 한때 마법사 라반(Ravan)으로 알았던 말-라바날(Mal-Ravanal)을 없애야 해."
 
 #. [message]: speaker=Aeraeka
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:910
@@ -8587,7 +8588,7 @@ msgid ""
 "at great cost to their number, but within seconds, Mal-Ravanal had already "
 "taken a new body and returned the favor on our ranks. I myself barely made "
 "it out alive!"
-msgstr "우리가 시도해 보지 않았다고 생각하나?! 우리 최고의 마법사들이 큰 희생을 치르며 그 지긋지긋한 리치를 쓰러뜨렸지만, 불과 몇 초 만에 말-라바날은 새 몸을 차지하고 우리 대열에 똑같이 앙갚음했네. 나도 간신히 살아서 빠져나왔어!"
+msgstr "우리가 시도해 보지 않았다고 생각하나?! 우리 최고의 마법사들이 큰 희생을 치르며 그 지긋지긋한 리치를 쓰러뜨렸지만, 불과 몇 초 만에 말-라바날(Mal-Ravanal)은 새 몸을 차지하고 우리 대열에 똑같이 앙갚음했네. 나도 간신히 살아서 빠져나왔어!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:914
@@ -8613,7 +8614,7 @@ msgid ""
 "and even that cost us four of our elite magi under better conditions. Now "
 "we’ve been cut off from Dan’Tonk and barely have enough men to hold the "
 "walls, much less sortie against the undead."
-msgstr "이 마법의 주술이 통한다고 해도, 말-라바날의 몸을 어떻게 파괴할 생각이지? 우리가 얻었던 유일한 기회도 리치의 오만함 덕분이었고, 상황이 더 좋았는데도 정예 마법사 네 명을 잃었네. 이제 우리는 단톤크와 단절되었고, 성벽을 지킬 병력조차 간신히 남았어. 언데드를 상대로 출격하는 건 더더욱 불가능하지."
+msgstr "이 마법의 주술이 통한다고 해도, 말-라바날(Mal-Ravanal)의 몸을 어떻게 파괴할 생각이지? 우리가 얻었던 유일한 기회도 리치의 오만함 덕분이었고, 상황이 더 좋았는데도 정예 마법사 네 명을 잃었네. 이제 우리는 단톤크와 단절되었고, 성벽을 지킬 병력조차 간신히 남았어. 언데드를 상대로 출격하는 건 더더욱 불가능하지."
 
 #. [message]: speaker=Aeraeka
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:926
@@ -8640,7 +8641,7 @@ msgid ""
 "I will not let the devastation at the plains be the final legacy of the "
 "Clans. We must attack and win back our glory!"
 msgstr ""
-"승산 따위는 신경 쓰지 않겠네! 웨스노스(Wesnoth)의 모든 힘으로 말-라바날을 공격해야 한다고 주장하겠어. 전군으로 공격하면 적의 전선을 뚫고, 전투의 혼란 속에서 말-라바날을 고립시켜 리치를 흔적도 없이 날려 버릴 수 있어!\n"
+"승산 따위는 신경 쓰지 않겠네! 웨스노스(Wesnoth)의 모든 힘으로 말-라바날(Mal-Ravanal)을 공격해야 한다고 주장하겠어. 전군으로 공격하면 적의 전선을 뚫고, 전투의 혼란 속에서 말-라바날(Mal-Ravanal)을 고립시켜 리치를 흔적도 없이 날려 버릴 수 있어!\n"
 "\n"
 "평원에서 벌어진 참상이 부족들의 마지막 유산이 되게 두지는 않겠다. 공격해서 우리의 영광을 되찾아야 해!"
 
@@ -8653,7 +8654,7 @@ msgid ""
 "not more so after gaining lichdom. (cough)(cough) If I were to challenge Mal-"
 "Ravanal to a duel, I believe they would choose to face me. That would be our "
 "opportunity."
-msgstr "내게는 (기침) 더 나은 제안이 있네. 말-라바날의 군대는 거대하고 정복할 수 없어. 하지만 리치 혼자라면 그렇지 않지. 인간이었을 때 라반(Ravan)은 오만할 정도로 자신만만했어. 리치가 된 지금은 더욱 그럴 거라고 생각해. (기침)(기침) 내가 말-라바날에게 결투를 신청하면, 놈은 나와 직접 맞서기를 선택할 거야. 그게 우리의 기회지."
+msgstr "내게는 (기침) 더 나은 제안이 있네. 말-라바날(Mal-Ravanal)의 군대는 거대하고 정복할 수 없어. 하지만 리치 혼자라면 그렇지 않지. 인간이었을 때 라반(Ravan)은 오만할 정도로 자신만만했어. 리치가 된 지금은 더욱 그럴 거라고 생각해. (기침)(기침) 내가 말-라바날(Mal-Ravanal)에게 결투를 신청하면, 놈은 나와 직접 맞서기를 선택할 거야. 그게 우리의 기회지."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:944
@@ -8662,14 +8663,14 @@ msgid ""
 "power in single combat? Even if you could claim victory with that foul "
 "amulet of yours, we cannot trust that lich to honor the terms of such a "
 "challenge. You would likely find yourself facing their entire army!"
-msgstr "말-라바날이 오만하다고 하면서, 그런 압도적인 힘에 혼자 맞서겠다는 건가? 그 사악한 부적으로 승리를 거둘 수 있다고 해도, 그 리치가 결투의 조건을 지키리라고 믿을 수는 없어. 자네는 적군 전체와 맞서게 될 가능성이 크네!"
+msgstr "말-라바날(Mal-Ravanal)이 오만하다고 하면서, 그런 압도적인 힘에 혼자 맞서겠다는 건가? 그 사악한 부적으로 승리를 거둘 수 있다고 해도, 그 리치가 결투의 조건을 지키리라고 믿을 수는 없어. 자네는 적군 전체와 맞서게 될 가능성이 크네!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:948
 msgid ""
 "We face their entire army regardless. (cough)(cough) The only difference is "
 "whether Mal-Ravanal is commanding in the back or gloating in the front."
-msgstr "어차피 적군 전체와 맞서야 해. (기침)(기침) 차이는 말-라바날이 뒤에서 지휘하느냐 앞에서 승리를 자랑하느냐뿐이지."
+msgstr "어차피 적군 전체와 맞서야 해. (기침)(기침) 차이는 말-라바날(Mal-Ravanal)이 뒤에서 지휘하느냐 앞에서 승리를 자랑하느냐뿐이지."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:956
@@ -8745,7 +8746,7 @@ msgid ""
 "Gweddry, do you recognize me? Do you remember in the Estmarks, when you "
 "mercilessly cut down my defenseless sister? You escaped me once before, but "
 "now I will have my revenge!"
-msgstr "그웨드리, 나를 알아보겠나? 에스트마르크에서 무방비 상태였던 내 누이를 무자비하게 베어 죽인 일을 기억하나? 전에는 네가 나에게서 도망쳤지만, 이제 복수하겠다!"
+msgstr "그웨드리(Gweddry), 나를 알아보겠나? 에스트마르크에서 무방비 상태였던 내 누이를 무자비하게 베어 죽인 일을 기억하나? 전에는 네가 나에게서 도망쳤지만, 이제 복수하겠다!"
 
 #. [message]: speaker=Mal-Kallat
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:867
@@ -8753,7 +8754,7 @@ msgid ""
 "Gweddry, do you recognize me? Do you remember in the Estmarks, when you "
 "mercilessly cut down my defenseless brother? I will kill you for what you "
 "have done."
-msgstr "그웨드리, 나를 알아보겠어? 에스트마르크에서 무방비 상태였던 내 남동생을 무자비하게 베어 죽인 일을 기억해? 네가 한 짓의 대가로 너를 죽이겠다."
+msgstr "그웨드리(Gweddry), 나를 알아보겠어? 에스트마르크에서 무방비 상태였던 내 남동생을 무자비하게 베어 죽인 일을 기억해? 네가 한 짓의 대가로 너를 죽이겠다."
 
 #. [message]: speaker=sibling_corpse
 #. Mal-Skraat or Mal-Kallat is still alive, this is their dead brother/sister reanimated as a Soulless
@@ -8868,7 +8869,7 @@ msgid ""
 "So it is true, Owaec and Gweddry survived! When your forces had not returned "
 "to Wesnoth by winter I feared the worst. I am relieved to see you alive and "
 "well! This is the first good news I’ve heard of the war in quite some time."
-msgstr "정말이었군, 오와에크(Owaec)와 그웨드리가 살아남았어! 겨울이 되어도 자네들의 병력이 웨스노스(Wesnoth)로 돌아오지 않아서 최악의 상황을 걱정했지. 자네들이 무사히 살아 있는 것을 보니 안심이야! 전쟁에 관해 꽤 오랫동안 들은 소식 중 첫 번째 좋은 소식이군."
+msgstr "정말이었군, 오와에크(Owaec)와 그웨드리(Gweddry)가 살아남았어! 겨울이 되어도 자네들의 병력이 웨스노스(Wesnoth)로 돌아오지 않아서 최악의 상황을 걱정했지. 자네들이 무사히 살아 있는 것을 보니 안심이야! 전쟁에 관해 꽤 오랫동안 들은 소식 중 첫 번째 좋은 소식이군."
 
 #. [message]: speaker=Yannic
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1138
@@ -9036,7 +9037,7 @@ msgstr "축복받은 새벽의 첫 햇살이 안개를 뚫고 들어온다! 리�
 msgid ""
 "Take heart, for victory is near at hand! The first rays of sunlight have "
 "pierced through Mal-Ravanal’s night fog."
-msgstr "용기를 내세요, 승리가 눈앞입니다! 첫 햇살이 말-라바날의 밤안개를 뚫고 들어왔습니다."
+msgstr "용기를 내세요, 승리가 눈앞입니다! 첫 햇살이 말-라바날(Mal-Ravanal)의 밤안개를 뚫고 들어왔습니다."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1678
@@ -9051,7 +9052,7 @@ msgstr "보시오, 햇빛의 첫 줄기가 안개를 뚫고 들어왔소! 말-�
 msgid ""
 "The sun has pierced through the night’s fog; Mal-Ravanal’s spell begins to "
 "wane. I need neither Gweddry nor Owaec. I will finish this battle on my own."
-msgstr "태양이 밤의 안개를 뚫고 나왔고 말-라바날(Mal-Ravanal)의 주문이 약해지기 시작했소. 그웨드리도 오와에크(Owaec)도 필요 없소. 이 전투는 내가 혼자 끝내겠소."
+msgstr "태양이 밤의 안개를 뚫고 나왔고 말-라바날(Mal-Ravanal)의 주문이 약해지기 시작했소. 그웨드리(Gweddry)도 오와에크(Owaec)도 필요 없소. 이 전투는 내가 혼자 끝내겠소."
 
 #. [message]: speaker=Dacyn
 #. any undead unit from side 5 (except the leader) that was within 3 hexes of a living unit has died
@@ -9070,7 +9071,7 @@ msgstr "언데드가 후퇴하고 있소! 빛이시여 감사하게도, 드디�
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1776
 msgid "Gweddry has not died in vain; the undead resolve is broken!"
-msgstr "그웨드리는 헛되이 죽지 않았소. 언데드의 결의가 무너졌소!"
+msgstr "그웨드리(Gweddry)는 헛되이 죽지 않았소. 언데드의 결의가 무너졌소!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1782
@@ -9180,14 +9181,14 @@ msgstr "그르르흐..."
 msgid ""
 "Huzzah! Even Mal-Ravanal’s infernal darkness could not dim the spirits of "
 "our men! My friends, we have won a great victory today."
-msgstr "만세! 말-라바날의 지옥 같은 어둠조차 우리 병사들의 사기를 꺾지 못했다! 친구들이여, 오늘 우리는 위대한 승리를 거뒀다."
+msgstr "만세! 말-라바날(Mal-Ravanal)의 지옥 같은 어둠조차 우리 병사들의 사기를 꺾지 못했다! 친구들이여, 오늘 우리는 위대한 승리를 거뒀다."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2019
 msgid ""
 "Now we must press our advantage! Let us strike the undead while they are in "
 "disarray and banish Mal-Ravanal’s dark soul once and for all!"
-msgstr "이제 우세를 몰아붙여야 해! 언데드가 혼란에 빠진 동안 공격해 말-라바날의 어두운 영혼을 완전히 추방하자!"
+msgstr "이제 우세를 몰아붙여야 해! 언데드가 혼란에 빠진 동안 공격해 말-라바날(Mal-Ravanal)의 어두운 영혼을 완전히 추방하자!"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2023
@@ -9197,7 +9198,7 @@ msgid ""
 "Weldyn’s tattered armies. I must face Mal-Ravanal in a duel, and I must be "
 "the one to strike the infernal lich down! I will trust none other than "
 "myself with such responsibility."
-msgstr "복수심에 불타는 부족원 한 명과 누더기가 된 웰딘(Weldyn) 군대에 이르디아 전체의 운명을 맡기지 않겠다. 나는 말-라바날과 결투해야 하고, 그 지긋지긋한 리치를 쓰러뜨리는 것도 내가 해야 해! 이런 책임을 나 자신 외에는 누구에게도 맡길 수 없다."
+msgstr "복수심에 불타는 부족원 한 명과 누더기가 된 웰딘(Weldyn) 군대에 이르디아 전체의 운명을 맡기지 않겠다. 나는 말-라바날(Mal-Ravanal)과 결투해야 하고, 그 지긋지긋한 리치를 쓰러뜨리는 것도 내가 해야 해! 이런 책임을 나 자신 외에는 누구에게도 맡길 수 없다."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2027
@@ -9224,7 +9225,7 @@ msgstr "내 생각에는 우리가..."
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2091
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2154
 msgid "challenge Mal-Ravanal to a duel. <i>(normal)</i>"
-msgstr "말-라바날에게 결투를 신청한다. <i>(보통)</i>"
+msgstr "말-라바날(Mal-Ravanal)에게 결투를 신청한다. <i>(보통)</i>"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2041
@@ -9236,7 +9237,7 @@ msgstr "동의하네. 다신(Dacyn), 당장 전갈을 보내게."
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2105
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2168
 msgid "defeat Mal-Ravanal in pitched battle. <i>(challenging)</i>"
-msgstr "정면 승부로 말-라바날을 물리친다. <i>(어려움)</i>"
+msgstr "정면 승부로 말-라바날(Mal-Ravanal)을 물리친다. <i>(어려움)</i>"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2055
@@ -9249,7 +9250,7 @@ msgid ""
 "Huzzah! Even Mal-Ravanal’s infernal darkness could not dim the spirits of "
 "our men! My friends, we have won a great victory today. Alas, if only "
 "Gweddry were here..."
-msgstr "만세! 말-라바날의 지옥 같은 어둠조차 우리 병사들의 사기를 꺾지 못했다! 친구들이여, 오늘 우리는 위대한 승리를 거뒀다. 아아, 그웨드리가 여기 있었다면..."
+msgstr "만세! 말-라바날(Mal-Ravanal)의 지옥 같은 어둠조차 우리 병사들의 사기를 꺾지 못했다! 친구들이여, 오늘 우리는 위대한 승리를 거뒀다. 아아, 그웨드리(Gweddry)가 여기 있었다면..."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2077
@@ -9257,7 +9258,7 @@ msgid ""
 "... I am certain he would tell us to muster our resolve and regroup to press "
 "our advantage! Let us strike the undead while they are in disarray and "
 "banish Mal-Ravanal’s dark soul once and for all!"
-msgstr "... 분명 그웨드리라면 결의를 다지고 재집결해 우세를 몰아붙이라고 했을 거야! 언데드가 혼란에 빠진 동안 공격해 말-라바날의 어두운 영혼을 완전히 추방하자!"
+msgstr "... 분명 그웨드리라면 결의를 다지고 재집결해 우세를 몰아붙이라고 했을 거야! 언데드가 혼란에 빠진 동안 공격해 말-라바날(Mal-Ravanal)의 어두운 영혼을 완전히 추방하자!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2085
@@ -9265,7 +9266,7 @@ msgid ""
 "Both of you alike speak wisdom. This is a difficult decision, and I have "
 "little time in which to make it. I wish that Gweddry still lived to advise "
 "me, but it seems I must decide on my own."
-msgstr "두 사람 모두 일리가 있네. 어려운 결정이고, 결정할 시간도 얼마 없어. 그웨드리가 살아서 조언해 주었다면 좋았겠지만, 이제는 내가 직접 결정해야 할 것 같군."
+msgstr "두 사람 모두 일리가 있네. 어려운 결정이고, 결정할 시간도 얼마 없어. 그웨드리(Gweddry)가 살아서 조언해 주었다면 좋았겠지만, 이제는 내가 직접 결정해야 할 것 같군."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2089
@@ -9292,7 +9293,7 @@ msgstr "좋아, 군대 준비를 시작하겠습니다!"
 msgid ""
 "The city grows still at last. I wish there was time to mourn, but we still "
 "must decide how to deal with Mal-Ravanal."
-msgstr "마침내 도시가 조용해졌군. 애도할 시간이 있으면 좋겠지만, 아직 말-라바날을 어떻게 처리할지 결정해야 해."
+msgstr "마침내 도시가 조용해졌군. 애도할 시간이 있으면 좋겠지만, 아직 말-라바날(Mal-Ravanal)을 어떻게 처리할지 결정해야 해."
 
 #. [message]: speaker=Gweddry
 #. [message]: speaker=Konrad
@@ -9302,7 +9303,7 @@ msgid ""
 "Owaec had wished for us to strike at the undead and isolate Mal-Ravanal by "
 "force of arms. With their armies in disarray after the failed attack on "
 "Weldyn, this may be our best opportunity."
-msgstr "오와에크(Owaec)는 언데드를 공격하고 무력으로 말-라바날을 고립시키기를 원했지. 웰딘(Weldyn) 공격이 실패해 군대가 혼란에 빠진 지금이 가장 좋은 기회일지도 몰라."
+msgstr "오와에크(Owaec)는 언데드를 공격하고 무력으로 말-라바날(Mal-Ravanal)을 고립시키기를 원했지. 웰딘(Weldyn) 공격이 실패해 군대가 혼란에 빠진 지금이 가장 좋은 기회일지도 몰라."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2144
@@ -9311,7 +9312,7 @@ msgid ""
 "defenders! I must face Mal-Ravanal in a duel, and I must be the one to "
 "strike the infernal lich down! I will trust none other than myself with such "
 "responsibility."
-msgstr "나는 웰딘(Weldyn)의 미약한 수비대에 이르디아 전체의 운명을 맡기지 않겠다! 나는 말-라바날과 결투해야 하고, 그 지긋지긋한 리치를 쓰러뜨리는 것도 내가 해야 해! 이런 책임을 나 자신 외에는 누구에게도 맡길 수 없다."
+msgstr "나는 웰딘(Weldyn)의 미약한 수비대에 이르디아 전체의 운명을 맡기지 않겠다! 나는 말-라바날(Mal-Ravanal)과 결투해야 하고, 그 지긋지긋한 리치를 쓰러뜨리는 것도 내가 해야 해! 이런 책임을 나 자신 외에는 누구에게도 맡길 수 없다."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2172
@@ -9340,7 +9341,7 @@ msgid ""
 "This is a difficult decision, and I have little time in which to make it. I "
 "wish that Gweddry or Owaec still lived to advise me, but it seems I must "
 "decide on my own."
-msgstr "어려운 결정이고, 결정할 시간도 얼마 남지 않았소. 그웨드리나 오와에크(Owaec)가 살아서 조언해 주었으면 좋겠지만, 아무래도 내가 혼자 결정해야 할 것 같소."
+msgstr "어려운 결정이고, 결정할 시간도 얼마 남지 않았소. 그웨드리(Gweddry)나 오와에크(Owaec)가 살아서 조언해 주었으면 좋겠지만, 아무래도 내가 혼자 결정해야 할 것 같소."
 
 #. [option]
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:2208
@@ -9394,7 +9395,7 @@ msgstr "소식은 빠르게 퍼졌습니다. 말-라바날(Mal-Ravanal)이 도�
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:609
 #| msgid "Mal-Ravanal"
 msgid "Defeat Mal-Ravanal"
-msgstr "말-라바날을 물리치십시오"
+msgstr "말-라바날(Mal-Ravanal)을 물리치십시오"
 
 #. [message]: speaker=Mal-Ravanal
 #: data/campaigns/Eastern_Invasion/scenarios/17a_The_Duel.cfg:169
@@ -9526,7 +9527,7 @@ msgstr "보윈(Vowyn)"
 #. last breath for Mal-Tar
 #: data/campaigns/Eastern_Invasion/scenarios/17b_All-In.cfg:361
 msgid "Wait, wait, stop, I surrender! I know your leader Gweddry!"
-msgstr "잠깐, 잠깐, 그만해. 항복하겠어! 너희 지도자 그웨드리를 알아!"
+msgstr "잠깐, 잠깐, 그만해. 항복하겠어! 너희 지도자 그웨드리(Gweddry)를 알아!"
 
 #. [message]: speaker=unit
 #. last breath for Mal-Tar
@@ -9861,7 +9862,7 @@ msgid ""
 "Alas, our work is not yet complete. Mal-Ravanal’s host has been broken, but "
 "in its wake, chaos and disorder prevail throughout the countryside. We will "
 "be years... decades... recovering from the ill wrought here."
-msgstr "아아, 우리의 일은 아직 끝나지 않았소. 말-라바날의 군대는 무너졌지만, 그 여파로 온 지방에 혼란과 무질서가 만연해 있소. 이곳에서 벌어진 재앙을 회복하는 데는 몇 년이... 아니, 수십 년이 걸릴 것이오..."
+msgstr "아아, 우리의 일은 아직 끝나지 않았소. 말-라바날(Mal-Ravanal)의 군대는 무너졌지만, 그 여파로 온 지방에 혼란과 무질서가 만연해 있소. 이곳에서 벌어진 재앙을 회복하는 데는 몇 년이... 아니, 수십 년이 걸릴 것이오..."
 
 #. [message]: speaker=Aeraeka
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:235
@@ -9917,7 +9918,7 @@ msgstr "구... 그루그(Grug) 마법 안 해, 그래 알겠어."
 msgid ""
 "Grug, Gweddry has told me of the help you and your tribe provided his men. "
 "We wish to offer you a new home in the Estmark Hills along with Our thanks."
-msgstr "그루그(Grug), 그웨드리가 네 부족과 네가 그의 병사들에게 베푼 도움을 들었다. 짐은 감사의 뜻과 함께 동부 변경 언덕에 새로운 보금자리를 제공하고자 한다."
+msgstr "그루그(Grug), 그웨드리(Gweddry)가 네 부족과 네가 그의 병사들에게 베푼 도움을 들었다. 짐은 감사의 뜻과 함께 동부 변경 언덕에 새로운 보금자리를 제공하고자 한다."
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:301
@@ -9989,7 +9990,7 @@ msgid ""
 "you honored your word to see this invasion through to its end. The palace "
 "could use a warrior of such caliber. We would offer you a position in the "
 "Royal Guard."
-msgstr "동부 변경 출신의 용병대장 아도긴(Addogin). 자네가 원치 않게 그웨드리를 섬기게 된 이야기는 들었다. 하지만 이 침공이 끝날 때까지 약속을 지킨 것도 들었지. 궁정에는 자네처럼 뛰어난 전사가 필요하다. 왕실 근위대의 자리를 제안하겠다."
+msgstr "동부 변경 출신의 용병대장 아도긴(Addogin). 자네가 원치 않게 그웨드리(Gweddry)를 섬기게 된 이야기는 들었다. 하지만 이 침공이 끝날 때까지 약속을 지킨 것도 들었지. 궁정에는 자네처럼 뛰어난 전사가 필요하다. 왕실 근위대의 자리를 제안하겠다."
 
 #. [message]: speaker=Addogin
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:404
@@ -10030,7 +10031,7 @@ msgid ""
 "Hahid al-Ali, We know of your far-off people, but great distance has caused "
 "little contact between us. May it be thus no longer. If you accept, We would "
 "appoint you as ambassador between our two realms."
-msgstr "하히드 알-알리, 짐은 자네의 먼 나라에 대해 알고 있으나 거리가 너무 멀어 서로 거의 교류하지 못했지. 이제는 더 이상 그러지 않기를 바란다. 받아들인다면 양국 사이의 대사로 임명하겠다."
+msgstr "하히드 알-알리(Hahid al-Ali), 짐은 자네의 먼 나라에 대해 알고 있으나 거리가 너무 멀어 서로 거의 교류하지 못했지. 이제는 더 이상 그러지 않기를 바란다. 받아들인다면 양국 사이의 대사로 임명하겠다."
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:450
@@ -10180,7 +10181,7 @@ msgstr "조용히. 이제 내가 일 하는 동안 방해하지 마세요... 무
 msgid ""
 "And arise, Gweddry, Earl of Estmark! The land for which you shed your blood "
 "shall be put under your hand to be made green again. May you ever prosper."
-msgstr "그리고 일어나시오, 동표의 백작 그웨드리여! 그대가 피를 흘린 땅을 그대의 손에 맡겨 다시 푸르게 만들게 하겠소. 언제나 번영하기를 바라오."
+msgstr "그리고 일어나시오, 동표의 백작 그웨드리(Gweddry)여! 그대가 피를 흘린 땅을 그대의 손에 맡겨 다시 푸르게 만들게 하겠소. 언제나 번영하기를 바라오."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:653
@@ -10188,7 +10189,7 @@ msgid ""
 "And what of Gweddry... He had survived long, sacrificed much, only to meet "
 "his end here at the last. I wish he could have lived to see the peace he has "
 "wrought."
-msgstr "그웨드리는 또 어떠한가... 오래 살아남고 많은 것을 희생했지만, 결국 이곳에서 최후를 맞았구나. 자신이 이룩한 평화를 볼 때까지 살아 있었다면 좋았을 텐데."
+msgstr "그웨드리(Gweddry)는 또 어떠한가... 오래 살아남고 많은 것을 희생했지만, 결국 이곳에서 최후를 맞았구나. 자신이 이룩한 평화를 볼 때까지 살아 있었다면 좋았을 텐데."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Eastern_Invasion/scenarios/18_Epilogue.cfg:665
@@ -10855,7 +10856,7 @@ msgid ""
 "skill have been honed over countless battles, enabling him to direct even "
 "the freshest of recruits to strike strategically against impossible odds and "
 "emerge victorious."
-msgstr "그웨드리는 공식 계급이 없지만, 자신보다 나이가 두 배나 많은 많은 지휘관보다 뛰어난 지도력과 경험을 발산합니다. 수많은 전투를 거치며 연마한 교활함과 전술적 능력으로, 아무리 풋내기 신병이라도 절망적인 상황에서 전략적으로 공격해 승리하도록 이끌 수 있습니다."
+msgstr "그웨드리(Gweddry)는 공식 계급이 없지만, 자신보다 나이가 두 배나 많은 많은 지휘관보다 뛰어난 지도력과 경험을 발산합니다. 수많은 전투를 거치며 연마한 교활함과 전술적 능력으로, 아무리 풋내기 신병이라도 절망적인 상황에서 전략적으로 공격해 승리하도록 이끌 수 있습니다."
 
 #. [unit_type]: id=Veteran Lieutenant, race=human
 #: data/campaigns/Eastern_Invasion/units/Human_Gweddry_Veteran_Lieutenant.cfg:4
@@ -10870,7 +10871,7 @@ msgid ""
 "strike strategically and emerge victorious. His skill with the longsword and "
 "crossbow is not to be underestimated either, nor is the speed with which he "
 "can move despite his heavy armor."
-msgstr "한때 미숙했던 그웨드리는 이제 수많은 전투를 치른 베테랑입니다. 그의 교활함과 전술적 능력은 풋내기 신병조차 전략적으로 공격해 승리하도록 이끕니다. 장검과 쇠뇌를 다루는 솜씨도 얕볼 수 없으며, 무거운 갑옷을 입고도 빠르게 움직이는 능력 또한 마찬가지입니다."
+msgstr "한때 미숙했던 그웨드리(Gweddry)는 이제 수많은 전투를 치른 베테랑입니다. 그의 교활함과 전술적 능력은 풋내기 신병조차 전략적으로 공격해 승리하도록 이끕니다. 장검과 쇠뇌를 다루는 솜씨도 얕볼 수 없으며, 무거운 갑옷을 입고도 빠르게 움직이는 능력 또한 마찬가지입니다."
 
 #. [unit_type]: id=King of Wesnoth, race=human, gender=male
 #: data/campaigns/Eastern_Invasion/units/Human_Konrad_King_of_Wesnoth.cfg:4
@@ -11401,7 +11402,7 @@ msgstr "너무 많은 죽음이... 너무나 무의미한 파괴가..."
 msgid ""
 "Unfortunate. Gweddry has fought with me since the very beginning, only to "
 "fall so close to the end."
-msgstr "안타깝군. 그웨드리는 처음부터 나와 함께 싸웠는데, 끝을 바로 앞두고 쓰러지다니."
+msgstr "안타깝군. 그웨드리(Gweddry)는 처음부터 나와 함께 싸웠는데, 끝을 바로 앞두고 쓰러지다니."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:84
@@ -11528,7 +11529,7 @@ msgid ""
 "It was perhaps as well for the men of Gweddry’s troop that they did not live "
 "to witness the fullness of the grim tide of undead sweeping westward into "
 "Wesnoth, laying waste to all in its path."
-msgstr "그웨드리 부대의 병사들이 살아남아 웨스노스(Wesnoth)로 서쪽을 휩쓸며 지나가는 음산한 언데드의 물결이 모든 것을 파괴하는 모습을 보지 못한 것은 어쩌면 다행이었을 것입니다."
+msgstr "그웨드리(Gweddry) 부대의 병사들이 살아남아 웨스노스(Wesnoth)로 서쪽을 휩쓸며 지나가는 음산한 언데드의 물결이 모든 것을 파괴하는 모습을 보지 못한 것은 어쩌면 다행이었을 것입니다."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:337
@@ -11540,7 +11541,7 @@ msgid ""
 "Wesnoth never learned the fate of Gweddry’s band, but they would soon learn "
 "the full measure of the power of Mal-Ravanal in a war that would end only in "
 "misery and death."
-msgstr "웨스노스(Wesnoth)는 그웨드리 일행의 운명을 끝내 알지 못했지만, 곧 비참과 죽음으로 끝날 전쟁에서 말-라바날의 힘이 얼마나 큰지 뼈저리게 알게 될 것이었습니다."
+msgstr "웨스노스(Wesnoth)는 그웨드리(Gweddry) 일행의 운명을 끝내 알지 못했지만, 곧 비참과 죽음으로 끝날 전쟁에서 말-라바날(Mal-Ravanal)의 힘이 얼마나 큰지 뼈저리게 알게 될 것이었습니다."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:347
@@ -11552,7 +11553,7 @@ msgid ""
 "Their home country had proved to be no refuge for Gweddry’s weary men, and "
 "no more would it for the inhabitants of Wesnoth as foes pressed them on all "
 "sides to a final defense of the doomed kingdom."
-msgstr "그들의 고향은 지친 그웨드리의 병사들에게 피난처가 되어 주지 못했고, 파멸할 왕국의 마지막 방어선으로 적들이 사방에서 밀려들면서 웨스노스(Wesnoth)의 주민들에게도 더 이상 피난처가 되지 못할 것이었습니다."
+msgstr "그들의 고향은 지친 그웨드리(Gweddry)의 병사들에게 피난처가 되어 주지 못했고, 파멸할 왕국의 마지막 방어선으로 적들이 사방에서 밀려들면서 웨스노스(Wesnoth)의 주민들에게도 더 이상 피난처가 되지 못할 것이었습니다."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:357
@@ -11564,7 +11565,7 @@ msgid ""
 "With the staunchest defenders of Wesnoth bested on their home ground, the "
 "once-great kingdom was plunged into final darkness under the hand of Mal-"
 "Ravanal."
-msgstr "웨스노스(Wesnoth)의 가장 굳건한 수호자들마저 본거지에서 패배하자, 한때 위대했던 왕국은 말-라바날의 손아귀 아래 마지막 어둠 속으로 빠져들었습니다."
+msgstr "웨스노스(Wesnoth)의 가장 굳건한 수호자들마저 본거지에서 패배하자, 한때 위대했던 왕국은 말-라바날(Mal-Ravanal)의 손아귀 아래 마지막 어둠 속으로 빠져들었습니다."
 
 #. [message]: speaker=Mal-Mana
 #: data/campaigns/Eastern_Invasion/utils/deaths.cfg:372
@@ -12283,7 +12284,7 @@ msgstr "대담한"
 #. [trait]: id=audacious
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:9
 msgid "Fights normally during unfavorable times of day/night"
-msgstr "낮/밤 중 좋지 않은 시간대에도 평소처럼 싸울 수 있다"
+msgstr "낮/밤 중 불리한 시간대에도 평소처럼 싸울 수 있습니다."
 
 #. [trait]: id=audacious
 #: data/campaigns/Eastern_Invasion/utils/traits.cfg:10
@@ -12443,7 +12444,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #, fuzzy
 #~| msgid "What?! Men, to arms! And where did Dacyn go?!"
 #~ msgid "What?! We must hold the outpost! And where did Dacyn go?!"
-#~ msgstr "뭐야?! 제군, 전투 준비! 이 상황에 다신(Dacyn)은 어딜 간거야?!"
+#~ msgstr "뭐야?! 제군, 전투 준비! 이 상황에 다신(Dacyn)은 어딜 간 거야?!"
 
 #~ msgid ""
 #~ "Gweddry? Good! You are still alive. Quickly, we must leave this place!"
@@ -12540,7 +12541,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "Indeed, I see no better option. Then, we must kill either of the dark "
 #~ "sorcerers. I would prefer to attack the western one, so we can return to "
 #~ "Wesnoth."
-#~ msgstr "좋은 생각이네. 그리고 우린 흑마법사들 중에 한쪽을 죽여야 하네. 나는 서쪽을 공격하는 쪽을 추천하네. 그러면 우린 웨스노스(Wesnoth)에 좀더 가까워질 수 있겠지."
+#~ msgstr "좋은 생각이네. 그리고 우린 흑마법사들 중에 한쪽을 죽여야 하네. 나는 서쪽을 공격하는 쪽을 추천하네. 그러면 우린 웨스노스(Wesnoth)에 좀 더 가까워질 수 있겠지."
 
 #~ msgid "No! You have defeated me, and can re-enter Wesnoth!"
 #~ msgstr "안돼! 너희는 날 무찔렀으니, 다시 웨스노스(Wesnoth)로 갈 수 있겠구나!"
@@ -12650,7 +12651,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "면 놈들과 싸워야 하오."
 
 #~ msgid "Bring forth the assassins, we may be able to poison them!"
-#~ msgstr "암살자들을 앞으로 보내라, 놈들을 중독시키는거다!"
+#~ msgstr "암살자들을 앞으로 보내라, 놈들을 중독시키는 거다!"
 
 #~ msgid ""
 #~ "Your Warlordship, I am the only assassin left! Do you want me to go "
@@ -12772,7 +12773,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "We failed to defeat either enemy! Now more undead will come and we will "
 #~ "be overwhelmed!"
 #~ msgstr ""
-#~ "우린 둘 중 어느쪽도 처리하지 못했다! 이제 리치들이 더 오면 우린 포위될거"
+#~ "우린 둘 중 어느쪽도 처리하지 못했다! 이제 리치들이 더 오면 우린 포위될 거"
 #~ "야!"
 
 #~ msgid ""
@@ -12786,7 +12787,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgstr "안돼!! 놈이 말-라바날(Mal-Ravanal)의 수도로 가면, 놈을 놓친 나는 처벌을 받을 거야!"
 
 #~ msgid "Mal-Galkar"
-#~ msgstr "Mal-Galkar"
+#~ msgstr "말-갈카르(Mal-Galkar)"
 
 #, fuzzy
 #~| msgid ""
@@ -12948,7 +12949,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "Northlands. The westward road will keep us inside the realm of Wesnoth, "
 #~ "for a time, before we reach another river crossing north of Glyn’s "
 #~ "Forest. If we travel west we will not have to fight orcs immediately."
-#~ msgstr "이제 우리는 일족의 땅에 와 있소. 이쪽은 내가 잘 알지. 북쪽으로 가는 길은 곧장 한강으로 통하오. 그곳을 건너면 오크들의 고향인 북방지역이 나오지. 서쪽 길은 한동안 웨스노스(Wesnoth)의 땅을 지나가게 되오. 그리고 잠시 뒤면 Glyn 숲 북쪽에 있는 또다른 도하점이 나오지. 만일 그 쪽으로 간다면 오크들과 직접 싸우게 될 일은 없소."
+#~ msgstr "이제 우리는 일족의 땅에 와 있소. 이쪽은 내가 잘 알지. 북쪽으로 가는 길은 곧장 한강으로 통하오. 그곳을 건너면 오크들의 고향인 북방지역이 나오지. 서쪽 길은 한동안 웨스노스(Wesnoth)의 땅을 지나가게 되오. 그리고 잠시 뒤면 Glyn 숲 북쪽에 있는 또 다른 도하점이 나오지. 만일 그 쪽으로 간다면 오크들과 직접 싸우게 될 일은 없소."
 
 #, fuzzy
 #~| msgid ""
@@ -13046,7 +13047,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "before that happens."
 #~ msgstr ""
 #~ "강을 건너면 북방지역입니다. 우리가 그쪽에 도착하면 우릴 도와줄 오우거들을 "
-#~ "몇 얻을 수 있을겁니다. 하지만 분명 오크들이 그러기 전에 우릴 공격해 올 겁"
+#~ "몇 얻을 수 있을 겁니다. 하지만 분명 오크들이 그러기 전에 우릴 공격해 올 겁"
 #~ "니다."
 
 #~ msgid "Grug say we no help you! We finish must battle orc with!"
@@ -13056,7 +13057,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "Was that comprehensible to anyone? Silence, foolish ogre. I will deal "
 #~ "with you later. Right now there are men trying to cross this river."
 #~ msgstr ""
-#~ "누가 그 말을 이해하겠냐? 조용히 해, 멍청한 오우거야. 네놈과는 다음에 결판"
+#~ "누가 그 말을 이해하겠냐? 조용히 해, 멍청한 오우 거야. 네놈과는 다음에 결판"
 #~ "을 내지. 지금 당장은 이 강을 건너려는 인간들이 있으니."
 
 #~ msgid "Orc foolish! Die you now!"
@@ -13076,7 +13077,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "be done again."
 #~ msgstr ""
 #~ "좋아! 강을 건넜군. 이제 저 오우거들을 우리편으로 할 수 있을 지 보세. 과거"
-#~ "엔 저들을 회유해서 왕을 위해 일하게 했던 적이 있었지. 어쩌면 그 일을 한번 "
+#~ "엔 저들을 회유해서 왕을 위해 일하게 했던 적이 있었지. 어쩌면 그 일을 한 번 "
 #~ "더 해낼 수 있을 지 모르네."
 
 #, fuzzy
@@ -13175,7 +13176,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgstr "브루그(Vrug) 호수"
 
 #~ msgid "Darg"
-#~ msgstr "Darg"
+#~ msgstr "다르그(Darg)"
 
 #~ msgid "Kraagak"
 #~ msgstr "Kraagak"
@@ -13236,7 +13237,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "gonna want me to blow up that bridge ov’r theah."
 #~ msgstr ""
 #~ "난 공돌이요. 아무래도 내 도움이 필요하신거 같은디. 내가 다리를 날리버리면 "
-#~ "여러분이 훨씬 편할거요."
+#~ "여러분이 훨씬 편할 거요."
 
 #~ msgid "Why would we want to do that?!"
 #~ msgstr "어째서 그게 편해지는 길이오?!"
@@ -13335,7 +13336,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "우릴 기습하려 기다리고 있는 것이 느껴지네."
 
 #~ msgid "I s’ppose we’ll hav’ to wade across it anyway... ugh."
-#~ msgstr "어쨌든 우린 여길 헤쳐 나가야 할거 같네요... 으으."
+#~ msgstr "어쨌든 우린 여길 헤쳐 나가야 할 거 같네요... 으으."
 
 #~ msgid "Findshhhh... slayhhhh... killhhhh..."
 #~ msgstr "찾아아... 없애애... 죽여..."
@@ -13351,7 +13352,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "of Haldric, living in the Northern Mountains. But he radiates a dark "
 #~ "power these days, and I know not why he has taken up residence this far "
 #~ "south. We must find him, and pray that he still has the Null Stone."
-#~ msgstr "나도 모르겠군. 내 추측으로는 드래곤 크라크라스(Khrakrahs)가 아닌가 싶네. 놈은 할드릭(Haldric)의 시대에 북부 산맥에 살던 정말로 강력한 괴수였지. 하지만 놈이 살아있는 것처럼 보이진 않는군. 무슨 일이 있었는지는 몰라도 우린 놈을 무찔러야 하네."
+#~ msgstr "나도 모르겠군. 내 추측으로는 드래곤 크라크라스(Khrakrahs)가 아닌가 싶네. 놈은 할드릭(Haldric)의 시대에 북부 산맥에 살던 정말로 강력한 괴수였지. 하지만 놈이 살아 있는 것처럼 보이진 않는군. 무슨 일이 있었는지는 몰라도 우린 놈을 무찔러야 하네."
 
 #~ msgid "Approaching Weldyn"
 #~ msgstr "웰딘(Weldyn)으로"
@@ -13458,7 +13459,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "That simply makes you cowards. True warriors would have stayed and fought "
 #~ "to the death!"
 #~ msgstr ""
-#~ "그 얘기는 당신이 겁쟁이라는 말 밖에 안되오. 진정한 전사라면 그 자리에 남아"
+#~ "그 얘기는 당신이 겁쟁이라는 말 밖에 안 되오. 진정한 전사라면 그 자리에 남아"
 #~ "서 죽을때까지 싸웠을 것이오!"
 
 #~ msgid "Sire, the undead armies are attacking!"
@@ -13550,7 +13551,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "We will be years... perhaps decades... recovering from the ill he has "
 #~ "wrought."
 #~ msgstr ""
-#~ "우리는 그가 가져온 해악으로부터 벗어나는데 수년... 어쩌면 수십년은 걸릴 것"
+#~ "우리는 그가 가져온 해악으로부터 벗어나는데 수년... 어쩌면 수십 년은 걸릴 것"
 #~ "이다."
 
 #, fuzzy
@@ -13697,7 +13698,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgstr "우리 남쪽의 어딘가일세. 우리는 북쪽에 있는 숨겨진 통로에 있지. 아, 그리고 오와에크(Owaec)과 함께 다른 몇몇도 탈출했다네."
 
 #~ msgid "Well, where’s their leader? I don’t see him."
-#~ msgstr "흠, 놈들의 대장은 어디 있나? 안보이는데."
+#~ msgstr "흠, 놈들의 대장은 어디 있나? 안 보이는데."
 
 #~ msgid "whisper^I dunno. He escaped, I think."
 #~ msgstr "모르겠는데요. 도망친거 같습니다. 제 생각엔."
@@ -13767,7 +13768,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgid ""
 #~ "But... somehow, I do not think Dacyn has abandoned us. He must have had a "
 #~ "reason for leaving."
-#~ msgstr "하지만... 어쩐지 다신(Dacyn)이 우릴 버린 건 아니라는 생각이 드는군. 그가 사라진 데는 이유가 있을거야."
+#~ msgstr "하지만... 어쩐지 다신(Dacyn)이 우릴 버린 건 아니라는 생각이 드는군. 그가 사라진 데는 이유가 있을 거야."
 
 #~ msgid ""
 #~ "Hurry! Before long enemy reinforcements will arrive, and we will all die! "
@@ -13892,7 +13893,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgid ""
 #~ "I think Dacyn and Owaec have escaped already. Now I have to, also... "
 #~ "these guards are not being very alert, I may be able to get past them..."
-#~ msgstr "다신(Dacyn)과 오와에크(Owaec)은 벌써 탈출했다고 생각된다. 이제 나도 가야해... 이 경비들은 별로 경계를 하고 있지 않은 것 같으니, 놈들을 지나갈 수 있을거다..."
+#~ msgstr "다신(Dacyn)과 오와에크(Owaec)은 벌써 탈출했다고 생각된다. 이제 나도 가야 해... 이 경비들은 별로 경계를 하고 있지 않은 것 같으니, 놈들을 지나갈 수 있을 거다..."
 
 #~ msgid "Aha! There is a small crack in the cave wall here."
 #~ msgstr "아하! 여기 동굴 벽에 조그만 틈이 있군."
@@ -13914,7 +13915,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgstr "우린 남쪽으로 향해서, 웨스노스(Wesnoth)로 돌아갈 수 있습니다... 하지만 그렇게 해서 얻어지는 게 있는지는 모르겠군요."
 
 #~ msgid "It would accomplish nothing! The undead will kill us all!"
-#~ msgstr "그래선 아무것도 안돼! 언데드들이 우릴 전부 죽일거야!"
+#~ msgstr "그래선 아무것도 안돼! 언데드들이 우릴 전부 죽일 거야!"
 
 #~ msgid ""
 #~ "Have you not heard what Dacyn said? Either the orcs or undead will kill "
@@ -14001,7 +14002,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "No, I don’t think so. I am the only person alive who would recognize the "
 #~ "name Mal-Ravanal, and if he had known I was there when he attacked, he "
 #~ "would have pursued us much more vigorously."
-#~ msgstr "아니오, 그럴 것 같지는 않습니다. 나는 말-라바날(Mal-Ravanal)이라는 이름을 듣고서 살아있는 유일한 인물이니, 놈이 공격하던 때 내가 거기 있다는 걸 알았다면 놈은 우릴 훨씬 맹렬하게 추적했을 겁니다."
+#~ msgstr "아니오, 그럴 것 같지는 않습니다. 나는 말-라바날(Mal-Ravanal)이라는 이름을 듣고서 살아 있는 유일한 인물이니, 놈이 공격하던 때 내가 거기 있다는 걸 알았다면 놈은 우릴 훨씬 맹렬하게 추적했을 겁니다."
 
 #~ msgid "Messenger of Doom"
 #~ msgstr "파멸의 전령"
@@ -14023,12 +14024,12 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "may sing that you defeated my captains, but in reality you did nothing "
 #~ "but cower far behind the lines in safety while others braver than you "
 #~ "fought and died in your name.”</i>"
-#~ msgstr "그분은 말씀하셨다. <i>\"잘 했다. 너희는 나의 덜 강력한 대장중의 일부를, 내 군대의 조그만 조각을 무찔렀다. 만일 내가 나의 공포의 군단이 가진 모든 힘을 쏟아붓는다면 너희는 벌레처럼 찌그러질 것이다. 하지만 나는 나 개인이 가진 진정한 힘을 보여주는 승리를 원한다. 대장군 그웨드리(Gweddry)와는 달리 나는 내 병사들의 갑옷 뒤에 숨지 않는다! 오(O) 사령관 그웨드리(Gweddry)여, 너는 겁쟁이다! 시인들은 네가 나의 대장들을 무찔렀다고 노래하겠지만, 사실 보면 너는 안전한 전선의 저 뒤편에서 더 용감한 자들이 네 이름 아래 싸우고 죽어가는 동안 아무것도 하지 않고 겁에 질려 있었을 뿐이다.\"</i>"
+#~ msgstr "그분은 말씀하셨다. <i>\"잘 했다. 너희는 나의 덜 강력한 대장중의 일부를, 내 군대의 조그만 조각을 무찔렀다. 만일 내가 나의 공포의 군단이 가진 모든 힘을 쏟아붓는다면 너희는 벌레처럼 찌그러질 것이다. 하지만 나는 나 개인이 가진 진정한 힘을 보여 주는 승리를 원한다. 대장군 그웨드리(Gweddry)와는 달리 나는 내 병사들의 갑옷 뒤에 숨지 않는다! 오(O) 사령관 그웨드리(Gweddry)여, 너는 겁쟁이다! 시인들은 네가 나의 대장들을 무찔렀다고 노래하겠지만, 사실 보면 너는 안전한 전선의 저 뒤편에서 더 용감한 자들이 네 이름 아래 싸우고 죽어가는 동안 아무것도 하지 않고 겁에 질려 있었을 뿐이다.\"</i>"
 
 #~ msgid ""
 #~ "What is the point of this message? Does it consist of anything more than "
 #~ "insults?"
-#~ msgstr "전언의 요점이 뭐냐? 모욕 말고는 아무것도 없는건가?"
+#~ msgstr "전언의 요점이 뭐냐? 모욕 말고는 아무것도 없는 건가?"
 
 #~ msgid ""
 #~ "The point is that you did not defeat my Lord’s minions, it was others "
@@ -14054,7 +14055,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgid ""
 #~ "Gweddry, I don’t think you should accept. He is bound to bring more than "
 #~ "six undead to the battle; he will bring an army!"
-#~ msgstr "그웨드리(Gweddry), 받아들여서는 안될 것 같소. 놈은 당연히 전투에 언데듣 여섯 이상을 동원할거요. 놈은 군단을 끌고 올거요!"
+#~ msgstr "그웨드리(Gweddry), 받아들여서는 안될 것 같소. 놈은 당연히 전투에 언데듣 여섯 이상을 동원할 거요. 놈은 군단을 끌고 올거요!"
 
 #~ msgid ""
 #~ "Well, I think you should accept. There is a small chance that it will be "
@@ -14062,7 +14063,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "undead army."
 #~ msgstr ""
 #~ "글쎄, 나는 자네가 받아들여야 할 것 같네. 공정한 싸움을 할 가능성도 약간은 "
-#~ "있고, 받아들이지 않으면 우린 분명 놈의 언데드 군단 전부를 상대해야 할테니 "
+#~ "있고, 받아들이지 않으면 우린 분명 놈의 언데드 군단 전부를 상대해야 할 테니 "
 #~ "말이야."
 
 #~ msgid ""

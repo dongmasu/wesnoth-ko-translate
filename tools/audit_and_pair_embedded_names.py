@@ -76,6 +76,7 @@ class NameCandidate:
     source: str
     path: Path
     context: str
+    obsolete: bool = False
 
 
 COMMON_SOURCE_WORDS = {
@@ -205,6 +206,16 @@ def candidate_context(source: str, translation: str) -> str:
     return f"{source[:180]} => {translation[:220]}"
 
 
+def is_generated_name_list(block: str, source: str) -> bool:
+    """Exclude runtime-generated comma-separated name tables from prose audits."""
+    del source
+    return (
+        "random_names.lua" in block
+        or "data/core/macros/names.cfg" in block
+        or "Generator for " in block
+    )
+
+
 def find_candidates(path: Path) -> list[NameCandidate]:
     """Find source-name tokens that remain raw in a Korean translation."""
     candidates: list[NameCandidate] = []
@@ -216,9 +227,9 @@ def find_candidates(path: Path) -> list[NameCandidate]:
         if (
             not source
             or not translation
-            or source.count(",") >= 20
             or "=" in source
             or "{" in source
+            or is_generated_name_list(block, source)
             or (is_fuzzy(block) and not obsolete)
             or "msgid_plural" in values
             or "@" in source
@@ -226,7 +237,13 @@ def find_candidates(path: Path) -> list[NameCandidate]:
             continue
 
         source_tokens = set(SOURCE_NAME_TOKEN.findall(source))
-        for token in sorted(source_tokens & set(RAW_NAME_TOKEN.findall(translation))):
+        # A bilingual name such as ``바락 고르(Barag Gór)`` is already
+        # resolved. Do not report the source spelling inside its parentheses
+        # as an unregistered raw English name.
+        unpaired_translation = PARENTHESIZED.sub("", translation)
+        for token in sorted(
+            source_tokens & set(RAW_NAME_TOKEN.findall(unpaired_translation))
+        ):
             if token in COMMON_SOURCE_WORDS:
                 continue
             candidates.append(
@@ -234,6 +251,7 @@ def find_candidates(path: Path) -> list[NameCandidate]:
                     token,
                     path,
                     candidate_context(source, translation),
+                    obsolete=obsolete,
                 )
             )
     return candidates
@@ -251,7 +269,10 @@ def load_pairs(path: Path) -> tuple[list[NamePair], list[str]]:
                 if not ENGLISH_COMPONENT.fullmatch(source):
                     continue
                 korean_prefix = standard[: match.start()].strip()
-                korean_tokens = re.findall(r"[가-힣]+", korean_prefix)
+                # Keep hyphenated Korean transliterations intact.  A source
+                # such as ``Mal-Ravanal`` must pair with ``말-라바날`` rather
+                # than the space-normalized ``말 라바날``.
+                korean_tokens = re.findall(r"[가-힣]+(?:-[가-힣]+)*", korean_prefix)
                 source_tokens = re.findall(r"[A-Za-z]+", source)
                 source_token_count = len(source_tokens)
                 korean = " ".join(korean_tokens[-source_token_count:])
@@ -262,8 +283,15 @@ def load_pairs(path: Path) -> tuple[list[NamePair], list[str]]:
                 # A compound name may occur later as individual components in
                 # prose. Reuse the established transliteration for those
                 # components, but never turn titles into names.
+                # A glossary row that explicitly pairs the complete source
+                # name must remain a single bilingual name. Do not infer
+                # component pairs for it (for example, Mal A’kai).
                 if (
-                    source == row["source_term"]
+                    not (
+                        source.startswith("Mal ")
+                        and f"({source})" in standard
+                    )
+                    and source == row["source_term"]
                     and
                     len(source.split()) > 1
                     and source_token_count > 1
@@ -323,6 +351,25 @@ def pair_translation(translation: str, pair: NamePair) -> tuple[str, int]:
         return f"{pair.korean}{marker}{match.group('particle')}"
 
     return source_pattern.sub(replace_source, updated), changed
+
+
+def remove_component_pair(
+    translation: str, pair: NamePair
+) -> tuple[str, int]:
+    """Remove a source marker from a translated compound component."""
+    pattern = re.compile(
+        re.escape(pair.korean)
+        + f"(?P<particle>{PARTICLE})"
+        + re.escape(f"({pair.source})")
+    )
+    changed = 0
+
+    def replace(match: re.Match[str]) -> str:
+        nonlocal changed
+        changed += 1
+        return f"{pair.korean}{match.group('particle')}"
+
+    return pattern.sub(replace, translation), changed
 
 
 def obsolete_to_parseable(block: str) -> str:
@@ -402,11 +449,66 @@ NESTED_COMPONENT_PAIR = re.compile(
 )
 
 
+def configure_patterns(pairs: list[NamePair]) -> None:
+    """Initialize the patterns shared by the audit and pairing pass."""
+    SOURCE_PATTERNS.clear()
+    SOURCE_PATTERNS.update(
+        {
+            pair.source: re.compile(
+                r"(?<![A-Za-z0-9-])"
+                + re.escape(pair.source)
+                + r"(?![A-Za-z0-9-])"
+            )
+            for pair in pairs
+        }
+    )
+    TRANSLATION_PATTERNS.clear()
+    TRANSLATION_PATTERNS.update(
+        {
+            (pair.korean, pair.source): re.compile(
+                re.escape(pair.korean)
+                + f"(?P<particle>{PARTICLE})(?!{re.escape(f'({pair.source})')})"
+                + r"(?!\()"
+            )
+            for pair in pairs
+        }
+    )
+    SOURCE_TRANSLATION_PATTERNS.clear()
+    SOURCE_TRANSLATION_PATTERNS.update(
+        {
+            pair.source: re.compile(
+                r"(?<![A-Za-z0-9-(])"
+                + re.escape(pair.source)
+                + f"(?P<particle>{PARTICLE})"
+                + r"(?![A-Za-z0-9-])"
+            )
+            for pair in pairs
+        }
+    )
+
+
 def process_file(path: Path, pairs: list[NamePair], apply: bool) -> tuple[int, int]:
     blocks = path.read_text(encoding="utf-8").split("\n\n")
     output: list[str] = []
     changed_messages = 0
     unresolved = 0
+    # Some compound glossary rows intentionally pair only one component, for
+    # example ``Naga Myrmidon`` -> ``나가 미르미돈(Myrmidon)``.  Do not let a
+    # separate ``Naga`` row override the compound's translated race name.
+    partial_compounds: dict[str, set[str]] = {}
+    for pair in pairs:
+        if pair.glossary_source == pair.source:
+            continue
+        source_tokens = set(re.findall(r"[A-Za-z][A-Za-z’'-]*", pair.glossary_source))
+        paired_tokens = set(re.findall(r"[A-Za-z][A-Za-z’'-]*", pair.source))
+        partial_compounds.setdefault(pair.glossary_source, set()).update(
+            source_tokens - paired_tokens
+        )
+    excluded_token_compounds: dict[str, set[str]] = {}
+    for compound, excluded_tokens in partial_compounds.items():
+        for token in excluded_tokens:
+            excluded_token_compounds.setdefault(token, set()).add(compound)
+
     for block in blocks:
         obsolete = any(line.startswith("#~") for line in block.splitlines())
         parseable_block = obsolete_to_parseable(block) if obsolete else block
@@ -419,9 +521,9 @@ def process_file(path: Path, pairs: list[NamePair], apply: bool) -> tuple[int, i
         if (
             not source
             or not translation
-            or source.count(",") >= 20
             or "=" in source
             or "{" in source
+            or is_generated_name_list(block, source)
             or (is_fuzzy(block) and not obsolete)
             or "msgid_plural" in values
         ):
@@ -433,6 +535,18 @@ def process_file(path: Path, pairs: list[NamePair], apply: bool) -> tuple[int, i
             translation,
         )
         message_changes = 0
+        for pair in pairs:
+            if (
+                pair.glossary_source != pair.source
+                or pair.source not in excluded_token_compounds
+                or not any(
+                    compound in pairing_source
+                    for compound in excluded_token_compounds[pair.source]
+                )
+            ):
+                continue
+            updated, count = remove_component_pair(updated, pair)
+            message_changes += count
         whole_sources = {
             pair.source
             for pair in pairs
@@ -446,6 +560,14 @@ def process_file(path: Path, pairs: list[NamePair], apply: bool) -> tuple[int, i
             for component in re.findall(r"[A-Za-z][A-Za-z’'-]*", whole)
         }
         for pair in sorted(pairs, key=lambda item: len(item.source)):
+            if (
+                pair.glossary_source == pair.source
+                and any(
+                    compound in pairing_source
+                    for compound in excluded_token_compounds.get(pair.source, ())
+                )
+            ):
+                continue
             if (
                 pair.source != source
                 and pair.source in whole_components
@@ -497,48 +619,24 @@ def main() -> int:
             for candidate in find_candidates(path):
                 key = (candidate.path.name, candidate.source)
                 candidates.setdefault(key, candidate)
-        for candidate in sorted(
+        ordered = sorted(
             candidates.values(),
             key=lambda item: (item.path.name, item.source),
-        ):
+        )
+        for candidate in ordered:
             print(
                 f"candidate={candidate.path.name}:{candidate.source}\t"
+                f"status={'obsolete' if candidate.obsolete else 'active'}\t"
                 f"{candidate.context}"
             )
+        active_count = sum(not candidate.obsolete for candidate in ordered)
+        obsolete_count = sum(candidate.obsolete for candidate in ordered)
         print(f"candidates={len(candidates)}")
+        print(f"active_candidates={active_count}")
+        print(f"obsolete_candidates={obsolete_count}")
         return 1 if candidates else 0
 
-    SOURCE_PATTERNS.update(
-        {
-            pair.source: re.compile(
-                r"(?<![A-Za-z0-9-])"
-                + re.escape(pair.source)
-                + r"(?![A-Za-z0-9-])"
-            )
-            for pair in pairs
-        }
-    )
-    TRANSLATION_PATTERNS.update(
-        {
-            (pair.korean, pair.source): re.compile(
-                re.escape(pair.korean)
-                + f"(?P<particle>{PARTICLE})(?!{re.escape(f'({pair.source})')})"
-                + r"(?!\()"
-            )
-            for pair in pairs
-        }
-    )
-    SOURCE_TRANSLATION_PATTERNS.update(
-        {
-            pair.source: re.compile(
-                r"(?<![A-Za-z0-9-(])"
-                + re.escape(pair.source)
-                + f"(?P<particle>{PARTICLE})"
-                + r"(?![A-Za-z0-9-])"
-            )
-            for pair in pairs
-        }
-    )
+    configure_patterns(pairs)
     for conflict in conflicts:
         print(f"conflict: {conflict}")
     total_messages = 0

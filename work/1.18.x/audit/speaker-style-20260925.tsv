@@ -1,3 +1,4 @@
+wesnoth-anl-ko.po	narrator	formal=1, other=10, plain=1
 wesnoth-anl-ko.po	unit	plain=4, other=7, formal=3
 wesnoth-did-ko.po	Darken Volk	plain=12, formal=10, other=6, archaic=2
 wesnoth-did-ko.po	Mal Keshar	other=35, plain=15, archaic=8, imperative=1
@@ -98,11 +99,11 @@ wesnoth-sotbe-ko.po	Kapou'e	other=40, plain=20, archaic=7, imperative=2
 wesnoth-sotbe-ko.po	Pirk	plain=3, other=2, archaic=2
 wesnoth-sotbe-ko.po	Thelarion	archaic=1, other=2, plain=3
 wesnoth-sotbe-ko.po	second_unit	other=7, plain=6, imperative=2, formal=3
-wesnoth-tb-ko.po	Arvith	archaic=4, other=16, plain=8
+wesnoth-tb-ko.po	Arvith	archaic=5, other=15, plain=8
 wesnoth-tb-ko.po	Baran	archaic=3, other=7, plain=2
 wesnoth-tb-ko.po	Guard2_leader	plain=1, archaic=2, other=1
 wesnoth-tb-ko.po	second_unit	other=1, formal=2, plain=1
-wesnoth-tb-ko.po	unit	other=3, plain=3, formal=1
+wesnoth-tb-ko.po	unit	other=4, plain=2, formal=1
 wesnoth-thot-ko.po	Aiglondur	other=11, formal=10, plain=7, archaic=1
 wesnoth-thot-ko.po	Angarthing	plain=9, other=7, formal=3
 wesnoth-thot-ko.po	Dulcatulos	plain=2, other=3, formal=1

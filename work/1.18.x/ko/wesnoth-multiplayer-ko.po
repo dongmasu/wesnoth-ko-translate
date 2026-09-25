@@ -18,6 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+
 #. [generic_multiplayer]: id=user_map
 #: data/multiplayer/_main.cfg:8
 msgid "User Map"
@@ -229,7 +230,7 @@ msgstr "턴 종료"
 #: data/multiplayer/factions/drakes-aoh.cfg:4
 #: data/multiplayer/factions/drakes-default.cfg:4
 msgid "Drakes"
-msgstr "반룡들"
+msgstr "반룡족"
 
 #. [multiplayer_side]: id=Drakes, type=random
 #: data/multiplayer/factions/drakes-aoh.cfg:14
@@ -383,7 +384,7 @@ msgid ""
 "break free of its bonds. Until that time comes, she will continue to amuse "
 "herself by arranging battles between the mortal beings unlucky enough to be "
 "drawn into its depths. Designed by Doc Paterson."
-msgstr "오랜 옛날, 대마법사 술라(Sulla)는 혼돈의 힘을 가진 신비한 에너지의 중심부인 천공의 구멍에 봉인되었다. 하지만, 술라(Sulla)는 수백 년이 지나는 동안 점점 그녀의 힘을 바로 그 천공의 구멍 속 혼돈의 폭풍에 맞추어 갔으며, 이제는 그 영향력을 물질 세계에, 수백개의 다른 세계와 현실과 시간대에 있는 영토들에 행사하기 위한 작업을 시작했다. 그녀는 우주의 서로 다른 조각들을 조종하고, 합치고, 천공의 구멍과 원래의 장소로 왔다갔다 보내는 실험을 한다. 어쩌면 그녀 술라(Sulla)가 천공의 구멍을 다루는 데 점점 통달해 가게 되면 언젠가는 그 구속을 풀고 자유를 찾을지도 모른다. 그 순간이 오기까지는, 그녀는 언제까지고 이 심연 속에 떨어진 불운한 필멸자들을 싸움붙이면서 재미를 만끽할 것이다. Doc Paterson 작품."
+msgstr "오랜 옛날, 대마법사 술라(Sulla)는 혼돈의 힘을 가진 신비한 에너지의 중심부인 천공의 구멍에 봉인되었다. 하지만, 술라(Sulla)는 수백 년이 지나는 동안 점점 그녀의 힘을 바로 그 천공의 구멍 속 혼돈의 폭풍에 맞추어 갔으며, 이제는 그 영향력을 물질 세계에, 수백 개의 다른 세계와 현실과 시간대에 있는 영토들에 행사하기 위한 작업을 시작했다. 그녀는 우주의 서로 다른 조각들을 조종하고, 합치고, 천공의 구멍과 원래의 장소로 왔다 갔다 보내는 실험을 한다. 어쩌면 그녀 술라(Sulla)가 천공의 구멍을 다루는 데 점점 통달해 가게 되면 언젠가는 그 구속을 풀고 자유를 찾을지도 모른다. 그 순간이 오기까지는, 그녀는 언제까지고 이 심연 속에 떨어진 불운한 필멸자들을 싸움 붙이면서 재미를 만끽할 것이다. 닥 패터슨(Doc Paterson) 작품."
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Aethermaw.cfg:22
@@ -496,7 +497,7 @@ msgstr "천공의 구멍이 흔들린다."
 #. [multiplayer]: id=multiplayer_Arcanclave_Citadel
 #: data/multiplayer/scenarios/2p_Arcanclave_Citadel.cfg:6
 msgid "2p — Arcanclave Citadel"
-msgstr "2p — 신령한클라베 요새"
+msgstr "2p — 아르칸클레이브(Arcanclave) 요새"
 
 #. [multiplayer]: id=multiplayer_Arcanclave_Citadel
 #: data/multiplayer/scenarios/2p_Arcanclave_Citadel.cfg:7
@@ -519,7 +520,7 @@ msgid ""
 "rumored that several powerful artifacts, remnants from the reign of the "
 "Great Mage Dauntless, may yet remain hidden, lost somewhere within the "
 "granite and obsidian walls of Arcanclave Citadel. Designed by Doc Paterson."
-msgstr "오래전, Haldric의 시대보다 수많은 세기가 앞선 먼 옛날, Lintanir 숲의 가장 동쪽 끝을 훨씬 넘어선 곳에서 위대하고 끔찍한 전쟁이 벌어졌습니다. 기록에는 강력한 전투 마법사이자 뛰어난 전술가이며 신령한 마법의 실천가였던 인물이 등장합니다. 그는 추종자들에게 무적자라는 칭호를 받았습니다. Arcanclave 전투에서 무적자와 그의 군대는 Kah Ruuk이라 불리는 야만적인 마법사 악마 종족과 싸웠습니다. 수만 명의 Kah Ruuk에게 포위된 무적자는 강력한 대지 정령을 소환하는 마법을 사용했습니다. 그 정령은 알 수 없는 이유로 무적자에게 감사의 빚을 지고 있었습니다. 정령은 땅 깊은 곳에서 거대한 바위를 들어 올려 눈 깜짝할 사이에 거대한 요새의 성벽과 방벽으로 만들었습니다. 수천 명의 Kah Ruuk이 Arcanclave 요새를 함락하려다 목숨을 잃었고, 그날 무적자와 그의 병사들은 승리했습니다. 천 년이 넘게 지난 뒤, 전사 여왕 Cynsaun 1세는 Arcanclave 요새 폐허에서 강령술사 부족을 몰아냈고, 이후 여러 해에 걸쳐 그 지역을 군사 거점으로 바꾸었습니다. 위대한 마법사 무적자의 치세에서 남겨진 강력한 유물 몇 점이 아직도 Arcanclave 요새의 화강암과 흑요석 성벽 어딘가에 숨겨진 채 잊혀져 있다는 소문이 있습니다. Doc Paterson 제작."
+msgstr "아주 오래전, 할드릭(Haldric)의 시대보다 수없이 많은 세기 전, 린타니르(Lintanir) 숲의 가장 동쪽 끝 너머 먼 곳에서 위대하고 끔찍한 전쟁이 벌어졌습니다. 기록에 따르면 강력한 전투 마법사이자 뛰어난 전술가이며 비전 마법의 실천가인 인물이 있었고, 추종자들은 그에게 무적자라는 칭호를 붙였습니다. 아르칸클레이브(Arcanclave) 전투에서 무적자와 그의 군대는 카 루크(Kah Ruuk)라고 알려진 잔혹한 마법사 악마 종족과 싸웠습니다. 수만 명의 카 루크(Kah Ruuk)에게 포위된 무적자는 강력한 대지 정령을 소환했습니다. 알 수 없는 이유로 그 정령은 무적자에게 감사의 빚을 지고 있었습니다. 정령은 땅 깊은 곳에서 거대한 바위를 들어 올려 눈 깜짝할 사이에 거대한 요새의 성벽과 방벽으로 만들었습니다. 수천 명의 카 루크(Kah Ruuk)가 아르칸클레이브(Arcanclave) 요새를 함락하려다 목숨을 잃었고, 그날 무적자와 그의 병사들이 승리했습니다. 천 년이 넘게 지난 뒤, 전사 여왕 신사운(Cynsaun) 1세는 아르칸클레이브(Arcanclave) 요새의 폐허에서 강령술사 부족을 몰아냈고, 그 후 몇 년에 걸쳐 이 지역을 군사 요새로 바꾸었습니다. 위대한 마법사 무적자의 통치기에 남겨진 강력한 유물 몇 점이 아직도 아르칸클레이브(Arcanclave) 요새의 화강암과 흑요석 성벽 어딘가에 숨겨진 채 잊혀 있다는 소문이 있습니다. 닥 패터슨(Doc Paterson) 제작."
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Arcanclave_Citadel.cfg:22
@@ -905,7 +906,7 @@ msgid ""
 "(inscribed by Paterson)"
 msgstr ""
 "나가(Naga) 사이에서 릴혼(Rilhon)으로 알려진 이 용감한 전사는 이 물속 동굴 어딘가에 잃어버린 엄청난 보물에 관한 이야기를 들었습니다. 그 보물은 오래전 엘프 영웅 엘로랄두일이 죽인 고대 바실리스크, 차크소(Chak’kso) 네이익스의 이빨로 창끝을 만들었다는 창이었습니다. 전설에 따르면 그 무기는 바로 이 호수의 바닥 어딘가에 잠들어 있었습니다. 이 호수는 자신의 집으로 삼았던 유명한 바다뱀의 이름을 따 루아스콜린 호수라 불립니다. 뱀과 싸울 준비를 마친 릴혼(Rilhon)은 꽤 큰 두 가지 놀라움을 마주했습니다. 첫 번째는 뱀 루아스콜린의 석화된 모습이었습니다. 두 번째는 놀랍게도 이빨을 하나도 잃지 않은 채 아주 멀쩡히 살아 있는 차크소(Chak’kso) 네이익스였습니다.\n"
-"(패터슨이 새김)"
+"(패터슨(Paterson)이 새김)"
 
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:230
@@ -1163,7 +1164,7 @@ msgid ""
 "without a trace. Since that time, many factions have vied for dominion over "
 "the Den of Onis, hoping to unlock the strange and mysterious magics of its "
 "creators."
-msgstr "이 기묘한 동굴은 한때 웃는 악마의 방으로 알려졌으며, 카 루크 오니(Onis)의 내성 요새였습니다. 카 루크는 사악하고 교활한 식인 악마 종족으로, 흔적도 없이 이르디아에서 사라지기 전까지 거의 400년 동안 동부 땅의 사람들을 공포에 떨게 했습니다. 그 후 많은 진영이 오니(Onis)의 소굴을 지배하려 다투며, 그 창조자들이 남긴 기이하고 신비로운 마법을 풀어내려 했습니다."
+msgstr "이 기묘한 동굴은 한때 웃는 악마의 방으로 알려졌으며, 카 루크(Kah Ruuk) 오니(Onis)의 내성 요새였습니다. 카 루크(Kah Ruuk)는 사악하고 교활한 식인 악마 종족으로, 흔적도 없이 이르디아에서 사라지기 전까지 거의 400년 동안 동부 땅의 사람들을 공포에 떨게 했습니다. 그 후 많은 진영이 오니(Onis)의 소굴을 지배하려 다투며, 그 창조자들이 남긴 기이하고 신비로운 마법을 풀어내려 했습니다."
 
 #. [multiplayer]: id=multiplayer_elensefar_courtyard
 #: data/multiplayer/scenarios/2p_Elensefar_Courtyard.cfg:5
@@ -1204,7 +1205,7 @@ msgstr "2인 — 작은 마을들"
 msgid ""
 "Warfare transforms the simple farms and villages of a peaceful region into a "
 "subtly parceled battlefield. Designed by Doc Paterson."
-msgstr "전쟁은 평화로운 지역의 소박한 농장과 마을을 교묘하게 구획된 전장으로 바꿉니다. Doc Paterson 제작."
+msgstr "전쟁은 평화로운 지역의 소박한 농장과 마을을 교묘하게 구획된 전장으로 바꿉니다. 닥 패터슨(Doc Paterson) 제작."
 
 #. [multiplayer]: id=multiplayer_Hellhole
 #: data/multiplayer/scenarios/2p_Hellhole.cfg:7
@@ -1222,7 +1223,7 @@ msgid ""
 "defeated, Myrilel remains a place made desolate and ruined, the gate an "
 "eternal scar on the land that to this day summons forth legions of wandering "
 "undead."
-msgstr "한때 미릴렐 마을은 인류 영역의 가장 동쪽 끝에 있는 평온한 마을이었습니다. 하지만 리치 군벌 말-라바날이 나타나면서 모든 것이 영원히 변했습니다. 그는 마을 한가운데에 형언할 수 없는 흑마법의 문을 찢어 열고 죽음의 군대가 처음 집결할 장소로 삼았습니다. 말-라바날은 패배했지만 미릴렐은 여전히 황폐하고 폐허가 된 곳으로 남아 있으며, 그 문은 땅에 남은 영원한 상처가 되어 오늘날까지 떠도는 언데드 군단을 불러냅니다."
+msgstr "한때 미릴렐 마을은 인류 영역의 가장 동쪽 끝에 있는 평온한 마을이었습니다. 하지만 리치 군벌 말-라바날(Mal-Ravanal)이 나타나면서 모든 것이 영원히 변했습니다. 그는 마을 한가운데에 형언할 수 없는 흑마법의 문을 찢어 열고 죽음의 군대가 처음 집결할 장소로 삼았습니다. 말-라바날(Mal-Ravanal)은 패배했지만 미릴렐은 여전히 황폐하고 폐허가 된 곳으로 남아 있으며, 그 문은 땅에 남은 영원한 상처가 되어 오늘날까지 떠도는 언데드 군단을 불러냅니다."
 
 #. [multiplayer]: id=multiplayer_Hornshark_Island
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:26
@@ -1234,7 +1235,7 @@ msgstr "2p - 뿔상어 섬"
 msgid ""
 "Players must forge strange alliances with the local inhabitants, in order to "
 "survive on this most unusual of islands. Designed by Doc Paterson."
-msgstr "플레이어는 이 기묘한 섬에서 살아남기 위해 현지 주민들과 이상한 동맹을 맺어야 합니다. Doc Paterson 제작."
+msgstr "플레이어는 이 기묘한 섬에서 살아남기 위해 현지 주민들과 이상한 동맹을 맺어야 합니다. 닥 패터슨(Doc Paterson) 제작."
 
 #. [unit]: type=Young Ogre
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:91
@@ -1377,7 +1378,7 @@ msgid ""
 "During the course of play, the terrain will change based on random weather "
 "effects. Default map settings are required for the scenario to work "
 "properly. By Lord-Knightmare."
-msgstr "안개의 섬은 숙련된 플레이어를 위한 생존 시나리오로, 혼자 또는 다른 플레이어와 함께 무작위로 생성되는 AI 유닛에 맞서 싸울 수 있습니다. 모든 적의 파도를 물리치고 살아남으면 승리합니다. 플레이 중에는 무작위 날씨 효과에 따라 지형이 변합니다. 시나리오가 제대로 작동하려면 기본 지도 설정을 사용해야 합니다. Lord-Knightmare 제작."
+msgstr "안개의 섬은 숙련된 플레이어를 위한 생존 시나리오로, 혼자 또는 다른 플레이어와 함께 무작위로 생성되는 AI 유닛에 맞서 싸울 수 있습니다. 모든 적의 파도를 물리치고 살아남으면 승리합니다. 플레이 중에는 무작위 날씨 효과에 따라 지형이 변합니다. 시나리오가 제대로 작동하려면 기본 지도 설정을 사용해야 합니다. 로드 나이트메어(Lord-Knightmare) 제작."
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Isle_of_Mists.cfg:25
@@ -1682,7 +1683,7 @@ msgstr "2인 — 천침(Thousand Stings) 주둔지"
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:47
 #| msgid "Aethermaw — Created by Doc Paterson"
 msgid "A strange place. Designed by Doc Paterson."
-msgstr "기묘한 장소입니다. Doc Paterson이 제작했습니다."
+msgstr "기묘한 장소입니다. 닥 패터슨(Doc Paterson)이 제작했습니다."
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:103

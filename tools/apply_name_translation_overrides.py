@@ -31,7 +31,7 @@ EXACT_TRANSLATIONS = {
     "Muff Toras": "머프 토라스(Muff Toras)",
     "Naga Myrmidon": "나가 미르미돈(Myrmidon)",
     "Pidmer Gar": "피드메르 가르(Pidmer Gar)",
-    "Urza Fastik": "우르자 파스티크(Urza Fastik)",
+    "Urza Fastik": "우르자(Urza) 파스티크(Fastik)",
     "Bragdash Gar": "브라그다시 가르(Bragdash Gar)",
     "Chief Bir-brish": "족장 비르-브리시(Bir-brish)",
     "Contender Gorlack": "경쟁자 고를락(Gorlack)",

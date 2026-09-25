@@ -39,6 +39,7 @@ REPLACEMENTS = (
     (re.compile(r"해야 겠"), "해야겠"),
     (re.compile(r"안됩니다"), "안 됩니다"),
     (re.compile(r"해야합니다"), "해야 합니다"),
+    (re.compile(r"해야하고"), "해야 하고"),
     (re.compile(r"해야한다"), "해야 한다"),
     (re.compile(r"가고싶"), "가고 싶"),
     (re.compile(r"할수밖에"), "할 수밖에"),
@@ -135,6 +136,15 @@ REPLACEMENTS = (
     (re.compile(r"두배"), "두 배"),
     (re.compile(r"잊지마"), "잊지 마"),
     (re.compile(r"있는거"), "있는 거"),
+    (re.compile(r"서있는"), "서 있는"),
+    (re.compile(r"있는것"), "있는 것"),
+    (re.compile(r"없는것"), "없는 것"),
+    (re.compile(r"인것"), "인 것"),
+    (re.compile(r"였을때"), "였을 때"),
+    (re.compile(r"몇분"), "몇 분"),
+    (re.compile(r"깊은곳"), "깊은 곳"),
+    (re.compile(r"에서서"), "에 서서"),
+    (re.compile(r"뭉쳐야합니다"), "뭉쳐야 합니다"),
     (re.compile(r"아퍼져"), "아파져"),
     (re.compile(r"못헤요"), "못해요"),
     (re.compile(r"대 학원"), "대학원"),
@@ -157,24 +167,139 @@ REPLACEMENTS = (
     (re.compile(r"되는것"), "되는 것"),
     (re.compile(r"것같다"), "것 같다"),
     (re.compile(r"동작 하지"), "동작하지"),
+    (re.compile(r"걱정하지마"), "걱정하지 마"),
+    (re.compile(r"추적 할"), "추적할"),
+    (re.compile(r"돌아 가"), "돌아가"),
+    (re.compile(r"알고있는"), "알고 있는"),
+    (re.compile(r"자랑스러워 하"), "자랑스러워하"),
+    (re.compile(r"따르기만하는"), "따르기만 하는"),
+    (re.compile(r"전투시에"), "전투 시에"),
+    (re.compile(r"보좌해준"), "보좌해 준"),
+    (re.compile(r"하는게"), "하는 게"),
+    (re.compile(r"씻기는게"), "씻기는 게"),
+    (re.compile(r"안그럴"), "안 그럴"),
+    (re.compile(r"할께"), "할게"),
+    (re.compile(r"거에요"), "거예요"),
+    (re.compile(r"감사하고 ,"), "감사하고,"),
+    (re.compile(r"몇일"), "며칠"),
+    (re.compile(r"이 곳"), "이곳"),
+    (re.compile(r"돌아가려했"), "돌아가려 했"),
+    (re.compile(r"께요"), "게요"),
+    (re.compile(r"([가-힣])거예요"), r"\1 거예요"),
+    (re.compile(r"([가-힣])거다"), r"\1 거다"),
+    (re.compile(r"([가-힣])거야"), r"\1 거야"),
+    (re.compile(r"있을곳"), "있을 곳"),
+    (re.compile(r"있는곳"), "있는 곳"),
+    (re.compile(r"상징같은"), "상징 같은"),
+    (re.compile(r"매우큰"), "매우 큰"),
+    (re.compile(r"난것"), "난 것"),
+    (re.compile(r"모우려고"), "모으려고"),
+    (re.compile(r"오우 거예요"), "오우거예요"),
+    (re.compile(r"알려줘야해요"), "알려 줘야 해요"),
+    (re.compile(r"치안 판사 인"), "치안 판사인"),
+    (re.compile(r"가치있는"), "가치 있는"),
+    (re.compile(r"기병를"), "기병을"),
+    (re.compile(r"태울만큼"), "태울 만큼"),
+    (re.compile(r"잘만난 것"), "잘 만난 것"),
+    (re.compile(r"속지마십시오"), "속지 마십시오"),
+    (re.compile(r"한번도"), "한 번도"),
+    (re.compile(r"살아있다는"), "살아 있다는"),
+    (re.compile(r"지금즘이면"), "지금쯤이면"),
+    (re.compile(r"하수도으로"), "하수도로"),
+    (re.compile(r"소집 가능한한"), "소집 가능한"),
+    (re.compile(r"이동 가능한한"), "이동 가능한"),
+    (re.compile(r"가능한한 오래"), "가능한 한 오래"),
+    (re.compile(r"([가-힣])에의해"), r"\1에 의해"),
+    (re.compile(r"있는동안"), "있는 동안"),
+    (re.compile(r"지난동안"), "지난 동안"),
+    (re.compile(r"([가-힣])하지마"), r"\1하지 마"),
+    (re.compile(r"하지마"), "하지 마"),
+    (re.compile(r"가담해준"), "가담해 준"),
+    (re.compile(r"싸워주"), "싸워 주"),
+    (re.compile(r"보여주"), "보여 주"),
+    (re.compile(r"떠나는게"), "떠나는 게"),
+    (re.compile(r"대장인것"), "대장인 것"),
+    (re.compile(r"걱정되는건"), "걱정되는 건"),
+    (re.compile(r"가본적"), "가 본 적"),
+    (re.compile(r"어야해"), "어야 해"),
+    (re.compile(r"알아야해"), "알아야 해"),
+    (re.compile(r"남아있어야"), "남아 있어야"),
+    (re.compile(r"원하는게"), "원하는 게"),
+    (re.compile(r"못하는게"), "못하는 게"),
+    (re.compile(r"두려워하지마"), "두려워하지 마"),
+    (re.compile(r"포기하지마"), "포기하지 마"),
+    (re.compile(r"생각하지마"), "생각하지 마"),
+    (re.compile(r"모다 두는것이"), "모아 두는 것이"),
+    (re.compile(r"달라지는건"), "달라지는 건"),
+    (re.compile(r"모든게"), "모든 게"),
+    (re.compile(r"보낸지"), "보낸 지"),
+    (re.compile(r"있을거"), "있을 거"),
+    (re.compile(r"안되네"), "안 되네"),
+    (re.compile(r"안되면"), "안 되면"),
+    (re.compile(r"할테니"), "할 테니"),
+    (re.compile(r"알테니"), "알 테니"),
+    (re.compile(r"참여 할"), "참여할"),
+    (re.compile(r"동작 할"), "동작할"),
+    (re.compile(r"맡기고"), "맡기고"),
+    (re.compile(r"바랄뿐"), "바랄 뿐"),
+    (re.compile(r"가까워지는것"), "가까워지는 것"),
+    (re.compile(r"서있는것"), "서 있는 것"),
+    (re.compile(r"한번"), "한 번"),
+    (re.compile(r"수백개의"), "수백 개의"),
+    (re.compile(r"수십개의"), "수십 개의"),
+    (re.compile(r"몇개의"), "몇 개의"),
+    (re.compile(r"한개의"), "한 개의"),
+    (re.compile(r"두개의"), "두 개의"),
+    (re.compile(r"요새들이곳곳"), "요새들이 곳곳"),
+    (re.compile(r"그 건"), "그건"),
+    (re.compile(r"그말"), "그 말"),
+    (re.compile(r"닫힌후"), "닫힌 후"),
+    (re.compile(r"내것"), "내 것"),
+    (re.compile(r"어느정도"), "어느 정도"),
+    (re.compile(r"다가가지마"), "다가가지 마"),
+    (re.compile(r"놀린거"), "놀린 거"),
+    (re.compile(r"마법사놈"), "마법사 놈"),
+    (re.compile(r"못봤"), "못 봤"),
+    (re.compile(r"안먹힐"), "안 먹힐"),
+    (re.compile(r"볼줄"), "볼 줄"),
+    (re.compile(r"도끼맛"), "도끼 맛"),
+    (re.compile(r"만들어주"), "만들어 주"),
+    (re.compile(r"걸맞는"), "걸맞은"),
+    (re.compile(r"부족들간"), "부족들 간"),
+    (re.compile(r"목말라하는"), "목말라 하는"),
+    (re.compile(r"이야기 할"), "이야기할"),
+    (re.compile(r"잠시후"), "잠시 후"),
+    (re.compile(r"싸움붙이"), "싸움 붙이"),
+    (re.compile(r"왔다갔다"), "왔다 갔다"),
+    (re.compile(r"몇 안 되는"), "몇 안 되는"),
+    (re.compile(r"아무 것도"), "아무것도"),
+    (re.compile(r"([0-9]+)일동안"), r"\1일 동안"),
+    (re.compile(r"잠시동안"), "잠시 동안"),
+    (re.compile(r"세월동안"), "세월 동안"),
 )
 
 
 def normalize_block(block: str) -> tuple[str, int]:
-    if block.lstrip().startswith("#~") or "msgid " not in block:
+    if "msgid " not in block and "#~ msgid " not in block:
         return block, 0
 
     changed = 0
     output: list[str] = []
     in_translation = False
     for line in block.splitlines(keepends=True):
-        if line.startswith("msgstr"):
+        if line.startswith("msgstr") or line.startswith("#~ msgstr"):
             in_translation = True
-        elif line.startswith("msgid") or line.startswith("msgctxt"):
+        elif (
+            line.startswith("msgid")
+            or line.startswith("msgctxt")
+            or line.startswith("#~ msgid")
+            or line.startswith("#~ msgctxt")
+        ):
             in_translation = False
 
         if in_translation and (
             line.startswith('"') or line.startswith("msgstr")
+            or line.startswith("#~ \"") or line.startswith("#~ msgstr")
         ):
             updated = line
             for pattern, replacement in REPLACEMENTS:

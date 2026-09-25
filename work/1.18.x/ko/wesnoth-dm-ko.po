@@ -12,6 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:22
 msgid "Delfador’s Memoirs"
@@ -53,7 +54,7 @@ msgstr "어려움"
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:33
 msgid "Great Mage"
-msgstr "큰 마법사"
+msgstr "대마법사"
 
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:35
@@ -64,7 +65,7 @@ msgid ""
 "all life in Wesnoth?\n"
 "\n"
 msgstr ""
-"약탈자 오크들이 위대한 강 남쪽으로 쏟아져 내려오고, 기이하고 위험한 생물들이 밤에 돌아다니면서 웨스노스(Wesnoth)가 여지없이 혼돈으로 빠져들고 있다. 베일에 싸인 일리아흐-말랄은 누구인가? 당신은 그가 웨스노스(Wesnoth)의 모든 생명을 파괴하기 전에 그를 무찌를 수 있을까?\n"
+"약탈자 오크들이 위대한 강 남쪽으로 쏟아져 내려오고, 기이하고 위험한 생물들이 밤에 돌아다니면서 웨스노스(Wesnoth)가 여지없이 혼돈으로 빠져들고 있다. 베일에 싸인 일리아흐-말랄(Iliah-Malal)은 누구인가? 당신은 그가 웨스노스(Wesnoth)의 모든 생명을 파괴하기 전에 그를 무찌를 수 있을까?\n"
 "\n"
 
 #. [campaign]: id=Delfadors_Memoirs
@@ -410,7 +411,7 @@ msgid ""
 "trained mage and may choose your own path in life. I hope, however, that you "
 "will take my advice and enroll yourself in the service of King Garard. I "
 "have many contacts at the court and—"
-msgstr "델파도르(Delfador), 자네가 내 수련생으로서 있어야 할 시간도 이제 거의 끝났네. 이제 자네는 완전히 수련을 마친 마법사가 되었으니, 이제 스스로 삶의 길을 개척해야 할걸세. 하지만 나는 자네가 내 조언을 받아들여 가라르드(Garard) 국왕을 섬기는 길을 받아드리면 좋겠네. 나는 왕궁에 꽤 많은 인맥이 있고—"
+msgstr "델파도르(Delfador), 자네가 내 수련생으로 있던 시간도 이제 거의 끝났네. 이제 자네는 수련을 마친 마법사가 되었으니, 스스로 삶의 길을 선택할 수 있지. 하지만 내 조언을 받아들여 가라르드(Garard) 국왕을 섬기는 길을 택해 주면 좋겠네. 왕궁에 아는 이가 많아서—"
 
 #. [message]: speaker=Grogor-Tuk
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:81
@@ -437,7 +438,7 @@ msgstr "그 말이 네놈의 실수가 될 거다, 허약한 마법사. 전쟁�
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:94
 msgid "Defeat Grogor-Tuk"
-msgstr "그로고르-툭을 무찔러라"
+msgstr "그로고르-툭(Grogor-Tuk)을 무찔러라"
 
 #. [objective]: condition=lose
 #: data/campaigns/Delfadors_Memoirs/scenarios/02_This_Valley_Belongs_to_Me.cfg:98
@@ -535,7 +536,7 @@ msgstr "미리엔(Miryen) 성채"
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_The_Road_to_Weldyn.cfg:76
 #| msgid "Defeat Hagha-Tan"
 msgid "Defeat Urthaka-Tan"
-msgstr "우르타카-탄을 무찔러라"
+msgstr "우르타카-탄(Urthaka-Tan)을 무찔러라"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Delfadors_Memoirs/scenarios/03_The_Road_to_Weldyn.cfg:98
@@ -657,7 +658,7 @@ msgstr "충성파"
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_Leollyn.cfg:117
 msgid "Defeat Hagha-Tan"
-msgstr "하그하-탄을 무찔러라"
+msgstr "하그하-탄(Hagha-Tan)을 무찔러라"
 
 #. [objective]: condition=lose
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_Leollyn.cfg:125
@@ -669,7 +670,7 @@ msgstr "레올린(Leollyn)의 죽음"
 msgid ""
 "Methor told me that I could find Leollyn in his tower in the Royal Forest "
 "outside the city. It should be near here..."
-msgstr "메토르(Methor)의 얘기로는 도시 밖의 왕실 숲에 있는 탑에서 레올린(Leollyn)을 만날 수 있을거라고 했지. 그게 이 근처에 있을텐데..."
+msgstr "메토르(Methor)의 얘기로는 도시 밖의 왕실 숲에 있는 탑에서 레올린(Leollyn)을 만날 수 있을 거라고 했지. 그게 이 근처에 있을텐데..."
 
 #. [message]: speaker=Hagha-Tan
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_Leollyn.cfg:146
@@ -771,7 +772,7 @@ msgstr "델파도르(Delfador)입니다. 그런데 좋지 않은 소식이 있�
 msgid ""
 "That is ill news indeed... these are dark times. I think you had best return "
 "with me to Weldyn. Garard too, must hear your news."
-msgstr "그건 정말로 안 좋은 소식이구만... 암울한 시대야. 자넨 나와 같이 웰딘(Weldyn)으로 가세. 가라르드(Garard)도 자네의 소식을 들어야할테니."
+msgstr "그건 정말로 안 좋은 소식이구만... 암울한 시대야. 자넨 나와 같이 웰딘(Weldyn)으로 가세. 가라르드(Garard)도 자네의 소식을 들어야할 테니."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/04_Leollyn.cfg:270
@@ -831,7 +832,7 @@ msgid ""
 "the land there falls into anarchy. We were attacked more than once by thugs "
 "and bandits, and by evil creatures that roamed the night in the shapes of "
 "men."
-msgstr "좋지 않습니다, 주군. 아베즈(Abez) 여울 근처 강기슭에 대규모의 오크들이 결집했습니다. 크날가(Knalga)의 난쟁이들의 소식도 끊어졌습니다 — 소문에 의하면 오크들이 그들을 밀어버린 다음에 웨스노스(Wesnoth)로 관심을 돌릴거라고 합니다. 북쪽 지방의 양민들은 달아났고, 그 지역은 무정부상태가 되었습니다. 우린 한번은 깡패와 도적들에게, 또 한번은 밤에 떠돌아다니는 인간의 형체를 한 사악한 생명체들에게 공격받았습니다."
+msgstr "좋지 않습니다, 주군. 아베즈(Abez) 여울 근처 강기슭에 대규모의 오크들이 결집했습니다. 크날가(Knalga)의 난쟁이들의 소식도 끊어졌습니다 — 소문에 의하면 오크들이 그들을 밀어버린 다음에 웨스노스(Wesnoth)로 관심을 돌릴거라고 합니다. 북쪽 지방의 양민들은 달아났고, 그 지역은 무정부상태가 되었습니다. 우린 한 번은 깡패와 도적들에게, 또 한 번은 밤에 떠돌아다니는 인간의 형체를 한 사악한 생명체들에게 공격받았습니다."
 
 #. [message]: speaker=Leollyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_Council_in_Weldyn.cfg:89
@@ -856,7 +857,7 @@ msgid ""
 "worth their mettle. They need reminding that Wesnoth is too hot for them. "
 "Gurcyn, you have been to the west — will the elves lend their archers to "
 "help us?"
-msgstr "그렇다면 허비할 시간이 없군! 내가 군단을 이끌고 아베즈(Abez) 여울로 가겠다. 무모한 오크들은 우리의 국경을 몰래 넘어서 무방비한 곳을 약탈할 생각이겠지만, 패기만만한 적수를 만나면 겁을 먹고 흩어질 것이다. 놈들은 웨스노스(Wesnoth)가 위험한 곳이라는 것을 다시 한번 깨닫게 될 것이다. 구르친(Gurcyn), 자네는 서쪽으로 갔다왔지 — 엘프들이 궁수들을 파병해 주겠다던가?"
+msgstr "그렇다면 허비할 시간이 없군! 내가 군단을 이끌고 아베즈(Abez) 여울로 가겠다. 무모한 오크들은 우리의 국경을 몰래 넘어서 무방비한 곳을 약탈할 생각이겠지만, 패기만만한 적수를 만나면 겁을 먹고 흩어질 것이다. 놈들은 웨스노스(Wesnoth)가 위험한 곳이라는 것을 다시 한 번 깨닫게 될 것이다. 구르친(Gurcyn), 자네는 서쪽으로 갔다왔지 — 엘프들이 궁수들을 파병해 주겠다던가?"
 
 #. [message]: speaker=Gurcyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_Council_in_Weldyn.cfg:97
@@ -896,7 +897,7 @@ msgid ""
 "south of the Ford of Abez. If the dead are restless, they may tell us why. I "
 "had thought to undertake such a mission myself... but now I must remain in "
 "Weldyn... perhaps you could go in my place?"
-msgstr "델파도르(Delfador), 자네에게 시킬 일이 있네... 리오넬(Lionel)이 얘기한 사악한 밤의 생물들이 신경이 쓰이는구만. 전에도 그런 얘기를 들었던 적이 있다네. 영혼의 세계가 이 땅에서 가까운 장소가 몇 군데 있는데, 그곳에선 수련받은 마법사라면 명상을 통해 죽은 자의 영혼과 대화를 나눌 수 있다네. 가장 가까운 곳이 여기서 북서쪽으로 가면 아베즈(Abez) 여울 바로 남쪽에 있는 위대한 강 가운데 작은 섬이라네. 죽은 자들이 평안하지 못한 상태라면, 우리에게 그 이유를 말해줄걸세. 원래는 내가 직접 가려고 했네만... 지금은 웰딘(Weldyn)에 남아있어야만 하겠어... 자네라면 날 대신해줄 수 있을 것 같네만?"
+msgstr "델파도르(Delfador), 자네에게 시킬 일이 있네... 리오넬(Lionel)이 얘기한 사악한 밤의 생물들이 신경이 쓰이는구만. 전에도 그런 얘기를 들었던 적이 있다네. 영혼의 세계가 이 땅에서 가까운 장소가 몇 군데 있는데, 그곳에선 수련받은 마법사라면 명상을 통해 죽은 자의 영혼과 대화를 나눌 수 있다네. 가장 가까운 곳이 여기서 북서쪽으로 가면 아베즈(Abez) 여울 바로 남쪽에 있는 위대한 강 가운데 작은 섬이라네. 죽은 자들이 평안하지 못한 상태라면, 우리에게 그 이유를 말해줄걸세. 원래는 내가 직접 가려고 했네만... 지금은 웰딘(Weldyn)에 남아 있어야만 하겠어... 자네라면 날 대신해줄 수 있을 것 같네만?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/05_Council_in_Weldyn.cfg:128
@@ -1277,7 +1278,7 @@ msgstr "이 늪은 끝없이 이어지는 것 같아요!"
 msgid ""
 "One more day’s travel, I think. We should camp for the night now — we should "
 "be out of it by tomorrow evening."
-msgstr "내가 알기론 하루만 더 가면 되오. 오늘은 여기서 진을 치고 잡시다. 아마 내일 저녁쯤이면 여기서 나갈 수 있을거요."
+msgstr "내가 알기론 하루만 더 가면 되오. 오늘은 여기서 진을 치고 잡시다. 아마 내일 저녁쯤이면 여기서 나갈 수 있을 거요."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/07_Night_in_the_Swamp.cfg:279
@@ -1302,7 +1303,7 @@ msgstr "흐으으음... 만일 내가 저 돌 근처에 갈 수 있다면, 아�
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/07_Night_in_the_Swamp.cfg:302
 msgid "This’ll splinter your bones, you vile monstrosity!"
-msgstr "이놈이 네 뼈를 박살내 줄거다, 이 추악한 괴물!"
+msgstr "이놈이 네 뼈를 박살내 줄 거다, 이 추악한 괴물!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/07_Night_in_the_Swamp.cfg:315
@@ -1354,14 +1355,14 @@ msgstr "저들은 나모들, 즉 나무의 지킴이들인 것 같소. 들어본
 msgid ""
 "I am Ur-Thorodor, eldest of the forest. Who are you human-creatures? You may "
 "not trespass on our island."
-msgstr "나는 숲에서 가장 오래된 자 우르-토로도르다. 너희 인간 생물들은 누구냐? 너희는 우리의 섬에 들어올 수 없다."
+msgstr "나는 숲에서 가장 오래된 자 우르-토로도르(Ur-Thorodor)다. 너희 인간 생물들은 누구냐? 너희는 우리의 섬에 들어올 수 없다."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:94
 msgid ""
 "Ur-Thorodor, please let us pass! We are on a vital mission for King Garard, "
 "in the interests of all living things in Wesnoth."
-msgstr "우르-토로도르, 부디 지나가게 해 주십시오! 우리는 웨스노스(Wesnoth)의 모든 생명체들을 위한 가라르드(Garard) 국왕의 중요한 임무를 수행하고 있습니다."
+msgstr "우르-토로도르(Ur-Thorodor), 부디 지나가게 해 주십시오! 우리는 웨스노스(Wesnoth)의 모든 생명체들을 위한 가라르드(Garard) 국왕의 중요한 임무를 수행하고 있습니다."
 
 #. [message]: speaker=Ur-Thorodor
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:98
@@ -1376,7 +1377,7 @@ msgstr "우린 너희 왕같은 건 신경 쓰지 않는다, 인간 생물들아
 msgid ""
 "This Ur-Thorodor should not speak of King Garard that way! <i>“Suffer our "
 "wrath”</i> indeed... I’ll show him wrath!"
-msgstr "우르-토로도르, 감히 가라르드(Garard) 전하를 그딴 식으로 얘기하다니! <i>‘우리의 분노를 맛보게 되리라’</i> 라니... 내가 놈에게 분노를 보여주겠다!"
+msgstr "우르-토로도르(Ur-Thorodor), 감히 가라르드(Garard) 전하를 그딴 식으로 얘기하다니! <i>‘우리의 분노를 맛보게 되리라’</i> 라니... 내가 놈에게 분노를 보여 주겠다!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:106
@@ -1384,17 +1385,17 @@ msgid ""
 "It seems there is no alternative — we must get onto that island! Perhaps if "
 "we can get close to Ur-Thorodor, and speak with him again, he will "
 "understand."
-msgstr "대안이 없는 듯합니다. 우리는 그 섬으로 가야 합니다! 아마도 우리가 우르-토로도르에게 가까이 가서 그와 다시 대화할 수 있다면, 그는 이해할 것입니다."
+msgstr "대안이 없는 듯합니다. 우리는 그 섬으로 가야 합니다! 아마도 우리가 우르-토로도르(Ur-Thorodor)에게 가까이 가서 그와 다시 대화할 수 있다면, 그는 이해할 것입니다."
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:111
 msgid "Move Delfador to Ur-Thorodor’s castle"
-msgstr "델파도르(Delfador)를 우르-토로도르의 성으로 이동시킬 것"
+msgstr "델파도르(Delfador)를 우르-토로도르(Ur-Thorodor)의 성으로 이동시킬 것"
 
 #. [objective]: condition=lose
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:123
 msgid "Death of Ur-Thorodor"
-msgstr "우르-토로도르의 죽음"
+msgstr "우르-토로도르(Ur-Thorodor)의 죽음"
 
 #. [message]: speaker=Ur-Thorodor
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:150
@@ -1407,7 +1408,7 @@ msgid ""
 "Ur-Thorodor, you must listen to us! A great evil power threatens all living "
 "things in Wesnoth — we must fight against it together, or all life here will "
 "perish."
-msgstr "우르-토로도르, 저희 말을 들으셔야 합니다! 사악하고 강대한 힘이 웨스노스(Wesnoth)의 모든 생명들을 위협하고 있습니다. 우리가 함께 싸우지 않으면, 모든 생명들이 스러지고 말 겁니다."
+msgstr "우르-토로도르(Ur-Thorodor), 저희 말을 들으셔야 합니다! 사악하고 강대한 힘이 웨스노스(Wesnoth)의 모든 생명들을 위협하고 있습니다. 우리가 함께 싸우지 않으면, 모든 생명들이 스러지고 말 겁니다."
 
 #. [message]: speaker=Ur-Thorodor
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:158
@@ -1444,7 +1445,7 @@ msgid ""
 "let me remain here, then I promise you, on behalf of King Garard, that no "
 "Wesnothian will set foot on your island without your permission again. As a "
 "token of good faith, I command my army to return to the mainland."
-msgstr "우르-토로도르여, 제 말을 들어주십시오! 우리는 당신의 섬을 차지하러 온 것이 아닙니다. 저를 여기에 머물게 해준다면, 가라르드(Garard) 국왕을 대신하여 그 어떤 웨스노스인도 당신의 허락없이 이 섬에 발을 들이지 못하게 할 것을 약속하겠습니다. 그 믿음의 증표로, 군대를 본토로 돌려보내도록 명하겠습니다."
+msgstr "우르-토로도르(Ur-Thorodor)여, 제 말을 들어주십시오! 우리는 당신의 섬을 차지하러 온 것이 아닙니다. 저를 여기에 머물게 해준다면, 가라르드(Garard) 국왕을 대신하여 그 어떤 웨스노스인도 당신의 허락없이 이 섬에 발을 들이지 못하게 할 것을 약속하겠습니다. 그 믿음의 증표로, 군대를 본토로 돌려보내도록 명하겠습니다."
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Delfadors_Memoirs/scenarios/08_Ur_Thorodor.cfg:193
@@ -1599,12 +1600,12 @@ msgstr "로르틴(Rorthin)"
 #. [message]: speaker=Rorthin
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:238
 msgid "A living man... so it is as Iliah-Malal says..."
-msgstr "산 자인가... 일리아흐-말랄이 말했던 대로군..."
+msgstr "산 자인가... 일리아흐-말랄(Iliah-Malal)이 말했던 대로군..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:242
 msgid "Speak again, spirit! Tell me of yourself. Who is this Iliah-Malal?"
-msgstr "말해주시오, 영혼이여! 당신에 대해 얘기해주세요. 일리아흐-말랄이 누구죠?"
+msgstr "말해주시오, 영혼이여! 당신에 대해 얘기해주세요. 일리아흐-말랄(Iliah-Malal)이 누구죠?"
 
 #. [message]: speaker=Rorthin
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:246
@@ -1617,14 +1618,14 @@ msgid ""
 "forgotten... Iliah-Malal is a living man, like you, who walks among the "
 "dead. He promises life to all those who follow him. Such is against the way "
 "of things."
-msgstr "내 이름은 로르틴(Rorthin)이다. 나는 오래 전에 큰 전투에서 죽었지... 이젠 거의 기억나지 않는다... 일리아흐-말랄은 너처럼 산 자로, 죽은 자들 사이에 있다. 그는 그를 따르는 모든 이들에게 생명을 약속했다. 그것은 사물의 이치에 어긋나는 일이다."
+msgstr "내 이름은 로르틴(Rorthin)이다. 나는 오래 전에 큰 전투에서 죽었지... 이젠 거의 기억나지 않는다... 일리아흐-말랄(Iliah-Malal)은 너처럼 산 자로, 죽은 자들 사이에 있다. 그는 그를 따르는 모든 이들에게 생명을 약속했다. 그것은 사물의 이치에 어긋나는 일이다."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:250
 #| msgid "I would very much like to meet Iliah-Malal. Where can I find him?"
 msgid ""
 "I agree. I would very much like to meet Iliah-Malal. Where can I find him?"
-msgstr "맞아요. 나는 일리아흐-말랄을 매우 만나고 싶습니다. 그는 어디에 있습니까?"
+msgstr "맞아요. 나는 일리아흐-말랄(Iliah-Malal)을 매우 만나고 싶습니다. 그는 어디에 있습니까?"
 
 #. [message]: speaker=Rorthin
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:254
@@ -1642,7 +1643,7 @@ msgstr "마른 강을 따라서 북쪽에 있는 표지판으로 가라. 내가 
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:258
 #| msgid "Speak again, spirit! Tell me of yourself. Who is this Iliah-Malal?"
 msgid "Speak again, spirit! What else do you know of this place?"
-msgstr "말해주세요, 영혼이여!  이 곳에 대해 더 아는 것이 있습니까?"
+msgstr "말해주세요, 영혼이여!  이곳에 대해 더 아는 것이 있습니까?"
 
 #. [message]: speaker=Rorthin
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:262
@@ -1705,7 +1706,7 @@ msgstr "멜리나(Melinna)"
 msgid ""
 "Iliah-Malal says that he can open a portal to the world of the living. Those "
 "who follow him will walk the earth as they did in life."
-msgstr "일리아흐-말랄은 자기가 산자의 세계로 통하는 문을 열 수 있다고 했네. 그를 따르는 자들은 살았을 때 그랬던 것처럼 대지 위에서 걷게 될 거야."
+msgstr "일리아흐-말랄(Iliah-Malal)은 자기가 산자의 세계로 통하는 문을 열 수 있다고 했네. 그를 따르는 자들은 살았을 때 그랬던 것처럼 대지 위에서 걷게 될 거야."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:326
@@ -1719,7 +1720,7 @@ msgstr "어째서 죽은 자들이 안식하지 못하고 있습니까? 이곳�
 msgid ""
 "Once, I was happy here, but Iliah-Malal made me see this land as the eyes of "
 "the living see it... a place of rock and dust."
-msgstr "한때는 여기서 행복했네. 하지만 일리아흐-말랄은 내게 이 땅을 산 자의 시각으로 보게 했네... 돌과 먼지 뿐인 장소로."
+msgstr "한때는 여기서 행복했네. 하지만 일리아흐-말랄(Iliah-Malal)은 내게 이 땅을 산 자의 시각으로 보게 했네... 돌과 먼지 뿐인 장소로."
 
 #. [scenario]: id=09_Houses_of_the_Dead
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:333
@@ -1731,7 +1732,7 @@ msgstr "시탄(Sythan)"
 msgid ""
 "I was once a great lord... I commanded armies! Iliah-Malal promised I would "
 "lead again."
-msgstr "나는 한때 큰 군주였네... 난 군대를 지휘했지! 일리아흐-말랄은 내가 다시 군대를 지휘하게 해주겠다고 약속했네."
+msgstr "나는 한때 큰 군주였네... 난 군대를 지휘했지! 일리아흐-말랄(Iliah-Malal)은 내가 다시 군대를 지휘하게 해주겠다고 약속했네."
 
 #. [scenario]: id=09_Houses_of_the_Dead
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:339
@@ -1762,7 +1763,7 @@ msgstr "듣기로 저들은 강력한 마도구를 지키고 있다고 한다. �
 msgid ""
 "I must find that artifact of which the ghost spoke; it sounds too powerful a "
 "thing to be left in Iliah-Malal’s hands."
-msgstr "유령이 얘기했던 마도구를 찾아야해. 일리아흐-말랄의 손에 넘기기엔 너무나 강력한 것인것 같아."
+msgstr "유령이 얘기했던 마도구를 찾아야해. 일리아흐-말랄(Iliah-Malal)의 손에 넘기기엔 너무나 강력한 것인 것 같아."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:406
@@ -1777,7 +1778,7 @@ msgstr "덜걱덜걱(Rattles)"
 #. [message]: speaker=Rattles
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:426
 msgid "Do you serve Iliah-Malal, living man?"
-msgstr "넌 일리아흐-말랄을 섬기는가, 산 자여?"
+msgstr "넌 일리아흐-말랄(Iliah-Malal)을 섬기는가, 산 자여?"
 
 #. [option]
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:428
@@ -1805,7 +1806,7 @@ msgstr "그럼 영원히 죽게 될 거야!"
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:450
 #| msgid "Do you serve Iliah-Malal, living man?"
 msgid "Do you serve Iliah-Malal?"
-msgstr "넌 일리아흐-말랄을 섬기는가?"
+msgstr "넌 일리아흐-말랄(Iliah-Malal)을 섬기는가?"
 
 #. [message]: speaker=Rattles
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:456
@@ -1827,13 +1828,13 @@ msgstr "뼈다귀(Bones)"
 #. [message]: speaker=Bones
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:490
 msgid "Iliah-Malal commands your death!"
-msgstr "일리아흐-말랄이 널 죽이라고 명령했다!"
+msgstr "일리아흐-말랄(Iliah-Malal)이 널 죽이라고 명령했다!"
 
 #. [message]: speaker=Bones
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:496
 #| msgid "Iliah-Malal commands your death!"
 msgid "Iliah-Malal commands your destruction!"
-msgstr "일리아흐-말랄이 널 파멸하라고 명령했다!"
+msgstr "일리아흐-말랄(Iliah-Malal)이 널 파멸하라고 명령했다!"
 
 #. [message]: speaker=narrator
 #. The Tomb Guardian's dialogue should sound especially archaic
@@ -1925,7 +1926,7 @@ msgstr "나는 국왕을 섬기며 왕국을 위해 일합니다."
 msgid ""
 "Your king will die in an eyeblink and your kingdom in the drawing of a "
 "breath. Delfador, I ask you again, ARE YOU A SERVANT OF THE LIGHT?"
-msgstr "너의 왕은 눈 깜빡할 새에 죽을 것이며 너의 왕국은 숨 한번 내쉴 동안이면 사라질 것이다. 다시 한번 묻겠다, 델파도르(Delfador)여. 너는 빛의 사도인가?"
+msgstr "너의 왕은 눈 깜빡할 새에 죽을 것이며 너의 왕국은 숨 한 번 내쉴 동안이면 사라질 것이다. 다시 한 번 묻겠다, 델파도르(Delfador)여. 너는 빛의 사도인가?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/09_Houses_of_the_Undead.cfg:579
@@ -1964,7 +1965,7 @@ msgstr "세상 사이의 문"
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/10_The_Gate_Between_Worlds.cfg:51
 msgid "Defeat Iliah-Malal"
-msgstr "일리아흐-말랄을 무찔러라"
+msgstr "일리아흐-말랄(Iliah-Malal)을 무찔러라"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/10_The_Gate_Between_Worlds.cfg:101
@@ -1990,7 +1991,7 @@ msgstr "너 자신이 산 자와 죽은 자의 왕국 사이를 여행했지 않
 msgid ""
 "Iliah-Malal has created a portal to the land of the living! How I long to go "
 "through it and see the sun again..."
-msgstr "일리아흐-말랄이 산 자의 땅으로 이어지는 통로를 열었다! 내가 얼마나 저곳을 지나 태양을 보고싶어 했는가..."
+msgstr "일리아흐-말랄(Iliah-Malal)이 산 자의 땅으로 이어지는 통로를 열었다! 내가 얼마나 저곳을 지나 태양을 보고싶어 했는가..."
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/10_The_Gate_Between_Worlds.cfg:170
@@ -2020,7 +2021,7 @@ msgid ""
 "This is a great evil. The dead will not find peace by passing through your "
 "gateway, Iliah-Malal, for you cannot give them life again. You have not "
 "brought an end to death, but to life itself!"
-msgstr "이건 정말로 사악한 짓이다. 일리아흐-말랄, 네놈의 문으로 지난다 해서 다시 생명을 얻는 것이 아니니, 그곳으로 나간 죽은 자들은 절대로 안식을 찾지 못할 것이다. 넌 그저 죽음에 끝을 가져온 게 아니라, 삶도 없애버린 거야!"
+msgstr "이건 정말로 사악한 짓이다. 일리아흐-말랄(Iliah-Malal), 네놈의 문으로 지난다 해서 다시 생명을 얻는 것이 아니니, 그곳으로 나간 죽은 자들은 절대로 안식을 찾지 못할 것이다. 넌 그저 죽음에 끝을 가져온 게 아니라, 삶도 없애버린 거야!"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/10_The_Gate_Between_Worlds.cfg:202
@@ -2032,7 +2033,7 @@ msgstr "넌 양날의 검 만큼이나 나와는 시각이 다르군, 친구. �
 #. [message]: speaker=narrator
 #: data/campaigns/Delfadors_Memoirs/scenarios/10_The_Gate_Between_Worlds.cfg:213
 msgid "Iliah-Malal’s body lay still for a moment, then stirred!"
-msgstr "일리아흐-말랄의 몸은 잠시 움직이지 않았다가, 갑자기 튕겨 일어났다!"
+msgstr "일리아흐-말랄(Iliah-Malal)의 몸은 잠시 움직이지 않았다가, 갑자기 튕겨 일어났다!"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/10_The_Gate_Between_Worlds.cfg:223
@@ -2044,7 +2045,7 @@ msgstr "용기가 있다면 따라와봐라..."
 msgid ""
 "This portal Iliah-Malal has created is a great and terrible work of magic. I "
 "must catch him, and somehow force him to close it!"
-msgstr "일리아흐-말랄이 만든 이 문은 강력하고 끔찍한 마법의 산물이다. 놈을 잡아서 어떻게든 놈이 이걸 다시 닫게 만들어야 해!"
+msgstr "일리아흐-말랄(Iliah-Malal)이 만든 이 문은 강력하고 끔찍한 마법의 산물이다. 놈을 잡아서 어떻게든 놈이 이걸 다시 닫게 만들어야 해!"
 
 #. [scenario]: id=11_Wasteland
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:4
@@ -2063,7 +2064,7 @@ msgstr "티쉬 골루브(Tish Golub)"
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:30
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:48
 msgid "Elves"
-msgstr "엘프들"
+msgstr "엘프족"
 
 #. [side]
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:71
@@ -2083,14 +2084,14 @@ msgid ""
 "living. The ground became icy underfoot, and soon Delfador was following the "
 "necromancer’s footsteps in a thick layer of snow. Eventually, even these "
 "became indistinct."
-msgstr "델파도르(Delfador)가 일리아흐-말랄을 따라 문으로 나오자, 얼어붙을듯한 바람이 불며 산 자의 땅으로 쏟아져 나온 유령들로 공기가 빡빡해지기 시작했다. 발밑의 땅은 얼어붙어 있었고, 델파도르(Delfador)는 곧 두껍게 쌓인 눈밭에서 강령술사의 발자국을 찾아내고 쫓기 시작했다. 하지만 결국에는 그것조차 희미해져버렸다."
+msgstr "델파도르(Delfador)가 일리아흐-말랄(Iliah-Malal)을 따라 문으로 나오자, 얼어붙을듯한 바람이 불며 산 자의 땅으로 쏟아져 나온 유령들로 공기가 빡빡해지기 시작했다. 발밑의 땅은 얼어붙어 있었고, 델파도르(Delfador)는 곧 두껍게 쌓인 눈밭에서 강령술사의 발자국을 찾아내고 쫓기 시작했다. 하지만 결국에는 그것조차 희미해져버렸다."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:107
 msgid ""
 "It’s hopeless, I’ve lost all track of Iliah-Malal... and I shall freeze "
 "unless I find shelter soon. Perhaps in that forest to the north..."
-msgstr "가망이 없어. 일리아흐-말랄의 모든 흔적을 놓쳐버렸다... 그리고 안가를 찾지 못하면 난 얼어죽고 말 거야. 혹시 저 북쪽의 숲이라면..."
+msgstr "가망이 없어. 일리아흐-말랄(Iliah-Malal)의 모든 흔적을 놓쳐버렸다... 그리고 안가를 찾지 못하면 난 얼어죽고 말 거야. 혹시 저 북쪽의 숲이라면..."
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:113
@@ -2141,7 +2142,7 @@ msgid ""
 "adversity and visited a place from where few hope to return, from where none "
 "before have returned unchanged. Fate is heavy upon you, and you deserve our "
 "help."
-msgstr "네. 나는 샨탈(Chantal)이라고 하고, 많은 걸 알고 있지요. 당신이 남쪽에 있는 거대한 인간의 왕국에서 왔고 마법의 대가잖아요. 당신은 강대한 적수를 만났으며, 한번 가면 다시 돌아오기 힘든 곳이며 돌아온 자들조차도 모두 변해버렸던 그런 장소에 다녀왔다는 것도 알고 있어요. 운명이 당신에게 무겁게 얹혀 있고, 당신은 우리의 도움을 받을 자격이 있지요."
+msgstr "네. 나는 샨탈(Chantal)이라고 하고, 많은 걸 알고 있지요. 당신이 남쪽에 있는 거대한 인간의 왕국에서 왔고 마법의 대가잖아요. 당신은 강대한 적수를 만났으며, 한 번 가면 다시 돌아오기 힘든 곳이며 돌아온 자들조차도 모두 변해버렸던 그런 장소에 다녀왔다는 것도 알고 있어요. 운명이 당신에게 무겁게 얹혀 있고, 당신은 우리의 도움을 받을 자격이 있지요."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:218
@@ -2165,12 +2166,12 @@ msgid ""
 "is he who fears death above all things who deceives the spirits into "
 "believing they can live again, and blinds them to the peace and rest of "
 "their own domain."
-msgstr "당신은 실패한 것이 아니에요. 남쪽 땅은 아직 오크 군대에게 함락되지 않았고, 당신은 그 어떤 산 자보다도 언데드에 대해 많은 것을 알게되지 않았나요? 영혼들을 다시 살릴 수 있다고 속이고 그들의 원래 왕국에서 평화와 안식을 얻지 못하게 눈을 가린 그 자는 사실 그 무엇보다도 죽음을 두려워하고 있지요."
+msgstr "당신은 실패한 것이 아니에요. 남부는 아직 오크 군대에게 함락되지 않았고, 당신은 어떤 산 사람보다도 언데드에 대해 많이 알게 되지 않았나요? 영혼들이 다시 살아날 수 있다고 속이고, 자신들의 영역에서 평화와 안식을 누리지 못하도록 눈멀게 하는 자는 무엇보다도 죽음을 두려워하는 사람이지요."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:226
 msgid "You mean Iliah-Malal?"
-msgstr "일리아흐-말랄 말인가요?"
+msgstr "일리아흐-말랄(Iliah-Malal) 말인가요?"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:230
@@ -2191,7 +2192,7 @@ msgid ""
 "the winter cold within these woods. To the south and west of here lies a "
 "wasteland inhabited only by barbarians and orcs. To the south again, the "
 "Great River, and your home. Of your friends, I know nothing."
-msgstr "당신은 북방 요정들의 땅 린타니르 숲에 있어요. 우리의 술법이 이 숲에서 겨울의 추위를 몰아내고 있지요. 여기서 남서쪽으로는 야만인들과 오크들이 사는 황무지가 있습니다. 거기서 남쪽으로 가면 위대한 강과 당신의 고향이 나오지요. 하지만 나는 당신의 친구들에 대해서는 잘 모르겠군요."
+msgstr "당신은 북방 요정들의 땅 린타니르(Lintanir) 숲에 있어요. 우리의 술법이 이 숲에서 겨울의 추위를 몰아내고 있지요. 여기서 남서쪽으로는 야만인들과 오크들이 사는 황무지가 있습니다. 거기서 남쪽으로 가면 위대한 강과 당신의 고향이 나오지요. 하지만 나는 당신의 친구들에 대해서는 잘 모르겠군요."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:242
@@ -2199,7 +2200,7 @@ msgid ""
 "I am deeply grateful for your aid, Chantal. I see now what I must do... I "
 "have lost Iliah-Malal, but I must at least try to report back to the King or "
 "to Leollyn. I will set out for the south!"
-msgstr "당신의 도움에 정말로 감사드립니다, 샨탈(Chantal). 이제 뭘 해야 할지 알겠어요... 나는 일리아흐-말랄을 놓쳤지만, 최소한 왕이나 레올린(Leollyn)에게 이 사실을 보고해야만 하겠어요. 나는 남쪽으로 가야겠습니다!"
+msgstr "당신의 도움에 정말로 감사드립니다, 샨탈(Chantal). 이제 뭘 해야 할지 알겠어요... 나는 일리아흐-말랄(Iliah-Malal)을 놓쳤지만, 최소한 왕이나 레올린(Leollyn)에게 이 사실을 보고해야만 하겠어요. 나는 남쪽으로 가야겠습니다!"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:251
@@ -2207,7 +2208,7 @@ msgid ""
 "It will not be easy. The orcish army lies between here and your destination. "
 "We are under attack even here, by an orcish warband encamped in the "
 "mountains to the southwest."
-msgstr "쉽지 않은 일일 거에요. 이곳과 당신의 목적지 사이에는 오크 군대가 있어요. 여기 우리조차도 남서쪽에 있는 산맥에 진을 친 오크 전투단에게 공격을 받고 있습니다."
+msgstr "쉽지 않은 일일 거예요. 이곳과 당신의 목적지 사이에는 오크 군대가 있어요. 여기 우리조차도 남서쪽에 있는 산맥에 진을 친 오크 전투단에게 공격을 받고 있습니다."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:255
@@ -2340,7 +2341,7 @@ msgstr "안개 속에 뭔가가 있어!"
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:305
 msgid "One of Iliah-Malal’s creatures. So it has begun!"
-msgstr "일리아흐-말랄의 피조물 중 하나다. 결국 시작되었군!"
+msgstr "일리아흐-말랄(Iliah-Malal)의 피조물 중 하나다. 결국 시작되었군!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:322
@@ -2369,7 +2370,7 @@ msgid ""
 "I am Delfador, a court mage of Wesnoth and the legate of Arch-Mage Leollyn; "
 "with me is Chantal, a great lady of the Lintanir Elves. Quickly, I must "
 "speak with your commander; death treads upon our very heels."
-msgstr "나는 웨스노스(Wesnoth)의 궁정마법사이자 고위 마법사 레올린(Leollyn)의 대리자인 델파도르(Delfador)다. 이쪽은 린타니르 엘프족의 고귀한 부인이신 샨탈(Chantal)님이다. 서둘러라, 사령관과 할 얘기가 있다. 죽음이 우리 바로 뒤를 따라오고 있어."
+msgstr "나는 웨스노스(Wesnoth)의 궁정마법사이자 고위 마법사 레올린(Leollyn)의 대리자인 델파도르(Delfador)다. 이쪽은 린타니르(Lintanir) 엘프족의 고귀한 부인이신 샨탈(Chantal)님이다. 서둘러라, 사령관과 할 얘기가 있다. 죽음이 우리 바로 뒤를 따라오고 있어."
 
 #. [message]: role=Commander
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:385
@@ -2719,7 +2720,7 @@ msgid ""
 "must close his portal before it’s too late, and I have no idea how to do "
 "that. And we must also defeat those that have already escaped the Land of "
 "the Dead."
-msgstr "생각보다 시간이 얼마 없소. 일리아흐-말랄의 공격이 시작되었소. 너무 늦기 전에 그의 차원문을 닫아야하는데, 어떻게 해야 할지 모르겠소. 게다가 이미 죽은 자의 땅을 벗어난 이들도 처리해야 하지."
+msgstr "생각보다 시간이 얼마 없소. 일리아흐-말랄(Iliah-Malal)의 공격이 시작되었소. 너무 늦기 전에 그의 차원문을 닫아야하는데, 어떻게 해야 할지 모르겠소. 게다가 이미 죽은 자의 땅을 벗어난 이들도 처리해야 하지."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:1089
@@ -2739,7 +2740,7 @@ msgid ""
 "mustering an elvish army against the orcs, but he is not aware of the King’s "
 "movements or of any trap in wait for him. And he certainly does not know of "
 "the undead menace."
-msgstr "제가 린타니르를 떠나던 시점에 대군주 칼렌츠(Kalenz)님이 오크들에 대항하여 요정의 군단을 모으고 있다는 소식을 받았어요. 하지만 그분은 왕의 움직임이나 그를 기다리는 함정에 대해서는 아무것도 몰라요. 틀림없이 그분은 언데드의 위협에 대해서도 모르실거에요."
+msgstr "제가 린타니르(Lintanir)를 떠나던 시점에 대군주 칼렌츠(Kalenz)님이 오크들에 대항하여 요정의 군단을 모으고 있다는 소식을 받았어요. 하지만 그분은 왕의 움직임이나 그를 기다리는 함정에 대해서는 아무것도 몰라요. 틀림없이 그분은 언데드의 위협에 대해서도 모르실 거예요."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:1097
@@ -2762,7 +2763,7 @@ msgid ""
 "It is not to be, Delfador. I must return to Lintanir as swiftly as I may; "
 "the Northern Elves must be informed immediately — and mayhap I can find High "
 "Lord Kalenz or get a message to him."
-msgstr "그럴순 없군요, 델파도르(Delfador). 저는 서둘러 린타니르로 돌아가야 해요. 북부의 요정들에게도 이 일을 알려야 하고 대군주 칼렌츠(Kalenz)님을 찾거나 그분께 전갈을 보낼 수도 있을 테니까요."
+msgstr "그럴순 없군요, 델파도르(Delfador). 저는 서둘러 린타니르(Lintanir)로 돌아가야 해요. 북부의 요정들에게도 이 일을 알려야 하고 대군주 칼렌츠(Kalenz)님을 찾거나 그분께 전갈을 보낼 수도 있을 테니까요."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:1109
@@ -2784,7 +2785,7 @@ msgid ""
 "I do not doubt it. Go to your king, Delfador, and have faith in yourself; "
 "for I sense that you hold the fate of Wesnoth in your hands, and will need "
 "all the strength you have. I think we will meet again."
-msgstr "저도 알고 있어요. 델파도르(Delfador), 당신의 왕에게 가세요. 그리고 믿음을 가져요. 당신이 웨스노스(Wesnoth)의 운명을 한 손에 쥐고 있으며, 당신이 가진 모든 힘을 필요로 하게 될 거란 느낌이 옵니다. 다시 만나게 될 거에요."
+msgstr "저도 알고 있어요. 델파도르(Delfador), 당신의 왕에게 가세요. 그리고 믿음을 가져요. 당신이 웨스노스(Wesnoth)의 운명을 한 손에 쥐고 있으며, 당신이 가진 모든 힘을 필요로 하게 될 거란 느낌이 옵니다. 다시 만나게 될 거예요."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:1125
@@ -2843,7 +2844,7 @@ msgid ""
 "forces attacking the outskirts of elvish forests, including Lintanir itself. "
 "Kalenz quickly gathered a small troop of handpicked guards. War had returned "
 "to the land of the elves."
-msgstr "하지만 칼렌츠(Kalenz)는 그가 다시 필요해질 날이 있을 것임을 어느정도 예견하고 또 걱정해왔으며, 그가 내다보았던 그날이 마침내 왔음을 알게 되었다. 대규모 오크의 병력이 린타니르를 포함한 요정의 숲 외곽지대를 공격했다는 보고가 그에게 들려왔다. 칼렌츠(Kalenz)는 서둘러 엄선된 경비병들로 소규모 병력을 구성했다. 요정들의 땅에 전쟁이 돌아온 것이다."
+msgstr "하지만 칼렌츠(Kalenz)는 그가 다시 필요해질 날이 있을 것임을 어느 정도 예견하고 또 걱정해왔으며, 그가 내다보았던 그날이 마침내 왔음을 알게 되었다. 대규모 오크의 병력이 린타니르(Lintanir)를 포함한 요정의 숲 외곽지대를 공격했다는 보고가 그에게 들려왔다. 칼렌츠(Kalenz)는 서둘러 엄선된 경비병들로 소규모 병력을 구성했다. 요정들의 땅에 전쟁이 돌아온 것이다."
 
 #. [side]
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:42
@@ -2894,7 +2895,7 @@ msgstr "칼렌츠(Kalenz)의 죽음"
 msgid ""
 "Kill these filthy elves! Show all warlords the might of Zorlan! When they "
 "accept him as sovereign we will all be rewarded!"
-msgstr "이 더러운 요정들을 죽여라! 모든 무장들에게 조를란(Zorlan)님의 힘을 보여주어라! 놈들이 그를 대총통으로 받아들이면 우리는 모두에게 보상을 하실 것이다!"
+msgstr "이 더러운 요정들을 죽여라! 모든 무장들에게 조를란(Zorlan)님의 힘을 보여 주어라! 놈들이 그를 대총통으로 받아들이면 우리는 모두에게 보상을 하실 것이다!"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:213
@@ -3014,7 +3015,7 @@ msgid ""
 "the orcs when they threatened Lintanir, and I fought undead with him at "
 "Parthyn Ford. I have come north partly because I am thinking to fetch the "
 "Book of Crelanu so I can take it to him."
-msgstr "왕의 가신인 마법사 델파도르(Delfador)입니다. 그는 죽은 자의 땅을 지나오면서 살아남았을 뿐 아니라 타락하지도 않았습니다. 그는 오크들이 린타니르를 위협했을 때 그들을 무찌르는 걸 도와주었고, 저는 그와 함께 파르틴(Parthyn) 유역에서 언데드와 싸웠습니다. 제가 북쪽으로 돌아온 이유의 일부는 크렐라누(Crelanu)의 책을 가져와서 그에게 내줄 생각을 하고 있었기 때문입니다."
+msgstr "왕의 가신인 마법사 델파도르(Delfador)입니다. 그는 죽은 자의 땅을 지나오면서 살아남았을 뿐 아니라 타락하지도 않았습니다. 그는 오크들이 린타니르(Lintanir)를 위협했을 때 그들을 무찌르는 걸 도와주었고, 저는 그와 함께 파르틴(Parthyn) 유역에서 언데드와 싸웠습니다. 제가 북쪽으로 돌아온 이유의 일부는 크렐라누(Crelanu)의 책을 가져와서 그에게 내줄 생각을 하고 있었기 때문입니다."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/13_The_Return_of_Trouble.cfg:299
@@ -3197,7 +3198,7 @@ msgstr "그 책이 그를 더럽히지 않기를 빌어요."
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:285
 #| msgid "You speak my thought, granddaughter. May it be so."
 msgid "You speak my thoughts, granddaughter. May it be so."
-msgstr "내 말이 그말이란다, 손녀야. 그리고 아마 그럴거다."
+msgstr "내 말이 그 말이란다, 손녀야. 그리고 아마 그럴 거다."
 
 #. [message]: speaker=Rudimil
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:334
@@ -3598,7 +3599,7 @@ msgid ""
 "primarily to fight raiding orcs, is not well suited to fight even the forces "
 "he fields now. Mages, in combination with heavy infantry, are most effective "
 "against them."
-msgstr "전하, 이들은 길잃은 언데드들이 아닙니다. 저 미친 일리아흐-말랄이 죽은 자의 땅으로 통하는 차원문을 열었습니다. 우리가 이 문을 어서 닫지 않는다면, 그가 통제하는 그나마 적은 수의 적 부대는 끝없는 언데드의 물결로 불어나게 될 겁니다. 그리고 장비와 훈련을 주로 습격해오는 오크들에 맞춘 우리 군대는 그가 지금 지휘하는 병력조차도 상대하기 쉽지 않습니다. 중보병과 합세한 마법사들이 놈들을 상대하는데 가장 적합합니다."
+msgstr "전하, 이들은 길잃은 언데드들이 아닙니다. 저 미친 일리아흐-말랄(Iliah-Malal)이 죽은 자의 땅으로 통하는 차원문을 열었습니다. 우리가 이 문을 어서 닫지 않는다면, 그가 통제하는 그나마 적은 수의 적 부대는 끝없는 언데드의 물결로 불어나게 될 겁니다. 그리고 장비와 훈련을 주로 습격해오는 오크들에 맞춘 우리 군대는 그가 지금 지휘하는 병력조차도 상대하기 쉽지 않습니다. 중보병과 합세한 마법사들이 놈들을 상대하는데 가장 적합합니다."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:46
@@ -3651,7 +3652,7 @@ msgstr "전하, 제가 군대의 일부를 이끌고 언데드를 격파하러 �
 msgid ""
 "No, Lionel. This should be too simple a task for my best general. I will "
 "send Dudpon instead with most of my army."
-msgstr "안되네, 리오넬(Lionel). 이건 내 최고의 명장에게 맡기기엔 너무 간단한 임무지. 두드폰을 보내는 대신에 대부분의 군단을 보내도록 하겠네."
+msgstr "안 되네, 리오넬(Lionel). 이건 내 최고의 명장에게 맡기기엔 너무 간단한 임무지. 두드폰을 보내는 대신에 대부분의 군단을 보내도록 하겠네."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:71
@@ -3664,7 +3665,7 @@ msgid ""
 "As a reward for Delfador’s bravery, I am temporarily appointing you and your "
 "men to be his personal guard. Make sure nothing untoward happens to him, as "
 "the circumstances of Leollyn’s death are not fully clear."
-msgstr "델파도르(Delfador)의 용맹함에 대한 보답으로, 잠시동안 자네와 자네 부하들이 그의 임시 경비병으로 맡아주게. 레올린(Leollyn)의 죽음 원인이 명확하지 않으니, 그에게 불미스러운 일이 없도록 잘 지켜주게."
+msgstr "델파도르(Delfador)의 용맹함에 대한 보답으로, 잠시 동안 자네와 자네 부하들이 그의 임시 경비병으로 맡아주게. 레올린(Leollyn)의 죽음 원인이 명확하지 않으니, 그에게 불미스러운 일이 없도록 잘 지켜주게."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:79
@@ -3679,7 +3680,7 @@ msgid ""
 "handful of terrified soldiers returned. The Wesnoth army had been destroyed, "
 "with the few survivors fleeing in terror. Nothing stood now between Iliah-"
 "Malal’s army and Weldyn..."
-msgstr "그리하여 웨스노스(Wesnoth)의 군대는 웰딘(Weldyn)을 떠나 일리아흐-말랄의 군세를 격파하기위해 떠났다. 하지만 작전은 재앙으로 돌아왔다. 돌아온 것은 공포에 질린 한줌의 병사들 뿐이었다. 그 소수의 생존자들조차도 공포에 질려 달아나버렸기에, 결국 웨스노스(Wesnoth)의 군대는 파멸하고 말았다. 일리아흐-말랄로부터 웰딘(Weldyn)을 지켜 줄 것은 아무것도 없었다..."
+msgstr "그리하여 웨스노스(Wesnoth)의 군대는 웰딘(Weldyn)을 떠나 일리아흐-말랄(Iliah-Malal)의 군세를 격파하기위해 떠났다. 하지만 작전은 재앙으로 돌아왔다. 돌아온 것은 공포에 질린 한줌의 병사들 뿐이었다. 그 소수의 생존자들조차도 공포에 질려 달아나버렸기에, 결국 웨스노스(Wesnoth)의 군대는 파멸하고 말았다. 일리아흐-말랄(Iliah-Malal)로부터 웰딘(Weldyn)을 지켜 줄 것은 아무것도 없었다..."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:91
@@ -3725,7 +3726,7 @@ msgid ""
 "Book of Crelanu and I think I now know how to close Iliah-Malal’s portal to "
 "the Land of the Dead. I will need a small escort, but this must be done "
 "immediately."
-msgstr "우리가 해야 할 일은 세 가지가 있습니다. 첫째, 지금 할 수 있는 한 방비를 굳혀야 합니다. 둘째, 요정들에게 일리아흐-말랄을 교란해 진군을 늦춰 달라고 요청해야 합니다. 요정들은 전장에서 언데드와 정면으로 맞설 수는 없지만, 언데드가 감히 따라오지 못하는 숲에서 기습해 괴롭힐 수 있습니다. 마지막으로 저는 크렐라누의 서를 연구한 끝에, 죽은 자의 땅으로 통하는 일리아흐-말랄의 차원문을 닫는 방법을 알아낸 것 같습니다. 약간의 호위대가 필요하지만, 이 일은 즉시 끝내야 합니다."
+msgstr "우리가 해야 할 일은 세 가지가 있습니다. 첫째, 지금 할 수 있는 한 방비를 굳혀야 합니다. 둘째, 요정들에게 일리아흐-말랄(Iliah-Malal)을 교란해 진군을 늦춰 달라고 요청해야 합니다. 요정들은 전장에서 언데드와 정면으로 맞설 수는 없지만, 언데드가 감히 따라오지 못하는 숲에서 기습해 괴롭힐 수 있습니다. 마지막으로 저는 크렐라누(Crelanu)의 서를 연구한 끝에, 죽은 자의 땅으로 통하는 일리아흐-말랄(Iliah-Malal)의 차원문을 닫는 방법을 알아낸 것 같습니다. 약간의 호위대가 필요하지만, 이 일은 즉시 끝내야 합니다."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/16_Dark_Sky_Over_Weldyn.cfg:111
@@ -3786,7 +3787,7 @@ msgid ""
 "But with Iliah-Malal’s army at large north of the Great River, this was a "
 "perilous road. It was imperative that Delfador avoid well-trodden paths. "
 "This meant a detour..."
-msgstr "델파도르(Delfador)는 차원문을 닫기 위해 소수의 호위대를 이끌고 북쪽으로 향했다. 하지만 위대한 강 북쪽 지역에 일리아흐-말랄의 군단이 널리 퍼져 있어 길은 위험했다. 델파도르는 사람들이 자주 다니는 길을 반드시 피해야 했다. 그래서 우회할 수밖에 없었다..."
+msgstr "델파도르(Delfador)는 차원문을 닫기 위해 소수의 호위대를 이끌고 북쪽으로 향했다. 하지만 위대한 강 북쪽 지역에 일리아흐-말랄(Iliah-Malal)의 군단이 널리 퍼져 있어 길은 위험했다. 델파도르(Delfador)는 사람들이 자주 다니는 길을 반드시 피해야 했다. 그래서 우회할 수밖에 없었다..."
 
 #. [side]
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:57
@@ -3806,7 +3807,7 @@ msgstr "그루브-말랄(Gruv-Malal)"
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:106
 msgid "Defeat Gruv-Malal"
-msgstr "그루브-말랄을 무찌를 것"
+msgstr "그루브-말랄(Gruv-Malal)을 무찌를 것"
 
 #. [objective]: condition=lose
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:114
@@ -3873,7 +3874,7 @@ msgstr "큰 도움을 받았소."
 msgid ""
 "Human, ye ha’ fought well. I am Ulrek, chieftain o’ the clan of Norlund. My "
 "house is in yer debt today. But who are ye and what do ye do in these lands?"
-msgstr "인간이여, 잘 싸워주었소. 나는 노를룬드 일족의 족장 울렉(Ulrek)이오. 우리 가족들은 당신에게 빚을 졌소. 그래 당신들은 누구며 여기서 무엇을 하고 있는 거요?"
+msgstr "인간이여, 잘 싸워 주었소. 나는 노를룬드 일족의 족장 울렉(Ulrek)이오. 우리 가족들은 당신에게 빚을 졌소. 그래 당신들은 누구며 여기서 무엇을 하고 있는 거요?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:198
@@ -3887,7 +3888,7 @@ msgid ""
 "opened to the Land of the Dead near the northernmost extent of these hills, "
 "nearly under the eaves of Lintanir Forest. I must close it, or else we are "
 "all doomed."
-msgstr "저는 델파도르(Delfador)입니다. 여러분, 강대한 악이 탄생하였습니다. 죽은 자의 땅으로 통하는 차원문이 이 언덕의 북쪽 끝 근방 린타니르 숲 바로 아래에 열렸습니다. 제가 그것을 닫지 않으면 우리 모두 끝장나게 될 것입니다."
+msgstr "저는 델파도르(Delfador)입니다. 여러분, 강대한 악이 탄생하였습니다. 죽은 자의 땅으로 통하는 차원문이 이 언덕의 북쪽 끝 근방 린타니르(Lintanir) 숲 바로 아래에 열렸습니다. 제가 그것을 닫지 않으면 우리 모두 끝장나게 될 것입니다."
 
 #. [message]: speaker=Ulrek
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:202
@@ -3926,7 +3927,7 @@ msgstr "델파도르(Delfador), 당신이 북쪽으로 리스트라를 지나서
 msgid ""
 "With their leader slain we cannot count on dwarvish help to reach Iliah-"
 "Malal’s portal! All is lost!"
-msgstr "저들의 지도자가 죽으면 일리아흐-말랄의 차원문으로 가는 데 난쟁이의 도움을 기대할 수 없게 돼! 모든 게 끝장이다!"
+msgstr "저들의 지도자가 죽으면 일리아흐-말랄(Iliah-Malal)의 차원문으로 가는 데 난쟁이의 도움을 기대할 수 없게 돼! 모든 게 끝장이다!"
 
 #. [message]: speaker=Ulrek
 #: data/campaigns/Delfadors_Memoirs/scenarios/17_A_New_Ally.cfg:243
@@ -3950,7 +3951,7 @@ msgid ""
 "amazed at the speed with which the dwarves could move through them. Far "
 "sooner than he would have believed possible, they reached their destination, "
 "undetected by Iliah-Malal."
-msgstr "난쟁이들은 델파도르(Delfador)를 진정한 터널들의 미로 사이로 데려갔다. 델파도르(Delfador)는 그것들을 지나는 난쟁이들의 속도에 경탄했다. 그들은 그가 예상한 것보다도 훨씬 빨리, 일리아흐-말랄에게 들키지 않고 목적지에 도달했다."
+msgstr "난쟁이들은 델파도르(Delfador)를 진정한 터널들의 미로 사이로 데려갔다. 델파도르(Delfador)는 그것들을 지나는 난쟁이들의 속도에 경탄했다. 그들은 그가 예상한 것보다도 훨씬 빨리, 일리아흐-말랄(Iliah-Malal)에게 들키지 않고 목적지에 도달했다."
 
 #. [leader]: id=Prepolur, type=Death Knight
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:76
@@ -4070,7 +4071,7 @@ msgid ""
 "We cannot defeat him now. We must allow some time to pass after the portal "
 "has been closed. By then, his power will have weakened, rendering him "
 "vulnerable."
-msgstr "지금은 놈을 쓰러뜨릴 수 없어. 차원문이 닫힌후 시간이 좀 지나야 한다. 그때쯤이면, 그의 힘은 약해져서 취약해질 것이다."
+msgstr "지금은 놈을 쓰러뜨릴 수 없어. 차원문이 닫힌 후 시간이 좀 지나야 한다. 그때쯤이면, 그의 힘은 약해져서 취약해질 것이다."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:357
@@ -4121,7 +4122,7 @@ msgstr "나의 길은 정해졌다. 너의 길은 끝나야만 한다. 나는 �
 msgid ""
 "Then you shall perish. After I finish with these pesky elves and dwarves, "
 "Weldyn will be mine. Wesnoth has no army to resist me."
-msgstr "그럼 너는 파멸할 것이다. 내가 이 성가신 엘프와 난쟁이들을 끝장내고 나면, 웰딘(Weldyn)은 내것이 될 것이다. 웨스노스(Wesnoth)에는 내게 대항할 군대가 없다."
+msgstr "그럼 너는 파멸할 것이다. 내가 이 성가신 엘프와 난쟁이들을 끝장내고 나면, 웰딘(Weldyn)은 내 것이 될 것이다. 웨스노스(Wesnoth)에는 내게 대항할 군대가 없다."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/18_The_Portal_of_Doom.cfg:399
@@ -4169,7 +4170,7 @@ msgid ""
 "Delfador’s troop, hurrying west by secret dwarvish ways and stealthily "
 "crossing the Listra by night, found the necromancer there, on the brink of "
 "raising another army amidst the fetid reek."
-msgstr "차원문이 닫히자, 일리아흐-말랄은 약해졌다. 그는 공포의 늪으로 후퇴하여 힘을 회복하면서 문을 열 또 다른 주문을 시도했다. 델파도르(Delfador)의 병력은 숨겨진 난쟁이의 길들을 따라 서쪽으로 서둘러 달렸고, 야밤에 몰래 리스트라 강을 은밀히 건너 악취가 진동하는 장소에서 이제 막 또 다른 군단을 일으키려던 강령술사를 발견했다."
+msgstr "차원문이 닫히자, 일리아흐-말랄(Iliah-Malal)은 약해졌다. 그는 공포의 늪으로 후퇴하여 힘을 회복하면서 문을 열 또 다른 주문을 시도했다. 델파도르(Delfador)의 병력은 숨겨진 난쟁이의 길들을 따라 서쪽으로 서둘러 달렸고, 야밤에 몰래 리스트라 강을 은밀히 건너 악취가 진동하는 장소에서 이제 막 또 다른 군단을 일으키려던 강령술사를 발견했다."
 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:21
@@ -4195,12 +4196,12 @@ msgstr "알데로쓰(Alderoth)"
 msgid ""
 "The killing blow against Iliah-Malal can only be struck by one of your "
 "Undead veterans or by Delfador"
-msgstr "일리아흐-말랄에 대한 정지의 일격은 언데드 전사 중 하나 또는 델파도르(Delfador)에 의해서만 주어집니다"
+msgstr "일리아흐-말랄(Iliah-Malal)에 대한 정지의 일격은 언데드 전사 중 하나 또는 델파도르(Delfador)에 의해서만 주어집니다"
 
 #. [note]
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:191
 msgid "The killing blow against Iliah-Malal can only be struck by Delfador"
-msgstr "일리아흐-말랄에 대한 결정타는 델파도르(Delfador)만 할 수 있습니다"
+msgstr "일리아흐-말랄(Iliah-Malal)에 대한 결정타는 델파도르(Delfador)만 할 수 있습니다"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:232
@@ -4222,14 +4223,14 @@ msgid ""
 "Is he not amusing, my creatures? He puffs himself up as though he were "
 "Delfador the Mighty, Delfador the Powerful, Delfador the Great... rather "
 "than a jumped-up hedge wizard I shall shortly crush beneath my heel."
-msgstr "우습지 않느냐, 나의 피조물들아? 놈은 마치 자신이 대단한 델파도르(Delfador), 강력한 델파도르(Delfador), 대마법사 델파도르(Delfador)인 것처럼 자기 자신을 부풀리는구나... 저 우쭐한 마법사놈은 곧 패퇴하여 내 발밑에 무릎 꿇게 되리라."
+msgstr "우습지 않느냐, 나의 피조물들아? 놈은 마치 자신이 대단한 델파도르(Delfador), 강력한 델파도르(Delfador), 대마법사 델파도르(Delfador)인 것처럼 자기 자신을 부풀리는구나... 저 우쭐한 마법사 놈은 곧 패퇴하여 내 발밑에 무릎 꿇게 되리라."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:244
 msgid ""
 "Delfador the Great, eh? And so it comes to pass as the four Oracles "
 "foretold. I accept your name-gift, Iliah-Malal."
-msgstr "대마법사 델파도르(Delfador) 말인가, 응? 결국 네 명의 예언자들이 예언했던 대로 되어가는군. 그 이름 잘 받도록 하지, 일리아흐-말랄."
+msgstr "대마법사 델파도르(Delfador) 말인가, 응? 결국 네 명의 예언자들이 예언했던 대로 되어가는군. 그 이름 잘 받도록 하지, 일리아흐-말랄(Iliah-Malal)."
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:248
@@ -4253,7 +4254,7 @@ msgid ""
 "In this scenario only, you may recall your veterans from the Land of the "
 "Dead. The killing blow against Iliah-Malal can only be struck by one of them "
 "or by Delfador."
-msgstr "이 시나리오에서만 죽은 자의 땅에서 당신이 쓰던 군대를 불러올 수 있습니다. 일리아흐-말랄에게 치명타를 먹일 수 있는 것은 그들 중 한명이나 델파도르(Delfador)뿐입니다."
+msgstr "이 시나리오에서만 죽은 자의 땅에서 당신이 쓰던 군대를 불러올 수 있습니다. 일리아흐-말랄(Iliah-Malal)에게 치명타를 먹일 수 있는 것은 그들 중 한명이나 델파도르(Delfador)뿐입니다."
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:280
@@ -4337,7 +4338,7 @@ msgid ""
 "Remember that one of our undead or I must strike the final blow, for Iliah-"
 "Malal’s unlife can only be ended by the touch of unlife or by the power of "
 "the Book of Crelanu."
-msgstr "우리 언데드 중 하나나 내가 최후의 일격을 가해야 한다는 것을 잊지 마시오. 일리아흐-말랄의 반-생명체는 반-생명체의 손길이나 크렐라누(Crelanu)의 책의 힘에 의해서만 끝날 수 있기 때문이오."
+msgstr "우리 언데드 중 하나나 내가 최후의 일격을 가해야 한다는 것을 잊지 마시오. 일리아흐-말랄(Iliah-Malal)의 반-생명체는 반-생명체의 손길이나 크렐라누(Crelanu)의 책의 힘에 의해서만 끝날 수 있기 때문이오."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:361
@@ -4347,7 +4348,7 @@ msgstr "우리 언데드 중 하나나 내가 최후의 일격을 가해야 한�
 msgid ""
 "Remember that I must strike the final blow, for Iliah-Malal’s unlife can "
 "only be ended by the power of the Book of Crelanu."
-msgstr "일리아흐-말랄의 반-생명체는 오직 크렐라누(Crelanu)의 책의 힘에 의해서만 끝날 수 있기 때문에, 내가 최후의 일격을 가해야 한다는 것을 잊지 마시오."
+msgstr "일리아흐-말랄(Iliah-Malal)의 반-생명체는 오직 크렐라누(Crelanu)의 책의 힘에 의해서만 끝날 수 있기 때문에, 내가 최후의 일격을 가해야 한다는 것을 잊지 마시오."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:381
@@ -4401,7 +4402,7 @@ msgstr "물론입니다. 이것은 꽤 이야기가 될 것이요."
 msgid ""
 "You who fought beside me in the Land of the Dead and chose the side of the "
 "living on this day, return now to your peace and rest."
-msgstr "나와 함께 죽은 자의 땅에서 싸워주었고 오늘 산 자의 편에 서 준 이들이여, 이제 돌아가 평온과 안식을 찾으소서."
+msgstr "나와 함께 죽은 자의 땅에서 싸워 주었고 오늘 산 자의 편에 서 준 이들이여, 이제 돌아가 평온과 안식을 찾으소서."
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Delfadors_Memoirs/scenarios/19_Showdown_in_the_Northern_Swamp.cfg:494
@@ -4425,7 +4426,7 @@ msgid ""
 "been before. Those who come after us will have to be vigilant against the "
 "corruption of the dark arts and show themselves worthy of the land they live "
 "in."
-msgstr "그렇습니다. 하지만 그것은 완전히 무로 돌리기에는 너무나 엄청난 마법이었죠. 세계 사이를 오갔던 일리아흐-말랄의 길을 따라 약간의 틈은 남았죠. 이제 앞으로는 언데드를 소환하는 일이 전보다 좀 더 쉬워질 겁니다. 우리 뒤를 이을 후대의 사람들은 사악한 마법에 타락하는 일이 없게 바짝 경계하고, 자신들이 사는 땅의 가치에 걸맞은 모습을 보여야 할 것입니다."
+msgstr "그렇습니다. 하지만 그것은 완전히 무로 돌리기에는 너무나 엄청난 마법이었죠. 세계 사이를 오갔던 일리아흐-말랄(Iliah-Malal)의 길을 따라 약간의 틈은 남았죠. 이제 앞으로는 언데드를 소환하는 일이 전보다 좀 더 쉬워질 겁니다. 우리 뒤를 이을 후대의 사람들은 사악한 마법에 타락하는 일이 없게 바짝 경계하고, 자신들이 사는 땅의 가치에 걸맞은 모습을 보여야 할 것입니다."
 
 #. [scenario]: id=20_Prince_of_Wesnoth
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:4
@@ -4509,7 +4510,7 @@ msgid ""
 "This is elvish land no more. I, Eldred, Prince of Wesnoth and heir to the "
 "throne, claim it for Wesnoth and Queen Asheviere. Delfador does not rule in "
 "Wesnoth!"
-msgstr "여긴 이제 요정의 땅이 아니다. 웨스노스(Wesnoth)의 왕자이자 왕위 계승자인 나, 엘드레드(Eldred)가 아쉐비에레 여왕과 웨스노스(Wesnoth)를 위해 이 곳을 영토로 선언한다. 델파도르(Delfador)는 웨스노스(Wesnoth)를 통치하지 않는다!"
+msgstr "여긴 이제 요정의 땅이 아니다. 웨스노스(Wesnoth)의 왕자이자 왕위 계승자인 나, 엘드레드(Eldred)가 아쉐비에레 여왕과 웨스노스(Wesnoth)를 위해 이곳을 영토로 선언한다. 델파도르(Delfador)는 웨스노스(Wesnoth)를 통치하지 않는다!"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:173
@@ -4595,7 +4596,7 @@ msgstr "저항군"
 #. [message]: speaker=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/20_Prince_of_Wesnoth.cfg:246
 msgid "We are too late! All is lost!"
-msgstr "너무 늦었다! 모든게 끝이야!"
+msgstr "너무 늦었다! 모든 게 끝이야!"
 
 #. [scenario]: id=21_Clash_at_the_Manor
 #: data/campaigns/Delfadors_Memoirs/scenarios/21_Clash_at_the_Manor.cfg:4
@@ -4934,7 +4935,7 @@ msgstr "떠돌이 마법사"
 msgid ""
 "A mage who has just finished his apprenticeship is known as a journeyman. "
 "Journeyman mages travel far in search of employment and experience."
-msgstr "이제 막 견습과정을 끝낸 마법사는 떠돌이로 불리운다. 떠돌이 마법사들은 일자리와 경험을 찾아서 먼 곳까지 떠돈다."
+msgstr "이제 막 견습 과정을 끝낸 마법사는 떠돌이라고 불린다. 떠돌이 마법사들은 일자리와 경험을 찾아 먼 곳까지 떠돈다."
 
 #. [unit_type]: id=King of Wesnoth
 #: data/campaigns/Delfadors_Memoirs/units/King_of_Wesnoth.cfg:7
@@ -5134,7 +5135,7 @@ msgstr "아르토르(Artor)"
 #~ msgstr "가라르드(Garard)"
 
 #~ msgid "Tan-Garthak"
-#~ msgstr "Tan-Garthak"
+#~ msgstr "탄-가르타크(Tan-Garthak)"
 
 #~ msgid "King Garard"
 #~ msgstr "가라르드(Garard) 왕"

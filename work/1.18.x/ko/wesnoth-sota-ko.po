@@ -20,6 +20,7 @@ msgstr ""
 "#-#-#-#-#  wesnoth-sota.wml.pot (PACKAGE VERSION)  #-#-#-#-#\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+
 #. [campaign]: id=Secrets of the Ancients
 #. [editor_group]: id=sota
 #: data/campaigns/Secrets_of_the_Ancients/_main.cfg:10
@@ -207,7 +208,10 @@ msgid ""
 "have had someone bring them back <i>after</i> death? I would need another "
 "mage I trusted completely, but perhaps I can find someone with whom to make "
 "a pact."
-msgstr "내 박쥐 중 한 마리가 늙어서 죽은 모양이다. 그래서 나는 대담하게도 그 시체를 되살리기로 했다. 정말로 되살아난 것을 보고 기뻤지만, 흥미로운 점은 따로 있었다. 박쥐가 처음 경련했을 때, 마지막 생명력의 불꽃이 몸을 꿰뚫고 번쩍이는 것이 느껴졌다. 그것은 어떤 경로를 따라 흐르는 듯했다. 그로부터 한 가지 생각이 떠올랐다. 나는 살아 있는 박쥐에게서 느낄 수 있는 것을 길잡이 삼아, 정신으로 그 몸의 생명력 경로를 모두 찾아냈다. 그리고 <i>그 경로들을</i> 한꺼번에 되살리자, 박쥐가 스스로 바닥에서 천천히 날개를 퍼덕이며 떠올랐다! (늙은 아이무카수르(Aimucasur)는 아마 모를 기술이다!) 더 좋은 점은 생명력 망을 흐르는 에너지가 스스로 유지되는 듯해서, 계속 집중할 필요가 없었다는 것이다. 이것이 비밀의 전부일까? 고대의 모든 군주가 죽은 <i>뒤에</i> 누군가에게 되살아난 것일까? 나는 완전히 신뢰할 수 있는 다른 마법사가 필요하지만, 어쩌면 계약을 맺을 사람을 찾을 수 있을지도 모른다."
+msgstr ""
+"웨스노스력 23년 3월 15일:\n"
+"\n"
+"내 박쥐 중 한 마리가 늙어서 죽은 모양이다. 그래서 대담하게도 그 시체를 되살리기로 했다. 정말로 되살아난 것을 보고 기뻤지만, 흥미로운 점은 따로 있었다. 박쥐가 처음 경련했을 때 마지막 생명력의 불꽃이 몸을 꿰뚫고 번쩍이는 것이 느껴졌다. 그것은 어떤 경로를 따라 흐르는 듯했다. 그로부터 한 가지 생각이 떠올랐다. 살아 있는 박쥐에게서 느낄 수 있는 것을 길잡이 삼아 정신으로 그 몸의 생명력 경로를 모두 찾아냈다. 그리고 <i>그 경로들을</i> 한꺼번에 되살리자 박쥐가 스스로 바닥에서 천천히 날개를 퍼덕이며 떠올랐다! (늙은 아이무카수르(Aimucasur)는 아마 모를 기술이다!) 더 좋은 점은 생명력 망을 흐르는 에너지가 스스로 유지되는 듯해서 계속 집중할 필요가 없었다는 것이다. 이것이 비밀의 전부일까? 고대의 모든 군주가 죽은 <i>뒤에</i> 누군가에게 되살아난 것일까? 완전히 신뢰할 수 있는 다른 마법사가 필요하지만, 어쩌면 계약을 맺을 사람을 찾을 수 있을지도 모른다."
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:81
@@ -1136,7 +1140,7 @@ msgid ""
 "hope we reach our destination soon! We travel only by day because at night "
 "the spirit is practically invisible. We have not had any trouble on the road "
 "yet, but we <i>are</i> a rather large company now, so I have not expected it."
-msgstr "그 환영이 우리를 북쪽으로 이끈다. 자신을 오크 바시-고른의 유령이라고 밝혔다. 그렇다면 기억하고 있다는 뜻이다! 문제가 해결된 듯하지만, 유령은 내 질문을 모두 무시한다. 호기심이 불타오르니 목적지에 빨리 도착했으면 좋겠다! 밤에는 영혼이 거의 보이지 않기 때문에 우리는 낮에만 이동한다. 아직 길에서 문제를 겪지는 않았지만, 이제 우리 일행은 <i>실제로</i> 꽤 규모가 커졌으니 그런 일은 예상하지 않았다."
+msgstr "그 환영이 우리를 북쪽으로 이끈다. 자신을 오크 바시-고른(Vash-Gorn)의 유령이라고 밝혔다. 그렇다면 기억하고 있다는 뜻이다! 문제가 해결된 듯하지만, 유령은 내 질문을 모두 무시한다. 호기심이 불타오르니 목적지에 빨리 도착했으면 좋겠다! 밤에는 영혼이 거의 보이지 않기 때문에 우리는 낮에만 이동한다. 아직 길에서 문제를 겪지는 않았지만, 이제 우리 일행은 <i>실제로</i> 꽤 규모가 커졌으니 그런 일은 예상하지 않았다."
 
 #. [side]: type=Direwolf Rider, id=Bogdush
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/06_Following_the_Shadow.cfg:74
@@ -1299,7 +1303,7 @@ msgstr "오, 와."
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:185
 msgid "I am Ras-Tabahn. Welcome to my laboratory, Ardonna of Tarrynth!"
-msgstr "나는 라스-타반이다. 내 연구실에 온 것을 환영한다, 타린스의 아르도나(Ardonna)!"
+msgstr "나는 라스-타반(Ras-Tabahn)이다. 내 연구실에 온 것을 환영한다, 타린스의 아르도나(Ardonna)!"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:189
@@ -1334,7 +1338,7 @@ msgid ""
 "one couldn’t perform that ritual oneself without a physical body. Being "
 "unable to interact with the world would be terribly frustrating. No matter; "
 "I have another idea."
-msgstr "아쉽게도 그렇지 않다. 유령은 충분히 빨리 소환하면 일부 기억을 유지할 수 있고, 경험을 쌓으면 훌륭한 정찰병과 병사가 되지만, 네가 직접 유령이 되고 싶지는 않을 거야. 바시-고른이 들고 있는 칼날이 보이나? 그 금속을 영혼에 묶으려면 복잡한 의식이 필요하고, 육체 없이는 그 의식을 스스로 행할 수 없다. 세상과 상호작용할 수 없다는 것은 몹시 답답한 일이지. 아무튼 다른 생각이 있다."
+msgstr "아쉽게도 그렇지 않다. 유령은 충분히 빨리 소환하면 일부 기억을 유지할 수 있고, 경험을 쌓으면 훌륭한 정찰병과 병사가 되지만, 네가 직접 유령이 되고 싶지는 않을 거야. 바시-고른(Vash-Gorn)이 들고 있는 칼날이 보이나? 그 금속을 영혼에 묶으려면 복잡한 의식이 필요하고, 육체 없이는 그 의식을 스스로 행할 수 없다. 세상과 상호작용할 수 없다는 것은 몹시 답답한 일이지. 아무튼 다른 생각이 있다."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:205
@@ -1435,7 +1439,7 @@ msgid ""
 "\n"
 "After several days of travel, he approached the frontier town of Carcyn."
 msgstr ""
-"먼저 라스-타반의 모험을 따라갑니다.\n"
+"먼저 라스-타반(Ras-Tabahn)의 모험을 따라갑니다.\n"
 "\n"
 "며칠 동안 여행한 뒤, 그는 국경 마을 카르신(Carcyn)에 다가갔습니다."
 
@@ -1586,7 +1590,7 @@ msgstr "내게 맞서지 말라고 경고했을 텐데."
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:333
 msgid "Greetings! I am Ras-Tabahn the mage."
-msgstr "안녕하시오! 나는 마법사 라스-타반이오."
+msgstr "안녕하시오! 나는 마법사 라스-타반(Ras-Tabahn)이오."
 
 #. [message]: speaker=Carcyn Fisher
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:337
@@ -1663,7 +1667,7 @@ msgid ""
 "spirit world and channel a small amount of its power. Soon after they moved "
 "on, they came across three farmsteads on the riverbank that had clearly been "
 "raided."
-msgstr "라스-타반의 제안은 마법사가 되기를 열망하는 많은 젊은이들을 끌어들였습니다. 그것이 어둠의 마법에 대한 불법 훈련이라는 사실은 중요하지 않았습니다. 부모가 미리 정해 둔 답답한 미래에서 벗어나는 일이 더 중요했지요. 라스-타반은 카르신(Carcyn) 외곽의 숲에서 며칠 동안 그들에게 영혼의 세계를 부르고 그 힘을 조금 끌어오는 방법을 가르쳤습니다. 그들이 떠난 직후, 강둑에 있는 세 농장이 명백히 약탈당한 모습을 발견했습니다."
+msgstr "라스-타반(Ras-Tabahn)의 제안은 마법사가 되기를 열망하는 많은 젊은이들을 끌어들였습니다. 그것이 어둠의 마법에 대한 불법 훈련이라는 사실은 중요하지 않았습니다. 부모가 미리 정해 둔 답답한 미래에서 벗어나는 일이 더 중요했지요. 라스-타반(Ras-Tabahn)은 카르신(Carcyn) 외곽의 숲에서 며칠 동안 그들에게 영혼의 세계를 부르고 그 힘을 조금 끌어오는 방법을 가르쳤습니다. 그들이 떠난 직후, 강둑에 있는 세 농장이 명백히 약탈당한 모습을 발견했습니다."
 
 #. [objective]: condition=win
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/09_Training_Session.cfg:140
@@ -1686,7 +1690,7 @@ msgstr "어둠의 수행자 다섯 명 모두 사망"
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:104
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:116
 msgid "Death of Ras-Tabahn"
-msgstr "라스-타반 사망"
+msgstr "라스-타반(Ras-Tabahn) 사망"
 
 #. [note]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/09_Training_Session.cfg:158
@@ -1757,7 +1761,7 @@ msgid ""
 "Ras-Tabahn’s party reached the end of the elf road near the Great River "
 "where they were to wait for Ardonna. As they arrived, another party did as "
 "well."
-msgstr "라스-타반의 일행은 아르도나(Ardonna)를 기다리기로 한 큰 강 근처 엘프 길의 끝에 도착했습니다. 그들이 도착하자 다른 일행도 모습을 드러냈습니다."
+msgstr "라스-타반(Ras-Tabahn)의 일행은 아르도나(Ardonna)를 기다리기로 한 큰 강 근처 엘프 길의 끝에 도착했습니다. 그들이 도착하자 다른 일행도 모습을 드러냈습니다."
 
 #. [side]: type=Merman Triton, id=Okean
 #. [side]
@@ -1973,7 +1977,10 @@ msgid ""
 "even mentioned my hair. As long as he continues to respect me, everything "
 "will go fine. If not, well, I am surrounded by the remnants of those who "
 "assumed I was weak."
-msgstr "율력 23년 4월 11일\n\n라스-타반은 괜찮은 동료인 것 같아요. 잘난 체하며 자기 말을 듣는 것을 좋아하던 아카데미의 답답한 선생들과는 상당히 다르지요. 그는 제가 여자라는 이유로 업신여긴 적도, 제 머리카락을 언급한 적도 한 번도 없어요. 계속 저를 존중해 준다면 모든 일이 잘 풀릴 거예요. 그렇지 않다면... 제가 약하다고 생각했던 자들의 잔해에 둘러싸여 있다는 사실을 알려 줘야겠지요."
+msgstr ""
+"율력 23년 4월 11일\n"
+"\n"
+"라스-타반(Ras-Tabahn)은 괜찮은 동료인 것 같아요. 잘난 체하며 자기 말을 듣는 것을 좋아하던 아카데미의 답답한 선생들과는 상당히 다르지요. 그는 제가 여자라는 이유로 업신여긴 적도, 제 머리카락을 언급한 적도 한 번도 없어요. 계속 저를 존중해 준다면 모든 일이 잘 풀릴 거예요. 그렇지 않다면... 제가 약하다고 생각했던 자들의 잔해에 둘러싸여 있다는 사실을 알려 줘야겠지요."
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:27
@@ -2181,7 +2188,10 @@ msgid ""
 "could. Fortunately, it was not in bad repair, though in many places it was "
 "overgrown, leaving only a few smooth cobbles to mark the way. The second "
 "day, we were still deep in the woods when we encountered an elf sorceress."
-msgstr "웨스노스력 23년 4월 17일\n\n첫 번째 목표는 달성했고, 여러 유령을 복무시키는 데 성공했다. 치유에 재능이 있는 새로운 동료도 생겼다. 라스-타반이 약속 장소에서 이미 기다리고 있을 것 같지는 않았지만, 나는 서두르고 싶었다. 그래서 우리는 최대한 빠르게 엘프 길을 따라 북쪽으로 향했다. 다행히 길의 상태는 나쁘지 않았다. 여러 곳이 잡초로 뒤덮여 길을 표시하는 매끈한 자갈 몇 개만 남아 있기는 했지만 말이다. 둘째 날에도 우리는 숲 깊은 곳에 있었고, 그때 엘프 마녀를 만났다."
+msgstr ""
+"웨스노스력 23년 4월 17일\n"
+"\n"
+"첫 번째 목표는 달성했고, 여러 유령을 복무시키는 데 성공했다. 치유에 재능이 있는 새로운 동료도 생겼다. 라스-타반(Ras-Tabahn)이 약속 장소에서 이미 기다리고 있을 것 같지는 않았지만, 나는 서두르고 싶었다. 그래서 우리는 최대한 빠르게 엘프 길을 따라 북쪽으로 향했다. 다행히 길의 상태는 나쁘지 않았다. 여러 곳이 잡초로 뒤덮여 길을 표시하는 매끈한 자갈 몇 개만 남아 있기는 했지만 말이다. 둘째 날에도 우리는 숲 깊은 곳에 있었고, 그때 엘프 마녀를 만났다."
 
 #. [side]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/12_Walking_Trees.cfg:48
@@ -2270,7 +2280,10 @@ msgid ""
 "proven their worth and saved my life. Thus Ras-Tabahn had also moved up in "
 "my estimation. After we escaped the trees, we met no more resistance on the "
 "road, and soon arrived at the meeting place where Ras-Tabahn was waiting."
-msgstr "웨스노스력 23년 4월 21일\n\n유령들이 없었다면 나는 나무들로부터 도망칠 수 없었을 것이다. 유령들은 자신의 가치를 증명했고 내 목숨을 구했다. 덕분에 라스-타반에 대한 평가도 올라갔다. 나무들로부터 달아난 뒤에는 길에서 더 이상 저항을 만나지 않았고, 곧 라스-타반이 기다리고 있는 약속 장소에 도착했다."
+msgstr ""
+"웨스노스력 23년 4월 21일\n"
+"\n"
+"유령들이 없었다면 나는 나무들로부터 도망칠 수 없었을 것이다. 유령들은 자신의 가치를 증명했고 내 목숨을 구했다. 덕분에 라스-타반(Ras-Tabahn)에 대한 평가도 올라갔다. 나무들로부터 달아난 뒤에는 길에서 더 이상 저항을 만나지 않았고, 곧 라스-타반(Ras-Tabahn)이 기다리고 있는 약속 장소에 도착했다."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/13_Together_Again.cfg:121
@@ -2284,7 +2297,7 @@ msgstr "안녕, 아르도나(Ardonna)! (<i>콜록</i>) 나는 성공했고, 너�
 msgid ""
 "Well met, Ras-Tabahn. Yes I was. Now, can you explain the mission you spoke "
 "of?"
-msgstr "반갑네, 라스-타반. 그래, 그랬지. 이제 네가 말한 임무를 설명해 줄래?"
+msgstr "반갑네, 라스-타반(Ras-Tabahn). 그래, 그랬지. 이제 네가 말한 임무를 설명해 줄래?"
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/13_Together_Again.cfg:129
@@ -2355,7 +2368,7 @@ msgstr "그럴 수도 있겠지. 아카데미의 마법사가 공부를 마치�
 msgid ""
 "I suppose you are right. I am no longer the ordinary girl Ardonna, and "
 "Vendraxis was correct. From now on I shall be... Ardryn-Na."
-msgstr "당신 말이 맞는 것 같아요. 저는 더 이상 평범한 소녀 아르도나(Ardonna)가 아니고, 벤드락시스(Vendraxis)의 말이 옳았어요. 이제부터 제 이름은... 아르드린-나예요."
+msgstr "당신 말이 맞는 것 같아요. 저는 더 이상 평범한 소녀 아르도나(Ardonna)가 아니고, 벤드락시스(Vendraxis)의 말이 옳았어요. 이제부터 제 이름은... 아르드린-나(Ardryn-Na)예요."
 
 #. [modify_unit]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/13_Together_Again.cfg:177
@@ -2367,7 +2380,7 @@ msgstr "아르드린-나(Ardryn-Na)"
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/13_Together_Again.cfg:181
 msgid "Well then Ardryn-Na, let us head north."
-msgstr "그럼 아르드린-나, 북쪽으로 향하자."
+msgstr "그럼 아르드린-나(Ardryn-Na), 북쪽으로 향하자."
 
 #. [scenario]: id=14_Entering_the_Northlands
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/14_Entering_the_Northlands.cfg:8
@@ -2397,7 +2410,7 @@ msgid ""
 msgstr ""
 "웨스노스력 23년 4월 24일\n"
 "\n"
-"북쪽 산봉우리 뒤로 새벽빛이 퍼질 때 우리는 아베즈(Abez) 여울에 도착했다. 강을 걸어서 건너는 동안 어두운 물이 허리까지 차올라서, 천천히 나아갈 수밖에 없었다. 아래에 어떤 촉수 달린 생물이 숨어 있을지 감히 상상하지 않았지만, 우리는 아무 일 없이 강을 건넜다. 눈이 녹은 물이라 차가웠고, 맞은편 강변에 도착했을 때는 이가 딱딱 부딪힐 정도였다. 그래도 떠오르는 태양은 따뜻했고, 우리는 곧 몸을 말릴 수 있었다. 하지만 라스-타반의 상태는 좋지 않았다. 그는 모래 위에 쓰러져 내가 본 적 없는 심한 기침 발작을 일으켰다. 다시 말을 할 수 있게 되었을 때 그는 추위 때문일 뿐이니 지나치게 걱정할 필요는 없다고 안심시켰다. 그래도 마음이 놓이지 않는다."
+"북쪽 산봉우리 뒤로 새벽빛이 퍼질 때 우리는 아베즈(Abez) 여울에 도착했다. 강을 걸어서 건너는 동안 어두운 물이 허리까지 차올라서, 천천히 나아갈 수밖에 없었다. 아래에 어떤 촉수 달린 생물이 숨어 있을지 감히 상상하지 않았지만, 우리는 아무 일 없이 강을 건넜다. 눈이 녹은 물이라 차가웠고, 맞은편 강변에 도착했을 때는 이가 딱딱 부딪힐 정도였다. 그래도 떠오르는 태양은 따뜻했고, 우리는 곧 몸을 말릴 수 있었다. 하지만 라스-타반(Ras-Tabahn)의 상태는 좋지 않았다. 그는 모래 위에 쓰러져 내가 본 적 없는 심한 기침 발작을 일으켰다. 다시 말을 할 수 있게 되었을 때 그는 추위 때문일 뿐이니 지나치게 걱정할 필요는 없다고 안심시켰다. 그래도 마음이 놓이지 않는다."
 
 #. [side]: type=Orcish Warlord, id=Rod-Ishnak
 #. [side]: type=Orcish Warlord, id=Vok-Hroog
@@ -2537,7 +2550,10 @@ msgid ""
 "is quite old — at least fifty — but I am also certain that he is ill. His "
 "thinness leads me to believe it is consumption, but he refuses to discuss "
 "it, preferring to deny the severity of his problem."
-msgstr "웨스노스력 23년 5월 6일\n\n라스-타반이 알고 있던 산길에 도착했다. 이 높은 곳의 공기는 서늘하다. 오후가 되면 눈 위로 안개가 피어오르고, 고드름에서는 바위 돌출부를 타고 가장 맑은 물이 똑똑 떨어진다. 모든 것이 상쾌하지만, 라스-타반은 기침 발작을 자주 일으킨다. 숨이 차서 짧은 말밖에 하지 못할 때도 있다. 물론 그는 매우 늙었다. 적어도 쉰 살은 되었다. 하지만 나는 그가 병에 걸렸다는 것도 확신한다. 그의 야윈 모습을 보면 결핵이 아닐까 싶지만, 그는 문제의 심각성을 부정하며 그 이야기를 꺼내려 하지 않는다."
+msgstr ""
+"웨스노스력 23년 5월 6일\n"
+"\n"
+"라스-타반(Ras-Tabahn)이 알고 있던 산길에 도착했다. 이 높은 곳의 공기는 서늘하다. 오후가 되면 눈 위로 안개가 피어오르고, 고드름에서는 바위 돌출부를 타고 가장 맑은 물이 똑똑 떨어진다. 모든 것이 상쾌하지만, 라스-타반(Ras-Tabahn)은 기침 발작을 자주 일으킨다. 숨이 차서 짧은 말밖에 하지 못할 때도 있다. 물론 그는 매우 늙었다. 적어도 쉰 살은 되었다. 하지만 나는 그가 병에 걸렸다는 것도 확신한다. 그의 야윈 모습을 보면 결핵이 아닐까 싶지만, 그는 문제의 심각성을 부정하며 그 이야기를 꺼내려 하지 않는다."
 
 #. [side]: type=Gryphon
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/15_Mountain_Pass.cfg:46
@@ -2548,7 +2564,7 @@ msgstr "그리폰족"
 #. [objective]: condition=win
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/15_Mountain_Pass.cfg:73
 msgid "Move Ardryn-Na and Ras-Tabahn to level ground in the northeast corner"
-msgstr "아드린-나와 라스-타반을 북동쪽 구석의 평지로 이동시키세요"
+msgstr "아드린-나와 라스-타반(Ras-Tabahn)을 북동쪽 구석의 평지로 이동시키세요"
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/15_Mountain_Pass.cfg:147
@@ -2625,7 +2641,10 @@ msgid ""
 "plan, and with the goal in sight, he gained a little strength. However, he "
 "is quite weak and ill now, and breathing raggedly. I don’t know how much "
 "longer he can survive."
-msgstr "웨스노스력 23년 6월 3일\n\n우리는 높은 고원을 지나 아르칸-토리아를 건넜다. 그리고 그 마법사를 찾기 전에 다시 산으로 올라갔다. 이것은 라스-타반의 계획이었고, 목표가 눈앞에 보이자 그는 조금 기운을 되찾았다. 하지만 이제 그는 매우 쇠약하고 병들어 숨도 거칠다. 그가 얼마나 더 버틸 수 있을지 모르겠다."
+msgstr ""
+"웨스노스력 23년 6월 3일\n"
+"\n"
+"우리는 높은 고원을 지나 아르칸-토리아(Arkan-thoria)를 건넜다. 그리고 그 마법사를 찾기 전에 다시 산으로 올라갔다. 이것은 라스-타반(Ras-Tabahn)의 계획이었고, 목표가 눈앞에 보이자 그는 조금 기운을 되찾았다. 하지만 이제 그는 매우 쇠약하고 병들어 숨도 거칠다. 그가 얼마나 더 버틸 수 있을지 모르겠다."
 
 #. [side]: type=Elder Mage, id=Crelanu
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/16_The_Mage.cfg:47
@@ -2643,7 +2662,7 @@ msgstr "크렐라누(Crelanu)를 물리치십시오"
 msgid ""
 "Ras-Tabahn is slowed and will lose four hitpoints every turn. He will die if "
 "he reaches zero."
-msgstr "라스-타반은 둔화되어 매 턴 생명력을 4 잃습니다. 생명력이 0이 되면 사망합니다."
+msgstr "라스-타반(Ras-Tabahn)은 둔화되어 매 턴 생명력을 4 잃습니다. 생명력이 0이 되면 사망합니다."
 
 #. [note]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/16_The_Mage.cfg:88
@@ -2736,7 +2755,7 @@ msgstr "곧 알게 되겠지."
 msgid ""
 "Ras-Tabahn is sick. He is slowed, and will lose four hitpoints every turn. "
 "He will die if he reaches zero."
-msgstr "라스-타반은 병들었습니다. 느려진 상태이며 매 턴 체력을 4 잃습니다. 체력이 0이 되면 죽습니다."
+msgstr "라스-타반(Ras-Tabahn)은 병들었습니다. 느려진 상태이며 매 턴 체력을 4 잃습니다. 체력이 0이 되면 죽습니다."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/16_The_Mage.cfg:397
@@ -2784,7 +2803,10 @@ msgid ""
 "Not far inside the cave was a ruined castle built in a style I did not "
 "recognize. Ras-Tabahn said, “Dwarves.” It is infested with rats, and "
 "clearly, no dwarves have lived here for a long time."
-msgstr "웨스노스력 23년 6월 6일\n\n동굴 안쪽 멀지 않은 곳에 내가 알아보지 못하는 양식으로 지어진 폐허가 된 성이 있었다. 라스-타반은 말했다. “드워프군.” 성에는 쥐가 들끓고 있었고, 이곳에 드워프가 산 지 오래되었다는 것은 분명했다."
+msgstr ""
+"웨스노스력 23년 6월 6일\n"
+"\n"
+"동굴 안쪽 멀지 않은 곳에 내가 알아보지 못하는 양식으로 지어진 폐허가 된 성이 있었다. 라스-타반(Ras-Tabahn)은 말했다. “드워프군.” 성에는 쥐가 들끓고 있었고, 이곳에 드워프가 산 지 오래되었다는 것은 분명했다."
 
 #. [side]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/17_Mortality.cfg:37
@@ -2800,7 +2822,7 @@ msgstr "조금만 더 가면 돼."
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/17_Mortality.cfg:138
 msgid ""
 "Ardryn-Na, I’m dying. (<i>Cough, cough</i>) I don’t think... I can stop it."
-msgstr "아르드린-나, 나는 죽게 될 거야.. (<i>콜록, 콜록</i>)나는 멈출 수... 없을 것 같아."
+msgstr "아르드린-나(Ardryn-Na), 나는 죽게 될 거야.. (<i>콜록, 콜록</i>)나는 멈출 수... 없을 것 같아."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/17_Mortality.cfg:142
@@ -2896,7 +2918,10 @@ msgid ""
 "fact that his flesh is starting to rot away, a process that causes him no "
 "discomfort. Nor can he smell it any more than I can. If all continues to go "
 "well, I will make the transition soon myself."
-msgstr "웨스노스력 23년 6월 13일\n\n그래서 이제 라스-타반은 언데드가 되었다. 처음에는 건강이 크게 좋아지지 않았고, 춥다고 불평했다. 생명력은 약했지만 고대 성에 들끓는 쥐에게서 생명력을 흡수할 수 있었다. 이제 그는 내가 지금껏 본 것보다 훨씬 강하고 활기차다. 육체가 썩기 시작했는데도 말이다. 그 과정은 그에게 아무런 불편도 주지 않는다. 나와 마찬가지로 이제는 썩는 냄새도 맡지 못한다. 모든 일이 계속 순조롭게 진행된다면, 나도 곧 변환을 이룰 것이다."
+msgstr ""
+"웨스노스력 23년 6월 13일\n"
+"\n"
+"그래서 이제 라스-타반(Ras-Tabahn)은 언데드가 되었다. 처음에는 건강이 크게 좋아지지 않았고, 춥다고 불평했다. 생명력은 약했지만 고대 성에 들끓는 쥐에게서 생명력을 흡수할 수 있었다. 이제 그는 내가 지금껏 본 것보다 훨씬 강하고 활기차다. 육체가 썩기 시작했는데도 말이다. 그 과정은 그에게 아무런 불편도 주지 않는다. 나와 마찬가지로 이제는 썩는 냄새도 맡지 못한다. 모든 일이 계속 순조롭게 진행된다면, 나도 곧 변환을 이룰 것이다."
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/18_Abandoned_Outpost.cfg:49
@@ -2921,7 +2946,7 @@ msgstr "거미"
 #. [objective]: condition=win
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/18_Abandoned_Outpost.cfg:84
 msgid "Move Ardryn-Na and Ras-Tabahn to the west end of the cave"
-msgstr "아르드린-나와 라스-타반을 동굴 서쪽 끝으로 이동시키십시오"
+msgstr "아르드린-나(Ardryn-Na)와 라스-타반(Ras-Tabahn)을 동굴 서쪽 끝으로 이동시키십시오"
 
 #. [note]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/18_Abandoned_Outpost.cfg:97
@@ -3011,7 +3036,10 @@ msgid ""
 "undeath willingly or not, but join they will. If they do not join willingly, "
 "or lack the mental fortitude to transition to lich form, they will of course "
 "be mindless slaves."
-msgstr "웨스노스력 23년 6월 21일\n\n한동안 우리는 완전한 어둠 속에서 터널을 계속 내려갔다. 어둠은 큰 문제가 되지 않았다. 박쥐는 아무 문제 없이 길을 찾았고, 모든 마법사는 서로의 정확한 위치를 감지할 수 있었다. 라스-타반과 나는 이야기를 나누었다. 그의 계획은 엘렌세파로 가는 것이다. 그는 도시를 무너뜨리고 자신을 언데드 제국의 통치자로 세울 수 있다고 믿는다. 시민들은 원하든 원하지 않든 언데드로서 그와 함께하게 될 것이다. 자발적으로 따르지 않거나 리치로 변할 정신력이 부족한 자들은 물론 생각 없는 노예가 될 것이다."
+msgstr ""
+"웨스노스력 23년 6월 21일\n"
+"\n"
+"한동안 우리는 완전한 어둠 속에서 터널을 계속 내려갔다. 어둠은 큰 문제가 되지 않았다. 박쥐는 아무 문제 없이 길을 찾았고, 모든 마법사는 서로의 정확한 위치를 감지할 수 있었다. 라스-타반(Ras-Tabahn)과 나는 이야기를 나누었다. 그의 계획은 엘렌세파로 가는 것이다. 그는 도시를 무너뜨리고 자신을 언데드 제국의 통치자로 세울 수 있다고 믿는다. 시민들은 원하든 원하지 않든 언데드로서 그와 함께하게 될 것이다. 자발적으로 따르지 않거나 리치로 변할 정신력이 부족한 자들은 물론 생각 없는 노예가 될 것이다."
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/19_Lava_and_Stone.cfg:25
@@ -3231,7 +3259,7 @@ msgid ""
 msgstr ""
 "웨스노스력 23년 7월 3일\n"
 "\n"
-"우리는 마침내 산을 빠져나왔다. 오늘 아침 늦게 아베즈(Abez) 여울을 건넌 뒤, 남동쪽의 타스 마을을 향해 하루 종일 걸었다. 우리는 그곳에서 헤어질 계획이었다. 나는 남쪽의 단톤크와 웰딘(Weldyn)으로 가서 우리의 소식을 전하고, 라스-타반은 엘렌세파르(Elensefar)로 향해 세상에 우리만의 특별한 자리를 마련하려는 계획을 실행할 예정이었다. (아마 왕 같은 존재가 되려는 것 같기도 하다.)"
+"우리는 마침내 산을 빠져나왔다. 오늘 아침 늦게 아베즈(Abez) 여울을 건넌 뒤, 남동쪽의 타스 마을을 향해 하루 종일 걸었다. 우리는 그곳에서 헤어질 계획이었다. 나는 남쪽의 단톤크와 웰딘(Weldyn)으로 가서 우리의 소식을 전하고, 라스-타반(Ras-Tabahn)은 엘렌세파르(Elensefar)로 향해 세상에 우리만의 특별한 자리를 마련하려는 계획을 실행할 예정이었다. (아마 왕 같은 존재가 되려는 것 같기도 하다.)"
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:37
@@ -3253,7 +3281,7 @@ msgstr "마법사"
 #. [side]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:118
 msgid "Elves"
-msgstr "엘프들"
+msgstr "엘프족"
 
 #. [message]: speaker=Thrigalurd
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:330
@@ -3299,7 +3327,7 @@ msgstr "이 괴물들이 다시는 우리 조상의 영혼을 우리에게 맞�
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:530
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:112
 msgid "Death of Ardryn-Na"
-msgstr "아르드린-나의 죽음"
+msgstr "아르드린-나(Ardryn-Na)의 죽음"
 
 #. [unit]: type=Saurian Flanker, id=Fizztsars
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:568
@@ -3484,7 +3512,7 @@ msgid ""
 "should survive long enough to make its way into the hands of someone more "
 "open-minded. Tath, in particular, is home to many mages. It only takes one "
 "who is willing to learn the secrets of the ancients."
-msgstr "라스-타반은 힘을 회복한 뒤 엘렌세파르(Elensefar)로 계속 나아갈 것이다. 다른 이들 대부분도 그와 함께 간다. 그들의 성공을 빈다. 벤드락시스(Vendraxis)는 이제 우리의 변신을 재현하려면 무엇을 배워야 하는지 알고 있다. 그는 남은 세월을 연구와 수련에 쓰며 자기 종족의 태도를 바꾸려 할 것이다. 나는 이 전장에 내 일지를 눈에 잘 띄게 놓아 둘 것이다. 대부분은 일지를 파괴하려 할 만큼 두려워할 것 같지만, 일지를 보호하려고 여러 보호 주문을 걸어 두었다. 이렇게 하면 더 열린 생각을 가진 사람의 손에 들어갈 때까지 충분히 오래 남아 있을 것이다. 특히 타스에는 마법사가 많다. 고대인들의 비밀을 배우려는 사람은 한 명이면 충분하다."
+msgstr "라스-타반(Ras-Tabahn)은 힘을 회복한 뒤 엘렌세파르(Elensefar)로 계속 나아갈 것이다. 다른 이들 대부분도 그와 함께 간다. 그들의 성공을 빈다. 벤드락시스(Vendraxis)는 이제 우리의 변신을 재현하려면 무엇을 배워야 하는지 알고 있다. 그는 남은 세월을 연구와 수련에 쓰며 자기 종족의 태도를 바꾸려 할 것이다. 나는 이 전장에 내 일지를 눈에 잘 띄게 놓아 둘 것이다. 대부분은 일지를 파괴하려 할 만큼 두려워할 것 같지만, 일지를 보호하려고 여러 보호 주문을 걸어 두었다. 이렇게 하면 더 열린 생각을 가진 사람의 손에 들어갈 때까지 충분히 오래 남아 있을 것이다. 특히 타스에는 마법사가 많다. 고대인들의 비밀을 배우려는 사람은 한 명이면 충분하다."
 
 #. [else]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/22_Epilogue.cfg:35
@@ -3497,7 +3525,7 @@ msgid ""
 "way into the hands of someone more open-minded. Tath, in particular, is home "
 "to many mages. It only takes one who is willing to learn the secrets of the "
 "ancients."
-msgstr "라스-타반은 힘을 회복한 뒤 엘렌세파르(Elensefar)로 계속 나아갈 것이다. 다른 이들 대부분도 그와 함께 간다. 그들의 성공을 빈다. 나는 이 전장에 내 일지를 눈에 잘 띄게 놓아 둘 것이다. 대부분은 일지를 파괴하려 할 만큼 두려워할 것 같지만, 일지를 보호하려고 여러 보호 주문을 걸어 두었다. 이렇게 하면 더 열린 생각을 가진 사람의 손에 들어갈 때까지 충분히 오래 남아 있을 것이다. 특히 타스에는 마법사가 많다. 고대인들의 비밀을 배우려는 사람은 한 명이면 충분하다."
+msgstr "라스-타반(Ras-Tabahn)은 힘을 회복한 뒤 엘렌세파르(Elensefar)로 계속 나아갈 것이다. 다른 이들 대부분도 그와 함께 간다. 그들의 성공을 빈다. 나는 이 전장에 내 일지를 눈에 잘 띄게 놓아 둘 것이다. 대부분은 일지를 파괴하려 할 만큼 두려워할 것 같지만, 일지를 보호하려고 여러 보호 주문을 걸어 두었다. 이렇게 하면 더 열린 생각을 가진 사람의 손에 들어갈 때까지 충분히 오래 남아 있을 것이다. 특히 타스에는 마법사가 많다. 고대인들의 비밀을 배우려는 사람은 한 명이면 충분하다."
 
 #. [unit_type]: id=Bone Bird, race=undead, description=
 #: data/campaigns/Secrets_of_the_Ancients/units/Bone_Bird.cfg:4

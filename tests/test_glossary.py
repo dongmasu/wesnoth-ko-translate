@@ -5,6 +5,7 @@ import unittest
 
 from tools.apply_manual_translation_batch import is_glossary_candidate
 from tools.audit_glossary import parenthetical_is_source_component
+from tools.audit_gender_terms import lexical_pairs
 from tools.merge_reference_translations import parse_field_values
 from tools.normalize_contextual_translations import normalize_translation
 from tools.normalize_korean_spacing import normalize_block
@@ -126,6 +127,76 @@ class GlossaryTests(unittest.TestCase):
         self.assertEqual(by_source["Dark Sorceress"], "흑마녀")
         self.assertEqual(by_source["female^Elvish Sorceress"], "요정 마녀")
 
+    def test_gender_context_does_not_invent_a_female_prefix(self):
+        _, rows = glossary_rows()
+        by_source = {row["source_term"]: row["standard_korean"] for row in rows}
+        self.assertEqual(by_source["Elvish Archer"], "요정 궁수")
+        self.assertEqual(by_source["female^Elvish Archer"], "요정 궁수")
+        self.assertNotIn("여성", by_source["female^Elvish Archer"])
+
+    def test_magic_terms_keep_the_project_mapping_explicit(self):
+        _, rows = glossary_rows()
+        by_source = {row["source_term"]: row["standard_korean"] for row in rows}
+        self.assertEqual(by_source["Mage"], "마법사")
+        self.assertEqual(by_source["Sorcerer"], "마법사")
+        self.assertEqual(by_source["Wizard"], "마도사")
+
+    def test_reviewed_core_ui_terms_are_natural_and_synchronized(self):
+        _, rows = glossary_rows()
+        by_source = {row["source_term"]: row["standard_korean"] for row in rows}
+        expected = {
+            "Install Dependencies": "의존성 설치",
+            "Victory:": "승리 조건:",
+            "Defeat:": "패배 조건:",
+            "Plan Unit Advance": "유닛 승급 계획",
+            "Force advancement planning": "승급 계획 강제",
+            "No planned advancement": "승급 대상 미설정",
+            "Plan Advancement": "승급 계획",
+        }
+        translations = {}
+        for path in WORK_KO.glob("*.po"):
+            translations.update(exact_po_translations(path))
+        for source, korean in expected.items():
+            with self.subTest(source=source):
+                self.assertEqual(by_source[source], korean)
+                self.assertEqual(translations[source], korean)
+
+    def test_liminal_rules_description_is_not_mistranslated_as_diurnal(self):
+        translations = {}
+        for path in WORK_KO.glob("*.po"):
+            translations.update(exact_po_translations(path))
+        source = (
+            "Liminal units fight best during the twilight times of day.\n\n"
+            "Twilight: +25% Damage"
+        )
+        self.assertEqual(
+            translations[source],
+            "경계성 유닛은 황혼 시간대에 가장 잘 싸웁니다.\n\n"
+            "황혼: 피해 +25%",
+        )
+
+    def test_magic_term_categories_do_not_use_unrelated_context_labels(self):
+        _, rows = glossary_rows()
+        by_source = {row["source_term"]: row["category"] for row in rows}
+        expected = {
+            "Mage": "magic",
+            "Mages": "magic",
+            "Great Mage": "unit_name",
+            "Mage Guard": "unit_name",
+            "female^Mage": "magic",
+            "female^Great Mage": "unit_name",
+            "female^Mage of Light": "unit_name",
+            "Red Wizards": "unit_role",
+        }
+        for source, category in expected.items():
+            with self.subTest(source=source):
+                self.assertEqual(by_source[source], category)
+
+    def test_gender_audit_discovers_lexical_pairs_without_using_category(self):
+        _, rows = glossary_rows()
+        pairs = set(lexical_pairs(rows))
+        self.assertIn(("Dark Sorcerer", "Dark Sorceress"), pairs)
+
     def test_gendered_lexical_terms_preserve_gender_meaning(self):
         _, rows = glossary_rows()
         by_source = {row["source_term"]: row["standard_korean"] for row in rows}
@@ -164,23 +235,27 @@ class GlossaryTests(unittest.TestCase):
         _, rows = glossary_rows()
         by_source = {row["source_term"]: row["standard_korean"] for row in rows}
         expected = {
+            "Arcanclave": "아르칸클레이브(Arcanclave)",
             "Barag Gór": "바락 고르(Barag Gór)",
             "Bragdash Gar": "브라그다시 가르(Bragdash Gar)",
             "Chief Bir-brish": "족장 비르-브리시(Bir-brish)",
             "Chief Dra-Nak": "족장 드라-나크(Dra-Nak)",
             "Contender Gorlack": "경쟁자 고를락(Gorlack)",
             "Gawffus the Dim": "어리숙한 가우푸스(Gawffus)",
+            "Kah Ruuk": "카 루크(Kah Ruuk)",
+            "Lintanir": "린타니르(Lintanir)",
             "Mal Maul": "말 마울(Mal Maul)",
             "Muff Argulak": "머프 아르굴락(Muff Argulak)",
             "Muff Toras": "머프 토라스(Muff Toras)",
             "Naga Myrmidon": "나가 미르미돈(Myrmidon)",
             "Pidmer Gar": "피드메르 가르(Pidmer Gar)",
             "Rawffus the Dim": "어리숙한 라우푸스(Rawffus)",
-            "Urza Fastik": "우르자 파스티크(Urza Fastik)",
+            "Urza Fastik": "우르자(Urza) 파스티크(Fastik)",
         }
         for source, standard in expected.items():
             with self.subTest(source=source):
                 self.assertEqual(by_source[source], standard)
+        self.assertNotIn("말(Mal) 아카이(A’kai)", by_source["Mal A’kai"])
 
     def test_embedded_name_audit_does_not_repair_components_of_a_paired_name(self):
         from tools.audit_and_pair_embedded_names import (
@@ -276,7 +351,7 @@ class GlossaryTests(unittest.TestCase):
             exact_po_translations(WORK_KO / "wesnoth-manual-ko.po").values()
         )
         for expected in (
-            "《웨스노스 전투》는 판타지를 배경으로 하는 턴제 전략 게임입니다.",
+            "《웨스노스(Wesnoth) 전투》는 판타지를 배경으로 하는 턴제 전략 게임입니다.",
             "강력한 군대를 만들고, 풋내기 신병을 차츰 노련한 베테랑으로 훈련하십시오.",
             "체력(HP)을 8씩 잃습니다.",
             "통제 권역을 형성하며",
@@ -347,7 +422,7 @@ class GlossaryTests(unittest.TestCase):
                     normalized,
                 )
 
-    def test_korean_spacing_normalization_does_not_touch_msgid_or_obsolete(self):
+    def test_korean_spacing_normalization_does_not_touch_msgid_and_normalizes_obsolete(self):
         active = 'msgid "Example"\nmsgstr "그렇게 할것이다"'
         normalized, count = normalize_block(active)
         self.assertEqual(count, 1)
@@ -359,9 +434,10 @@ class GlossaryTests(unittest.TestCase):
         self.assertEqual(normalized_again, normalized)
 
         obsolete = '#~ msgid "Example"\n#~ msgstr "그렇게 할것이다"'
-        unchanged, count = normalize_block(obsolete)
-        self.assertEqual(count, 0)
-        self.assertEqual(unchanged, obsolete)
+        normalized_obsolete, count = normalize_block(obsolete)
+        self.assertEqual(count, 1)
+        self.assertIn('#~ msgid "Example"', normalized_obsolete)
+        self.assertIn('#~ msgstr "그렇게 할 것이다"', normalized_obsolete)
 
     def test_korean_typo_normalization_covers_unambiguous_typos(self):
         active = 'msgid "Example"\nmsgstr "절때 난장이가 쫒아가며 댓가를 치르고 부딛혀"\n'
@@ -421,6 +497,111 @@ class GlossaryTests(unittest.TestCase):
             normalized,
         )
 
+    def test_korean_spacing_normalization_covers_recent_review_candidates(self):
+        active = (
+            'msgid "Example"\n'
+            'msgstr "걱정하지마. 돌아 가려했는데 알고있는 사람은 없었고, '
+            '전투시에 보좌해준 이가 자랑스러워 하실 거에요. '
+            '며칠 뒤 씻기는게 좋겠고, 다시는 안그럴께요."\n'
+        )
+        normalized, _ = normalize_block(active)
+        self.assertIn(
+            'msgstr "걱정하지 마. 돌아가려 했는데 알고 있는 사람은 없었고, '
+            '전투 시에 보좌해 준 이가 자랑스러워하실 거예요. '
+            '며칠 뒤 씻기는 게 좋겠고, 다시는 안 그럴게요."',
+            normalized,
+        )
+
+        unit_name, _ = normalize_block(
+            'msgid "Example"\nmsgstr "어린 오우거예요."\n'
+        )
+        self.assertIn('msgstr "어린 오우거예요."', unit_name)
+
+        typo_block, _ = normalize_block(
+            'msgid "Example"\n'
+            'msgstr "기병를 태울만큼 알려줘야해요. 한 번도 속지마십시오."\n'
+        )
+        self.assertIn(
+            'msgstr "기병을 태울 만큼 알려 줘야 해요. 한 번도 속지 마십시오."',
+            typo_block,
+        )
+
+        additional_spacing, _ = normalize_block(
+            'msgid "Example"\n'
+            'msgstr "영주들에의해 붙잡혔고, 있는동안 원하는게 많았지만 '
+            '두려워하지마. 포기하지마. 생각하지마."\n'
+        )
+        self.assertIn(
+            'msgstr "영주들에 의해 붙잡혔고, 있는 동안 원하는 게 많았지만 '
+            '두려워하지 마. 포기하지 마. 생각하지 마."',
+            additional_spacing,
+        )
+
+        obsolete, _ = normalize_block(
+            '#~ msgid "Example"\n'
+            '#~ msgstr "옛날에는 한강을 건넜고, 원하는게 많았다."\n'
+        )
+        self.assertIn(
+            '#~ msgstr "옛날에는 한강을 건넜고, 원하는 게 많았다."',
+            obsolete,
+        )
+
+        generated_spacing, _ = normalize_block(
+            '#~ msgid "Example"\n'
+            '#~ msgstr "소집 가능한한 유닛과 이동 가능한한 영역을 확인하고 가능한한 오래 버티세요."\n'
+        )
+        self.assertIn(
+            '#~ msgstr "소집 가능한 유닛과 이동 가능한 영역을 확인하고 가능한 한 오래 버티세요."',
+            generated_spacing,
+        )
+
+        prose_spacing, _ = normalize_block(
+            'msgid "Example"\n'
+            'msgstr "걱정되는건 가본적이 없어서야. 동료들이 가담해준 뒤 싸워주고, '
+            '대장인것을 알아야해. 남아있어야해."\n'
+        )
+        self.assertIn(
+            'msgstr "걱정되는 건 가 본 적이 없어서야. 동료들이 가담해 준 뒤 싸워 주고, '
+            '대장인 것을 알아야 해. 남아 있어야 해."',
+            prose_spacing,
+        )
+
+        additional_review, _ = normalize_block(
+            'msgid "Example"\n'
+            'msgstr "달라지는건 없어. 모든게 끝이야. 보낸지 오래됐고 있을거야. '
+            '안되네. 할테니 참여 할 생각이면 가까워지는것을 피하고 서있는것을 확인해."\n'
+        )
+        self.assertIn(
+            'msgstr "달라지는 건 없어. 모든 게 끝이야. 보낸 지 오래됐고 있을 거야. '
+            '안 되네. 할 테니 참여할 생각이면 가까워지는 것을 피하고 서 있는 것을 확인해."',
+            additional_review,
+        )
+
+        recent_review, _ = normalize_block(
+            'msgid "Example"\n'
+            'msgstr "수백개의 요새들이곳곳에 생겼다. 그 건 닫힌후 내것이 됐다. '
+            '어느정도 다가가지마라. 마법사놈을 놀린거라면 못봤고 안먹힐 것이다. '
+            '볼줄 알며 도끼맛을 보여주고 만들어주겠다. 걸맞는 부족들간의 싸움붙이와 '
+            '잠시후 왔다갔다."\n'
+        )
+        self.assertIn(
+            'msgstr "수백 개의 요새들이 곳곳에 생겼다. 그건 닫힌 후 내 것이 됐다. '
+            '어느 정도 다가가지 마라. 마법사 놈을 놀린 거라면 못 봤고 안 먹힐 것이다. '
+            '볼 줄 알며 도끼 맛을 보여 주고 만들어 주겠다. 걸맞은 부족들 간의 싸움 붙이와 '
+            '잠시 후 왔다 갔다."',
+            recent_review,
+        )
+
+        dependent_noun_spacing, _ = normalize_block(
+            'msgid "Example"\n'
+            'msgstr "그럴거다. 죽을거야. 6일동안 버티고 잠시동안 쉬었다. 세월동안 기다렸다."\n'
+        )
+        self.assertIn(
+            'msgstr "그럴 거다. 죽을 거야. 6일 동안 버티고 잠시 동안 쉬었다. '
+            '세월 동안 기다렸다."',
+            dependent_noun_spacing,
+        )
+
     def test_tarek_uses_the_korean_reference_spelling(self):
         _, rows = glossary_rows()
         tarek = next(row for row in rows if row["source_term"] == "Tarek")
@@ -443,6 +624,25 @@ class GlossaryTests(unittest.TestCase):
         self.assertEqual(by_source["Time Schedule Menu"], "시간 일정 메뉴")
         for path in WORK_KO.glob("*.po"):
             self.assertNotIn("차림표", path.read_text(encoding="utf-8"))
+
+    def test_wml_tool_commands_keep_command_names_and_share_the_same_korean_form(self):
+        _, rows = glossary_rows()
+        by_source = {row["source_term"]: row["standard_korean"] for row in rows}
+        for command in ("wmlindent", "wmllint", "wmlscope", "wmlxgettext"):
+            self.assertEqual(by_source[f"Run {command}"], f"{command} 실행")
+        tools_po = (WORK_KO / "wesnoth-tools-ko.po").read_text(encoding="utf-8")
+        self.assertNotIn("wmlxgettext를 실행", tools_po)
+
+    def test_tools_gui_description_has_no_stray_backtick_or_awkward_locale_wording(self):
+        tools_po = (WORK_KO / "wesnoth-tools-ko.po").read_text(encoding="utf-8")
+        self.assertIn(
+            "언어 코드는 POSIX 로케일 이름이어야 합니다.",
+            tools_po,
+        )
+        self.assertNotIn(
+            'msgstr "`지정된 언어로 GUI.pyw를 실행합니다.',
+            tools_po,
+        )
 
     def test_non_transliterated_labels_do_not_repeat_source_in_parentheses(self):
         _, rows = glossary_rows()
@@ -498,17 +698,33 @@ class GlossaryTests(unittest.TestCase):
         self.assertEqual(by_source["Maghre"]["standard_korean"], "마그레(Maghre)")
         self.assertEqual(by_source["Arvith"]["standard_korean"], "아르비쓰(Arvith)")
         self.assertEqual(by_source["Baran"]["standard_korean"], "바란(Baran)")
+        self.assertEqual(by_source["Toen Caric"]["standard_korean"], "토엔 카리크(Toen Caric)")
         self.assertEqual(by_source["Arvith"]["forbidden_terms"], "아르비트")
 
         text = (WORK_KO / "wesnoth-tb-ko.po").read_text(encoding="utf-8")
         self.assertNotIn("마그흐레", text)
         self.assertNotIn("아르비트", text)
+        self.assertNotIn("토엔 캐릭", text)
         self.assertNotIn("바라네(Baran)", text)
+
+    def test_obsolete_queen_name_pairs_only_the_name_component(self):
+        _, rows = glossary_rows()
+        by_source = {row["source_term"]: row for row in rows}
+        self.assertEqual(by_source["Xeila"]["standard_korean"], "제일라(Xeila)")
+        text = (WORK_KO / "wesnoth-tsg-ko.po").read_text(encoding="utf-8")
+        self.assertIn('#~ msgstr "제일라(Xeila) 여왕"', text)
+        self.assertIn('#~ msgstr "제일라(Xeila) 여왕을 무찔러라"', text)
+        self.assertNotIn("여왕 Xeila", text)
 
     def test_reviewed_two_brothers_dialogue_regressions(self):
         text = (WORK_KO / "wesnoth-tb-ko.po").read_text(encoding="utf-8")
         for expected in (
             "네가 불렀고, 나는 왔다. 그걸로 만족해라.",
+            "반갑소, 형님. 돌아오셨소.",
+            "잘했다, 제군들! 그런데 내 아우는 어떻게 된 거지?",
+            "아르비쓰(Arvith)와 그의 부대는 실종된 아우를 찾아 북쪽으로 말을 달렸다.",
+            "바란(Baran), 네 형을 믿지 못한 것이냐?",
+            "금화 50개예요.",
             "그대가 알던 아우의 모습만 기억하게.",
             "그대가 너무 늦기를",
             "내 칼이 네놈 목에 닿아 있다.",
@@ -531,6 +747,12 @@ class GlossaryTests(unittest.TestCase):
         ):
             with self.subTest(rejected=rejected):
                 self.assertNotIn(rejected, text)
+
+    def test_south_guard_campaign_summary_preserves_plural_and_natural_prose(self):
+        text = (WORK_KO / "wesnoth-tsg-ko.po").read_text(encoding="utf-8")
+        self.assertIn("국경의 약탈당한 마을들을 조사하기 위해", text)
+        self.assertNotIn("국경의 약탈당한 마을을 조사하기 위해", text)
+        self.assertNotIn("불운한 싸움", text)
 
     def test_sorceress_is_feminine_not_plural_and_uses_witch_terms(self):
         _, rows = glossary_rows()
@@ -612,11 +834,11 @@ class GlossaryTests(unittest.TestCase):
         )
         self.assertEqual(
             by_source["The Battle for Wesnoth"]["standard_korean"],
-            "웨스노스 전투",
+            "웨스노스(Wesnoth) 전투",
         )
         self.assertEqual(
             by_source["Battle For Wesnoth Help"]["standard_korean"],
-            "웨스노스 전투 도움말",
+            "웨스노스(Wesnoth) 전투 도움말",
         )
         self.assertEqual(by_source["Gweddry"]["standard_korean"], "그웨드리(Gweddry)")
 
@@ -648,7 +870,68 @@ class GlossaryTests(unittest.TestCase):
         ):
             with self.subTest(rejected=rejected):
                 self.assertNotIn(rejected, text)
-        self.assertIn("크렐라누의 서를 연구한 끝에", text)
+        self.assertIn("크렐라누(Crelanu)의 서를 연구한 끝에", text)
+
+    def test_recent_proofreading_batch_removes_clear_typos(self):
+        def active_text(path):
+            return "\n\n".join(
+                block
+                for block in path.read_text(encoding="utf-8").split("\n\n")
+                if not any(line.startswith("#~") for line in block.splitlines())
+            )
+
+        editor = active_text(WORK_KO / "wesnoth-editor-ko.po")
+        core = active_text(WORK_KO / "wesnoth-ko.po")
+        two_brothers = active_text(WORK_KO / "wesnoth-tb-ko.po")
+        burning_suns = active_text(WORK_KO / "wesnoth-utbs-ko.po")
+
+        for expected in (
+            "다음 지도가 수정되어 있으며",
+            "디렉터리명이 포함되어 있어 설치할 수 없습니다.",
+            "대화명 ‘$nick’는 예약되어 있어 플레이어가 사용할 수 없습니다.",
+            "(초보자 수준, 시나리오 4개.)",
+            "두 전투원 중 한쪽이 쓰러지거나 30회의 공격이 끝날 때까지",
+            "물론 그대들이 그 지도를 봐도 이해하기 어려울 테니",
+            "당신들에게 지상으로 가는 길을 안내하고 보호하는 것쯤은",
+            "남아 있는 것은 두개골과 짐승 가죽",
+            "경비도 삼엄할 겁니다",
+        ):
+            with self.subTest(expected=expected):
+                self.assertIn(expected, editor + core + two_brothers + burning_suns)
+
+        for rejected in (
+            "다음의 지도이 수정",
+            "있어인스톨",
+            "대화명 ‘$nick’ 는",
+            "4 개 시나리오",
+            "어느한쪽이 쓰러질때까지",
+            "믈론 그대들이",
+            "남아 있는것은",
+            "지키지고 있을",
+        ):
+            with self.subTest(rejected=rejected):
+                self.assertNotIn(rejected, editor + core + two_brothers + burning_suns)
+
+    def test_latest_proofreading_batch_removes_repeated_spacing_errors(self):
+        active_text = "\n\n".join(
+            block
+            for path in sorted(WORK_KO.glob("*.po"))
+            for block in path.read_text(encoding="utf-8").split("\n\n")
+            if not any(line.startswith("#~") for line in block.splitlines())
+        )
+        for rejected in (
+            "있는것",
+            "없는것",
+            "인것",
+            "였을때",
+            "몇분",
+            "깊은곳",
+            "에서서",
+            "뭉쳐야합니다",
+            "해야하고",
+        ):
+            with self.subTest(rejected=rejected):
+                self.assertNotIn(rejected, active_text)
 
     def test_reviewed_main_ui_descriptions_use_natural_korean(self):
         text = (WORK_KO / "wesnoth-ko.po").read_text(encoding="utf-8")
@@ -814,6 +1097,7 @@ class GlossaryTests(unittest.TestCase):
         ).read_text(encoding="utf-8")
         self.assertIn('msgstr "데오라—"', tsg)
         self.assertIn('msgstr "말 아카이(Mal A’kai)"', tsg)
+        self.assertNotIn('msgstr "말(Mal) 아카이(A’kai)"', tsg)
         for expected in (
             "시르스즈크(Syrsszk)",
             "리스릴레로즈크(Rysssrylosszkk)",
@@ -951,11 +1235,11 @@ class GlossaryTests(unittest.TestCase):
         )
         self.assertEqual(
             toen_caric["standard_korean"],
-            "토엔 캐릭(Toen Caric)",
+            "토엔 카리크(Toen Caric)",
         )
         po = (WORK_KO / "wesnoth-tb-ko.po").read_text(encoding="utf-8")
-        self.assertNotIn("토엔 카릭", po)
-        self.assertNotIn("토엔 카리크", po)
+        self.assertNotIn("토엔 캐릭", po)
+        self.assertIn("토엔 카리크(Toen Caric)", po)
         self.assertNotIn('msgstr "Toen Caric', po)
 
     def test_newly_reviewed_proper_names_are_transliterated(self):
@@ -986,6 +1270,8 @@ class GlossaryTests(unittest.TestCase):
         _, rows = glossary_rows()
         by_source = {row["source_term"]: row for row in rows}
         expected = {
+            "Ford of Alyas": ("알리아스(Alyas)의 여울", "place_name"),
+            "Ford of Tifranur": ("티프라누르(Tifranur)의 여울", "place_name"),
             "Reeve Hoban": ("호반(Hoban) 행정관", "person_name"),
             "Vash-Gorn": ("바시-고른(Vash-Gorn)", "person_name"),
             "North Knalga": ("북부 크날가(Knalga)", "place_name"),
@@ -1047,6 +1333,23 @@ class GlossaryTests(unittest.TestCase):
         try:
             candidates = find_candidates(path)
             self.assertEqual([candidate.source for candidate in candidates], ["Xandor"])
+            self.assertFalse(candidates[0].obsolete)
+        finally:
+            path.unlink()
+
+    def test_embedded_name_candidates_distinguish_obsolete_entries(self):
+        from tools.audit_and_pair_embedded_names import find_candidates
+
+        path = ROOT / "tests" / ".tmp-obsolete-name-candidate.po"
+        path.write_text(
+            '#~ msgid "Xandor"\n'
+            '#~ msgstr "Xandor"\n',
+            encoding="utf-8",
+        )
+        try:
+            candidates = find_candidates(path)
+            self.assertEqual([candidate.source for candidate in candidates], ["Xandor"])
+            self.assertTrue(candidates[0].obsolete)
         finally:
             path.unlink()
 
@@ -1059,6 +1362,37 @@ class GlossaryTests(unittest.TestCase):
             ROOT / "work" / VERSION / "ko" / "wesnoth-tb-ko.po"
         )
         self.assertNotIn("Maghre", {candidate.source for candidate in candidates})
+
+    def test_embedded_name_candidate_audit_ignores_bilingual_parentheses(self):
+        from tools.audit_and_pair_embedded_names import find_candidates
+
+        path = ROOT / "tests" / ".tmp-bilingual-name.po"
+        path.write_text(
+            'msgid "Barag Gór is ahead."\n'
+            'msgstr "바락 고르(Barag Gór)가 앞에 있다."\n',
+            encoding="utf-8",
+        )
+        try:
+            self.assertEqual(find_candidates(path), [])
+        finally:
+            path.unlink()
+
+    def test_embedded_name_audit_does_not_skip_long_prose_with_many_commas(self):
+        from tools.audit_and_pair_embedded_names import find_candidates
+
+        path = ROOT / "tests" / ".tmp-long-name-candidate.po"
+        path.write_text(
+            'msgid "A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, '
+            'P, Q, R, S, T, Xandor."\n'
+            'msgstr "A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, '
+            'P, Q, R, S, T, Xandor."\n',
+            encoding="utf-8",
+        )
+        try:
+            candidates = find_candidates(path)
+            self.assertEqual([candidate.source for candidate in candidates], ["Xandor"])
+        finally:
+            path.unlink()
 
     def test_compound_name_components_are_available_for_prose(self):
         from tools.audit_and_pair_embedded_names import load_pairs
@@ -1129,6 +1463,40 @@ class GlossaryTests(unittest.TestCase):
                 original_source_translation_patterns
             )
 
+    def test_hyphenated_compound_name_keeps_the_korean_hyphen(self):
+        from tools.audit_and_pair_embedded_names import load_pairs
+
+        pairs, conflicts = load_pairs(GLOSSARY)
+        self.assertFalse(conflicts)
+        pair_map = {(pair.source, pair.korean) for pair in pairs}
+        self.assertIn(("Mal-Ravanal", "말-라바날"), pair_map)
+
+    def test_compound_unit_keeps_translated_race_name_unpaired(self):
+        from tools.audit_and_pair_embedded_names import (
+            configure_patterns,
+            load_pairs,
+            process_file,
+        )
+
+        path = ROOT / "tests" / ".tmp-naga-myrmidon.po"
+        path.write_text(
+            'msgid "Naga Myrmidon"\n'
+            'msgstr "나가(Naga) 미르미돈"\n',
+            encoding="utf-8",
+        )
+        try:
+            pairs, conflicts = load_pairs(GLOSSARY)
+            self.assertFalse(conflicts)
+            configure_patterns(pairs)
+            process_file(path, pairs, apply=True)
+            self.assertEqual(
+                path.read_text(encoding="utf-8"),
+                'msgid "Naga Myrmidon"\n'
+                'msgstr "나가 미르미돈(Myrmidon)"',
+            )
+        finally:
+            path.unlink()
+
     def test_embedded_name_audit_skips_wml_name_generators(self):
         from tools.audit_and_pair_embedded_names import process_file
 
@@ -1143,6 +1511,53 @@ class GlossaryTests(unittest.TestCase):
         try:
             messages, unresolved = process_file(path, [], apply=False)
             self.assertEqual((messages, unresolved), (0, 0))
+        finally:
+            path.unlink()
+
+    def test_embedded_name_audit_skips_generated_random_name_lists(self):
+        from tools.audit_and_pair_embedded_names import find_candidates
+
+        names = ",".join(
+            [
+                "Alpha", "Beta", "Gamma", "Delta", "Epsilon", "Zeta",
+                "Eta", "Theta", "Iota", "Kappa", "Lambda", "Mu", "Nu",
+                "Xi", "Omicron", "Pi", "Rho", "Sigma", "Tau", "Lollyra",
+                "Upsilon", "Phi",
+            ]
+        )
+        path = ROOT / "tests" / ".tmp-random-name-list.po"
+        path.write_text(
+            "#: data/campaigns/World_Conquest/lua/game_mechanics/random_names.lua:2\n"
+            f'msgid "{names}"\n'
+            f'msgstr "{names}"\n',
+            encoding="utf-8",
+        )
+        try:
+            self.assertEqual(find_candidates(path), [])
+        finally:
+            path.unlink()
+
+    def test_embedded_name_audit_skips_core_generated_name_lists(self):
+        from tools.audit_and_pair_embedded_names import find_candidates
+
+        names = ",".join(
+            [
+                "Alpha", "Beta", "Gamma", "Delta", "Epsilon", "Zeta",
+                "Eta", "Theta", "Iota", "Kappa", "Lambda", "Mu", "Nu",
+                "Xi", "Omicron", "Pi", "Rho", "Sigma", "Tau", "Lollyra",
+                "Upsilon", "Phi",
+            ]
+        )
+        path = ROOT / "tests" / ".tmp-core-name-list.po"
+        path.write_text(
+            "#. Generator for male drake names\n"
+            "#: data/core/macros/names.cfg:22\n"
+            f'msgid "{names}"\n'
+            f'msgstr "{names}"\n',
+            encoding="utf-8",
+        )
+        try:
+            self.assertEqual(find_candidates(path), [])
         finally:
             path.unlink()
 
@@ -1328,8 +1743,8 @@ class GlossaryTests(unittest.TestCase):
         _, rows = glossary_rows()
         by_source = {row["source_term"]: row for row in rows}
         for source, korean in {
-            "Dwarf Grenadier": "폭탄투척병 난쟁이",
-            "Dwarf Hermit": "은둔자 난쟁이",
+            "Dwarf Grenadier": "난쟁이 폭탄투척병",
+            "Dwarf Hermit": "난쟁이 은둔자",
         }.items():
             with self.subTest(source=source):
                 self.assertEqual(by_source[source]["category"], "unit_name")
@@ -1367,7 +1782,7 @@ class GlossaryTests(unittest.TestCase):
     def test_compound_keys_are_never_paired_as_a_whole(self):
         _, rows = glossary_rows()
         compound = re.compile(
-            r"^(?:Lady|Lord|Minister|Novice|Princess|Sir|Uncle)\b"
+            r"^(?:Lady|Lord|Minister|Novice|Princess|Sir|Uncle)\s+"
             r"|\b(?:of|the)\b|[’']s\b"
         )
         for row in rows:

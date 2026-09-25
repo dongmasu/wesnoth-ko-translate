@@ -16,6 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+
 #. type: Content of: outside any tag (error?)
 #: doc/manual/manual.en.xml:3
 msgid "<?asciidoc-toc?> <?asciidoc-numbered?>"
@@ -31,7 +32,7 @@ msgstr "ko"
 #. type: Content of: <book><bookinfo><title>
 #: doc/manual/manual.en.xml:8
 msgid "Battle for Wesnoth User&#8217;s Manual"
-msgstr "웨스노스 전투 사용자 설명서"
+msgstr "웨스노스(Wesnoth) 전투 사용자 설명서"
 
 # type: Content of: <book><preface><title>
 #. type: Content of: <book><preface><title>
@@ -44,7 +45,7 @@ msgstr "머리말"
 #: doc/manual/manual.en.xml:12
 msgid ""
 "The Battle for Wesnoth is a turn-based strategy game with a fantasy theme."
-msgstr "《웨스노스 전투》는 판타지를 배경으로 하는 턴제 전략 게임입니다."
+msgstr "《웨스노스(Wesnoth) 전투》는 판타지를 배경으로 하는 턴제 전략 게임입니다."
 
 # type: Content of: <book><preface><simpara>
 #. type: Content of: <book><preface><simpara>
@@ -90,7 +91,7 @@ msgid ""
 "units, write your own scenarios, and even script full-blown campaigns. User-"
 "maintained content is available from an add-on server, and the very best of "
 "it is incorporated into Battle for Wesnoth&#8217;s official releases."
-msgstr "웨스노스 전투는 오픈 소스 소프트웨어이며, 활발한 자원봉사자 커뮤니티가 협력해 게임을 발전시키고 있습니다. 자신만의 유닛과 시나리오를 만들고, 완전한 캠페인을 직접 작성할 수도 있습니다. 사용자 제작 콘텐츠는 부가 기능 서버에서 이용할 수 있으며, 그중 가장 뛰어난 콘텐츠는 웨스노스 전투 공식 릴리스에 포함됩니다."
+msgstr "웨스노스(Wesnoth) 전투는 오픈 소스 소프트웨어이며, 활발한 자원봉사자 커뮤니티가 협력해 게임을 발전시키고 있습니다. 자신만의 유닛과 시나리오를 만들고, 완전한 캠페인을 직접 작성할 수도 있습니다. 사용자 제작 콘텐츠는 부가 기능 서버에서 이용할 수 있으며, 그중 가장 뛰어난 콘텐츠는 웨스노스(Wesnoth) 전투 공식 릴리스에 포함됩니다."
 
 # type: Content of: <book><chapter><title>
 #. type: Content of: <book><chapter><title>
@@ -134,7 +135,7 @@ msgid ""
 "of orcs, dwarves, barbarians and elves populate the region.  To the north "
 "and east lies the forest of Lintanir, where the great kingdom of the North-"
 "Elves keeps to its own mysterious affairs."
-msgstr "북방은 위대한 강 위쪽에 있는 미개척지입니다. 다양한 무리의 오크, 드워프, 야만인과 엘프들이 이 영역에 살고 있습니다. 북쪽과 동쪽으로는 그들만의 신비한 삶을 영위하고 있는 북방 엘프들의 광대한 왕국이 위치한 린타니르 숲이 펼쳐져 있습니다."
+msgstr "북방은 위대한 강 위쪽에 있는 미개척지입니다. 다양한 무리의 오크, 드워프, 야만인과 엘프들이 이 영역에 살고 있습니다. 북쪽과 동쪽으로는 그들만의 신비한 삶을 영위하고 있는 북방 엘프들의 광대한 왕국이 위치한 린타니르(Lintanir) 숲이 펼쳐져 있습니다."
 
 # type: Content of: <book><chapter><section><simpara>
 #. type: Content of: <book><chapter><section><simpara>
@@ -238,7 +239,7 @@ msgid ""
 "Tutorial you are in the role of the prince Konrad or the princess Li&#8217;"
 "sar, learning from the Elder Mage Delfador — pay attention or he might turn "
 "you into a newt."
-msgstr "연습 게임은 실전이지만 기초적인 게임으로, 게임에 필요한 기본 조작법을 알려 줍니다. 여기서는 이기거나 지는 것보다 무엇을 어떻게 해야 하는지 배우는 것이 중요합니다. 연습 게임 버튼을 클릭해 시작하십시오. 연습 게임에서는 콘라드(Konrad) 왕자나 리사르 공주가 되어 원로 마법사 델파도르(Delfador)의 지도를 받습니다. 집중하지 않으면 델파도르가 당신을 도롱뇽으로 만들어 버릴지도 모릅니다."
+msgstr "연습 게임은 실전이지만 기초적인 게임으로, 게임에 필요한 기본 조작법을 알려 줍니다. 여기서는 이기거나 지는 것보다 무엇을 어떻게 해야 하는지 배우는 것이 중요합니다. 연습 게임 버튼을 클릭해 시작하십시오. 연습 게임에서는 콘라드(Konrad) 왕자나 리사르 공주가 되어 원로 마법사 델파도르(Delfador)의 지도를 받습니다. 집중하지 않으면 델파도르(Delfador)가 당신을 도롱뇽으로 만들어 버릴지도 모릅니다."
 
 #. type: Content of: <book><chapter><section><variablelist><varlistentry><term>
 #: doc/manual/manual.en.xml:114
@@ -594,7 +595,7 @@ msgid ""
 "machine to join. In this dialog there also is the button \"View List\" that "
 "does show a list of official servers that can be used as backup if the main "
 "server is currently not available."
-msgstr "이 옵션은 참여할 컴퓨터의 주소를 입력할 수 있는 대화 상자를 엽니다. 이 대화 상자에는 기본 서버를 현재 사용할 수 없는 경우 백업으로 사용할 수 있는 공식 서버 목록을 보여주는 \"목록 보기\" 버튼도 있습니다."
+msgstr "이 옵션은 참여할 컴퓨터의 주소를 입력할 수 있는 대화 상자를 엽니다. 이 대화 상자에는 기본 서버를 현재 사용할 수 없는 경우 백업으로 사용할 수 있는 공식 서버 목록을 보여 주는 \"목록 보기\" 버튼도 있습니다."
 
 #. type: Content of: <book><chapter><section><section><section><simpara>
 #: doc/manual/manual.en.xml:351
@@ -688,7 +689,7 @@ msgid ""
 "with a map which shows all of the action that takes place in the game. "
 "Around the map are various elements which provide useful information about "
 "the game and are described in more detail below."
-msgstr "시나리오를 플레이하든 캠페인을 플레이하든 게임 화면의 기본 레이아웃은 동일합니다. 화면의 대부분은 게임에서 발생하는 모든 액션을 보여주는 맵으로 채워져 있습니다. 맵 주변에는 게임에 대한 유용한 정보를 제공하는 다양한 요소들이 있으며, 아래에서 자세히 설명합니다."
+msgstr "시나리오를 플레이하든 캠페인을 플레이하든 게임 화면의 기본 레이아웃은 동일합니다. 화면의 대부분은 게임에서 발생하는 모든 액션을 보여 주는 맵으로 채워져 있습니다. 맵 주변에는 게임에 대한 유용한 정보를 제공하는 다양한 요소들이 있으며, 아래에서 자세히 설명합니다."
 
 #. type: Content of: <book><chapter><section><section><simpara><inlinemediaobject>
 #: doc/manual/manual.en.xml:402
@@ -1828,7 +1829,7 @@ msgid ""
 "This attack poisons the target. Poisoned units lose 8 HP every turn until "
 "they are cured or are reduced to 1 HP. Poison can not, of itself, kill a "
 "unit."
-msgstr "이 공격은 대상을 중독시킵니다. 중독된 유닛은 치료되거나 체력이 1이 될 때까지 매 턴 체력(HP)을 8씩 잃습니다. 독 자체만으로는 유닛을 죽일 수 없습니다."
+msgstr "이 공격은 대상을 중독시킵니다. 중독된 유닛은 치료되거나 체력(HP)이 1이 될 때까지 매 턴 체력(HP)을 8씩 잃습니다. 독 자체만으로는 유닛을 죽일 수 없습니다."
 
 # type: Content of: <book><chapter><section><section><variablelist><varlistentry><listitem><simpara>
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><listitem><simpara>

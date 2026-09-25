@@ -12,6 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+
 #. [campaign]: id=Dead_Water
 #: data/campaigns/Dead_Water/_main.cfg:13
 msgid "Dead Water"
@@ -263,7 +264,7 @@ msgid ""
 "they had no skin. Our spears went right through them; they <i>laughed</i> at "
 "our weapons. And they smelled like nothing in the sea, of dank earth and "
 "rottenness."
-msgstr "제 평생 그런 것들은 한번도 본 적이 없습니다. 놈들은 인간같이 보였지만, 피부가 없었고, 우리의 창은 놈들을 그냥 통과해 버렸습니다. 놈들은 우리 무기를 <i>비웃었어요</i>. 그리고 놈들에게선 바다와는 거리가 먼 눅눅한 땅의 썩은 내가 났습니다."
+msgstr "제 평생 그런 것들은 한 번도 본 적이 없습니다. 놈들은 인간같이 보였지만, 피부가 없었고, 우리의 창은 놈들을 그냥 통과해 버렸습니다. 놈들은 우리 무기를 <i>비웃었어요</i>. 그리고 놈들에게선 바다와는 거리가 먼 눅눅한 땅의 썩은 내가 났습니다."
 
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/01_Invasion.cfg:345
@@ -282,7 +283,7 @@ msgid ""
 "Kai, please lead us against them yourself, it will hearten the folk. And — "
 "if you will permit — you now reach the age where a kai must learn battle "
 "skills."
-msgstr "카이(Kai), 저희를 직접 이끌어 놈들과 싸워주신다면, 동포의 사기가 오를 겁니다. 그리고 실례가 되지 않는다면 말입니다만 이제 당신도 카이(Kai)로서 전투 기술을 익혀야 할 나이가 된 것 같습니다."
+msgstr "카이(Kai), 저희를 직접 이끌어 놈들과 싸워 주신다면, 동포의 사기가 오를 겁니다. 그리고 실례가 되지 않는다면 말입니다만 이제 당신도 카이(Kai)로서 전투 기술을 익혀야 할 나이가 된 것 같습니다."
 
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/01_Invasion.cfg:355
@@ -375,7 +376,7 @@ msgid ""
 "necromancers to attack the orcs, and even the elves, in a quest for undead "
 "soldiers of different races. It seemed that he also lusted for merfolk "
 "slaves. Krellis’ scouts reported that more dark armies were heading north."
-msgstr "말-라바날은 스스로 리치가 된 위대한 인간 마법사인 듯했습니다. 그는 웨스노스(Wesnoth) 왕국의 변방을 공격하고 그곳에서 무시무시한 인간 언데드 군대를 만들고 있었습니다. 또한 여러 종족의 언데드 병사를 얻기 위해 강령술사들을 보내 오크와 심지어 엘프까지 공격하게 했습니다. 인어 노예도 탐내는 듯했습니다. 크렐리스(Krellis)의 정찰병들은 더 많은 어둠의 군대가 북쪽으로 향하고 있다고 보고했습니다."
+msgstr "말-라바날(Mal-Ravanal)은 스스로 리치가 된 위대한 인간 마법사인 듯했습니다. 그는 웨스노스(Wesnoth) 왕국의 변방을 공격하고 그곳에서 무시무시한 인간 언데드 군대를 만들고 있었습니다. 또한 여러 종족의 언데드 병사를 얻기 위해 강령술사들을 보내 오크와 심지어 엘프까지 공격하게 했습니다. 인어 노예도 탐내는 듯했습니다. 크렐리스(Krellis)의 정찰병들은 더 많은 어둠의 군대가 북쪽으로 향하고 있다고 보고했습니다."
 
 #. [part]
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:46
@@ -421,7 +422,7 @@ msgstr "힘의 반지를 가질 유닛을 고르세요."
 #: data/campaigns/Dead_Water/scenarios/12_Revenge.cfg:90
 #: data/campaigns/Dead_Water/scenarios/12_Revenge.cfg:105
 msgid "Mal-Ravanal’s Forces"
-msgstr "말-라바날의 군세"
+msgstr "말-라바날(Mal-Ravanal)의 군세"
 
 #. [side]: type=Necromancer, id=Mel Daveth
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:150
@@ -434,7 +435,7 @@ msgstr "멜 다베쓰"
 msgid ""
 "You may have ended my first life, but you have only made me more powerful in "
 "death. Now I will teach you a lesson!"
-msgstr "너희가 내 첫 번째 삶을 끝냈음에도 난 죽음 속에서 더 강해져서 돌아왔다. 이제 너희에게 쓴맛을 보여주마!"
+msgstr "너희가 내 첫 번째 삶을 끝냈음에도 난 죽음 속에서 더 강해져서 돌아왔다. 이제 너희에게 쓴맛을 보여 주마!"
 
 #. [message]: speaker=Mel Daveth
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:284
@@ -465,7 +466,7 @@ msgid ""
 "an island to the north. She and her priestesses are powerful. With their "
 "help we could probably defeat these enemies. Our task is to convince her to "
 "leave her enclave."
-msgstr "아무래도 불가능할 것 같군요. 도움이 필요합니다. 저의 옛 은사이신 티에게아님께서 북쪽의 섬에서 교육을 맡고 계세요. 그녀와 휘하 여신관들은 강력하죠. 그들의 도움이 있으면 이 적들을 몰아낼 수 있을 겁니다. 우리가 할 일은 그녀를 설득해서 거주지 밖으로 데리고 나오는 거에요."
+msgstr "아무래도 불가능할 것 같군요. 도움이 필요합니다. 저의 옛 은사이신 티에게아님께서 북쪽의 섬에서 교육을 맡고 계세요. 그녀와 휘하 여신관들은 강력하죠. 그들의 도움이 있으면 이 적들을 몰아낼 수 있을 겁니다. 우리가 할 일은 그녀를 설득해서 거주지 밖으로 데리고 나오는 거예요."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:310
@@ -475,7 +476,7 @@ msgstr "당신이라면 할 수 있겠지?"
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:315
 msgid "I am not sure that I can. However, you could."
-msgstr "확신할 수는 없어요. 하지만 카이께서는 할 수 있을거에요."
+msgstr "확신할 수는 없어요. 하지만 카이께서는 할 수 있을 거예요."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:320
@@ -489,7 +490,7 @@ msgstr "내가? 나는 티에게아를 만나본 일도 없는데. 당신이 못
 msgid ""
 "You will just have to trust me on this. She will listen to you. I will say "
 "no more on the matter."
-msgstr "이번엔 그냥 저를 믿으세요. 그녀는 당신의 말을 들어줄 거에요. 이 문제에 대해선 더 해 드릴 말씀이 없어요."
+msgstr "이번엔 그냥 저를 믿으세요. 그녀는 당신의 말을 들어줄 거예요. 이 문제에 대해선 더 해 드릴 말씀이 없어요."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:330
@@ -503,7 +504,7 @@ msgid ""
 "small island to the west of Bilheld, which is over ocean to the west-"
 "southwest of Tirigaz. Everyone will have to go; it is now deadly perilous "
 "here, and the open ocean west of Tirigaz can be dangerous for small groups."
-msgstr "우리는 북쪽으로 해안을 따라 올라간 다음 서쪽의 빌헬드(Bilheld) 섬으로 갈거에요. 티에게아님은 빌헬드(Bilheld) 서쪽에 있는 작은 섬에 살고 계세요. 그쪽으로 가려면 티리가즈(Tirigaz)에서 서남서 방향으로 대해를 건너야 하는데, 티리가즈(Tirigaz) 서쪽의 해양은 작은 무리가 지나기엔 위험하고, 이곳은 이제 매우 위험하니 모두가 함께 가야 해요."
+msgstr "우리는 북쪽으로 해안을 따라 올라간 다음 서쪽의 빌헬드(Bilheld) 섬으로 갈 거예요. 티에게아님은 빌헬드(Bilheld) 서쪽에 있는 작은 섬에 살고 계세요. 그쪽으로 가려면 티리가즈(Tirigaz)에서 서남서 방향으로 대해를 건너야 하는데, 티리가즈(Tirigaz) 서쪽의 해양은 작은 무리가 지나기엔 위험하고, 이곳은 이제 매우 위험하니 모두가 함께 가야 해요."
 
 #. [message]: speaker=Gwabbo
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:360
@@ -511,7 +512,7 @@ msgid ""
 "Most of your citizens are not soldiers who will simply obey your orders. It "
 "will not be voiced aloud, but if you leave now, some of the people will "
 "think this mission is just an excuse to run away."
-msgstr "시민들 대부분은 단순히 명령에 따르기만하는 병사들이 아닙니다. 당신이 지금 떠나려 한다면, 큰 소리로 말하지는 못해도, 일부 사람들은 이 임무가 도망치기 위한 구실에 불과하다고 생각할 겁니다."
+msgstr "시민들 대부분은 단순히 명령에 따르기만 하는 병사들이 아닙니다. 당신이 지금 떠나려 한다면, 큰 소리로 말하지는 못해도, 일부 사람들은 이 임무가 도망치기 위한 구실에 불과하다고 생각할 겁니다."
 
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:366
@@ -544,7 +545,7 @@ msgstr "하지만 모두들이 이런 위험한 여정에 나를 따라오려 �
 msgid ""
 "They will follow. You proved your courage in our last battle. Your father, "
 "the Kai-that-was, would have been proud."
-msgstr "저들은 따라올 겁니다. 당신은 지난 전투에서 용맹함을 증명했으니까요. 선대 카이께서도 자랑스러워 하실 겁니다."
+msgstr "저들은 따라올 겁니다. 당신은 지난 전투에서 용맹함을 증명했으니까요. 선대 카이께서도 자랑스러워하실 겁니다."
 
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:394
@@ -753,7 +754,7 @@ msgstr "내 생각엔 이건 자기 자신의 의지가 없는 언데드인데, 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/02_Flight.cfg:783
 msgid "Fascinating. I shall certainly try."
-msgstr "흥미롭군. 한번 시도해 보지."
+msgstr "흥미롭군. 한 번 시도해 보지."
 
 #. [message]: speaker=Kai Krellis
 #. [message]: speaker=second_unit
@@ -864,7 +865,7 @@ msgstr "조심해라, 백성들아!"
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:253
 msgid "Someone go find out what is exciting the bat."
-msgstr "누가 가서 박쥐를 자극하는게 뭔지 살펴봐라."
+msgstr "누가 가서 박쥐를 자극하는 게 뭔지 살펴봐라."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/03_Wolf_Coast.cfg:277
@@ -1285,7 +1286,7 @@ msgstr "(우선 언데드부터 쳐부술 수 있다)"
 #. [objective]: condition=win
 #: data/campaigns/Dead_Water/scenarios/05_Tirigaz.cfg:77
 msgid "Also kill Marg-Tonz"
-msgstr "마르그-톤즈도 죽인다"
+msgstr "마르그-톤즈(Marg-Tonz)도 처치하라"
 
 #. [side]: id=Marg-Tonz, type=Orcish Sovereign
 #: data/campaigns/Dead_Water/scenarios/05_Tirigaz.cfg:110
@@ -1396,13 +1397,13 @@ msgstr "아직도 우리 땅에서 미적거리고 있나! 난 경고했다."
 #. [message]: speaker=Marg-Tonz
 #: data/campaigns/Dead_Water/scenarios/05_Tirigaz.cfg:514
 msgid "I told you to stay off our land! Now you’re in for it."
-msgstr "우리 땅에 들어오지 말랬지! 이제 골치 아플거다."
+msgstr "우리 땅에 들어오지 말랬지! 이제 골치 아플 거다."
 
 #. [message]: speaker=Marg-Tonz
 #: data/campaigns/Dead_Water/scenarios/05_Tirigaz.cfg:548
 #| msgid "I told not to bother the ships! Now you’re in for it."
 msgid "I told you not to bother the ships! Now you’re in for it."
-msgstr "배를 건드리지 말랬지! 이제 골치 아플거다."
+msgstr "배를 건드리지 말랬지! 이제 골치 아플 거다."
 
 #. [message]: speaker=Marg-Tonz
 #: data/campaigns/Dead_Water/scenarios/05_Tirigaz.cfg:581
@@ -1611,7 +1612,7 @@ msgstr "인어들은 마침내 빌헬드(Bilheld)에 도착했다. 목적지와 
 #. [side]: id=Vlagnor, type=Drake Flameheart
 #: data/campaigns/Dead_Water/scenarios/07_Bilheld.cfg:50
 msgid "Drakes"
-msgstr "반룡들"
+msgstr "반룡족"
 
 #. [side]: id=Vlagnor, type=Drake Flameheart
 #: data/campaigns/Dead_Water/scenarios/07_Bilheld.cfg:55
@@ -1784,7 +1785,7 @@ msgid ""
 "I never agreed that secrecy was necessary, but I respected Maudin’s wishes "
 "in the matter. Now Indress and Maudin are dead, and I am not. Tell the boy "
 "the truth."
-msgstr "난 그렇게 비밀을 지키는 건 필요 없다고 생각했지만, 어쨌든 난 그 건에 관해서는 마우딘의 바람을 존중했었다. 이제 인드레스와 마우딘은 죽었지만, 난 아니지. 저 아이에게 진실을 말해주거라."
+msgstr "난 그렇게 비밀을 지키는 건 필요 없다고 생각했지만, 어쨌든 난 그건에 관해서는 마우딘의 바람을 존중했었다. 이제 인드레스와 마우딘은 죽었지만, 난 아니지. 저 아이에게 진실을 말해주거라."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/08_Talking_to_Tyegea.cfg:159
@@ -1812,7 +1813,7 @@ msgstr "당신의 조부이신 마우딘님께서 인드레스님과 결혼하�
 #. [message]: speaker=Tyegea
 #: data/campaigns/Dead_Water/scenarios/08_Talking_to_Tyegea.cfg:175
 msgid "That was quite a scandal, too, but I was not cut out to be a mother."
-msgstr "그 건은 꽤 큰 추문이기도 했지만, 나는 어미로서는 적합한 인물이 아니었으니까."
+msgstr "그건은 꽤 큰 추문이기도 했지만, 나는 어미로서는 적합한 인물이 아니었으니까."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/08_Talking_to_Tyegea.cfg:179
@@ -1988,13 +1989,13 @@ msgstr "저쪽에 박쥐가 더는 없었으면 좋겠군."
 #: data/campaigns/Dead_Water/scenarios/09_The_Mage.cfg:353
 msgid ""
 "This is a good place for a large colony, so I think we will see more soon."
-msgstr "여긴 대규모 서식지로 안성맞춤인것 같습니다. 아마 더 많이 나올거 같습니다."
+msgstr "여긴 대규모 서식지로 안성맞춤인 것 같습니다. 아마 더 많이 나올거 같습니다."
 
 #. [message]: speaker=Cylanna
 #: data/campaigns/Dead_Water/scenarios/09_The_Mage.cfg:359
 msgid ""
 "This is a good place for a large colony, so I imagine we will see more soon."
-msgstr "여긴 대규모 서식지로 안성맞춤인것 같습니다. 더 많이 나올거 같습니다."
+msgstr "여긴 대규모 서식지로 안성맞춤인 것 같습니다. 더 많이 나올거 같습니다."
 
 #. [unit]: type=Silver Mage, id=Caladon
 #. [side]
@@ -2187,7 +2188,7 @@ msgid ""
 "he’s dead of course. He still putters around in that castle over there, but "
 "he hasn’t really cared about keeping his kingdom under control for a good "
 "long while. I bet I can wake him up, though. Watch THIS!"
-msgstr "흐음, 그는 이제 자기 자신을 말-고본으로 부르지만, 어쨌든 맞소. 그는 이 땅을 아그노본의 왕국이라고 칭하지. 그가 초대 왕이오. 그리고 최후이자, 놈은 계속 왕이었어!  그는 나이를 먹었지만 절대 죽진 않았소. 뭐, 물론 지금은 죽어 있긴 하지. 그는 여전히 저기 있는 성 주변을 어슬렁 거리고 다니지만, 꽤 오랫동안 자기 왕국을 통치하는데는 별 관심없이 살았던 것 같소. 그래도 내가 놈을 깨울 수 있지. 잘 보라고!"
+msgstr "흐음, 그는 이제 자기 자신을 말-고본(Mal-Govon)으로 부르지만, 어쨌든 맞소. 그는 이 땅을 아그노본의 왕국이라고 칭하지. 그가 초대 왕이오. 그리고 최후이자, 놈은 계속 왕이었어!  그는 나이를 먹었지만 절대 죽진 않았소. 뭐, 물론 지금은 죽어 있긴 하지. 그는 여전히 저기 있는 성 주변을 어슬렁 거리고 다니지만, 꽤 오랫동안 자기 왕국을 통치하는데는 별 관심없이 살았던 것 같소. 그래도 내가 놈을 깨울 수 있지. 잘 보라고!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:295
@@ -2267,7 +2268,7 @@ msgstr "안녕하시오! 당신들은 누구요? 당신들이 칼을 가져가�
 msgid ""
 "I am Kai Krellis of Jotha. I am attempting to defeat Mal-Govon and take his "
 "sword. Will you join us in battle against a common enemy?"
-msgstr "나는 조타(Jotha)의 카이 크렐리스(Kai Krellis)요. 나는 말-고본을 무찌르고 그의 칼을 찾아가려고 왔소. 공동의 적을 향해 함께 싸우지 않겠소?"
+msgstr "나는 조타(Jotha)의 카이 크렐리스(Kai Krellis)요. 나는 말-고본(Mal-Govon)을 무찌르고 그의 칼을 찾아가려고 왔소. 공동의 적을 향해 함께 싸우지 않겠소?"
 
 #. [message]: speaker=Howyrth
 #: data/campaigns/Dead_Water/scenarios/10_The_Flaming_Sword.cfg:377
@@ -2478,7 +2479,7 @@ msgstr "도움을 얻다"
 msgid ""
 "Kai Krellis and his people no longer feared the open ocean, and they made "
 "straight for Tyegëa’s island to show her the flaming sword."
-msgstr "카이 크렐리스(Kai Krellis)와 백성들은 더 이상 외해를 두려워하지 않았기에, 티에게아의 섬으로 직행해서 그녀에게 불타는 칼을 보여주었다."
+msgstr "카이 크렐리스(Kai Krellis)와 백성들은 더 이상 외해를 두려워하지 않았기에, 티에게아의 섬으로 직행해서 그녀에게 불타는 칼을 보여 주었다."
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/11_Getting_Help.cfg:100
@@ -2611,7 +2612,7 @@ msgstr "그렇게까지 내몰리진 않았지만, 그렇습니다. 저 생물�
 msgid ""
 "We come prepared for battle, and have brought help. We will reclaim our home "
 "and make yours safe as well. Mal-Ravanal will pay this day."
-msgstr "우리는 전투할 준비를 마치고, 도움을 얻어서 왔다. 우리는 고향을 되찾고 너희들의 안전 또한 보장할 것이다. 말-라바날은 오늘 대가를 치를 것이다."
+msgstr "우리는 전투할 준비를 마치고, 도움을 얻어서 왔다. 우리는 고향을 되찾고 너희들의 안전 또한 보장할 것이다. 말-라바날(Mal-Ravanal)은 오늘 대가를 치를 것이다."
 
 #. [message]: speaker=Nebthun
 #: data/campaigns/Dead_Water/scenarios/12_Revenge.cfg:430
@@ -2664,7 +2665,7 @@ msgstr "내가 <i>봐도</i> 이건 조금 압도적이구나. 그래도 이런 
 #. [message]: speaker=Gwabbo
 #: data/campaigns/Dead_Water/scenarios/12_Revenge.cfg:522
 msgid "Absolutely! Bring ’em on!"
-msgstr "물론입니다! 맛을 보여주죠!"
+msgstr "물론입니다! 맛을 보여 주죠!"
 
 #. [unit]: type=$type_3, id=Carallcyn
 #: data/campaigns/Dead_Water/scenarios/12_Revenge.cfg:593
@@ -2679,7 +2680,7 @@ msgstr "우리가 수색하느라 해안을 몇 마일이나 올라갔는데, �
 #. [message]: speaker=Tyegea
 #: data/campaigns/Dead_Water/scenarios/12_Revenge.cfg:709
 msgid "I was wrong. You are no grandson of <i>mine</i>!"
-msgstr "내가 잘못봤구나. 넌 <i>내 손자가</i> 아니다!"
+msgstr "내가 잘못 봤구나. 넌 <i>내 손자가</i> 아니다!"
 
 #. [message]: speaker=Kai Krellis
 #: data/campaigns/Dead_Water/scenarios/12_Revenge.cfg:720
@@ -2777,7 +2778,7 @@ msgid ""
 "Soldiers of Wesnoth had defeated him at about the same time the merfolk had "
 "defeated the undead at Jotha. With the evil wizard gone, the merfolk relaxed "
 "and began rebuilding in earnest, and soon Jotha was restored."
-msgstr "말-라바날의 심복들을 무찌른 뒤, 카이 크렐리스(Kai Krellis)는 또 다른 공격에 대비했다. 하지만 아무도 오지 않았다. 크렐리스는 전령들 몇몇을 남쪽으로 보내어 상황을 알아보게 했다. 그들이 가져온 소식은 예상보다 더 좋은 것이었다. 말-라바날이 죽은 것이었다! 웨스노스(Wesnoth)의 병사들이, 인어들이 조타(Jotha)에서 언데드를 격파한 시점과 같은 때에 그를 무찔렀던 것이다. 사악한 마법사가 사라지자, 인어들은 안정을 되찾고 열심히 재건을 시작했고, 곧 조타(Jotha)는 복구되었다."
+msgstr "말-라바날(Mal-Ravanal)의 심복들을 무찌른 뒤, 카이 크렐리스(Kai Krellis)는 또 다른 공격에 대비했다. 하지만 아무도 오지 않았다. 크렐리스는 전령들 몇몇을 남쪽으로 보내어 상황을 알아보게 했다. 그들이 가져온 소식은 예상보다 더 좋은 것이었다. 말-라바날(Mal-Ravanal)이 죽은 것이었다! 웨스노스(Wesnoth)의 병사들이, 인어들이 조타(Jotha)에서 언데드를 격파한 시점과 같은 때에 그를 무찔렀던 것이다. 사악한 마법사가 사라지자, 인어들은 안정을 되찾고 열심히 재건을 시작했고, 곧 조타(Jotha)는 복구되었다."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dead_Water/scenarios/13_Epilogue.cfg:39
@@ -2955,7 +2956,7 @@ msgstr "폭풍의 삼지창"
 #| msgid "This weapon shoots powerful lightning bolts at your enemies."
 msgid ""
 "This trident gives merfolk the power to throw lightning at their enemies."
-msgstr "이 삼지창은 적을 향해 번개를 쏘아내는 능력을 줍니다."
+msgstr "이 삼지창은 인어가 적에게 번개를 던질 수 있게 합니다."
 
 #. [object]: id={ID}
 #: data/campaigns/Dead_Water/utils/items.cfg:13

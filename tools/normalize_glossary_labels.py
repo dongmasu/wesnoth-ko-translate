@@ -28,7 +28,7 @@ REPLACEMENTS = {
     "Clan": "일족",
     "DM": "회고",
     "DW": "바다",
-    "DiD": "하드코어",
+    "DiD": "DiD",
     "EI": "침동",
     "Garrison": "수비군",
     "HttT": "왕자",

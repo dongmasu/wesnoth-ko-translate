@@ -67,7 +67,7 @@ tools/build_mo.sh
 ```
 
 이 스크립트는 `work/<버전>/ko/*.po`를 검사하고
-`dist/<버전>-<작업일>/ko/LC_MESSAGES/`에 MO를 생성합니다. 버전과 출력 경로를
+`dist/<버전>-<최종수정일>/ko/LC_MESSAGES/`에 MO를 생성합니다. 버전과 출력 경로를
 바꾸려면 `tools/build_mo.sh <버전> /path/to/output`처럼 실행합니다.
 `msgfmt --check`가 실패하면 MO를 설치하지 말고 해당 PO의 문법과
 placeholder를 먼저 수정합니다. 생성되는 파일명은 `wesnoth-ko.po`에서
@@ -78,12 +78,54 @@ placeholder를 먼저 수정합니다. 생성되는 파일명은 `wesnoth-ko.po`
 삭제되거나 이름이 바뀐 textdomain의 찌꺼기가 남지 않습니다. 다른 확장자의
 파일은 건드리지 않습니다. 문제가 생기면 `po/<버전>/ko/`의 원본 PO 또는
 `work/<버전>/ko/`의 작업 PO에서 MO를 다시 생성합니다. 빌드가 끝나면
-`dist/<버전>-<작업일>/ko/PO_LAST_MODIFIED_DATE`에 전체 작업 PO 중 가장 최근
-수정일(`YYYYMMDD`)이 기록됩니다. 언어 목록의 작업 표식은 이 파일을
-사용하므로 `한국어 (<작업버전>-<작업날짜>)` 형식으로 실제 번역 자료의
-세대를 식별할 수 있습니다. 재현 가능한 날짜가 필요하면
-`WESNOTH_PO_DATE=YYYYMMDD tools/build_mo.sh`처럼 지정합니다. 날짜는
-KST/JST(UTC+9) 기준으로 계산됩니다.
+`dist/<버전>-<최종수정일>/ko/PO_LAST_MODIFIED_DATE`에 전체 작업 PO 중 가장 최근
+수정 시각(`YYYY-MM-DD HH:MM:SS+0900`)이 기록됩니다. 언어 목록의 작업 표식과
+배포 경로는 이 값의 날짜 부분만 사용하므로 `한국어 (<작업버전>-<최종수정일>)`
+형식으로 실제 번역 자료의 세대를 식별할 수 있습니다. 재현 가능한 시각이
+필요하면 `WESNOTH_PO_TIMESTAMP="YYYY-MM-DD HH:MM:SS+0900" tools/build_mo.sh`처럼
+지정합니다. 날짜만 고정하려면 `WESNOTH_PO_DATE=YYYYMMDD`를 사용할 수 있으며,
+이 경우 해당 날짜의 `00:00:00+0900`으로 기록됩니다. 시각은 KST/JST(UTC+9)
+기준으로 계산됩니다.
+
+MO와 언어 설정 파일을 배포 ZIP으로 묶으려면 다음처럼 실행합니다.
+
+```sh
+tools/build_asset.sh <버전> <최종수정일> /path/to/ko_KR.cfg
+```
+
+예를 들어 현재 작업본은
+`tools/build_asset.sh 1.18.x 20260925 /path/to/ko_KR.cfg`로 생성하며,
+`dist/1.18.x-20260925/wesnoth-ko-translate-1.18.x-20260925.zip`에
+기록됩니다. ZIP 안의 `install.sh`와 `install.bat`은 첫 번째 인자로
+게임 루트 또는 macOS 앱의 `Contents/Resources` 경로를 받아 기존 MO 세트를
+동기화합니다.
+
+### 배포 ZIP의 내부 구조
+
+번역 ZIP은 게임 설치에 사용할 상대 경로를 유지합니다. `data/`와
+`translations/`는 ZIP 최상위의 형제 디렉터리이며,
+`translations/`를 `data/` 아래에 넣지 않습니다.
+
+```text
+wesnoth-ko-translate-<버전>-<최종수정일>/
+├── VERSION
+├── README.md
+├── INSTALL.md
+├── install.sh
+├── install.bat
+├── data/
+│   └── languages/
+│       └── ko_KR.cfg
+└── translations/
+    └── ko/
+        └── LC_MESSAGES/
+            └── *.mo
+```
+
+이 구조는 번역 배포 ZIP의 구조입니다. Windows 게임 설치 폴더 자체에서
+사용하는 `data/translations/` 경로와 혼동하지 않습니다.
+`data/languages/ko_KR.cfg`는 언어 목록 표시용이고,
+`translations/ko/LC_MESSAGES/*.mo`는 실제 번역 바이너리입니다.
 
 ### 3. macOS
 
@@ -97,7 +139,7 @@ The Battle for Wesnoth.app/
 ```
 
 `%The Battle for Wesnoth%`는 Finder에서 **응용 프로그램**에 있는
-`The Battle for Wesnoth.app`를 뜻합니다. `dist/<버전>-<작업일>/ko/LC_MESSAGES/*.mo`를
+`The Battle for Wesnoth.app`를 뜻합니다. `dist/<버전>-<최종수정일>/ko/LC_MESSAGES/*.mo`를
 이 디렉터리에 복사합니다.
 
 ```sh
@@ -177,10 +219,13 @@ standalone 앱의 `ko_KR.cfg`를 서명한 뒤 수정했다면 반드시 위처�
 ad-hoc 서명해야 합니다. 외부 `--data-dir` 방식에서는 앱 번들을 수정하지
 않으므로 재서명이 필요하지 않습니다.
 
-기본적으로 언어 선택 창에 `한국어 (<작업버전>-<작업날짜>)` 형식으로
+기본적으로 언어 선택 창에 `한국어 (<작업버전>-<최종수정일>)` 형식으로
 표시됩니다. `PO_LAST_MODIFIED_DATE`가 있으면 실행일이 아니라 마지막 PO
 수정일을 사용합니다. 특정 표식을 사용하려면 두 번째 인자로 지정할 수
-있습니다.
+있습니다. `mark_korean_locale` 스크립트는 이 프로젝트의 활성 PO가
+완료되었다는 기준에 맞춰 locale 블록의 `percent`도 `100`으로 갱신하므로,
+실제 설정값은 `percent=100`이 되고, 진행 중 번역 표시 옵션을 켜지 않아도
+언어 목록에서 보이게 합니다.
 
 ```sh
 tools/mark_korean_locale.sh \
@@ -240,15 +285,17 @@ call tools\install_mo.bat "C:\Program Files\Battle for Wesnoth {{WESNOTH_MAJOR_M
 
 압축판의 언어 목록에 작업 버전을 표시하려면 `data\languages\ko_KR.cfg`도
 다음처럼 수정합니다. 이 스크립트는 `PO_LAST_MODIFIED_DATE`를 사용해
-`한국어 (<작업버전>-<작업날짜>)`을 기록하고 원본 설정 파일을 백업합니다.
+`한국어 (<작업버전>-<최종수정일>)`을 기록하고 원본 설정 파일을 백업합니다.
 
 ```bat
 call tools\mark_korean_locale.bat "C:\Games\Wesnoth-{{WESNOTH_MAJOR_MINOR}}\data\languages\ko_KR.cfg"
 ```
 
 이후 게임을 완전히 종료하고 다시 실행한 뒤 언어 선택 창에서
-`한국어 ({{WESNOTH_VERSION}}-<작업날짜>)`를 선택합니다. 기존 표시로
-되돌리려면 같은 디렉터리에 생성된
+`한국어 ({{WESNOTH_VERSION}}-<최종수정일>)`를 선택합니다.
+`percent=100`으로 갱신하므로 보통 **Show in-progress or abandoned
+translations** 옵션을 체크할 필요가 없습니다. 목록에 표시되지 않을 때만
+해당 옵션을 체크합니다. 기존 표시로 되돌리려면 같은 디렉터리에 생성된
 `ko_KR.cfg.backup-YYYYMMDD-HHMMSS`를 복원합니다.
 
 ### 5. Linux
@@ -282,17 +329,17 @@ sudo tools/install_mo.sh \
 1. 게임을 완전히 종료한 뒤 다시 실행합니다.
 2. 메인 화면 우측 하단의 **언어 설정**을 선택한 뒤 **언어 선택**을
    선택합니다.
-3. 언어 선택 창의 좌측 하단에서 **Show in-progress or abandoned
-   translations**를 체크합니다.
-4. 목록에서 **한국어 ({{WESNOTH_VERSION}}-<작업날짜>)**를 선택하고
+3. 목록에서 **한국어 ({{WESNOTH_VERSION}}-<최종수정일>)**를 선택하고
    게임을 재시작합니다.
-5. 번역이 보이지 않으면 게임 버전이 {{WESNOTH_VERSION}}인지, MO 파일명이
+4. 번역이 보이지 않으면 좌측 하단의 **Show in-progress or abandoned
+   translations**를 체크한 뒤 다시 확인합니다. 게임 버전이
+   {{WESNOTH_VERSION}}인지, MO 파일명이
    `wesnoth*.mo` textdomain 이름과 일치하는지 확인합니다.
-6. 문제가 생기면 `po/{{WESNOTH_VERSION}}/ko/` 또는
+5. 문제가 생기면 `po/{{WESNOTH_VERSION}}/ko/` 또는
    `work/{{WESNOTH_VERSION}}/ko/`의 PO를 기준으로
    `tools/build_mo.sh` 또는 `tools\build_mo.bat`를 다시 실행한 뒤,
    올바른 게임 데이터 경로에 재설치합니다.
-7. 여러 Wesnoth 설치본이 있으면 실행 중인 게임의 데이터 경로에 복사했는지
+6. 여러 Wesnoth 설치본이 있으면 실행 중인 게임의 데이터 경로에 복사했는지
    확인합니다.
 
 게임에 설치하는 파일은 `.mo`이며, `.po`는 번역 작업과 검토를 위한
@@ -338,7 +385,7 @@ find "work/$VERSION/ko" -name '*.po' -print0 |
 공개 저장소에는 번역 결과와 재현 가능한 작업 도구를 우선 올립니다.
 
 - 공개 후보: `work/<버전>/ko/`, `work/<버전>/glossary.tsv`,
-  `po/<버전>/`, `dist/<버전>-<작업일>/`, `tools/`, `tests/`,
+  `po/<버전>/`, `dist/<버전>-<최종수정일>/`, `tools/`, `tests/`,
   프로젝트 문서
 - 기본 제외: `References/wesnothko/`와 그 아래의 네이버 카페 HTML
   보관본
@@ -356,20 +403,22 @@ find "work/$VERSION/ko" -name '*.po' -print0 |
 모든 활성 fuzzy가 검토되고, 비-fuzzy 빈 번역이 없으며, 테스트·구조
 감사·`msgfmt --check`가 통과한 시점에만 완료 태그를 만듭니다.
 
-권장 태그 형식은 `wesnoth-ko-translate-{{WESNOTH_VERSION}}-<작업일>`입니다.
-`<작업일>`은 KST/JST 기준 마지막 PO 수정일(`YYYYMMDD`)이며,
-`dist/<버전>-<작업일>/ko/PO_LAST_MODIFIED_DATE`에서 읽습니다. 같은 날짜에
+권장 태그 형식은 `wesnoth-ko-translate-{{WESNOTH_VERSION}}-<최종수정일>`입니다.
+`<최종수정일>`은 KST/JST 기준 마지막 PO 수정 시각의 날짜 부분(`YYYYMMDD`)이며,
+`dist/<버전>-<최종수정일>/ko/PO_LAST_MODIFIED_DATE`의
+`YYYY-MM-DD HH:MM:SS+0900` 값에서 읽습니다. 같은 날짜에
 수정 릴리스가 필요하면 PO를 다시 빌드해 새 마지막 수정일을 반영합니다.
 
 ```sh
 VERSION="${WESNOTH_VERSION:-$(tr -d '\r\n' < VERSION)}"
-WORK_DATE="$(tr -d '\r\n' < "dist/${VERSION}-"*/ko/PO_LAST_MODIFIED_DATE)"
-TAG="wesnoth-ko-translate-${VERSION}-${WORK_DATE}"
+PO_TIMESTAMP="$(tr -d '\r\n' < "dist/${VERSION}-"*/ko/PO_LAST_MODIFIED_DATE)"
+LAST_MODIFIED_DATE="$(printf '%s' "$PO_TIMESTAMP" | cut -c1-10 | tr -d '-')"
+TAG="wesnoth-ko-translate-${VERSION}-${LAST_MODIFIED_DATE}"
 
 git add README.md INSTALL.md PROJECT-AI.md .gitignore \
     References/20250322_wesnoth_한국어번역 po work tools tests
 git commit -m "Complete Wesnoth {{WESNOTH_VERSION}} Korean translation"
-git tag -a "$TAG" -m "Wesnoth ${VERSION} Korean translation ${WORK_DATE}"
+git tag -a "$TAG" -m "Wesnoth ${VERSION} Korean translation ${LAST_MODIFIED_DATE}"
 git push origin main
 git push origin "$TAG"
 ```
@@ -430,18 +479,47 @@ tools/build_mo.sh
 ```
 
 The script validates `work/<version>/ko/*.po` and writes MO files to
-`dist/<version>-<work-date>/ko/LC_MESSAGES/`. Pass a version and output directory to
+`dist/<version>-<last-modified-date>/ko/LC_MESSAGES/`. Pass a version and output directory to
 override the defaults, for example `tools/build_mo.sh <version> /tmp/mo`.
 The `--check` option validates each PO while producing the MO. The generated
 file removes the final `-ko` from the PO filename: for example,
 `wesnoth-ko.po` becomes `wesnoth.mo`.
 The PO basename is the work-file name; the game loads the corresponding MO
 from `translations/ko/LC_MESSAGES/`. Back up existing MO files before
-overwriting them. Each build records the latest PO modification date as
-`dist/<version>-<work-date>/ko/PO_LAST_MODIFIED_DATE` in `YYYYMMDD` form. The
-language-list marker uses this date, producing
-`한국어 (<work-version>-<work-date>)`. Set `WESNOTH_PO_DATE=YYYYMMDD` when a
-reproducible date is required. Dates are calculated in KST/JST (UTC+9).
+overwriting them. Each build records the latest PO modification timestamp as
+`dist/<version>-<last-modified-date>/ko/PO_LAST_MODIFIED_DATE` in
+`YYYY-MM-DD HH:MM:SS+0900` form. The directory name and language-list marker use
+only its date portion, producing `한국어 (<work-version>-<last-modified-date>)`.
+Set `WESNOTH_PO_TIMESTAMP="YYYY-MM-DD HH:MM:SS+0900"` when a reproducible
+timestamp is required. `WESNOTH_PO_DATE=YYYYMMDD` remains available and records
+midnight at `+0900`. Dates and timestamps are calculated in KST/JST (UTC+9).
+
+### Translation ZIP layout
+
+The translation ZIP preserves game-relative paths. `data/` and
+`translations/` are sibling directories directly below the ZIP root;
+`translations/` must not be nested under `data/`.
+
+```text
+wesnoth-ko-translate-<version>-<last-modified-date>/
+├── VERSION
+├── README.md
+├── INSTALL.md
+├── install_mo.sh
+├── install_mo.bat
+├── data/
+│   └── languages/
+│       └── ko_KR.cfg
+└── translations/
+    └── ko/
+        └── LC_MESSAGES/
+            └── *.mo
+```
+
+This is the translation ZIP layout, not the installed Windows game's
+`data/translations/` layout. The included `ko_KR.cfg` controls the language
+list label; the `.mo` files under `translations/ko/LC_MESSAGES/` contain the
+translated messages.
 
 ### 3. macOS
 
@@ -500,10 +578,12 @@ tools/mark_korean_locale.sh \
   "$HOME/Applications/Wesnoth-1.18.8-data/data/languages/ko_KR.cfg"
 ```
 
-By default, the language list shows `한국어 (<작업버전>-<작업날짜>)`. When
+By default, the language list shows `한국어 (<작업버전>-<최종수정일>)`. When
 `PO_LAST_MODIFIED_DATE` exists, the helper uses the latest PO modification
 date rather than the script execution date. Pass a second argument to use a
-specific marker.
+specific marker. The `mark_korean_locale` helpers also set the locale block's
+`percent` value to `100`, so the language is visible without enabling the
+in-progress or abandoned translations filter.
 The helper
 creates a backup beside the configuration file and must not be used on the
 original signed application bundle. This marker changes no translation text;
@@ -575,7 +655,7 @@ call tools\mark_korean_locale.bat "C:\Games\Wesnoth-{{WESNOTH_MAJOR_MINOR}}\data
 
 The first helper overwrites existing MO files without creating a backup. The
 second helper backs up `ko_KR.cfg` and writes the language label as
-`한국어 (<work-version>-<work-date>)`, using `PO_LAST_MODIFIED_DATE`.
+`한국어 (<work-version>-<last-modified-date>)`, using `PO_LAST_MODIFIED_DATE`.
 
 The install helper overwrites existing MO files without creating a backup.
 If a translation problem appears, rebuild the MO files from
@@ -606,14 +686,14 @@ sudo tools/install_mo.sh \
 1. Exit the game completely and restart it.
 2. On the main screen, select **언어 설정** at the bottom right, then select
    **언어 선택**.
-3. In the language selection window, check **Show in-progress or abandoned
-   translations** at the bottom left.
-4. Select **한국어 ({{WESNOTH_VERSION}}-<work-date>)** and restart the
+3. Select **한국어 ({{WESNOTH_VERSION}}-<last-modified-date>)** and restart the
    game.
-5. If the translation does not appear, verify the game is {{WESNOTH_VERSION}} and that
-   the MO filenames match the `wesnoth*.mo` textdomains.
-6. Restore the backed-up MO files to undo the change.
-7. If multiple Wesnoth copies are installed, verify that the files were
+4. If it is not listed, enable **Show in-progress or abandoned
+   translations** at the bottom left and check again. Verify that the game is
+   {{WESNOTH_VERSION}} and that the MO filenames match the `wesnoth*.mo`
+   textdomains.
+5. Restore the backed-up MO files to undo the change.
+6. If multiple Wesnoth copies are installed, verify that the files were
    copied into the data directory used by the running executable.
 
 The game uses `.mo` files. Copying `.po` files into the game directory does
@@ -667,7 +747,7 @@ Publish the translation result and reproducible tooling first:
   alone does not automatically grant redistribution rights.
 
 Keep the Cafe archive local and record only the necessary conclusions with
-source attribution in the public repository. Versioned `dist/<version>-<work-date>/`
+source attribution in the public repository. Versioned `dist/<version>-<last-modified-date>/`
 MO files and metadata are published. The
 `.gitignore` excludes `References/wesnothko/` by default, but inspect
 `git status` and `git ls-files` before publishing.
@@ -678,21 +758,23 @@ Create the completion tag only after all active fuzzy entries have been
 reviewed, no non-fuzzy empty translations remain, and the tests, structural
 audit, and `msgfmt --check` all pass.
 
-The recommended tag format is `wesnoth-ko-translate-{{WESNOTH_VERSION}}-<work-date>`.
-`<work-date>` is the latest PO modification date in KST/JST (`YYYYMMDD`) and is
-read from `dist/<version>-<work-date>/ko/PO_LAST_MODIFIED_DATE`. For a correction
+The recommended tag format is `wesnoth-ko-translate-{{WESNOTH_VERSION}}-<last-modified-date>`.
+`<last-modified-date>` is the date portion (`YYYYMMDD`) of the latest PO
+modification timestamp in KST/JST and is read from
+`dist/<version>-<last-modified-date>/ko/PO_LAST_MODIFIED_DATE`. For a correction
 on the same date, rebuild from the updated PO files so the latest modification
-date is reflected.
+timestamp is reflected.
 
 ```sh
 VERSION="${WESNOTH_VERSION:-$(tr -d '\r\n' < VERSION)}"
-WORK_DATE="$(tr -d '\r\n' < "dist/${VERSION}-"*/ko/PO_LAST_MODIFIED_DATE)"
-TAG="wesnoth-ko-translate-${VERSION}-${WORK_DATE}"
+PO_TIMESTAMP="$(tr -d '\r\n' < "dist/${VERSION}-"*/ko/PO_LAST_MODIFIED_DATE)"
+LAST_MODIFIED_DATE="$(printf '%s' "$PO_TIMESTAMP" | cut -c1-10 | tr -d '-')"
+TAG="wesnoth-ko-translate-${VERSION}-${LAST_MODIFIED_DATE}"
 
 git add README.md INSTALL.md PROJECT-AI.md .gitignore \
     References/20250322_wesnoth_한국어번역 po work tools tests
 git commit -m "Complete Wesnoth {{WESNOTH_VERSION}} Korean translation"
-git tag -a "$TAG" -m "Wesnoth ${VERSION} Korean translation ${WORK_DATE}"
+git tag -a "$TAG" -m "Wesnoth ${VERSION} Korean translation ${LAST_MODIFIED_DATE}"
 git push origin main
 git push origin "$TAG"
 ```

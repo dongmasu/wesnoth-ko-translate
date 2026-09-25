@@ -17,6 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+
 #. [ai]: id=ai_default_rca
 #: data/ai/ais/ai_default_rca.cfg:9
 msgid "Multiplayer_AI^Default AI (RCA)"
@@ -3848,7 +3849,7 @@ msgstr "게임 종료"
 #. [label]: id=lblTitle
 #: data/gui/window/game_save_overwrite.cfg:40
 msgid "Overwrite?"
-msgstr "덮어씌우시겠습니까?"
+msgstr "덮어쓰시겠습니까?"
 
 #. [label]: id=lblMessage
 #: data/gui/window/game_save_overwrite.cfg:60
@@ -4035,7 +4036,7 @@ msgstr "이 웨스노스(Wesnoth) 버전을 빌드할 때 다음 기능이 선�
 #: data/gui/window/game_version.cfg:429
 #| msgid "Show Battle for Wesnoth help"
 msgid "The Battle for Wesnoth"
-msgstr "웨스노스 전투"
+msgstr "웨스노스(Wesnoth) 전투"
 
 #. [widget]: id=tab_label
 #: data/gui/window/game_version.cfg:508
@@ -4166,7 +4167,7 @@ msgstr "라벨 표시"
 #: data/gui/window/help_browser.cfg:116
 #| msgid "Show Battle for Wesnoth help"
 msgid "Battle For Wesnoth Help"
-msgstr "웨스노스 전투 도움말"
+msgstr "웨스노스(Wesnoth) 전투 도움말"
 
 #. [label]
 #: data/gui/window/hotkey_bind.cfg:35
@@ -4185,7 +4186,7 @@ msgid ""
 "<i>The Battle for Wesnoth</i> relies on volunteers for development, "
 "including translation. Translations may drift behind or even become "
 "abandoned."
-msgstr "번역을 비롯한 <i>웨스노스 전투</i>의 개발은 자원봉사자들에게 의존합니다. 번역이 뒤처지거나 중단될 수도 있습니다."
+msgstr "번역을 비롯한 <i>웨스노스(Wesnoth) 전투</i>의 개발은 자원봉사자들에게 의존합니다. 번역이 뒤처지거나 중단될 수도 있습니다."
 
 #. [label]
 #. Beneath the label widget displaying this text there is a widget displaying
@@ -5288,7 +5289,7 @@ msgstr "AI 움직임 생략"
 #. [toggle_button]: id=skip_ai_moves
 #: data/gui/window/preferences/01_general.cfg:55
 msgid "Do not animate AI units moving"
-msgstr "인공지능 유닛의 움직임을 보여주지 않습니다"
+msgstr "인공지능 유닛의 움직임을 보여 주지 않습니다"
 
 #. [toggle_button]: id=turbo_toggle
 #: data/gui/window/preferences/01_general.cfg:68
@@ -5787,7 +5788,7 @@ msgstr "친구가 멀티플레이 로비에 참가할 때 메시지 표시"
 #. [toggle_button]: id=lobby_joins_all
 #: data/gui/window/preferences/05_multiplayer.cfg:131
 msgid "Show all lobby joins"
-msgstr "로비 입장 메세지 표시"
+msgstr "로비 입장 메시지 모두 표시"
 
 #. [toggle_button]: id=lobby_joins_all
 #: data/gui/window/preferences/05_multiplayer.cfg:132
@@ -6079,7 +6080,7 @@ msgstr "도움말"
 #. [button]: id=help
 #: data/gui/window/title_screen.cfg:178
 msgid "Show Battle for Wesnoth help"
-msgstr "웨스노스 전투 도움말을 봅니다"
+msgstr "웨스노스(Wesnoth) 전투 도움말을 봅니다"
 
 #. [button]: id=previous_tip
 #: data/gui/window/title_screen.cfg:194
@@ -6112,7 +6113,7 @@ msgstr "멀티플레이 (핫시트, 랜 또는 인터넷)나 인공지능과의 
 #. [grid]
 #: data/gui/window/title_screen.cfg:257
 msgid "Load a saved game"
-msgstr "저장된 게임을 불러옵니다"
+msgstr "저장된 게임 불러오기"
 
 #. [grid]
 #: data/gui/window/title_screen.cfg:258
@@ -7408,7 +7409,9 @@ msgstr "지도 설정 사용:"
 msgid ""
 "One or more add-ons need to be installed\n"
 "in order to join this game."
-msgstr "이 게임에 참가하려면 하나 이상의 부가 기능을 설치해야 합니다."
+msgstr ""
+"이 게임에 참가하려면\n"
+"하나 이상의 부가 기능을 설치해야 합니다."
 
 #: src/gui/dialogs/multiplayer/lobby.cpp:495
 msgid "Observers allowed"
@@ -8338,7 +8341,7 @@ msgstr "지도를 불러오기"
 
 #: src/hotkey/hotkey_command.cpp:182
 msgid "Save Map As"
-msgstr "다른 이름으로 맵 저장"
+msgstr "다른 이름으로 지도 저장"
 
 #: src/hotkey/hotkey_command.cpp:183
 #| msgid "Scenario Objectives"
@@ -9067,7 +9070,7 @@ msgstr "'[$section|]' 섹션에 필수 키 '$key|'가 설정되지 않았습니�
 #~ "The Battle for Wesnoth forum can be found at https://forums.wesnoth.org/"
 #~ msgstr ""
 #~ "당신은 공식 멀티플레이 서버에 당신의 포럼 아이디와 암호로 접속할 수 있습니다.\n"
-#~ "서버에 들어가려고 꼭 가입할 필요는 없습니다. 포럼에 등록된 아이디로 접속할때 외에는 암호는 필요없습니다.\n"
+#~ "서버에 들어가려고 꼭 가입할 필요는 없습니다. 포럼에 등록된 아이디로 접속할 때 외에는 암호는 필요 없습니다.\n"
 #~ "\n"
 #~ "Battle for 웨스노스(Wesnoth) 포럼 주소는 http://www.wesnoth.org/forum/"
 

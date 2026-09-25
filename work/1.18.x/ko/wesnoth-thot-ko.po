@@ -12,6 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:10
 msgid "The Hammer of Thursagan"
@@ -445,7 +446,7 @@ msgstr "영주님의 조카손자입니다."
 msgid ""
 "Ye’re young and not tested... but ye have the rank, and ye’ve shown the wits "
 "to use it well. Movrur? What think ye?"
-msgstr "그대는 젊고, 시험을 받지 않았네... 그러나 그대는 지위를 가지고 있고, 그 지위를 잘 활용할 지혜를 보여주었어. 모브루르(Movrur)? 어떻게 생각하나?"
+msgstr "그대는 젊고, 시험을 받지 않았네... 그러나 그대는 지위를 가지고 있고, 그 지위를 잘 활용할 지혜를 보여 주었어. 모브루르(Movrur)? 어떻게 생각하나?"
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:213
@@ -512,7 +513,7 @@ msgstr "고르타스(Gorthas)"
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:121
 msgid "Help Marth-Tak defeat Gorthas"
-msgstr "마르쓰-탁이 고르타스(Gorthas)를 물리치도록 도와라"
+msgstr "마르쓰-탁(Marth-Tak)이 고르타스(Gorthas)를 물리치도록 도와라"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:129
@@ -543,7 +544,7 @@ msgstr "모브루르(Movrur)의 죽음"
 #. [objective]: condition=lose
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:137
 msgid "Death of Marth-Tak"
-msgstr "마르쓰-탁의 죽음"
+msgstr "마르쓰-탁(Marth-Tak)의 죽음"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:167
@@ -674,7 +675,7 @@ msgid ""
 "What matters is that these raiders are defeated now. My thanks to you, Marth-"
 "Tak, for proving there are orcs I can fight alongside rather than against. "
 "But we cannot linger here to celebrate; we are journeying east."
-msgstr "중요한 것은 이 노락꾼들이 이제는 패배했다는 것입니다. 오크들과 대치하기보다는 함께 싸울 수 있다는 것을 보여 준 마르쓰-탁께 감사드립니다. 그러나 우리는 여기서 축하만 하고 있을 수 없습니다. 우리는 동쪽으로 여행 중이었습니다."
+msgstr "중요한 것은 이 노락꾼들이 이제는 패배했다는 것입니다. 오크들과 대치하기보다는 함께 싸울 수 있다는 것을 보여 준 마르쓰-탁(Marth-Tak)께 감사드립니다. 그러나 우리는 여기서 축하만 하고 있을 수 없습니다. 우리는 동쪽으로 여행 중이었습니다."
 
 #. [message]: speaker=Marth-Tak
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:288
@@ -1039,7 +1040,7 @@ msgstr "그렇겠죠."
 msgid ""
 "We of Kal Kartha have no reason to give these foul orcs any of our hard-"
 "earned gold, if that is what you are insinuating, <i>loremaster</i>."
-msgstr "우리 칼 카르타 사람들은 힘들게 벌어들인 금화를 이런 역겨운 오크들에게 줄 이유가 없습니다. 당신이 애둘러 말하는게 그것이라면, <i>전승의 대가</i>여."
+msgstr "우리 칼 카르타 사람들은 힘들게 벌어들인 금화를 이런 역겨운 오크들에게 줄 이유가 없습니다. 당신이 애둘러 말하는 게 그것이라면, <i>전승의 대가</i>여."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:683
@@ -1252,7 +1253,7 @@ msgid ""
 "Well fought, and our thanks; we were sore pressed. You are our honored "
 "guests, and I will show you to the best quarters we have myself. Our lord, "
 "the runemaster Karrag, will want to have speech with you on the morrow."
-msgstr "잘 싸워주셔서 감사합니다. 우리는 심각한 곤경에 처해 있었습니다. 여러분은 우리의 영예로운 손님들이기에, 제가 가진 가장 좋은 숙소로 안내해 드리겠습니다. 우리의 영주이신 룬 술사 카르라그(Karrag)님께서는 내일 당신들과 이야기하고 싶어할 것입니다."
+msgstr "잘 싸워 주셔서 감사합니다. 우리는 심각한 곤경에 처해 있었습니다. 여러분은 우리의 영예로운 손님들이기에, 제가 가진 가장 좋은 숙소로 안내해 드리겠습니다. 우리의 영주이신 룬 술사 카르라그(Karrag)님께서는 내일 당신들과 이야기하고 싶어할 것입니다."
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_The_Siege_of_Kal_Kartha.cfg:322
@@ -1425,7 +1426,7 @@ msgid ""
 "blood, that which binds our will and forges our resolve. It is a symbol of "
 "our superiority as the true people of Irdya, an image that the other races "
 "shall respect and fear!"
-msgstr "무기? 아니, 아니라네, 전승의 대가여... 그대는 내 의도를 잘못 이해하고 있네. 그대나 내가 알고 있듯, 망치가 하찮은 무기가 아니라네. 망치는 진정한 민족인 난쟁이의 영혼을 담고 있지. 그것은 우리의 살과 피를 만든 것, 우리의 뜻을 묶고 단련시키는 것이라네. 이것은 우리가 이르디야(Irdya)의 진정한 민족으로서 우월함을 보여주는 상징이며, 다른 종족들이 존경하고 두려워할 상징이라네!"
+msgstr "무기? 아니, 아니라네, 전승의 대가여... 그대는 내 의도를 잘못 이해하고 있네. 그대나 내가 알고 있듯, 망치가 하찮은 무기가 아니라네. 망치는 진정한 민족인 난쟁이의 영혼을 담고 있지. 그것은 우리의 살과 피를 만든 것, 우리의 뜻을 묶고 단련시키는 것이라네. 이것은 우리가 이르디야(Irdya)의 진정한 민족으로서 우월함을 보여 주는 상징이며, 다른 종족들이 존경하고 두려워할 상징이라네!"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Court_of_Karrag.cfg:225
@@ -1446,7 +1447,7 @@ msgstr "망치는 여전히 불완전하네. 남아있는 파편들을 다시 �
 msgid ""
 "On one condition. You must take off that mask and show your true face. I am "
 "a witness."
-msgstr "한 가지 조건이 있습니다. 영주님은 그 가면을 벗고 본 얼굴을 보여주어야 합니다. 저는 목격자입니다."
+msgstr "한 가지 조건이 있습니다. 영주님은 그 가면을 벗고 본 얼굴을 보여 주어야 합니다. 저는 목격자입니다."
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Court_of_Karrag.cfg:240
@@ -1805,7 +1806,7 @@ msgstr "내 다스림에 대항하는 적은 가장 불결한 땅거지 새끼�
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1226
 msgid "Not if we stop you here. AXES UP!"
-msgstr "여기서 당신을 막지 않으면 안되겠군요. 도끼를 듭시다!"
+msgstr "여기서 당신을 막지 않으면 안 되겠군요. 도끼를 듭시다!"
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1244
@@ -1901,7 +1902,7 @@ msgstr "카르라그(Karrag)의 주문은 매 순간이 지날수록 더욱 강�
 msgid ""
 "HAHAHAHA! Yes, yes, YES! The rite of death is complete at last! Die, you "
 "filthy dirtgrubbers, die so that I may raise you again as my mindless slaves!"
-msgstr "하하하하! 그래, 그래, 그래! 마침내 죽음의 의식이 완성되었다! 이 더러운 흙수저들아, 내가 너희를 다시 한번 아무 생각이 없는 노예로 일으킬테니, 걱정말고 죽어라!"
+msgstr "하하하하! 그래, 그래, 그래! 마침내 죽음의 의식이 완성되었다! 이 더러운 흙수저들아, 내가 너희를 다시 한 번 아무 생각이 없는 노예로 일으킬테니, 걱정말고 죽어라!"
 
 #. [scenario]: id=10_Epilogue
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_Epilogue.cfg:5
@@ -2010,7 +2011,7 @@ msgid ""
 "you knew that day; Tan-Morgh had exchanged messages with certain orcish "
 "chieftains within the Alliance, and your victory prevented a dangerous "
 "revolt."
-msgstr "나는 몇 주 동안 당신의 발자취를 따라 왔습니다. 당신이 탄-모르그흐와 그의 동맹을 물리쳤다는 소식이 퍼져서 탈린(Tallin)에게 전해졌습니다. 그 날 당신은 동맹에게 생각보다 더 큰 도움을 줬습니다. 그것은 탄-모르그흐는 동맹 내의 특정 오크의 족장들과 연락을 주고받았고, 당신의 승리로 인해 위험한 반란을 막을 수 있었습니다."
+msgstr "나는 몇 주 동안 당신의 발자취를 따라 왔습니다. 당신이 탄-모르그흐(Tan-Morgh)와 그의 동맹을 물리쳤다는 소식이 퍼져서 탈린(Tallin)에게 전해졌습니다. 그 날 당신은 동맹에게 생각보다 더 큰 도움을 줬습니다. 그것은 탄-모르그흐(Tan-Morgh)는 동맹 내의 특정 오크의 족장들과 연락을 주고받았고, 당신의 승리로 인해 위험한 반란을 막을 수 있었습니다."
 
 #. [message]: speaker=Pelias
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_Epilogue.cfg:174

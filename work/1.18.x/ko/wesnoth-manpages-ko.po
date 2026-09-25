@@ -15,6 +15,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+
 # type: TH
 #. type: TH
 #: doc/man/wesnoth.6:16
@@ -40,7 +41,7 @@ msgstr "웨스노스(wesnoth)"
 #: doc/man/wesnoth.6:16
 #, no-wrap
 msgid "Battle for Wesnoth"
-msgstr "웨스노스 전투"
+msgstr "웨스노스(Wesnoth) 전투"
 
 # type: SH
 #. type: SH
@@ -53,7 +54,7 @@ msgstr "이름"
 #. type: Plain text
 #: doc/man/wesnoth.6:20
 msgid "wesnoth - Battle for Wesnoth, a turn-based fantasy strategy game"
-msgstr "웨스노스 - 턴제 판타지 전략 게임인 웨스노스 전투"
+msgstr "웨스노스(Wesnoth) - 턴제 판타지 전략 게임인 웨스노스(Wesnoth) 전투"
 
 # type: SH
 #. type: SH
@@ -1433,13 +1434,13 @@ msgstr "wesnothd"
 #: doc/man/wesnothd.6:16
 #, no-wrap
 msgid "Battle for Wesnoth multiplayer network daemon"
-msgstr "웨스노스 전투 멀티플레이 네트워크 데몬"
+msgstr "웨스노스(Wesnoth) 전투 멀티플레이 네트워크 데몬"
 
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnothd.6:23
 msgid "wesnothd - Battle for B<Wesnoth> multiplayer network daemon"
-msgstr "wesnothd - B<웨스노스 전투> 멀티플레이 네트워크 데몬"
+msgstr "wesnothd - B<웨스노스(Wesnoth) 전투> 멀티플레이 네트워크 데몬"
 
 # type: Plain text
 #. type: Plain text
@@ -1461,7 +1462,7 @@ msgid ""
 "Manages Battle for Wesnoth multiplayer games. See https://www.wesnoth.org/"
 "wiki/ServerAdministration on what commands the server accepts via the "
 "wesnoth client (/query ...) or the fifo."
-msgstr "웨스노스 전투 멀티플레이 게임을 관리합니다. wesnoth 클라이언트(/query ...) 또는 FIFO를 통해 서버가 허용하는 명령은 https://www.wesnoth.org/wiki/ServerAdministration을 참조하십시오."
+msgstr "웨스노스(Wesnoth) 전투 멀티플레이 게임을 관리합니다. wesnoth 클라이언트(/query ...) 또는 FIFO를 통해 서버가 허용하는 명령은 https://www.wesnoth.org/wiki/ServerAdministration을 참조하십시오."
 
 # type: TP
 #. type: TP

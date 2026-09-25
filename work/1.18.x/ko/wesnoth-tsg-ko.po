@@ -12,6 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:9
 msgid "The South Guard"
@@ -31,7 +32,7 @@ msgid ""
 "remaining men of the derelict South Guard to defend his country.\n"
 "\n"
 msgstr ""
-"젊은 기사 데오란(Deoran)은 국경의 약탈당한 마을을 조사하기 위해 웨스노스(Wesnoth) 남부의 케를라스(Kerlath) 지방으로 파견됩니다. 약탈하는 산적들과의 불운한 싸움에 갑작스럽게 휘말린 데오란(Deoran)은 조국을 지키기 위해 무너진 남부 경비대의 남은 병력을 결집해야 합니다.\n"
+"젊은 기사 데오란(Deoran)은 국경의 약탈당한 마을들을 조사하기 위해 웨스노스(Wesnoth) 남부의 케를라스(Kerlath) 지방으로 파견됩니다. 약탈하는 산적들과의 싸움에 갑작스럽게 휘말린 데오란(Deoran)은 조국을 지키기 위해 무너진 남부 경비대의 남은 병력을 결집해야 합니다.\n"
 "\n"
 
 #. [campaign]: id=The_South_Guard
@@ -277,7 +278,7 @@ msgstr "하! 새 사령관이라더니 고작 애송이잖아. 우리를 막으�
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:257
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:792
 msgid "Sir Gerrick"
-msgstr "게릭(Gerrick) 경"
+msgstr "게르릭(Gerrick) 경"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:269
@@ -1082,13 +1083,13 @@ msgstr "절박한 여정"
 #. [side]: type=Rogue, id=Urza Fastik
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:57
 msgid "Urza Fastik"
-msgstr "우르자 파스티크(Urza Fastik)"
+msgstr "우르자(Urza) 파스티크(Fastik)"
 
 #. [side]
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:153
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Long_March.cfg:86
 msgid "Elves"
-msgstr "엘프들"
+msgstr "엘프족"
 
 #. [unit]: type=Elvish Shyde, id=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:162
@@ -4874,7 +4875,7 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #~ "Let us punish these bandits for their crimes and murders! My wounds are "
 #~ "healed and I am ready for battle!"
 #~ msgstr ""
-#~ "도적떼에게 놈들의 죄악과 살인의 댓가를 치르게 해줍시다! 상처는 다 나아서 "
+#~ "도적떼에게 놈들의 죄악과 살인의 대가를 치르게 해줍시다! 상처는 다 나아서 "
 #~ "전투에 참가할 수 있소!"
 
 #~ msgid "However I can, I will help you!"
@@ -4908,7 +4909,7 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #~ msgstr "데오란(Deoran)님, 이제 웨스틴(Westin) 요새에 지휘소를 만드시죠."
 
 #~ msgid "More bandits?! They’ll feel the deadly bite of my lance!"
-#~ msgstr "또 도적들인가?! 내 필살의 기창 맛을 보여주마!"
+#~ msgstr "또 도적들인가?! 내 필살의 기창 맛을 보여 주마!"
 
 #~ msgid ""
 #~ "Peace! For I am no enemy. I am Minister Hylas, advisor to Sir Loris! You "
@@ -4920,7 +4921,7 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #~ "garrison of the city? I was sent by Haldric to relieve him and take "
 #~ "command of the South Guard, for the King has heard no news from Westin in "
 #~ "two months."
-#~ msgstr "확실히 제때에 온 모양이군. 하지만 로리스(Loris) 경은 어디 있소? 도시의 수비군은 어디 있는거요? 할드릭(Haldric) 전하께서는 두달간이나 웨스틴(Westin)에서의 소식을 듣지 못하자, 명을 내려 그를 해임시키고 나를 남부 경비대의 지휘관으로 파견하셨소."
+#~ msgstr "확실히 제때에 온 모양이군. 하지만 로리스(Loris) 경은 어디 있소? 도시의 수비군은 어디 있는 거요? 할드릭(Haldric) 전하께서는 두달간이나 웨스틴(Westin)에서의 소식을 듣지 못하자, 명을 내려 그를 해임시키고 나를 남부 경비대의 지휘관으로 파견하셨소."
 
 #~ msgid ""
 #~ "Alas, Sir Loris will find no relief now. He is buried northwest of the "
@@ -4960,7 +4961,7 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #~ msgid ""
 #~ "I have lost two brothers to Deoran — I shall not allow him to reach the "
 #~ "accursed elves! Deoran will die before he reaches the western forest!"
-#~ msgstr "데오란(Deoran)이 형제들을 둘이나 죽였다 — 놈이 빌어먹을 엘프들에게 가도록 두지 않겠어! 데오란(Deoran)은 서쪽 숲에 도달하기 전에 죽게 될거다!"
+#~ msgstr "데오란(Deoran)이 형제들을 둘이나 죽였다 — 놈이 빌어먹을 엘프들에게 가도록 두지 않겠어! 데오란(Deoran)은 서쪽 숲에 도달하기 전에 죽게 될 거다!"
 
 #, fuzzy
 #~| msgid ""
@@ -4979,7 +4980,7 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #~ msgstr "죽은 자의 진군을 저지하려면, 내가 엘프들이 사는 곳에 도달해야 한다!"
 
 #~ msgid "Sidaurios"
-#~ msgstr "Sidaurios"
+#~ msgstr "시다우리오스(Sidaurios)"
 
 #~ msgid "De..."
 #~ msgstr "De..."
@@ -5004,14 +5005,14 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #~ msgstr "하지만 그녀의 말대로 이 새로운 위협을 몰아내려면 그가 최고의 희망이지. 우리가 할 일을 하자. 에틸리엘(Ethiliel), 당신은 메브린(Mebrin)의 은거지로 가시오. 우리가 침입자들을 상대하겠소."
 
 #~ msgid "Now your blood and tears will join that of the elves!"
-#~ msgstr "이제 너희의 피와 눈물이 엘프의 피눈물에 섞일거다!"
+#~ msgstr "이제 너희의 피와 눈물이 엘프의 피눈물에 섞일 거다!"
 
 #~ msgid ""
 #~ "You said this valley would be safe, and we find it filled with skeletal "
 #~ "foes! Cannot some of your elf friends help us in our struggle?"
 #~ msgstr ""
-#~ "당신은 이 계곡이 안전할거라고 했지만, 여긴 해골들로 가득하지 않소! 엘프 친"
-#~ "구들이 우릴 도우러 오지 못하는게 아니오?"
+#~ "당신은 이 계곡이 안전할 거라고 했지만, 여긴 해골들로 가득하지 않소! 엘프 친"
+#~ "구들이 우릴 도우러 오지 못하는 게 아니오?"
 
 #~ msgid "Finally, release! Thank you, my friends..."
 #~ msgstr "드디어 안식이 왔다! 고맙소, 친구들이여..."
@@ -5020,7 +5021,7 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #~ "You’re too late! You’ll never find our stronghold, and even if you did, "
 #~ "what can you do against the dead?"
 #~ msgstr ""
-#~ "너흰 너무 늦었다! 너희는 절대 우리의 근거지를 찾지 못할것이다. 설사 찾는"
+#~ "너흰 너무 늦었다! 너희는 절대 우리의 근거지를 찾지 못할 것이다. 설사 찾는"
 #~ "다 해도, 너희가 죽은 자들을 상대로 뭘 할 수 있을까?"
 
 #~ msgid ""
@@ -5117,7 +5118,7 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #~ "Mebrin too fell sway to the influence of the undead, and now he leads "
 #~ "them. For a time he served us, but now he has gone mad and is attacking "
 #~ "us as well!"
-#~ msgstr "내 얘기를 끝까지 들어줘요! 그는 우리에게 죽은 자를 소환해서 싸우게 하는 법을 가르쳐줬소. 우리는 나약했고 어리석어서 우리가 통제하지도 못할 언데드를 소환하고 말았소. 메브린(Mebrin)도 언데드의 영향력에 물들어 버렸고, 이제 그가 놈들을 이끌고 있소. 그는 잠시동안은 우릴 도왔지만, 이제는 미쳐서 우리까지 공격하고 있소!"
+#~ msgstr "내 얘기를 끝까지 들어줘요! 그는 우리에게 죽은 자를 소환해서 싸우게 하는 법을 가르쳐줬소. 우리는 나약했고 어리석어서 우리가 통제하지도 못할 언데드를 소환하고 말았소. 메브린(Mebrin)도 언데드의 영향력에 물들어 버렸고, 이제 그가 놈들을 이끌고 있소. 그는 잠시 동안은 우릴 도왔지만, 이제는 미쳐서 우리까지 공격하고 있소!"
 
 #~ msgid "But what do you want us to do about it? You are criminals!"
 #~ msgstr "그렇다고 우리가 뭘 해주길 바라는거냐? 너희는 범죄자들이다!"
@@ -5198,13 +5199,13 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #~ msgstr "Zarr"
 
 #~ msgid "Abdur"
-#~ msgstr "Abdur"
+#~ msgstr "압두르(Abdur)"
 
 #~ msgid "Queen Xeila"
-#~ msgstr "여왕 Xeila"
+#~ msgstr "제일라(Xeila) 여왕"
 
 #~ msgid "Ssanur"
-#~ msgstr "Ssanur"
+#~ msgstr "사누르(Ssanur)"
 
 #~ msgid "Lesssh"
 #~ msgstr "Lesssh"
@@ -5213,7 +5214,7 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #~ msgstr "Kallen"
 
 #~ msgid "Eliomir"
-#~ msgstr "Eliomir"
+#~ msgstr "엘리오미르(Eliomir)"
 
 #, fuzzy
 #~| msgid ""
@@ -5249,7 +5250,7 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #, fuzzy
 #~| msgid "Defeat the Queen Xeila"
 #~ msgid "Defeat the Queen Xeila"
-#~ msgstr "여왕 Xeila를 무찔러라"
+#~ msgstr "제일라(Xeila) 여왕을 무찔러라"
 
 #, fuzzy
 #~| msgid "Unrecalled units will be available for Deoran."
@@ -5307,7 +5308,7 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #~ msgid ""
 #~ "She won’t listen. If we leave these nagas here, they will ambush Deoran "
 #~ "and Ethiliel! We must destroy them!"
-#~ msgstr "듣질 않는군. 이 나가들을 여기 두면 데오란(Deoran)과 에틸리엘(Ethiliel)을 습격할거야! 놈들을 무찔러야겠어!"
+#~ msgstr "듣질 않는군. 이 나가들을 여기 두면 데오란(Deoran)과 에틸리엘(Ethiliel)을 습격할 거야! 놈들을 무찔러야겠어!"
 
 #, fuzzy
 #~| msgid ""
@@ -5424,7 +5425,7 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #~ "we grind your bones and gnaw on your flesh?"
 #~ msgstr ""
 #~ "하! 인간과 엘프잖아! 우리 동굴에서 뭐 하는 짓인지, 우리가 너희 뼈를 갈아마"
-#~ "시면 안되는 이유가 뭔지 말해보지 않겠나?"
+#~ "시면 안 되는 이유가 뭔지 말해보지 않겠나?"
 
 #~ msgid ""
 #~ "Undead! Ha! We kill undead all the time. You be friendly enough so we "
@@ -5456,7 +5457,7 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #~ "여기 와서 번갯불에 불을 붙이면 리치의 둥지로 가는 뒷문을 뚫을 수 있다!"
 
 #~ msgid "What should we offer them for their help?"
-#~ msgstr "저들의 도움의 댓가로 뭘 제시해야 할까?"
+#~ msgstr "저들의 도움의 대가로 뭘 제시해야 할까?"
 
 #~ msgid ""
 #~ "We will give you $troll_help_cost gold pieces if you help us defeat the "
@@ -5604,7 +5605,7 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #, fuzzy
 #~| msgid "You must pay for killing Mebrin!"
 #~ msgid "You must pay for killing Mebrin!"
-#~ msgstr "메브린(Mebrin)을 죽인 댓가를 치러라!"
+#~ msgstr "메브린(Mebrin)을 죽인 대가를 치러라!"
 
 #~ msgid ""
 #~ "Stop, Ithelden! I have traveled with these humans, and they are not the "
@@ -5740,7 +5741,7 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #~ "weary defenders of Westin. A great cry echoed through the valley as the "
 #~ "men of the South Guard pressed their elven foes back from the walls. "
 #~ "Suddenly the field was covered in a great fog..."
-#~ msgstr "마침내 태양이 지평선 위로 떠올랐고 그 빛은 지친 웨스틴(Westin) 방어군에게 새로운 활력을 불어넣었다. 남부 경비대원들이 적 엘프들을 성벽에서 밀어내자 거대한 함성이 계곡에 울려퍼졌다. 돌연 전장을 거대한 안개가 뒤덮었다..."
+#~ msgstr "마침내 태양이 지평선 위로 떠올랐고 그 빛은 지친 웨스틴(Westin) 방어군에게 새로운 활력을 불어넣었다. 남부 경비대원들이 적 엘프들을 성벽에서 밀어내자 거대한 함성이 계곡에 울려 퍼졌다. 돌연 전장을 거대한 안개가 뒤덮었다..."
 
 #~ msgid ""
 #~ "When the fog broke, Ethiliel stood alone, facing the wall of spears. "
@@ -5816,7 +5817,7 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #~ msgid ""
 #~ "If we leave these naga here, they will ambush Deoran and Ethiliel! We "
 #~ "must destroy them!"
-#~ msgstr "듣질 않는군. 이 나가들을 여기 두면 데오란(Deoran)과 에틸리엘(Ethiliel)을 습격할거야! 놈들을 무찔러야겠어!"
+#~ msgstr "듣질 않는군. 이 나가들을 여기 두면 데오란(Deoran)과 에틸리엘(Ethiliel)을 습격할 거야! 놈들을 무찔러야겠어!"
 
 #~ msgid ""
 #~ "Thugs are the mainstay of the bandit armies. They do not have a "
@@ -5834,7 +5835,7 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #~ msgstr ""
 #~ "도둑들은 깡패보다 더 교묘합니다. 이들은 당신의 유닛을 둘러싸고 뒤에서 찌르"
 #~ "고자 합니다. 도둑들이 아군 유닛 바로 뒤에 그들의 아군을 두고 공격할 기회"
-#~ "를 주면 안됩니다 — 그때는 공격력이 배가됩니다! 깡패들처럼 도둑들은 당신의 "
+#~ "를 주면 안 됩니다 — 그때는 공격력이 배가됩니다! 깡패들처럼 도둑들은 당신의 "
 #~ "궁사들이 가하는 원격 공격에 취약합니다."
 
 #~ msgid ""

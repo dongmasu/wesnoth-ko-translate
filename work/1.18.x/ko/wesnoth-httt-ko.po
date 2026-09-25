@@ -12,6 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+
 #. [campaign]: id=Heir_To_The_Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:9
 msgid "Heir to the Throne"
@@ -418,7 +419,7 @@ msgstr "좋아요, 꽤 멀리까지 왔네요! 하지만 다음엔 어디로 가
 msgid ""
 "We must travel north, and try to make it to the Isle of Alduin. Hopefully we "
 "will find refuge there."
-msgstr "북쪽으로 가서 알두인(Alduin)섬으로 가 보도록 하지. 그곳에서 피난할 수 있을거다."
+msgstr "북쪽으로 가서 알두인(Alduin) 섬으로 가 보도록 하지. 그곳에서 피난할 수 있을 거다."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:347
@@ -432,7 +433,7 @@ msgid ""
 "The elves will fight. They may even prevail. But I fear things do not bode "
 "well for them. Let us not speak of it now. Onward!"
 msgstr ""
-"엘프들은 싸울거다. 그리고 이길 수도 있지. 하지만 저들에게 있어 좋은 징조가 보"
+"엘프들은 싸울 거다. 그리고 이길 수도 있지. 하지만 저들에게 있어 좋은 징조가 보"
 "이지 않는 점은 걱정이군. 지금은 여기까지만 하지. 가자!"
 
 #. [message]: speaker=Chantal
@@ -668,7 +669,7 @@ msgid ""
 "though taking double damage in return. They are also lawful, meaning they "
 "fight better by day, and worse at night. Horsemen are unmatched on open "
 "land, though elves will serve you better in forests or rugged terrain."
-msgstr "엘프들은 강한 종족이오, 콘라드(Konrad). 우리들이 보통 알고있는 것보다 훨씬 강하지. 하지만 기마병들은 다른 의미에서 강력하다오. 그들은 원격 공격은 하지 못하지만 전투시에 돌격해 들어가 두 배의 피해를 입히지. 대신 받는 피해도 두 배라오. 또한 이들은 주행성이라 낮에 더 잘 싸우고 밤에는 위력이 떨어지오. 엘프들이 숲과 구릉지대에서 당신을 잘 보좌해준다면 기마병들은 개활지에서는 당해낼 자가 없지."
+msgstr "엘프들은 강한 종족이오, 콘라드(Konrad). 우리들이 보통 알고 있는 것보다 훨씬 강하지. 하지만 기마병들은 다른 의미에서 강력하다오. 그들은 원격 공격은 하지 못하지만 전투 시에 돌격해 들어가 두 배의 피해를 입히지. 대신 받는 피해도 두 배라오. 또한 이들은 주행성이라 낮에 더 잘 싸우고 밤에는 위력이 떨어지오. 엘프들이 숲과 구릉지대에서 당신을 잘 보좌해 준다면 기마병들은 개활지에서는 당해낼 자가 없지."
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:212
@@ -1067,7 +1068,7 @@ msgstr "그런데 대장, 어째서 우린 박쥐란 나가들밖에 안쓰나�
 msgid ""
 "Because we need to control the seas and the merfolk, and nagas and bats are "
 "best for doing that!"
-msgstr "우리는 인어와 해역을 통제해야하고, 나가와 박쥐들은 그러기에 제일 적합하니까!"
+msgstr "우리는 바다와 인어들을 통제해야 하고, 나가와 박쥐가 그 일에 가장 적합하니까!"
 
 #. [message]: speaker=Bugg
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:239
@@ -1677,7 +1678,7 @@ msgstr "성검"
 msgid ""
 "I was hiding in this holy place, planning how to defeat the evil undead. Now "
 "with your help, I can destroy them."
-msgstr "나는 이 성스러운 장소에 숨어서 사악한 언데드들을 무찌를 방법을 고심하고 있었소. 여러분의 도움이 있으면 내가 놈들을 무찌를 수 있을거요."
+msgstr "나는 이 성스러운 장소에 숨어서 사악한 언데드들을 무찌를 방법을 고심하고 있었소. 여러분의 도움이 있으면 내가 놈들을 무찌를 수 있을 거요."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:337
@@ -1699,12 +1700,12 @@ msgstr "자카(Xakae)"
 #. [message]: speaker=Xakae
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:382
 msgid "Surprise! Searching for magi, and all I get is these foul humans!"
-msgstr "놀랐지! 마법사놈을 찾았는데 추악한 인간놈들밖에 없군!"
+msgstr "놀랐지! 마법사 놈을 찾았는데 추악한 인간놈들밖에 없군!"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:448
 msgid "Fight on against the undead without me, friends!"
-msgstr "나 없이도 언데드와 싸워주길 바라오, 친구들!"
+msgstr "나 없이도 언데드와 싸워 주길 바라오, 친구들!"
 
 #. [message]: role=Advisor
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:488
@@ -1813,7 +1814,7 @@ msgstr "적의 숫자가 정말로 많습니다. 쉽지 않을 겁니다! 그리
 msgid ""
 "Here come the elves! Our newly forged alliance with the orcs will give us "
 "the power to crush them with ease!"
-msgstr "이쪽으로 엘프들이 온다! 오크와의 새로운 동맹으로 얻은 우리의 힘은 놈들을 쉽게 뭉개버릴 수 있을거다!"
+msgstr "이쪽으로 엘프들이 온다! 오크와의 새로운 동맹으로 얻은 우리의 힘은 놈들을 쉽게 뭉개버릴 수 있을 거다!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Siege_of_Elensefar.cfg:232
@@ -2242,7 +2243,7 @@ msgid ""
 "SE — Fort Tahn"
 msgstr ""
 "북동 — Dan' Tonk\n"
-"남동 — Tahn 요새"
+"남동 — 탄(Tahn) 요새"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Crossroads.cfg:503
@@ -2254,7 +2255,7 @@ msgstr "Dan'Tonk라. 우린 웰딘(Weldyn)에 정말 가까운 곳에 있군요.
 msgid ""
 "We dare not confront Asheviere yet. We must retrieve the Sceptre of Fire and "
 "gather more allies in the north."
-msgstr "아직 아쉐비에레에 직접 맞서려는 생각은 하면 안되네. 우린 화염의 홀을 찾아내고 북방에서 더 많은 아군을 모아야 해."
+msgstr "아직 아쉐비에레에 직접 맞서려는 생각은 하면 안 되네. 우린 화염의 홀을 찾아내고 북방에서 더 많은 아군을 모아야 해."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Crossroads.cfg:518
@@ -2405,7 +2406,7 @@ msgid ""
 "join us, or flee as an exile. There will be a great battle soon, and if you "
 "are on the wrong side of it, we may not have the opportunity to spare your "
 "life a second time."
-msgstr "네 어머니가 한 말은 거짓이다, 꼬마. 넌 이후로 우리 편에 설 것인지, 망명의 길을 택할 것인지 다시 생각해 보라. 곧 큰 싸움이 있을 것이고, 그때 네가 잘못된 편에 선다면 우리가 또 한번 네 목숨을 살려줄 일은 없을 테니까."
+msgstr "네 어머니가 한 말은 거짓이다, 꼬마. 넌 이후로 우리 편에 설 것인지, 망명의 길을 택할 것인지 다시 생각해 보라. 곧 큰 싸움이 있을 것이고, 그때 네가 잘못된 편에 선다면 우리가 또 한 번 네 목숨을 살려줄 일은 없을 테니까."
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/08_The_Princess_of_Wesnoth.cfg:399
@@ -2502,7 +2503,7 @@ msgstr "버틸 수 있는 한 버텨보세!"
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/09_The_Valley_of_Death.cfg:300
 msgid "I have come once again to aid you, friends!"
-msgstr "다시 한번 여러분을 도우러 왔소, 친구들!"
+msgstr "다시 한 번 여러분을 도우러 왔소, 친구들!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/09_The_Valley_of_Death.cfg:304
@@ -2514,7 +2515,7 @@ msgstr "백마법사? 우릴 도우러 왔다고? 그런데 저들이 여긴 왜
 msgid ""
 "That is Moremirmu! He helped us fight the undead in the Isles of the Damned, "
 "let us hope he can help us once more!"
-msgstr "모레미르무(Moremirmu)에요! 저 사람은 저주받은 섬에서 우리가 언데드와 싸우는 걸 도왔죠, 다시 한번 그의 도움을 받을 수 있겠네요!"
+msgstr "모레미르무(Moremirmu)에요! 저 사람은 저주받은 섬에서 우리가 언데드와 싸우는 걸 도왔죠, 다시 한 번 그의 도움을 받을 수 있겠네요!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/09_The_Valley_of_Death.cfg:319
@@ -2745,7 +2746,7 @@ msgstr "북쪽으로 계속 가세. 겨울이 오기 전에 엘렌세파르(Elen
 msgid ""
 "With these gryphon eggs we should be able to breed gryphons that will serve "
 "us. When they are large enough to carry mounts, we can hire gryphon riders!"
-msgstr "이 그리폰 알들로 그리폰들을 키워서 활용할 수 있겠죠. 기병를 태울만큼 크고 나면 그리폰 기병들을 얻을 수 있을거에요!"
+msgstr "이 그리폰 알들로 그리폰들을 키워서 활용할 수 있겠죠. 기병을 태울 만큼 크고 나면 그리폰 기병들을 얻을 수 있을 거예요!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Gryphon_Mountain.cfg:285
@@ -4708,7 +4709,7 @@ msgid ""
 "I can tell where we are. That is the river that is known as Longlier to men, "
 "called Arkan-thoria in my people’s ancient tongue. The home of my people "
 "lies to the east."
-msgstr "우리가 어디에 있는지 알겠소. 저 강은 인간들에게 롱리어(Longlier)로 알려졌고, 우리 민족의 고대 언어로는 아르칸-토리아라고 부르오. 우리 민족의 고향은 동쪽에 있소."
+msgstr "우리가 어디에 있는지 알겠소. 저 강은 인간들에게 롱리어(Longlier)로 알려졌고, 우리 민족의 고대 언어로는 아르칸-토리아(Arkan-thoria)라고 부르오. 우리 민족의 고향은 동쪽에 있소."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:240
@@ -4775,7 +4776,7 @@ msgid ""
 "the home of the North Elves much sooner than by either of the land routes. I "
 "can not promise a perilless journey, but it is an option for you to "
 "consider, my lord."
-msgstr "콘라드(Konrad) 왕자님, 아르칸-토리아를 피할 필요는 없습니다. 우리 인어족이 하류로 안내할 수 있습니다. 우리 선봉대와 함께라면 어떤 적도 물리치고 육로 어느 쪽보다 훨씬 빨리 북부 엘프들의 고향에 도착할 수 있습니다. 위험 없는 여행을 약속할 수는 없지만, 고려할 만한 선택지입니다, 전하."
+msgstr "콘라드(Konrad) 왕자님, 아르칸-토리아(Arkan-thoria)를 피할 필요는 없습니다. 우리 인어족이 하류로 안내할 수 있습니다. 우리 선봉대와 함께라면 어떤 적도 물리치고 육로 어느 쪽보다 훨씬 빨리 북부 엘프들의 고향에 도착할 수 있습니다. 위험 없는 여행을 약속할 수는 없지만, 고려할 만한 선택지입니다, 전하."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_A_Choice_Must_Be_Made.cfg:298
@@ -5244,7 +5245,7 @@ msgstr "부관을 구출하라"
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:154
 msgid "Drakes"
-msgstr "반룡들"
+msgstr "반룡족"
 
 #. [unit]: type=Injured Lieutenant, id=Warven
 #. [unit]: type=Lieutenant, id=Warven
@@ -5571,7 +5572,7 @@ msgstr "그렇다 해도 나는 여전히 그가 처한 불행한 상황에서 �
 msgid ""
 "Very well. If you convince him not to raise his sword against us, the "
 "Lintanir elves shall grant him safe passage."
-msgstr "좋아. 그가 우리에게 검을 들지 않도록 설득한다면 린타니르 엘프들이 안전한 통행을 허락할 것이다."
+msgstr "좋아. 그가 우리에게 검을 들지 않도록 설득한다면 린타니르(Lintanir) 엘프들이 안전한 통행을 허락할 것이다."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:782
@@ -5719,7 +5720,7 @@ msgstr "북부 요정들의 고향"
 msgid ""
 "Konrad must reach the Lintanir Forest to the east and hold that position "
 "until the turn is over"
-msgstr "콘라드(Konrad)는 동쪽의 린타니르 숲에 도착해 턴이 끝날 때까지 그 위치를 지켜야 합니다"
+msgstr "콘라드(Konrad)는 동쪽의 린타니르(Lintanir) 숲에 도착해 턴이 끝날 때까지 그 위치를 지켜야 합니다"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:41
@@ -5764,7 +5765,7 @@ msgid ""
 "At last, friends, we have almost reached the Lintanir Forest, the home of "
 "the North Elves. I was born not far east of here...more years ago than I "
 "care to remember."
-msgstr "드디어 친구들이여, 북부 엘프의 고향인 린타니르 숲에 거의 도착했군. 나는 여기서 동쪽으로 멀지 않은 곳에서 태어났네... 기억하고 싶지 않을 만큼 오래전이지."
+msgstr "드디어 친구들이여, 북부 엘프의 고향인 린타니르(Lintanir) 숲에 거의 도착했군. 나는 여기서 동쪽으로 멀지 않은 곳에서 태어났네... 기억하고 싶지 않을 만큼 오래전이지."
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:382
@@ -5803,7 +5804,7 @@ msgstr "여러분! 드디어 여러분을 찾았습니다."
 msgid ""
 "Greetings, Telerandor, herald of Lintanir! Why have you been searching for "
 "us?"
-msgstr "린타니르의 전령 텔레란도르(Telerandor)여, 반갑소! 왜 우리를 찾고 있었소?"
+msgstr "린타니르(Lintanir)의 전령 텔레란도르(Telerandor)여, 반갑소! 왜 우리를 찾고 있었소?"
 
 #. [message]: speaker=Telerandor
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:433
@@ -5823,7 +5824,7 @@ msgid ""
 "We have sighted a great host to the south, a host of the men of Wesnoth. And "
 "we believe they are looking for you! There is not a moment to lose. You must "
 "make haste, east to Lintanir. Only there will you be safe!"
-msgstr "남쪽에서 거대한 군대를 보았습니다. 웨스노스(Wesnoth)의 인간 군대입니다. 그들이 여러분을 찾고 있다고 생각합니다! 한시도 지체할 수 없습니다. 서둘러 동쪽의 린타니르로 가야 합니다. 그곳에서만 안전할 수 있습니다!"
+msgstr "남쪽에서 거대한 군대를 보았습니다. 웨스노스(Wesnoth)의 인간 군대입니다. 그들이 여러분을 찾고 있다고 생각합니다! 한시도 지체할 수 없습니다. 서둘러 동쪽의 린타니르(Lintanir)로 가야 합니다. 그곳에서만 안전할 수 있습니다!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:448
@@ -5989,7 +5990,7 @@ msgstr "저기 있다! 돌격!"
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:690
 msgid "There you are! You must come quickly east to Lintanir!!"
-msgstr "여기 있었군요! 빨리 동쪽 린타니르로 오셔야 합니다!!"
+msgstr "여기 있었군요! 빨리 동쪽 린타니르(Lintanir)로 오셔야 합니다!!"
 
 #. [message]: speaker=El'rien
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:710
@@ -5997,7 +5998,7 @@ msgid ""
 "Greetings, Elf-friend! Welcome to Emetria, my hold in Lintanir. You must "
 "take shelter here until the battle passes. If you stay with me here for a "
 "little while, we will all be safe."
-msgstr "엘프의 친구여, 반갑소! 린타니르에 있는 나의 요새 에메트리아에 온 것을 환영하오. 전투가 지나갈 때까지 이곳에 피신해야 하오. 여기서 잠시 나와 함께 머무르면 우리 모두 안전할 것이오."
+msgstr "엘프의 친구여, 반갑소! 린타니르(Lintanir)에 있는 나의 요새 에메트리아에 온 것을 환영하오. 전투가 지나갈 때까지 이곳에 피신해야 하오. 여기서 잠시 나와 함께 머무르면 우리 모두 안전할 것이오."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:714
@@ -6169,14 +6170,14 @@ msgstr "칼렌츠(Kalenz) 경! 죄송합니다. 당신을 그 사악한 리자�
 msgid ""
 "Change is coming to the human lands. We rush to Elensiria seeking "
 "assistance, and the perils of the Arkan-thoria presented the quickest route."
-msgstr "인간의 땅에 변화가 다가오고 있습니다. 우리는 도움을 청하려고 엘렌시리아로 서두르고 있으며, 위험한 아르칸-토리아가 가장 빠른 길이었습니다."
+msgstr "인간의 땅에 변화가 다가오고 있습니다. 우리는 도움을 청하려고 엘렌시리아로 서두르고 있으며, 위험한 아르칸-토리아(Arkan-thoria)가 가장 빠른 길이었습니다."
 
 #. [message]: speaker=Bona-Melodia
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:257
 msgid ""
 "Uradredia has already called a meeting of the Council of Lintanir. You must "
 "hurry, for they gather even now."
-msgstr "우라드레디아(Uradredia)가 이미 린타니르 의회를 소집했습니다. 지금도 모이고 있으니 서둘러야 합니다."
+msgstr "우라드레디아(Uradredia)가 이미 린타니르(Lintanir) 의회를 소집했습니다. 지금도 모이고 있으니 서둘러야 합니다."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:262
@@ -6191,21 +6192,21 @@ msgstr "이게 무슨 일이지? 너희 지도자는 어디 있나?"
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:277
 msgid "We were beset by many foul lizardmen. Alas, Bona-Melodia has fallen."
-msgstr "우리는 사악한 리자드맨들에게 포위당했습니다. 아아, 보나-멜로디아가 전사했습니다."
+msgstr "우리는 사악한 리자드맨들에게 포위당했습니다. 아아, 보나-멜로디아(Bona-Melodia)가 전사했습니다."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:282
 msgid ""
 "This bodes ill for Lintanir. We rush to Elensiria on other matters but will "
 "carry word of what has transpired here."
-msgstr "린타니르에 나쁜 일이 생길 징조군. 우리는 다른 일 때문에 엘렌시리아로 서둘러 가지만, 여기서 무슨 일이 있었는지는 전하겠네."
+msgstr "린타니르(Lintanir)에 나쁜 일이 생길 징조군. 우리는 다른 일 때문에 엘렌시리아로 서둘러 가지만, 여기서 무슨 일이 있었는지는 전하겠네."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:287
 msgid ""
 "Lord Uradredia has called a meeting of the Council of Lintanir. Rumor is "
 "there are greater needs than ours."
-msgstr "우라드레디아(Uradredia) 경이 린타니르 의회를 소집했습니다. 우리보다 더 긴급한 일이 있다는 소문입니다."
+msgstr "우라드레디아(Uradredia) 경이 린타니르(Lintanir) 의회를 소집했습니다. 우리보다 더 긴급한 일이 있다는 소문입니다."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:292
@@ -6218,7 +6219,7 @@ msgid ""
 "What is this? Where are the guardians? I see signs of battle everywhere: "
 "saurian footprints, elvish blood. This bodes ill for Lintanir. We must hurry "
 "onward to Elensiria. Quickly, before we, too, are beset."
-msgstr "이게 무슨 일이지? 경비병들은 어디 있나? 곳곳에서 전투의 흔적이 보이는군. 사우리아의 발자국과 엘프의 피다. 린타니르에 나쁜 일이 생길 징조야. 우리도 포위되기 전에 서둘러 엘렌시리아로 가야 해."
+msgstr "이게 무슨 일이지? 경비병들은 어디 있나? 곳곳에서 전투의 흔적이 보이는군. 사우리아의 발자국과 엘프의 피다. 린타니르(Lintanir)에 나쁜 일이 생길 징조야. 우리도 포위되기 전에 서둘러 엘렌시리아로 가야 해."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:351
@@ -7253,7 +7254,7 @@ msgstr "우리가 적군을 격퇴하고 있습니다! 부족이 충분히 싸�
 #. [scenario]: id=24_Battle_for_Wesnoth
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_Battle_for_Wesnoth.cfg:4
 msgid "The Battle for Wesnoth"
-msgstr "웨스노스 전투"
+msgstr "웨스노스(Wesnoth) 전투"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_Battle_for_Wesnoth.cfg:27

@@ -18,6 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+
 #. [attack]: type=impact
 #: data/campaigns/Dead_Water/units/Soldier_King.cfg:30
 #: data/campaigns/Dead_Water/units/Warrior_King.cfg:31
@@ -2353,7 +2354,7 @@ msgstr ""
 "\n"
 "... 빌어먹을! 그 생명체는 불과 수백 걸음 거리에 있었지만, 햇빛이 내 눈을 가렸다! 나는 성가신 놈에게 화살 몇 대를 맞혔지만, 겨우 속도를 늦추는 정도였다. 그래도 나보다 더 빨리 지치는 것 같다. 운이 좋다면, 산에 도착하기 전에 잡을 수 있을 것이다.\n"
 "\n"
-"... 열한번째 날. 언덕에 착륙한 그 생명체를 몰아넣었지만, 내가 생각하지 못했던 셋이 더 있었다. 로크는 좁은 공간에서 사나운 생명체이다. 하나와 싸우는 것도 쉽지 않은 일인데, 넷을 한꺼번에? 두 번째 도끼를 가져온 것이 다행이다. 그렇지 않았다면 그 전투에서 심각한 부상을 입었을 것이다. 지금은 다리에 댄 거즈가 마를 때까지 기다렸다가 나머지 둘을 죽이러 돌아갈 것이다. 아마 그때야 겨우 밥을 먹고 좀 쉴 시간을 찾을 수 있을 것이다.\n"
+"... 열한 번째 날. 언덕에 착륙한 그 생명체를 몰아넣었지만, 내가 생각하지 못했던 셋이 더 있었다. 로크는 좁은 공간에서 사나운 생명체이다. 하나와 싸우는 것도 쉽지 않은 일인데, 넷을 한꺼번에? 두 번째 도끼를 가져온 것이 다행이다. 그렇지 않았다면 그 전투에서 심각한 부상을 입었을 것이다. 지금은 다리에 댄 거즈가 마를 때까지 기다렸다가 나머지 둘을 죽이러 돌아갈 것이다. 아마 그때야 겨우 밥을 먹고 좀 쉴 시간을 찾을 수 있을 것이다.\n"
 "\n"
 "... 21일간의 탐험으로 북부 사막의 거의 절반을 횡단했다는 사실이 나 자신에게도 놀랍다. 대상은 그 여행을 하는 데 거의 3개월이 걸리겠지만, 내 여정의 상황이 다소 변명할 여지가 있었다고 생각한다. 좋은 점은 가는 길에 소금에 절인 로크 고기를 구할 수 있었고, 아이들에게 훌륭한 간식이 될 것이다. 다른 방랑자들을 다시 만나는 것도 좋을 것이다. 내 이야기가 그들에게 그렇게 인상적이지 않을 수도 있지만, 적어도 이전의 와이번과의 만남보다는 낫다...”"
 
@@ -2459,7 +2460,7 @@ msgid ""
 "mountains. They wield axe and hammer with masterful skill, and can hit a "
 "target with a thrown hand axe at several paces. Though slow on their feet, "
 "these dwarves are a testament to the prowess of their kin."
-msgstr "번쩍이는 갑주를 걸친 이 난쟁이들은 산 밑에서 보면 제왕처럼 보인다. 이들은 도끼와 망치를 능란하게 다루며, 몇발짝 앞에 있는 목표물을 손도끼를 던져 맞힐수 있다. 비록 느리지만 이 난쟁이들은 이들 종족의 기량을 보여주는 상징이다."
+msgstr "번쩍이는 갑주를 걸친 이 난쟁이들은 산 밑에서 보면 제왕처럼 보인다. 이들은 도끼와 망치를 능란하게 다루며, 몇발짝 앞에 있는 목표물을 손도끼를 던져 맞힐수 있다. 비록 느리지만 이 난쟁이들은 이들 종족의 기량을 보여 주는 상징이다."
 
 #. [unit_type]: id=Dwarvish Miner, race=dwarf
 #: data/core/units/dwarves/Miner.cfg:4
@@ -2877,7 +2878,7 @@ msgid ""
 msgstr ""
 "요정 귀족 계급의 상속은 요정 사회의 각 거주지마다 다소 차이가 있는 복잡한 과정이다. 일반적으로 요정의 미래 지도자들은 요정 사회의 세 가지 측면, 즉 숲을 지키는 전사와 레인저, 전투를 완전히 멀리하는 평화로운 시민, 그리고 요정 마법 연구를 하는 치유사와 신비주의자들의 집단을 다스리는 임무를 맡는다. 이러한 파벌 간의 차이를 조화시키고 효과적으로 백성을 이끌기 위해서는 상당한 개인적 자질과 모든 종류의 요정에 대한 깊은 통찰력이 필요하다. 이를 위해, 군주는 일반적으로 전통적으로 여성 주술사에게만 가르쳐지는 요정 마법을 어느 정도 배울 수 있는 유일한 남성 요정이다.\n"
 "\n"
-"북부 린타니르 숲과 같은 일부 거주지는 혈통을 통해 귀족 지위를 유지하지만, 강력한 웨스미어(Wesmere) 요정들과 같은 다른 집단은 새로운 세대마다 새로운 군주를 선출한다. 어느 경우든, 귀족의 지위는 절대적인 경우는 드물며, 그들은 무력보다는 외교와 지혜로 이끌 것으로 기대된다."
+"북부 린타니르(Lintanir) 숲과 같은 일부 거주지는 혈통을 통해 귀족 지위를 유지하지만, 강력한 웨스미어(Wesmere) 요정들과 같은 다른 집단은 새로운 세대마다 새로운 군주를 선출한다. 어느 경우든, 귀족의 지위는 절대적인 경우는 드물며, 그들은 무력보다는 외교와 지혜로 이끌 것으로 기대된다."
 
 #. [unit_type]: id=Elvish Marksman, race=elf, gender=male,female
 #: data/core/units/elves/Marksman.cfg:4
@@ -3561,7 +3562,7 @@ msgid ""
 "disadvantage. They relish dancing circles around troops like heavy infantry, "
 "mocking the weight of their full armor."
 msgstr ""
-"펜싱 선수들은 전투시에 대부분의 병사들이 입는 갑옷이야말로 그들의 가장 큰 적"
+"펜싱 선수들은 전투 시에 대부분의 병사들이 입는 갑옷이야말로 그들의 가장 큰 적"
 "이라는 생각을 가진 집단에 속해 있다. 갑옷은 단지 충격을 완화해줄 뿐이지만, 그"
 "것을 피하면 방어자는 아무런 해도 입지 않는다. 어떤 공격도 피해낼 수 있는 믿"
 "을 만한 회피능력은 신체적인 적성을 가진 자들 중에서도 엄격한 훈련을 견뎌낸 이"
@@ -4031,7 +4032,7 @@ msgstr "번개"
 #. [unit_type]: id=Great Mage, race=human, gender=male,female
 #: data/core/units/humans/Mage_Great.cfg:4
 msgid "Great Mage"
-msgstr "큰 마법사"
+msgstr "대마법사"
 
 #. [unit_type]: id=Great Mage, race=human, gender=male,female
 #: data/core/units/humans/Mage_Great.cfg:19
@@ -4062,7 +4063,7 @@ msgstr "다른 마법사들에 비해, 대마법사들은 ‘화염’ 공격에
 #. [female]: gender=female
 #: data/core/units/humans/Mage_Great.cfg:90
 msgid "female^Great Mage"
-msgstr "큰 마법사"
+msgstr "대마법사"
 
 #. [unit_type]: id=Red Mage, race=human, gender=male,female
 #: data/core/units/humans/Mage_Red.cfg:4
@@ -4766,7 +4767,7 @@ msgid ""
 "Despite their frailty, this makes them quite formidable in combat, as they "
 "can call upon the very water about them to smite their enemies."
 msgstr ""
-"어린 여성 인어들 중 많은 수가 그들 종족 특유의 수계 마법을 접하게 된다. 이 마법이 주는 놀라운 능력은 다른 종족이 흉내낼 수 없는 것으로서, 이들의 요정적인 측면을 보여주는 징표다.\n"
+"어린 여성 인어들 중 많은 수가 그들 종족 특유의 수계 마법을 접하게 된다. 이 마법이 주는 놀라운 능력은 다른 종족이 흉내낼 수 없는 것으로서, 이들의 요정적인 측면을 보여 주는 징표다.\n"
 "\n"
 "이들은 연약함에도 불구하고 물로 적을 삼켜 버리게 하는 이 능력덕에 전투에서 어마어마한 능력을 발휘한다."
 
@@ -5780,7 +5781,7 @@ msgid ""
 "of war. This leads to folk wisdom that the dark birds are agents of the "
 "supernatural forces associated with conflict. The unusual abilities "
 "displayed by some have only supported this notion."
-msgstr "까마귀는 전쟁의 결과인 쓰레기와 시체를 먹기 위해 군대를 따라다닙니다. 이로 인해 검은 새들이 분쟁과 관련된 초자연적인 힘의 사자라는 민간의 지혜가 생겨났습니다. 일부가 보여주는 특이한 능력은 이러한 생각을 뒷받침할 뿐입니다."
+msgstr "까마귀는 전쟁의 결과인 쓰레기와 시체를 먹기 위해 군대를 따라다닙니다. 이로 인해 검은 새들이 분쟁과 관련된 초자연적인 힘의 사자라는 민간의 지혜가 생겨났습니다. 일부가 보여 주는 특이한 능력은 이러한 생각을 뒷받침할 뿐입니다."
 
 #. [unit_type]: id=Roc, race=monster
 #: data/core/units/monsters/Roc.cfg:4
@@ -6859,7 +6860,7 @@ msgid ""
 "generations. Their feats of strength and cunning are the source of most "
 "tales about trolls, and to see the stories made flesh does nothing to "
 "diminish their grandeur."
-msgstr "특별한 힘을 가지고 태어난 트롤이 연륜과 지혜를 갖게 될 경우, 그는 몇 세대에 걸쳐 기록될만한 대단한 괴물이 된다. 그들의 힘과 교활함은 트롤에 대한 대부분의 이야기에서 써먹는 소재이며, 그들의 실제 역사 또한 그 위엄에 걸맞는 것이다."
+msgstr "특별한 힘을 가지고 태어난 트롤이 연륜과 지혜를 갖게 될 경우, 그는 몇 세대에 걸쳐 기록될만한 대단한 괴물이 된다. 그들의 힘과 교활함은 트롤에 대한 대부분의 이야기에서 써먹는 소재이며, 그들의 실제 역사 또한 그 위엄에 걸맞은 것이다."
 
 #. [unit_type]: id=Troll Hero, race=troll
 #: data/core/units/trolls/Hero.cfg:4
@@ -6905,7 +6906,7 @@ msgid ""
 "above a man, and, even unarmed, would be a great threat in combat. The large "
 "clubs typically favored in fighting act as extensions of their arms, used "
 "for the same purpose of mauling their prey into submission."
-msgstr "트롤들은 오랜 세월동안 인류와 드워프 종족에게 골칫거리였다. 이 생물들의 기원과 그들의 비정상적인 생명력과 힘에서 오는 그 강력한 무력은 현자들조차도 여전히 이해하지 못하는 것들이다. 완전히 자란 트롤은 인간 성인보다 월등히 크며, 무장하지 않은 맨몸으로도 전투에서 크나큰 위협이 된다. 전투 상황에서 그들의 팔의 연장으로서 흔히 쓰이는 것은 거대한 곤봉으로, 그들이 먹이를 때려서 제압할 때도 동일한 목적으로 사용된다."
+msgstr "트롤들은 오랜 세월 동안 인류와 드워프 종족에게 골칫거리였다. 이 생물들의 기원과 그들의 비정상적인 생명력과 힘에서 오는 그 강력한 무력은 현자들조차도 여전히 이해하지 못하는 것들이다. 완전히 자란 트롤은 인간 성인보다 월등히 크며, 무장하지 않은 맨몸으로도 전투에서 크나큰 위협이 된다. 전투 상황에서 그들의 팔의 연장으로서 흔히 쓰이는 것은 거대한 곤봉으로, 그들이 먹이를 때려서 제압할 때도 동일한 목적으로 사용된다."
 
 #. [unit_type]: id=Troll Shaman, race=troll
 #: data/core/units/trolls/Troll_Shaman.cfg:4
@@ -7494,7 +7495,7 @@ msgid ""
 "them can only speculate on their past. Such questions aside, a Revenant is a "
 "powerful tool in combat: a fearless warrior that feels no pain and will "
 "fight to the bitter end."
-msgstr "또 한번의 전투를 위해 거짓 생명을 부여받은 이 돌아온 자들로 알려진 피조물들은, 살아 있을 때 분명히 대단한 전사들이었을 것이다. 하지만 그때의 기억은 언데드로서의 그들에게는 거의 완전히 잊혀졌다. 그들을 일으켜 세운 마법사들조차도 그들의 과거를 짐작만 할 수 있을 뿐이다. 그런 의문들을 차치하더라도, 돌아온 자들은 강력한 전투 도구이다. 고통도 느끼지 않고 끝장날 때까지 싸우는 공포심 없는 전사이기 때문이다."
+msgstr "또 한 번의 전투를 위해 거짓 생명을 부여받은 이 돌아온 자들로 알려진 피조물들은, 살아 있을 때 분명히 대단한 전사들이었을 것이다. 하지만 그때의 기억은 언데드로서의 그들에게는 거의 완전히 잊혀졌다. 그들을 일으켜 세운 마법사들조차도 그들의 과거를 짐작만 할 수 있을 뿐이다. 그런 의문들을 차치하더라도, 돌아온 자들은 강력한 전투 도구이다. 고통도 느끼지 않고 끝장날 때까지 싸우는 공포심 없는 전사이기 때문이다."
 
 #. [unit_type]: id=Skeleton, race=undead
 #: data/core/units/undead/Skeleton.cfg:4
@@ -7525,7 +7526,7 @@ msgid ""
 "is already dead."
 msgstr ""
 "해골 궁사는 보통 한 묶음이 되는 '해골 전사'와 거의 차이가 없다. 그것은 자연"
-"을 역행하는 죄악으로, 다시 한번 싸우기 위해 죽음으로부터 일으켜진 전사이다. "
+"을 역행하는 죄악으로, 다시 한 번 싸우기 위해 죽음으로부터 일으켜진 전사이다. "
 "그들의 주인의 수족으로서 이 병사들은 그들에게 주어진 임무를 완수하기 위해서"
 "는 무엇이든 할 것이다. 이미 죽은 자에게 죽음이 두려울 리는 없으니까."
 
@@ -7591,7 +7592,7 @@ msgid ""
 "\n"
 "That is a question which is easily answered by a necromancer."
 msgstr ""
-"세상에 빛이 생기고 알 수 없는 것들에 형태를 부여하였을때, 공포는 어둠 속으로 쫓겨들어갔다. 그때로부터 세상의 그림자들은 인간의 공포를 담게 되었지만 아무도 그 이유는 모른다.\n"
+"세상에 빛이 생기고 알 수 없는 것들에 형태를 부여하였을 때, 공포는 어둠 속으로 쫓겨들어갔다. 그때로부터 세상의 그림자들은 인간의 공포를 담게 되었지만 아무도 그 이유는 모른다.\n"
 "\n"
 "이런 질문은 강령술사라면 쉽게 대답해 줄 수 있는 것이다."
 
@@ -7934,7 +7935,7 @@ msgstr "이 나모들은 덩굴과 기는 식물 같은 숲의 식물을 조종�
 #~ msgstr ""
 #~ "엘프들 사이에서는 날아오는 화살을 쏘아 맞힌 자에 대한 전설이 전해온다. 이"
 #~ "런 이야기가 진지하게 받아들여진다는 것은 그 자체로 엘프들의 기술이 어느 정"
-#~ "도인가를 보여주는 징표가 된다. 엘프들의 명사수들은 정말 말 그대로 궁술의 "
+#~ "도인가를 보여 주는 징표가 된다. 엘프들의 명사수들은 정말 말 그대로 궁술의 "
 #~ "대가들이다."
 
 #~ msgid ""

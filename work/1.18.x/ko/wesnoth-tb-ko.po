@@ -12,6 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+
 #. [campaign]: id=Two_Brothers
 #: data/campaigns/Two_Brothers/_main.cfg:13
 msgid "A Tale of Two Brothers"
@@ -60,7 +61,7 @@ msgstr ""
 #: data/campaigns/Two_Brothers/_main.cfg:23
 #| msgid "(Novice level, 4 scenarios.)"
 msgid "(Novice level, 4 scenarios.)"
-msgstr "(초보자 수준, 4 개 시나리오.)"
+msgstr "(초보자 수준, 시나리오 4개.)"
 
 #. [about]
 #: data/campaigns/Two_Brothers/_main.cfg:30
@@ -199,7 +200,7 @@ msgstr ""
 "\n"
 "이 ‘모르닥(Mordak)’을 직접 상대할 수만 있다면! 내 마법이 놈의 마법보다 강할지도 모른다. 하지만 놈은 언덕에 숨어 부하들의 철통같은 호위를 받고 있고, 나는 겁에 질린 농민들을 모아 칼과 몽둥이로 놈의 수하들과 싸우게 하고 있다.\n"
 "\n"
-"형이 필요하다. 형은 언제나 나보다 전투에 밝았다. 하지만 토엔 캐릭(Toen Caric)에서 그 끔찍한 일을 겪은 뒤로 우리는 말 한마디 나누지 않았다. 나를 위해 오지는 않더라도, 절박한 위기에 처한 우리 마을을 돕기 위해서는 돌아와 줄지도 모른다."
+"형이 필요하다. 형은 언제나 나보다 전투에 밝았다. 하지만 토엔 카리크(Toen Caric)에서 그 끔찍한 일을 겪은 뒤로 우리는 말 한마디 나누지 않았다. 나를 위해 오지는 않더라도, 절박한 위기에 처한 우리 마을을 돕기 위해서는 돌아와 줄지도 모른다."
 
 #. [part]
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:81
@@ -306,7 +307,7 @@ msgstr "노상강도를 미끼로 사용하여 충성스러운 유닛을 보호�
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:192
 msgid "Greetings, brother, and welcome home."
-msgstr "반갑소, 형님. 고향에 온걸 환영하오."
+msgstr "반갑소, 형님. 돌아오셨소."
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:197
@@ -316,7 +317,7 @@ msgstr "반갑군."
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:202
 msgid "Is that all, Arvith? I understand, but..."
-msgstr "이게 다요? 형님 마음이해는 하지만, 그래도..."
+msgstr "이게 다요? 형님 마음은 이해하지만, 그래도..."
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:207
@@ -349,7 +350,7 @@ msgstr "땅과 대기의 흐름 속에 숨겨진 모르닥(Mordak)의 사악한 
 msgid ""
 "All right. I will do this for the village. Can you keep the mage off our "
 "backs?"
-msgstr "알았다. 우리 마을을 위해서 이 일을 맡아주마. 그 마법사놈이 우리 뒤를 치지 않도록 막아줄 수 있느냐?"
+msgstr "알았다. 우리 마을을 위해서 이 일을 맡아주마. 그 마법사 놈이 우리 뒤를 치지 않도록 막아줄 수 있느냐?"
 
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:227
@@ -358,7 +359,7 @@ msgid ""
 "you demonstrate against him and kill his creatures, I will try to defeat "
 "Mordak himself with magic at an unguarded moment. You shall be the right "
 "hand, I the left... aye, brother?"
-msgstr "내가 제일 솜씨좋은 정찰꾼과 나무꾼들 몇을 동원해서 은밀히 가보겠소. 형님이 놈을 상대하며 그의 피조물들을 처치하는 동안에, 내가 모르닥(Mordak)이 보호받지 못한 틈을 타서 마법으로 놈을 처치해 보겠소. 형님이 오른팔이 되고, 내가 왼팔이 되고... 괜찮죠, 형님?"
+msgstr "내가 솜씨 좋은 정찰꾼과 나무꾼 몇 명을 데리고 몰래 가 보겠소. 형님이 놈과 맞서 피조물들을 처치하는 동안, 놈의 경계가 느슨해진 틈을 타 내가 모르닥(Mordak)을 마법으로 쓰러뜨리겠소. 형님이 오른팔이 되고, 내가 왼팔이 되는 거요... 괜찮겠소, 형님?"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:232
@@ -397,12 +398,12 @@ msgstr "아악!"
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:281
 msgid "Good work, men! But what has become of my brother?"
-msgstr "잘했다, 제군들! 근데 아우놈은 어찌된거지?"
+msgstr "잘했다, 제군들! 그런데 내 아우는 어떻게 된 거지?"
 
 #. [message]: speaker=unit
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:286
 msgid "Worried about him, are you? E-he-he... hergh... gaargh..."
-msgstr "그를 걱정하는건가, 너? 에-헤-헤..허윽...그으윽..."
+msgstr "그가 걱정되나, 그렇지? 에-헤-헤... 허윽... 그으윽..."
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:296
@@ -438,7 +439,7 @@ msgstr "내 아우가, 납치됐다고? 내가 널 실망시켰구나, 바란(Ba
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:370
 msgid "I hear these creatures are nigh-immune to our weapons, let us see!"
-msgstr "이 피조물들에겐 우리 무기가 거의 안 통한다던데, 한번 볼까!"
+msgstr "이 피조물들에겐 우리 무기가 거의 안 통한다던데, 한 번 볼까!"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:386
@@ -453,7 +454,7 @@ msgstr "추격"
 #. [part]
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:27
 msgid "Arvith and his band rode north in search of his missing brother."
-msgstr "아르비쓰(Arvith)의 무리는 그의 잃어버린 아우를 찾아 북쪽으로 행군했다."
+msgstr "아르비쓰(Arvith)와 그의 부대는 실종된 아우를 찾아 북쪽으로 말을 달렸다."
 
 #. [part]
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:34
@@ -526,7 +527,7 @@ msgstr ""
 #. [side]: type=Elvish Rider, id=Nil-Galion
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:88
 msgid "Elves"
-msgstr "엘프들"
+msgstr "엘프족"
 
 #. [side]: type=Elvish Rider, id=Nil-Galion
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:93
@@ -633,7 +634,7 @@ msgid ""
 msgstr ""
 "사흘 전 싸움 소리는 들었지만, 포로가 우리 곁을 지나갈 때 풍긴 지독한 죽음의 악취는 분명했소. 그 포로가 정말 그대의 아우라면, 그 역시 강령술사인 셈이오. 그대가 알던 아우의 모습만 기억하게. 그리고 그 포로는 그대가 바라는 만큼 끔찍한 복수를 당할 운명임을 알아 두시오.\n"
 "\n"
-"그게 어느 쪽이든, 당신이 우리 숲에 침입해도 아무 것도 얻지 못할 것이다. 이제 더 이상 다가가지마라, 그러면 우리 땅을 지킬 것이다."
+"그게 어느 쪽이든, 그대들이 우리 숲을 침범해도 얻을 것은 없을 것이오. 더는 나아가지 마시오. 우리는 우리 땅을 지킬 것이오."
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:399
@@ -651,7 +652,7 @@ msgid ""
 "I am glad at least that we will not have to face ghosts. But those elves "
 "will have us at a disadvantage; our horses will not maneuver well in the "
 "trees."
-msgstr "최소한 유령을 마주치진 않아도 되어서 다행이군요. 하지만 저 엘프들은 우릴 불리한 상황에 몰아넣을 수 있습니다. 우리 말들은 숲 속에서는 움직이는것이 쉽지 않습니다."
+msgstr "최소한 유령을 마주치지 않아도 돼서 다행이군요. 하지만 저 엘프들 때문에 불리한 상황에 놓일 수 있습니다. 우리 말은 숲속에서 제대로 움직이지 못하니까요."
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:409
@@ -659,7 +660,7 @@ msgid ""
 "Bah, just stay on the paths; our spearmen and bowmen can fight in the deeper "
 "woods. We have faced and won through greater perils than those amateurs can "
 "offer."
-msgstr "하, 그저 길만 고수하면 된다. 우리 창병과 궁병들은 깊은 숲속에서도 싸울 수 있다. 우린 저런 풋내기들보다도 더한 위험도 마주하고 헤쳐나왔지 않은가."
+msgstr "하, 길만 따라가면 된다. 우리 창병과 궁병은 깊은 숲에서도 싸울 수 있다. 우린 저 풋내기들이 줄 수 있는 위험보다 훨씬 큰 위험을 겪고도 이겨 냈지 않은가."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:450
@@ -700,7 +701,7 @@ msgid ""
 "Hah! You have captured me, but it will avail you nothing. I sent your "
 "precious brother the mage north with half my men a day since; he will be "
 "safely locked away in our master’s dungeons by now."
-msgstr "하아! 당신들은 날 잡았지만, 그걸로 달라지는건 없어. 내가 당신의 소중한 마법사 동생을 내 부하의 절반과 같이 북쪽으로 보낸지 벌써 하루가 지났거든. 그는 이제 주인님의 던전에서 안전하게 감금되어 있을거요."
+msgstr "하아! 당신들은 날 잡았지만, 그걸로 달라지는 건 없어. 내가 당신의 소중한 마법사 동생을 내 부하의 절반과 같이 북쪽으로 보낸 지 벌써 하루가 지났거든. 그는 이제 주인님의 던전에서 안전하게 감금되어 있을 거요."
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:561
@@ -764,14 +765,14 @@ msgstr "북동쪽으로 3일쯤 말을 달리면 빈 성이 있소. 경비병들
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:588
 msgid "Bind him and take him with us. If he has played us false, he will die."
-msgstr "이놈을 묶어서 데려간다. 놈이 우릴 거짓으로 놀린거라면, 죽여버릴 것이다."
+msgstr "이놈을 묶어 데려간다. 우리를 속였다면 죽일 것이다."
 
 #. [message]: role=Mercenary
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:602
 msgid ""
 "Captain, what are we riding into? I thought you wanted nothing to do with "
 "Baran any more, not since Toen Caric."
-msgstr "대장, 어째서 위험을 감수하는 겁니까? 토엔 캐릭(Toen Caric) 이후로는 바란(Baran)에게 아무것도 바라지 않을 거라 생각했습니다."
+msgstr "대장, 어째서 위험을 감수하는 겁니까? 토엔 카리크(Toen Caric) 이후로는 바란(Baran)에게 아무것도 바라지 않을 거라 생각했습니다."
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:607
@@ -1206,7 +1207,7 @@ msgstr "아우를 구하려면 내가 앞에서 부대를 잘 받쳐주어야겠
 #. [message]: speaker=unit
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:695
 msgid "Your hand or Tairach’s, death is still death... (argh)"
-msgstr "네놈들 손에 죽든 타이라크(Tairach)의 손에 죽든, 죽는건 죽는거지... (악)"
+msgstr "네놈들 손에 죽든 타이라크(Tairach)의 손에 죽든, 죽는 건 죽는 거지... (악)"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:705
@@ -1223,12 +1224,12 @@ msgstr "로브 안에 열쇠가 있습니다."
 msgid ""
 "That may well be the key to the cell they’re holding Baran in! I will take "
 "it."
-msgstr "분명 그게 바란(Baran)을 가둔 감방 열쇠일거다! 내가 갖지."
+msgstr "분명 그게 바란(Baran)을 가둔 감방 열쇠일 거다! 내가 가지지."
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:748
 msgid "It may be important, I best take it."
-msgstr "중요한 열쇠일 수도 있어요. 내가 가지고 가는게 좋겠어요."
+msgstr "중요한 열쇠일 수도 있소. 내가 가져가는 게 좋겠소."
 
 #. [message]: speaker=unit
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:766
@@ -1242,17 +1243,17 @@ msgid ""
 "permanent night), except for illuminated hexes adjacent to lit stone walls "
 "(neutral time of day). Place your units carefully, as your troops will be "
 "weaker and enemy units stronger."
-msgstr "이 성은 불이 켜진 돌담에 인접한 조명이 켜진 육각형(하루 중 중립 시간)을 제외하고는 (항상 밤에 해당하는) 하루중 일정한 <i>혼돈스러운</i> 시간 아래에 있습니다. 당신의 병력은 약해지고 적 유닛이가 강해지므로, 유닛을 신중하게 배치하십시오."
+msgstr "이 성은 불이 켜진 돌담에 인접한 밝은 육각형(하루 중 중립 시간)을 제외하면 항상 밤과 같은 <i>혼돈스러운</i> 시간대입니다. 아군은 약해지고 적 유닛은 강해지므로 유닛을 신중하게 배치하십시오."
 
 #. [message]: speaker=unit
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:792
 msgid "Look what I have found in here! I can count a hundred pieces of gold."
-msgstr "내가 뭘 찾았나 보라구! 100 골드야."
+msgstr "내가 여기서 뭘 찾았는지 보라고! 금화 100개야."
 
 #. [message]: speaker=unit
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:806
 msgid "Look what I have found in here! I can count fifty pieces of gold."
-msgstr "내가 뭘 찾았나 보라세요! 50 골드입니다."
+msgstr "내가 여기서 뭘 찾았는지 보세요! 금화 50개예요."
 
 #. [message]: speaker=unit
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:845
@@ -1281,7 +1282,7 @@ msgid ""
 "The accursed dark sorcerer Rotharik has imprisoned me behind this magically "
 "enhanced iron gate. It can only be opened with the correct key. You must get "
 "it from him to free me."
-msgstr "빌어먹을 흑마법사 로타리크(Rotharik)가 날 이 마법의 강화문 안에 가뒀소. 제대로 된 키가 있어야만 열 수 있소. 날 풀어주려면 로타리크(Rotharik)에게서 그걸 가져와야 하오."
+msgstr "빌어먹을 흑마법사 로타리크(Rotharik)가 나를 마법으로 강화된 철문 안에 가뒀소. 맞는 열쇠가 있어야만 열 수 있소. 나를 풀어 주려면 로타리크(Rotharik)에게서 그 열쇠를 가져와야 하오."
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:886
@@ -1295,24 +1296,24 @@ msgstr "나는 이미 흑마법사를 만나 쓰러뜨렸다. 이것이 네가 �
 msgid ""
 "Yes, it is. Come, unlock this cell door, and let us depart this place, "
 "brother!"
-msgstr "응, 맞소. 어서, 이 감방 문을 열고 여길 떠납시다, 형님!"
+msgstr "그렇소. 어서 이 감방 문을 열고 여기를 떠납시다, 형님!"
 
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:944
 msgid "Thank you for saving me. I... was not certain you would come."
-msgstr "구해줘서 고맙소. 나는... 형님이 올거라는 기대는 별로 하지 않고 있었소."
+msgstr "구해 줘서 고맙소. 나는... 형님이 올 거라고는 크게 기대하지 않았소."
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:949
 msgid "Have you no faith in your brother, Baran?"
-msgstr "니놈 형도 못 믿는것이냐, 바란(Baran)?"
+msgstr "바란(Baran), 네 형을 믿지 못한 것이냐?"
 
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:954
 msgid ""
 "It’s not that. Perhaps I deserved to rot here. I failed you. I failed you "
 "again."
-msgstr "그런 얘기가 아니오. 어쩌면 난 마땅히 여기서 썩어가야만 했는지 모르죠. 난 형님을 실망시켰소. 다시 한번 말이오."
+msgstr "그런 얘기가 아니오. 어쩌면 난 마땅히 여기서 썩어가야만 했는지 모르죠. 난 형님을 실망시켰소. 다시 한 번 말이오."
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:959
@@ -1403,7 +1404,7 @@ msgstr ""
 "웨스노스력 363년 5월 27일\n"
 "마그레(Maghre)의 바란(Baran)의 일기에서 발췌.\n"
 "\n"
-"마음은 한결 편해졌지만, 생각은 자꾸 토엔 캐릭(Toen Caric)으로 돌아간다. 우리는 큰 희생 없이 오크들을 물리칠 수 있었다. 내가 망치지만 않았다면 아르비쓰(Arvith) 형님이 세운 협공 작전으로 틀림없이 승리했을 것이다. 부하들을 뒤에 두고 혼자 나선 것은 무모했다. 적장을 다치게 해 전장에서 몰아냈지만, 얻은 것보다 치른 대가가 훨씬 컸다. 내가 지휘하던 이들과 함께 남았다면 그들을 살릴 수 있었을 것이다.\n"
+"마음은 한결 편해졌지만, 생각은 자꾸 토엔 카리크(Toen Caric)로 돌아간다. 우리는 큰 희생 없이 오크들을 물리칠 수 있었다. 내가 망치지만 않았다면 아르비쓰(Arvith) 형님이 세운 협공 작전으로 틀림없이 승리했을 것이다. 부하들을 뒤에 두고 혼자 나선 것은 무모했다. 적장을 다치게 해 전장에서 몰아냈지만, 얻은 것보다 치른 대가가 훨씬 컸다. 내가 지휘하던 이들과 함께 남았다면 그들을 살릴 수 있었을 것이다.\n"
 "\n"
 "그들의 죽음을 두고 아르비쓰(Arvith) 형님이 분노한 것을 탓할 수는 없다. 내가 저지른 잘못을 되돌릴 수도 없다. 그래도 시간이 어느 정도는 상처를 아물게 한 모양이다. 우리는 다시 형제로서 마을로 돌아간다.\n"
 "\n"
@@ -1454,7 +1455,7 @@ msgstr "전군! 전투 준비!"
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:186
 msgid "We should find Reeve Hoban. Maybe he knows what is going on here."
-msgstr "행정관 호반(Hoban)을 찾아야 합니다. 아마 그가 이게 무슨 일인지 알고 있을거요."
+msgstr "행정관 호반(Hoban)을 찾아야 합니다. 아마 그가 이게 무슨 일인지 알고 있을 거요."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:201
@@ -1474,7 +1475,7 @@ msgstr "그래, 어디서라도 저 얼굴은 알아보겠어. 특히 네가 저
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:216
 msgid "The warlord from Toen Caric."
-msgstr "토엔 캐릭(Toen Caric)의 장군."
+msgstr "토엔 카리크(Toen Caric)의 장군."
 
 #. [message]: speaker=Tairach
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:221
@@ -1542,7 +1543,7 @@ msgstr "오늘은 내 얼굴을 훼손한 대가를 톡톡히 치르게 될 것�
 msgid ""
 "I have already paid with the lives of my men at Toen Caric. It is time I "
 "righted that mistake and finished this once and for all."
-msgstr "이미 토엔 캐릭(Toen Caric)에서 내 부하들의 목숨을 대가로 치렀다. 이제 그 실수를 바로잡고 모든 것을 끝내겠다."
+msgstr "이미 토엔 카리크(Toen Caric)에서 내 부하들의 목숨을 대가로 치렀다. 이제 그 실수를 바로잡고 모든 것을 끝내겠다."
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:355
@@ -1681,7 +1682,7 @@ msgstr "실마리:"
 #~ "a lord of their armies."
 #~ msgstr ""
 #~ "어리석은 인간, 넌 나를 죽였지만 언데드를 제 시간에 따라잡진 못할 것이다. "
-#~ "난 나의 계약을 완수했으니 곧 다시 일으켜져 그들의 군대의 군주가 될것이야."
+#~ "난 나의 계약을 완수했으니 곧 다시 일으켜져 그들의 군대의 군주가 될 것이야."
 
 #~ msgid "$first_password_1|!"
 #~ msgstr "$first_password_1|!"
@@ -1765,7 +1766,7 @@ msgstr "실마리:"
 #~ msgid ""
 #~ "Heedless of those rumors, Arne followed them. His only worry was that his "
 #~ "horsemen would be at disadvantage if attacked in the forest."
-#~ msgstr "그런 소문들에는 신경쓰지 않고, 아른(Arne)는 그들을 쫓았다. 그의 걱정은 오직 숲에서 공격받을 경우 그의 기병들이 불리할 것이라는 점 뿐이었다."
+#~ msgstr "그런 소문들에는 신경 쓰지 않고, 아른(Arne)는 그들을 쫓았다. 그의 걱정은 오직 숲에서 공격받을 경우 그의 기병들이 불리할 것이라는 점 뿐이었다."
 
 #~ msgid "Sounds of a scuffle were heard from the forest."
 #~ msgstr "숲 속에서 실랑이를 벌이는 소리가 들려온다."
@@ -1796,7 +1797,7 @@ msgstr "실마리:"
 #~ "It took years to rebuild the village and restore the surrounding farms. "
 #~ "The people of Maghre had to work very hard, but felt better knowing "
 #~ "Arne’s men would be their firm allies in troubled times."
-#~ msgstr "마을을 재건하고 근방의 농장을 수복하는데는 수년이 걸렸다. 마그레(Maghre)의 사람들은 힘들게 일해야 했지만, 아른(Arne)와 부하들이 어려운 시기에 그들의 확고한 맹우라는 사실을 알고 있었으므로 좀더 마음이 놓였다."
+#~ msgstr "마을을 재건하고 근방의 농장을 수복하는데는 수년이 걸렸다. 마그레(Maghre)의 사람들은 힘들게 일해야 했지만, 아른(Arne)와 부하들이 어려운 시기에 그들의 확고한 맹우라는 사실을 알고 있었으므로 좀 더 마음이 놓였다."
 
 #~ msgid ""
 #~ "Arne and his men left the village assured that it would be well guided by "

@@ -12,6 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+
 #. [campaign]: id=Descent_into_Darkness
 #. [achievement_group]
 #. [scenario]: id=09_Descent_into_Darkness
@@ -65,12 +66,13 @@ msgid ""
 "sacrificing his own soul in the process.\n"
 "\n"
 msgstr ""
-"북부 국경지대 근처 파르틴(Parthyn) 마을은 매년 인근 오크 부족의 습격을 받는다. 떠돌이 마법사인 말린 케샤르(Malin Keshar)는 자기 고향을 지키고 오크들에게 복수하기 위해 수단과 방법을 가리지 않으며, 그 과정에서 그의 영혼조차 희생할 결의를 두고 있다.\n"
+"북부 국경 마을인 파르틴(Parthyn)은 해마다 인근 오크 부족의 습격을 받습니다. 추방된 마법사 말린 케샤르(Malin Keshar)는 그 과정에서 자신의 영혼을 희생하게 되더라도 어떤 수단을 써서라도 고향을 지키고 오크에게 복수하려 합니다.\n"
+"\n"
 
 #. [campaign]: id=Descent_into_Darkness
 #: data/campaigns/Descent_Into_Darkness/_main.cfg:28
 msgid "(Intermediate level, 10 scenarios.)"
-msgstr "(중급자 수준, 10 개 시나리오.)"
+msgstr "(중급 난이도, 10개 시나리오.)"
 
 #. [about]
 #: data/campaigns/Descent_Into_Darkness/_main.cfg:31
@@ -193,7 +195,7 @@ msgid ""
 "hills to ravage the settlements at the frontier. Every year, Malin’s father "
 "led the townsfolk to repel the raids and force the orcs to retreat back to "
 "the north."
-msgstr "말린 케샤르(Malin Keshar)는 할드릭(Haldric) 4세의 죽고 10년 뒤에 태어났다. 그는 북부 국경인 파르틴(Parthyn) 마을 자랐으며, 그 도시 남작의 둘째 장남으로 태어났다. 매년 여름, 이맘때쯤 높은 산길과 언덕길에 눈이 녹을 즈음, 오크들은 북쪽 산에서 내려와 국경 근처 도시들을 약탈했다. 매년 말린의 아버지는 마을 주민을 이끌어 습격을 방어하게 했다. 그리고 반격을 하여 오크들을 북쪽으로 후퇴시켰다."
+msgstr "말린 케샤르(Malin Keshar)는 할드릭(Haldric) 4세가 죽은 지 10년 뒤에 태어났다. 그는 북부 국경 도시 파르틴(Parthyn)에서 자랐으며, 그 도시 남작의 둘째 아이이자 장남이었다. 매년 여름, 산길과 높은 고갯길에서 겨울의 눈이 녹을 무렵이면 오크들이 북쪽 언덕에서 내려와 변경의 정착지를 약탈했다. 매년 말린의 아버지는 마을 사람들을 이끌고 습격을 막아 오크들을 북쪽으로 물러나게 했다."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:40
@@ -543,7 +545,7 @@ msgid ""
 "Aye, better that than ta even dabble in dark magic. We woulda rebuilt this "
 "place like always. Even if I died, ’least it woulda been with dignity. Too "
 "bad tha mages didn’t teach ya more sense."
-msgstr "그래, 암흑 마법을 조금이라도 사용하는 것보다는 낫다. 우리는 항상 그랬듯이 이 곳을 재건했을 것이다. 내가 죽었더라도, 적어도 존엄하게 죽었을 것이다. 마법사들이 네게 더 많은 분별력을 가르치지 못한 게 안타깝군."
+msgstr "그래, 암흑 마법을 조금이라도 사용하는 것보다는 낫다. 우리는 항상 그랬듯이 이곳을 재건했을 것이다. 내가 죽었더라도, 적어도 존엄하게 죽었을 것이다. 마법사들이 네게 더 많은 분별력을 가르치지 못한 게 안타깝군."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:539
@@ -1077,7 +1079,7 @@ msgid ""
 "perhaps it would be best if we... went over it once again. Other than for "
 "ghouls, flesh and blood are useless for undead creatures. First, let out the "
 "blood and innards and dispose of them."
-msgstr "좋습니다... 전에 해골을 일으키는 방법을 이미 보여줬지만, 다시 한번 복습하는 것이 좋을 것 같습니다. 구울을 제외하고는 살과 피는 언데드 생물에게 쓸모가 없습니다. 먼저 피와 내장을 빼내서 처리하십시오."
+msgstr "좋습니다... 전에 해골을 일으키는 방법을 이미 보여줬지만, 다시 한 번 복습하는 것이 좋을 것 같습니다. 구울을 제외하고는 살과 피는 언데드 생물에게 쓸모가 없습니다. 먼저 피와 내장을 빼내서 처리하십시오."
 
 #. [message]: speaker=Malin Keshar
 #. In the sense of "Understood, I will do that", not "very good".
@@ -1213,7 +1215,7 @@ msgstr "... 당신 말이 맞는 것 같군요."
 msgid ""
 "It looks like there is something mired in the mud over there. I should have "
 "a look."
-msgstr "저쪽 진흙 속에 뭔가 박혀 있는 것 같습니다. 한번 봐야겠습니다."
+msgstr "저쪽 진흙 속에 뭔가 박혀 있는 것 같습니다. 한 번 봐야겠습니다."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:913
@@ -1800,7 +1802,7 @@ msgid ""
 "orcs pursue the two necromancers east toward the mouth of the river humans "
 "call the Longlier and elves call the Arkan-thoria, where they manage to "
 "surround the humans and force a fight."
-msgstr "말린(Malin)과 다켄 볼크(Darken Volk)가 오크에 대한 습격을 계속하면서, 그들은 결국 평소에 분열적인 하얀(Whitefang) 송곳니 족장들을 연합하여 반대하도록 강요합니다. 오크들은 인간이 롱리어(Longlier)라고 부르고 엘프가 아르칸-토리아라고 부르는 강 어귀를 향해 동쪽으로 두 강령술사를 추격하고, 그곳에서 그들은 인간들을 포위하고 싸움을 강요합니다."
+msgstr "말린(Malin)과 다켄 볼크(Darken Volk)가 오크에 대한 습격을 계속하면서, 그들은 결국 평소에 분열적인 하얀(Whitefang) 송곳니 족장들을 연합하여 반대하도록 강요합니다. 오크들은 인간이 롱리어(Longlier)라고 부르고 엘프가 아르칸-토리아(Arkan-thoria)라고 부르는 강 어귀를 향해 동쪽으로 두 강령술사를 추격하고, 그곳에서 그들은 인간들을 포위하고 싸움을 강요합니다."
 
 #. [side]: type=Orcish Warlord, id=Borth
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Schism.cfg:74
@@ -2149,7 +2151,7 @@ msgid ""
 "Did you really think you could outrun the dead, who need neither rest nor "
 "sleep? Prepare to meet your makers, orc. Drogan, I will show you what my new "
 "powers are capable of. You will see how foolish you are to oppose me."
-msgstr "정말 휴식도 잠도 필요 없는 죽은 자들을 따돌릴 수 있다고 생각했나? 너희 창조주를 만날 준비를 해라, 오크. 드로간(Drogan), 내 새로운 힘이 무엇을 할 수 있는지 보여주겠다. 네가 나를 반대하는 것이 얼마나 어리석은지 알게 될 것이다."
+msgstr "정말 휴식도 잠도 필요 없는 죽은 자들을 따돌릴 수 있다고 생각했나? 너희 창조주를 만날 준비를 해라, 오크. 드로간(Drogan), 내 새로운 힘이 무엇을 할 수 있는지 보여 주겠다. 네가 나를 반대하는 것이 얼마나 어리석은지 알게 될 것이다."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:461
@@ -3574,7 +3576,7 @@ msgstr "반대자들"
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:199
 msgid "Complete the ritual"
-msgstr "의식을 완료하십시오"
+msgstr "의식을 완료하세요"
 
 #. [note]
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:206
@@ -4521,7 +4523,7 @@ msgstr "네가 너무 많은 내 부하들을 잡아먹었다. 네 언데드들�
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:512
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:817
 msgid "Elves"
-msgstr "엘프들"
+msgstr "엘프족"
 
 #. [message]: speaker=Too Foolish Hero
 #. [message]: speaker=Foolish Hero

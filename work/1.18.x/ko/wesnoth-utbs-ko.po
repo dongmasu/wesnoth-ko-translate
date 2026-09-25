@@ -12,6 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+
 #. [campaign]: id=Under_the_Burning_Suns
 #. [editor_group]: id=utbs
 #: data/campaigns/Under_the_Burning_Suns/_main.cfg:11
@@ -853,7 +854,7 @@ msgid ""
 "follow our laws. Without laws we are like beasts in the desert, fighting "
 "over scraps of meat. Among the survivors Kaleh is by heritage the closest "
 "relative to Tanuil and thus our leader. What say you Kaleh?"
-msgstr "조용히 하세요, 제발 진정들 하세요. 혼돈속에는 죽음과 파괴만 있을 뿐입니다. 이 시련의 시간에도 우리는 우리의 불굴의 의지를 보여주고 우리의 법을 따라야 해요. 율법이 없으면, 우리는 고기 조각을 놓고 싸우는 사막의 짐승과 같습니다. 생존자들 중 칼레흐(Kaleh)는 유산상 타누일과 가장 가까운 친척이며 따라서 우리의 지도자입니다. 칼레흐(Kaleh) 어떻습니까?"
+msgstr "조용히 하세요, 제발 진정들 하세요. 혼돈속에는 죽음과 파괴만 있을 뿐입니다. 이 시련의 시간에도 우리는 우리의 불굴의 의지를 보여 주고 우리의 법을 따라야 해요. 율법이 없으면, 우리는 고기 조각을 놓고 싸우는 사막의 짐승과 같습니다. 생존자들 중 칼레흐(Kaleh)는 유산상 타누일과 가장 가까운 친척이며 따라서 우리의 지도자입니다. 칼레흐(Kaleh) 어떻습니까?"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/01_The_Morning_After.cfg:1381
@@ -1322,12 +1323,12 @@ msgid ""
 "You have defied our master for the last time. Now you shall die! And I shall "
 "personally make it slow and painful, to thank you for that scorching you "
 "gave me."
-msgstr "너는 끝까지 우리 주인에게 저항했어. 이제 너는 죽는것이 좋을거다! 그리고 너가 나에게 준 그 태움에 대해 감사하기 위해, 내가 직접 천천히 고통스럽게 만들어 주마."
+msgstr "너는 끝까지 우리 주인에게 저항했어. 이제 너는 죽는것이 좋을 거다! 그리고 너가 나에게 준 그 태움에 대해 감사하기 위해, 내가 직접 천천히 고통스럽게 만들어 주마."
 
 #. [message]: speaker=Go'hag
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1106
 msgid "You have defied our master for the last time. Now you shall die!"
-msgstr "너는 끝까지 우리 주인에게 저항했어. 이제 너는 죽는것이 좋을거다!"
+msgstr "너는 끝까지 우리 주인에게 저항했어. 이제 너는 죽는것이 좋을 거다!"
 
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1113
@@ -1407,9 +1408,7 @@ msgstr "의장대"
 msgid ""
 "The most hated living in my castle! To me! To me stray souls of the deserts! "
 "Let’s cleanse this pollution!"
-msgstr ""
-"(역자주: 이문장 다시 확인할 것)\n"
-"내 성에 사는 것이 가장 싫다! 나에게! 나에게서 벗어나라 사막의 영혼들이여! 이 오염을 정화하자!"
+msgstr "내 성에 사는 자들 중 가장 증오하는 놈들이다! 나에게로 와라! 사막의 길 잃은 영혼들이여, 나에게로 와라! 이 오염을 정화하자!"
 
 #. [message]: speaker=Vengeful Lord
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1247
@@ -1491,7 +1490,7 @@ msgid ""
 "Did you see that? I think I just saw someone disappear behind that dune over "
 "there. I think we’re being watched. I suspect there are more of these "
 "bandits lurking in these dunes than we originally thought."
-msgstr "그거 봤어요? 저기 저 모래언덕 뒤에서 누군가가 사라지는 걸 방금 본 것 같아요. 우리가 감시당하고 있는것 같아요. 이 모래 언덕에는 우리가 원래 생각했던 것보다 더 많은 날강도들이 숨어 있는것 같아요."
+msgstr "그거 봤어요? 저기 모래 언덕 뒤에서 누군가 사라지는 걸 방금 본 것 같아요. 우리가 감시당하고 있는 것 같아요. 이 모래 언덕에는 우리가 처음 생각했던 것보다 더 많은 날강도가 숨어 있는 것 같아요."
 
 #. [unit]: id=Thorn, type=Outlaw, gender=female
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1400
@@ -1535,7 +1534,7 @@ msgstr "나는 당신을 무자비하게 죽이지 않을 것입니다. 그러�
 msgid ""
 "Here, take this vial of holy water. You’ll need it with all the undead "
 "around."
-msgstr "여기, 이 성수가 든 유리병을 받아요. 언데드들이 득실거리는데, 이 녀석이 필요할 거에요."
+msgstr "여기, 이 성수가 든 유리병을 받아요. 언데드들이 득실거리는데, 이 녀석이 필요할 거예요."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1514
@@ -1644,7 +1643,7 @@ msgid ""
 "powerful magical wand and that it was some sort of symbol of royalty in the "
 "old empire, but I have no idea where it might be. So I scour the land, "
 "learning all I can about the olden days. I’m sure it must be somewhere."
-msgstr "저도 잘 모르겠어요. 저는 그것에 대한 다양한 문헌을 읽었지만, 자세하게 쓰여진 것은 없었어요. 저는 그것을 오랫동안 찾고 있었어요. 제가 아는 거라곤 그것은 아주 강력한 마도구였고, 고대 제국에서 왕위의 상징같은 것일뿐, 그것이 어디 있는지는 전혀 모르겠어요. 그래서 저는 땅을 샅샅이 뒤지고, 고대의 지식을 최대한 모우려고 하는거에요. 그것은 분명히 어딘가에 있을 거예요."
+msgstr "저도 잘 모르겠어요. 저는 그것에 대한 다양한 문헌을 읽었지만, 자세하게 쓰여진 것은 없었어요. 저는 그것을 오랫동안 찾고 있었어요. 제가 아는 거라곤 그것은 아주 강력한 마도구였고, 고대 제국에서 왕위의 상징 같은 것일뿐, 그것이 어디 있는지는 전혀 모르겠어요. 그래서 저는 땅을 샅샅이 뒤지고, 고대의 지식을 최대한 모으려고 하는 거예요. 그것은 분명히 어딘가에 있을 거예요."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1686
@@ -1846,7 +1845,7 @@ msgstr "긴 밤에는 아무리 어떤 일들이 일어나더라도 이상하지
 msgid ""
 "Like I haven’t killed enough undead recently. Why can’t these creeps just "
 "stay dead?"
-msgstr "내가 최근에 언데드를 충분히 죽이지 않은 것처럼요. 왜 이 섬뜩한 놈들은 그냥 죽은 채로 있으면 안 되는 거죠?"
+msgstr "내가 요즘 언데드를 충분히 죽이지 않은 모양이네. 왜 이 섬뜩한 놈들은 그냥 죽은 채로 있지 못하는 거지?"
 
 #. [message]: speaker=Garak
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:420
@@ -1969,7 +1968,7 @@ msgid ""
 "If used offensively or defensively against champions Grak or Zur, this "
 "attack presses the engagement until one of the combatants is slain, or 30 "
 "rounds of attacks have occurred."
-msgstr "투사 그라크(Grak) 또는 주르(Zur)와 전투할 경우, 어느 하나의 전투 유닛중 어느한쪽이 쓰러질때까지 전투는 멈추지 않거나 30번의 공방이 끝나야 종료합니다."
+msgstr "투사 그라크(Grak) 또는 주르(Zur)와 전투할 경우, 두 전투원 중 한쪽이 쓰러지거나 30회의 공격이 끝날 때까지 전투가 계속됩니다."
 
 #. [chance_to_hit]: id=magical
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:730
@@ -2041,14 +2040,14 @@ msgstr "나는 그가 한 무리의 적들을 뒤쫓으며 깊은 어둠 속으�
 msgid ""
 "No! This contest is not over yet, Ystara. I shall show you a taste of my "
 "true power."
-msgstr "아니다! 이 대회는 아직 끝나지 않았다, 이스타라(Ystara). 나의 진정한 힘을 보여주마."
+msgstr "아니다! 이 대회는 아직 끝나지 않았다, 이스타라(Ystara). 나의 진정한 힘을 보여 주마."
 
 #. [message]: speaker=$lich_lord.id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:959
 msgid ""
 "No! This contest is not over yet, Azkotep. I shall show you a taste of my "
 "true power."
-msgstr "아니다! 이 대회는 아직 끝나지 않았다, 아즈코텝(Azkotep). 나의 진정한 힘을 보여주마."
+msgstr "아니다! 이 대회는 아직 끝나지 않았다, 아즈코텝(Azkotep). 나의 진정한 힘을 보여 주마."
 
 #. [event]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:975
@@ -2154,7 +2153,7 @@ msgid ""
 "Look, dawn is nigh, our salvation is almost at hand. Even the long dark "
 "can’t last forever, and with the light of the sun the undead power wanes and "
 "their dark magics unravel."
-msgstr "봐요, 새벽이 다가오고 있어요. 우리의 구원이 거의 다가오고 있어요. 긴 밤도 영원할 수 없고, 태양의 빛으로 언데드의 힘은 시들고 그들의 어둠의 마법은 풀릴거에요."
+msgstr "봐요, 새벽이 다가오고 있어요. 우리의 구원이 거의 다가오고 있어요. 긴 밤도 영원할 수 없고, 태양의 빛으로 언데드의 힘은 시들고 그들의 어둠의 마법은 풀릴 거예요."
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:1415
@@ -2233,7 +2232,7 @@ msgstr "정말 유감이야... 그건 볼 수 없겠군..."
 #. [message]: speaker=Ganthos
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:1581
 msgid "Killed by a dead creep... (<i>Cough</i>)"
-msgstr "죽어버린 섬뜩한 놈에의해 죽임을 당했어... (<i>기침</i>)"
+msgstr "죽어버린 섬뜩한 놈에 의해 죽임을 당했어... (<i>기침</i>)"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:1591
@@ -2383,7 +2382,7 @@ msgid ""
 "if the numbers of our people dwindle, it’s going to become more and more "
 "costly to recruit new warriors. It would be wise to stockpile gold against "
 "this eventuality."
-msgstr "이번에는 거의 모든 사람을 구할 수 있었지만, 언제나 이렇게 운이 좋은 것은 아닐거에요. 지금까지 싸움에 가담해준 엘프족은 기꺼이 함께 싸워주겠지만, 만약 동료의 수가 지금보다 줄어들면, 새로운 전사를 모집하려면 더 많은 금화가 들 거에요. 이런 상황을 대비해서 금화를 모다 두는것이 좋을거에요."
+msgstr "이번에는 거의 모든 사람을 구할 수 있었지만, 언제나 이렇게 운이 좋은 것은 아닐 거예요. 지금까지 싸움에 가담해 준 엘프족은 기꺼이 함께 싸워 주겠지만, 만약 동료의 수가 지금보다 줄어들면, 새로운 전사를 모집하려면 더 많은 금화가 들 거예요. 이런 상황을 대비해서 금화를 모아 두는 것이 좋을 거예요."
 
 #. [message]: speaker=Ystara
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:1826
@@ -2391,7 +2390,7 @@ msgid ""
 "You have triumphed for the moment, but think not that the dark lords can be "
 "so easily vanquished. We shall return, and shall rule long after your bones "
 "have crumbled to dust. This is our land, and none shall leave it unscathed."
-msgstr "이번에는 니놈이 이겼다. 하지만 어둠의 군주들이 그렇게 쉽게 패배할 거라 생각하지마라. 우리는 머지않아 다시 돌아올것이고, 네놈들의 뼈가 먼지로 변한뒤에도 이 땅을 지배할 것이다. 여긴 죽은 자의 땅이며, 그 누구도 훼손시키도록 놔주지 않을 것이다."
+msgstr "이번에는 니놈이 이겼다. 하지만 어둠의 군주들이 그렇게 쉽게 패배할 거라 생각하지 마라. 우리는 머지않아 다시 돌아올것이고, 네놈들의 뼈가 먼지로 변한뒤에도 이 땅을 지배할 것이다. 여긴 죽은 자의 땅이며, 그 누구도 훼손시키도록 놔주지 않을 것이다."
 
 #. [message]: speaker=Azkotep
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:1830
@@ -2489,7 +2488,7 @@ msgid ""
 "as the numbers of our people dwindle, it’s going to become more and more "
 "costly to recruit new warriors. It would be wise to stockpile gold against "
 "this eventuality."
-msgstr "이번에는 거의 모든 사람을 구할 수 있었지만, 언제나 이렇게 운이 좋은 것은 아닐거에요. 지금까지 싸움에 가담해준 엘프족은 기꺼이 함께 싸워주겠지만, 만약 동료의 수가 지금보다 줄어들수록, 새로운 전사를 모집하려면 더 많은 금화가 들 거에요. 이런 상황을 대비해서 금화를 모다 두는것이 좋을거에요."
+msgstr "이번에는 거의 모든 사람을 구할 수 있었지만, 언제나 이렇게 운이 좋은 것은 아닐 거예요. 지금까지 싸움에 가담해 준 엘프족은 기꺼이 함께 싸워 주겠지만, 만약 동료의 수가 지금보다 줄어들수록, 새로운 전사를 모집하려면 더 많은 금화가 들 거예요. 이런 상황을 대비해서 금화를 모아 두는 것이 좋을 거예요."
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:2018
@@ -2499,7 +2498,7 @@ msgid ""
 "will gladly return, as the numbers of our people dwindle, it’s going to "
 "become more and more costly to recruit new warriors. It would be wise to "
 "stockpile gold against this eventuality."
-msgstr "희생자는 나왔지만 피해는 그렇게 크지 않았어요. 우리는 오늘 밤 많은 동료들을 구했어요. 지금까지 싸움에 가담해준 엘프족은 기꺼이 함께 싸워주겠지만, 만약 동료의 수가 지금보다 줄어들수록, 새로운 전사를 모집하려면 더 많은 금화가 들 거에요. 이런 상황을 대비해서 금화를 모다 두는것이 좋을거에요."
+msgstr "희생자는 나왔지만 피해는 그렇게 크지 않았어요. 우리는 오늘 밤 많은 동료들을 구했어요. 지금까지 싸움에 가담해 준 엘프족은 기꺼이 함께 싸워 주겠지만, 만약 동료의 수가 지금보다 줄어들수록, 새로운 전사를 모집하려면 더 많은 금화가 들 거예요. 이런 상황을 대비해서 금화를 모아 두는 것이 좋을 거예요."
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:2026
@@ -2510,7 +2509,7 @@ msgid ""
 "gladly return, as the numbers of our people dwindle, it’s going to become "
 "more and more costly to recruit new warriors. It would be wise to stockpile "
 "gold against this eventuality."
-msgstr "엄청난 희생을 했지만 아직 무너지지 않았어요. 이 학살은 우리 동료들에의해 오래 기억될 것이에요. 우리가 어둠 속에 있는동안 엘로(Eloh)님은 어디 계셨던걸까요? 게다가 걱정스러운 것은, 지금까지 싸움에 가담해준 엘프족은 기꺼이 함께 싸워주겠지만, 만약 동료의 수가 지금보다 줄어들수록, 새로운 전사를 모집하려면 더 많은 금화가 들 거에요. 이런 상황을 대비해서 금화를 모다 두는것이 좋을거에요."
+msgstr "엄청난 희생을 했지만 아직 무너지지 않았어요. 이 학살은 우리 동료들에 의해 오래 기억될 것이에요. 우리가 어둠 속에 있는 동안 엘로(Eloh)님은 어디 계셨던걸까요? 게다가 걱정스러운 것은, 지금까지 싸움에 가담해 준 엘프족은 기꺼이 함께 싸워 주겠지만, 만약 동료의 수가 지금보다 줄어들수록, 새로운 전사를 모집하려면 더 많은 금화가 들 거예요. 이런 상황을 대비해서 금화를 모아 두는 것이 좋을 거예요."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/03_Stirring_in_the_Night.cfg:2039
@@ -2622,14 +2621,14 @@ msgid ""
 "Kaleh, I wouldn’t be surprised if there were a way to cross under these "
 "mountains. I fear no darkness, and you won’t be lacking a source of fire or "
 "light."
-msgstr "오크족 이외의 생물들도 땅속에 터널을 파요. 오래 전에 난쟁이족은 이러한 산맥을 채굴했고, 거대한 트롤족은 땅속 깊고 어두운 곳에 숨어 있기를 좋아해요. 만약 당신들의 신이 당신의 생각하는 것만큼 전지전능하다면, 칼레흐(Kaleh), 이러한 산맥 아래를 빠져나가는 길이 있다고 해도 나는 놀라지 않을 거에요. 저는 어둠 따위는 두렵지 않아요, 또한 당신에게는 불씨나 빛씨를 걱정하지 않아도 돼요."
+msgstr "오크족 이외의 생물들도 땅속에 터널을 파요. 오래 전에 난쟁이족은 이러한 산맥을 채굴했고, 거대한 트롤족은 땅속 깊고 어두운 곳에 숨어 있기를 좋아해요. 만약 당신들의 신이 당신의 생각하는 것만큼 전지전능하다면, 칼레흐(Kaleh), 이러한 산맥 아래를 빠져나가는 길이 있다고 해도 나는 놀라지 않을 거예요. 저는 어둠 따위는 두렵지 않아요, 또한 당신에게는 불씨나 빛씨를 걱정하지 않아도 돼요."
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:400
 msgid ""
 "Well if we are going to go under these mountains, we’re certainly going to "
 "have our hands full fighting all those orcs and goblins."
-msgstr "음, 우리가 이 산 아래로 간다면, 틀림없이 그 모든 오크족과 고블린족과 싸우는 데 전력을 다해야 할 거에요."
+msgstr "음, 우리가 이 산 아래로 간다면, 틀림없이 그 모든 오크족과 고블린족과 싸우는 데 전력을 다해야 할 거예요."
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:405
@@ -2827,7 +2826,7 @@ msgstr "기억해, 칼레흐(Kaleh),  지하에서 싸우는 것은 더 힘들 �
 msgid ""
 "Also, any time you find a particularly tough orc blocking a passage, my "
 "fireballs can blast him quick enough."
-msgstr "또한, 거친 오크가 길을 막고 있는 것을 발견할 때마다, 내 불덩이로 바로 태워버릴께요."
+msgstr "또한, 거친 오크가 길을 막고 있는 것을 발견할 때마다, 내 불덩이로 바로 태워버릴게요."
 
 #. [event]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:829
@@ -2914,7 +2913,7 @@ msgid ""
 "further. I’m freezing cold, wet, and I can’t see a thing. I’m not exactly "
 "sure what I’m doing up here. Some strange influence made me want to come up "
 "here, but I don’t know what made me think it could be of any good."
-msgstr "여기가 강줄기의 가장 안쪽군. 물이 너무 깊어서 더 이상 나아갈 수 없어. 얼어붙을 것처럼 차갑고, 흠뻑 젖었고, 아무것도 발견되지 않았어. 나는 이런곳에서 뭘 하고 있는지 모르겠어. 어떤 이상한 느낌에 이끌려 여기까지 와 버렸지만, 나는 왜 여기에 오면 뭔가 좋은 일이 있을거라 생각했는지 모르겠군."
+msgstr "여기가 강줄기의 가장 안쪽군. 물이 너무 깊어서 더 이상 나아갈 수 없어. 얼어붙을 것처럼 차갑고, 흠뻑 젖었고, 아무것도 발견되지 않았어. 나는 이런곳에서 뭘 하고 있는지 모르겠어. 어떤 이상한 느낌에 이끌려 여기까지 와 버렸지만, 나는 왜 여기에 오면 뭔가 좋은 일이 있을 거라 생각했는지 모르겠군."
 
 #. [unit]: type=Dark Assassin Cloaked, id=Cloaked Figure
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:1006
@@ -2957,7 +2956,7 @@ msgid ""
 "This is no natural passage, and the walls are too well carved and smooth to "
 "be made by orcs. I wouldn’t be surprised if this was once carved out by "
 "dwarves. I wonder if there are any still left in these mountains..."
-msgstr "이것은 자연적인 통로가 아니야. 벽은 오크가 만들기에는 너무 잘 깎여 매끄러워. 이것이 한때 난쟁이족이 조각한 것이라 해도 신기하지 않을 것 같아. 이 산맥에 아직 남아있는게 있을까..."
+msgstr "이건 자연적으로 생긴 통로가 아니야. 벽이 너무 잘 다듬어지고 매끄러워서 오크가 만든 것 같지 않아. 한때 난쟁이들이 파낸 통로라고 해도 놀랍지 않겠어. 이 산맥에 아직 난쟁이들이 남아 있을까..."
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:1119
@@ -2967,7 +2966,7 @@ msgid ""
 "down this way. It’s odd, I guess we’re trading the dangers we know for the "
 "dangers we don’t. We really are putting our lives in Eloh’s palm; may she "
 "guide us as well as she has before."
-msgstr "바로 근처에 있는 오크와 고블린의 대장들은 모두 죽였으니, 이제 일단 침착하게 나머지 동료들을 아래로 데려갈 수 있을 거야. 이상하네, 우리는 익숙한 위험에서 벗어나 알려지지 않는 위험에 가까워지는것 같아. 우리의 운명을 완전히 엘로(Eloh)의 손에 맞기고 있어. 지금처럼 그녀의 올바른 인도가 있길 바랄뿐이야."
+msgstr "바로 근처에 있는 오크와 고블린의 대장들은 모두 죽였으니, 이제 일단 침착하게 나머지 동료들을 아래로 데려갈 수 있을 거야. 이상하네, 우리는 익숙한 위험에서 벗어나 알려지지 않는 위험에 가까워지는 것 같아. 우리의 운명을 완전히 엘로(Eloh)의 손에 맞기고 있어. 지금처럼 그녀의 올바른 인도가 있길 바랄 뿐이야."
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:1126
@@ -2976,7 +2975,7 @@ msgid ""
 "people past the orcs. It’s odd, I guess we’re trading the dangers we know "
 "for the dangers we don’t. We really are putting our lives in Eloh’s palm, "
 "may she guide as well as she has before."
-msgstr "이제 남은 동료들이 오크족을 통과할 수 있는 길을 찾았어. 이상하네, 우리는 익숙한 위험에서 벗어나 알려지지 않는 위험에 가까워지는것 같아. 우리의 운명을 완전히 엘로(Eloh)의 손에 맞기고 있어. 지금처럼 그녀의 올바른 인도가 있길 바랄뿐이야."
+msgstr "이제 남은 동료들이 오크족을 통과할 수 있는 길을 찾았어. 이상하네, 우리는 익숙한 위험에서 벗어나 알려지지 않는 위험에 가까워지는 것 같아. 우리의 운명을 완전히 엘로(Eloh)의 손에 맞기고 있어. 지금처럼 그녀의 올바른 인도가 있길 바랄 뿐이야."
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/04_Descending_into_Darkness.cfg:1133
@@ -3113,7 +3112,7 @@ msgid ""
 "and very strong, with skin as hard as stone, and can be fearsome foes. But I "
 "knew one man long ago who traded with a group of trolls and said they were "
 "quite honorable, as long as you didn’t try to cheat them."
-msgstr "트롤족과 난쟁이족은 천적사이이며 매우 가깝게 살고 있어요. 그리고 많은 사람들은 트롤족이 짐승과 야만인과 같은 정도에 불과하다고 말할 거에요. 트롤은 몸집이 거대하고, 힘도 매우 세며, 돌처럼 단단한 피부를 가지고 있어서 적이되면 무시무시한 존재가 될 수 있어요. 하지만 나는 오래 전에 트롤족과 거래를 한 남자를 알고 있어요, 그는 당신이 그들을 속이려 하지 않는 한 그들은 꽤 명예로운 자들이라고 말했어요."
+msgstr "트롤족과 난쟁이족은 천적사이이며 매우 가깝게 살고 있어요. 그리고 많은 사람들은 트롤족이 짐승과 야만인과 같은 정도에 불과하다고 말할 거예요. 트롤은 몸집이 거대하고, 힘도 매우 세며, 돌처럼 단단한 피부를 가지고 있어서 적이되면 무시무시한 존재가 될 수 있어요. 하지만 나는 오래 전에 트롤족과 거래를 한 남자를 알고 있어요, 그는 당신이 그들을 속이려 하지 않는 한 그들은 꽤 명예로운 자들이라고 말했어요."
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:510
@@ -3206,7 +3205,7 @@ msgstr "하지만 엘로(Eloh)의 안내로 우리가 이런 황폐한 터널들
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:596
 msgid "All I’m saying is that these tunnels aren’t as bad as I expected."
-msgstr "내가 말하고 싶은 건 이 터널들이 내가 기대했던 것만큼 나쁘지 않다는 거에요."
+msgstr "내가 말하고 싶은 건 이 터널들이 내가 기대했던 것만큼 나쁘지 않다는 거예요."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:602
@@ -3385,7 +3384,7 @@ msgstr "뭐여... 잠깐만... 영혼없는 눈알, 당나귀 귀때기... 이 �
 #. [message]: speaker=second_dwarf
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1095
 msgid "Elves?! What in the nine hells are elves doing down here?"
-msgstr "엘프족?! 아홉 개의 지옥에서 엘프족이 여기서 무엇을 하고 있는걸까요?"
+msgstr "엘프라고?! 이런 지옥 같은 곳에서 대체 뭘 하고 있는 거야?"
 
 #. [message]: speaker=Dwarf Leader
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1100
@@ -3425,9 +3424,7 @@ msgid ""
 "with all these branching tunnels we’ll have no idea which way to go. I think "
 "we should take them up on their offer; ally ourselves with one of the "
 "factions so we can get their help in finding a way back to the surface."
-msgstr ""
-"우리가 두 가지를 모두 수행하기에는 너무 많아, 게다가 터널들이 이렇게 갈라져 있으면 어느 쪽으로 가야 할지 전혀 모르겠어. 그러니까 그들의 제안을 받아들여야 한다고 생각해.\n"
-"어느 한 종족과 동맹을 맺자. 그러면 지상으로 돌아가는 길을 찾는데 도움을 받을 수 있을 거야."
+msgstr "둘을 모두 상대하기에는 수가 너무 많고, 게다가 이렇게 터널이 여러 갈래로 갈라져 있으면 어느 길로 가야 할지도 알 수 없어. 그들의 제안을 받아들이는 게 좋겠어. 한 진영과 동맹을 맺고 지상으로 돌아가는 길을 찾는 데 도움을 받자."
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1130
@@ -3501,12 +3498,12 @@ msgstr "척후병 트롤(Troll)"
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1241
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1342
 msgid "Dwarf Skirmisher"
-msgstr "척후병 난쟁이"
+msgstr "난쟁이 척후병"
 
 #. [else]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1238
 msgid "Dwarf Thunderer"
-msgstr "천둥사 난쟁이"
+msgstr "난쟁이 천둥사"
 
 #. [unit]: type=Dwarvish Explorer, id=Fundin
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1351
@@ -3534,7 +3531,7 @@ msgstr "그나(Gnarl)"
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1542
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1553
 msgid "Troll Flamecaster"
-msgstr "트롤(Troll) 화염술사"
+msgstr "트롤 화염술사"
 
 #. [message]: speaker=Troll Flamecaster
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1558
@@ -3589,7 +3586,7 @@ msgstr "돌아가서 지원군을 더 불러와야겠어. 우린 다쳤어, 칼�
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1718
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1729
 msgid "Dwarf Grenadier"
-msgstr "폭탄투척병 난쟁이"
+msgstr "난쟁이 폭탄투척병"
 
 #. [message]: speaker=Dwarf Grenadier
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:1734
@@ -3901,7 +3898,7 @@ msgid ""
 "truth, we are hard pressed. We’re going to have to pull back all our forces "
 "in these caves to reinforce the back lines. But your victory here has "
 "produced a unexpected opportunity."
-msgstr "당신들이 싸우고 있는동안, 한무리 트롤족이 우리의 감시를 뚫고 측면을 공격하여 보급고를 공격했었소. 놈들은 우리가 생각했던 것보다 더 냄새 나는 벌레같은 놈들이었소. 사실을 말씀드리자면, 우리는 압박을 받고 있소. 그래서 이 근처에 있던 패거리들을 끌어올려서 후방으로 증원을 보내려고 했었소. 우리는 후방을 강화하기 위해 이 동굴에서 모든 병력을 후퇴해야 하오. 그러나 여기서 당신의 승리는 예상치 못한 기회가 생겼소."
+msgstr "당신들이 싸우고 있는 동안, 한무리 트롤족이 우리의 감시를 뚫고 측면을 공격하여 보급고를 공격했었소. 놈들은 우리가 생각했던 것보다 더 냄새 나는 벌레같은 놈들이었소. 사실을 말씀드리자면, 우리는 압박을 받고 있소. 그래서 이 근처에 있던 패거리들을 끌어올려서 후방으로 증원을 보내려고 했었소. 우리는 후방을 강화하기 위해 이 동굴에서 모든 병력을 후퇴해야 하오. 그러나 여기서 당신의 승리는 예상치 못한 기회가 생겼소."
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/05_A_Subterranean_Struggle.cfg:2572
@@ -4390,7 +4387,7 @@ msgid ""
 "elf has seen for generations upon generations. It is a great honor, but you "
 "have done great deeds this day. Elves killing a troll chieftain! We will "
 "tell this story for years."
-msgstr "소식이 전해지는 것은 빠릅니다. 당신들이 혼란을 퍼뜨려준 덕분에, 사악한 트롤족이 퇴각하기 시작했습니다. 게다가 이제 우리 고통의 설계자도 죽었습니다. 이 전쟁은 끝나지 않았지만 당신들의 도움으로 이 전투에서 이길 수 있었습니다. 진심으로 감사합니다. 국왕께서 당신들을 데려오라 지시했습니다. 그는 당신들과 이야기하고 포상하기를 원합니다. 그는 몇 세대에 걸쳐 엘프가 본 적이 없는 우리의 가장 신성한 회당에서 기다립니다. 당신들은 대단한 명예인것입니다. 당신들은 오늘 대단한 일을 해냈으니 당연한 겁니다. 트롤 족장을 쓰러뜨린 엘프족! 우리는 오랫동안 이 이야기를 할 것입니다."
+msgstr "소식이 전해지는 것은 빠릅니다. 당신들이 혼란을 퍼뜨려준 덕분에, 사악한 트롤족이 퇴각하기 시작했습니다. 게다가 이제 우리 고통의 설계자도 죽었습니다. 이 전쟁은 끝나지 않았지만 당신들의 도움으로 이 전투에서 이길 수 있었습니다. 진심으로 감사합니다. 국왕께서 당신들을 데려오라 지시했습니다. 그는 당신들과 이야기하고 포상하기를 원합니다. 그는 몇 세대에 걸쳐 엘프가 본 적이 없는 우리의 가장 신성한 회당에서 기다립니다. 당신들은 대단한 명예인 것입니다. 당신들은 오늘 대단한 일을 해냈으니 당연한 겁니다. 트롤 족장을 쓰러뜨린 엘프족! 우리는 오랫동안 이 이야기를 할 것입니다."
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:1486
@@ -4455,7 +4452,7 @@ msgid ""
 "by ill luck I was burned to death by the lava and died nearby unblessed and "
 "unhonored. Find my body and grant me the peace I so dearly wish for. Do this "
 "and I will let you pass."
-msgstr "안녕하시오, 친구여. 나도 오래 전에 트롤족과 싸워서 이 곳에 왔었네. 그러나 불행하게도 나는 용암에 타 죽었고, 축복도 받지 못하고, 명예도 없이 근처에서 죽었다네. 내 사체를 찾아서 내가 그토록 간절히 바라는 평화를 주면 좋겠네. 이렇게 하면 지나가게 해줄테니."
+msgstr "안녕하시오, 친구여. 나도 오래 전에 트롤족과 싸워서 이곳에 왔었네. 그러나 불행하게도 나는 용암에 타 죽었고, 축복도 받지 못하고, 명예도 없이 근처에서 죽었다네. 내 사체를 찾아서 내가 그토록 간절히 바라는 평화를 주면 좋겠네. 이렇게 하면 지나가게 해줄테니."
 
 #. [message]: speaker=$explorer.id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:1584
@@ -4489,7 +4486,7 @@ msgstr "무덤의 지킴이"
 msgid ""
 "This looks like a troll crypt. Whoever it was must have been very important, "
 "because they have their own undead guardian."
-msgstr "이건 트롤의 무덤 같습니다. 누구인지는 모르겠지만 언데드 지킴이들이 있는것을 보니 매우 중요한 자였을 겁니다."
+msgstr "이건 트롤의 무덤 같습니다. 누구의 무덤인지는 모르겠지만, 언데드 수호자가 있는 것을 보니 매우 중요한 자였을 겁니다."
 
 #. [message]: speaker=$explorer.id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:1679
@@ -4508,7 +4505,7 @@ msgid ""
 "wand. I don’t have much experience with magical items, but the asp with "
 "emerald eyes and large fangs carved around its shaft leave little doubt as "
 "to its power. We may find this useful before our journey is over."
-msgstr "트롤 치고는 꽤 화려한 무덤입니다. 관 자체가 상당히 인상적입니다. 안에는 해골이 산산조각이 났고 색색의 돌과 장신구가 몇 개 있었지만, 정말 눈에 띄는 것은 이 에메랄드 마술봉입니다. 나는 마도구에 대한 지식은 별로 없지만, 이 무늬에는 에메랄드의 눈과 커다란 송곳니를 가진 코브라가 새겨져 있습니다. 이 장식으로 볼 때 어떤 힘을 가지고 있는것이 분명합니다. 이것은 직감에 지나지 않지만, 이 여행에는 유용한 물건인 것 같습니다."
+msgstr "트롤의 무덤치고는 꽤 화려합니다. 관 자체도 상당히 인상적입니다. 안에서는 해골이 산산이 부서져 있었고 색색의 돌과 장신구도 몇 개 나왔지만, 정말 눈에 띄는 것은 이 에메랄드 마법봉입니다. 나는 마법 도구에 대한 지식이 많지는 않지만, 봉을 감싼 무늬에 에메랄드빛 눈과 커다란 송곳니를 가진 독사가 새겨져 있어 그 힘을 짐작할 수 있습니다. 이 장식만 봐도 분명 어떤 힘이 있을 겁니다. 그저 직감일 뿐이지만, 이 여행에 유용한 물건일 것 같습니다."
 
 #. [option]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06a_In_the_Tunnels_of_Trolls.cfg:1706
@@ -4578,7 +4575,7 @@ msgstr "난쟁이 족장을 죽여라"
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:321
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:493
 msgid "Dwarf Sergeant"
-msgstr "하사 난쟁이"
+msgstr "난쟁이 하사"
 
 #. [unit]: type=Dwarvish Fighter, id=Vengeful Dwarf
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:339
@@ -4590,7 +4587,7 @@ msgstr "복수심에 불타는 난쟁이"
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:358
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:383
 msgid "Dwarf Scout"
-msgstr "정찰꾼 난쟁이"
+msgstr "난쟁이 정찰꾼"
 
 #. [unit]: type=Troll, id=Grog
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:421
@@ -4868,7 +4865,7 @@ msgstr "속임수에 의존한 것은 실수였다. 이렇게 되면 우리는 �
 msgid ""
 "So I challenge you, man to man. If you are not cowards, step out onto these "
 "bridges and meet your fate!"
-msgstr "그러니까 다이다이한번 뜨자, 일대일의 대결 가자고. 너희들이 겁쟁이가 아니라면 각오를 하고 이 다리로 내딛고 오세요!"
+msgstr "그러니까 다이다이한 번 뜨자, 일대일의 대결 가자고. 너희들이 겁쟁이가 아니라면 각오를 하고 이 다리로 내딛고 오세요!"
 
 #. [message]: speaker=Jorgi
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:1227
@@ -4900,7 +4897,7 @@ msgstr "유난히 털이 많은 박쥐"
 #. [unit]: type=Dwarvish Stalwart, id=Dwarf Hermit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:1344
 msgid "Dwarf Hermit"
-msgstr "은둔자 난쟁이"
+msgstr "난쟁이 은둔자"
 
 #. [message]: speaker=$speaking_unit.id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:1377
@@ -5027,7 +5024,7 @@ msgstr "감사합니다. 좋아, 여러분, 아직 들뜨기에는 일러요, �
 msgid ""
 "They’ve come for my precious. It’s mine, yes it is. They shan’t have it, no "
 "they shan’t. We shall kill them all, yes, yes we will."
-msgstr "놈들이 나의 보물을 빼앗으러 왔다. 저것은 내 것이다, 암! 내것이고 말고. 놈들이 그것을 가질 수 없을 것이다, 암! 가질 수 없지. 우리는 놈들을  몰살시켜야 해, 암!, 그래야 해."
+msgstr "놈들이 나의 보물을 빼앗으러 왔다. 저것은 내 것이다, 암! 내 것이고 말고. 놈들이 그것을 가질 수 없을 것이다, 암! 가질 수 없지. 우리는 놈들을  몰살시켜야 해, 암!, 그래야 해."
 
 #. [message]: speaker=Dwarf Hermit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:1763
@@ -5074,7 +5071,7 @@ msgid ""
 "floor at the end of this passage. It must be magical. And this passage ends "
 "suddenly in a smooth stone wall. This can’t be a coincidence. But the wall "
 "seems quite solid. I wonder who carved that rune and why?"
-msgstr "엘로(Eloh)의 이름으로, 이게 도대체 뭐지? 누군가가 이 통로의 끝에 있는 바닥에 보라색으로 빛나는 룬 문자를 새겨놨습니다. 어떤 마법이 있는것 같습니다. 그리고 이 통로는 매끄러운 돌담에서 갑자기 끝납니다. 이것이 단순한 우연이라고는 생각되지 않습니다. 하지만 벽은 꽤 단단해 보입니다. 그 룬 문자는 누가 왜 새겼을까요?"
+msgstr "엘로(Eloh)의 이름으로, 이게 도대체 뭐지? 누군가가 이 통로의 끝에 있는 바닥에 보라색으로 빛나는 룬 문자를 새겨놨습니다. 어떤 마법이 있는 것 같습니다. 그리고 이 통로는 매끄러운 돌담에서 갑자기 끝납니다. 이것이 단순한 우연이라고는 생각되지 않습니다. 하지만 벽은 꽤 단단해 보입니다. 그 룬 문자는 누가 왜 새겼을까요?"
 
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/06b_In_the_Domain_of_Dwarves.cfg:1909
@@ -5237,7 +5234,7 @@ msgid ""
 "tunnels we have explored. We should still have maps of the tunnels leading "
 "back to the surface. Of course I doubt you would be able to understand them, "
 "so, Rogrimir here has volunteered to lead you to the surface."
-msgstr "하지만 난쟁이족은 훌륭한 탐험가들이고, 우리는 우리가 탐험한 모든 터널의 상세한 지도를 보관하고 있네. 지상으로 이어지는 터널의 지도도 여전히 보관되어 있을 것이네. 믈론 그대들이 그 지도를 봐도 이해가 안 갈 수 있을 것이네, 그래서 여기 로그리미르(Rogrimir)가 그대들을 지상으로 안내하기 위해 자원했다네."
+msgstr "하지만 난쟁이족은 훌륭한 탐험가들이고, 우리가 탐험한 모든 터널의 상세한 지도를 보관하고 있네. 지상으로 이어지는 터널의 지도도 아직 남아 있을 것이네. 물론 그대들이 그 지도를 봐도 이해하기 어려울 테니, 여기 있는 로그리미르(Rogrimir)가 그대들을 지상으로 안내하겠다고 자원했네."
 
 #. [message]: speaker=King Thurongar
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07a_Dealing_with_Dwarves.cfg:382
@@ -5246,14 +5243,14 @@ msgid ""
 "tunnels we have explored. We should still have maps of the tunnels leading "
 "back to the surface. Of course I doubt you would be able to understand them, "
 "so, Jarl here has volunteered to lead you to the surface."
-msgstr "하지만 난쟁이족은 훌륭한 탐험가들이고, 우리는 우리가 탐험한 모든 터널의 상세한 지도를 보관하고 있네. 지상으로 이어지는 터널의 지도도 여전히 보관되어 있을 것이네. 믈론 그대들이 그 지도를 봐도 이해가 안 갈 수 있을 것이네, 그래서 여기 자를(Jarl)이 그대들을 지상으로 안내하기 위해 자원했다네."
+msgstr "하지만 난쟁이족은 훌륭한 탐험가들이고, 우리가 탐험한 모든 터널의 상세한 지도를 보관하고 있네. 지상으로 이어지는 터널의 지도도 아직 남아 있을 것이네. 물론 그대들이 그 지도를 봐도 이해하기 어려울 테니, 여기 있는 자를(Jarl)이 그대들을 지상으로 안내하겠다고 자원했네."
 
 #. [message]: speaker=Rogrimir
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07a_Dealing_with_Dwarves.cfg:396
 msgid ""
 "You saved my life and my debt to you is still unpaid. Showing you the way to "
 "the surface and protecting you is the least I can do."
-msgstr "당신들은 내 목숨을 구해줬는데 나는 여전히 갚지 못했습니다. 당신들이 지상으로 가는길을 안내하고 보호해주는 것이 내가 할 수 있는 최소한의 일입니다."
+msgstr "당신들은 내 목숨을 구해 줬지만, 나는 아직 그 빚을 갚지 못했소. 당신들에게 지상으로 가는 길을 안내하고 보호하는 것쯤은 내가 할 수 있는 최소한의 일이오."
 
 #. [message]: speaker=Jarl
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07a_Dealing_with_Dwarves.cfg:401
@@ -5342,7 +5339,7 @@ msgstr "난 이곳에서 지내는 동안 난쟁이족에 대해 많은 것을 �
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07a_Dealing_with_Dwarves.cfg:482
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07b_Talking_with_Trolls.cfg:474
 msgid "But we need you! What would we do without you?"
-msgstr "하지만 우리도 당신이 필요해요! 당신 없이 어떻게 하라는 거에요?"
+msgstr "하지만 우리도 당신이 필요해요! 당신 없이 어떻게 하라는 거예요?"
 
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07a_Dealing_with_Dwarves.cfg:487
@@ -5351,7 +5348,7 @@ msgid ""
 "what home your god has planned for you, Kaleh, but I believe in you, and I "
 "know that you will find a place for your people. My place is here, with the "
 "dwarves. And you don’t really need me, you have each other."
-msgstr "난쟁이족의 도움을 받으면, 당신은 잘 해낼 수 있을 것 같아요. 칼레흐(Kaleh), 당신의 신이 당신들을 위해 어떤 땅을 계획했는지는 모르지만, 나는 당신을 믿어요, 당신은 동료들을 위한 장소를 찾을 수 있을거에요. 내가 있을곳은 여기 난쟁이족이 있는곳이에요. 그리고 당신에게는 내가 정말로 필요하지 않아요. 당신에게는 동료들이 있으니까요."
+msgstr "난쟁이족의 도움을 받으면, 당신은 잘 해낼 수 있을 것 같아요. 칼레흐(Kaleh), 당신의 신이 당신들을 위해 어떤 땅을 계획했는지는 모르지만, 나는 당신을 믿어요, 당신은 동료들을 위한 장소를 찾을 수 있을 거예요. 내가 있을 곳은 여기 난쟁이족이 있는 곳이에요. 그리고 당신에게는 내가 정말로 필요하지 않아요. 당신에게는 동료들이 있으니까요."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07a_Dealing_with_Dwarves.cfg:492
@@ -5380,7 +5377,7 @@ msgid ""
 "enchanted this fire blade for you. May its flames always light your path, "
 "and strike down your enemies. I give this to all of you as a token of my "
 "gratitude."
-msgstr "고마워요. 그리고 난쟁이족을 만난 것은 정말 여러분들의 덕분입니다. 나 혼자서는 결코 이곳 지하 깊숙이 올 수 없었을거에요. 그래서 당신들을 위해 난쟁이족의 도움을 받아 내가 불꽃 칼날을 강화시켰어요. 그 불꽃이 항상 당신의 길을 밝히고, 당신의 적들을 쓰러뜨리길 바랍니다. 감사의 표시로 이것을 여러분 모두에게 드릴게요."
+msgstr "고마워요. 그리고 난쟁이족을 만난 것은 정말 여러분들의 덕분입니다. 나 혼자서는 결코 이곳 지하 깊숙이 올 수 없었을 거예요. 그래서 당신들을 위해 난쟁이족의 도움을 받아 내가 불꽃 칼날을 강화시켰어요. 그 불꽃이 항상 당신의 길을 밝히고, 당신의 적들을 쓰러뜨리길 바랍니다. 감사의 표시로 이것을 여러분 모두에게 드릴게요."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07a_Dealing_with_Dwarves.cfg:514
@@ -5493,7 +5490,7 @@ msgid ""
 "the two chairs in this chamber. You’re surprised to see that small tile path "
 "running up the center of the chamber has been left untouched. It leads to a "
 "small stone chair facing the large throne."
-msgstr "그 방이 한때 화려하게 장식되어 있었던 것은 분명했지만, 거의 모든 것이 파괴되어 돌과 흙바닥이 드러나 있었다. 그리고 남아 있는것은 두개골과 짐승 가죽, 그리고 화려한 안료가 칠해진 커다란 돌로 된 왕좌뿐이었다. 벽면은 한때 프레스코화와 난쟁이의 룬 문자로 덮여 있었지만, 그것들도 몇몇 트롤족에 의해 열심히 벗겨지고 있었다. 한때 바닥에는 어두운 색의 돌판이 깔려 있었지만, 이 방에 있는 두 개의 의자 주위에는 작은 돌판 조각 두 개만이 남아 있었다. 그런 가운데 방의 한가운데로 올라가는 작은 길이 되는 돌판만 그대로 남아 있었던 것에 놀랐다. 그것은 커다란 왕좌와 마주하는 작은 의자로 이어지고 있었다."
+msgstr "그 방은 한때 매우 화려하게 장식되어 있었던 것이 분명했지만, 거의 모든 것이 파괴되어 돌과 흙으로 된 바닥이 드러나 있었다. 남아 있는 것은 두개골과 짐승 가죽, 화려한 안료로 뒤덮인 커다란 돌 왕좌뿐이었다. 벽면은 한때 프레스코화와 난쟁이 룬 문자로 덮여 있었지만, 몇몇 트롤이 그것들을 열심히 벗겨 내고 있었다. 바닥에는 한때 어두운 석판이 깔려 있었지만, 이제는 이 방의 두 의자 주변에 작은 타일 조각 두 군데만 남아 있었다. 방 한가운데를 가로질러 이어지는 작은 타일 길만 훼손되지 않은 채 남아 있는 것이 놀라웠다. 그 길은 커다란 왕좌를 마주 보는 작은 돌 의자로 이어졌다."
 
 #. [message]: speaker=Great Leader Darmog
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07b_Talking_with_Trolls.cfg:331
@@ -5516,7 +5513,7 @@ msgid ""
 "about anything except gold and pretty gems. The shamans say that the spirits "
 "of our kin cry out for vengeance and Darmog will not rest until every dwarf "
 "is dead!"
-msgstr "모든 트롤족을 대표하여, 다르모그(Darmog)는 난쟁이들에 대한 큰 이김에 감사한다. 너희들은 불결한 난쟁이족을 물리치는데 도움이 되어주었고, 우리에게 지킴을 두껍게할 시간을 주었다. 우리 트롤족은 항상 난쟁이의 적이 아니다. 최근까지 우리는 작은 사람들과 접촉하는 일은 거의 없었다. 하지만 난쟁이족은 우리 터널들을 침범하고 우리의 거룩한 곳을 더럽히고 우리의 여자들과 어린 아이들을 죽였다. 난쟁이는 금과 예쁜 보석 외에는 아무 것도 신경 쓰지 않는다. 주술사들이 우리 일족의 영혼들이 복수를 외치고 울고 있다고 말해서, 다르모그(Darmog)는 모든 난쟁이족이 죽을때까지 멈추지 않을 것이다!"
+msgstr "모든 트롤족을 대표하여, 다르모그(Darmog)는 난쟁이들에 대한 큰 이김에 감사한다. 너희들은 불결한 난쟁이족을 물리치는데 도움이 되어주었고, 우리에게 지킴을 두껍게할 시간을 주었다. 우리 트롤족은 항상 난쟁이의 적이 아니다. 최근까지 우리는 작은 사람들과 접촉하는 일은 거의 없었다. 하지만 난쟁이족은 우리 터널들을 침범하고 우리의 거룩한 곳을 더럽히고 우리의 여자들과 어린 아이들을 죽였다. 난쟁이는 금과 예쁜 보석 외에는 아무것도 신경 쓰지 않는다. 주술사들이 우리 일족의 영혼들이 복수를 외치고 울고 있다고 말해서, 다르모그(Darmog)는 모든 난쟁이족이 죽을때까지 멈추지 않을 것이다!"
 
 #. [message]: speaker=Spiritual Advisor
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07b_Talking_with_Trolls.cfg:346
@@ -5593,7 +5590,7 @@ msgid ""
 "that he knows the upper tunnels the best. Nog want to help elves so even "
 "though he not want to leave battle, he agrees to show elves way back to "
 "lighted lands."
-msgstr "너희들은 트롤족을 위해 큰 일을 해줬다. 노그(Nog)는 터널 안을 돌아다는 것을 좋아하고, 족장은 그가 위쪽 터널을 가장 잘 안다고 말해줬다. 노그(Nog)는 비록 전장을 떠나고 싶지 않지만, 그래도 엘프족을 돕고 싶다. 노그(Nog)는 엘프족이 밝은 땅으로 돌아가는 길을 보여주는 것에 동의한다."
+msgstr "너희들은 트롤족을 위해 큰 일을 해줬다. 노그(Nog)는 터널 안을 돌아다는 것을 좋아하고, 족장은 그가 위쪽 터널을 가장 잘 안다고 말해줬다. 노그(Nog)는 비록 전장을 떠나고 싶지 않지만, 그래도 엘프족을 돕고 싶다. 노그(Nog)는 엘프족이 밝은 땅으로 돌아가는 길을 보여 주는 것에 동의한다."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07b_Talking_with_Trolls.cfg:416
@@ -5626,7 +5623,7 @@ msgid ""
 "none will forget. We wish we could come with you and fight more, but Great "
 "Leader need us to protect this city. Many dwarves still left, much fighting "
 "still to do. Griknagh will protect us, may he watch over you too."
-msgstr "너희들이 트롤족을 위해 해준 모든 것에 감사하고 있다. 너희들은 우리가 아는 가장 용감한 작은 사람들이다. 우리는 아무도 잊지 않도록 우리 가족 모두에게 너희들의 전투 이야기를 들려줄 것이다. 우리는 너희들과 함께 가서 더 많이 싸우고 싶지만 큰 대장이 이 도시를 지키기 위해 우리를 필요로 한다. 게다가 난쟁이족이 아직도 많이 남아있고, 아직 싸움은 끝나지 않았다. 그리크나그흐께서 우리를 지키고 있는것 처럼, 나는 너희들도 지켜주길 바랄 것이다."
+msgstr "너희들이 트롤족을 위해 해준 모든 것에 감사하고 있다. 너희들은 우리가 아는 가장 용감한 작은 사람들이다. 우리는 아무도 잊지 않도록 우리 가족 모두에게 너희들의 전투 이야기를 들려줄 것이다. 우리는 너희들과 함께 가서 더 많이 싸우고 싶지만 큰 대장이 이 도시를 지키기 위해 우리를 필요로 한다. 게다가 난쟁이족이 아직도 많이 남아있고, 아직 싸움은 끝나지 않았다. 그리크나그흐께서 우리를 지키고 있는 것 처럼, 나는 너희들도 지켜주길 바랄 것이다."
 
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07b_Talking_with_Trolls.cfg:469
@@ -5638,7 +5635,7 @@ msgid ""
 "of the last people still practicing magic, who knew I would find trolls "
 "still teaching it deep under the earth? There is just so much that I can "
 "learn from them, I can’t leave now."
-msgstr "난 이곳에서 지내는 동안 트롤족에 대해 많은 것을 배웠지만 아직도 배워야 할 것이 너무 많요. 그들의 마법은 놀라워요. 그들의 주술사를 본 적이 있나요? 그들은 맨손으로 불을 만들어요. 그들은 내 마법에 매우 관심이 많고 그들은 불을 피우는 방법을 가르쳐 주겠다고 말했어요. 마법을 사용할 수 있는 것은 나 말고는 얼마 남지 않았다고만 생각했는데, 땅속 깊은 곳에서 아직도 마술을 가르치고 있는 트롤족을 내가 발견할 줄 누가 알았겠어요? 그들에게서 배울 것이 너무 많아서 나는 지금 이 곳을 떠날 수가 없어요."
+msgstr "난 이곳에서 지내는 동안 트롤족에 대해 많은 것을 배웠지만 아직도 배워야 할 것이 너무 많요. 그들의 마법은 놀라워요. 그들의 주술사를 본 적이 있나요? 그들은 맨손으로 불을 만들어요. 그들은 내 마법에 매우 관심이 많고 그들은 불을 피우는 방법을 가르쳐 주겠다고 말했어요. 마법을 사용할 수 있는 것은 나 말고는 얼마 남지 않았다고만 생각했는데, 땅속 깊은 곳에서 아직도 마술을 가르치고 있는 트롤족을 내가 발견할 줄 누가 알았겠어요? 그들에게서 배울 것이 너무 많아서 나는 지금 이곳을 떠날 수가 없어요."
 
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07b_Talking_with_Trolls.cfg:479
@@ -5647,7 +5644,7 @@ msgid ""
 "what home your god has planned for you, Kaleh, but I believe in you, and I "
 "know that you will find a place for your people. My place is here, with the "
 "trolls. And you don’t really need me, you have each other."
-msgstr "트롤족의 도움을 받으면, 당신은 잘 해낼 수 있을 것 같아요. 칼레흐(Kaleh), 당신의 신이 당신들을 위해 어떤 땅을 계획했는지는 모르지만, 나는 당신을 믿어요, 당신은 동료들을 위한 장소를 찾을 수 있을거에요. 내가 있을곳은 여기 트롤족이 있는곳이에요. 그리고 당신에게는 내가 정말로 필요하지 않아요. 당신에게는 동료들이 있으니까요."
+msgstr "트롤족의 도움을 받으면, 당신은 잘 해낼 수 있을 것 같아요. 칼레흐(Kaleh), 당신의 신이 당신들을 위해 어떤 땅을 계획했는지는 모르지만, 나는 당신을 믿어요, 당신은 동료들을 위한 장소를 찾을 수 있을 거예요. 내가 있을 곳은 여기 트롤족이 있는 곳이에요. 그리고 당신에게는 내가 정말로 필요하지 않아요. 당신에게는 동료들이 있으니까요."
 
 #. [message]: speaker=Elyssa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07b_Talking_with_Trolls.cfg:499
@@ -5657,7 +5654,7 @@ msgid ""
 "the dwarves and with some help from the trolls I have enchanted this fire "
 "blade for you. May its flames always light your path, and strike down your "
 "enemies. I give this to all of you as a token of my gratitude."
-msgstr "고마워요. 그리고 트롤족을 발견한 것은 정말 여러분들의 덕분입니다. 나 혼자서는 결코 이곳 지하 깊숙이 올 수 없었을거에요. 그래서 난쟁이족과 싸우다가 이 검을 발견하고 당신들을 위해 트롤족의 도움을 받아 불꽃 칼날을 강화시켰어요.그 불꽃이 항상 당신의 길을 밝히고, 당신의 적들을 쓰러뜨리길 바랍니다. 감사의 표시로 이것을 여러분 모두에게 드릴게요."
+msgstr "고마워요. 그리고 트롤족을 발견한 것은 정말 여러분들의 덕분입니다. 나 혼자서는 결코 이곳 지하 깊숙이 올 수 없었을 거예요. 그래서 난쟁이족과 싸우다가 이 검을 발견하고 당신들을 위해 트롤족의 도움을 받아 불꽃 칼날을 강화시켰어요.그 불꽃이 항상 당신의 길을 밝히고, 당신의 적들을 쓰러뜨리길 바랍니다. 감사의 표시로 이것을 여러분 모두에게 드릴게요."
 
 #. [message]: speaker=Great Leader Darmog
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07b_Talking_with_Trolls.cfg:537
@@ -5666,7 +5663,7 @@ msgid ""
 "And now Darmog think you should be off as soon as possible. The dwarves are "
 "sneaky, they retreat today but may attack again tomorrow. The sooner you "
 "leave the safer you will be."
-msgstr "그리고 다르모그(Darmog)는 너희들이 가능한 한 빨리 떠나는게 좋겠다고 생각한다. 난쟁이들은 교활해서, 오늘은 퇴각해도 내일은 다시 공격해 올지도 모른다. 너희들은 빨리 떠날수록 안전해진다."
+msgstr "그리고 다르모그(Darmog)는 너희들이 가능한 한 빨리 떠나는 게 좋겠다고 생각한다. 난쟁이들은 교활해서, 오늘은 퇴각해도 내일은 다시 공격해 올지도 모른다. 너희들은 빨리 떠날수록 안전해진다."
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/07b_Talking_with_Trolls.cfg:542
@@ -5806,7 +5803,7 @@ msgstr "복수자 트롤(Troll)"
 msgid ""
 "Foul elves, you not escaped us yet. Great Leader will be avenged! We plugged "
 "river and you all drown with us!"
-msgstr "사악한 엘프족아, 야, 우리에게서 도망쳤다고 생각하지마라. 큰 대장의 복수를 할 것이다! 우리가 강을 막았으니 너희들과 우리는 함께 빠져 죽게될 것이다!"
+msgstr "사악한 엘프족아, 야, 우리에게서 도망쳤다고 생각하지 마라. 큰 대장의 복수를 할 것이다! 우리가 강을 막았으니 너희들과 우리는 함께 빠져 죽게될 것이다!"
 
 #. [unit]: type=Dwarvish Fighter
 #. [unit]: type=Dwarvish Thunderguard
@@ -5823,7 +5820,7 @@ msgid ""
 "Foul elves, you have not escaped yet. Our chieftain shall be avenged! We "
 "have dammed the river and soon all shall drown in its dark waters. Come join "
 "us in death!"
-msgstr "사악한 엘프족아, 우리에게서 도망쳤다고 생각하지마라. 우리의 족장의 복수를 할 것이다! 우리가 강을 막아서 곧 모두가 그 어두운 물에 삼켜져 죽을 것이다. 우리와 함께 죽음으로 가자!"
+msgstr "사악한 엘프족아, 우리에게서 도망쳤다고 생각하지 마라. 우리의 족장의 복수를 할 것이다! 우리가 강을 막아서 곧 모두가 그 어두운 물에 삼켜져 죽을 것이다. 우리와 함께 죽음으로 가자!"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:708
@@ -5934,7 +5931,7 @@ msgid ""
 "eyes, hulking brutes with brains as small as a barnacle. They lurk deep in "
 "the earth and hate everything that lives above ground. This must be an "
 "invasion! The trolls must have started the flood!"
-msgstr "그래, 내 할머니가 우리에게 말하곤 했던 것과 똑같군. 짙은 회색 피부, 구슬같은 붉은 눈, 따개비만큼 작은 두뇌를 가진 거대한 짐승들. 놈들은 땅 속 깊은 곳에 숨어 땅 위에 사는 모든 것을 싫어하지. 이건 침략임에 틀림없어! 트롤족이 홍수를 일으킨 거야!"
+msgstr "그래, 우리 할머니가 예전에 말해 주던 것과 똑같군. 키가 작고 다부지며 턱수염이 길고, 갑오징어처럼 교활한 더러운 놈들이지. 놈들은 지하에 숨어 있다가 손에 넣을 수 있는 귀중품을 훔치러 올라와. 이건 놈들의 음모 중 일부임이 틀림없어. 난쟁이들이 홍수를 일으킨 게 분명해!"
 
 #. [set_variable]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:944
@@ -5960,9 +5957,7 @@ msgid ""
 "underground and only come up to steal whatever valuables they can get their "
 "hands on. This must part of their plot. The dwarves must have started the "
 "flood!"
-msgstr ""
-"그래, 내 할머니가 우리에게 말하곤 했던 것과 똑같군. 짧고 땅딸막하고, 긴 턱수염, 갑오징어처럼 교활하고 더러운 놈들. \n"
-"놈들은 지하에 숨어 있다가 손에 넣을 수 있는 귀중품을 훔치러 올 뿐이지. 이건 그들의 음모의 일부임에 틀림없어. 난쟁이족이 홍수를 일으킨 거야!"
+msgstr "그래, 우리 할머니가 예전에 말해 주던 것과 똑같군. 키가 작고 다부지며 턱수염이 길고, 갑오징어처럼 교활한 더러운 놈들이지. 놈들은 지하에 숨어 있다가 손에 넣을 수 있는 귀중품을 훔치러 올라와. 이건 놈들의 음모 중 일부임이 틀림없어. 난쟁이들이 홍수를 일으킨 게 분명해!"
 
 #. [set_variable]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:963
@@ -5986,7 +5981,7 @@ msgid ""
 "Yeah, just like my old grandmam used to tell us: pointy ears, those shifty "
 "eyes, hearts as hard as a hermit crab’s shell. It must be an invasion! They "
 "must have started the flood!"
-msgstr "그래, 내 할머니가 우리에게 말하곤 했던 것과 똑같군. 뾰족한 귀, 그 교활한 눈, 소라게 껍질처럼 단단한 심장들. 침략이 틀림없어! 그들이 홍수를 일으킨 거야!"
+msgstr "그래, 우리 할머니가 예전에 말해 주던 것과 똑같군. 키가 작고 다부지며 턱수염이 길고, 갑오징어처럼 교활한 더러운 놈들이지. 놈들은 지하에 숨어 있다가 손에 넣을 수 있는 귀중품을 훔치러 올라와. 이건 놈들의 음모 중 일부임이 틀림없어. 난쟁이들이 홍수를 일으킨 게 분명해!"
 
 #. [set_variable]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:982
@@ -6054,7 +6049,7 @@ msgstr "와우, 여기는 뭐하는 곳이지? 확실히 잘 지켜지고 있는
 msgid ""
 "This is an ancient fortress. Who lived here I do not know, but it has been "
 "long since abandoned."
-msgstr "이 곳은 고대 요새입니다. 여기에 누가 살았는지는 모르지만 버려진지 오래되었습니다."
+msgstr "이곳은 고대 요새입니다. 여기에 누가 살았는지는 모르지만 버려진지 오래되었습니다."
 
 #. [message]: speaker=$ally_id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:1138
@@ -6089,7 +6084,7 @@ msgid ""
 "should find it. The only problem is that the passage is long and windy, and "
 "it will cost us precious minutes. With the water rising that may be time we "
 "don’t have to spend. I leave the final decision up to you, Kaleh."
-msgstr "기다려요. 눈앞의 방은 함정이 설치되어 있어 삼엄하게 지키지고 있을 겁니다. 여기에는 샛길이 있습니다. 예전에 여기를 탐색했을 때 정문을 우회하는 숨겨진 통로를 찾았습니다. 이 동굴 남쪽의 벽면을 찾으면 찾을 수 있을 것입니다. 다만 그 길이 길고 구불구불하기 때문에 귀중한 시간을 소모해야하는 것이 문제입니다. 물이 불어나고 있는 지금, 시간은 무엇보다 소중하니까. 최종 결정은 당신에게 맡기겠습니다, 칼레흐(Kaleh)."
+msgstr "잠깐. 눈앞의 방에는 함정이 있고 경비도 삼엄할 겁니다. 다른 길이 있어요. 예전에 이곳을 탐색했을 때 정문을 우회하는 비밀 통로를 찾았어요. 이 동굴의 남쪽 벽을 따라가면 찾을 수 있을 겁니다. 다만 통로가 길고 구불구불해서 귀중한 시간을 써야 한다는 게 문제예요. 물이 차오르는 지금은 그럴 시간이 없을지도 몰라요. 최종 결정은 칼레흐(Kaleh)에게 맡길게요."
 
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:1187
@@ -6167,7 +6162,7 @@ msgid ""
 "center. This fort must have once been heavily occupied because countless "
 "feet have left well worn paths leading in several directions. Grog, which "
 "way should we go?"
-msgstr "이 동굴은 중앙에 있는 두 개의 빛나는 룬을 제외하고는 아무것도 없는 것 같아요. 그것과 무수한 발자국으로 짓밟힌 길의 흔적이 몇 개 남아 있는것으로 보니 과거에는 이 진지에 상당한 인원이 배치되어 있었음에 틀림없어요. 그런데 그로그(Grog), 어느 쪽으로 가야하나요?"
+msgstr "이 동굴은 중앙에 있는 두 개의 빛나는 룬을 제외하면 아무것도 없는 것 같아요. 빛나는 룬과 무수한 발자국에 짓밟힌 길의 흔적이 몇 개 남아 있는 것으로 보니, 과거에는 이 진지에 상당한 인원이 배치되어 있었음이 틀림없어요. 그런데 그로그(Grog), 어느 쪽으로 가야 하나요?"
 
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:1443
@@ -6176,7 +6171,7 @@ msgid ""
 "center. This fort must have once been heavily occupied because countless "
 "feet have left well worn paths leading in several directions. Nog, which way "
 "should we go?"
-msgstr "이 동굴은 중앙에 있는 두 개의 빛나는 룬을 제외하고는 아무것도 없는 것 같아요. 그것과 무수한 발자국으로 짓밟힌 길의 흔적이 몇 개 남아 있는것으로 보니 과거에는 이 진지에 상당한 인원이 배치되어 있었음에 틀림없어요. 그런데 노그(Nog), 어느 쪽으로 가야하나요?"
+msgstr "이 동굴은 중앙에 있는 두 개의 빛나는 룬을 제외하면 아무것도 없는 것 같아요. 빛나는 룬과 무수한 발자국에 짓밟힌 길의 흔적이 몇 개 남아 있는 것으로 보니, 과거에는 이 진지에 상당한 인원이 배치되어 있었음이 틀림없어요. 그런데 노그(Nog), 어느 쪽으로 가야 하나요?"
 
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:1449
@@ -6185,7 +6180,7 @@ msgid ""
 "center. This fort must have once been heavily occupied because countless "
 "feet have left well worn paths leading in several directions. Rogrimir, "
 "which way should we go?"
-msgstr "이 동굴은 중앙에 있는 두 개의 빛나는 룬을 제외하고는 아무것도 없는 것 같아요. 그것과 무수한 발자국으로 짓밟힌 길의 흔적이 몇 개 남아 있는것으로 보니 과거에는 이 진지에 상당한 인원이 배치되어 있었음에 틀림없어요. 그런데 로그리미르(Rogrimir), 어느 쪽으로 가야하나요?"
+msgstr "이 동굴은 중앙에 있는 두 개의 빛나는 룬을 제외하면 아무것도 없는 것 같아요. 빛나는 룬과 무수한 발자국에 짓밟힌 길의 흔적이 몇 개 남아 있는 것으로 보니, 과거에는 이 진지에 상당한 인원이 배치되어 있었음이 틀림없어요. 그런데 로그리미르(Rogrimir), 어느 쪽으로 가야 하나요?"
 
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:1455
@@ -6194,7 +6189,7 @@ msgid ""
 "center. This fort must have once been heavily occupied because countless "
 "feet have left well worn paths leading in several directions. Jarl, which "
 "way should we go?"
-msgstr "이 동굴은 중앙에 있는 두 개의 빛나는 룬을 제외하고는 아무것도 없는 것 같아요. 그것과 무수한 발자국으로 짓밟힌 길의 흔적이 몇 개 남아 있는것으로 보니 과거에는 이 진지에 상당한 인원이 배치되어 있었음에 틀림없어요. 그런데 자를(Jarl), 어느 쪽으로 가야하나요?"
+msgstr "이 동굴은 중앙에 있는 두 개의 빛나는 룬을 제외하면 아무것도 없는 것 같아요. 빛나는 룬과 무수한 발자국에 짓밟힌 길의 흔적이 몇 개 남아 있는 것으로 보니, 과거에는 이 진지에 상당한 인원이 배치되어 있었음이 틀림없어요. 그런데 자를(Jarl), 어느 쪽으로 가야 하나요?"
 
 #. [message]: speaker=$ally_id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:1461
@@ -6211,7 +6206,7 @@ msgid ""
 "glowing runes in the center. When I last came this way I got scared by the "
 "runes and other things moving in the shadows and explored no further. I’m "
 "afraid I cannot advise you which way to go from here."
-msgstr "수많은 발들이 남긴 많은 발자국들은 이 요새가 한때 사람들이 심하게 점령했음을 분명하게 보여주고 있지만, 지금 이 지역은 중앙에 빛나는 두 개의 룬을 제외하고는 텅 비어 있어요. 제가 마지막으로 이 길을 왔을 때 저는 그림자 속에서 움직이는 룬들과 다른 것들 때문에 겁을 먹고 더 이상 탐험하지 않았어요. 그래서 미안하지만 여기서 어느 길로 가야 할지 조언드리기 어렵겠네요."
+msgstr "수많은 발들이 남긴 많은 발자국들은 이 요새가 한때 사람들이 심하게 점령했음을 분명하게 보여 주고 있지만, 지금 이 지역은 중앙에 빛나는 두 개의 룬을 제외하고는 텅 비어 있어요. 제가 마지막으로 이 길을 왔을 때 저는 그림자 속에서 움직이는 룬들과 다른 것들 때문에 겁을 먹고 더 이상 탐험하지 않았어요. 그래서 미안하지만 여기서 어느 길로 가야 할지 조언드리기 어렵겠네요."
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:1475
@@ -6280,7 +6275,7 @@ msgstr "네."
 #. [message]: speaker=Blessed Kali
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:1659
 msgid "Dani, keep your feet moving. If you stand still you’re a dead man."
-msgstr "다니(Dani), 발을 계속 움직여요. 움직임을 멈추면 죽임을 당하고 말거에요."
+msgstr "다니(Dani), 발을 계속 움직여요. 움직임을 멈추면 죽임을 당하고 말 거예요."
 
 #. [message]: speaker=Novice Dani
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:1664
@@ -6453,7 +6448,7 @@ msgid ""
 "Some sort of clawed creature and a tortured young ogre. And behind them is "
 "some huge beast floating in the middle of a magic circle. The beast seems "
 "asleep, but the front two are very much awake. And boy do they seem angry."
-msgstr "이 방은 한때 어떤 실험실이었던 것 같아요. 바닥에는 깨진 병과 이상한 기구가 흩어져 있어요. 그것보다 눈길을 끄는 것은 빛을 발하는 룬 문자와 그 위에 나타난 생물이에요. 일종의 갈퀴가 달린 괴물과 무언가 끔찍한 고문을 받았던 어린 오우거에요. 그 뒤에는 어떤 거대한 짐승이 마법진 가운데에 떠있어요. 큰 짐승은 잠든 것 같지만, 앞에 있는 두 마리는 완전히 깨어 있어요. 매우큰 일같은데 놈들이 매우 화가 난것처럼 보여요."
+msgstr "이 방은 한때 어떤 실험실이었던 것 같아요. 바닥에는 깨진 병과 이상한 기구가 흩어져 있어요. 그것보다 눈길을 끄는 것은 빛을 발하는 룬 문자와 그 위에 나타난 생물이에요. 일종의 갈퀴가 달린 괴물과 무언가 끔찍한 고문을 받았던 어린 오우거예요. 그 뒤에는 어떤 거대한 짐승이 마법진 가운데에 떠 있어요. 큰 짐승은 잠든 것 같지만, 앞에 있는 두 마리는 완전히 깨어 있어요. 매우 큰일 같은데 놈들이 매우 화가 난 것처럼 보여요."
 
 #. [message]: speaker=Failed Experiment 1
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2014
@@ -6475,7 +6470,7 @@ msgid ""
 "center of the glowing magical circle. I could scratch out part of the circle "
 "and break it, but I have no idea what the consequences would be. I’m not "
 "sure I want something with that kind of strength attacking me."
-msgstr "이 마법진 가운데는 솟구치는 근육과 핏발이 선 눈을 가진 거대한 생물이 있어요. 그의 온 몸을 뒤덮는 가느다란 실밥을 빼면 그냥 아주 덩치 큰 남자라고 생각했을지 모르겠어요. 실제로는 그것은 많은 신체 부위들이 함께 꿰매어져 있는 것처럼 보입니다. 그것은 빛나는 마법진 가운데에서 떠있는체로 잠든 것처럼 보여요. 마법진의 일부를 긁어지워 깨뜨릴 수 도 있을 것 같지만, 어떤 결과가 될지는 상상할 수 없어요. 그런 힘을 가진 것이 나를 공격하는 것을 원하는지 잘 모르겠어요."
+msgstr "이 마법진 한가운데에는 솟구친 근육과 핏발 선 눈을 가진 거대한 생물이 있어요. 온몸을 덮은 가느다란 봉합선만 아니었다면 그저 아주 큰 사람이라고 생각했을 거예요. 실제로는 여러 신체 부위를 꿰매어 만든 것처럼 보입니다. 빛나는 마법진 한가운데에서 잠든 채 떠 있는 것 같아요. 마법진 일부를 긁어내 깨뜨릴 수는 있겠지만, 어떤 결과가 따를지는 전혀 모르겠어요. 저렇게 강한 존재가 나를 공격하게 만들고 싶은지는 잘 모르겠네요."
 
 #. [option]
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2044
@@ -6878,7 +6873,7 @@ msgstr "허, 허, 아니지 너는 나를 찾지 않았어. 나는 잔해 속에
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2688
 msgid "Watch what?"
-msgstr "도대체 뭘 보여주었지?"
+msgstr "도대체 뭘 보여 주었지?"
 
 #. [message]: speaker=Cloaked Figure
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2693
@@ -6954,7 +6949,7 @@ msgstr "나는 이걸로 더 이상 죽음을 두려워하지 않아도 될 것 
 msgid ""
 "He’s dead. Rest in peace. Oh, what have I done? All our dead kin, desecrated "
 "and tormented for eternity."
-msgstr "그는 죽었어요. 이젠 편히 쉬길바라네. 그렇지만, 아, 도대체 나는 무슨 짓을 하고 있었던 거지? 우리의 모든 죽은 동포들은 모독당하고 영원히 고통받고 있다니..."
+msgstr "그는 죽었어요. 이젠 편히 쉬길 바라네. 그렇지만, 아, 도대체 나는 무슨 짓을 하고 있었던 거지? 우리의 모든 죽은 동포들은 모독당하고 영원히 고통받고 있다니..."
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2756
@@ -7044,7 +7039,7 @@ msgid ""
 "Grog, thank you so much for leading us out of the caves. We never would have "
 "found our way without your help. But with the tunnels flooded, how are you "
 "going to find your way back to your people?"
-msgstr "그로그(Grog), 우리를 동굴 밖으로 이끌어줘서 정말 고맙습니다. 당신의 도움이 없었다면 우리는 결코 길을 찾지 못했을 거에요. 하지만 터널이 물에 잠기면서, 당신은 어떻게 동료들에게 돌아갈 길을 찾을 수 있을까요?"
+msgstr "그로그(Grog), 우리를 동굴 밖으로 이끌어줘서 정말 고맙습니다. 당신의 도움이 없었다면 우리는 결코 길을 찾지 못했을 거예요. 하지만 터널이 물에 잠기면서, 당신은 어떻게 동료들에게 돌아갈 길을 찾을 수 있을까요?"
 
 #. [message]: speaker=Grog
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2891
@@ -7078,7 +7073,7 @@ msgid ""
 "Nog, thank you so much for leading us out of the caves. We never would have "
 "found our way without your help. But with the tunnels flooded, how are you "
 "going to find your way back to your people?"
-msgstr "노그(Nog), 우리를 동굴 밖으로 이끌어줘서 정말 고맙습니다. 당신의 도움이 없었다면 우리는 결코 길을 찾지 못했을 거에요. 하지만 터널이 물에 잠기면서, 당신은 어떻게 동료들에게 돌아갈 길을 찾을 수 있을까요?"
+msgstr "노그(Nog), 우리를 동굴 밖으로 이끌어줘서 정말 고맙습니다. 당신의 도움이 없었다면 우리는 결코 길을 찾지 못했을 거예요. 하지만 터널이 물에 잠기면서, 당신은 어떻게 동료들에게 돌아갈 길을 찾을 수 있을까요?"
 
 #. [message]: speaker=Nog
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:2912
@@ -7254,7 +7249,7 @@ msgstr "너를 불렀다, 칼레흐(Kaleh), 나는 엘로(Eloh)이니라."
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3287
 msgid "But I am not asleep? And yet I can see you? How is this possible?"
-msgstr "그런데 나는 자고 있지 않았나요? 그런데도 나는 당신을 볼 수 있는것인가요? 이것이 어떻게 가능한건가요?"
+msgstr "그런데 나는 자고 있지 않았나요? 그런데도 나는 당신을 볼 수 있는 것인가요? 이것이 어떻게 가능한건가요?"
 
 #. [message]: speaker=Eloh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3292
@@ -7554,7 +7549,7 @@ msgid ""
 "There’s no time. Right now we have to prepare ourselves for another battle. "
 "I’d better head back to the outpost and rally our troops. I fear a whole lot "
 "of hurt is going to be coming up through those hills very soon."
-msgstr "시간이 없어요. 지금은 싸울 준비를 해야 해요. 전초 기지로 돌아가서 병력을 집결시켜야해요. 곧 저 언덕들 사이로 수많은 우릴 해치려는 자들이 올라올 거에요."
+msgstr "시간이 없어요. 지금은 싸울 준비를 해야 해요. 전초 기지로 돌아가서 병력을 집결시켜야해요. 곧 저 언덕들 사이로 수많은 우릴 해치려는 자들이 올라올 거예요."
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3609
@@ -7607,7 +7602,7 @@ msgid ""
 "outpost isn’t guarded as heavily as you might think. The garrison seems only "
 "half-manned. They obviously didn’t expect any serious attack to come from "
 "this direction."
-msgstr "어쨌든 너는 우리를 정말 엉망으로 만들었어. 좋은 소식은 전초 기지가 생각만큼 방비가 두텁지 않아. 수비대는 인원이 절반밖에 안 되는 것 같아. 이쪽에서 공격받을 줄은 꿈에도 몰랐나 봐."
+msgstr "어쨌든 너 때문에 우리가 정말 곤란한 처지가 됐어. 다행히 전초 기지는 생각만큼 삼엄하게 지켜지고 있지 않아. 수비대도 정원의 절반 정도밖에 안 되는 것 같고. 이쪽에서 제대로 공격해 올 줄은 꿈에도 몰랐나 봐."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3724
@@ -7676,7 +7671,7 @@ msgstr "언데드 대장"
 msgid ""
 "I don’t understand. What are these humans doing here? I’ve never seen so "
 "many in one place before."
-msgstr "이해가 안 돼요. 이 인간들은 여기서 뭐하고 있는 걸까요? 한 곳에서 이렇게 많이 있는것은 본 적이 없어요."
+msgstr "이해가 안 돼요. 이 인간들은 여기서 뭐하고 있는 걸까요? 한 곳에서 이렇게 많이 있는 것은 본 적이 없어요."
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3863
@@ -7710,7 +7705,7 @@ msgid ""
 "for the information, Zhul; these humans are good fighters but they are no "
 "match for our speed and skill. I grew up fighting in dunes such as these, "
 "and I will not be bested by a bunch of ruffians."
-msgstr "맞아, 할 수 없지. 하지만 지금은 눈앞의 문제에 대처해야 해. 알려줘서 고마워요, 줄(Zhul)… 이 인간들은 훌륭한 싸움꾼이지만 우리의 민첩함과 기술에는 상대가 되지 못해요. 나는 이런 모래 언덕에서 싸우며 자랐고, 악당 무리에게 지지 않을 거에요."
+msgstr "맞아, 할 수 없지. 하지만 지금은 눈앞의 문제에 대처해야 해. 알려줘서 고마워요, 줄(Zhul)… 이 인간들은 훌륭한 싸움꾼이지만 우리의 민첩함과 기술에는 상대가 되지 못해요. 나는 이런 모래 언덕에서 싸우며 자랐고, 악당 무리에게 지지 않을 거예요."
 
 #. [message]: speaker=Sergeant Durstrag
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:3916
@@ -7809,7 +7804,7 @@ msgstr "모르겠어요, 하지만 우리가 알게 될까봐 걱정돼요."
 msgid ""
 "You’re being very cryptic, Kaleh. Now that the battle is over would you care "
 "to explain to us who you were talking to back when we first met the humans?"
-msgstr "그건 그렇고, 칼레흐(Kaleh), 당신은 뭔가 숨기는 것이 있는것 같아. 이제 전투는 끝났으니 우리가 인간들을 만나기 직전에 누구와 이야기하고 있었는지 말해 줄래?"
+msgstr "그건 그렇고, 칼레흐(Kaleh), 당신은 뭔가 숨기는 것이 있는 것 같아. 이제 전투는 끝났으니 우리가 인간들을 만나기 직전에 누구와 이야기하고 있었는지 말해 줄래?"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4140
@@ -7827,7 +7822,7 @@ msgid ""
 "Yes, yes of course I do. But it’s just a theory. I don’t want to say more "
 "until I have proof. Give me until tomorrow night, then I’ll tell you "
 "everything."
-msgstr "아니, 당연히 믿어. 그러나 아직 생각이 정리되지 않았어. 증거가 나올 때까지 말하고 싶지 않아. 내일 밤까지만 기다려줘, 그때 모두 이야기할께."
+msgstr "아니, 당연히 믿어. 그러나 아직 생각이 정리되지 않았어. 증거가 나올 때까지 말하고 싶지 않아. 내일 밤까지만 기다려줘, 그때 모두 이야기할게."
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4155
@@ -7898,7 +7893,7 @@ msgstr "그녀는... 조금 모호했어요. 나는 우리가 북쪽으로 가�
 msgid ""
 "Don’t you worry about us, Kaleh. We’ll be careful. I’ll organize five bands "
 "to scout out the nearby lands. We should be back in about half a day."
-msgstr "우리 걱정은 하지마, 칼레흐(Kaleh). 신중하게 행동할게. 나는 5개 정도 부대를 편성해 주위를 탐색해 볼 거야. 우리는 반나절 정도 뒤에 돌아올 거야."
+msgstr "우리 걱정은 하지 마, 칼레흐(Kaleh). 신중하게 행동할게. 나는 5개 정도 부대를 편성해 주위를 탐색해 볼 거야. 우리는 반나절 정도 뒤에 돌아올 거야."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4200
@@ -8017,7 +8012,7 @@ msgstr "바다? 무슨 얘기를 하는 건가요?"
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4609
 msgid "Don’t try to explain, Esanoo. We’ll have to show them instead."
-msgstr "설명 안 해도 돼요, 에사누(Esanoo). 나중에 실물 보여주면 되니까."
+msgstr "설명 안 해도 돼요, 에사누(Esanoo). 나중에 실물 보여 주면 되니까."
 
 #. [message]: speaker=Esanoo
 #. Esanoo is a merman, his leader (Melusand) is female, and his brethren on this mission include a mix of genders.
@@ -8056,7 +8051,7 @@ msgstr "우리 대장은 당신이 의심할 수도 있다고 생각했었습니
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4640
 msgid "Hmmmm... Yes, yes I think I do. I don’t know why, but I trust you."
-msgstr "흐음... 그래, 그래요, 그런 것 같아요. 무슨 말인지는 모르겠지만 난 당신을 믿을께요."
+msgstr "흐음... 그래, 그래요, 그런 것 같아요. 무슨 말인지는 모르겠지만 난 당신을 믿을게요."
 
 #. [message]: speaker=Esanoo
 #: data/campaigns/Under_the_Burning_Suns/scenarios/08_Out_of_the_Frying_Pan.cfg:4645
@@ -8174,7 +8169,7 @@ msgstr "4 척의 모든 배를 나포하라"
 #. [objective]: condition=win
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:353
 msgid "Three merfolk must survive"
-msgstr "3명 이상의 인어를 살아남야 한다"
+msgstr "인어족 3명이 생존해야 한다"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:391
@@ -8323,7 +8318,7 @@ msgstr "그래, 우리는 영웅이 될 거야!"
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:494
 msgid "Not if we gut you first. Attack!"
-msgstr "우리가 먼저 너희를 먼저 뽑아내지 않으면 안되겠군. 공격!"
+msgstr "우리가 먼저 너희의 배를 갈라야겠군. 공격!"
 
 #. [message]: id=scout1
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:498
@@ -8503,7 +8498,7 @@ msgstr "드디어 자유다! 바다의 신님, 고맙습니다. 그런데 잠깐
 msgid ""
 "Thank you for rescuing me. We’ll show those humans the true fury of the "
 "merfolk!"
-msgstr "도와주셔서 감사합니다. 지금부터 인간들에게 인어의 진정한 분노를 보여주겠다!"
+msgstr "도와주셔서 감사합니다. 지금부터 인간들에게 인어의 진정한 분노를 보여 주겠다!"
 
 #. [unit]: type=Merman Warrior, id=Nuvassa
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:846
@@ -8691,7 +8686,7 @@ msgid ""
 "The time has come, my brethren. On this most holy day, let us sacrifice "
 "these infidels unto The Dark Lady. Their suffering shall be a testament to "
 "her power and glory!"
-msgstr "때가 왔다, 형제들이여. 이 거룩한 날에, 이교도들을 어둠의 숙녀에게 바치자. 제물들의 고통은 그녀의 힘과 영광을 보여주는 증거가 될 것이다!"
+msgstr "때가 왔다, 형제들이여. 이 거룩한 날에, 이교도들을 어둠의 숙녀에게 바치자. 제물들의 고통은 그녀의 힘과 영광을 보여 주는 증거가 될 것이다!"
 
 #. [message]: speaker=Esanoo
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:1373
@@ -8910,7 +8905,7 @@ msgid ""
 "knew better than me, I who have watched over you for generations. He wanted "
 "to lead you astray. In these perilous lands, the fate of your journey stands "
 "upon the edge of a knife, falter once and all shall fail."
-msgstr "그러나 자신의 힘에 의해 타락하여 나의 신성한 계획을 거부한 자가 있었다. 그 자는 나의 권위를 찬탈하려 했다. 그 자는 믿음이 없었고, 대대로 너희를 지켜온 나보다 자신이 더 잘 안다고 믿었다. 그 자는 너희를 잘못된 길로 인도하려 한다. 이 위험한 땅에서, 너희의 여정의 운명은 칼날 위에 서는것과 같고, 한번 흔들리면 모든 것이 끝나버릴 지니라."
+msgstr "그러나 자신의 힘에 의해 타락하여 나의 신성한 계획을 거부한 자가 있었다. 그 자는 나의 권위를 찬탈하려 했다. 그 자는 믿음이 없었고, 대대로 너희를 지켜온 나보다 자신이 더 잘 안다고 믿었다. 그 자는 너희를 잘못된 길로 인도하려 한다. 이 위험한 땅에서, 너희의 여정의 운명은 칼날 위에 서는것과 같고, 한 번 흔들리면 모든 것이 끝나버릴 지니라."
 
 #. [message]: speaker=Eloh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:1771
@@ -8943,7 +8938,7 @@ msgid ""
 "caves, she appeared to me again, and told me to bow down to the humans, else "
 "she would destroy me. Never has Eloh threatened one of us or dictated our "
 "actions."
-msgstr "잠깐만, 여러분들, 속지마십시오! 탄스타파알(Tanstafaal)의 곁에 나타난 것은 우리의 신이 아닙니다. 저도 처음에는 속았지만, 그녀의 행동을 보고 그녀가 사기꾼이라는 것을 알게 되었습니다. 가라크(Garak)가 죽기 전날 밤, 그녀가 내게 나타났었는데, 그녀는 산 아래에 사는 모든 것, 심지어 우리를 도와준 난쟁이들까지 모두 죽이라고 말했습니다. 마찬가지로 우리가 동굴에서 탈출했을 때, 그녀는 다시 나에게 나타나 인간에게 굴복하도록 말했습니다. 그렇지 않으면 나를 파멸하겠다고 했습니다. 엘로(Eloh)는 우리를 위협하거나 우리의 행동을 지시한 적이 한번도 없었습니다."
+msgstr "잠깐만, 여러분들, 속지 마십시오! 탄스타파알(Tanstafaal)의 곁에 나타난 것은 우리의 신이 아닙니다. 저도 처음에는 속았지만, 그녀의 행동을 보고 그녀가 사기꾼이라는 것을 알게 되었습니다. 가라크(Garak)가 죽기 전날 밤, 그녀가 내게 나타났었는데, 그녀는 산 아래에 사는 모든 것, 심지어 우리를 도와준 난쟁이들까지 모두 죽이라고 말했습니다. 마찬가지로 우리가 동굴에서 탈출했을 때, 그녀는 다시 나에게 나타나 인간에게 굴복하도록 말했습니다. 그렇지 않으면 나를 파멸하겠다고 했습니다. 엘로(Eloh)는 우리를 위협하거나 우리의 행동을 지시한 적이 한 번도 없었습니다."
 
 #. [message]: role=fighter_speaker
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:1789
@@ -8977,7 +8972,7 @@ msgid ""
 "caves, she appeared to me again, and told me to bow down to the humans, else "
 "she would destroy me. Never has Eloh threatened one of us or dictated our "
 "actions."
-msgstr "잠깐만, 여러분들, 속지마십시오! 탄스타파알(Tanstafaal)의 곁에 나타난 것은 우리의 신이 아닙니다. 저도 처음에는 속았지만, 그녀의 행동을 보고 그녀가 사기꾼이라는 것을 알게 되었습니다. 가라크(Garak)가 죽기 전날 밤, 그녀가 내게 나타났었는데, 그녀는 산 아래에 사는 모든 것, 심지어 우리를 도와준 트롤들까지 모두 죽이라고 말했습니다. 마찬가지로 우리가 동굴에서 탈출했을 때, 그녀는 다시 나에게 나타나 인간에게 굴복하도록 말했습니다. 그렇지 않으면 나를 파멸하겠다고 했습니다. 엘로(Eloh)는 우리를 위협하거나 우리의 행동을 지시한 적이 한번도 없었습니다."
+msgstr "잠깐만, 여러분들, 속지 마십시오! 탄스타파알(Tanstafaal)의 곁에 나타난 것은 우리의 신이 아닙니다. 저도 처음에는 속았지만, 그녀의 행동을 보고 그녀가 사기꾼이라는 것을 알게 되었습니다. 가라크(Garak)가 죽기 전날 밤, 그녀가 내게 나타났었는데, 그녀는 산 아래에 사는 모든 것, 심지어 우리를 도와준 트롤들까지 모두 죽이라고 말했습니다. 마찬가지로 우리가 동굴에서 탈출했을 때, 그녀는 다시 나에게 나타나 인간에게 굴복하도록 말했습니다. 그렇지 않으면 나를 파멸하겠다고 했습니다. 엘로(Eloh)는 우리를 위협하거나 우리의 행동을 지시한 적이 한 번도 없었습니다."
 
 #. [message]: role=fighter_speaker
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:1803
@@ -9247,7 +9242,7 @@ msgstr "작은 부분이든 아니든, 당신을 파괴하는 것이 치명적�
 #. [message]: speaker=Eloh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:2174
 msgid "Don’t worry Kaleh, we will see each other again... I promise."
-msgstr "걱정하지마라, 칼레흐(Kaleh), 우리는 다시 만날 것이다... 약속하겠다."
+msgstr "걱정하지 마라, 칼레흐(Kaleh), 우리는 다시 만날 것이다... 약속하겠다."
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:2182
@@ -9291,7 +9286,7 @@ msgid ""
 "Yes, she appeared only to me and demanded that I surrender to the humans. "
 "When I refused she threatened me, saying she would kill me if I refused. "
 "That’s when I really started to get suspicious."
-msgstr "그래요, 그녀는 나에게만 나타나서 인간들에게 항복을 요구했어요. 내가 거절하자 그녀는 나를 협박했어요. 거절한다면 죽이겠다고요. 그래서 나는 그녀를 의심하기 시작했던거에요."
+msgstr "그래요, 그녀는 나에게만 나타나서 인간들에게 항복을 요구했어요. 내가 거절하자 그녀는 나를 협박했어요. 거절한다면 죽이겠다고요. 그래서 나는 그녀를 의심하기 시작했던 거예요."
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:2214
@@ -9299,7 +9294,7 @@ msgid ""
 "It is clear that that thing was not our god. I do not know what it was, but "
 "I have to keep believing that Eloh is out there somewhere. Without our "
 "faith, what do we have left?"
-msgstr "그렇다면 그녀는 우리의 신이 아니었다는게 분명해. 나는 그게 뭔지 모르겠지만, 엘로(Eloh)가 어딘가에 있다는 것을 계속 믿어야해. 우리의 믿음이 사라지면, 우리에게 남은 것은 뭐겠니?"
+msgstr "그렇다면 그녀는 우리의 신이 아니었다는게 분명해. 나는 그게 뭔지 모르겠지만, 엘로(Eloh)가 어딘가에 있다는 것을 계속 믿어야 해. 우리의 믿음이 사라지면, 우리에게 남은 것은 뭐겠니?"
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:2218
@@ -9313,7 +9308,7 @@ msgid ""
 "shown yourself to be a great leader, but our actions have to mean something "
 "more than just our day-to-day survival. There has to be a higher purpose, "
 "Eloh must have some sort of plan for us. We have to keep believing."
-msgstr "그걸로는 충분하지 않아. 님(Nym), 너는 훌륭하게 성장했어, 그리고 칼레흐(Kaleh), 너도 자신이 큰 대장인것을 보여줬어. 하지만 우리의 행동에는 우리의 일상적인 생존 그 이상의 의미가 있어야 해. 더 높은 목적이 필요해. 엘로(Eloh)도 우리에게 뭔가를 기대하고 있을 거야. 우리는 계속 믿어야 해."
+msgstr "그걸로는 충분하지 않아. 님(Nym), 너는 훌륭하게 성장했어, 그리고 칼레흐(Kaleh), 너도 자신이 큰 대장인 것을 보여줬어. 하지만 우리의 행동에는 우리의 일상적인 생존 그 이상의 의미가 있어야 해. 더 높은 목적이 필요해. 엘로(Eloh)도 우리에게 뭔가를 기대하고 있을 거야. 우리는 계속 믿어야 해."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:2226
@@ -9325,7 +9320,7 @@ msgstr "진정해요, 줄(Zhul), 신학은 나중에 얘기해요. 우리는 아
 msgid ""
 "You cannot defeat me, I am protected by the goddess now. Finally, Kaleh, I "
 "will show everyone who is stronger!"
-msgstr "너는 나를 이길 수 없다! 나는 지금 여신의 보호를 받고 있다! 마지막으로 칼레흐(Kaleh), 누가 더 강한지 모두에게 보여주겠다!"
+msgstr "너는 나를 이길 수 없다! 나는 지금 여신의 보호를 받고 있다! 마지막으로 칼레흐(Kaleh), 누가 더 강한지 모두에게 보여 주겠다!"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/09_Blood_is_Thicker_Than_Water.cfg:2252
@@ -9779,7 +9774,7 @@ msgid ""
 "resounding success and stood as a tribute to the power and might of the "
 "humans. The golden age glowed brighter than ever and many believed that they "
 "had dispelled evil and darkness forever."
-msgstr "당신이 나를 방해하지 않는다면 이야기는 훨씬 더 빨리 진행될 거에요. 자, 제가 말씀드렸듯이, 웨스노스(Wesnoth) 제국은 마법 기술에 대해 매우 잘 배웠고, 방대한 지식의 저장소를 가지고 있었습니다. 그 당시에는 하늘에 오직 하나의 태양, 당신들이 셀라라고 부르는 태양만 있었습니다. 그러나 왕은 그들의 낮을 늘리고 어둠을 줄이기 위해 두 번째 태양을 하늘로 올리라고 명령했었어요. 그래서 모든 정령 마법사들과 마법사들과 현인들이 모여서 산을 하늘로 던져 태양처럼 밝게 빛나게 하였어요. 그들은 이 두 번째 태양, 당신들이 나이아라고 부르는 태양을 하늘을 뚫고 보내어 매일 밤은 몇 시간의 어둠만 남게 했었죠. 비록 일부 사람들은 그 시도가 어리석다고 말했지만, 그것은 엄청난 성공이었고 인간의 힘과 권력에 대한 찬사로 서 있었다. 이렇게 황금 시대는 더욱 밝게 빛났습니다. 그리고 사람들은 악과 어둠이 세상에서 완전히 배제되었다고 생각했었죠."
+msgstr "당신이 나를 방해하지 않는다면 이야기는 훨씬 더 빨리 진행될 거예요. 자, 제가 말씀드렸듯이, 웨스노스(Wesnoth) 제국은 마법 기술에 대해 매우 잘 배웠고, 방대한 지식의 저장소를 가지고 있었습니다. 그 당시에는 하늘에 오직 하나의 태양, 당신들이 셀라라고 부르는 태양만 있었습니다. 그러나 왕은 그들의 낮을 늘리고 어둠을 줄이기 위해 두 번째 태양을 하늘로 올리라고 명령했었어요. 그래서 모든 정령 마법사들과 마법사들과 현인들이 모여서 산을 하늘로 던져 태양처럼 밝게 빛나게 하였어요. 그들은 이 두 번째 태양, 당신들이 나이아라고 부르는 태양을 하늘을 뚫고 보내어 매일 밤은 몇 시간의 어둠만 남게 했었죠. 비록 일부 사람들은 그 시도가 어리석다고 말했지만, 그것은 엄청난 성공이었고 인간의 힘과 권력에 대한 찬사로 서 있었다. 이렇게 황금 시대는 더욱 밝게 빛났습니다. 그리고 사람들은 악과 어둠이 세상에서 완전히 배제되었다고 생각했었죠."
 
 #. [message]: speaker=Melusand
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:273
@@ -9867,7 +9862,7 @@ msgid ""
 "the dense jungle. It was clear that something was lurking in the jungle, but "
 "we knew not what. Our priests felt a strange presence that they could not "
 "understand, and darkness clouded our attempts at scrying."
-msgstr "그 섬들은 무성하고 풍요로워 보였기 때문에 우리는 그곳의 얕은 여울에 살기로 결정했습니다. 그러나 우리는 그곳의 가장 큰 섬이 이상하고 불길한 곳이라는 것을 깨달았습니다. 언뜻 보면, 섬의 내부는 울창한 밀림으로 막혀있었고, 중앙부에는 몇 개의 높은 바위 봉우리가 보였습니다. 가장 높은 봉우리에는 요새같은 것이 세워져 있었는데, 때때로 밤에는 그곳에서 이상한 빛이 새어 나오는 것을 보았습니다. 우리는 그 건물을 탐사하기 위해 여러 원정대를 밀림으로 보냈지만 아무도 돌아오지 않았습니다. 그로부터 얼마 지나지 않아 연안에서 자고 있는 인어들이 밤사이 사라지면서 짙은 밀림으로 이어지는 피의 흔적만이 남아 있을 뿐이었습니다. 우리가 모르는 누군가가 밀림에 숨어 있었다는 것은 분명했습니다. 우리의 제사장들은 이해할 수 없는 이상한 존재를 느꼈고, 수정구 점술을 시도했었지만, 어둠이 흐리게 했습니다."
+msgstr "그 섬들은 무성하고 풍요로워 보였기 때문에 우리는 그곳의 얕은 여울에 살기로 결정했습니다. 그러나 우리는 그곳의 가장 큰 섬이 이상하고 불길한 곳이라는 것을 깨달았습니다. 언뜻 보면, 섬의 내부는 울창한 밀림으로 막혀있었고, 중앙부에는 몇 개의 높은 바위 봉우리가 보였습니다. 가장 높은 봉우리에는 요새같은 것이 세워져 있었는데, 때때로 밤에는 그곳에서 이상한 빛이 새어 나오는 것을 보았습니다. 우리는 그건물을 탐사하기 위해 여러 원정대를 밀림으로 보냈지만 아무도 돌아오지 않았습니다. 그로부터 얼마 지나지 않아 연안에서 자고 있는 인어들이 밤사이 사라지면서 짙은 밀림으로 이어지는 피의 흔적만이 남아 있을 뿐이었습니다. 우리가 모르는 누군가가 밀림에 숨어 있었다는 것은 분명했습니다. 우리의 제사장들은 이해할 수 없는 이상한 존재를 느꼈고, 수정구 점술을 시도했었지만, 어둠이 흐리게 했습니다."
 
 #. [message]: speaker=Melusand
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:303
@@ -10000,7 +9995,7 @@ msgid ""
 "Of course. We will withdraw to the shallows and give you some privacy. But "
 "do not ponder for too long, for we do not have a lot of time. I will return "
 "ere long."
-msgstr "그럼요, 우리는 얕은 여울로 물러나 여러분들에게 어느정도 이야기 할 기회를 드리겠습니다. 그러나 너무 오래 생각하지마세요. 우리에겐 시간이 많지 않습니다. 나는 잠시후에 다시 돌아오겠습니다."
+msgstr "그럼요, 우리는 얕은 여울로 물러나 여러분들에게 어느 정도 이야기할 기회를 드리겠습니다. 그러나 너무 오래 생각하지 마세요. 우리에겐 시간이 많지 않습니다. 나는 잠시 후에 다시 돌아오겠습니다."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:405
@@ -10084,7 +10079,7 @@ msgstr "나는 멜루산드(Melusand)가 일리가 있다는 것을 인정해. �
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:471
 msgid "This entire journey has been based on a lie—"
-msgstr "이 여정의 모든 것은 거짓말에 이끌려서 된거에요—"
+msgstr "이 여정의 모든 것은 거짓말에 이끌려서 된 거예요—"
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:477
@@ -10123,7 +10118,7 @@ msgstr "그래요, 소년이여, 기억하세요 , 우리가 숨을 쉬는 동�
 msgid ""
 "Do not give up yet, little one. The battle is not yet lost while we still "
 "fight."
-msgstr "아직 포기하지마, 꼬마야. 우리가 여전히 싸우는 동안 전투는 아직 패배하지 않았다고."
+msgstr "아직 포기하지 마, 꼬마야. 우리가 여전히 싸우는 동안 전투는 아직 패배하지 않았다고."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:513
@@ -10193,7 +10188,7 @@ msgid ""
 "stay behind with the merfolk. I will ask Melusand to arrange that if we "
 "fail, they be taken far away from here, that they might live out their lives "
 "in what peace they can find."
-msgstr "그럼 결정되었어요. 그러나 이 결정은 우리의 모든 동료들의 의견일 수는 없어요. 이 원정에 참여하는 사람은 살아서 돌아갈 수 없을지도 몰라요. 그리고 이 전투는 아이나 노인들을 위한 곳이 아니에요. 그러기 때문에, 두려워하거나 싸울 수 없는 사람들은 모두 인어들과 함께 뒤에 남게 하세요. 만약 우리가 실패했을 때를 대비해서 나는 멜루산드(Melusand)에게 요청할 거에요, 그들을 멀리 보내달라구요, 그들이 찾을 수 있는 평화 속에서 평생을 살 수 있도록 말이에요."
+msgstr "그럼 결정되었어요. 그러나 이 결정은 우리의 모든 동료들의 의견일 수는 없어요. 이 원정에 참여하는 사람은 살아서 돌아갈 수 없을지도 몰라요. 그리고 이 전투는 아이나 노인들을 위한 곳이 아니에요. 그러기 때문에, 두려워하거나 싸울 수 없는 사람들은 모두 인어들과 함께 뒤에 남게 하세요. 만약 우리가 실패했을 때를 대비해서 나는 멜루산드(Melusand)에게 요청할 거예요, 그들을 멀리 보내달라구요, 그들이 찾을 수 있는 평화 속에서 평생을 살 수 있도록 말이에요."
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:558
@@ -10387,7 +10382,7 @@ msgid ""
 "our own kind, we decided that we could not let these abominable practices "
 "continue. We vowed to avenge the sacrifice of our children, and we attacked "
 "with all our might."
-msgstr "이 무렵에 다른 숲들은 대부분 불에 탔고, 엘로(Eloh)는 우리 민족을 평원을 가로질러 남쪽으로 우리 백성을 이끌고 있었지. 우리가 웨스미어(Wesmere) 숲에 왔을 때, 아직도 여전히 남아 있는 것을 보고 놀랐고, 밤에 엘프 습격대가 숲에서 나와 우리를 공격하여 우리 아이들 몇 명을 납치했을 때 더욱 놀랐어. 엘로(Eloh)는, 그녀의 지혜로, 그 어두운 숲에서 일어난 끔찍한 일들을 꿈의 형태로 보여주었어. 우리는 우리 형제들이 깊이 빠져드는 것에 경악을 금치 못했고, 우리 동족을 공격하기는 싫었지만, 이러한 가증스러운 행위를 계속하도록 내버려 둘 수는 없다고 결정했습니다. 그리고 우리는 제물로 희생 된 아이들의 복수를 다짐하고, 온 힘을 다해 공격했어."
+msgstr "이 무렵에 다른 숲들은 대부분 불에 탔고, 엘로(Eloh)는 우리 민족을 평원을 가로질러 남쪽으로 우리 백성을 이끌고 있었지. 우리가 웨스미어(Wesmere) 숲에 왔을 때, 아직도 여전히 남아 있는 것을 보고 놀랐고, 밤에 엘프 습격대가 숲에서 나와 우리를 공격하여 우리 아이들 몇 명을 납치했을 때 더욱 놀랐어. 엘로(Eloh)는, 그녀의 지혜로, 그 어두운 숲에서 일어난 끔찍한 일들을 꿈의 형태로 보여 주었어. 우리는 우리 형제들이 깊이 빠져드는 것에 경악을 금치 못했고, 우리 동족을 공격하기는 싫었지만, 이러한 가증스러운 행위를 계속하도록 내버려 둘 수는 없다고 결정했습니다. 그리고 우리는 제물로 희생 된 아이들의 복수를 다짐하고, 온 힘을 다해 공격했어."
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:678
@@ -10430,12 +10425,12 @@ msgid ""
 "could have survived another schism. And so the story of Zhangor was passed "
 "down from generation to generation to remind us guardians of knowledge of "
 "the folly of valuing knowledge higher than the welfare of our people."
-msgstr "우리의 사제들 또한 장고르의 이름과 그의 이야기는 금지된 지식이며, 그것에 대해 이야기하는 사람은 죽임을 당할 것이라 선언했어. 결과적으로, 그들의 끊임없는 경계는 보상을 받았어. 몇 세대 만에 그 이야기를 아는 사람은 없어졌어, 대제사장들만이 그 이야기를 비밀리에 전해졌고, 그리고 그것은 나에게도 전해진 거야. 비록 이 조치들이 가혹해 보일 수 있겠지만, 나는 그것들이 정당했다고 믿어. 만약 장고르가 다시 소환되었다면, 우리는 또 다른 분열에서 살아남을 수 없었을 거야. 그래서 장고르의 이야기는 우리 백성의 번영보다 지식을 더 중요하게 여기는 어리석음을 보여주는 교훈으로 우리 같은 지식의 지킴이들에게 상기시키기 위해 대대로 전해졌어."
+msgstr "우리의 사제들 또한 장고르의 이름과 그의 이야기는 금지된 지식이며, 그것에 대해 이야기하는 사람은 죽임을 당할 것이라 선언했어. 결과적으로, 그들의 끊임없는 경계는 보상을 받았어. 몇 세대 만에 그 이야기를 아는 사람은 없어졌어, 대제사장들만이 그 이야기를 비밀리에 전해졌고, 그리고 그것은 나에게도 전해진 거야. 비록 이 조치들이 가혹해 보일 수 있겠지만, 나는 그것들이 정당했다고 믿어. 만약 장고르가 다시 소환되었다면, 우리는 또 다른 분열에서 살아남을 수 없었을 거야. 그래서 장고르의 이야기는 우리 백성의 번영보다 지식을 더 중요하게 여기는 어리석음을 보여 주는 교훈으로 우리 같은 지식의 지킴이들에게 상기시키기 위해 대대로 전해졌어."
 
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:693
 msgid "I wonder what other forbidden lore you’ve been taught."
-msgstr "그것 말고도 배웠던 금지된 이야기가 또 있는 거에요? 나는 궁금해요."
+msgstr "그것 말고도 배웠던 금지된 이야기가 또 있는 거예요? 나는 궁금해요."
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:698
@@ -10446,7 +10441,7 @@ msgid ""
 "and pry not into the darker secrets. Eloh forgive me, I have probably told "
 "you too much already, but in these dark times I felt that you should know a "
 "little bit of the truth."
-msgstr "바보 같은 소녀야! 그런 질문은 하지마. 날 믿어, 모르는 게 나아. 지식은 끔찍한 무게가 될 수 있고, 너 같은 젊은이가 짊어질수 있는 무게가 아니야. 이 삶의 아름다운 것들을 소중히 여기고 더 어두운 비밀을 캐묻지 마. 엘로(Eloh)여 용서해주소서, 내가 이미 너에게 너무 많은 것을 말했겠지만, 이 어두운 시기에 나는 너희가 최소한의 진실은 알아야 한다고 느꼈어."
+msgstr "바보 같은 소녀야! 그런 질문은 하지 마. 날 믿어, 모르는 게 나아. 지식은 끔찍한 무게가 될 수 있고, 너 같은 젊은이가 짊어질수 있는 무게가 아니야. 이 삶의 아름다운 것들을 소중히 여기고 더 어두운 비밀을 캐묻지 마. 엘로(Eloh)여 용서해주소서, 내가 이미 너에게 너무 많은 것을 말했겠지만, 이 어두운 시기에 나는 너희가 최소한의 진실은 알아야 한다고 느꼈어."
 
 #. [message]: speaker=Melusand
 #: data/campaigns/Under_the_Burning_Suns/scenarios/10_Speaking_with_the_Fishes.cfg:703
@@ -10612,7 +10607,7 @@ msgstr "네놈들은 성지를 침범했다, 그 분은 네놈들이 죽어야 �
 msgid ""
 "Faugh! Little one, you are not worth our time. We are the Quenoth Elves! "
 "Flee and trouble us no longer or we will squash you like a bug."
-msgstr "흥! 꼬마야, 너같은 놈들과 시간 낭비 할 가치가 없어. 우리는 퀴노스(Quenoth) 엘프들이야! 우리를 귀찮게 하지 마라. 그렇지 않으면 우리는 니놈을 벌레처럼 짓밟아 버릴거다."
+msgstr "흥! 꼬마야, 너같은 놈들과 시간 낭비 할 가치가 없어. 우리는 퀴노스(Quenoth) 엘프들이야! 우리를 귀찮게 하지 마라. 그렇지 않으면 우리는 니놈을 벌레처럼 짓밟아 버릴 거다."
 
 #. [message]: speaker=Boyicht
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:579
@@ -10653,7 +10648,7 @@ msgstr "나가(Naga) 대장"
 msgid ""
 "I have captured the keep. This castle is somewhat ruined, but it will serve "
 "our purposes. Now, I wonder where the merfolk are?"
-msgstr "아성을 점령했어요. 이 성은 조금 무너졌지만 우리의 목적에 도움이 될 거에요. 지금쯤, 인어들은 어디 있는 거지?"
+msgstr "아성을 점령했어요. 이 성은 조금 무너졌지만 우리의 목적에 도움이 될 거예요. 지금쯤, 인어들은 어디 있는 거지?"
 
 #. [message]: race=merman
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:717
@@ -10742,7 +10737,7 @@ msgid ""
 "Wait a minute. There’s a tiny outline of a door in the stone. But there’s no "
 "way to open it. All I see are what look like two tiny keyholes in the stone. "
 "Now I wonder where we might find the right keys?"
-msgstr "잠깐만. 돌에 문의 윤곽이 어렴푸레 보입니다. 하지만 열 방법이 없어요. 다만, 돌 문에는 두 개의 작은 열쇠 구멍 같은 것이 있어요. 그런데 열쇠는 도대체 어디에 있는걸까요?"
+msgstr "잠깐만. 돌에 작은 문 윤곽이 보여. 하지만 열 방법이 없어. 보이는 건 돌에 난 작은 열쇠 구멍 두 개 같은 것뿐이야. 이제 맞는 열쇠를 어디서 구할 수 있을지 궁금하군."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:913
@@ -10950,7 +10945,7 @@ msgstr "음, 우리는 기다리는 것 밖에 할 수 없어..."
 #. [message]: speaker=Nym
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:1353
 msgid "You aren’t actually going to let him face her alone?!"
-msgstr "정말 혼자 가게 내버려 둘거에요?!"
+msgstr "정말 혼자 가게 내버려 둘 거예요?!"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:1359
@@ -10980,7 +10975,7 @@ msgid ""
 "He’ll be slaughtered! He needs our help. Without us he never would have even "
 "made it out of the desert. The rest of you can just sit on your hands and "
 "pray, but I’m going in there!"
-msgstr "상관없어요! 내가 그를 저 안에 들어가서 혼자 싸우게 내버려둘 것 같아요? 그는 죽임을 당할 거에요! 그에겐 우리의 도움이 필요하다구요. 우리가 없었더라면 그는 사막에서 결코 살아남지 못했을 거에요. 다른 사람들은 그냥 앉아서 손모아 기도해도 돼겠지만, 난 거기로 갈 거에요!"
+msgstr "상관없어요! 내가 그를 저 안에 들어가서 혼자 싸우게 내버려둘 것 같아요? 그는 죽임을 당할 거예요! 그에겐 우리의 도움이 필요하다구요. 우리가 없었더라면 그는 사막에서 결코 살아남지 못했을 거예요. 다른 사람들은 그냥 앉아서 손모아 기도해도 돼겠지만, 난 거기로 갈 거예요!"
 
 #. [message]: speaker=Zhul
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:1395
@@ -11648,7 +11643,7 @@ msgid ""
 "she did not die during our journey. She was my guide and my faith and my "
 "link to the past. I am sorry that she did not live to see the fruits of her "
 "labors, but I hope that she is with Eloh now, in a better place."
-msgstr "줄(Zhul)의 장례식은 그녀가 옛날부터 우리에게 말했던 것처럼 성대한 의식이었어요. 나는 그녀가 이룬 모든 것을 보여주기 위해서, 섬 전체에 남아 있는 소수의 여사제와 모든 신자들의 행렬을 이끌었습니다. 사막 모래의 여사제로서 우리는 그녀를 섬의 북서쪽 끝에 있는 큰 모래사장이 있는 해변 중 하나에 묻었습니다. 마지막 전투에서 그녀는 가장 나이가 많은 엘프 중 한 명이었고, 우리 여정 중에 그녀가 죽지 않은 것에 대해 엘로(Eloh)에게 감사해야 한다고 생각합니다. 그녀는 나의 길잡이였고, 나의 믿음이었고, 과거를 잘 아는 과거와의 연결 고리였습니다. 그녀의 노력에 대한 결실을 보지 못한 것은 안타깝지만, 나는 그녀가 지금 더 나은 곳에서 엘로(Eloh)와 함께 있기를 바랍니다."
+msgstr "줄(Zhul)의 장례식은 그녀가 옛날부터 우리에게 말했던 것처럼 성대한 의식이었어요. 나는 그녀가 이룬 모든 것을 보여 주기 위해서, 섬 전체에 남아 있는 소수의 여사제와 모든 신자들의 행렬을 이끌었습니다. 사막 모래의 여사제로서 우리는 그녀를 섬의 북서쪽 끝에 있는 큰 모래사장이 있는 해변 중 하나에 묻었습니다. 마지막 전투에서 그녀는 가장 나이가 많은 엘프 중 한 명이었고, 우리 여정 중에 그녀가 죽지 않은 것에 대해 엘로(Eloh)에게 감사해야 한다고 생각합니다. 그녀는 나의 길잡이였고, 나의 믿음이었고, 과거를 잘 아는 과거와의 연결 고리였습니다. 그녀의 노력에 대한 결실을 보지 못한 것은 안타깝지만, 나는 그녀가 지금 더 나은 곳에서 엘로(Eloh)와 함께 있기를 바랍니다."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:258
@@ -11723,7 +11718,7 @@ msgid ""
 "and at times when I get moody, she reminds me what a joy it is to be alive "
 "in this great land. She is a living testament to the fact that even though "
 "we were born among the sands we can thrive anywhere we have the will to live."
-msgstr "나는 줄(Zhul)만큼 독실하지는 않지만, 매일 엘로(Eloh)에게 님(Nym)이 검은 성채에서의 끔찍한 전투에서 살아남았다는 것에 감사하고 있습니다. 그녀만큼 이 섬에서의 생활을 즐기는 사람은 없었습니다. 그녀는 얕은 여울에서 수영하고 항해하는 것을 좋아하고, 물속에서 너무 많은 시간을 보내며, 때때로 나는 그녀 자신이 반인어라고 생각합니다. 그녀의 반짝이는 웃음과 빠른 재치는 우리에게 일상의 선물입니다. 그녀는 우리의 위대한 여행에 대한 짜릿한(조금 각색되어 있지만) 이야기로 아이들을 즐겁게 해주고, 내가 기분이 우울해질 때마다, 그녀는 이 위대한 땅에서 살아있다는 것이 얼마나 큰 기쁨인지 생각나게 해줍니다. 그녀는 비록 우리가 모래밭에서 태어났지만, 우리가 살고자 하는 의지가 있는 곳이라면 어디서든 번성할 수 있다는 사실을 보여주는 살아 있는 증거입니다."
+msgstr "나는 줄(Zhul)만큼 독실하지는 않지만, 매일 엘로(Eloh)에게 님(Nym)이 검은 성채에서의 끔찍한 전투에서 살아남았다는 것에 감사하고 있습니다. 그녀만큼 이 섬에서의 생활을 즐기는 사람은 없었습니다. 그녀는 얕은 여울에서 수영하고 항해하는 것을 좋아하고, 물속에서 너무 많은 시간을 보내며, 때때로 나는 그녀 자신이 반인어라고 생각합니다. 그녀의 반짝이는 웃음과 빠른 재치는 우리에게 일상의 선물입니다. 그녀는 우리의 위대한 여행에 대한 짜릿한(조금 각색되어 있지만) 이야기로 아이들을 즐겁게 해주고, 내가 기분이 우울해질 때마다, 그녀는 이 위대한 땅에서 살아 있다는 것이 얼마나 큰 기쁨인지 생각나게 해줍니다. 그녀는 비록 우리가 모래밭에서 태어났지만, 우리가 살고자 하는 의지가 있는 곳이라면 어디서든 번성할 수 있다는 사실을 보여 주는 살아 있는 증거입니다."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:312
@@ -11740,7 +11735,7 @@ msgid ""
 "grove in the jungle for Eloh, as our people did in the olden times. I am "
 "still not quite used to seeing so many trees, but perhaps, as some people "
 "say, it is a sign that the peace and prosperity of old has come again."
-msgstr "살아남은 엘프 중에서도 가장 나이가 많은 줄(Zhul)은 움직이는 것도 귀찮아 보이지만, 그녀의 눈동자에서는 지금도 빛을 잃지 않았습니다. 여정에서 고난을 겪으며 예크나고쓰(Yechnagoth)에게 속았음에도 불구하고, 우리의 승리는 그녀의 믿음을 강화시켰을 뿐입니다. 만약 누군가가 엘로(Eloh)의 능력에 대한 불신을 표현한다면, 그녀는 언제나처럼 너의 방식의 잘못을 바로잡을 것입니다. 그녀는 최근에 우리 여정의 모든 시련과 승리는 우리를 위한 엘로(Eloh)의 위대한 계획의 일부일 뿐이며, 이 새로운 보금자리는 우리의 보상이라고 말했습니다. 요즘 그녀는 가질 수 있는 모든 시간을 새로운 세대의 여사제들을 가르치는데 쓰고 있습니다. 모든 옛날 이야기를 나중 세대에까지 전하고 결코 잊혀지지 않도록. 그녀는 한때 우리 민족이 그랬던 것처럼 엘로(Eloh)를 위해 밀림에 신성한 숲을 만들기 시작했습니다. 나는 아직 그렇게 많은 나무들을 보는 것에 익숙하지 않지만, 그것은 옛사람들의 평화와 번영이 다시 왔다는 신호라고 말하는 사람들도 있는것 같습니다."
+msgstr "살아남은 엘프 중에서도 가장 나이가 많은 줄(Zhul)은 움직이는 것도 귀찮아 보이지만, 그녀의 눈동자에서는 지금도 빛을 잃지 않았습니다. 여정에서 고난을 겪으며 예크나고쓰(Yechnagoth)에게 속았음에도 불구하고, 우리의 승리는 그녀의 믿음을 강화시켰을 뿐입니다. 만약 누군가가 엘로(Eloh)의 능력에 대한 불신을 표현한다면, 그녀는 언제나처럼 너의 방식의 잘못을 바로잡을 것입니다. 그녀는 최근에 우리 여정의 모든 시련과 승리는 우리를 위한 엘로(Eloh)의 위대한 계획의 일부일 뿐이며, 이 새로운 보금자리는 우리의 보상이라고 말했습니다. 요즘 그녀는 가질 수 있는 모든 시간을 새로운 세대의 여사제들을 가르치는데 쓰고 있습니다. 모든 옛날 이야기를 나중 세대에까지 전하고 결코 잊혀지지 않도록. 그녀는 한때 우리 민족이 그랬던 것처럼 엘로(Eloh)를 위해 밀림에 신성한 숲을 만들기 시작했습니다. 나는 아직 그렇게 많은 나무들을 보는 것에 익숙하지 않지만, 그것은 옛사람들의 평화와 번영이 다시 왔다는 신호라고 말하는 사람들도 있는 것 같습니다."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:330
@@ -11758,7 +11753,7 @@ msgid ""
 "but I doubt I shall ever see him again in life. All the same I treasure the "
 "memory of him and his kind, and I will long remember his steadfast loyalty "
 "and all that he did to aid us in our struggle."
-msgstr "내 목숨을 지킴으로써 그로그(Grog)는 나에게 진 빚을 갚았고, 그는 고향으로 돌아가려했으나, 우리는 그가 우리의 위대한 승리 이후에 열린 축하 행사에 잠시 머물며 즐기도록 설득했습니다. 우리는 며칠 동안 엘로(Eloh)와 인어들의 신에게 감사하고 , 새로운 보금자리의 풍성함과 아름다움에 기뻐하며 축하했습니다. 그리고 나서 우리는 우리 동료들을 위한 새로운 주거지를 짓기 시작했습니다. 그로그(Grog)는 우리가 공사하는 것을 돕기 위해 머물렀고, 우리 중에서 가장 열심히 일했습니다. 그러나 얼마 후에 그는 나에게 와서 그의 고향으로 돌아가야 한다고 말했습니다. 그로그(Grog)는 우리와 함께한 시간이 멋진 꿈 같았다고, 그는 우리를 항상 기억하겠다고 약속했지만, 그의 동료들은 그를 필요로 했기에 그는 고향으로 돌아가야 한다고 말했습니다. 그는 언젠가 다시 찾아오겠다고 말했지만, 과연 내가 살아 있는 동안 그를 다시 볼 수 있을지 의심스럽습니다. 그럼에도 불구하고 나는 그와 그의 동족에 대한 기억을 소중히 간직하고 있으며, 그의 변함없는 충성심과 우리의 투쟁을 돕기 위해 그가 한 모든 것을 오래도록 기억할 것입니다."
+msgstr "내 목숨을 지킴으로써 그로그(Grog)는 나에게 진 빚을 갚았고, 그는 고향으로 돌아가려 했으나, 우리는 그가 우리의 위대한 승리 이후에 열린 축하 행사에 잠시 머물며 즐기도록 설득했습니다. 우리는 며칠 동안 엘로(Eloh)와 인어들의 신에게 감사하고, 새로운 보금자리의 풍성함과 아름다움에 기뻐하며 축하했습니다. 그리고 나서 우리는 우리 동료들을 위한 새로운 주거지를 짓기 시작했습니다. 그로그(Grog)는 우리가 공사하는 것을 돕기 위해 머물렀고, 우리 중에서 가장 열심히 일했습니다. 그러나 얼마 후에 그는 나에게 와서 그의 고향으로 돌아가야 한다고 말했습니다. 그로그(Grog)는 우리와 함께한 시간이 멋진 꿈 같았다고, 그는 우리를 항상 기억하겠다고 약속했지만, 그의 동료들은 그를 필요로 했기에 그는 고향으로 돌아가야 한다고 말했습니다. 그는 언젠가 다시 찾아오겠다고 말했지만, 과연 내가 살아 있는 동안 그를 다시 볼 수 있을지 의심스럽습니다. 그럼에도 불구하고 나는 그와 그의 동족에 대한 기억을 소중히 간직하고 있으며, 그의 변함없는 충성심과 우리의 투쟁을 돕기 위해 그가 한 모든 것을 오래도록 기억할 것입니다."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:337
@@ -11776,7 +11771,7 @@ msgid ""
 "but I doubt I shall ever see him again in life. All the same I treasure the "
 "memory of him and his kind, and I will long remember his steadfast loyalty "
 "and all that he did to aid us in our struggle."
-msgstr "내 목숨을 지킴으로써 노그(Nog)는 나에게 진 빚을 갚았고, 그는 고향으로 돌아가려했으나, 우리는 그가 우리의 위대한 승리 이후에 열린 축하 행사에 잠시 머물며 즐기도록 설득했습니다. 우리는 며칠 동안 엘로(Eloh)와 인어들의 신에게 감사하고 , 새로운 보금자리의 풍성함과 아름다움에 기뻐하며 축하했습니다. 그리고 나서 우리는 우리 동료들을 위한 새로운 주거지를 짓기 시작했습니다. 노그(Nog)는 우리가 공사하는 것을 돕기 위해 머물렀고, 우리 중에서 가장 열심히 일했습니다. 그러나 얼마 후에 그는 나에게 와서 그의 고향으로 돌아가야 한다고 말했습니다. 노그(Nog)는 우리와 함께한 시간이 멋진 꿈 같았다고, 그는 우리를 항상 기억하겠다고 약속했지만, 그의 동료들은 그를 필요로 했기에 그는 고향으로 돌아가야 한다고 말했습니다. 그는 언젠가 다시 찾아오겠다고 말했지만, 과연 내가 살아 있는 동안 그를 다시 볼 수 있을지 의심스럽습니다. 그럼에도 불구하고 나는 그와 그의 동족에 대한 기억을 소중히 간직하고 있으며, 그의 변함없는 충성심과 우리의 투쟁을 돕기 위해 그가 한 모든 것을 오래도록 기억할 것입니다."
+msgstr "내 목숨을 지킴으로써 노그(Nog)는 나에게 진 빚을 갚았고, 그는 고향으로 돌아가려 했으나, 우리는 그가 우리의 위대한 승리 이후에 열린 축하 행사에 잠시 머물며 즐기도록 설득했습니다. 우리는 며칠 동안 엘로(Eloh)와 인어들의 신에게 감사하고, 새로운 보금자리의 풍성함과 아름다움에 기뻐하며 축하했습니다. 그리고 나서 우리는 우리 동료들을 위한 새로운 주거지를 짓기 시작했습니다. 노그(Nog)는 우리가 공사하는 것을 돕기 위해 머물렀고, 우리 중에서 가장 열심히 일했습니다. 그러나 얼마 후에 그는 나에게 와서 그의 고향으로 돌아가야 한다고 말했습니다. 노그(Nog)는 우리와 함께한 시간이 멋진 꿈 같았다고, 그는 우리를 항상 기억하겠다고 약속했지만, 그의 동료들은 그를 필요로 했기에 그는 고향으로 돌아가야 한다고 말했습니다. 그는 언젠가 다시 찾아오겠다고 말했지만, 과연 내가 살아 있는 동안 그를 다시 볼 수 있을지 의심스럽습니다. 그럼에도 불구하고 나는 그와 그의 동족에 대한 기억을 소중히 간직하고 있으며, 그의 변함없는 충성심과 우리의 투쟁을 돕기 위해 그가 한 모든 것을 오래도록 기억할 것입니다."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:344
@@ -11794,7 +11789,7 @@ msgid ""
 "again, but I doubt I shall ever see him again in life. All the same I "
 "treasure the memory of him and his kind, and I will long remember his "
 "steadfast loyalty and all that he did to aid us in our struggle."
-msgstr "내 목숨을 지킴으로써 로그리미르(Rogrimir)는 나에게 진 빚을 갚았고, 그는 고향으로 돌아가려했으나, 우리는 그가 우리의 위대한 승리 이후에 열린 축하 행사에 잠시 머물며 즐기도록 설득했습니다. 우리는 며칠 동안 엘로(Eloh)와 인어들의 신에게 감사하고 , 새로운 보금자리의 풍성함과 아름다움에 기뻐하며 축하했습니다. 그런 뒤에, 우리는 우리 동료들을 위한 새로운 주거지를 짓기 시작했습니다. 로그리미르(Rogrimir)는 우리가 공사하는 것을 돕기 위해 머물렀고, 우리 중에서 가장 열심히 일했습니다. 그러나 얼마 후에 그는 나에게 와서 그의 고향으로 돌아가야 한다고 말했습니다. 로그리미르(Rogrimir)는 우리와 함께한 시간이 멋진 꿈 같았다고, 그는 우리를 항상 기억하겠다고 약속했지만, 그의 동료들은 그를 필요로 했기에 그는 고향으로 돌아가야 한다고 말했습니다. 그는 언젠가 다시 찾아오겠다고 말했지만, 과연 내가 살아 있는 동안 그를 다시 볼 수 있을지 의심스럽습니다. 그럼에도 불구하고 나는 그와 그의 동족에 대한 기억을 소중히 간직하고 있으며, 그의 변함없는 충성심과 우리의 투쟁을 돕기 위해 그가 한 모든 것을 오래도록 기억할 것입니다."
+msgstr "내 목숨을 지킴으로써 로그리미르(Rogrimir)는 나에게 진 빚을 갚았고, 그는 고향으로 돌아가려 했으나, 우리는 그가 우리의 위대한 승리 이후에 열린 축하 행사에 잠시 머물며 즐기도록 설득했습니다. 우리는 며칠 동안 엘로(Eloh)와 인어들의 신에게 감사하고, 새로운 보금자리의 풍성함과 아름다움에 기뻐하며 축하했습니다. 그런 뒤에, 우리는 우리 동료들을 위한 새로운 주거지를 짓기 시작했습니다. 로그리미르(Rogrimir)는 우리가 공사하는 것을 돕기 위해 머물렀고, 우리 중에서 가장 열심히 일했습니다. 그러나 얼마 후에 그는 나에게 와서 그의 고향으로 돌아가야 한다고 말했습니다. 로그리미르(Rogrimir)는 우리와 함께한 시간이 멋진 꿈 같았다고, 그는 우리를 항상 기억하겠다고 약속했지만, 그의 동료들은 그를 필요로 했기에 그는 고향으로 돌아가야 한다고 말했습니다. 그는 언젠가 다시 찾아오겠다고 말했지만, 과연 내가 살아 있는 동안 그를 다시 볼 수 있을지 의심스럽습니다. 그럼에도 불구하고 나는 그와 그의 동족에 대한 기억을 소중히 간직하고 있으며, 그의 변함없는 충성심과 우리의 투쟁을 돕기 위해 그가 한 모든 것을 오래도록 기억할 것입니다."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:351
@@ -11812,7 +11807,7 @@ msgid ""
 "but I doubt I shall ever see him again in life. All the same I treasure the "
 "memory of him and his kind, and I will long remember his steadfast loyalty "
 "and all that he did to aid us in our struggle."
-msgstr "내 목숨을 지킴으로써 자를(Jarl)은 나에게 진 빚을 갚았고, 그는 고향으로 돌아가려했으나, 우리는 그가 우리의 위대한 승리 이후에 열린 축하 행사에 잠시 머물며 즐기도록 설득했습니다. 우리는 며칠 동안 엘로(Eloh)와 인어들의 신에게 감사하고 , 새로운 보금자리의 풍성함과 아름다움에 기뻐하며 축하했습니다. 그런 뒤에, 우리는 우리 동료들을 위한 새로운 주거지를 짓기 시작했습니다. 자를(Jarl)은 우리가 공사하는 것을 돕기 위해 머물렀고, 우리 중에서 가장 열심히 일했습니다. 그러나 얼마 후에 그는 나에게 와서 그의 고향으로 돌아가야 한다고 말했습니다. 자를(Jarl)은 우리와 함께한 시간이 멋진 꿈 같았다고, 그는 우리를 항상 기억하겠다고 약속했지만, 그의 동료들은 그를 필요로 했기에 그는 고향으로 돌아가야 한다고 말했습니다. 그는 언젠가 다시 찾아오겠다고 말했지만, 과연 내가 살아 있는 동안 그를 다시 볼 수 있을지 의심스럽습니다. 그럼에도 불구하고 나는 그와 그의 동족에 대한 기억을 소중히 간직하고 있으며, 그의 변함없는 충성심과 우리의 투쟁을 돕기 위해 그가 한 모든 것을 오래도록 기억할 것입니다."
+msgstr "내 목숨을 지킴으로써 자를(Jarl)은 나에게 진 빚을 갚았고, 그는 고향으로 돌아가려 했으나, 우리는 그가 우리의 위대한 승리 이후에 열린 축하 행사에 잠시 머물며 즐기도록 설득했습니다. 우리는 며칠 동안 엘로(Eloh)와 인어들의 신에게 감사하고, 새로운 보금자리의 풍성함과 아름다움에 기뻐하며 축하했습니다. 그런 뒤에, 우리는 우리 동료들을 위한 새로운 주거지를 짓기 시작했습니다. 자를(Jarl)은 우리가 공사하는 것을 돕기 위해 머물렀고, 우리 중에서 가장 열심히 일했습니다. 그러나 얼마 후에 그는 나에게 와서 그의 고향으로 돌아가야 한다고 말했습니다. 자를(Jarl)은 우리와 함께한 시간이 멋진 꿈 같았다고, 그는 우리를 항상 기억하겠다고 약속했지만, 그의 동료들은 그를 필요로 했기에 그는 고향으로 돌아가야 한다고 말했습니다. 그는 언젠가 다시 찾아오겠다고 말했지만, 과연 내가 살아 있는 동안 그를 다시 볼 수 있을지 의심스럽습니다. 그럼에도 불구하고 나는 그와 그의 동족에 대한 기억을 소중히 간직하고 있으며, 그의 변함없는 충성심과 우리의 투쟁을 돕기 위해 그가 한 모든 것을 오래도록 기억할 것입니다."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:376
@@ -11874,7 +11869,7 @@ msgid ""
 "that no matter what we built or grew around it, that area would be left bare "
 "as a reminder of the evil that once dwelt here and all those who gave their "
 "lives to destroy it."
-msgstr "그 검은 성채에 대해서는, 오랜 논의 끝에, 더러운 땅을 정화하는 고대 의식에 따라 불길로 정화하기로 결정했습니다. 우리는 그 건물 전체를 나무와 기름으로 채우고, 그 곳을 불태워 예크나고쓰(Yechnagoth)의 침입의 잔재들이 거룩한 불에 의해 정화되도록 했습니다. 그런 다음 성채의 돌을 하나하나 허물었습니다. 나는 나중에 건축 자재로 돌을 아껴두고 싶은 유혹이 들었지만, 그것들 속에 아직도 어떤 끔찍한 마법이 남아 있을지 알 수 없기 때문에, 그만두기로 했습니다. 그래서 인어들의 도움을 받아 우리는 성채의 파편들을 먼 바다 깊은곳으로 던졌습니다. 마지막 돌을 제거한 후, 우리는 그 주변에 무엇을 짓거나 키우든 간에, 한때 이곳에 살았던 악과 그것을 파괴하기 위해 목숨을 바친 모든 사람들을 상기시키기 위해, 그 곳을 그대로 남겨두기로 결정했습니다."
+msgstr "그 검은 성채에 대해서는, 오랜 논의 끝에, 더러운 땅을 정화하는 고대 의식에 따라 불길로 정화하기로 결정했습니다. 우리는 그건물 전체를 나무와 기름으로 채우고, 그 곳을 불태워 예크나고쓰(Yechnagoth)의 침입의 잔재들이 거룩한 불에 의해 정화되도록 했습니다. 그런 다음 성채의 돌을 하나하나 허물었습니다. 나는 나중에 건축 자재로 돌을 아껴두고 싶은 유혹이 들었지만, 그것들 속에 아직도 어떤 끔찍한 마법이 남아 있을지 알 수 없기 때문에, 그만두기로 했습니다. 그래서 인어들의 도움을 받아 우리는 성채의 파편들을 먼 바다 깊은 곳으로 던졌습니다. 마지막 돌을 제거한 후, 우리는 그 주변에 무엇을 짓거나 키우든 간에, 한때 이곳에 살았던 악과 그것을 파괴하기 위해 목숨을 바친 모든 사람들을 상기시키기 위해, 그 곳을 그대로 남겨두기로 결정했습니다."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/13_Epilogue.cfg:416
@@ -12140,7 +12135,7 @@ msgstr "나가(Naga) 파수꾼"
 #. [unit_type]: id=Naga Sentinel
 #: data/campaigns/Under_the_Burning_Suns/units/nagas/Naga_Guardians.cfg:33
 msgid "Naga Sentinel"
-msgstr "나가(Naga) 보초병"
+msgstr "나가 보초병"
 
 #. [unit_type]: id=Naga Hunter, race=naga
 #: data/campaigns/Under_the_Burning_Suns/units/nagas/Naga_Hunter.cfg:4
@@ -12208,7 +12203,7 @@ msgid ""
 "slightly lacking in finesse in strategy, these elves more than compensate "
 "with raw power and can force their way through all but the most secure of "
 "defenses."
-msgstr "대부분의 퀴노스(Quenoth) 창의 일선에 서있는 투사는 언월도 사용을 거의 완벽하게 다루는 사람들입니다. 전술에서 약간의 기술이 부족할 수 있을 뿐이지만, 순수한 힘은 그것들을 충분히 채울만큼 세며, 가장 철저한 방어선을 제외한 대부분의 방어선은 뚫고 나가버릴 것입니다."
+msgstr "대부분의 퀴노스(Quenoth) 창의 일선에 서 있는 투사는 언월도 사용을 거의 완벽하게 다루는 사람들입니다. 전술에서 약간의 기술이 부족할 수 있을 뿐이지만, 순수한 힘은 그것들을 충분히 채울만큼 세며, 가장 철저한 방어선을 제외한 대부분의 방어선은 뚫고 나가버릴 것입니다."
 
 #. [attack]: type=pierce
 #. [attack]: type=blade
@@ -12651,7 +12646,7 @@ msgid ""
 msgstr ""
 "모래 선장 시니엘의 일지에서:\n"
 "\n"
-"황혼 무렵 오아시스 근처에서 갑자기 오크들의 습격을 받았다. 나는 사막으로 도망쳤지만, 그곳에서도 늑대들은 거의 나를 따라잡을 수 있을 정도로 빨랐다. 나는 다리에 감각이 없을 때까지 몇 시간을 달리고 또 달렸지만 여전히 밝은 달빛 아래에서 그들은 나를 찾아 쫓아왔다. 나는 죽을 것이 확실하다 생각했지만, 엘로(Eloh)의 가호가 있었는지, 그때 갑자기 무리에서 벗어난 떨어진 한 마리의 젊은 타우록이 나타났다. 그녀가 나의 위기를 감지했는지, 빠르게 내게 와서 긴긴 밤 내내 내 옆에서 싸워주었다. 한계를 넘어 쓴운 결과, 우리는 어떻게든 수십 마리의 오크와 늑대들을 스스로 몰아낼 수 있었다. 동틀 무렵, 우리는 둘 밖에 없었고, 지칠대로 지쳐있고, 뼛속까지 깊은 상처와 눈앞에 모래밖에 보이지 않았다. 나는 타우록의 상처를 치료하기 위해 남은 보급품을 조금 사용했고, 피로에 쌓여 의식을 잃었는지 그 후로는 거의 기억이 나지 않았다.\n"
+"황혼 무렵 오아시스 근처에서 갑자기 오크들의 습격을 받았다. 나는 사막으로 도망쳤지만, 그곳에서도 늑대들은 거의 나를 따라잡을 수 있을 정도로 빨랐다. 나는 다리에 감각이 없을 때까지 몇 시간을 달리고 또 달렸지만 여전히 밝은 달빛 아래에서 그들은 나를 찾아 쫓아왔다. 나는 죽을 것이 확실하다 생각했지만, 엘로(Eloh)의 가호가 있었는지, 그때 갑자기 무리에서 벗어난 떨어진 한 마리의 젊은 타우록이 나타났다. 그녀가 나의 위기를 감지했는지, 빠르게 내게 와서 긴긴 밤 내내 내 옆에서 싸워 주었다. 한계를 넘어 쓴운 결과, 우리는 어떻게든 수십 마리의 오크와 늑대들을 스스로 몰아낼 수 있었다. 동틀 무렵, 우리는 둘 밖에 없었고, 지칠대로 지쳐있고, 뼛속까지 깊은 상처와 눈앞에 모래밖에 보이지 않았다. 나는 타우록의 상처를 치료하기 위해 남은 보급품을 조금 사용했고, 피로에 쌓여 의식을 잃었는지 그 후로는 거의 기억이 나지 않았다.\n"
 "\n"
 "-----------------------\n"
 "\n"
@@ -12946,7 +12941,7 @@ msgid ""
 "\n"
 "That is a question which is easily answered by a necromancer."
 msgstr ""
-"세상에 빛이 생기고 알 수 없는 것들에 형태를 부여하였을때, 공포는 어둠 속으로 쫓겨들어갔다. 그때로부터 세상의 그림자들은 인간의 공포를 담게 되었지만 아무도 그 이유는 모른다.\n"
+"세상에 빛이 생기고 알 수 없는 것들에 형태를 부여하였을 때, 공포는 어둠 속으로 쫓겨들어갔다. 그때로부터 세상의 그림자들은 인간의 공포를 담게 되었지만 아무도 그 이유는 모른다.\n"
 "\n"
 "이런 질문은 강령술사라면 쉽게 대답해 줄 수 있는 것이다."
 
@@ -13147,13 +13142,11 @@ msgid ""
 "\n"
 "Using this song will also grant illuminates for three turns."
 msgstr ""
-"이 공격은 태양 승천의 노래의 세 번째 소절로, 이 유닛은 노래 소절 공격을 사용하여, 매 차례마다 한 소절씩 진행됩니다. \n"
-"\n"
+"이 공격은 태양 승천의 노래의 세 번째 소절입니다. 이 유닛이 노래 소절 공격을 사용할 때마다 노래가 한 소절씩 진행됩니다.\n"
 "\n"
 "다음 차례에는 노래가 첫 번째 소절부터 다시 시작됩니다.\n"
 "\n"
-"\n"
-"이 노래를 사용하면 3차례 동안 조명도 제공됩니다."
+"이 노래를 사용하면 3차례 동안 조명 능력도 얻습니다."
 
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:94
 msgid "first verse"
@@ -13228,7 +13221,7 @@ msgid ""
 "This attack is the third verse of the Song of Sun Ascension. After using it, "
 "the first verse is available in the next turn. Furthermore, invoking this "
 "attack will grant illumination for three turns."
-msgstr "이 공격은 태양 승천의 노래의 세 번째 소절입니다. 사용 후 다음 차례에 첫 소절을 사용할 수 있습니다. 게다가, 이 공격을 발동하면 3 차례 동안 조명이 부여됩니다."
+msgstr "이 공격은 태양 승천의 노래의 세 번째 소절입니다. 이 공격을 사용하면 다음 차례에 첫 번째 소절을 사용할 수 있습니다. 또한 이 공격을 사용하면 3차례 동안 조명 능력을 얻습니다."
 
 #. [dummy]: id=nova
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:449
@@ -13587,7 +13580,7 @@ msgstr "살려줘, 칼레흐(Kaleh), 죽을 것 같아..."
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/utils/deaths.cfg:58
 msgid "Eloh protect us, I have fallen."
-msgstr "엘로(Eloh)여, 모두를 지켜주소서, 저는 여기까지인것 같습니다."
+msgstr "엘로(Eloh)여, 모두를 지켜주소서, 저는 여기까지인 것 같습니다."
 
 #. [message]: speaker=unit
 #: data/campaigns/Under_the_Burning_Suns/utils/deaths.cfg:80
@@ -13827,7 +13820,7 @@ msgid ""
 "dark, so you are my hand of justice. Punish the non-believers. Go now, and "
 "fear not the dark.”</i> And again, just like before, I was woken up by a "
 "shout in the night."
-msgstr "그날 밤, 잠이 들자, 나는 다시 꿈을 꾸었는데, 그것은 그 운명적인 밤 이후의 처음이었다. 엘로(Eloh)는 다시 내 앞에 모습을 드러냈고, 이번에는 태양처럼 밝게 빛나는 아름다운 모습으로 환영속에 나타났었다. 그녀는 <i>“용기를 가져라, 비록 곧 어둠의 시간을 겪겠지만, 결국 너의 모든 시련은 풍부한 보상을 받을 것이다. 너는 북쪽 산맥 위로 가지말고 아래로 가야한다. 너는 언덕 가장자리 사막에서 검은 흑요석으로 만들어진 고대 감시탑의 폐허를 발견할 것이다. 그 탑을 지나면, 너가 찾는 터널의 입구를 찾을 수 있을 것이다. 산 아래로 매끄러운 고대 터널을 따라 내려가다가, 하늘과 나의 화신한 태양을 다시 보게 되면, 그때 너에게 다시 말할 것이다. 그러나 어둠 속에 숨어 있는 자들을 조심하여라. 그들은 내 빛을 피해 숨어 있는 자들이며, 그들을 절대 믿어서는 안 된다. 나는 어둠 속에서는 힘을 쓸 수 없으니, 너가 나의 정의를 구현할 손이 되어라. 나를 믿지 않는 자들을 처벌하라. 자, 이제 가거라, 그리고 어둠을 두려워하지마라.”</i>그리고 또 다시, 지난 번과 같은, 어둠을 가르는 고함소리에 나는 잠을 깼다."
+msgstr "그날 밤, 잠이 들자, 나는 다시 꿈을 꾸었는데, 그것은 그 운명적인 밤 이후의 처음이었다. 엘로(Eloh)는 다시 내 앞에 모습을 드러냈고, 이번에는 태양처럼 밝게 빛나는 아름다운 모습으로 환영속에 나타났었다. 그녀는 <i>“용기를 가져라, 비록 곧 어둠의 시간을 겪겠지만, 결국 너의 모든 시련은 풍부한 보상을 받을 것이다. 너는 북쪽 산맥 위로 가지말고 아래로 가야한다. 너는 언덕 가장자리 사막에서 검은 흑요석으로 만들어진 고대 감시탑의 폐허를 발견할 것이다. 그 탑을 지나면, 너가 찾는 터널의 입구를 찾을 수 있을 것이다. 산 아래로 매끄러운 고대 터널을 따라 내려가다가, 하늘과 나의 화신한 태양을 다시 보게 되면, 그때 너에게 다시 말할 것이다. 그러나 어둠 속에 숨어 있는 자들을 조심하여라. 그들은 내 빛을 피해 숨어 있는 자들이며, 그들을 절대 믿어서는 안 된다. 나는 어둠 속에서는 힘을 쓸 수 없으니, 너가 나의 정의를 구현할 손이 되어라. 나를 믿지 않는 자들을 처벌하라. 자, 이제 가거라, 그리고 어둠을 두려워하지 마라.”</i>그리고 또 다시, 지난 번과 같은, 어둠을 가르는 고함소리에 나는 잠을 깼다."
 
 #. [part]
 #: data/campaigns/Under_the_Burning_Suns/utils/storytxt.cfg:60
@@ -13852,9 +13845,7 @@ msgid ""
 "great that we raised another sun into the sky, so that the days were "
 "lengthened and dark hours were few. Happy indeed were our people during "
 "these long years, but it was not to last forever."
-msgstr ""
-"아득한 옛날, 엘프에게 황금 시대가 있었다. 우리 민족은 나무가 우거진 땅에서 자연과 조화를 이루며 살고 있었다. 엘프는 물론, 인간들과 난쟁이라고 부르는 다른 종족들 사이에는 평화가 유지됐고, 사악한 생물들은 땅속 깊이 밀려나 있었다.\n"
-"아직 우리 민족 사이에 우리아라는 더러운 이름이 알려지지 않았고, 우리의 힘은 막강해 하늘에 또 하나의 태양을 올릴 정도였고, 낮을 길게 해서 어둠의 시간을 없애 버리려 했다. 이 기나긴 세월 동안 우리 민족은 참으로 행복했지만, 그것은 영원히 지속되지는 않았다."
+msgstr "아득한 옛날, 엘프에게는 황금시대가 있었습니다. 우리 민족은 눈에 보이는 곳까지 나무가 가득한 땅에서 자연과 조화를 이루며 살았습니다. 엘프와 인간·난쟁이 같은 다른 종족 사이에는 평화가 있었고, 사악한 생물들은 땅속 깊이 쫓겨났습니다. 우리 민족은 아직 우리아(Uria)라는 불길한 이름을 알지 못했고, 우리의 힘은 하늘에 또 하나의 태양을 띄워 낮을 늘리고 어둠의 시간을 줄일 만큼 강했습니다. 우리 민족은 이 긴 세월 동안 참으로 행복했지만, 그 행복은 영원하지 않았습니다."
 
 #. [part]
 #: data/campaigns/Under_the_Burning_Suns/utils/storytxt.cfg:68
@@ -13876,7 +13867,7 @@ msgid ""
 "darkness, worshiping Uria in hopes of saving themselves. Former friends "
 "fought over what few resources remained, and chaos threatened to overwhelm "
 "us all."
-msgstr "결국 평화와 번영은 부패와 퇴폐를 조장했다. 그녀의 기만과 속임수를 통해, 우리아는 그들의 가장 어두운 욕망을 충족시킬 것을 약속하는 비밀 추종자 집단을 키워갔다. 그녀는 기회를 엿보면서도, 그 사악한 손을 천천히 전 세계로 뻗고 있었다. 처음에는 인간, 엘프, 난쟁이들 사이의 사소한 논쟁이 갈등으로 번졌고, 오랜 세월동안 싸워온 첫 번째 전쟁에, 우리 민족을 휘말리게 했다. 그런 다음, 오크와 다른 사악한 생물들이 세상으로 돌아와, 우리 정착지를 습격하고 마을을 파괴하고 수많은 사람들을 학살했다. 우리아의 추종자들은 강령술을 익히고, 언데드 군대를 일으켰다. 우리 민족은 오래 지속된 평화와 번영의 시대를 거치면서 나약해졌고, 이 새로운 시련에 대처할 힘을 갖지 못했다. 자연마저도 이 대학살에 겁먹은 듯 불행이 이어졌다. 농작물의 흉작과 나무들의 고사가 잇따라 일어나 숲이 죽기 시작한 것이다. 그 중에서도 가장 사람들을 괴롭힌 것은, 밤이 길어져 지금도 우리를 괴롭히고 있는 긴 밤이 생겨난 것이었다. 이로 인해 민족의 많은 이가 절망에 빠져, 다가오는 어둠을 받아들였고, 자신이 구원받기 위해 우리아를 숭배했다. 옛 친구들도 얼마 남지 않은 자원을 놓고 다투게 되면서, 혼돈이 우리 모두를 압도할 위기에 처하게 되었다."
+msgstr "결국 평화와 번영은 부패와 퇴폐를 조장했다. 그녀의 기만과 속임수를 통해, 우리아는 그들의 가장 어두운 욕망을 충족시킬 것을 약속하는 비밀 추종자 집단을 키워갔다. 그녀는 기회를 엿보면서도, 그 사악한 손을 천천히 전 세계로 뻗고 있었다. 처음에는 인간, 엘프, 난쟁이들 사이의 사소한 논쟁이 갈등으로 번졌고, 오랜 세월 동안 싸워온 첫 번째 전쟁에, 우리 민족을 휘말리게 했다. 그런 다음, 오크와 다른 사악한 생물들이 세상으로 돌아와, 우리 정착지를 습격하고 마을을 파괴하고 수많은 사람들을 학살했다. 우리아의 추종자들은 강령술을 익히고, 언데드 군대를 일으켰다. 우리 민족은 오래 지속된 평화와 번영의 시대를 거치면서 나약해졌고, 이 새로운 시련에 대처할 힘을 갖지 못했다. 자연마저도 이 대학살에 겁먹은 듯 불행이 이어졌다. 농작물의 흉작과 나무들의 고사가 잇따라 일어나 숲이 죽기 시작한 것이다. 그 중에서도 가장 사람들을 괴롭힌 것은, 밤이 길어져 지금도 우리를 괴롭히고 있는 긴 밤이 생겨난 것이었다. 이로 인해 민족의 많은 이가 절망에 빠져, 다가오는 어둠을 받아들였고, 자신이 구원받기 위해 우리아를 숭배했다. 옛 친구들도 얼마 남지 않은 자원을 놓고 다투게 되면서, 혼돈이 우리 모두를 압도할 위기에 처하게 되었다."
 
 #. [part]
 #: data/campaigns/Under_the_Burning_Suns/utils/storytxt.cfg:72
@@ -14028,7 +14019,7 @@ msgid ""
 "they had last seen an elf. While some seemed suspicious or frightened of us, "
 "the dwarves overall were very polite and met our every need. Finally the "
 "summons came to meet with the dwarven king..."
-msgstr "난쟁이 국왕은 최근의 전투의 뒤치다꺼리 때문에, 며칠 동안 돌아오지 않을 예정이었다. 나는 이 낯선 사람들에 대해 할 수 있는 한 많은 것을 배우면서, 내가 가진 짧은 시간을 행복하게 보냈다. 나는 그들의 장인정신에 깊은 인상을 받았다. 그들은 내가 지금까지 본 적이 없는 품질의 무기와 갑옷을 만들었다. 우리는 난쟁이들에게도 꽤나 호기심이 있었다. 나는 그들이 언제 마지막으로 엘프를 봤는지 짐작조차 할 수 없었다. 몇몇 사람들은 우리를 의심하거나 무서워하는 것처럼 보였지만, 난쟁이들은 전반적으로 매우 예의 바랐고, 필요한 일이라면 어떤 부탁이라도 응해 주었다. 그러는 사이에 몇일이 지나고, 마침내 난쟁이 국왕을 만날 날이 찾아왔다..."
+msgstr "난쟁이 국왕은 최근 전투의 뒤처리를 위해 자리를 비워 며칠 동안 돌아오지 않을 예정이었다. 나는 얼마 남지 않은 시간을 이 낯선 종족에 대해 최대한 많이 배우며 즐겁게 보냈다. 나는 그들의 장인 정신에 깊은 인상을 받았다. 그들은 내가 지금까지 본 적 없는 품질의 무기와 갑옷을 만들었다. 우리도 난쟁이들에게 꽤 흥미로운 존재였을 것이다. 난쟁이들이 마지막으로 엘프를 본 게 언제였는지는 알 수 없었다. 몇몇은 우리를 의심하거나 두려워하는 듯했지만, 난쟁이들은 전반적으로 매우 예의 바르고 우리의 필요를 모두 충족해 주었다. 마침내 난쟁이 국왕을 만나라는 소환이 도착했다..."
 
 #. [part]
 #: data/campaigns/Under_the_Burning_Suns/utils/storytxt.cfg:140
@@ -14115,7 +14106,7 @@ msgid ""
 "about? How did his leader know about ‘Yechnagoth’ and ‘Zhangor’? If Eloh "
 "won’t help me, then I desperately need some answers. I pray to whatever gods "
 "may be left that I’m not leading my people into a trap..."
-msgstr "그 놀라움은 내가 생각했던 또 다른 이질적인 것을 생각나게 했다. 우리의 여신인 엘로(Eloh). 그녀의 계획은 무엇이었을까? 왜 그녀는 내가 인간들에게 항복하기를 원했을까? 인간들도 그녀를 숭배하고 있는 것일까? 인간들은 너무 잔인하고 사악해 보여서 우리와 같은 신을 섬기는 것을 상상할 수 없었다. 나는 엘로(Eloh)가 우리만의 신이라고 생각했고, 큰 멸망 이후에 줄(Zhul)은 엘로(Eloh)를 숭배하는 다른 종족에대해 들은적이 없었던것 같았다. 아마도 그 사이에 상황이 바뀌었을 지도 모르는 일이다. 하지만 그렇다해도 그녀의 명령은 말이 되지 않는다. 아무래도 그녀는 줄(Zhul)이 나에게 말했던 여신처럼은 보이지 않았다. 그리고 에사누(Esanoo)는 무엇에 대해 이야기하고 있었을까? 그의 대장은 ‘예크나고쓰(Yechnagoth)’ 와 ‘장고르’ 에 대해 어떻게 알았던걸까? 엘로(Eloh)가 나를 도와주지 않는다면, 나는 답이 절실히 필요했다. 어떤 신이라도 내가 내 동료들을 함정에 빠뜨리지 않도록 약속 해줄(Zhul) 수 있다면, 나는 그 신에게 기도할 것이다..."
+msgstr "그 놀라움은 내가 이해하려 애쓰던 또 다른 낯선 개념을 떠올리게 했다. 바로 우리의 여신 엘로(Eloh)다. 그녀의 계획은 무엇이었을까? 왜 인간들에게 항복하라고 했을까? 인간들도 그녀를 숭배하는 걸까? 인간들은 너무 잔인하고 사악해 보여서 우리와 같은 신을 섬긴다고는 상상하기 어렵다. 나는 엘로(Eloh)가 우리만의 신이라고 생각했다. 큰 멸망 이후 줄(Zhul)이 다른 종족도 엘로(Eloh)를 숭배한다는 말을 한 기억은 없지만, 그동안 상황이 바뀌었을지도 모른다. 그렇다 해도 그녀의 명령은 도무지 이해되지 않는다. 줄(Zhul)이 말해 준 여신과는 전혀 다른 모습이다. 그리고 에사누(Esanoo)는 무슨 이야기를 하고 있었을까? 그의 지도자는 ‘예크나고쓰(Yechnagoth)’와 ‘장고르’에 대해 어떻게 알고 있었을까? 엘로(Eloh)가 나를 돕지 않는다면, 나는 절실히 답을 찾아야 한다. 아직 남아 있는 신들이 있다면, 내가 동료들을 함정으로 이끌지 않게 해 달라고 기도할 것이다..."
 
 #. [part]
 #: data/campaigns/Under_the_Burning_Suns/utils/storytxt.cfg:174
@@ -14190,7 +14181,7 @@ msgid ""
 "That afternoon three of the merfolk sat in a circle and performed their "
 "ritual to determine the location of their leader. Apparently it was a "
 "success, for they steered us straight towards the setting sun."
-msgstr "어느 오후, 3명의 인어들이 대장의 위치를 알아보기 위해 둥글게 앉아 그들의 의식을 행했다. 이윽고, 해가 지는 석양쪽으로 방향타를 틀라고 말했기 때문에, 의식은 성공한 것이라고 생각한다."
+msgstr "어느 오후, 인어 세 명이 대장의 위치를 알아내기 위해 둥글게 앉아 의식을 치렀다. 의식은 성공한 모양이었다. 인어들은 우리를 곧장 지는 해 쪽으로 몰았기 때문이다."
 
 #. [part]
 #: data/campaigns/Under_the_Burning_Suns/utils/storytxt.cfg:206
@@ -14198,7 +14189,7 @@ msgid ""
 "The next morning we reached our destination. It wasn’t even an island, just "
 "a sandbar sticking out above the water. We lowered down a longboat and the "
 "merfolk pulled us to shore, none of us being very skilled with the oars."
-msgstr "다음날 아침, 우리는 목적지에 도착했다. 섬도 아니고 물 위로 튀어나온 모래톱일 뿐이었다. 우리는 긴 배를 내려갔고, 인어들은 우리를 해안으로 끌어냈지만, 우리 중 누구도 노를 잘 젓지 못했다."
+msgstr "다음 날 아침, 우리는 목적지에 도착했다. 섬도 아니고 물 위로 솟은 모래톱일 뿐이었다. 우리는 긴 배를 물에 내렸고, 노를 잘 젓는 사람이 아무도 없었기에 인어들이 우리를 해안까지 끌어 주었다."
 
 #. [part]
 #: data/campaigns/Under_the_Burning_Suns/utils/storytxt.cfg:210

@@ -12,6 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+
 #. [campaign]: id=Sceptre_of_Fire
 #: data/campaigns/Sceptre_of_Fire/_main.cfg:11
 msgid "The Sceptre of Fire"
@@ -169,7 +170,7 @@ msgstr "글릴두르(Glildur)"
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:65
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:44
 msgid "Elves"
-msgstr "엘프들"
+msgstr "엘프족"
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:190
@@ -966,7 +967,7 @@ msgstr "오크는 항상 이렇게 냄새가 지독한가? 멍청하고 지저�
 #. [message]: speaker=Bragdash
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:161
 msgid "We see you, we hear you, sneaky little moles! Pidmer, go skewer them!"
-msgstr "우리가 너희를 보고 있고, 너희 말을 듣고 있다, 교활한 두더지 자식들아! 피드메르, 가서 놈들을 꿰뚫어라!"
+msgstr "우리가 너희를 보고 있고, 너희 말을 듣고 있다, 교활한 두더지 자식들아! 피드메르(Pidmer), 가서 놈들을 꿰뚫어라!"
 
 #. [message]: speaker=Pidmer
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:165
@@ -1800,7 +1801,7 @@ msgid ""
 "Wait, wait. The gold and coal... I think we can find those in the abandoned "
 "eastern mines, north of the Arkan-thoria. Trolls ha’ overrun them, but "
 "earlier they were the source of the finest smithing materials."
-msgstr "잠깐, 잠깐. 금과 석탄이라면... 아르칸-토리아 북쪽의 버려진 동부 광산에서 찾을 수 있을 것 같네. 트롤들이 그곳을 점령했지만, 예전에는 최고의 대장장이 재료가 나오는 곳이었지."
+msgstr "잠깐, 잠깐. 금과 석탄이라면... 아르칸-토리아(Arkan-thoria) 북쪽의 버려진 동부 광산에서 찾을 수 있을 것 같네. 트롤들이 그곳을 점령했지만, 예전에는 최고의 대장장이 재료가 나오는 곳이었지."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/3t_The_Council_Regathers.cfg:228
@@ -2783,7 +2784,7 @@ msgid ""
 "better head back to the abandoned mines north of the Arkan-thoria, where we "
 "gathered our gold and coal. At least there Alanin will have some hope of "
 "finding us."
-msgstr "이곳과 크날가(Knalga) 사이의 땅에는 엘프가 득실거릴 것이오. 우리가 금과 석탄을 모았던 아르칸-토리아 북쪽의 버려진 광산으로 돌아가는 편이 낫소. 적어도 그곳이라면 알라닌(Alanin)이 우리를 찾을 희망이 있소."
+msgstr "이곳과 크날가(Knalga) 사이의 땅에는 엘프가 득실거릴 것이오. 우리가 금과 석탄을 모았던 아르칸-토리아(Arkan-thoria) 북쪽의 버려진 광산으로 돌아가는 편이 낫소. 적어도 그곳이라면 알라닌(Alanin)이 우리를 찾을 희망이 있소."
 
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:461
@@ -2892,7 +2893,7 @@ msgstr "추격대를 따돌리며"
 msgid ""
 "Rugnur fled through the hills by the Arkan-thoria, while Alanin went south — "
 "back to the Wesnoth border."
-msgstr "룩누르(Rugnur)는 아르칸-토리아 근처의 언덕을 지나 달아났고, 알라닌(Alanin)은 남쪽으로, 웨스노스(Wesnoth) 국경을 향해 갔습니다."
+msgstr "룩누르(Rugnur)는 아르칸-토리아(Arkan-thoria) 근처의 언덕을 지나 달아났고, 알라닌(Alanin)은 남쪽으로, 웨스노스(Wesnoth) 국경을 향해 갔습니다."
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/7_Outriding_the_Outriders.cfg:66
@@ -3843,7 +3844,7 @@ msgid ""
 "Rugnur sent me back, with the message that the Sceptre was near completion, "
 "but he and all the rest of the dwarves went into the caves south of the "
 "Arkan-thoria, and were immediately followed by hundreds of elves."
-msgstr "우리는 룩누르(Rugnur)의 것이 아닌 드워프 성에서 엘프들에게 포위되어 있었습니다. 룩누르(Rugnur)는 왕홀이 거의 완성되었다는 소식과 함께 저를 돌려보냈지만, 그와 나머지 드워프들은 아르칸-토리아 남쪽의 동굴로 들어갔고, 곧 수백 명의 엘프가 뒤를 따랐습니다."
+msgstr "우리는 룩누르(Rugnur)의 것이 아닌 드워프 성에서 엘프들에게 포위되어 있었습니다. 룩누르(Rugnur)는 왕홀이 거의 완성되었다는 소식과 함께 저를 돌려보냈지만, 그와 나머지 드워프들은 아르칸-토리아(Arkan-thoria) 남쪽의 동굴로 들어갔고, 곧 수백 명의 엘프가 뒤를 따랐습니다."
 
 #. [message]: speaker=Haldric II
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:158

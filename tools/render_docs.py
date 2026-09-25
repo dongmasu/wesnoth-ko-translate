@@ -36,10 +36,34 @@ def major_minor(version: str) -> str:
     return match.group(1)
 
 
-def render(template: str, version: str) -> str:
+def latest_po_date(version: str) -> str:
+    candidates = sorted(
+        (ROOT / "dist").glob(f"{version}-*/ko/PO_LAST_MODIFIED_DATE"),
+        key=lambda path: path.parent.parent.name,
+        reverse=True,
+    )
+    for path in candidates:
+        value = path.read_text(encoding="utf-8").strip()
+        timestamp_match = re.fullmatch(
+            r"(\d{4})-(\d{2})-(\d{2}) \d{2}:\d{2}:\d{2}\+0900",
+            value,
+        )
+        if timestamp_match:
+            return "".join(timestamp_match.group(index) for index in (1, 2, 3))
+        if re.fullmatch(r"\d{8}", value):
+            return value
+    return "<최종수정일>"
+
+
+def render(
+    template: str,
+    version: str,
+    po_date: str = "<최종수정일>",
+) -> str:
     replacements = {
         "{{WESNOTH_VERSION}}": version,
         "{{WESNOTH_MAJOR_MINOR}}": major_minor(version),
+        "{{PO_LAST_MODIFIED_DATE}}": po_date,
     }
     for token, value in replacements.items():
         template = template.replace(token, value)
@@ -60,10 +84,11 @@ def main() -> int:
     args = parser.parse_args()
 
     version = read_version()
+    po_date = latest_po_date(version)
     changed: list[str] = []
     for template_name, output_path in TEMPLATES.items():
         template_path = TEMPLATE_DIR / template_name
-        content = render(template_path.read_text(encoding="utf-8"), version)
+        content = render(template_path.read_text(encoding="utf-8"), version, po_date)
         current = output_path.read_text(encoding="utf-8") if output_path.exists() else None
         if current != content:
             changed.append(str(output_path.relative_to(ROOT)))

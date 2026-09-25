@@ -14,6 +14,11 @@ $version = if ($env:WESNOTH_VERSION) {
 }
 $poDate = if ($env:WESNOTH_PO_DATE) {
     $env:WESNOTH_PO_DATE
+} elseif ($env:WESNOTH_PO_TIMESTAMP) {
+    if ($env:WESNOTH_PO_TIMESTAMP -notmatch '^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}\+0900$') {
+        throw "WESNOTH_PO_TIMESTAMP must be YYYY-MM-DD HH:MM:SS+0900"
+    }
+    $env:WESNOTH_PO_TIMESTAMP.Substring(0, 10).Replace("-", "")
 } else {
     $distDirectory = Join-Path $root "dist"
     $metadata = Get-ChildItem -LiteralPath $distDirectory -Directory -Filter "$version-*" |
@@ -22,7 +27,14 @@ $poDate = if ($env:WESNOTH_PO_DATE) {
         Sort-Object |
         Select-Object -Last 1
     if ($metadata) {
-        (Get-Content -Raw -Encoding UTF8 $metadata).Trim()
+        $timestamp = (Get-Content -Raw -Encoding UTF8 $metadata).Trim()
+        if ($timestamp -match '^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}\+0900$') {
+            $timestamp.Substring(0, 10).Replace("-", "")
+        } elseif ($timestamp -match '^\d{8}$') {
+            $timestamp
+        } else {
+            throw "invalid PO_LAST_MODIFIED_DATE: $timestamp"
+        }
     } else {
         $poDirectory = Join-Path $root "work\$version\ko"
         $latestPo = Get-ChildItem -LiteralPath $poDirectory -Filter "*.po" |
@@ -60,6 +72,7 @@ Copy-Item -LiteralPath $Config -Destination $backup
 
 $updated = $content -replace 'name="한국어 \([^"]*\)"', "name=""한국어 ($Marker)""" 
 $updated = $updated -replace 'sort_name\s*=\s*"[^"]*"', "sort_name = ""$Marker"""
+$updated = $updated -replace 'percent\s*=\s*\d+', 'percent=100'
 [System.IO.File]::WriteAllText(
     $temporary,
     $updated,

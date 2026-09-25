@@ -23,11 +23,17 @@ work/
   자유게시판에서 선별한 용어·명칭 참고 메모
 - 버전 기본값은 루트 `VERSION`에서 읽으며, 도구 실행 시
   `WESNOTH_VERSION=<버전>`으로 덮어쓸 수 있습니다. 새 버전은 같은
-  `po/<버전>/`, `work/<버전>/`, `dist/<버전>-<작업일>/` 구조를 사용합니다.
-- `dist/<버전>-<작업일>/`의 MO와 메타데이터는 공개 산출물로 Git에
+  `po/<버전>/`, `work/<버전>/`, `dist/<버전>-<최종수정일>/` 구조를 사용합니다.
+- `dist/<버전>-<최종수정일>/`의 MO와 메타데이터는 공개 산출물로 Git에
   포함합니다. 설치 도구는 대상의 기존 `*.mo`를 삭제하고 전체 MO 세트를
   동기화하며 다른 파일은 보존합니다. 문제가 생기면 `po/<버전>/ko/` 또는
   `work/<버전>/ko/`에서 MO를 다시 생성합니다.
+- `tools/build_asset.sh <버전> <최종수정일> <ko_KR.cfg>`는 MO와
+  `ko_KR.cfg`, 문서, 설치 스크립트를 포함한 배포 ZIP을 생성합니다.
+- 번역 ZIP은 `data/`와 `translations/`를 ZIP 루트의 형제 디렉터리로
+  유지합니다. `data/languages/ko_KR.cfg`는 언어 표시용이고,
+  `translations/ko/LC_MESSAGES/*.mo`는 번역 바이너리입니다.
+  `translations/`를 `data/` 아래로 옮기지 않습니다.
 - 루트 문서의 버전 표기는 `docs/templates/*.md.in`에서 관리합니다.
   템플릿을 수정한 뒤 `python3 tools/render_docs.py`로 게시 문서를
   재생성하고, `--check`로 생성 결과를 검증합니다. 생성된 Markdown은
@@ -42,6 +48,21 @@ work/
 - 인명·지명·종족명·유닛명은 한글 표기를 우선합니다. 일본어가 영어를
   그대로 쓰더라도 한국어 영어 보존의 근거로 삼지 않습니다. 중국어는
   음역 비교용 보조 자료로 사용합니다.
+- 음차는 철자 대 철자 치환이 아니라 영어의 실제 발음과 최신 한국어
+  참고자료를 대조해 정합니다. 같은 `source_term`은 대소문자를 구분해
+  하나의 한국어 표기로 통일합니다. `th`처럼 철자와 발음이 달라질 수
+  있는 경우에는 단어 위치와 고유명사의 발음을 확인하며,
+  `Arvith=아르비쓰`, `Mal Tath=말 타쓰`, `Verloth=베를로쓰`처럼
+  확정된 표기는 용어집에 기록합니다. 일본어의 영어 보존과 중국어
+  한자음은 발음 확인용 보조 자료일 뿐 한국어 표기의 직접 기준이
+  아닙니다.
+- 음차 검수 순서는 `References/20250322_wesnoth_한국어번역/` 및
+  카페 자료 확인, 영어 발음 대조, 일본어·중국어 대조, 전체 PO 용례
+  검색, 용어집 표준값 확정, 긴 문장 속 병기 재적용입니다. 이름의
+  일부가 직함·호칭·일반명사인지 먼저 분리하고, `Mal Tath`,
+  `Urza Fastik`처럼 여러 음차 요소로 이루어진 복합 인명도 `source_term`은
+  전체 이름으로 유지하며, PO 표기는 용어집의 `standard_korean`을 그대로
+  적용합니다.
 - 첫 등장 여부를 사람이 판정해 병기하지 않습니다. `category` 분류를
   병기 기준으로 사용하지 않고, 용어집 각 행의 영어 원문과 한국어를
   직접 비교해 실제 음차된 부분만 `한글(English)`로 병기합니다.
@@ -49,11 +70,10 @@ work/
   유지합니다.
 - 복합 고유명사는 직함·수식어와 이름을 구분합니다. `Minion of Tairach`는
   `타이라크(Tairach)의 졸개`, `Lady Dionli`는 `디온리(Dionli) 부인`처럼
-  실제 이름 부분만 병기합니다. 반대로 `Mal A’kai`, `Mal Tath`,
-  `Urza Fastik`처럼 여러 단어가 분리할 수 없는 하나의 고유 인명이면
+  실제 이름 부분만 병기합니다. `Mal A’kai`, `Mal Tath`,
+  `Urza Fastik`처럼 여러 단어로 이루어진 고유 인명도
   `말 아카이(Mal A’kai)`, `말 타쓰(Mal Tath)`,
-  `우르자 파스티크(Urza Fastik)`처럼 전체 이름을 한 번만 병기하고
-  구성 요소를 따로 괄호에 넣지 않습니다.
+  `우르자(Urza) 파스티크(Fastik)`처럼 용어집에 확정된 표기를 사용합니다.
 - 영어(`en_GB`)를 기본 원문으로 확인하고, 일본어(`ja`)와
   중국어(`zh_CN`)는 보조 참고 자료로 사용합니다.
 - 번역을 수정한 뒤에는 `tests/`의 구조·문법 검사를 실행합니다.
@@ -84,6 +104,15 @@ work/
   성별 의미를 보존하되, `Watchwoman`처럼 인위적인 `여성 야경꾼`보다
   중립형 `야경꾼`이 자연스러운 경우에는 중립형을 사용합니다. 동물
   개체명처럼 성별이 식별 자체인 경우만 용어집에 명시적 예외로 기록합니다.
+- 성별형 검수는 `category`로 판단하지 않습니다. `female^Elvish Archer`
+  는 `female^`가 문맥 식별자이고 `Archer`가 성별 중립 직업명이므로
+  `요정 궁수`로 유지합니다. 반면 `Sorceress`, `Princess`, `Queen`,
+  `Baroness`, `Priestess`처럼 영어 표시 문자열 자체가 여성형이면
+  대응하는 한국어 성별 의미를 보존합니다.
+- `tools/audit_gender_terms.py`는 영어 성별 어휘쌍과 `female^`/`male^`
+  기본형 불일치, `Mage`·`Sorcerer`·`Wizard`의 번역 충돌을 감사합니다.
+  자동 변경 도구가 아니며, 출력된 후보는 원문·일본어·중국어·기존
+  한국어 참고자료를 대조해 용어집에 반영합니다.
 - 활성 메시지뿐 아니라 `#~`로 표시된 obsolete 메시지도 고유명사 병기,
   태그, placeholder 검수 대상에 포함합니다. obsolete 메시지는 삭제하지
   않고 과거 자료로 보존하되, 현재 표기 규칙에 맞지 않으면 함께 정리합니다.
@@ -168,6 +197,9 @@ work/
 문장도 다음 기준으로 재검수합니다.
 
 - 용어집 표준 번역과 고유명사 음차·병기 규칙이 적용되었는가
+- 영어 음차가 철자 치환이 아니라 발음과 최신 한국어 표기에 근거하는가?
+  `th` 등 발음 예외, 복합 인명, 긴 설명문 속 병기가 전체 PO에서
+  동일한가?
 - 영어 의미와 게임 문맥이 보존되었는가
 - 일본어·중국어 및 `References/20250322_wesnoth_한국어번역/`과 비교해
   누락·과역·문체 불일치가 없는가
@@ -177,6 +209,10 @@ work/
   같은 존대 수준과 말투를 유지하는가. `tools/audit_speaker_style.py`는
   후보를 찾는 보조 도구일 뿐이며, 화자별 문장 의미와 장면을 읽는
   수동 검수 대상입니다.
+- `random_names.lua`처럼 게임이 런타임에 사용하는 쉼표 구분 이름 목록은
+  일반 문장이나 표시되는 고유명사 목록이 아니므로 고유명사 병기 감사에서
+  제외합니다. 이 예외는 해당 파일 경로와 충분한 쉼표 수를 함께 확인하며,
+  일반적인 장문 서사·대사에는 적용하지 않습니다.
 
 전수 검수 중 용어집을 수정하면 관련 PO 전체에 표준 번역을 재적용하고,
 변경 항목을 다시 검토한 뒤 테스트와 구조 감사를 실행합니다.
@@ -301,16 +337,19 @@ done
 
 - `tools/build_mo.sh [version] [output_dir]`: macOS·Linux에서
   `work/<version>/ko/*.po`를 `msgfmt --check`로 검사하고 MO를 생성합니다.
-  마지막 PO 수정일을 `dist/<version>-<work-date>/ko/PO_LAST_MODIFIED_DATE`에 기록합니다.
+  마지막 PO 수정 시각을 KST/JST 기준
+  `YYYY-MM-DD HH:MM:SS+0900` 형식으로
+  `dist/<version>-<last-modified-date>/ko/PO_LAST_MODIFIED_DATE`에 기록합니다.
 - `tools/build_mo.bat [version] [output_dir]`: Windows에서 같은 작업을
-  수행하고 MO 생성 날짜를 같은 메타데이터 파일에 기록합니다.
+  수행하고 전체 작업 PO 중 가장 최근의 최종 수정 시각을 같은
+  메타데이터 파일에 기록합니다. MO 생성 시각은 기록하지 않습니다.
 - `tools/install_mo.sh <target_dir> [source_dir]`: macOS·Linux에서
   명시한 `translations/ko/LC_MESSAGES`에 MO를 설치합니다.
 - `tools/install_mo.bat <target_dir> [source_dir]`: Windows에서 같은
   작업을 수행합니다.
 - `tools/mark_korean_locale.sh <ko_KR.cfg>` 및
   `tools/mark_korean_locale.bat <ko_KR.cfg>`: 게임 언어 목록에
-  `한국어 (<작업버전>-<작업날짜>)` 표식을 기록합니다. Windows ZIP판은
+  `한국어 (<작업버전>-<최종수정일>)` 표식을 기록합니다. Windows ZIP판은
   `data\languages\ko_KR.cfg`를 직접 지정합니다.
 
 설치 도구는 대상 경로를 자동 추측하지 않습니다. 기존 `*.mo`가 있으면
@@ -345,9 +384,9 @@ done
 7. 내부 인명·지명·실제 이름 구성요소를 음차한 경우에만 그 부분을
    `한글(English)`로 병기합니다. 복합어 전체를 괄호에 넣지 않으며
    조사·호칭·수식어는 괄호 밖에 둡니다.
-   이름이 여러 단어로 이루어졌고 전체가 하나의 인명·지명이면 전체 이름을
-   한 번만 병기합니다. 예를 들어 `Mal Maul`은
-   `말 마울(Mal Maul)`, `Barag Gór`은 `바락 고르(Barag Gór)`로 씁니다.
+   이름이 여러 단어로 이루어졌더라도 `source_term`은 전체 이름으로
+   유지하며, 복합 인명을 자동으로 요소 분해하지 않습니다. 예를 들어
+   `Mal A’kai`는 `말 아카이(Mal A’kai)`로 씁니다.
    `Contender Gorlack`의 `Contender`처럼 직함·역할·수식어는 병기하지
    않습니다. `Naga Myrmidon`처럼 앞부분이 번역된 종족명이고 뒷부분만
    음차한 유닛명인 경우에는 `나가 미르미돈(Myrmidon)`처럼 음차한 부분만

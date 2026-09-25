@@ -18,6 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+
 #. [multiplayer]: id=multiplayer_A_New_Land
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:4
 msgid "4p — A New Land"
@@ -33,7 +34,10 @@ msgid ""
 "the land.\n"
 "\n"
 "For experienced players, it’s recommended to lower the starting gold to 75."
-msgstr "이 4인용 생존 시나리오에서는 건물을 세우고 땅을 마음대로 바꿀 수 있습니다. 맵 설정에 따르세요. 추천하는 최초 자금은 100입니다."
+msgstr ""
+"이 4인용 생존 시나리오에서는 건물을 짓고 지형을 바꿀 수 있습니다.\n"
+"\n"
+"숙련자라면 시작 금화를 75로 낮추는 것이 좋습니다."
 
 #. [part]
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:28
@@ -131,7 +135,7 @@ msgstr "당신의 농부가 우연히 북쪽과 남쪽에 있는 거미의 둥�
 msgid ""
 "I swear I saw somebody trapped in the spider’s web. Maybe we should rescue "
 "him?"
-msgstr "누가 거미줄에 걸려있는걸 분명히 봤어요. 우리가 구해주면 어떨까요?"
+msgstr "누군가 거미줄에 갇힌 걸 분명히 봤어요. 구해 주는 게 좋지 않을까요?"
 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:772
@@ -153,7 +157,7 @@ msgid ""
 "It would seem the enemy has built some underground mushroom mines nearby — "
 "it must be where the mainstay of their resources are produced. If we could "
 "destroy them our chances wouldn’t nearly be so slim."
-msgstr "아무래도 적이 근처에 지하 버섯 광산을 지은 것 같군. 저들은 그곳을 자원 보급의 중심지로 활용하고 있는게 분명하다. 우리가 그곳을 파괴할 수 있다면 우리의 희망이 그렇게까지 희박해지진 않을 거야."
+msgstr "아무래도 적이 근처에 지하 버섯 광산을 지은 것 같군. 저곳이 적의 주요 자원이 생산되는 곳임이 분명하다. 우리가 광산을 파괴할 수 있다면 승산이 그렇게 희박하지는 않을 걸세."
 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:812
@@ -177,7 +181,7 @@ msgstr "당신은 맹습으로부터 살아남았습니다! 전투의 기세가 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:841
 msgid "You have won the game, but you may continue if you wish..."
-msgstr "당신은 게임에서 승리했습니다. 원한다면 더 하실 수 있습니다...(적 대장 격파로 진정한 승리를 쟁취합시다 by 한글화 팀)"
+msgstr "게임에서 승리했습니다. 원한다면 계속할 수 있습니다..."
 
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:863
@@ -260,7 +264,7 @@ msgid ""
 "Villages can only be built on grassland. They provide income and healing as "
 "usual. Right-click on a peasant in a village and you can establish a "
 "university."
-msgstr "마을은 오직 초지에만 건설할 수 있습니다. 마을은 원래의 그것과 같은 수입원과 회복가능 장소입니다. 마을에서 농부를 오른쪽 클릭하면 대학을 건립할 수 있습니다."
+msgstr "마을은 초지에만 건설할 수 있습니다. 마을은 평소처럼 수입과 회복을 제공합니다. 마을의 농부를 오른쪽 클릭하면 대학을 세울 수 있습니다."
 
 #. [message]: speaker=narrator
 #. [option]
@@ -274,7 +278,7 @@ msgstr "광산"
 msgid ""
 "Mines can be built on hills or mountains. A peasant on a mine will "
 "automatically dig for gold at the start of your turn."
-msgstr "광산은 언덕이나 산에 건설할 수 있습니다. 광산에 있는 농부를 자동으로 매 턴마다 금을 캡니다."
+msgstr "광산은 언덕이나 산에 건설할 수 있습니다. 광산에 농부를 배치하면 턴 시작 시 자동으로 금을 캡니다."
 
 #. [message]: speaker=narrator
 #. [option]
@@ -347,7 +351,7 @@ msgid ""
 "$sm_player_name|, since the wisdom of my people exceeds yours I have "
 "instructed my scholars to aid you in your efforts to learn the science of "
 "mining."
-msgstr "$sm_player_name|, 우리의 지혜가 그대들을 능가하기에 내 학자들에게 그대의 광업학을 연구하는 그 노력에 보탬이 되어 줄 것을 지시했네."
+msgstr "$sm_player_name|, 우리 백성의 지혜가 그대들보다 뛰어나기에, 내 학자들에게 그대들이 광업 기술을 배우는 일을 돕도록 지시했네."
 
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:204
@@ -523,10 +527,7 @@ msgstr "모든 적 대장을 무찌를 것"
 #: data/multiplayer/scenarios/ANL_utils/ANL_objectives.cfg:37
 #| msgid "You must survive until turn 25."
 msgid "You must survive until turn 25"
-msgstr ""
-"25턴까지 살아남을 것.\n"
-"\n"
-"가능하다면 얼마나 빨리 모든 적장들을 격파할 수 있는지 시험해 보세요. (by 한글화 팀)"
+msgstr "25번째 차례까지 살아남으십시오."
 
 #. [set_menu_item]: id=anl_choose_new_recruit
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:45
@@ -819,7 +820,7 @@ msgstr "비용: 7원"
 #. [option]: description=<span size='small'>
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:581
 msgid "Clear the Ground"
-msgstr "땅을 청소한다"
+msgstr "지면 정리"
 
 #~ msgid "Right-click on your leader during your turn for help"
 #~ msgstr "당신의 턴이 왔을때 지도자를 오른쪽 클릭해서 도움말을 보세요"
