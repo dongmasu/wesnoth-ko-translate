@@ -67,7 +67,7 @@ tools/build_mo.sh
 ```
 
 이 스크립트는 `work/<버전>/ko/*.po`를 검사하고
-`dist/<버전>/ko/LC_MESSAGES/`에 MO를 생성합니다. 버전과 출력 경로를
+`dist/<버전>-<작업일>/ko/LC_MESSAGES/`에 MO를 생성합니다. 버전과 출력 경로를
 바꾸려면 `tools/build_mo.sh <버전> /path/to/output`처럼 실행합니다.
 `msgfmt --check`가 실패하면 MO를 설치하지 말고 해당 PO의 문법과
 placeholder를 먼저 수정합니다. 생성되는 파일명은 `wesnoth-ko.po`에서
@@ -75,7 +75,7 @@ placeholder를 먼저 수정합니다. 생성되는 파일명은 `wesnoth-ko.po`
 즉 PO 파일명은 번역 작업용 이름이고, 게임은 같은 basename의 `.mo`를
 `translations/ko/LC_MESSAGES/`에서 읽습니다. 기존 MO를 덮어쓰기 전에
 반드시 별도 디렉터리에 백업합니다. 빌드가 끝나면
-`dist/<버전>/ko/PO_LAST_MODIFIED_DATE`에 전체 작업 PO 중 가장 최근
+`dist/<버전>-<작업일>/ko/PO_LAST_MODIFIED_DATE`에 전체 작업 PO 중 가장 최근
 수정일(`YYYYMMDD`)이 기록됩니다. 언어 목록의 작업 표식은 이 파일을
 사용하므로 `한국어 (<작업버전>-<작업날짜>)` 형식으로 실제 번역 자료의
 세대를 식별할 수 있습니다. 재현 가능한 날짜가 필요하면
@@ -94,7 +94,7 @@ The Battle for Wesnoth.app/
 ```
 
 `%The Battle for Wesnoth%`는 Finder에서 **응용 프로그램**에 있는
-`The Battle for Wesnoth.app`를 뜻합니다. `dist/<버전>/ko/LC_MESSAGES/*.mo`를
+`The Battle for Wesnoth.app`를 뜻합니다. `dist/<버전>-<작업일>/ko/LC_MESSAGES/*.mo`를
 이 디렉터리에 복사합니다. 예를 들어 터미널에서는 다음처럼 백업 후
 복사할 수 있습니다.
 
@@ -104,7 +104,7 @@ tools/install_mo.sh \
 ```
 
 대상 경로는 반드시 실제 앱의 경로로 확인합니다. 스크립트는 기존 MO를
-앱 번들 바깥의 `dist/<버전>/ko/LC_MESSAGES.backup-YYYYMMDD-HHMMSS/`에
+앱 번들 바깥의 `dist/<버전>-<작업일>/ko/LC_MESSAGES.backup-YYYYMMDD-HHMMSS/`에
 백업한 뒤 복사합니다. App Store 앱처럼 앱 번들 내부에 새 디렉터리를
 만들 수 없는 설치본에서도 백업 단계가 실패하지 않도록 하기 위한
 구성입니다. 필요하면 `WESNOTH_BACKUP_DIR`로 백업 루트를 지정할 수
@@ -237,7 +237,7 @@ call tools\build_mo.bat
 call tools\install_mo.bat "C:\Program Files\Battle for Wesnoth 1.18\data\translations\ko\LC_MESSAGES"
 ```
 
-스크립트는 기존 MO를 앱 외부의 `dist/<버전>/ko/` 아래
+스크립트는 기존 MO를 앱 외부의 `dist/<버전>-<작업일>/ko/` 아래
 `LC_MESSAGES.backup-YYYYMMDD-HHMMSS` 디렉터리에 백업합니다.
 `Program Files` 아래에 설치되어 있으면 관리자 권한이 필요할 수 있습니다.
 
@@ -339,7 +339,8 @@ find "work/$VERSION/ko" -name '*.po' -print0 |
 공개 저장소에는 번역 결과와 재현 가능한 작업 도구를 우선 올립니다.
 
 - 공개 후보: `work/<버전>/ko/`, `work/<버전>/glossary.tsv`,
-  `po/<버전>/`, `tools/`, `tests/`, 프로젝트 문서
+  `po/<버전>/`, `dist/<버전>-<작업일>/`, `tools/`, `tests/`,
+  프로젝트 문서
 - 기본 제외: `References/wesnothko/`와 그 아래의 네이버 카페 HTML
   보관본
 - `References/20250322_wesnoth_한국어번역/`은 공개적으로 공헌된 PO
@@ -425,7 +426,7 @@ tools/build_mo.sh
 ```
 
 The script validates `work/<version>/ko/*.po` and writes MO files to
-`dist/<version>/ko/LC_MESSAGES/`. Pass a version and output directory to
+`dist/<version>-<work-date>/ko/LC_MESSAGES/`. Pass a version and output directory to
 override the defaults, for example `tools/build_mo.sh <version> /tmp/mo`.
 The `--check` option validates each PO while producing the MO. The generated
 file removes the final `-ko` from the PO filename: for example,
@@ -433,7 +434,7 @@ file removes the final `-ko` from the PO filename: for example,
 The PO basename is the work-file name; the game loads the corresponding MO
 from `translations/ko/LC_MESSAGES/`. Back up existing MO files before
 overwriting them. Each build records the latest PO modification date as
-`dist/<version>/ko/PO_LAST_MODIFIED_DATE` in `YYYYMMDD` form. The
+`dist/<version>-<work-date>/ko/PO_LAST_MODIFIED_DATE` in `YYYYMMDD` form. The
 language-list marker uses this date, producing
 `한국어 (<work-version>-<work-date>)`. Set `WESNOTH_PO_DATE=YYYYMMDD` when a
 reproducible date is required. Dates are calculated in KST/JST (UTC+9).
@@ -455,7 +456,7 @@ tools/install_mo.sh \
 ```
 
 The helper backs up existing MO files outside the application bundle, under
-`dist/<version>/ko/LC_MESSAGES.backup-YYYYMMDD-HHMMSS/`, before copying.
+`dist/<version>-<work-date>/ko/LC_MESSAGES.backup-YYYYMMDD-HHMMSS/`, before copying.
 This avoids the backup step failing on protected App Store bundles. Set
 `WESNOTH_BACKUP_DIR` to choose another backup root. `%The Battle for
 Wesnoth%` means the `The Battle for Wesnoth.app` bundle under `/Applications`
@@ -660,9 +661,11 @@ Publish the translation result and reproducible tooling first:
   alone does not automatically grant redistribution rights.
 
 Keep the Cafe archive local and record only the necessary conclusions with
-source attribution in the public repository. The `.gitignore` excludes
-`References/wesnothko/` by default, but inspect `git status` and
-`git ls-files` before publishing.
+source attribution in the public repository. Versioned `dist/<version>-<work-date>/`
+MO files and metadata are published, while only
+`LC_MESSAGES.backup-YYYYMMDD-HHMMSS/` directories are ignored. The
+`.gitignore` excludes `References/wesnothko/` by default, but inspect
+`git status` and `git ls-files` before publishing.
 
 ### 9. Completion tag for 1.18.x
 

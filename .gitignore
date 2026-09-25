@@ -2,9 +2,10 @@
 __pycache__/
 *.py[cod]
 
-# Generated gettext binaries are local test artifacts.
-*.mo
-dist/
+# Generated gettext binaries are published under dist; only local backups
+# remain ignored.
+dist/**/LC_MESSAGES.backup-*/
+dist/**/LC_MESSAGES.backup-*/**
 build/
 .local-backups/
 

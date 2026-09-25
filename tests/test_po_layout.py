@@ -248,6 +248,19 @@ class TranslationLayoutTests(unittest.TestCase):
             with self.subTest(marker=marker):
                 self.assertIn(marker, install_doc)
 
+    def test_dist_snapshots_include_work_date_and_ignore_only_backups(self):
+        build_script = (ROOT / "tools" / "build_mo.sh").read_text(encoding="utf-8")
+        install_script = (ROOT / "tools" / "install_mo.sh").read_text(encoding="utf-8")
+        gitignore = (ROOT / ".gitignore").read_text(encoding="utf-8")
+        install_doc = (ROOT / "INSTALL.md").read_text(encoding="utf-8")
+
+        self.assertIn('DIST_DIR="$ROOT/dist/$VERSION-$po_date"', build_script)
+        self.assertIn('SOURCE_DIR=${2:-"$ROOT/dist/$VERSION-$po_date/ko/LC_MESSAGES"}', install_script)
+        self.assertIn("dist/**/LC_MESSAGES.backup-*/", gitignore)
+        self.assertNotIn("\ndist/\n", gitignore)
+        self.assertIn("dist/<버전>-<작업일>/ko/LC_MESSAGES/", install_doc)
+        self.assertIn("Versioned `dist/<version>-<work-date>/`", install_doc)
+
     def test_work_files_follow_github_korean_file_set(self):
         self.assertTrue(REFERENCE_KO.is_dir())
         self.assertEqual(po_files(PO_ROOT / "ko"), po_files(WORK_KO))

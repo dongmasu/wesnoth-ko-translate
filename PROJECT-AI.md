@@ -87,8 +87,11 @@ Codex, Claude, Gemini, Copilot 또는 사람이 작업하더라도 아래 원칙
   `wesnoth-1.18.x-ko.1`이며, tag와 공개 파일 목록을 검토한 뒤 push한다.
 - 버전별 경로를 코드에 새로 하드코딩하지 않는다. 기본 버전은 루트
   `VERSION` 파일에서 읽고, 다른 버전은 `WESNOTH_VERSION` 환경 변수로
-  지정한다. `po/<버전>/`, `work/<버전>/`, `dist/<버전>/` 구조를 유지한다.
-- PO를 MO로 빌드할 때 `dist/<버전>/ko/PO_LAST_MODIFIED_DATE`에 전체 작업
+  지정한다. `po/<버전>/`, `work/<버전>/`, `dist/<버전>-<작업일>/` 구조를 유지한다.
+- `dist/<버전>-<작업일>/`의 MO와 `PO_LAST_MODIFIED_DATE`는 Git에 포함하고,
+  `LC_MESSAGES.backup-YYYYMMDD-HHMMSS/` 백업 디렉터리만 `.gitignore`로
+  제외한다.
+- PO를 MO로 빌드할 때 `dist/<버전>-<작업일>/ko/PO_LAST_MODIFIED_DATE`에 전체 작업
   PO 중 가장 최근 수정일을 `YYYYMMDD`로 기록한다. 게임 언어 목록의
   `한국어 (<작업버전>-<작업날짜>)` 표식은 이 값을 사용하며, MO 생성일이나
   언어 표식 스크립트 실행일을 작업일로 간주하지 않는다. 날짜 변환은

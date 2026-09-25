@@ -12,20 +12,27 @@ $version = if ($env:WESNOTH_VERSION) {
 } else {
     (Get-Content -Raw -Encoding UTF8 (Join-Path $root "VERSION")).Trim()
 }
-$poDateFile = Join-Path $root "dist\$version\ko\PO_LAST_MODIFIED_DATE"
 $poDate = if ($env:WESNOTH_PO_DATE) {
     $env:WESNOTH_PO_DATE
-} elseif (Test-Path $poDateFile) {
-    (Get-Content -Raw -Encoding UTF8 $poDateFile).Trim()
 } else {
-    $poDirectory = Join-Path $root "work\$version\ko"
-    $latestPo = Get-ChildItem -LiteralPath $poDirectory -Filter "*.po" |
-        Sort-Object LastWriteTime -Descending |
-        Select-Object -First 1
-    if (-not $latestPo) {
-        throw "unable to determine the latest PO modification date"
+    $distDirectory = Join-Path $root "dist"
+    $metadata = Get-ChildItem -LiteralPath $distDirectory -Directory -Filter "$version-*" |
+        ForEach-Object { Join-Path $_.FullName "ko\PO_LAST_MODIFIED_DATE" } |
+        Where-Object { Test-Path -LiteralPath $_ } |
+        Sort-Object |
+        Select-Object -Last 1
+    if ($metadata) {
+        (Get-Content -Raw -Encoding UTF8 $metadata).Trim()
+    } else {
+        $poDirectory = Join-Path $root "work\$version\ko"
+        $latestPo = Get-ChildItem -LiteralPath $poDirectory -Filter "*.po" |
+            Sort-Object LastWriteTime -Descending |
+            Select-Object -First 1
+        if (-not $latestPo) {
+            throw "unable to determine the latest PO modification date"
+        }
+        $latestPo.LastWriteTime.ToString("yyyyMMdd")
     }
-    $latestPo.LastWriteTime.ToString("yyyyMMdd")
 }
 
 if (-not $Marker) {

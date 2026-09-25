@@ -23,7 +23,9 @@ work/
   자유게시판에서 선별한 용어·명칭 참고 메모
 - 버전 기본값은 루트 `VERSION`에서 읽으며, 도구 실행 시
   `WESNOTH_VERSION=<버전>`으로 덮어쓸 수 있습니다. 새 버전은 같은
-  `po/<버전>/`, `work/<버전>/`, `dist/<버전>/` 구조를 사용합니다.
+  `po/<버전>/`, `work/<버전>/`, `dist/<버전>-<작업일>/` 구조를 사용합니다.
+- `dist/<버전>-<작업일>/`의 MO와 메타데이터는 공개 산출물로 Git에
+  포함하고, `LC_MESSAGES.backup-YYYYMMDD-HHMMSS/` 백업만 무시합니다.
 - 루트 문서의 버전 표기는 `docs/templates/*.md.in`에서 관리합니다.
   템플릿을 수정한 뒤 `python3 tools/render_docs.py`로 게시 문서를
   재생성하고, `--check`로 생성 결과를 검증합니다. 생성된 Markdown은
@@ -266,7 +268,7 @@ done
 
 - `tools/build_mo.sh [version] [output_dir]`: macOS·Linux에서
   `work/<version>/ko/*.po`를 `msgfmt --check`로 검사하고 MO를 생성합니다.
-  마지막 PO 수정일을 `dist/<version>/ko/PO_LAST_MODIFIED_DATE`에 기록합니다.
+  마지막 PO 수정일을 `dist/<version>-<work-date>/ko/PO_LAST_MODIFIED_DATE`에 기록합니다.
 - `tools/build_mo.bat [version] [output_dir]`: Windows에서 같은 작업을
   수행하고 MO 생성 날짜를 같은 메타데이터 파일에 기록합니다.
 - `tools/install_mo.sh <target_dir> [source_dir]`: macOS·Linux에서

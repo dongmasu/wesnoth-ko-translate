@@ -6,7 +6,6 @@ set "VERSION=%~1"
 if "%VERSION%"=="" set "VERSION=%WESNOTH_VERSION%"
 if "%VERSION%"=="" for /f "usebackq delims=" %%V in ("%ROOT%\VERSION") do set "VERSION=%%V"
 set "OUT_DIR=%~2"
-if "%OUT_DIR%"=="" set "OUT_DIR=%ROOT%\dist\%VERSION%\ko\LC_MESSAGES"
 set "PO_DIR=%ROOT%\work\%VERSION%\ko"
 
 where msgfmt >nul 2>nul
@@ -19,7 +18,6 @@ if not exist "%PO_DIR%" (
     exit /b 1
 )
 
-if not exist "%OUT_DIR%" mkdir "%OUT_DIR%"
 set "FOUND=0"
 for %%F in ("%PO_DIR%\*.po") do (
     set "FOUND=1"
@@ -40,7 +38,10 @@ if "%PO_DATE%"=="" (
     echo error: unable to determine the latest PO modification date
     exit /b 1
 )
-set "META_DIR=%ROOT%\dist\%VERSION%\ko"
+set "DIST_DIR=%ROOT%\dist\%VERSION%-%PO_DATE%"
+if "%OUT_DIR%"=="" set "OUT_DIR=%DIST_DIR%\ko\LC_MESSAGES"
+set "META_DIR=%DIST_DIR%\ko"
+if not exist "%OUT_DIR%" mkdir "%OUT_DIR%"
 if not exist "%META_DIR%" mkdir "%META_DIR%"
 > "%META_DIR%\PO_LAST_MODIFIED_DATE" echo %PO_DATE%
 echo MO files written to "%OUT_DIR%"
