@@ -30,6 +30,7 @@ if errorlevel 1 (
 )
 if not exist "%TARGET_DIR%" mkdir "%TARGET_DIR%"
 
+del /q "%TARGET_DIR%\*.mo" >nul 2>nul
 copy /y "%SOURCE_DIR%\*.mo" "%TARGET_DIR%\" >nul
 if errorlevel 1 exit /b 1
-echo installed MO files into "%TARGET_DIR%"
+echo synchronized MO files into "%TARGET_DIR%"

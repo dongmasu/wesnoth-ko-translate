@@ -74,8 +74,10 @@ placeholder를 먼저 수정합니다. 생성되는 파일명은 `wesnoth-ko.po`
 `wesnoth.mo`처럼 마지막 `-ko`를 제거한 textdomain 이름이어야 합니다.
 즉 PO 파일명은 번역 작업용 이름이고, 게임은 같은 basename의 `.mo`를
 `translations/ko/LC_MESSAGES/`에서 읽습니다. 설치 스크립트는 대상 경로의
-기존 MO를 새 파일로 덮어씁니다. 문제가 생기면 `po/<버전>/ko/`의 원본
-PO 또는 `work/<버전>/ko/`의 작업 PO에서 MO를 다시 생성합니다. 빌드가 끝나면
+기존 `*.mo`를 모두 제거한 뒤 새 MO 전체를 복사해 동기화합니다. 따라서
+삭제되거나 이름이 바뀐 textdomain의 찌꺼기가 남지 않습니다. 다른 확장자의
+파일은 건드리지 않습니다. 문제가 생기면 `po/<버전>/ko/`의 원본 PO 또는
+`work/<버전>/ko/`의 작업 PO에서 MO를 다시 생성합니다. 빌드가 끝나면
 `dist/<버전>-<작업일>/ko/PO_LAST_MODIFIED_DATE`에 전체 작업 PO 중 가장 최근
 수정일(`YYYYMMDD`)이 기록됩니다. 언어 목록의 작업 표식은 이 파일을
 사용하므로 `한국어 (<작업버전>-<작업날짜>)` 형식으로 실제 번역 자료의
@@ -103,8 +105,8 @@ tools/install_mo.sh \
   "/Applications/The Battle for Wesnoth.app/Contents/Resources/translations/ko/LC_MESSAGES"
 ```
 
-대상 경로는 반드시 실제 앱의 경로로 확인합니다. 설치 스크립트는 기존 MO를
-백업하지 않고 덮어씁니다. 앱 업데이트로 원본 파일이 바뀔 수 있으므로
+대상 경로는 반드시 실제 앱의 경로로 확인합니다. 설치 스크립트는 기존
+`*.mo`를 백업하지 않고 삭제한 뒤 새 MO로 동기화합니다. 앱 업데이트로 원본 파일이 바뀔 수 있으므로
 게임 버전에 맞는 앱 경로인지 확인하고, 복사 후 게임을 완전히 종료했다가
 다시 실행합니다. 앱 패키지가 쓰기
 금지 상태이면 관리자 권한이 필요할 수 있습니다.
@@ -218,8 +220,8 @@ ZIP 압축판은 압축을 푼 폴더가 곧 게임 폴더입니다. 예를 들�
 C:\Games\Wesnoth-{{WESNOTH_MAJOR_MINOR}}\data\translations\ko\LC_MESSAGES\
 ```
 
-프로젝트의 배치 스크립트는 기존 `*.mo`를 별도 백업하지 않고 새 MO로
-덮어씁니다. 문제가 생기면 아래 복구 절차를 사용합니다.
+프로젝트의 배치 스크립트는 기존 `*.mo`를 별도 백업하지 않고 삭제한 뒤
+새 MO 전체를 복사합니다. 문제가 생기면 아래 복구 절차를 사용합니다.
 
 PowerShell 또는 명령 프롬프트에서 MO를 생성합니다.
 
@@ -233,8 +235,8 @@ call tools\build_mo.bat
 call tools\install_mo.bat "C:\Program Files\Battle for Wesnoth {{WESNOTH_MAJOR_MINOR}}\data\translations\ko\LC_MESSAGES"
 ```
 
-스크립트는 기존 MO를 백업하지 않고 덮어씁니다. `Program Files` 아래에
-설치되어 있으면 관리자 권한이 필요할 수 있습니다.
+스크립트는 기존 `*.mo`를 삭제한 뒤 새 MO 전체를 복사합니다.
+`Program Files` 아래에 설치되어 있으면 관리자 권한이 필요할 수 있습니다.
 
 압축판의 언어 목록에 작업 버전을 표시하려면 `data\languages\ko_KR.cfg`도
 다음처럼 수정합니다. 이 스크립트는 `PO_LAST_MODIFIED_DATE`를 사용해
@@ -452,8 +454,8 @@ tools/install_mo.sh \
   "/Applications/The Battle for Wesnoth.app/Contents/Resources/translations/ko/LC_MESSAGES"
 ```
 
-The helper overwrites existing MO files without creating a backup. If a
-translation problem appears, rebuild from
+The helper removes existing `*.mo` files and synchronizes the complete MO set
+without creating a backup. Other file types are preserved. If a translation problem appears, rebuild from
 `po/<version>/ko/` or `work/<version>/ko/` with `tools/build_mo.sh`, then
 install the regenerated files again. `%The Battle for Wesnoth%` means the
 `The Battle for Wesnoth.app` bundle under `/Applications` when using the

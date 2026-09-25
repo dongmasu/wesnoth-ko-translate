@@ -47,5 +47,9 @@ set -- "$SOURCE_DIR"/*.mo
 }
 
 mkdir -p "$TARGET_DIR"
+for mo in "$TARGET_DIR"/*.mo; do
+    [ -f "$mo" ] || continue
+    rm -f "$mo"
+done
 cp "$SOURCE_DIR"/*.mo "$TARGET_DIR"/
-echo "installed MO files into $TARGET_DIR"
+echo "synchronized MO files into $TARGET_DIR"

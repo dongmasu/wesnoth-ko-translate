@@ -89,7 +89,8 @@ Codex, Claude, Gemini, Copilot 또는 사람이 작업하더라도 아래 원칙
   `VERSION` 파일에서 읽고, 다른 버전은 `WESNOTH_VERSION` 환경 변수로
   지정한다. `po/<버전>/`, `work/<버전>/`, `dist/<버전>-<작업일>/` 구조를 유지한다.
 - `dist/<버전>-<작업일>/`의 MO와 `PO_LAST_MODIFIED_DATE`는 Git에 포함한다.
-  설치 도구는 MO를 백업하지 않으며, 문제가 생기면 `po/<버전>/ko/` 또는
+  설치 도구는 대상의 기존 `*.mo`를 삭제하고 전체 MO 세트를 동기화한다.
+  다른 파일은 보존하며, 문제가 생기면 `po/<버전>/ko/` 또는
   `work/<버전>/ko/`에서 MO를 다시 생성해 복구한다.
 - PO를 MO로 빌드할 때 `dist/<버전>-<작업일>/ko/PO_LAST_MODIFIED_DATE`에 전체 작업
   PO 중 가장 최근 수정일을 `YYYYMMDD`로 기록한다. 게임 언어 목록의
