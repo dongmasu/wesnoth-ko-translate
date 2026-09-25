@@ -84,8 +84,8 @@ Mac App Store, Windows, Linux별 경로와 변환 명령은
 최신 GitHub Release의 asset ZIP을 받으면 됩니다. 현재 작업 기준 파일명은
 `wesnoth-ko-translate-1.18.x-20260925.zip`입니다.
 
-- [최신 GitHub Release](https://github.com/dongmasu/wesnoth-ko-translate/releases/latest)
-- [최신 ZIP asset](https://github.com/dongmasu/wesnoth-ko-translate/releases/latest/download/wesnoth-ko-translate-1.18.x-20260925.zip)
+- [GitHub Release: wesnoth-ko-translate-1.18.x-20260925](https://github.com/dongmasu/wesnoth-ko-translate/releases/tag/wesnoth-ko-translate-1.18.x-20260925)
+- [ZIP asset 다운로드](https://github.com/dongmasu/wesnoth-ko-translate/releases/download/wesnoth-ko-translate-1.18.x-20260925/wesnoth-ko-translate-1.18.x-20260925.zip)
 
 ZIP에는 MO 파일, `ko_KR.cfg`, 설치 안내와 설치 스크립트가 들어갑니다.
 Release asset이 게시된 뒤에는 저장소 전체를 clone하지 않고 위의 ZIP 링크만
@@ -253,8 +253,8 @@ Users who only need the compiled translation files can download the latest
 GitHub Release asset ZIP instead of cloning the repository. The current asset
 name is `wesnoth-ko-translate-1.18.x-20260925.zip`.
 
-- [Latest GitHub Release](https://github.com/dongmasu/wesnoth-ko-translate/releases/latest)
-- [Latest ZIP asset](https://github.com/dongmasu/wesnoth-ko-translate/releases/latest/download/wesnoth-ko-translate-1.18.x-20260925.zip)
+- [GitHub Release: wesnoth-ko-translate-1.18.x-20260925](https://github.com/dongmasu/wesnoth-ko-translate/releases/tag/wesnoth-ko-translate-1.18.x-20260925)
+- [Download ZIP asset](https://github.com/dongmasu/wesnoth-ko-translate/releases/download/wesnoth-ko-translate-1.18.x-20260925/wesnoth-ko-translate-1.18.x-20260925.zip)
 
 The ZIP contains the MO files, `ko_KR.cfg`, installation instructions, and
 installation scripts. Once the Release asset is published, users only need to
