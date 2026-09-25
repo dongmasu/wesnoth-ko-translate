@@ -249,6 +249,14 @@ the tag and public file list before pushing to GitHub.
   key in the glossary's `source_term`. This applies equally to `feature^Open`,
   `female^refreshed`, `male^`, and `race^`: do not display an invented Korean
   context prefix such as `여성^`, `남성^`, or `종족^` in `msgstr`.
+- A gender context key does not by itself require a Korean gender prefix.
+  Keep Korean gender-neutral job, trait, and ability names identical to their
+  base entry. Preserve gender only when the displayed English word itself is
+  gendered, such as `Princess`, `Queen`, `Lady`, `Priestess`, `Sorceress`,
+  `Baroness`, `Watchwoman`, or a kinship title, and a natural Korean
+  counterpart exists. A natural neutral term such as `야경꾼` is preferable to
+  an artificial prefix such as `여성 야경꾼`. Record an explicit glossary
+  exception when sex is part of an animal or character's displayed identity.
 - Manage contextual entries by their complete key. For example,
   `feature^Open` and `filesystem^Open` remain separate entries even though
   their displayed text is the same.

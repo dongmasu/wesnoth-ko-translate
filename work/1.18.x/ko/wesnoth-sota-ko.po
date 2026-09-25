@@ -186,7 +186,7 @@ msgid ""
 msgstr ""
 "웨스노스력 23년 3월 4일:\n"
 "\n"
-"오늘은 교장 아이무카수르(Aimucasur) 본인이 정신으로 물체를 움직이는 수업을 했다. 이 기술은 물체 안에 자신의 의지를 투사한 다음, 그것을 몸의 일부처럼 움직이는 법을 익히는 것이다. 주문은 정신을 과업에 집중시킨다. 우리는 무생물을 대상으로 연습했지만, 같은 원리를 죽은 살점에도 적용할 수 있다는 것은 분명했다. 강령술에 관심을 보이면 퇴학당하기 때문에 누구도 감히 그 생각을 입 밖에 내지 않았다. 수업 중 그 사실을 곰곰이 생각하다가 아이무카수르(Aimucasur)가 나를 노려보고 있다는 것을 알아차렸다. 앞으로는 어떤 생각이 얼굴에 드러나는지 더 조심해야 겠다."
+"오늘은 교장 아이무카수르(Aimucasur) 본인이 정신으로 물체를 움직이는 수업을 했다. 이 기술은 물체 안에 자신의 의지를 투사한 다음, 그것을 몸의 일부처럼 움직이는 법을 익히는 것이다. 주문은 정신을 과업에 집중시킨다. 우리는 무생물을 대상으로 연습했지만, 같은 원리를 죽은 살점에도 적용할 수 있다는 것은 분명했다. 강령술에 관심을 보이면 퇴학당하기 때문에 누구도 감히 그 생각을 입 밖에 내지 않았다. 수업 중 그 사실을 곰곰이 생각하다가 아이무카수르(Aimucasur)가 나를 노려보고 있다는 것을 알아차렸다. 앞으로는 어떤 생각이 얼굴에 드러나는지 더 조심해야겠다."
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:72
@@ -282,7 +282,7 @@ msgid ""
 "The castle was also infested with huge rats as I remember, but I can "
 "certainly destroy those. I will have to use ice though, as I never mastered "
 "fire."
-msgstr "박쥐가 더 많으면 좋겠어요. 불을 소환하는 연습을 했던 폐허가 된 성에 박쥐 무리가 있었으니 찾아가 보겠어요. 기억하기로 그 성에는 거대한 쥐도 들끓었지만, 그 정도는 확실히 해치울 수 있어요. 다만 불은 제대로 다루지 못했으니 얼음을 사용해야 겠지요."
+msgstr "박쥐가 더 많으면 좋겠어요. 불을 소환하는 연습을 했던 폐허가 된 성에 박쥐 무리가 있었으니 찾아가 보겠어요. 기억하기로 그 성에는 거대한 쥐도 들끓었지만, 그 정도는 확실히 해치울 수 있어요. 다만 불은 제대로 다루지 못했으니 얼음을 사용해야겠지요."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/01_Slipping_Away.cfg:343
@@ -868,7 +868,7 @@ msgid ""
 "I found Janryn in the hold. Or, ah... some of him. He’s dead. I didn’t stay "
 "to find out what killed him, but there was someone shuffling around in the "
 "shadows, and he smelled foul."
-msgstr "화물칸에서 얀린을 찾았습니다. 아니, 어... 얀린의 일부라고 해야 겠군요. 죽어 있었습니다. 무엇이 그를 죽였는지는 알아보지 못했지만, 그림자 속에서 누군가 어슬렁거리고 있었고 지독한 냄새가 났습니다."
+msgstr "화물칸에서 얀린을 찾았습니다. 아니, 어... 얀린의 일부라고 해야겠군요. 죽어 있었습니다. 무엇이 그를 죽였는지는 알아보지 못했지만, 그림자 속에서 누군가 어슬렁거리고 있었고 지독한 냄새가 났습니다."
 
 #. [message]: speaker=Rudic
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:554
@@ -913,7 +913,7 @@ msgstr "저들은 내 선원을 죽이고 나를 바보로 만들었다! 내가 
 msgid ""
 "Oh dear. We must do this again. Come to me my friends! If you are still "
 "hungry, feed on a passenger first."
-msgstr "이런. 이 일을 다시 해야 겠군요. 이리 오렴, 친구들! 아직 배가 고프다면 먼저 승객을 먹어도 좋아요."
+msgstr "이런. 이 일을 다시 해야겠군요. 이리 오렴, 친구들! 아직 배가 고프다면 먼저 승객을 먹어도 좋아요."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/04_Becalmed.cfg:647
@@ -2181,7 +2181,7 @@ msgid ""
 "could. Fortunately, it was not in bad repair, though in many places it was "
 "overgrown, leaving only a few smooth cobbles to mark the way. The second "
 "day, we were still deep in the woods when we encountered an elf sorceress."
-msgstr "웨스노스력 23년 4월 17일\n\n첫 번째 목표는 달성했고, 여러 유령을 복무시키는 데 성공했다. 치유에 재능이 있는 새로운 동료도 생겼다. 라스-타반이 약속 장소에서 이미 기다리고 있을 것 같지는 않았지만, 나는 서두르고 싶었다. 그래서 우리는 최대한 빠르게 엘프 길을 따라 북쪽으로 향했다. 다행히 길의 상태는 나쁘지 않았다. 여러 곳이 잡초로 뒤덮여 길을 표시하는 매끈한 자갈 몇 개만 남아 있기는 했지만 말이다. 둘째 날에도 우리는 숲 깊은 곳에 있었고, 그때 엘프 마법사를 만났다."
+msgstr "웨스노스력 23년 4월 17일\n\n첫 번째 목표는 달성했고, 여러 유령을 복무시키는 데 성공했다. 치유에 재능이 있는 새로운 동료도 생겼다. 라스-타반이 약속 장소에서 이미 기다리고 있을 것 같지는 않았지만, 나는 서두르고 싶었다. 그래서 우리는 최대한 빠르게 엘프 길을 따라 북쪽으로 향했다. 다행히 길의 상태는 나쁘지 않았다. 여러 곳이 잡초로 뒤덮여 길을 표시하는 매끈한 자갈 몇 개만 남아 있기는 했지만 말이다. 둘째 날에도 우리는 숲 깊은 곳에 있었고, 그때 엘프 마녀를 만났다."
 
 #. [side]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/12_Walking_Trees.cfg:48
@@ -2946,7 +2946,7 @@ msgid ""
 "you can also right-click on an existing necromancer to turn it into a lich "
 "as long as it is in a castle. If the necromancer has gained enough "
 "experience, it will immediately level into an ancient lich!"
-msgstr "이제 어둠의 마법사를 리치로 승급시킬 수 있습니다! 캠페인의 남은 기간 동안 성 안에 있는 강령술사를 오른쪽 클릭하여 리치로 만들 수도 있습니다. 강령술사가 충분한 경험치를 얻었다면 즉시 고대 리치로 승급합니다!"
+msgstr "이제 흑마법사를 리치로 승급시킬 수 있습니다! 캠페인의 남은 기간 동안 성 안에 있는 강령술사를 오른쪽 클릭하여 리치로 만들 수도 있습니다. 강령술사가 충분한 경험치를 얻었다면 즉시 고대 리치로 승급합니다!"
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/18_Abandoned_Outpost.cfg:428
@@ -4080,7 +4080,7 @@ msgstr "체력(HP): "
 #. [lua]: select
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie_recruit_dialog.lua:23
 msgid "MP: "
-msgstr "마력(MP): "
+msgstr "이동력(MP): "
 
 #. [lua]: select
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie_recruit_dialog.lua:23

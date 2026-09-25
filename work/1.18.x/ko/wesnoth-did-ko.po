@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.18.x Korean translation\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-02-20 02:52 UTC\n"
-"PO-Revision-Date: 2026-09-24 00:00+0900\n"
+"PO-Revision-Date: 2026-09-25 00:00+0900\n"
 "Last-Translator: Wesnoth Korean Translation Team\n"
 "Language-Team: Korean\n"
 "Language: ko\n"
@@ -24,7 +24,7 @@ msgstr "어둠 속으로의 추락"
 #. [campaign]: id=Descent_into_Darkness
 #: data/campaigns/Descent_Into_Darkness/_main.cfg:14
 msgid "DiD"
-msgstr "하드코어"
+msgstr "DiD"
 
 #. [campaign]: id=Descent_into_Darkness
 #: data/campaigns/Descent_Into_Darkness/_main.cfg:22
@@ -162,7 +162,7 @@ msgstr "물고기들은 친구지 먹이가 아닙니다"
 #. [achievement]: id=did_tentacle
 #: data/campaigns/Descent_Into_Darkness/achievements.cfg:56
 msgid "Find and eat Inky in the secret underground squid village."
-msgstr "비밀의 지하 오징어 마을에서 먹물(Inky)이를 찾아서 먹어라."
+msgstr "비밀의 지하 오징어 마을에서 먹물이를 찾아서 먹어라."
 
 #. [scenario]: id=01_Saving_Parthyn
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:5
@@ -897,7 +897,7 @@ msgid ""
 "They are ghouls — noxious beings fashioned from living flesh into carcasses "
 "of disease and poison. Those that outlive their masters gravitate towards "
 "the natural decay present in swamps and bogs."
-msgstr "그들은 구울입니다. 살아있는 살점으로 질병과 독의 사체를 만든 유해한 존재입니다. 주인을 능가하는 자들은 늪과 습지에 존재하는 자연적인 부패로 끌립니다."
+msgstr "그들은 구울입니다. 살아 있는 살점으로 질병과 독의 사체를 만든 유해한 존재입니다. 주인을 능가하는 자들은 늪과 습지에 존재하는 자연적인 부패로 끌립니다."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:500
@@ -2404,7 +2404,7 @@ msgid ""
 "tried to curse him. I was only testing my new spell on him! It was only "
 "supposed to be a simple curse! How was I supposed to know it would kill him? "
 "Blasted Academy."
-msgstr "오(O) 신들이여, 어떻게 이렇게 된 것인가? 내 친여동생이 내 죽음을 직접 확인하겠다고 결심하다니. 파르틴(Parthyn), 내 나라, 내 집에서 추방당하고... 내가 모든 것을 바친 내 백성들에게 버림받고... 그 뚱뚱하고 오(O)크를 사랑하는 두꺼비 제프린과 말다툼을 하고 그를 저주하려고 한 이후로 모든 것이 잘못되었다. 나는 단지 그에게 새로운 주문을 시험하고 있었을 뿐이다! 단순한 저주였을 뿐이다! 그게 그를 죽일 줄 내가 어떻게 알았겠는가? 빌어먹을 아카데미."
+msgstr "오 신들이여, 어떻게 이렇게 된 것인가? 내 친여동생이 내 죽음을 직접 확인하겠다고 결심하다니. 파르틴(Parthyn), 내 나라, 내 집에서 추방당하고... 내가 모든 것을 바친 내 백성들에게 버림받고... 그 뚱뚱하고 오크를 사랑하는 두꺼비 제프린과 말다툼을 하고 그를 저주하려고 한 이후로 모든 것이 잘못되었다. 나는 단지 그에게 새로운 주문을 시험하고 있었을 뿐이다! 단순한 저주였을 뿐이다! 그게 그를 죽일 줄 내가 어떻게 알았겠는가? 빌어먹을 아카데미."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:993
@@ -2426,7 +2426,7 @@ msgid ""
 "days bereft of rest and sleep. He closes his eyes, trying to purge the last "
 "few hours from his mind, but the darkness only makes the images all the more "
 "vivid. He is tired, <i>so</i> tired, but sleep does not come."
-msgstr "태어난 도시에서 도망친 말린(Malin)은 대강 북쪽의 숲이 우거진 언덕으로 탈출한다. 서쪽으로 어느 정도 떨어진 곳에서 그는 며칠 동안 휴식과 잠도 없이 마침내 멈춘다. 그는 눈을 감고 지난 몇 시간을 마음에서 지우려고 노력하지만, 어둠은 이미지를 더욱 생생하게 만들 뿐이다. 그는 <i>너무나</i> 지쳐있지만 잠은 오지 않는다."
+msgstr "태어난 도시에서 도망친 말린(Malin)은 대강 북쪽의 숲이 우거진 언덕으로 탈출한다. 서쪽으로 어느 정도 떨어진 곳에서 그는 며칠 동안 휴식과 잠도 없이 마침내 멈춘다. 그는 눈을 감고 지난 몇 시간을 마음에서 지우려고 노력하지만, 어둠은 이미지를 더욱 생생하게 만들 뿐이다. 그는 <i>너무나</i> 지쳐 있지만 잠은 오지 않는다."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/07a_A_Small_Favor.cfg:88
@@ -2708,7 +2708,7 @@ msgstr "경비병"
 #: data/campaigns/Descent_Into_Darkness/scenarios/07b_A_Small_Favor2.cfg:265
 #: data/campaigns/Descent_Into_Darkness/scenarios/07c_A_Small_Favor3.cfg:347
 msgid "female^Guard"
-msgstr "여성 경비병"
+msgstr "경비병"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Descent_Into_Darkness/scenarios/07b_A_Small_Favor2.cfg:419
@@ -2936,7 +2936,7 @@ msgstr "지킴이"
 #: data/campaigns/Descent_Into_Darkness/scenarios/07c_A_Small_Favor3.cfg:52
 #: data/campaigns/Descent_Into_Darkness/scenarios/07c_A_Small_Favor3.cfg:53
 msgid "female^Guardian"
-msgstr "여성 지킴이"
+msgstr "지킴이"
 
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/07c_A_Small_Favor3.cfg:207
@@ -3574,7 +3574,7 @@ msgstr "반대자들"
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:199
 msgid "Complete the ritual"
-msgstr "의식을 완료하세요"
+msgstr "의식을 완료하십시오"
 
 #. [note]
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:206
@@ -3665,7 +3665,7 @@ msgstr "느낌이... 달라. 나는 어디에 있는 거지?"
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:662
 msgid "Why is my body still intact? Am I still alive? Or..."
-msgstr "왜 내 몸은 아직 온전하지? 나는 아직 살아있는 건가? 아니면..."
+msgstr "왜 내 몸은 아직 온전하지? 나는 아직 살아 있는 건가? 아니면..."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:667
@@ -4200,7 +4200,7 @@ msgstr "나는 아무것도 후회하지 않는다."
 msgid ""
 "I sense the lair of something powerful nearby. Capturing that castle may be "
 "a worthwhile endeavor, but I shall have to approach carefully."
-msgstr "근처에 강력한 무언가의 은신처가 느껴진다. 저 성을 점령하는 것은 가치 있는 노력이 될 수 있지만, 신중하게 접근해야 겠다."
+msgstr "근처에 강력한 무언가의 은신처가 느껴진다. 저 성을 점령하는 것은 가치 있는 노력이 될 수 있지만, 신중하게 접근해야겠다."
 
 #. [unit]: id=Xanthric, type=Fire Dragon
 #. [unit]: id=Xanthric, type=Skeletal Dragon
@@ -4271,7 +4271,7 @@ msgstr "<i><big>어떻게 감히?! 저 돌은 <b>내</b> 왕좌다! 나는 이 �
 msgid ""
 "Peasant, warrior, king, and emperor, all living things are the subjects of "
 "death. Eternity will claim your soul as its own if I do not."
-msgstr "농부, 전사, 왕, 황제, 모든 살아있는 것들은 죽음의 신하이다. 내가 하지 않으면 영원이 네 영혼을 차지할 것이다."
+msgstr "농부, 전사, 왕, 황제, 모든 살아 있는 것들은 죽음의 신하이다. 내가 하지 않으면 영원이 네 영혼을 차지할 것이다."
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:4027
@@ -4299,7 +4299,7 @@ msgid ""
 "So, the beast dies. I will have to make a few modifications to this lair "
 "later. First, I shall have to test the extent to which I can push these new "
 "powers."
-msgstr "결국, 짐승은 죽었다. 나중에 이 은신처를 약간 수정해야 겠군. 먼저, 이 새로운 힘을 얼마나 밀어붙일 수 있는지 시험해봐야겠다."
+msgstr "결국, 짐승은 죽었다. 나중에 이 은신처를 약간 수정해야겠군. 먼저, 이 새로운 힘을 얼마나 밀어붙일 수 있는지 시험해봐야겠다."
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:4226
@@ -4443,7 +4443,7 @@ msgstr "공허"
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:167
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Squidville.cfg:61
 msgid "teamname^Inky"
-msgstr "먹물(Inky)"
+msgstr "잉키(Inky)"
 
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:224
@@ -4531,7 +4531,7 @@ msgid ""
 "We have finally found you, lich! Long have we heard of your abominable "
 "deeds, ensnaring the living with your dark sorceries and molding them into "
 "your slaves. Your wretched unlife ends here!"
-msgstr "리치, 드디어 너를 찾았다! 네 혐오스러운 행위에 대한 소문을 오랫동안 들어왔다. 네 흑마법으로 살아있는 자들을 덫에 걸려 노예로 만드는 짓을 말이다. 네 비참한 불멸은 여기서 끝난다!"
+msgstr "리치, 드디어 너를 찾았다! 네 혐오스러운 행위에 대한 소문을 오랫동안 들어왔다. 네 흑마법으로 살아 있는 자들을 덫에 걸려 노예로 만드는 짓을 말이다. 네 비참한 불멸은 여기서 끝난다!"
 
 #. [modify_side]
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:574
@@ -4596,7 +4596,7 @@ msgstr "...악몽이 아니었다면? 아니야. 아니야 아니야. 그런 생
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:973
 msgid "I need to go slaughter some foolish heroes to purge that from my mind."
-msgstr "내 마음에서 그걸 없애려면 어리석은 영웅들을 좀 학살해야 겠어."
+msgstr "내 마음에서 그걸 없애려면 어리석은 영웅들을 좀 학살해야겠어."
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:989
@@ -4836,7 +4836,7 @@ msgstr "만지면 차갑고 부서지기 쉬운 검은 돌의 거석."
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1399
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Squidville.cfg:558
 msgid "female^Inky"
-msgstr "암컷 먹물(Inky)"
+msgstr "암컷 잉키(Inky)"
 
 #. [message]: speaker=Inky
 #. this is just some kind of squishy sound that a squid might make
@@ -5220,12 +5220,12 @@ msgstr "이 갑오징어는 더 이상 나에게서 도망치지 못할 것이�
 msgid ""
 "Right, I got dragged down here without any of my minions. I suppose I will "
 "have to do this myself."
-msgstr "좋아, 내 부하도 없이 여기로 끌려왔군. 직접 해야 겠어."
+msgstr "좋아, 내 부하도 없이 여기로 끌려왔군. 직접 해야겠어."
 
 #. [objective]: condition=win
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Squidville.cfg:161
 msgid "Hunt down Inky"
-msgstr "잉키를 추격하십시오"
+msgstr "잉키(Inky)를 추격하십시오"
 
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/11_Squidville.cfg:217

@@ -875,7 +875,7 @@ msgstr "우리를 겁쟁이로 만들 셈이냐! 우리는 항복하지 않는�
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:673
 msgid "Well, now I should go down to the city and report. I’m late already..."
-msgstr "좋아, 이제 도시로 내려가 보고해야 겠군. 이미 늦었어..."
+msgstr "좋아, 이제 도시로 내려가 보고해야겠군. 이미 늦었어..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:686
@@ -887,7 +887,7 @@ msgstr "내 문양이 켜졌어."
 msgid ""
 "That’s all of the elves. Now I should go down to the city and report. I’m "
 "late already..."
-msgstr "엘프는 모두 처리했군. 이제 도시로 내려가 보고해야 겠어. 이미 늦었지만..."
+msgstr "엘프는 모두 처리했군. 이제 도시로 내려가 보고해야겠어. 이미 늦었지만..."
 
 #. [scenario]: id=2p5_Reaching_the_Runecrafter
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:3
@@ -897,7 +897,7 @@ msgstr "룬 세공사에게 도달하기"
 #. [side]: type=Orcish Warrior, id=Bragdash
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:32
 msgid "Bragdash Gar"
-msgstr "브라그다시 가르(Gar)"
+msgstr "브라그다시 가르(Bragdash Gar)"
 
 #. [side]: type=Orcish Warrior, id=Bragdash
 #. [side]
@@ -911,7 +911,7 @@ msgstr "오크들"
 #. [side]: type=Goblin Rouser, id=Pidmer
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:50
 msgid "Pidmer Gar"
-msgstr "피드메르 가르(Gar)"
+msgstr "피드메르 가르(Pidmer Gar)"
 
 #. [side]: type=Goblin Rouser, id=Pidmer
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:57
@@ -1090,7 +1090,7 @@ msgstr "두르스토른(Durstorn)"
 msgid ""
 "Now, I must tell you of another character in our drama. Durstorn, the lord "
 "of dwarfdom. Or at least of this clan."
-msgstr "이제 우리 이야기의 또 다른 인물을 소개해야 겠군. 드워프의 군주 두르스토른(Durstorn), 아니 적어도 이 부족의 군주인 자 말일세."
+msgstr "이제 우리 이야기의 또 다른 인물을 소개해야겠군. 드워프의 군주 두르스토른(Durstorn), 아니 적어도 이 부족의 군주인 자 말일세."
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:49
@@ -1265,7 +1265,7 @@ msgid ""
 "craftsmen, and he wouldn’t have gone to another clan if we stalled for a "
 "year. Oh well, what’s done is done. We’ll have to work for less than I would "
 "prefer..."
-msgstr "허세인지도 알아보지 못하느냐?! 그는 우리가 최고의 장인이라는 걸 알고 있으니, 우리가 1년을 질질 끌었다고 다른 부족으로 가지는 않았을 거다. 어쩔 수 없지, 이미 벌어진 일이다. 내가 원하는 것보다 적은 대가로 일해야 겠군..."
+msgstr "허세인지도 알아보지 못하느냐?! 그는 우리가 최고의 장인이라는 걸 알고 있으니, 우리가 1년을 질질 끌었다고 다른 부족으로 가지는 않았을 거다. 어쩔 수 없지, 이미 벌어진 일이다. 내가 원하는 것보다 적은 대가로 일해야겠군..."
 
 #. [message]: speaker=Baglur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2t_In_the_Dwarven_City.cfg:226
@@ -2400,7 +2400,7 @@ msgstr "글로노인(Glonoin), 이 악당아! 1,000개가 내 최종 제안이�
 #. [message]: speaker=Glonoin
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:391
 msgid "Hah! I’d like to see you try!"
-msgstr "하! 어디 한번 해 보시지!"
+msgstr "하! 어디 한 번 해 보시지!"
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:395

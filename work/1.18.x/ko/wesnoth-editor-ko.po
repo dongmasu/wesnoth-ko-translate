@@ -378,7 +378,7 @@ msgstr "해당 지도는 이미 열려 있습니다."
 
 #: src/editor/map/context_manager.cpp:744
 msgid "Save Scenario As"
-msgstr "다른 이름으로 시나리오 저장"
+msgstr "다른 이름으로 시나리오를 저장"
 
 #: src/editor/map/context_manager.cpp:770
 msgid "This scenario is already open."
@@ -386,7 +386,7 @@ msgstr "해당 시나리오는 이미 열려 있습니다."
 
 #: src/editor/map/context_manager.cpp:804
 msgid "No random map generators found."
-msgstr "랜덤 지도 생성기가 빌견되지 않습니다."
+msgstr "랜덤 지도 생성기가 발견되지 않습니다."
 
 #: src/editor/map/context_manager.cpp:817
 #: src/editor/map/context_manager.cpp:822
@@ -476,15 +476,15 @@ msgstr "지도 데이터를 찾기 위한 파일을 구문 분석할 수 없습�
 #: src/editor/map/map_context.cpp:807 src/editor/map/map_context.cpp:846
 #: src/editor/map/map_context.cpp:887
 msgid "Could not save the scenario: $msg"
-msgstr "시나리오를 저장 할 수 없습니다: $msg"
+msgstr "시나리오를 저장할 수 없습니다: $msg"
 
 #: src/editor/map/map_context.cpp:918
 msgid "Could not save into scenario"
-msgstr "시나리오 안에 저장 할 수 없습니다"
+msgstr "시나리오 안에 저장할 수 없습니다"
 
 #: src/editor/map/map_context.cpp:928
 msgid "Could not save the map: $msg"
-msgstr "지도를 저장 할 수 없습니다: $msg"
+msgstr "지도를 저장할 수 없습니다: $msg"
 
 #: src/editor/palette/editor_palettes.cpp:52
 msgid "(Unknown Group)"
@@ -496,7 +496,7 @@ msgstr "(핵심 이외)"
 
 #: src/editor/palette/editor_palettes.cpp:312
 msgid "Will not work in game without extra care."
-msgstr "지금 상태로는 게임에서 동작 하지 않습니다."
+msgstr "지금 상태로는 게임에서 동작하지 않습니다."
 
 #: src/editor/palette/item_palette.cpp:32
 msgid " | Right-click to remove"
@@ -551,7 +551,7 @@ msgstr "Cmd + 클릭: 지형을 복사"
 
 #: src/editor/palette/terrain_palettes.cpp:237
 msgid "Ctrl + click: copy terrain"
-msgstr "Cmd + 클릭: 지형을 복사"
+msgstr "Ctrl + 클릭: 지형을 복사"
 
 #: src/gui/dialogs/editor/custom_tod.cpp:95
 msgid "Clipboard support not found, contact your packager"

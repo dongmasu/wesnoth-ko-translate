@@ -30,11 +30,20 @@ WORD_RE = re.compile(r"\b[\w’'-]+\b")
 PAREN_RE = re.compile(r"\(([A-Za-z][^()]*)\)")
 NOTE_MARKER_RE = re.compile(r"(?:번역|검토|확인|TODO|FIXME)")
 TECHNICAL_PARENTS = {"ZOC"}
+GENDER_CONTEXT_RE = re.compile(r"^(?:(?:race\+)?(?:female|male)\^)(.+)$")
+# These variants use the context key to distinguish a specifically female
+# entity. Korean normally has no equivalent grammatical form, except where
+# the sex itself is part of the displayed identity.
+GENDER_CONTEXT_DISPLAY_EXCEPTIONS = {"female^Inky"}
 
 
 def load_rows(path: Path) -> list[dict[str, str]]:
     with path.open(encoding="utf-8", newline="") as stream:
-        return list(csv.DictReader(stream, delimiter="\t"))
+        rows = list(csv.DictReader(stream, delimiter="\t"))
+    for row in rows:
+        for field in FIELDS:
+            row[field] = row.get(field) or ""
+    return rows
 
 
 def po_translations(directory: Path) -> dict[str, set[str]]:
@@ -123,6 +132,23 @@ def main() -> int:
             and len(WORD_RE.findall(source)) > 6
         ):
             warnings.append(f"long term candidate: {source}")
+
+        gender_match = GENDER_CONTEXT_RE.fullmatch(source)
+        if (
+            gender_match
+            and source not in GENDER_CONTEXT_DISPLAY_EXCEPTIONS
+            and gender_match.group(1) in {item["source_term"] for item in rows}
+        ):
+            base = next(
+                item
+                for item in rows
+                if item["source_term"] == gender_match.group(1)
+            )
+            if standard != base["standard_korean"]:
+                errors.append(
+                    "gender-context/base mismatch: "
+                    f"{source} != {base['source_term']}"
+                )
 
     print(f"rows={len(rows)}")
     print(f"errors={len(errors)}")

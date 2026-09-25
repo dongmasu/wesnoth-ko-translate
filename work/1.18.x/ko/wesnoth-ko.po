@@ -113,7 +113,7 @@ msgstr "유닛 움직임 추적"
 msgid ""
 "Choose whether the map view should scroll to a unit when an action or move "
 "is animated"
-msgstr "유닛의 행동이나 이동시 지도 화면을 이동시킬지 선택합니다"
+msgstr "행동이나 이동을 애니메이션으로 재생할 때 유닛으로 지도 화면을 스크롤할지 선택합니다"
 
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:84
@@ -128,7 +128,7 @@ msgstr "채팅 메시지 만료"
 msgid ""
 "Number of minutes to wait before clearing an ingame chat message. Set to 0 "
 "to disable."
-msgstr "대화 메시지를 삭제하기까지 기다리는 시간(분단위)입니다. 0으로 두면 해제됩니다."
+msgstr "게임 내 채팅 메시지를 지우기 전에 기다릴 시간(분)을 설정합니다. 0으로 설정하면 사용하지 않습니다."
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:95
@@ -159,28 +159,28 @@ msgstr "도움말에 모든 유닛 유형을 표시합니다 (다시 시작해�
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:117
 msgid "Editor recent files limit"
-msgstr "편집기 최근 파일 숫자"
+msgstr "편집기 최근 파일 수 제한"
 
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:118
 msgid ""
 "The maximum number of items to display on the Recent Files menu in the editor"
-msgstr "편집기에서 표시하는 최근 파일의 숫자의 최대치"
+msgstr "편집기의 최근 파일 메뉴에 표시할 항목의 최대 개수"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:128
 msgid "Show color cursors"
-msgstr "컬러 커서 표시"
+msgstr "색상 커서를 표시"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:129
 msgid "Use colored mouse cursors"
-msgstr "색상 마우스 커서를 사용"
+msgstr "색상이 있는 마우스 커서 사용"
 
 #. [advanced_preference]: type=custom
 #: data/advanced_preferences.cfg:136
 msgid "Customize orb colors"
-msgstr "보석 색상 사용자지정"
+msgstr "보석 색상 사용자 지정"
 
 #. [advanced_preference]: type=custom
 #: data/advanced_preferences.cfg:142
@@ -190,19 +190,19 @@ msgstr "기록"
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:148
 msgid "Allow damage calculation with Monte Carlo simulation"
-msgstr "몬테 카를로 시뮬레이션으로 피해 계산을 하게합니다"
+msgstr "몬테카를로 시뮬레이션으로 피해를 계산하도록 허용합니다"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:149
 msgid ""
 "Allow the damage calculation window to simulate fights instead of using "
 "exact probability calculations"
-msgstr "피해 계산 윈도우에서 정확한 확률 계산을 사용하는 대신 몬테카를로에 의한 전투 시뮬레이션을 사용합니다"
+msgstr "정확한 확률 계산 대신 피해 계산 창에서 전투를 시뮬레이션하도록 허용합니다"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:156
 msgid "Show deprecation messages in-game"
-msgstr "게임 내 사용 중단 예정 메시지 표시"
+msgstr "게임 내에서 지원 중단 메시지 표시"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:157
@@ -210,7 +210,7 @@ msgid ""
 "Show warnings about deprecated API in the in-game chat area. These messages "
 "will still be shown in the log, even if this is disabled. In addition, the "
 "deprecation log-domain controls how many messages are printed."
-msgstr "게임 내 체팅 영역에서 더 이상 사용되지 않는 API에 대한 경고를 표시합니다. 이 메시지는 비활성화되어 있어도 로그에 계속 표시됩니다. 또한 지원 중단 로그 도메인은 인쇄할 메시지 수를 제어합니다."
+msgstr "게임 내 채팅 영역에서 더 이상 사용되지 않는 API에 대한 경고를 표시합니다. 이 메시지는 비활성화되어 있어도 로그에 계속 표시됩니다. 또한 지원 중단 로그 도메인은 인쇄할 메시지 수를 제어합니다."
 
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:164
@@ -222,13 +222,13 @@ msgstr "글꼴 크기 척도 (실험적)"
 msgid ""
 "Scales all text up or down from the standard size for your resolution. "
 "Warning: Scaling text up may cause issues in the in-game sidebar."
-msgstr "모든 글자의 크기를 해상도의 표준 크기보다 키우거나 낮춥니다. 경고: 글자 크기를 키우면 게임 내 측면막대에 문제가 발생할 수 있습니다."
+msgstr "현재 해상도의 표준 크기를 기준으로 모든 텍스트 크기를 확대하거나 축소합니다. 경고: 텍스트를 확대하면 게임 내 측면 패널에 문제가 생길 수 있습니다."
 
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:175
 #| msgid "Connection timed out"
 msgid "Server disconnect timeout"
-msgstr "서버가 시간 초과로 연결 해제되었습니다"
+msgstr "서버 연결 해제 시간 초과"
 
 #. [advanced_preference]: type=int
 #: data/advanced_preferences.cfg:176
@@ -236,7 +236,7 @@ msgid ""
 "The amount of time in seconds before a disconnect is detected. If currently "
 "logged into the multiplayer server, you must log out and then log back in "
 "for this to take effect."
-msgstr "연결 해제가 감지되기까지의 시간(초)입니다. 현재 멀티플레이어 서버에 로그인되어 있는 경우 이를 적용하려면 로그아웃한 다음 다시 로그인해야 합니다."
+msgstr "연결 해제를 감지하기 전까지의 시간(초)입니다. 현재 멀티플레이어 서버에 로그인한 상태라면 로그아웃한 뒤 다시 로그인해야 적용됩니다."
 
 #. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [unstore_unit]
@@ -456,7 +456,7 @@ msgstr "영어 (영국) 번역 담당"
 #. [about]
 #: data/core/about_i18n.cfg:486
 msgid "English (Shaw) Translation"
-msgstr "영어 Shaw식 음역 담당"
+msgstr "영어(Shaw 문자) 번역 담당"
 
 #. [about]
 #: data/core/about_i18n.cfg:504
@@ -1210,12 +1210,12 @@ msgstr "벽력포"
 #. [item]: id=torch
 #: data/core/editor/items.cfg:826
 msgid "Lit Torch"
-msgstr "켜진 횟불"
+msgstr "켜진 횃불"
 
 #. [item]: id=torch-bare
 #: data/core/editor/items.cfg:833
 msgid "Unlit Torch"
-msgstr "꺼진 횟불"
+msgstr "꺼진 횃불"
 
 #. [item_group]: id=scenery
 #: data/core/editor/items.cfg:840
@@ -1683,7 +1683,7 @@ msgstr "대장을 $x1|,$y1| 으로 이동시킵니다."
 
 #: data/core/macros/ai_controller.cfg:1119
 msgid "Clear special orders"
-msgstr "특수 명령 초기화"
+msgstr "특수 지시를 지움 or 특수목표 달성"
 
 #: data/core/macros/ai_controller.cfg:1120
 msgid ""
@@ -1919,7 +1919,7 @@ msgid ""
 "Mar’Ildian,Markan,Markinos,Mar Ohn,Marra Di’lek,Marrito,Marritos,Merkush,"
 "Merritos Gark,Morusté,Murr,Omataké,Reshan,Vashitt,Velnick,Veralon,Veramo,"
 "Verath,Verditt,Verkon,Verlinn,Vermad,Vertick,Vladnir"
-msgstr "에가르,엘크,가아쉬,가데 인,가크레 오움,가렉,갈쉬,가라딘,가르친,가르크,가르란,가얼린 오운,가르루틴,가르트로,가루시,가시나르,가쉬올,가우쉬이,가우스툰,게그치,겔카 콘,겔크닉,길란,기샤르리,고스트,그라다,그랫 인,그라쉔,그라브란,그라그(Grag),그렐니트,그레느 오운,그레쓰,그리뻴,그리따,그리쉬,그론 이흔,카,카흔 이흐,카리간,카리 콘,카론,카스크,케그리드(Kegrid),케라쓰 이흔,케라쓰 코르,크라쉬(Krash),콘 그라셰,크라아그,크라르 오흔,크란 코르,크라쉬(Krash),크라스라르,크렌리,크루그겐,쿤,마흐 토아,마르기안,마르일디안,마르칸,마르키노스,마르 오운,마르라 디렉,마르리토,마르리토스,머쿠쉬,머리토스 가르크,모루스테,무르,오마타케,레샨,바쉬트,벨니크,베라론,베라모,베라쓰,버디트,버콘,버리느,버마드,버티크,브라드니르"
+msgstr "에가르,엘크,가아쉬,가데 인,가크레 오움,가렉,갈쉬,가라딘,가르친,가르크,가르란,가얼린 오운,가르루틴,가르트로,가루시,가시나르,가쉬올,가우쉬이,가우스툰,게그치,겔카 콘,겔크닉,길란,기샤르리,고스트,그라다,그랫 인,그라쉔,그라브란,그라그,그렐니트,그레느 오운,그레쓰,그리뻴,그리따,그리쉬,그론 이흔,카,카흔 이흐,카리간,카리 콘,카론,카스크,케그리드,케라쓰 이흔,케라쓰 코르,크라쉬,콘 그라셰,크라아그,크라르 오흔,크란 코르,크라쉬,크라스라르,크렌리,크루그겐,쿤,마흐 토아,마르기안,마르일디안,마르칸,마르키노스,마르 오운,마르라 디렉,마르리토,마르리토스,머쿠쉬,머리토스 가르크,모루스테,무르,오마타케,레샨,바쉬트,벨니크,베라론,베라모,베라쓰,버디트,버콘,버리느,버마드,버티크,브라드니르"
 
 #: data/core/macros/names.cfg:20
 msgid ""
@@ -3000,7 +3000,7 @@ msgstr ""
 #. [objective]: condition=lose
 #: data/core/macros/objective-utils.cfg:7
 msgid "Turns run out"
-msgstr "턴이 모두 소진됨"
+msgstr "차례 끝"
 
 #: data/core/macros/objective-utils.cfg:20
 msgid "(early finish bonus)"
@@ -3017,7 +3017,7 @@ msgstr "보너스 목표:"
 #: data/core/macros/objective-utils.cfg:35
 #| msgid "Bonus objective:"
 msgid "Optional objective:"
-msgstr "보너스 목표:"
+msgstr "선택 목표:"
 
 #. [note]: description=<b>
 #: data/core/macros/objective-utils.cfg:60
@@ -3034,7 +3034,7 @@ msgstr "차례 제한 없음"
 msgid ""
 "The computer player might not be able to play side $side_number properly in "
 "this scenario. Side $side_number is intended to be played by a human player."
-msgstr "이 시나리오에서는 인공지능 플레이어가 진영 $side_number을(를) 제대로 운영하지 못할 수 있습니다. 진영 $side_number은(는) 사람이 플레이하도록 만들어졌습니다."
+msgstr "이 시나리오에서는 인공지능 선수가 진영 $side_number 을(를) 제대로 플레이하지 못할 것입니다. 진영 $side_number 은(는) 사람에게 맡기는 편이 좋습니다."
 
 #. [music]
 #: data/core/macros/sound-utils.cfg:157
@@ -3049,7 +3049,7 @@ msgstr "전투 음악"
 #. [music]
 #: data/core/macros/sound-utils.cfg:169
 msgid "Breaking the Chains"
-msgstr "부숴지는 사슬"
+msgstr "부서지는 사슬"
 
 #. [music]
 #: data/core/macros/sound-utils.cfg:175
@@ -3069,12 +3069,12 @@ msgstr "엘프의 테마"
 #. [music]
 #: data/core/macros/sound-utils.cfg:193
 msgid "Frantic"
-msgstr "광란(Frantic)"
+msgstr "광란"
 
 #. [music]
 #: data/core/macros/sound-utils.cfg:199
 msgid "Heroes Rite"
-msgstr "영웅 의식(Rite)"
+msgstr "영웅의 의식"
 
 #. [music]
 #: data/core/macros/sound-utils.cfg:205
@@ -3089,7 +3089,7 @@ msgstr "여행의 끝"
 #. [music]
 #: data/core/macros/sound-utils.cfg:217
 msgid "Knalgan Theme"
-msgstr "크날간(Knalgan) 테마"
+msgstr "크날간 테마"
 
 #. [music]
 #: data/core/macros/sound-utils.cfg:223
@@ -3151,7 +3151,7 @@ msgstr "실반 보호구역"
 #. [music]
 #: data/core/macros/sound-utils.cfg:289
 msgid "Suspense"
-msgstr "긴장감(Suspense)"
+msgstr "긴장감"
 
 #. [music]
 #: data/core/macros/sound-utils.cfg:295
@@ -3177,7 +3177,7 @@ msgstr "왕이 죽었다"
 #. [music]
 #: data/core/macros/sound-utils.cfg:319
 msgid "Transience"
-msgstr "일시적인(Transience)"
+msgstr "덧없음"
 
 #. [music]
 #: data/core/macros/sound-utils.cfg:325
@@ -3474,9 +3474,10 @@ msgid ""
 "\n"
 "Twilight: +25% Damage"
 msgstr ""
-"경계 유닛은 황혼에 가장 잘 싸웁니다.\n"
+"주행성 유닛은 낮에 더 잘 싸우고, 밤에 더 못 싸웁니다.\n"
 "\n"
-"황혼: 피해 +25%"
+"낮: 피해 +25%\n"
+"밤: 피해 −25%"
 
 #. [language]
 #: data/english.cfg:31
@@ -3758,7 +3759,7 @@ msgstr "공식 웨스노스(Wesnoth) 서버"
 #. [server]
 #: data/game_config.cfg:8
 msgid "Alternate Wesnoth Server"
-msgstr "대체(Wesnoth) 웨스노스(Wesnoth) 서버"
+msgstr "대체 웨스노스(Wesnoth) 서버"
 
 #. [label]: id=title
 #: data/gui/window/install_dependencies.cfg:37
@@ -3823,7 +3824,7 @@ msgstr "잘못된 지원 중단 수준 (1-4이어야 함)"
 #. [lua]: set_status
 #: data/lua/wml/harm_unit.lua:124 src/actions/attack.cpp:1050
 msgid "female^poisoned"
-msgstr "중독"
+msgstr "중독됨"
 
 #. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: set_status
@@ -3888,7 +3889,7 @@ msgstr[0] "($remaining_turns턴 남음)"
 #: data/lua/wml/objectives.lua:119
 #| msgid "%d%% of gold carried over to the next scenario."
 msgid "$percent|% of gold carried over to the next scenario."
-msgstr "보유 금화의 $percent|%가 다음 시나리오로 이월됩니다."
+msgstr "총 금화의 $percent|% 가 다음 시나리오로 이월됩니다."
 
 #. [modification]: id=plan_unit_advance, type=mp
 #: data/modifications.cfg:6
@@ -3903,7 +3904,7 @@ msgid ""
 "if it advances on another player’s turn. With this modification you can set "
 "what your units advance to beforehand, either for a specific unit or for all "
 "units of the same type."
-msgstr "멀티플레이 게임에서는 다른 플레이어의 차례에 유닛이 승급하면 승급 대상을 직접 선택할 수 없습니다. 이 기능을 사용하면 특정 유닛이나 같은 유형의 모든 유닛이 승급할 대상을 미리 지정할 수 있습니다."
+msgstr "멀티플레이어 게임을 할 때, 자신의 차례 이외에는 유닛의 수준 향상 대상을 선택할 수 없습니다. 이 모드를 사용하면 유닛의 수준향상 대상을 미리 설정해 둘 수 있습니다. 수준향상 대상 설정은 개별 유닛 또는 유닛 유형별로 설정할 수 있습니다."
 
 #. [checkbox]: id=pickadvance_force_choice
 #: data/modifications.cfg:13
@@ -3919,9 +3920,9 @@ msgid ""
 "\n"
 "Some eras and scenarios may automatically enable this option."
 msgstr ""
-"승급 대상을 정하지 않은 유닛이 나타날 때마다 승급 대상을 선택하게 됩니다.\n"
+"미정 유닛이 나타날 때마다 승급에 대한 질문을 받게 됩니다.\n"
 "\n"
-"일부 시대나 시나리오에서는 이 옵션이 자동으로 활성화됩니다."
+"일부 시대 나 시나리오에서는 이 옵션이 자동으로 활성화됩니다."
 
 #. [lua]: preshow
 #: data/modifications/pick_advance/dialog.lua:36
@@ -4123,7 +4124,7 @@ msgstr "경험치(XP)"
 #. [label]: id=label-mp
 #: data/themes/default.cfg:181
 msgid "MP"
-msgstr "마력(MP)"
+msgstr "이동력(MP)"
 
 #. [label]: id=label-def
 #: data/themes/default.cfg:189
@@ -4141,7 +4142,7 @@ msgstr "수준"
 msgid ""
 "Use the map editor’s <i>Areas</i> menu to define regions later addressed by "
 "event or AI coding."
-msgstr "지도 편집기의 <i>지역</i> 메뉴에서 나중에 이벤트나 AI 코드로 참조할 영역을 정의할 수 있습니다."
+msgstr "지도 편집기의 <i>지역</i> 메뉴를 사용하여 나중에 이벤트 또는 AI 코딩으로 처리되는 영역을 정의하십시오."
 
 #. [tip]
 #: data/tips.cfg:5 data/tips.cfg:9 data/tips.cfg:13
@@ -4154,21 +4155,21 @@ msgstr "<i>― 웨스노스(Wesnoth) 설계 안내서</i>"
 msgid ""
 "In the map editor, select <i>New Scenario</i> in the <i>File</i> menu to "
 "make use of advanced features."
-msgstr "지도 편집기에서 고급 기능을 사용하려면 <i>파일</i> 메뉴의 <i>새 시나리오</i>를 선택하십시오."
+msgstr "지도 편집기의 <i>파일</i> 메뉴에서 <i>새로운 시나리오</i>를 선택하여 고급 기능을 사용합니다."
 
 #. [tip]
 #: data/tips.cfg:12
 msgid ""
 "Scenarios saved from the editor in their default folder can be selected in "
 "the <i>Custom Scenarios</i> section of the Multiplayer “Create Game” screen."
-msgstr "편집기의 기본 폴더에 저장한 시나리오는 멀티플레이어 게임 만들기 화면의 <i>사용자 지정 시나리오</i>에서 선택할 수 있습니다."
+msgstr "편집기에서 기본 폴더에 저장된 시나리오는 멀티 플레이어 “게임 만들기” 화면의 <i>사용자 지정 시나리오</i> 부분에서 선택할 수 있습니다."
 
 #. [tip]
 #: data/tips.cfg:16
 msgid ""
 "Don’t neglect to earn your leader experience! You need to keep him safe, but "
 "if you coddle him too much he may be too weak to survive future battles."
-msgstr "대장에게 경험치를 주는 일을 소홀히 하지 마십시오. 대장을 보호해야 하지만, 지나치게 아끼면 앞으로의 전투에서 살아남을 만큼 강해지지 못할 수 있습니다."
+msgstr "대장에게 경험치를 주는 것을 주저하지 말도록! 그대는 그를 보호해야 하지만 너무 애지중지하다가는 이후의 전투에서는 대장의 수준이 너무 낮아서 살아남을 수 없게 될지도 모르네."
 
 #. [tip]
 #: data/tips.cfg:17 data/tips.cfg:149
@@ -4182,7 +4183,7 @@ msgid ""
 "highlight all the hexes your adversary can move to (assuming your units stay "
 "where they are). Use this to make sure the enemy can’t reach your weak or "
 "injured units on his next turn."
-msgstr "<b>행동</b> 메뉴에서 <b>적 이동 범위 보기</b>를 선택하면, 현재 아군 유닛이 있는 위치를 기준으로 적이 이동할 수 있는 모든 칸을 표시합니다. 이를 이용해 다음 적 차례에 약하거나 부상한 아군 유닛이 공격받지 않는지 확인하십시오."
+msgstr "당신은 <b>행동</b> 메뉴에서 <b>적 이동 범위 보기</b> 를 선택해서 당신의 상대가 실제로 이동할 수 있는 모든 칸들(당신의 유닛의 존재를 상정한)을 밝게 비춰볼 수 있습니다. 이것을 써서 적이 다음 차례에 당신의 약한 유닛이나 부상병들에게 닿을 수 없는가의 여부를 확실히 확인하십시오."
 
 #. [tip]
 #: data/tips.cfg:21 data/tips.cfg:33 data/tips.cfg:37 data/tips.cfg:45
@@ -4202,7 +4203,7 @@ msgid ""
 "Units with the <i>Intelligent</i> trait need fewer experience points to "
 "level up. Early in a campaign, try to give killing blows to these units so "
 "you can get some high-level troops sooner."
-msgstr "<i>영리한</i> 특성을 가진 유닛은 승급에 필요한 경험치가 더 적습니다. 캠페인 초반에는 이런 유닛이 마무리 일격을 가하게 해 고레벨 병력을 더 빨리 확보하십시오."
+msgstr "<i>영리한</i> 특성을 가진 유닛들은 승급에 필요한 경험치가 더 적습니다. 캠페인 초기에 이런 유닛들이 막타를 치게 하면 상위 수준 병력을 빨리 모을 수 있습니다."
 
 #. [tip]
 #: data/tips.cfg:25
@@ -4216,7 +4217,7 @@ msgid ""
 "By placing two units on opposite sides of an enemy, their zones of control "
 "will restrict it to one hex of movement in any direction. Unfortunately, you "
 "must completely surround skirmishers to immobilize them."
-msgstr "포위 전술은 특히 빠른 적에게 매우 강력합니다. 적의 양쪽에 유닛을 배치하면 두 유닛의 통제 권역(ZOC)이 적의 모든 방향 이동을 한 칸으로 제한합니다. 단, 척후병을 움직이지 못하게 하려면 완전히 포위해야 합니다."
+msgstr "포위 전략은 매우 강력하며, 특히 빠른 상대에게 효과적이다. 적의 양편에 두 유닛을 두면 그들의 통제 영역(ZOC)이 적이 갖는 모든 방면으로의 이동거리를 한 칸으로 제한한다. 불행히도 당신은 척후병들을 꼼짝 못하게 하려면 완전히 포위해야 한다."
 
 #. [tip]
 #: data/tips.cfg:29 data/tips.cfg:141
@@ -4230,7 +4231,7 @@ msgid ""
 "clicking on a castle tile. That will let you choose the precise hex you put "
 "a unit in. Placing units wisely can sometimes let you reach a village a turn "
 "earlier."
-msgstr "성채 칸을 마우스 오른쪽 버튼으로 클릭하면 <b>소집</b>과 <b>재소집</b> 명령을 사용할 수 있습니다. 이때 유닛을 배치할 정확한 칸을 고를 수 있습니다. 배치 위치를 잘 선택하면 한 차례 더 빨리 마을에 도달할 수도 있습니다."
+msgstr "아성에서 오른쪽 클릭을 함으로써 <b>소집</b>이나 <b>재소집</b> 명령어를 사용할 수 있습니다. 또, 그 때 새로운 유닛을 배치하는 헥스를 선택할 수 있습니다. 유닛을 고용할 위치를 궁리하면, 보다 빨리 마을을 확보할 수 있을 것입니다."
 
 #. [tip]
 #: data/tips.cfg:36
@@ -4238,7 +4239,7 @@ msgid ""
 "There are some helpful summary screens in the main menu: for instance, the "
 "<b>Status Table</b> will let you know how your enemies are doing, and how "
 "you are doing in comparison."
-msgstr "주 메뉴에는 유용한 요약 화면이 있습니다. 예를 들어 <b>상태표</b>에서는 적의 상황과 아군의 상황을 비교해 볼 수 있습니다."
+msgstr "메인 메뉴의 몇 가지 항목에서는 유용한 정보를 얻을 수 있습니다. 예를 들면 \"<b>상태</b>\"는, 적과 아군의 현상을 확인할 수 있습니다."
 
 #. [tip]
 #: data/tips.cfg:40
@@ -4246,7 +4247,7 @@ msgid ""
 "Units with the <i>Quick</i> trait get an extra movement point per turn. This "
 "can be very important when moving through difficult terrain such as water or "
 "caves. It can make the difference between being able to move one hex or two."
-msgstr "<i>민첩</i> 특성을 지닌 유닛은 차례마다 이동력이 1 늘어납니다. 물이나 동굴처럼 이동하기 어려운 지형에서는 이 차이로 한 칸만 이동할 수 있던 곳을 두 칸 이동할 수도 있습니다."
+msgstr "<i>민첩</i>특성을 지닌 유닛은 1차례에 대해 1칸 추가로 이동할 수 있다. 민첩은 수중이나 동굴 같은 거동이 불편한 지형을 이동할 때 매우 도움이 된다. 민첩하면 본래 1칸 밖에 움직이지 않는 곳을 2칸 이동할 수 있을지도 모른다."
 
 #. [tip]
 #: data/tips.cfg:41 data/tips.cfg:117 data/tips.cfg:218 data/tips.cfg:230
@@ -4259,7 +4260,7 @@ msgid ""
 "After you have played a few scenarios, read the <b>Gameplay</b> section in "
 "the <b>Help</b> screen carefully. Details become important as scenarios get "
 "harder!"
-msgstr "몇 개의 시나리오를 플레이한 뒤에는 <b>도움말</b> 화면의 <b>게임플레이</b> 항목을 자세히 읽어 보십시오. 시나리오가 어려워질수록 세부 사항이 중요해집니다."
+msgstr "몇 개의 시나리오를 플레이하면,<b>도움말</b>화면의<b>게임 플레이</b> 부분을 주의 깊게 읽읍시다. 시나리오가 어려워지면, 사소한 점이 중요해집니다!"
 
 #. [tip]
 #: data/tips.cfg:48
@@ -4267,14 +4268,14 @@ msgid ""
 "It is usually better to start the next scenario in a campaign with lower-"
 "level units that are about to level up than with those same units at a "
 "higher level."
-msgstr "캠페인의 다음 시나리오에서는 이미 고레벨이 된 유닛보다, 곧 승급할 저레벨 유닛을 시작 유닛으로 두는 편이 대체로 더 좋습니다."
+msgstr "캠페인에서 시나리오의 시작시에는, 높은 수준의 유닛이 아니라 수준 향상이 가까운 낮은 수준 유닛을 소환할 수 없는지 확인해 봅시다. 대부분의 경우, 수준 향상이 가까운 낮은 수준 유닛을 소환하는 것이 좋습니다."
 
 #. [tip]
 #: data/tips.cfg:52
 msgid ""
 "On www.wesnoth.org you can find strategy guides, technical support, the "
 "history of Wesnoth, and much more."
-msgstr "www.wesnoth.org에서 전술 안내서, 기술 지원, 웨스노스(Wesnoth)의 역사 등 다양한 정보를 확인할 수 있습니다."
+msgstr "누리집 www.wesnoth.org 에서 전술 안내서, 기술 지원, 웨스노스(Wesnoth)의 역사, 그 외의 정보를 읽을 수 있습니다."
 
 #. [tip]
 #: data/tips.cfg:53
@@ -4290,19 +4291,19 @@ msgid ""
 "<i>Lawful</i> units fight better by day, and <i>chaotic</i> units fight "
 "better at night. <i>Neutral</i> units are unaffected by the time of day. The "
 "rare <i>liminal</i> units fight best during twilight."
-msgstr "<i>주행성</i> 유닛은 주간에 전투력이 향상되며, <i>야행성</i> 유닛은 야간에 더 강합니다. <i>중립</i> 유닛은 시간대의 영향을 받지 않습니다. 드문 <i>경계</i> 유닛은 황혼에 가장 잘 싸웁니다."
+msgstr "<i>주행성</i> 유닛은 낮에 더 잘 싸우고, <i>혼돈성</i> 유닛은 밤에 더 잘 싸웁니다. <i>중립</i> 유닛은 시간대의 영향을 받지 않습니다. 드문 <i>경계성</i> 유닛은 황혼에 가장 강합니다."
 
 #. [tip]
 #: data/tips.cfg:57
 msgid ""
 "<i>― Royal Compendium of Battle Terminology: Volume II (reprinted 221YW)</i>"
-msgstr "<i>― 전투 용어의 왕실 개요서: 2권 (웨스노스력 221년 재간행)</i>"
+msgstr "<i>전투 용어의 왕실 개요서: 2권 (웨스노스력 221년에 재인쇄됨)</i>"
 
 #. [tip]
 #: data/tips.cfg:60
 msgid ""
 "An otherwise sound plan can fail if you attack at the wrong time of day."
-msgstr "아무리 좋은 계획이라도 잘못된 시간에 공격하면 실패할 수 있습니다."
+msgstr "만약 당신이 잘못된 시간에 공격한다면, 철저한 계획이 실패할 수 있다."
 
 #. [tip]
 #: data/tips.cfg:61 data/tips.cfg:85 data/tips.cfg:137 data/tips.cfg:145
@@ -4344,7 +4345,7 @@ msgid ""
 "that they will be hit. The defensive rating for the currently selected unit "
 "in the currently selected terrain is displayed in the top right corner of "
 "the screen."
-msgstr "유닛이 피격될 확률은 그 유닛이 있는 지형에서의 방어력에 따라 결정됩니다. 선택한 유닛이 선택한 지형에서 얻는 방어력은 화면 오른쪽 위에 표시됩니다."
+msgstr "유닛의 회피율은 그 유닛이 있는 헥스의 지형에 따라 결정됩니다. 회피율을 확인하려면 유닛을 클릭으로 선택하고 지형에 마우스 커서를 맞추어 주세요. 그러면, 화면 오른쪽 위의 미니 지도 아래에 지정한 지형상에서의 유닛의 회피율이 표시됩니다."
 
 #. [tip]
 #: data/tips.cfg:76
@@ -4360,7 +4361,7 @@ msgid ""
 "removed. Healers can prevent a poisoned unit from deteriorating, but the "
 "poison will not be removed unless the unit regenerates, or begins a turn in "
 "a village, in an oasis, or next to a unit with the <i>Cures</i> ability."
-msgstr "중독된 유닛은 체력이 1 남을 때까지 매 차례 체력 8을 잃습니다. 이후에는 독이 제거될 때까지 체력 1로 버팁니다. 치료사는 중독으로 체력이 더 줄어드는 것을 막을 수 있지만, 유닛이 재생하거나 마을·오아시스·<i>치유</i> 능력이 있는 유닛 옆에서 차례를 시작하지 않으면 독은 제거되지 않습니다."
+msgstr "중독된 유닛은 죽기 직전까지 매 차례 체력을 8씩 잃습니다. 그 뒤에는 독이 제거될 때까지 죽음의 문턱에 머뭅니다. 치료사는 중독된 유닛의 상태가 악화되는 것을 막을 수 있지만, 유닛이 재생하거나 마을·오아시스 또는 <i>치료</i> 능력이 있는 유닛 옆에서 차례를 시작하지 않는 한 독은 제거되지 않습니다."
 
 #. [tip]
 #: data/tips.cfg:80
@@ -4368,7 +4369,7 @@ msgid ""
 "You can reuse units from a previous scenario by selecting <b>Recall</b> from "
 "the <b>Actions</b> menu. By recalling the same units over and over, you can "
 "build up a powerful and experienced army."
-msgstr "<b>행동</b> 메뉴에서 <b>재소집</b>을 선택하면 이전 시나리오에서 사용한 유닛을 다시 쓸 수 있습니다. 같은 유닛을 거듭 재소집하면 경험 많은 강력한 군대를 만들 수 있습니다."
+msgstr "<b>액션</b>메뉴의 <b>재소집</b>을 선택해서, 앞의 시나리오 유닛을 재사용할 수 있습니다. 같은 유닛을 몇 번이나 몇 번이나 재소집하는 것으로, 경험 풍부하고 강력한 군대를 만들 수 있습니다."
 
 #. [tip]
 #: data/tips.cfg:84
@@ -4378,7 +4379,7 @@ msgid ""
 "move any further that turn. This means that units can have two empty hexes "
 "between them and still create a barrier to the enemy. Beware, though: "
 "skirmishers can pass through these gaps."
-msgstr "레벨 1 이상인 유닛은 인접한 여섯 칸에 <i>통제 권역(ZOC)</i>을 형성합니다. 적의 통제 권역에 들어간 유닛은 그 차례에 더 이상 이동할 수 없습니다. 유닛 사이에 빈 칸이 두 개 있어도 적의 길을 막을 수 있다는 뜻입니다. 단, 척후병은 이 틈을 통과할 수 있습니다."
+msgstr "수준 1 이상의 유닛은 인접하는 6개의 육각형 칸들에 <i>통제 영역(ZOC)</i>을 갖고 있다. 만일 유닛이 적의 지배 영역에 들어간다면, 그 차례 때 그 이상 이동할 수 없다. 이는 유닛의 사이에 2개의 빈 육각형 칸들이 있었다고 해도 적에 대한 장벽을 구축할 수 있음을 의미한다. 그러나, 척후병은 이 지배 영역을 무시할 수 있다."
 
 #. [tip]
 #: data/tips.cfg:88
@@ -4388,7 +4389,7 @@ msgid ""
 "always have a 70% chance to hit, and units with the <i>Marksman</i> ability "
 "are guaranteed at least a 60% chance of a hit when they attack on their own "
 "turn."
-msgstr "유닛의 피격 확률은 보통 그 유닛이 있는 지형에서의 방어력에 따라 결정됩니다. 하지만 마법 공격은 언제나 명중률이 70%이며, <i>저격</i> 능력이 있는 유닛은 자신의 차례에 공격하면 명중률이 최소 60%로 보장됩니다."
+msgstr "적 유닛에 공격이 명중할 확률은 지금 있는 지형에 적 유닛이 얼마나 적응하고 있는지에 따라 결정된다. 그러나 마법 공격은 항상 70%의 확률로 명중하고<i>저격</i>능력을 갖고 있는 유닛이 공격을 하면 최소 60%의 확률로 명중하다."
 
 #. [tip]
 #: data/tips.cfg:89
@@ -4400,7 +4401,7 @@ msgstr "<i>― 전략 분석 편람 제 2 권 - 할드릭(Haldric) 2세, 웨스�
 msgid ""
 "Units stationed in villages will either heal eight hitpoints at the "
 "beginning of their turn, or will recover from poisoning."
-msgstr "마을에 주둔한 유닛은 차례를 시작할 때 체력 8을 회복하거나 중독에서 회복합니다."
+msgstr "마을에 주둔하고 있는 유닛은, 그 차례의 시작시 체력 8을 회복하거나 해독됩니다."
 
 #. [tip]
 #: data/tips.cfg:96
@@ -4408,7 +4409,7 @@ msgid ""
 "Don’t move an injured unit if you don’t have to — let it rest. If a unit "
 "does not move or attack, it will recover two hitpoints at the beginning of "
 "its next turn."
-msgstr "필요하지 않다면 부상한 유닛을 움직이지 말고 쉬게 하십시오. 유닛이 이동하거나 공격하지 않으면 다음 차례를 시작할 때 체력 2를 회복합니다."
+msgstr "필요가 없으면, 상처받은 유닛을 움직이지 않도록 합시다. 유닛이 이동이나 공격을 하지 않으면, 다음 차례의 시작시 체력 2를 회복합니다."
 
 #. [tip]
 #: data/tips.cfg:100
@@ -4417,7 +4418,7 @@ msgid ""
 "units’ sightlines are limited by their maximum movement. If you have some "
 "valuable but slow units, keep at least one fast unit with them so that you "
 "are not caught out by a surprise attack."
-msgstr "<i>장막</i>이나 <i>전장의 안개</i>가 있는 지도에서는 모든 유닛의 시야가 최대 이동 거리로 제한됩니다. 느리지만 중요한 유닛과는 빠른 유닛을 하나 이상 함께 두어 기습을 피하십시오."
+msgstr "<i>장막</i>이나 <i>전장의 안개</i>가 있는 지도에서는, 플레이어의 시야는 자군 유닛이 최대로 이동할 수 있는 범위로 제한됩니다. 움직임이 늦어도 귀중한 유닛이 있는 경우에는, 보다 재빠른 유닛으로 먼저 정찰을 실시합니다. 그래야 적의 기습을 피할 수 있어요."
 
 #. [tip]
 #: data/tips.cfg:104
@@ -4425,7 +4426,7 @@ msgid ""
 "Foot units tend to defend better in villages and castles than in other "
 "terrain types, while most mounted units do not gain any defensive advantages "
 "from villages or castles."
-msgstr "보병 유닛은 마을과 성채에서 다른 지형보다 방어력이 높은 편입니다. 반면 대부분의 기마 유닛은 마을이나 성채에서도 방어력 이점을 얻지 못합니다."
+msgstr "보병 유닛은 마을과 성에서, 다른 지형보다 높은 회피율을 얻습니다. 그러나, 대부분의 기병 유닛은, 마을이나 성이라도 회피율이 상승하는 일은 없습니다."
 
 #. [tip]
 #: data/tips.cfg:105 data/tips.cfg:185
@@ -4438,7 +4439,7 @@ msgid ""
 "Horse-based units are generally resistant to attacks with bladed or impact "
 "weapons, but are vulnerable to attacks with piercing weapons, including bows "
 "and spears."
-msgstr "기마 유닛은 대체로 참격과 충격 공격에 강하지만, 활과 창 같은 관통 무기에는 약합니다."
+msgstr "승마 유닛은 전반적으로, 참격이나 타격 공격에는 내성이 있습니다. 하지만 활이나 창 등의 관통 무기에는 약합니다."
 
 #. [tip]
 #: data/tips.cfg:109
@@ -4452,14 +4453,14 @@ msgid ""
 "experience. Units killing an enemy will gain eight experience points for "
 "every level of the unit they kill, or four experience points for a zero-"
 "level opponent."
-msgstr "적 유닛에 마무리 일격을 가하는 것이 경험치를 얻는 가장 좋은 방법입니다. 적을 처치한 유닛은 처치한 적의 레벨마다 경험치 8을 얻으며, 레벨 0 적을 처치하면 경험치 4를 얻습니다."
+msgstr "적 유닛에 머무르는 일격을 가하는 것이, 경험치를 얻는 가장 좋은 방법입니다. 적을 죽인 유닛은 그 적 수준의 8 배의 경험치를 얻습니다. 또 수준 0의 적을 죽이면 경험치 4를 얻습니다."
 
 #. [tip]
 #: data/tips.cfg:116
 msgid ""
 "Elvish units move and fight well in forest. Dwarvish units move and fight "
 "well in hills, mountains and caves."
-msgstr "엘프 유닛은 숲에서 이동과 전투를 잘합니다. 난쟁이 유닛은 언덕, 산, 동굴에서 이동과 전투를 잘합니다."
+msgstr "엘프족의 유닛은, 숲에서의 이동이나 전투가 특기입니다. 드워프족의 유닛은 언덕이나 산, 동굴에서의 이동이나 공격을 특기로 합니다."
 
 #. [tip]
 #: data/tips.cfg:120
@@ -4473,13 +4474,13 @@ msgstr "인내가 승리의 열쇠가 될 때가 많습니다. 좋지 않은 상
 msgid ""
 "If you are attacked from several directions, it may be a good idea to send "
 "expendable units in some directions to delay enemy units."
-msgstr "여러 방향에서 공격받는다면 일부 방향에는 희생 가능한 유닛을 보내 적의 진격을 늦추는 것도 좋은 방법입니다."
+msgstr "여러 방향에서 공격받게 된다면, 소모가능한 유닛들로 특정 방향에서의 적의 진격을 저지하는 것도 좋은 방편입니다."
 
 #. [tip]
 #: data/tips.cfg:128
 msgid ""
 "Do not be afraid to retreat and regroup; it is often the key to victory."
-msgstr "후퇴와 병력 재편성을 두려워하지 마십시오. 이것이 승리의 열쇠가 될 때가 많습니다."
+msgstr "후퇴와 병력 재편성을 두려워하지마십시오; 이것은 종종 승리의 열쇠가 됩니다."
 
 #. [tip]
 #: data/tips.cfg:129
@@ -4502,7 +4503,7 @@ msgid ""
 "not just the keep they start on. Sometimes your allies may be willing to "
 "make room for you on their keep so you can recruit from there, and you can "
 "even capture an enemy’s keep and use that."
-msgstr "<i>대장</i>은 처음 있던 아성뿐 아니라 성 안의 어느 아성에서나 유닛을 소집하거나 재소집할 수 있습니다. 동맹이 자신의 아성을 비워 줄 수도 있고, 적의 아성을 점령해 사용할 수도 있습니다."
+msgstr "<i>대장들</i>은 출발 지점뿐만 아니라 어느 성내의 주탑에서도 유닛을 소집·재소집할 수 있다. 적으로부터 주탑을 빼앗아, 거기로부터 고용할 수도 있다. 또 당신의 동맹군은 주탑의 장소를 당신을 위해 비우고 거기서 고용하게 해 줄지도 모른다."
 
 #. [tip]
 #: data/tips.cfg:140
@@ -4517,7 +4518,7 @@ msgid ""
 "Units with the <i>Leadership</i> ability help lower-level adjacent units on "
 "the same side fight better. You can move these units slowly along your "
 "battle lines and give bonuses to large numbers of lower-level troops."
-msgstr "<i>통솔</i> 능력이 있는 유닛은 인접한 저레벨 아군 유닛의 전투력을 높여 줍니다. 이 유닛을 전선 따라 이동시키면 많은 저레벨 병력에 보너스를 줄 수 있습니다."
+msgstr "<i>통솔</i> 능력을 가진 유닛은 자신보다 낮은 수준의 인접한 아군 유닛의 전투력을 좋게 해준다. 다른 유닛을 보다 빨리 수준 상승시키기 위해서, 통솔을 사용하는 것이 좋다."
 
 #. [tip]
 #: data/tips.cfg:148
@@ -4534,7 +4535,7 @@ msgid ""
 "may use this knowledge to lure your opponents into a trap by leaving some "
 "villages unoccupied, but keep in mind that an enemy unit becomes much harder "
 "to dislodge from a village! Plan your movements accordingly."
-msgstr "마을을 지배하는 일은 시나리오 승리의 핵심인 경우가 많습니다. 빈 마을을 남겨 적을 함정으로 유인할 수도 있지만, 마을에 들어간 적 유닛은 몰아내기 훨씬 어렵습니다. 이를 고려해 이동 계획을 세우십시오."
+msgstr "마을 관리는 승리의 열쇠다. 굳이 마을을 점령하지 않고 적을 유인해 함정에 빠뜨릴 수도 있다. 하지만 마을에 있는 적 유닛과 전투는 어렵다는 것을 잊어서는 안 된다! 사전에 적절한 이동 계획을 세우는 것이다."
 
 #. [tip]
 #: data/tips.cfg:153
@@ -4557,7 +4558,7 @@ msgstr "<i>― 리사르(Li’sar) 공주, 웨스노스력 515년</i>"
 msgid ""
 "If you move a unit, but don’t attack or discover any additional information, "
 "you can undo your move by pressing <b>u</b>."
-msgstr "유닛을 이동한 뒤 공격하지 않고 새 정보도 발견하지 않았다면 <b>u</b> 키를 눌러 이동을 되돌릴 수 있습니다."
+msgstr "유닛을 이동한 뒤 공격하거나 추가 정보를 발견하지 않았다면 <b>u</b> 키를 눌러 이동 전으로 되돌릴 수 있습니다."
 
 #. [tip]
 #: data/tips.cfg:164
@@ -4583,7 +4584,7 @@ msgstr "<i>― 찬탈의 두루마리, 웨스노스력 516년</i>"
 msgid ""
 "The <i>Slow</i> attack makes enemy units move slower and halves the damage "
 "they do on all attacks until they end a turn."
-msgstr "<i>둔화</i> 공격은 적 유닛의 다음 차례가 끝날 때까지 이동력과 모든 공격의 피해를 절반으로 만듭니다."
+msgstr "<i>둔화</i> 공격은 적 유닛의 차례가 끝날 때까지 적 유닛의 적 유닛의 이동력과 공격력을 반감시킵니다."
 
 #. [tip]
 #: data/tips.cfg:176
@@ -4607,7 +4608,7 @@ msgstr "유닛은 수준이 오르면 회복됩니다. 이것을 현명하게 �
 msgid ""
 "Charging units are best used against enemies they can kill with a single "
 "blow."
-msgstr "돌격 유닛은 한 번의 공격으로 처치할 수 있는 적에게 가장 효과적입니다."
+msgstr "돌격 유닛들은 적들을 한방에 죽일때 가장 유용합니다."
 
 #. [tip]
 #: data/tips.cfg:188
@@ -4625,7 +4626,7 @@ msgid ""
 "To advance low-level units quickly, team them with a veteran and use the "
 "veteran to damage a joint target heavily enough for the junior partner to "
 "get in the killing blow."
-msgstr "저레벨 유닛을 빨리 승급시키려면 베테랑 유닛과 짝지으십시오. 베테랑 유닛으로 적에게 큰 피해를 준 뒤 저레벨 유닛으로 마무리 일격을 가하면 됩니다."
+msgstr "수준이 낮은 유닛을 빨리 수준 향상을 시키기 위해서는 베테랑 유닛과 팀을 짜십시오. 베테랑 유닛으로 적 유닛에 큰 타격을 주고, 낮은 수준 유닛으로 막타를 치는 거야."
 
 #. [tip]
 #: data/tips.cfg:193
@@ -4646,7 +4647,7 @@ msgstr "안개나 장막을 걷어낸 이동은 무를 수 없습니다. 유닛�
 msgid ""
 "If an enemy benefits more from a rare terrain type than you do, occupying "
 "that terrain will deprive them of its benefits."
-msgstr "희귀한 지형에서 적이 아군보다 큰 이점을 얻는다면, 그 지형을 점령해 적이 그 이점을 누리지 못하게 할 수 있습니다."
+msgstr "만약, 희귀한 지형 타입에서 적이 당신보다 이익을 받는다면, 그 지형을 점거함으로써 적의 이익을 빼앗을 수 있습니다."
 
 #. [tip]
 #: data/tips.cfg:205
@@ -4654,7 +4655,7 @@ msgid ""
 "Few units have good defenses in water; a line of attackers along the edge of "
 "a river can inflict heavy casualties. Elves can use the edge of a forest in "
 "a similar manner, and dwarves can do the same with mountains."
-msgstr "물에서 방어력이 좋은 유닛은 거의 없습니다. 강가에 공격 유닛을 늘어세우면 적에게 큰 피해를 줄 수 있습니다. 마찬가지로 숲 가장자리에는 엘프를, 산에는 난쟁이를 배치하는 전술도 효과적입니다."
+msgstr "물 속에서 높은 회피율을 발휘할 수 있는 유닛은 거의 없습니다. 그 때문에, 강의 물가에 따라서 공격 유닛을 배치하는 것에 의해서, 적에게 심대한 피해를 줄 수 있습니다. 마찬가지로, 숲 둘레에 엘프를 배치하거나 산에 드워프를 배치하는 것도 유효한 전술입니다."
 
 #. [tip]
 #: data/tips.cfg:209
@@ -4665,7 +4666,7 @@ msgid ""
 "is cancelled, and the <i>Berserk</i> ability is weakened. Fast foes struggle "
 "to escape; slow enemies are almost immobilized, and your own units suffer "
 "less retaliation damage, so it’s quicker to heal them."
-msgstr "<i>둔화</i>는 효과 범위가 넓어 매우 강력합니다. 둔화된 언데드는 <i>흡수</i> 효과를 절반만 얻고, <i>돌격</i>과 <i>배후 공격</i>의 피해 보너스는 사라지며, <i>광전사</i>도 약해집니다. 빠른 적은 달아나기 어려워지고 느린 적은 거의 움직이지 못합니다. 아군도 반격 피해를 덜 받아 더 빨리 회복할 수 있습니다."
+msgstr "<i>둔화</i> 능력은 많은 효과가 있기 때문에 매우 강력합니다. 적이 언데드여도 <i>흡수</i> 능력의 위협은 반감되고, <i>돌격</i> 이나 <i>뒷치기</i> 에 의한 공격력 증가 효과도 무효화됩니다. 또 <i>광전사</i> 능력도 약화될 것입니다. 평소에는 재빠른 적이라도 탈출하는데 무척 고생할 것이고, 그렇지 않아도 느린 적이라면 거의 이동이 불가능해질 것입니다. 한편 당신의 유닛은 적의 반격에 의한 데미지가 경감되기 때문에, 회복도 용이할 것입니다."
 
 #. [tip]
 #: data/tips.cfg:213
@@ -4679,7 +4680,7 @@ msgid ""
 "Adepts, Horsemen, Orcish Grunts or Dwarvish Thunderers — in pairs or threes. "
 "This gives you another try whenever your first devastating attack misses — "
 "as inevitably happens from time to time."
-msgstr "검은 수련자, 기병, 오크 병졸, 난쟁이 총격병처럼 공격 횟수는 적지만 한 번의 피해가 큰 유닛은 둘이나 셋씩 함께 운용하십시오. 강력한 첫 공격이 빗나가도 다음 공격으로 만회할 수 있습니다."
+msgstr "공격횟수는 적지만 명중하면 강력한 유닛(검은 수련자, 기병, 오크 병졸,난쟁이 총격병 등)을 2기 또는 3기의 팀으로 운용해 봅시다. 그렇게 하면 최초의 공격이 실패(항상 일어날 가능성이 있습니다)해도 다음의 공격으로 커버할 수 있습니다."
 
 #. [tip]
 #: data/tips.cfg:217
@@ -4693,7 +4694,7 @@ msgid ""
 "for finishing off enemies with only a few hitpoints remaining. Be sure to "
 "use leadership — or a strong or dextrous unit — whenever the extra point or "
 "two of damage makes a one-hit kill possible."
-msgstr "공격 횟수가 세 번 이상인 유닛, 특히 마법 공격 유닛은 체력이 얼마 남지 않은 적을 마무리하기에 알맞습니다. 피해를 한두 점만 더 주면 한 번에 처치할 수 있을 때는 통솔이나 강하거나 민첩한 유닛을 활용하십시오."
+msgstr "3회 이상의 공격 횟수를 가진 — 특히 마법 공격을 가진 — 유닛은 체력이 얼마 남지 않은 적을 완전히 물리치는 데 적합하다. 한 두번의 공격으로 원킬이 가능해질 때마다 반드시 리더십 — 또는 강하거나 능숙한 유닛— 을 사용하라."
 
 #. [tip]
 #: data/tips.cfg:221
@@ -4701,7 +4702,7 @@ msgid ""
 "Think twice before dismissing any unit from your recall list, no matter how "
 "little experience it has. Sometimes it’s worth paying a premium to know "
 "exactly what traits a new arrival will have."
-msgstr "경험치가 적더라도 재소집 목록의 유닛을 해고하기 전에 다시 생각하십시오. 새로 들어올 유닛의 특성을 확실히 알 수 있다는 점은 때로 추가 비용을 낼 만한 가치가 있습니다."
+msgstr "재소집 리스트에서 유닛을 해고할 때는 숙고해야 합니다. 그것이 경험치가 적은 유닛 이더라도."
 
 #. [tip]
 #: data/tips.cfg:225
@@ -4722,7 +4723,7 @@ msgid ""
 "Combining multiple special abilities can be deadly. While it may take some "
 "work to combine, for example, <i>Leadership</i>, <i>Illuminates</i> and "
 "<i>Charge</i> against a slowed opponent, the results can be impressive."
-msgstr "여러 특수 능력을 조합하면 치명적인 결과를 낼 수 있습니다. 예를 들어 둔화된 적에게 <i>통솔</i>, <i>광휘</i>, <i>돌격</i>을 함께 적용하려면 준비가 필요하지만, 효과는 매우 큽니다."
+msgstr "여러 가지 특수 능력이 겹치면 매우 강력하다.예를 들어 <i>통솔</i>, <i>광휘</i>, 그리고 <i>돌격</i>의 효과를 받는 유닛이둔화된 적 유닛을 공격하는 경우다.그 결과는 극적일 것이다."
 
 #. [tip]
 #: data/tips.cfg:233
@@ -4741,7 +4742,7 @@ msgid ""
 "Avoid places where your defenses are poor and your enemy’s are merely "
 "average. Plan for heavy losses, and take firm control of any hex where the "
 "land does favor you."
-msgstr "아군이 지도 어디서나 방어력이 낮다면, 적도 같은 불리함을 겪는 지형을 점령하십시오. 아군 방어력은 낮고 적 방어력은 보통인 곳은 피해야 합니다. 유리한 지형 칸은 확실히 장악하십시오."
+msgstr "만약, 아군 유닛이 지도상의 모든 장소에서 낮은 지형 효과 밖에 얻을 수 없다면,적에게도 같은 불리함을 줄 수 있는 장소를 점령해야 한다.이쪽의 회피율이 낮은데 적의 회피는 평균적인 장소는 피하라.전쟁터에서 유리한 장소를 계속 장악하는 것이다."
 
 #. [tip]
 #: data/tips.cfg:241
@@ -4749,7 +4750,7 @@ msgid ""
 "The recruitment cost of some units may exceed the usual recall expenditure "
 "of 20 gold. In a campaign, always check if recalling a unit of the same type "
 "may be cheaper."
-msgstr "일부 유닛의 소집 비용은 일반적인 재소집 비용인 금화 20보다 높습니다. 캠페인에서는 같은 유형의 유닛을 더 싸게 재소집할 수 없는지 항상 확인하십시오."
+msgstr "일부 유닛의 소집 비용은 다시 소집(20 금화)보다 높은 경우가 있습니다. 캠페인에서 소집할 때에는, 보다 싸게 다시 소집할 수 있는 유닛이 없는지 확인합시다."
 
 #. [tip]
 #: data/tips.cfg:245
@@ -4767,7 +4768,7 @@ msgstr "<i>― 아쉐비에레 여왕, 웨스노스력 503년</i>"
 #. [tip]
 #: data/tips.cfg:249
 msgid "Using lower-level units can be very cost-effective."
-msgstr "저레벨 유닛은 비용 대비 효율이 매우 좋을 수 있습니다."
+msgstr "낮은 수준 유닛은 매우 비용대비 효과가 좋습니다."
 
 #. [tip]
 #: data/tips.cfg:253
@@ -4775,7 +4776,7 @@ msgid ""
 "Some higher-level units have inimitable abilities such as <i>Leadership</i>, "
 "<i>Cures</i>, or <i>Nightstalk</i>. Obtaining those units early can make a "
 "big difference in a campaign."
-msgstr "일부 고레벨 유닛은 <i>통솔</i>, <i>치유</i>, <i>은밀</i>처럼 대체하기 어려운 능력을 지닙니다. 이런 유닛을 캠페인 초반에 확보하면 큰 차이를 만들 수 있습니다."
+msgstr "일부 고급 유닛은 <i>통솔</i>, <i>치유</i>, <i>은밀</i> 등의 특수한 능력을 가지고 있다. 이들 유닛을 캠페인의 초반에 획득할 수 있다면 전황은 크게 달라질 것이다."
 
 #. [tip]
 #: data/tips.cfg:254
@@ -4789,7 +4790,7 @@ msgid ""
 "The cleansing waters of an oasis will heal the injured. The fiery ichor of "
 "the underworld hinders the flightless, while offering illumination in "
 "darkness to those that may fly above it."
-msgstr "오아시스의 맑은 물은 부상자를 치료합니다. 지하 세계의 불타는 이코르는 날지 못하는 유닛의 이동을 방해하지만, 그 위를 날 수 있는 유닛에게는 어둠을 밝히는 빛을 제공합니다."
+msgstr "오아시스의 깨끗한 물은 부상자들을 치료할 것입니다. 저승의 불타는 풍요로움은 날지 못하는 사람들을 방해하고, 그 위를 날 수 있는 사람들에게 어둠 속에서 빛을 제공합니다."
 
 #. [tip]
 #: data/tips.cfg:258
@@ -4817,7 +4818,7 @@ msgid ""
 "Holding down <b>shift</b> will make the animations for moving and fighting "
 "quicker. The <i>acceleration factor</i> can be set, and turned on by "
 "default, in the <i>Preferences</i> menu’s <i>General</i> tab."
-msgstr "<b>Shift</b> 키를 누르고 있으면 이동과 전투 애니메이션이 더 빨라집니다. <i>가속 계수</i>는 <i>환경 설정</i> 메뉴의 <i>일반</i> 탭에서 설정하고 기본으로 켤 수 있습니다."
+msgstr "<b>쉬프트</b> 키를 누르고 있으면 이동 및 전투 애니메이션이 더 빨라집니다. <i>가속 계수</i>는 <i>환경 설정</i> 메뉴의 <i>일반</i> 탭에서 설정하고 켤 수 있습니다."
 
 #. [tip]
 #. Translate "Change difficulty" and "Load Game" as in wesnoth-lib textdomain
@@ -4826,7 +4827,7 @@ msgid ""
 "Did you know that you can change the difficulty level during a campaign? "
 "Select the <i>Change difficulty</i> option at the bottom of the <i>Load "
 "Game</i> screen when loading start-of-scenario save files."
-msgstr "캠페인 도중에도 난이도를 바꿀 수 있습니다. 시나리오 시작 시점의 저장 파일을 불러올 때 <i>게임 불러오기</i> 화면 아래쪽에서 <i>난이도 변경</i>을 선택하십시오."
+msgstr "캠페인 중에 난이도를 변경할 수 있다는 사실을 알고 있었나요? 시나리오 시작하면서  저장 자료를 불러올 때, <i>게임을 불러오기</i> 화면의 아래에 <i>난이도 바꾸기</i>를 선택하십시오."
 
 #. [tip]
 #: data/tips.cfg:275
@@ -4834,7 +4835,7 @@ msgid ""
 "<i>Feral</i> units, such as Bats and wild animals, will avoid villages. Even "
 "if they occupy a village hex, they do not gain any defensive benefits from "
 "the village, although they will still be healed."
-msgstr "박쥐와 야생 동물 같은 <i>야생적</i> 유닛은 마을을 피합니다. 마을 칸을 점령해도 마을의 방어력 이점은 얻지 못하지만, 체력은 회복할 수 있습니다."
+msgstr "박쥐나 동물같은 <i>야생종</i> 유닛은 마을을 좋아하지 않습니다. 만약, 마을을 점령했다고 해도, 야생 유닛의 회피율은 상승하지 않습니다. 하지만 마을에서 회복할 수는 있습니다."
 
 #. TRANSLATORS: In networked games, when one player has the choice
 #. between multiple advancements of a unit, this text is sent to
@@ -5227,7 +5228,7 @@ msgstr[0] "다음의 부가 기능이 완전히 삭제되었습니다:"
 
 #: src/addon/manager_ui.cpp:268
 msgid "An error occurred while downloading the add-ons list from the server."
-msgstr "서버에서 부가 기능 목록을 내려받는 중 오류가 발생했습니다."
+msgstr "서버로부터의 부가 기능 일람 다운로드중에 오류가 발생했습니다."
 
 #: src/addon/manager_ui.cpp:315
 #| msgid "Could not find any updated add-ons on this server."
@@ -5264,7 +5265,7 @@ msgstr "클라이언트에서 제공한 부가 기능 자료가 없습니다."
 #: src/addon/validation.cpp:418
 #| msgid "Invalid location"
 msgid "Invalid upload pack."
-msgstr "업로드 꾸러미가 잘못되었습니다."
+msgstr "업로드 꾸러미가 잘못 되었습니다."
 
 #: src/addon/validation.cpp:422
 #| msgid "Invalid tag name"
@@ -5306,9 +5307,10 @@ msgid ""
 "Names in the same directory may not be differently-cased versions of each "
 "other."
 msgstr ""
-"부가 기능에는 대소문자 충돌이 있는 파일 또는 디렉터리가 포함되어 있습니다.\n"
+"부가 기능에는 대소문자가 차이말고 같은 이름으로 충돌하는 파일 또는 디렉토리가 포함되어 있습니다.\n"
 "\n"
-"같은 디렉터리의 이름은 서로 대소문자만 다른 형태일 수 없습니다."
+"같은 디렉토리에 있는 이름은 서로 대소문자를 다르게 해서 설치해서는 안 됩니다.가 다른 버전이 아닐 수 있습니다.\n"
+"(역자주: 무슨뜻인지 모르겠음)"
 
 #: src/addon/validation.cpp:446
 msgid "The add-on name contains an invalid UTF-8 sequence."
@@ -5382,7 +5384,7 @@ msgstr "서버가 읽기 전용 모드입니다."
 #: src/addon/validation.cpp:520
 #| msgid "You have no add-ons installed."
 msgid "Corrupted server add-ons list."
-msgstr "서버의 부가 기능 목록이 손상되었습니다."
+msgstr "서버의 부가 기능의 목록이 손상되었습니다."
 
 #: src/addon/validation.cpp:524
 msgid "Empty add-on version list on the server."
@@ -5542,7 +5544,7 @@ msgstr "서버에 쿼리를 보냅니다. 인수를 지정하지 않은 경우, 
 msgid ""
 "Ban and kick a player or observer. If he is not in the game but on the "
 "server he will only be banned."
-msgstr "플레이어나 관전자를 차단하고 강퇴합니다. 대상이 게임에는 없고 서버에만 있으면 차단만 합니다."
+msgstr "플레이어 또는 관전자를 밴&킥합니다. 대상이 게임중에는 없고, 서버상에 있는 경우는 밴만 행해집니다."
 
 #: src/chat_command_handler.hpp:79 src/chat_command_handler.hpp:82
 #: src/chat_command_handler.hpp:84 src/chat_command_handler.hpp:86
@@ -5562,11 +5564,11 @@ msgstr "선수 또는 관전자를 킥합니다."
 
 #: src/chat_command_handler.hpp:86
 msgid "Mute an observer. Without an argument displays the mute status."
-msgstr "관전자를 음소거합니다. 인수를 지정하지 않으면 음소거 상태를 표시합니다."
+msgstr "관전자를 음소거합니다. 논의 없이 음소거 상황을 표시합니다."
 
 #: src/chat_command_handler.hpp:88
 msgid "Unmute an observer. Without an argument unmutes everyone."
-msgstr "관전자의 음소거를 해제합니다. 인수를 지정하지 않으면 모두의 음소거를 해제합니다."
+msgstr "관전자의 음소거를 해제합니다. 논의 없이 전원의 음소거를 해제합니다."
 
 #: src/chat_command_handler.hpp:90
 msgid "Mute/Unmute all observers. (toggles)"
@@ -5590,7 +5592,7 @@ msgstr "<메시지>"
 
 #: src/chat_command_handler.hpp:98
 msgid "Send an emotion or personal action in chat."
-msgstr "대화에 감정 표현이나 개인 행동을 보냅니다."
+msgstr "대화으로 감정이나 개인적인 행동을 보냅니다."
 
 #: src/chat_command_handler.hpp:101
 #| msgid ""
@@ -5626,7 +5628,7 @@ msgstr "친구 목록에 대화명을 추가합니다."
 #: src/chat_command_handler.hpp:113
 #| msgid "Added to ignore list: $nick"
 msgid "Remove a nickname from your ignores or friends list."
-msgstr "무시 목록이나 친구 목록에서 대화명을 삭제합니다."
+msgstr "대화명을, 무시 목록 또는 친구 목록에서 삭제합니다."
 
 #: src/chat_command_handler.hpp:115
 msgid "<N>"
@@ -5663,7 +5665,7 @@ msgstr "불분명한 디버깅 도메인: '$domain'."
 
 #: src/chat_events.cpp:79
 msgid "Switched domain: '$domain' to level: '$level'."
-msgstr "도메인 '$domain'의 수준을 '$level'(으)로 변경했습니다."
+msgstr "도메인: '$domain' 을 아래의 수준으로: '$level' 바꿉니다."
 
 #: src/chat_events.cpp:148
 msgid "whisper to $receiver"
@@ -5679,7 +5681,7 @@ msgstr "$elem 은(는) 무기한 폐기되었습니다."
 
 #: src/deprecation.cpp:47
 msgid "$elem has been deprecated and may be removed in version $version."
-msgstr "$elem은 더 이상 사용되지 않으며 버전 $version에서 제거될 수 있습니다."
+msgstr "$elem 은(는) 더 이상 사용되지 않으며 버전 $version 에서 제거 될 수 있습니다."
 
 #: src/deprecation.cpp:49
 msgid "$elem has been deprecated and may be removed at any time."
@@ -5687,7 +5689,7 @@ msgstr "$elem 은(는) 더 이상 사용되지 않으며 언제든지 제거될 
 
 #: src/deprecation.cpp:56
 msgid "$elem has been deprecated and will be removed in version $version."
-msgstr "$elem은 더 이상 사용되지 않으며 버전 $version에서 제거됩니다."
+msgstr "$elem은 더 이상 사용되지 않으며 버전 $version 에서 제거됩니다."
 
 #: src/deprecation.cpp:61
 msgid "$elem has been deprecated and removed."
@@ -5700,7 +5702,7 @@ msgstr "대화 메시지"
 
 #: src/desktop/windows_tray_notification.cpp:126 src/game_config.cpp:568
 msgid "The Battle for Wesnoth"
-msgstr "웨스노스(Wesnoth) 전쟁"
+msgstr "웨스노스 전투"
 
 #: src/font/text_formatting.cpp:52
 msgid "Invalid Color"
@@ -5749,16 +5751,16 @@ msgstr "범위 밖의 잘못된 색상: "
 #: src/game_config_manager.cpp:246 src/game_config_manager.cpp:256
 #: src/game_config_manager.cpp:268
 msgid "Error validating data core."
-msgstr "코어 데이터를 검증하는 중 오류가 발생했습니다."
+msgstr "자료 핵심을 검증하는 중 오류가 발생했습니다."
 
 #: src/game_config_manager.cpp:247
 msgid "Found a core without id attribute."
-msgstr "ID 속성이 없는 코어를 찾았습니다."
+msgstr "ID 속성이 없는 핵심을 검출했습니다."
 
 #: src/game_config_manager.cpp:248 src/game_config_manager.cpp:259
 #: src/game_config_manager.cpp:272
 msgid "Skipping the core."
-msgstr "이 코어를 건너뜁니다."
+msgstr "핵심을 뛰어넘는중입니다."
 
 #: src/game_config_manager.cpp:257 src/game_config_manager.cpp:269
 #: src/game_config_manager.cpp:292
@@ -5776,7 +5778,7 @@ msgstr "핵심 경로: "
 #: src/game_config_manager.cpp:271
 #| msgid "No era information found."
 msgid "File not found."
-msgstr "파일을 찾을 수 없습니다."
+msgstr "파일이 발견되지않습니다."
 
 #: src/game_config_manager.cpp:291 src/game_config_manager.cpp:303
 msgid "Error loading core data."
@@ -5949,7 +5951,7 @@ msgstr "적절한 시나리오가 발견되지 않았습니다."
 msgid ""
 "Not all of the chosen modifications are compatible. Some of them will be "
 "disabled."
-msgstr "선택한 수정 사항이 모두 호환되는 것은 아닙니다. 일부는 비활성화됩니다."
+msgstr "일부 모드에 호환성이 없어요. 몇 개의 모드는 무효가 됩니다."
 
 #: src/game_initialization/depcheck.hpp:309
 #: src/game_initialization/depcheck.hpp:321
@@ -5958,7 +5960,7 @@ msgstr "구성요소"
 
 #: src/game_initialization/flg_manager.cpp:212
 msgid "Only random sides in the current era."
-msgstr "현재 시대에서 무작위 진영만 사용할 수 있습니다."
+msgstr "이 시대는 아무런 편에서만 됩니다."
 
 #: src/game_initialization/flg_manager.cpp:234
 msgid "Unable to find a leader type for faction $faction"
@@ -6039,7 +6041,7 @@ msgstr ""
 msgid ""
 "Your version of <i>$addon</i> is incompatible. You have version "
 "<b>$local_ver</b> while the host has version <b>$host_ver</b>."
-msgstr "현재 사용하는 부가 기능 <i>$addon</i> 버전은 호환되지 않습니다. 현재 버전은 <b>$local_ver</b>이고, 호스트는 <b>$host_ver</b> 버전을 사용하고 있습니다."
+msgstr "당신은 부가 기능 <i>$addon</i> 의 호환성이 없는 버전을 사용하고 있습니다.당신의 버전은 <b>$local_ver</b> 이고, 호스트측의 버전은 <b>$host_ver</b> 입니다."
 
 #: src/game_initialization/mp_game_utils.cpp:78
 msgid "Defeat enemy leader(s)"
@@ -6071,7 +6073,7 @@ msgid ""
 "The nickname ‘$nick’ is inactive. You cannot claim ownership of this "
 "nickname until you activate your account via email or ask an administrator "
 "to do it for you."
-msgstr "대화명 ‘$nick’은(는) 아직 활성화되지 않았습니다. 이메일로 계정을 활성화하거나 관리자에게 요청하기 전까지 이 대화명의 소유권을 주장할 수 없습니다."
+msgstr "대화명 ‘$nick’ 이 아직 유효하지 않았습니다. 이메일로 스스로 계정을 활성화 상태로 만들(또는 관리자에게 부탁한다) 때까지 이 대화명의 소유권을 주장할 수 없습니다."
 
 #: src/game_initialization/multiplayer.cpp:344
 msgid "Do you want to continue?"
@@ -6093,7 +6095,7 @@ msgstr "먼저 로그인하십시오."
 
 #: src/game_initialization/multiplayer.cpp:413
 msgid "The nickname ‘$nick’ is already taken."
-msgstr "대화명 ‘$nick’은(는) 이미 사용 중입니다."
+msgstr "'$nick' 아이디로 접속한 사람이 이미 있습니다."
 
 #: src/game_initialization/multiplayer.cpp:415
 msgid ""
@@ -6103,11 +6105,11 @@ msgstr "대화명 ‘$nick’ 는 사용할 수 없는 문자를 포함하고 �
 
 #: src/game_initialization/multiplayer.cpp:419
 msgid "The nickname ‘$nick’ is too long. Nicks must be 20 characters or less."
-msgstr "대화명 ‘$nick’이(가) 너무 깁니다. 대화명은 20자 이하여야 합니다."
+msgstr "'$nick' 아이디는 너무 깁니다. 아이디는 20자 이하만 가능합니다."
 
 #: src/game_initialization/multiplayer.cpp:421
 msgid "The nickname ‘$nick’ is reserved and cannot be used by players."
-msgstr "대화명 ‘$nick’은(는) 예약되어 있어 플레이어가 사용할 수 없습니다."
+msgstr "대화명 ‘$nick’ 는 예약이 끝난 상태입니다. 다른 플레이어는 사용할 수 없습니다."
 
 #: src/game_initialization/multiplayer.cpp:423
 msgid "The nickname ‘$nick’ is not registered on this server."
@@ -6120,12 +6122,12 @@ msgstr " 이 서버는 미등록 아이디를 허용하지 않습니다."
 #: src/game_initialization/multiplayer.cpp:427
 #| msgid "The nickname ‘$nick’ is registered on this server."
 msgid "The nickname ‘$nick’ is banned on this server’s forums for $duration|."
-msgstr "대화명 ‘$nick’은(는) 이 서버의 포럼에서 $duration| 동안 차단되어 있습니다."
+msgstr "이 서버의 포럼에서는 당신의 대화명 ‘$nick’ 이 $duration| 동안 밴 되어 있습니다."
 
 #: src/game_initialization/multiplayer.cpp:429
 #| msgid "The nickname ‘$nick’ is registered on this server."
 msgid "The nickname ‘$nick’ is banned on this server’s forums."
-msgstr "대화명 ‘$nick’은(는) 이 서버의 포럼에서 차단되어 있습니다."
+msgstr "이 서버의 포럼에서는 당신의 대화명 ‘$nick’ 이 밴 되어 있습니다."
 
 #: src/game_initialization/multiplayer.cpp:433
 #| msgid "The nickname ‘$nick’ is registered on this server."
@@ -6223,11 +6225,11 @@ msgstr "불러오려는 파일이 손상되었습니다: '"
 
 #: src/game_launcher.cpp:741
 msgid "File I/O Error while reading the game"
-msgstr "게임 읽기 중 파일 I/오(O) 오(O)류"
+msgstr "게임 읽기 중 파일 I/O 오류"
 
 #: src/game_launcher.cpp:743
 msgid "File I/O Error while reading the game: '"
-msgstr "게임 읽기 중 파일 입/출력 오(O)류: '"
+msgstr "게임 읽기 중 파일 입/출력 오류: '"
 
 #: src/game_launcher.cpp:922
 msgid "Error while starting server: "
@@ -6498,7 +6500,7 @@ msgstr "소집"
 #: src/help/help_impl.cpp:790 src/units/types.cpp:487
 #| msgid "No objectives available"
 msgid "No description available."
-msgstr "설명이 없습니다."
+msgstr "가능한 목표 없습니다."
 
 #: src/help/help_impl.cpp:900 src/help/help_impl.cpp:1107
 msgid "race^Miscellaneous"
@@ -6559,11 +6561,11 @@ msgstr "(사용하지 않으려면 $hk 키를 누르십시오)"
 
 #: src/hotkey/hotkey_handler.cpp:237
 msgid "Accelerated speed enabled!"
-msgstr "속도 가속이 활성화되었습니다!"
+msgstr "속도 가속 활성화되었습니다!"
 
 #: src/hotkey/hotkey_handler.cpp:241
 msgid "Accelerated speed disabled!"
-msgstr "속도 가속이 비활성화되었습니다!"
+msgstr "속도 가속 비활성화되었습니다!"
 
 #: src/hotkey/hotkey_handler.cpp:441
 msgid "Back to Start"
@@ -6590,7 +6592,7 @@ msgstr "(비활성화 하려면 $hotkey 키를 누르십시오)"
 
 #: src/hotkey/hotkey_handler_sp.cpp:151 src/menu_events.cpp:2096
 msgid "Planning mode activated!"
-msgstr "계획 모드가 활성화되었습니다!"
+msgstr "계획 모드 활성화되었습니다!"
 
 #: src/hotkey/hotkey_handler_sp.cpp:153 src/menu_events.cpp:2099
 msgid "Planning mode deactivated!"
@@ -6668,7 +6670,7 @@ msgstr "오류:"
 msgid ""
 "Available commands list and command-specific help. Use \"help all\" to "
 "include currently unavailable commands."
-msgstr "사용 가능한 명령 목록과 특정 명령의 도움말을 표시합니다. 현재 사용할 수 없는 명령까지 보려면 \"help all\"을 사용하십시오."
+msgstr "사용 가능한 명령어 목록 혹은 특정 명령어에 대한 도움말을 보여줍니다. 현재 사용할 수 없는 명령어까지 포함해서 보려면 \"help all\" 을 쓰십시오."
 
 #. TRANSLATORS: These are the arguments accepted by the "help" command,
 #. which are either "all" or the name of another command.
@@ -6680,7 +6682,7 @@ msgid ""
 "(provides more detail)"
 msgstr ""
 "[all|<command>]\n"
-"“all” = 모든 명령의 개요, <command> = 특정 명령의 이름(자세한 정보 표시)"
+"“all” = 모든 명령의 개요, <command> = 특정 명령의 이름은 더 자세한 정보를 제공합니다"
 
 #: src/map_command_handler.hpp:302
 msgid "Missing argument $arg_id"
@@ -6701,12 +6703,12 @@ msgstr "도움말"
 
 #: src/map_command_handler.hpp:356
 msgid "Type $help_command <command> for more info."
-msgstr "자세한 내용을 보려면 $help_command <command>를 입력하십시오."
+msgstr "자세한 내용을 보려면 $help_command <명령어> 를 입력하십시오."
 
 #: src/map_command_handler.hpp:372
 #| msgid "No objectives available"
 msgid " No help available."
-msgstr " 사용할 수 있는 도움말이 없습니다."
+msgstr " 이용가능한 도움말이 없습니다."
 
 #: src/map_command_handler.hpp:379 src/map_command_handler.hpp:382
 msgid "Usage:"
@@ -6816,11 +6818,11 @@ msgstr "재소집한 유닛이 없습니다."
 #| msgid_plural "You must have at least $cost gold pieces to recall a unit"
 msgid "You must have at least 1 gold piece to recall a unit."
 msgid_plural "You must have at least $cost gold pieces to recall this unit."
-msgstr[0] "다시 소집을 하려면 최소 $cost 개의 금화가 필요합니다"
+msgstr[0] "이 유닛을 다시 소집하려면 금화 $cost개 이상이 필요합니다."
 
 #: src/menu_events.cpp:576
 msgid "You cannot end your turn yet!"
-msgstr "아직 차례를 끝낼 수 없습니다!"
+msgstr "너는 아직 네 차례를 끝낼 수 없어!"
 
 #: src/menu_events.cpp:591
 msgid ""
@@ -6829,7 +6831,7 @@ msgstr "아직 아무런 행동도 하지 않았습니다. 정말로 차례를 �
 
 #: src/menu_events.cpp:600
 msgid "Some units have movement left. Do you really want to end your turn?"
-msgstr "이동력이 남은 유닛이 있습니다. 정말로 차례를 끝내시겠습니까?"
+msgstr "행동하지 않은 부대가 남아 있다. 정말로 차례를 끝내시겠습니까?"
 
 #: src/menu_events.cpp:609
 #| msgid ""
@@ -6853,7 +6855,7 @@ msgstr "딱지를 지움"
 #: src/menu_events.cpp:844
 #| msgid "Are you sure you want to remove the add-on '$addon|'?"
 msgid "Are you sure you want to clear map labels?"
-msgstr "지도 표식을 모두 지우시겠습니까?"
+msgstr "지도의 딱지를 모두 지우시겠습니까?"
 
 #: src/menu_events.cpp:1046
 msgid "Search"
@@ -6877,7 +6879,7 @@ msgstr "(다른 이벤트 중이 아닌 경우)"
 
 #: src/menu_events.cpp:1226
 msgid "Refresh gui."
-msgstr "GUI를 새로 고칩니다."
+msgstr "gui 를 새로고침합니다."
 
 #: src/menu_events.cpp:1227
 msgid "Switch a side to/from AI control."
@@ -6906,7 +6908,7 @@ msgstr "<terrain type> [both|base|overlay]"
 
 #: src/menu_events.cpp:1235
 msgid "Switch a side to/from idle state."
-msgstr "진영의 대기 상태를 전환합니다."
+msgstr "진영의 대기 상태를 전환하겠습니다."
 
 #. TRANSLATORS: These are the arguments accepted by the "idle" command,
 #. which must be a side-number and then optionally "on" or "off".
@@ -6914,7 +6916,7 @@ msgstr "진영의 대기 상태를 전환합니다."
 #: src/menu_events.cpp:1239
 #| msgid "command_idle^[<side> [on/off]]"
 msgid "command_idle^[<side> [on/off]]"
-msgstr "[<편> [on/off]]"
+msgstr "command_idle^[<편> [on/off]]"
 
 #: src/menu_events.cpp:1240
 msgid "Change the in-game theme."
@@ -6930,7 +6932,7 @@ msgstr "진영의 조작권을 다른 플레이어 또는 관전자에게 할당
 
 #: src/menu_events.cpp:1243
 msgid "Query the controller status of a side."
-msgstr "진영의 조종 상태를 조회합니다."
+msgstr "진영의 컨트롤러 상태를 문의합니다."
 
 #: src/menu_events.cpp:1244
 msgid "<side>"
@@ -6991,7 +6993,7 @@ msgstr "다음 시나리오 선택"
 msgid ""
 "Change turn number (and time of day), or increase by one if no number is "
 "specified."
-msgstr "차례 수와 시간대를 변경합니다. 값을 지정하지 않으면 한 차례 늘립니다."
+msgstr "차례 수(그리고 게임내 시각)를 바꿉니다. 만약 값이 지정되지 않는다면 한차례씩 진행합니다."
 
 #: src/menu_events.cpp:1266
 msgid "[turn]"
@@ -7001,7 +7003,7 @@ msgstr "[차례]"
 msgid ""
 "Change turn limit, or turn the turn limit off if no number is specified or "
 "it’s −1."
-msgstr "차례 제한을 변경합니다. 값을 지정하지 않거나 −1을 지정하면 차례 제한을 해제합니다."
+msgstr "차례 제한을 변경합니다. 만약 차례 수를 지정되지 않았거나 -1이 지정되어 있다면 차례 제한을 해제합니다."
 
 #: src/menu_events.cpp:1269
 msgid "[limit]"
@@ -7009,11 +7011,11 @@ msgstr "[제한]"
 
 #: src/menu_events.cpp:1271
 msgid "Turn debug mode on."
-msgstr "디버그 모드를 활성화합니다."
+msgstr "디버깅 모드를 활성화 합니다."
 
 #: src/menu_events.cpp:1272
 msgid "Turn debug mode off."
-msgstr "디버그 모드를 비활성화합니다."
+msgstr "디버깅 모드를 비활성화 합니다."
 
 #: src/menu_events.cpp:1274 src/menu_events.cpp:1278
 msgid "<command>[;<command>...]"
@@ -7033,7 +7035,7 @@ msgstr "사용자 지정 명령 단축키로 호출하는 명령 설정"
 
 #: src/menu_events.cpp:1280
 msgid "Invoke a dialog allowing changing control of MP sides."
-msgstr "멀티플레이 게임에서 진영의 조종을 변경하는 대화 상자를 엽니다."
+msgstr "멀티 플레이어 게임에서, 진영을 변경하기 위한 다이얼로그를 기동합니다."
 
 #: src/menu_events.cpp:1281
 msgid "Launch the gamestate inspector"
@@ -7069,11 +7071,11 @@ msgstr "시나리오 변수를 표시합니다."
 msgid ""
 "Modify a unit variable. (Only top level keys are supported, and "
 "advances=<number>.)"
-msgstr "유닛 변수를 수정합니다. (최상위 키만 지원되며 advances=<number>만 사용할 수 있습니다.)"
+msgstr "유닛 변수를 수정합니다. (최상위 키만 지원되며 고급 =번호입니다.)"
 
 #: src/menu_events.cpp:1296
 msgid "Discover all units in help."
-msgstr "도움말의 모든 유닛을 발견한 상태로 표시합니다."
+msgstr "도움말의 모든 유닛을 발견으로 합니다."
 
 #: src/menu_events.cpp:1297
 msgid "'Undiscover' all units in help."
@@ -7089,11 +7091,11 @@ msgstr "유닛을 생성합니다."
 
 #: src/menu_events.cpp:1299
 msgid "Toggle fog for the current player."
-msgstr "현재 플레이어의 안개를 전환합니다."
+msgstr "현재의 플레이어의 안개를 바꿉니다."
 
 #: src/menu_events.cpp:1300
 msgid "Toggle shroud for the current player."
-msgstr "현재 플레이어의 장막을 전환합니다."
+msgstr "현재의 플레이어의 장막을 바꿉니다."
 
 #: src/menu_events.cpp:1301
 msgid "<amount>"
@@ -7101,7 +7103,7 @@ msgstr "<양>"
 
 #: src/menu_events.cpp:1301
 msgid "Give gold to the current player."
-msgstr "현재 플레이어에게 금화를 줍니다."
+msgstr "현재의 플레이어에 금화를 줍니다."
 
 #: src/menu_events.cpp:1302
 #| msgid "<nickname>"
@@ -7244,9 +7246,9 @@ msgid ""
 "\n"
 "Do not continue unless you really know what you are doing."
 msgstr ""
-"이 방식으로 Lua 코드를 실행하면 악의적인 부가 기능이나 설치된 다른 프로그램으로 인해 컴퓨터가 보안 위험에 노출될 수 있습니다.\n"
+"루아 코드를 이 방법으로 실행하면, 위험한 부가 기능이나 다른 프로그램에 대한 잠재적인 보안 리스크가 생깁니다.\n"
 "\n"
-"무엇을 하는지 확실히 알지 못한다면 계속하지 마십시오."
+"지금부터 하고자 하는 것의 의미를 이해하고 있지 않으면, 속행하지 말아 주세요."
 
 #: src/menu_events.cpp:1903
 msgid "Unsafe mode enabled!"
@@ -7343,7 +7345,7 @@ msgstr "차례가 진행되었습니다"
 msgid ""
 "An error occurred when downloading the file. Check the game logs for more "
 "information."
-msgstr "파일을 내려받는 중 오류가 발생했습니다. 자세한 내용은 게임 로그를 확인하십시오."
+msgstr "파일을 내려받기하는 동안 오류가 발생했습니다. 자세한 내용은 게임 수행 기록을 확인하십시오."
 
 #: src/network_download_file.cpp:68 src/network_download_file.cpp:83
 #: src/network_download_file.cpp:91
@@ -7367,7 +7369,7 @@ msgstr "내려받기 완료"
 #: src/network_download_file.cpp:85
 #| msgid "The game has been saved"
 msgid "The file has been downloaded."
-msgstr "파일을 내려받았습니다."
+msgstr "파일을 내려받기하였습니다."
 
 #: src/pathfind/pathfind.cpp:754
 msgid "Terrain with a movement cost less than 1 encountered."
@@ -7396,7 +7398,7 @@ msgstr "손상된 파일을 만들고 있으니, 이 버그를 보고하여 주�
 msgid ""
 "The game is out of sync. It might not make much sense to continue. Do you "
 "want to save your game?"
-msgstr "게임 동기화가 맞지 않습니다. 계속해도 의미가 없을 수 있습니다. 게임을 저장하시겠습니까?"
+msgstr "이 게임은 동기화 되지 않아서, 속행 불능이라고 생각됩니다. 이 게임을 저장하시겠습니까?"
 
 #: src/play_controller.cpp:1052
 msgid "Error details:"
@@ -7423,7 +7425,9 @@ msgid ""
 msgid_plural ""
 "Please report the following missing scenarios to the campaign’s author:\n"
 "$unknown_list|"
-msgstr[0] "다음 누락된 시나리오를 캠페인 제작자에게 알려 주십시오:\n$unknown_list|"
+msgstr[0] ""
+"캠페인 작성자에게 다음 누락 시나리오를 신고하십시오:\n"
+"$unknown_list|"
 
 #: src/play_controller.cpp:1248
 msgid "Once this is fixed, you will need to restart this scenario."
@@ -7479,7 +7483,7 @@ msgid ""
 "This side is in an idle state. To proceed with the game, it must be assigned "
 "to another controller. You may use :droid, :control or :give_control for "
 "example."
-msgstr "이 진영은 대기 상태입니다. 게임을 계속하려면 다른 조종자를 할당해야 합니다. 예를 들어 :droid, :control, :give_control 명령을 사용할 수 있습니다."
+msgstr "이 진영은 대기 상태에 있습니다. 게임을 계속하려면 다른 컨트롤러를 할당할 필요가 있습니다. :droid, :control, :give_control 중 어느 하나를 사용하면 좋을 것입니다."
 
 #: src/playsingle_controller.cpp:192
 #| msgid "Game Over"
@@ -7534,7 +7538,7 @@ msgstr "저장하고 게임 나가기"
 msgid ""
 "$player who controlled side $side_drop has left the game. What do you want "
 "to do?"
-msgstr "진영 $side_drop을(를) 조종하던 $player이(가) 게임을 떠났습니다. 어떻게 하시겠습니까?"
+msgstr "$side_drop 편을 조작하고 있던 $player가 게임에서 나갔습니다. 어떻게 하겠습니까?"
 
 #: src/quit_confirmation.cpp:55
 msgid "Quit"
@@ -7585,7 +7589,7 @@ msgstr "둔화: "
 msgid ""
 "This unit has been slowed. It will only deal half its normal damage when "
 "attacking and its movement cost is doubled."
-msgstr "이 유닛은 둔화되었습니다. 공격할 때 기본 피해의 절반만 입히며, 이동 비용은 두 배가 됩니다."
+msgstr "이 유닛은 둔화되었습니다. 공격시 기본 데미지의 절반만을 입히게 되며 이동력 소모가 2배가 됩니다."
 
 #: src/reports.cpp:350
 msgid "poisoned: "
@@ -7600,9 +7604,9 @@ msgid ""
 "Units cannot be killed by poison alone. The poison will not reduce it below "
 "1 HP."
 msgstr ""
-"이 유닛은 중독되었습니다. 마을에서 차례를 시작하거나 치유 능력이 있는 아군 또는 동맹 유닛 곁에서 차례를 시작해 해독될 때까지 매 차례 체력(HP) 8을 잃습니다.\n"
+"이 유닛은 중독되었습니다. 마을에 머무르거나 해독 능력을 가진 아군/동맹 유닛 근처에서 해독할 때까지 차례당 체력(HP) 8을 잃게 됩니다.\n"
 "\n"
-"독으로는 체력(HP)이 1 아래로 내려가지 않으므로 독 피해만으로 사망하지는 않습니다."
+"독 피해로 체력(HP)은 1까지만 감소합니다. 독 피해만으로는 사망하지는 않습니다."
 
 #: src/reports.cpp:354
 msgid "petrified: "
@@ -7827,7 +7831,7 @@ msgstr "군대를 모집하고 유지하기 위해 현재 사용할 수 있는 �
 
 #: src/reports.cpp:1482
 msgid "The fraction of known villages that your side has captured."
-msgstr "알려진 마을 가운데 이 진영이 점령한 마을의 비율입니다."
+msgstr "당신 세력의 마을이 점령당했습니다."
 
 #: src/reports.cpp:1482
 msgid "Villages"
@@ -7857,13 +7861,13 @@ msgstr "유지비"
 #: src/reports.cpp:1534
 #| msgid "Income"
 msgid "Net Income"
-msgstr "순수입"
+msgstr "넷?? 수입"
 
 #: src/reports.cpp:1534
 msgid ""
 "The net amount of gold you gain or lose each turn, taking into account "
 "income from controlled villages and payment of upkeep."
-msgstr "점령한 마을의 수입과 유지비를 반영해 매 차례 얻거나 잃는 순금화입니다."
+msgstr "통제된 마을의 수입과 유지비를 고려하여 매 차례마다 얻거나 잃는 순 금(돈)의 양."
 
 #: src/reports.cpp:1734
 msgid "Observers:"
@@ -7879,7 +7883,7 @@ msgstr "배터리"
 
 #: src/reports.cpp:1796
 msgid "Countdown until your turn automatically ends."
-msgstr "차례가 자동으로 끝날 때까지 남은 시간입니다."
+msgstr "당신의 차례가 자동으로 끝날 때까지 초읽기를 합니다."
 
 #: src/reports.cpp:1796
 msgid "Turn Countdown"
@@ -7917,7 +7921,7 @@ msgstr ""
 msgid ""
 "This save is from an old, unsupported version ($version_number|) and cannot "
 "be loaded."
-msgstr "이 세이브 파일은 오래되어 지원되지 않는 버전($version_number|)에서 만들어졌으므로 불러올 수 없습니다."
+msgstr "이 세이브 파일은 지원되지 않는 오래된 버전($version_number|)에서 만들어져 불러올 수 없습니다."
 
 #: src/savegame.cpp:259
 msgid ""
@@ -7950,12 +7954,12 @@ msgstr "게임을 불러오기"
 #: src/savegame.cpp:319
 #| msgid "Factions are only used in multiplayer"
 msgid "Replays are not supported in multiplayer mode."
-msgstr "멀티플레이에서는 다시 보기를 지원하지 않습니다."
+msgstr "리플레이는 멀티플레이에서 지원안합니다."
 
 #: src/savegame.cpp:326
 #| msgid "Multiplayer"
 msgid "This is not a multiplayer save."
-msgstr "이 저장 파일은 멀티플레이 게임의 저장 파일이 아닙니다."
+msgstr "멀티 플레이어 게임의 저장한 데이터가 아닙니다."
 
 #: src/savegame.cpp:360
 msgid "The game could not be saved: "
@@ -8054,7 +8058,7 @@ msgstr "예기치 못한 닫힌 꼬리표"
 
 #: src/serialization/parser.cpp:271
 msgid "Found invalid closing tag [/$tag2] for tag [$tag1]"
-msgstr "[$tag1] 태그에 잘못된 닫는 태그 [/$tag2]가 발견되었습니다"
+msgstr "[$tag1] 태그에 잘못된 닫기 태그 [/$tag2]"
 
 #: src/serialization/parser.cpp:273
 #| msgid "Close"
@@ -8220,7 +8224,7 @@ msgstr "아군 마을"
 
 #: src/theme.cpp:315
 msgid "border_size should be between 0.0 and 0.5."
-msgstr "border_size는 0.0에서 0.5 사이여야 합니다."
+msgstr "경계 크기는 0.0 ~ 0.5 사이 이어야 합니다."
 
 #: src/theme.cpp:566 src/theme.cpp:571
 msgid "Hotkey(s): "
@@ -8233,7 +8237,7 @@ msgstr "시간대"
 
 #: src/time_of_day.cpp:45
 msgid "This Time of Day is only a Stub!"
-msgstr "이 시간대는 임시 항목일 뿐입니다!"
+msgstr "이 시간은 단지 일부분일 뿐이다!"
 
 #: src/units/abilities.cpp:1077
 #| msgid "slowed: "
@@ -8384,7 +8388,7 @@ msgstr "$attack_list|： $effect_description"
 #: src/units/unit.cpp:2032
 #| msgid "per turn"
 msgid "<span color=\"$color\">$number_or_percent</span> HP"
-msgstr "<span color=\"$color\">$number_or_percent</span> 체력(HP)"
+msgstr "<span color=\"$color\">$number_or_percent</span> 체력"
 
 #: src/units/unit.cpp:2042
 #| msgid "per turn"
@@ -8405,7 +8409,7 @@ msgstr "<span color=\"$color\">$number_or_percent</span> 방해"
 #: src/units/unit.cpp:2057
 #| msgid "per turn"
 msgid "<span color=\"$color\">$number_or_percent</span> XP to advance"
-msgstr "<span color=\"$color\">$number_or_percent</span> 수준 향상에 필요한 경험치(XP)"
+msgstr "<span color=\"$color\">$number_or_percent</span> 수준 향상에 필요한 경험치"
 
 #: src/units/unit.cpp:2061
 #| msgid "per turn"
@@ -8426,29 +8430,29 @@ msgstr "수준에 따른 $effect_description"
 #. TRANSLATORS: "Before Wesnoth"   - format for years prior to the founding of Wesnoth
 #: src/utils/irdya_datetime.cpp:62
 msgid "$year BW"
-msgstr "$year BW"
+msgstr "웨스노스 건국 전 $year년"
 
 #. TRANSLATORS: "Year of Wesnoth"  - format for years after the founding of Wesnoth
 #: src/utils/irdya_datetime.cpp:65
 msgid "$year YW"
-msgstr "웨스노스력 $year 년"
+msgstr "웨스노스력 $year년"
 
 #. TRANSLATORS: "Before the Fall" -  format for years prior to the fall of Wesnoth
 #: src/utils/irdya_datetime.cpp:68
 msgid "$year BF"
-msgstr "$year BF"
+msgstr "웨스노스 몰락 전 $year년"
 
 #. TRANSLATORS: "After the Fall"   - format for years after the fall of Wesnoth
 #: src/utils/irdya_datetime.cpp:71
 msgid "$year AF"
-msgstr "$year AF"
+msgstr "웨스노스 몰락 후 $year년"
 
 #: src/wesnoth.cpp:805
 msgid ""
 "Unable to create log files in directory $logdir. This is often caused by "
 "incorrect folder permissions, anti-virus software restricting folder access, "
 "or using OneDrive to manage your My Documents folder."
-msgstr "$logdir 디렉토리에 로그 파일을 만들 수 없습니다. 이 문제는 잘못된 폴더 권한, 백신 소프트웨어로 인한 폴더 접근 제한, 또는 OneDrive로 내 문서 폴더를 관리할 때 발생하는 경우가 많습니다."
+msgstr "$logdir 디렉토리에 로그 파일을 만들 수 없습니다. 이 문제는 잘못된 폴더 권한, 백신 소프트웨어로 인한 폴더 접근이 제한, 원드라이브를 사용하여 내 문서 폴더를 관리하는 경우에 발생합니다."
 
 #: src/wesnoth.cpp:806
 #| msgid "Logging"
@@ -8458,7 +8462,7 @@ msgstr "로그 출력 실패"
 #: src/wesnothd_connection.cpp:549
 #| msgid "Connect to Server"
 msgid "Disconnected from server."
-msgstr "서버와의 연결이 끊겼습니다."
+msgstr "서버와 접속 끊겼습니다."
 
 #: src/whiteboard/manager.cpp:1121
 msgid "SHOW ALL allies’ plans"

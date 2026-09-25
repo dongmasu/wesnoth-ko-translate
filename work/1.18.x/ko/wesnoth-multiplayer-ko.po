@@ -187,7 +187,7 @@ msgstr "영웅 시대의 여섯 진영에 진영 하나를 추가한 시대입�
 msgid ""
 "<span strikethrough='true' foreground='$side_color'>Side $side_number</"
 "span>:  Has lost all units"
-msgstr "<span strikethrough='true' foreground='$side_color'>$side_number번 진영</span>: 모든 유닛을 잃었습니다"
+msgstr "<span strikethrough='true' foreground='$side_color'>$side_number번 진영</span>: 모든 유닛을 잃음"
 
 #. [lua]: res.show_turns_over_advantage
 #. In the end-of-match summary, any side that still has units left
@@ -383,7 +383,7 @@ msgid ""
 "break free of its bonds. Until that time comes, she will continue to amuse "
 "herself by arranging battles between the mortal beings unlucky enough to be "
 "drawn into its depths. Designed by Doc Paterson."
-msgstr "오랜 옛날, 대마법사 술라(Sulla)는 혼돈의 힘을 가진 신비한 에너지의 중심부인 천공의 구멍에 봉인되었다. 하지만, 술라(Sulla)는 수백년이 지나는 동안 점점 그녀의 힘을 바로 그 천공의 구멍 속 혼돈의 폭풍에 맞추어 갔으며, 이제는 그 영향력을 물질 세계에, 수백개의 다른 세계와 현실과 시간대에 있는 영토들에 행사하기 위한 작업을 시작했다. 그녀는 우주의 서로 다른 조각들을 조종하고, 합치고, 천공의 구멍과 원래의 장소로 왔다갔다 보내는 실험을 한다. 어쩌면 그녀 술라(Sulla)가 천공의 구멍을 다루는 데 점점 통달해 가게 되면 언젠가는 그 구속을 풀고 자유를 찾을지도 모른다. 그 순간이 오기까지는, 그녀는 언제까지고 이 심연 속에 떨어진 불운한 필멸자들을 싸움붙이면서 재미를 만끽할 것이다. Doc Paterson 작품."
+msgstr "오랜 옛날, 대마법사 술라(Sulla)는 혼돈의 힘을 가진 신비한 에너지의 중심부인 천공의 구멍에 봉인되었다. 하지만, 술라(Sulla)는 수백 년이 지나는 동안 점점 그녀의 힘을 바로 그 천공의 구멍 속 혼돈의 폭풍에 맞추어 갔으며, 이제는 그 영향력을 물질 세계에, 수백개의 다른 세계와 현실과 시간대에 있는 영토들에 행사하기 위한 작업을 시작했다. 그녀는 우주의 서로 다른 조각들을 조종하고, 합치고, 천공의 구멍과 원래의 장소로 왔다갔다 보내는 실험을 한다. 어쩌면 그녀 술라(Sulla)가 천공의 구멍을 다루는 데 점점 통달해 가게 되면 언젠가는 그 구속을 풀고 자유를 찾을지도 모른다. 그 순간이 오기까지는, 그녀는 언제까지고 이 심연 속에 떨어진 불운한 필멸자들을 싸움붙이면서 재미를 만끽할 것이다. Doc Paterson 작품."
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Aethermaw.cfg:22
@@ -659,7 +659,7 @@ msgid ""
 "back to the domain of the Rysssrylosszkk Clan. Exhausted, and not having "
 "traveled far from the lake, Xikkrisx set the statue down inside of a small "
 "cave, and lay down to rest. He was awoken by a bone-chilling roar."
-msgstr "Syrsszk 출신의 시크리스(Xikkrisx)는 강력한 사우리안 전사로, Rysssrylosszkk 씨족의 장로들이 이 지역으로 보냈습니다. 씨족 이름은 ‘끓는 강에서 적을 사냥하는 씨족’이라는 뜻입니다. 장로들은 인간 전초기지를 상대로 전쟁을 준비하고 있었고, 마지막으로 Ruaskkolin 호수 방향으로 향하는 모습이 목격된 사우리안 신비술사 옥스르스크(Oxsrrsk)의 강력한 마법이 절실히 필요했습니다. 시크리스(Xikkrisx)는 석화된 옥스르스크(Oxsrrsk)의 몸과, 동굴 바닥의 작은 틈에 떨어진 것으로 보이는 단단히 묶인 두루마리를 발견했습니다. 그는 두루마리를 펼쳐 가운데 부분의 짧은 구절을 읽었습니다. ‘상계에서 결박되어 쫓겨난 뒤, Chak’kso의 분노한 영혼은 해방을 원했고 상계의 일부 지역에 타락의 영향을 끼칠 수 있었다. 그 영향은 지표에서 지하 깊은 곳까지 이어지는 “돌의 길”을 통해 흘러들었다. 이 분노는 거대한 도마뱀의 알을 바꾸어 몸과 영혼을 Chak’kso의 증오를 실현하는 도구로 만들었다.’ 혼란스러웠지만 시크리스(Xikkrisx)는 눈앞의 임무에 집중했습니다. 장로들이 옥스르스크(Oxsrrsk)를 되살릴 방법을 찾을지도 모른다고 생각한 그는 조각상을 Rysssrylosszkk 씨족의 영역으로 운반하는 길고 고된 일을 시작했습니다. 호수에서 멀리 이동하지도 못한 채 지친 시크리스(Xikkrisx)는 작은 동굴 안에 조각상을 내려놓고 쉬기 위해 누웠습니다. 그리고 뼛속까지 얼어붙는 포효에 잠에서 깨어났습니다."
+msgstr "시르스즈크(Syrsszk) 출신의 시크리스(Xikkrisx)는 강력한 사우리안 전사로, 리스릴레로즈크(Rysssrylosszkk) 씨족의 장로들이 이 지역으로 보냈습니다. 씨족 이름은 ‘끓는 강에서 적을 사냥하는 씨족’이라는 뜻입니다. 장로들은 인간 전초기지를 상대로 전쟁을 준비하고 있었고, 마지막으로 라스코쿠린(Ruaskkolin) 호수 방향으로 향하는 모습이 목격된 사우리안 신비술사 옥스르스크(Oxsrrsk)의 강력한 마법이 절실히 필요했습니다. 시크리스(Xikkrisx)는 석화된 옥스르스크(Oxsrrsk)의 몸과, 동굴 바닥의 작은 틈에 떨어진 것으로 보이는 단단히 묶인 두루마리를 발견했습니다. 그는 두루마리를 펼쳐 가운데 부분의 짧은 구절을 읽었습니다. ‘상계에서 결박되어 쫓겨난 뒤, 차크소(Chak’kso)의 분노한 영혼은 해방을 원했고 상계의 일부 지역에 타락의 영향을 끼칠 수 있었다. 그 영향은 지표에서 지하 깊은 곳까지 이어지는 “돌의 길”을 통해 흘러들었다. 이 분노는 거대한 도마뱀의 알을 바꾸어 몸과 영혼을 차크소(Chak’kso)의 증오를 실현하는 도구로 만들었다.’ 혼란스러웠지만 시크리스(Xikkrisx)는 눈앞의 임무에 집중했습니다. 장로들이 옥스르스크(Oxsrrsk)를 되살릴 방법을 찾을지도 모른다고 생각한 그는 조각상을 리스릴레로즈크(Rysssrylosszkk) 씨족의 영역으로 운반하는 길고 고된 일을 시작했습니다. 호수에서 멀리 이동하지도 못한 채 지친 시크리스(Xikkrisx)는 작은 동굴 안에 조각상을 내려놓고 쉬기 위해 누웠습니다. 그리고 뼛속까지 얼어붙는 포효에 잠에서 깨어났습니다."
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:125
@@ -688,7 +688,7 @@ msgid ""
 "or “The Eldest Child,” in the modern tongue. Supremely convinced of his "
 "ability to locate and bind this powerful creature into his service, Oxsrrsk "
 "set out on his journey..."
-msgstr "옥스르스크(Oxsrrsk)는 강력한 사우리안 예언자였습니다. 그는 경쟁 관계인 크락스 씨족을 습격하던 중, 지금은 죽은 예언자 헤스-르자크의 보물 창고에서 매우 흥미로운 두루마리를 손에 넣었습니다. 그 두루마리의 제목은 ‘화강암 시선의 네이익스’였으며, ‘차크소 네이익스’라는 생물에 관한 이야기를 담고 있었습니다. 고대 사우리안어로 이 이름은 ‘차크소의 맏이’라는 뜻이었습니다. 차크소는 지하 세계의 강력한 반신으로 여겨졌으며, 엘프의 역사서에서는 ‘대지의 위대한 악마’로 묘사됩니다. 이 기록에 따르면 차크소는 한때 행성의 모든 생명을 돌로 바꾸려 했습니다. 살을 가진 생물을 그토록 증오했기 때문입니다. 결국 그는 강력한 마법에 패배해 결박되었지만, 세상 표면에서 아주 깊은 곳의 영역으로 추방된 뒤 수 세기가 지나자 역사서에 새로운 생물 종이 등장하기 시작했습니다. 어떤 살의 생물이든 돌로 바꿀 수 있는 종족이었습니다. 이 바실리스크들이라고 알려진 생물들이 산 자들의 세계를 휩쓸며 수천 명을 돌로 만들던 시기도 있었습니다. 바실리스크들은 하나씩, 큰 희생을 치르며 쓰러졌습니다. 현대의 언어로 ‘네이익스’ 또는 ‘맏이’라 불리는 바실리스크 하나를 제외하고는 모두 말입니다. 옥스르스크(Oxsrrsk)는 이 강력한 생물을 찾아 자신의 수하로 묶을 수 있다고 굳게 믿으며 길을 떠났습니다..."
+msgstr "옥스르스크(Oxsrrsk)는 강력한 사우리안 예언자였습니다. 그는 경쟁 관계인 크락스 씨족을 습격하던 중, 지금은 죽은 예언자 헤스-르자크의 보물 창고에서 매우 흥미로운 두루마리를 손에 넣었습니다. 그 두루마리의 제목은 ‘화강암 시선의 네이익스’였으며, ‘차크소(Chak’kso) 네이익스’라는 생물에 관한 이야기를 담고 있었습니다. 고대 사우리안어로 이 이름은 ‘차크소(Chak’kso)의 맏이’라는 뜻이었습니다. 차크소(Chak’kso)는 지하 세계의 강력한 반신으로 여겨졌으며, 엘프의 역사서에서는 ‘대지의 위대한 악마’로 묘사됩니다. 이 기록에 따르면 차크소(Chak’kso)는 한때 행성의 모든 생명을 돌로 바꾸려 했습니다. 살을 가진 생물을 그토록 증오했기 때문입니다. 결국 그는 강력한 마법에 패배해 결박되었지만, 세상 표면에서 아주 깊은 곳의 영역으로 추방된 뒤 수 세기가 지나자 역사서에 새로운 생물 종이 등장하기 시작했습니다. 어떤 살의 생물이든 돌로 바꿀 수 있는 종족이었습니다. 이 바실리스크들이라고 알려진 생물들이 산 자들의 세계를 휩쓸며 수천 명을 돌로 만들던 시기도 있었습니다. 바실리스크들은 하나씩, 큰 희생을 치르며 쓰러졌습니다. 현대의 언어로 ‘네이익스’ 또는 ‘맏이’라 불리는 바실리스크 하나를 제외하고는 모두 말입니다. 옥스르스크(Oxsrrsk)는 이 강력한 생물을 찾아 자신의 수하로 묶을 수 있다고 굳게 믿으며 길을 떠났습니다..."
 
 #. [unit]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:134
@@ -752,7 +752,7 @@ msgid ""
 "innocent, Rah Ihn Mar came to Ruaskkolin Lake to hunt down and slay "
 "Terowydlithrol, who had been seen entering the region but a day ago. Burning "
 "for vengeance, Rah Ihn Mar began the hunt..."
-msgstr "불타는 언덕의 투사 라 이흔 마르(Rah Ihn Mar)는 엘프의 영웅 테로위들리트롤을 쫓아 루아스콜린 호수 지역으로 향했습니다. 엘프들에게 ‘용살자’로 알려진 테로위들리트롤은 엘프 마을을 위협하던 불의 용을 죽인 뒤 ‘반격’을 시작했고, 인근 협곡에 야영하며 용과 동맹이라고 여겨졌던 반룡 37마리를 학살했다고 전해집니다. 라 이흔 마르(Rah Ihn Mar)는 이 반룡들이 무고하다는 사실을 알고, 불과 하루 전에 이 지역에 들어온 것이 목격된 테로위들리트롤을 추적해 죽이기 위해 루아스콜린 호수로 왔습니다. 복수심에 불타며 라 이흔 마르(Rah Ihn Mar)는 사냥을 시작했습니다..."
+msgstr "불타는 언덕의 투사 라 이흔 마르(Rah Ihn Mar)는 엘프의 영웅 테로위들리트롤(Terowydlithrol)을 쫓아 루아스콜린 호수 지역으로 향했습니다. 엘프들에게 ‘용살자’로 알려진 테로위들리트롤(Terowydlithrol)은 엘프 마을을 위협하던 불의 용을 죽인 뒤 ‘반격’을 시작했고, 인근 협곡에 야영하며 용과 동맹이라고 여겨졌던 반룡 37마리를 학살했다고 전해집니다. 라 이흔 마르(Rah Ihn Mar)는 이 반룡들이 무고하다는 사실을 알고, 불과 하루 전에 이 지역에 들어온 것이 목격된 테로위들리트롤(Terowydlithrol)을 추적해 죽이기 위해 루아스콜린 호수로 왔습니다. 복수심에 불타며 라 이흔 마르(Rah Ihn Mar)는 사냥을 시작했습니다..."
 
 #. [side]
 #: data/multiplayer/scenarios/2p_Caves_of_the_Basilisk.cfg:162
@@ -904,7 +904,7 @@ msgid ""
 "enough, in possession of all of his teeth.\n"
 "(inscribed by Paterson)"
 msgstr ""
-"나가(Naga) 사이에서 릴혼(Rilhon)으로 알려진 이 용감한 전사는 이 물속 동굴 어딘가에 잃어버린 엄청난 보물에 관한 이야기를 들었습니다. 그 보물은 오래전 엘프 영웅 엘로랄두일이 죽인 고대 바실리스크, 차크소 네이익스의 이빨로 창끝을 만들었다는 창이었습니다. 전설에 따르면 그 무기는 바로 이 호수의 바닥 어딘가에 잠들어 있었습니다. 이 호수는 자신의 집으로 삼았던 유명한 바다뱀의 이름을 따 루아스콜린 호수라 불립니다. 뱀과 싸울 준비를 마친 릴혼(Rilhon)은 꽤 큰 두 가지 놀라움을 마주했습니다. 첫 번째는 뱀 루아스콜린의 석화된 모습이었습니다. 두 번째는 놀랍게도 이빨을 하나도 잃지 않은 채 아주 멀쩡히 살아 있는 차크소 네이익스였습니다.\n"
+"나가(Naga) 사이에서 릴혼(Rilhon)으로 알려진 이 용감한 전사는 이 물속 동굴 어딘가에 잃어버린 엄청난 보물에 관한 이야기를 들었습니다. 그 보물은 오래전 엘프 영웅 엘로랄두일이 죽인 고대 바실리스크, 차크소(Chak’kso) 네이익스의 이빨로 창끝을 만들었다는 창이었습니다. 전설에 따르면 그 무기는 바로 이 호수의 바닥 어딘가에 잠들어 있었습니다. 이 호수는 자신의 집으로 삼았던 유명한 바다뱀의 이름을 따 루아스콜린 호수라 불립니다. 뱀과 싸울 준비를 마친 릴혼(Rilhon)은 꽤 큰 두 가지 놀라움을 마주했습니다. 첫 번째는 뱀 루아스콜린의 석화된 모습이었습니다. 두 번째는 놀랍게도 이빨을 하나도 잃지 않은 채 아주 멀쩡히 살아 있는 차크소(Chak’kso) 네이익스였습니다.\n"
 "(패터슨이 새김)"
 
 #. [unit]
@@ -943,7 +943,7 @@ msgid ""
 "prosperity — making it the target of countless raids and attacks. The "
 "rigorous discipline and organization of Wesnoth’s armies are in no small "
 "part driven by a constant need to patrol and defend these prosperous lands."
-msgstr "대하의 강변은 알려진 세계에서 가장 비옥한 땅을 이루고 있습니다. 봄과 여름에는 강줄기 전체에 홍수가 일어나 토양을 기름지게 하고, 가을마다 풍성한 수확을 안겨 줍니다. 웨스노스(Wesnoth) 왕국은 이 땅을 부와 번영의 원천으로 삼았고, 그 때문에 셀 수 없이 많은 약탈과 공격의 표적이 되었습니다. 웨스노스(Wesnoth) 군대의 엄격한 규율과 조직력은 이 풍요로운 땅을 끊임없이 순찰하고 지켜야 할 필요에서 비롯된 바가 큽니다."
+msgstr "위대한 강의 강변은 알려진 세계에서 가장 비옥한 땅을 이루고 있습니다. 봄과 여름에는 강줄기 전체에 홍수가 일어나 토양을 기름지게 하고, 가을마다 풍성한 수확을 안겨 줍니다. 웨스노스(Wesnoth) 왕국은 이 땅을 부와 번영의 원천으로 삼았고, 그 때문에 셀 수 없이 많은 약탈과 공격의 표적이 되었습니다. 웨스노스(Wesnoth) 군대의 엄격한 규율과 조직력은 이 풍요로운 땅을 끊임없이 순찰하고 지켜야 할 필요에서 비롯된 바가 큽니다."
 
 #. [multiplayer]: id=multiplayer_Cynsaun_Battlefield
 #: data/multiplayer/scenarios/2p_Cynsaun_Battlefield.cfg:6
@@ -955,7 +955,7 @@ msgstr "2인 — 신사운(Cynsaun) 전장"
 msgid ""
 "Cynsaun Province was named for Warrior-Queen Cynsaun the First, who drove "
 "the necromancers from these lands in 961 YW."
-msgstr "신사운 주는 웨스노스력 961년에 이 땅에서 강령술사들을 몰아낸 전사 여왕 신사운 1세의 이름을 따서 지어졌습니다."
+msgstr "신사운(Cynsaun) 주는 웨스노스력 961년에 이 땅에서 강령술사들을 몰아낸 전사 여왕 신사운(Cynsaun) 1세의 이름을 따서 지어졌습니다."
 
 #. [multiplayer]: id=multiplayer_2p_Dark_Forecast
 #: data/multiplayer/scenarios/2p_Dark_Forecast.cfg:5
@@ -1163,7 +1163,7 @@ msgid ""
 "without a trace. Since that time, many factions have vied for dominion over "
 "the Den of Onis, hoping to unlock the strange and mysterious magics of its "
 "creators."
-msgstr "이 기묘한 동굴은 한때 웃는 악마의 방으로 알려졌으며, 카 루크 오니의 내성 요새였습니다. 카 루크는 사악하고 교활한 식인 악마 종족으로, 흔적도 없이 이르디아에서 사라지기 전까지 거의 400년 동안 동부 땅의 사람들을 공포에 떨게 했습니다. 그 후 많은 진영이 오니의 소굴을 지배하려 다투며, 그 창조자들이 남긴 기이하고 신비로운 마법을 풀어내려 했습니다."
+msgstr "이 기묘한 동굴은 한때 웃는 악마의 방으로 알려졌으며, 카 루크 오니(Onis)의 내성 요새였습니다. 카 루크는 사악하고 교활한 식인 악마 종족으로, 흔적도 없이 이르디아에서 사라지기 전까지 거의 400년 동안 동부 땅의 사람들을 공포에 떨게 했습니다. 그 후 많은 진영이 오니(Onis)의 소굴을 지배하려 다투며, 그 창조자들이 남긴 기이하고 신비로운 마법을 풀어내려 했습니다."
 
 #. [multiplayer]: id=multiplayer_elensefar_courtyard
 #: data/multiplayer/scenarios/2p_Elensefar_Courtyard.cfg:5
@@ -1185,7 +1185,7 @@ msgstr "지하"
 #. [multiplayer]: id=multiplayer_Fallenstar_Lake
 #: data/multiplayer/scenarios/2p_Fallenstar_Lake.cfg:7
 msgid "2p — Fallenstar Lake"
-msgstr "2인 — 낙성호(Fallenstar Lake)"
+msgstr "2인 — 유성호수"
 
 #. [multiplayer]: id=multiplayer_Fallenstar_Lake
 #: data/multiplayer/scenarios/2p_Fallenstar_Lake.cfg:8
@@ -1249,7 +1249,7 @@ msgstr "큰 아기(Bo) 보"
 #. [unit]: type=Drake Fighter
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:103
 msgid "Rawffus the Dim"
-msgstr "어리숙한(Rawffus) 라우푸스"
+msgstr "어리숙한 라우푸스(Rawffus)"
 
 #. [unit]: type=Dwarvish Scout
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:151
@@ -1302,7 +1302,7 @@ msgstr "큰 아기 드로(Dro)"
 #. [unit]: type=Drake Fighter
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:521
 msgid "Gawffus the Dim"
-msgstr "어리숙한(Gawffus) 가우푸스"
+msgstr "어리숙한 가우푸스(Gawffus)"
 
 #. [unit]: type=Dwarvish Scout
 #: data/multiplayer/scenarios/2p_Hornshark_Island.cfg:569
@@ -1463,7 +1463,7 @@ msgid ""
 "island seem to lift. The phantoms fade away, at last released from their "
 "eternal guardianship. You have finally cleansed the ancient shrine... for "
 "now."
-msgstr "마침내 남은 적을 모두 물리치자 섬 주변을 뒤덮던 음울한 안개가 걷히는 듯합니다. 유령들은 영원한 수호의 의무에서 마침내 풀려나 사라집니다. 당신은 마침내 고대의 신전을 정화했습니다... 당분간은 말입니다."
+msgstr "마침내 마지막 적들을 물리치자 섬 주변의 음울한 안개가 걷히는 듯합니다. 유령들은 영원한 수호 임무에서 마침내 풀려나 사라집니다. 당신은 드디어 고대의 신전을 정화했습니다... 일단은 말입니다."
 
 #. [lua]: weather_map
 #: data/multiplayer/scenarios/2p_Isle_of_Mists.lua:518
@@ -1515,7 +1515,7 @@ msgstr "숨겨진 동굴과 들쭉날쭉한 강이 있는 이 조각난 해안 �
 #. [multiplayer]: id=multiplayer_Silverhead_Crossing
 #: data/multiplayer/scenarios/2p_Silverhead_Crossing.cfg:5
 msgid "2p — Silverhead Crossing"
-msgstr "2인 — 실버헤드(Silverhead) 나루"
+msgstr "2인 — 실버헤드(Silverhead) 건널목"
 
 #. [multiplayer]: id=multiplayer_Silverhead_Crossing
 #: data/multiplayer/scenarios/2p_Silverhead_Crossing.cfg:6
@@ -1553,7 +1553,7 @@ msgstr "돌로 만든 조각상입니다."
 #. [multiplayer]: id=multiplayer_Sullas_Ruins
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:43
 msgid "2p — Sulla’s Ruins"
-msgstr "2인 — 술라(Sulla)의 유적"
+msgstr "2인 — 술라(Sulla)의 폐허"
 
 #. [multiplayer]: id=multiplayer_Sullas_Ruins
 #: data/multiplayer/scenarios/2p_Sullas_Ruins.cfg:44
@@ -1634,12 +1634,12 @@ msgid ""
 "between elves and dwarves. Despite poor land and limited resources, its "
 "great strategic value means it is fiercely contested by all with military "
 "aims in the Great Continent’s heart."
-msgstr "대하 북쪽에는 사악한 마법에 저주받은 광활하고 척박한 늪지, 공포의 늪이 있습니다. 거의 확실한 덫과 죽음을 피할 수 있는 길은 얼마 되지 않습니다. 그럼에도 남부 평야와 험준한 북부를 잇는 수익성 높은 길로 큰 관심을 받으며, 용감한 탐험가들은 교역소를 세울 만한 수익성 있는 장소를 찾아 위험한 늪을 가로지릅니다. 그중 가장 큰 길인 아레스 협곡은 엘프와 드워프 사이의 고대 전쟁이 시작된 이래 오랫동안 분쟁의 대상이었던 유명한 통로입니다. 척박한 땅과 부족한 자원에도 불구하고 전략적 가치가 매우 높아 대륙 중심부에서 군사적 목적을 가진 모든 세력이 치열하게 다투고 있습니다."
+msgstr "위대한 강 북쪽에는 사악한 마법에 저주받은 광활하고 척박한 늪지, 공포의 늪이 있습니다. 거의 확실한 덫과 죽음을 피할 수 있는 길은 얼마 되지 않습니다. 그럼에도 남부 평야와 험준한 북부를 잇는 수익성 높은 길로 큰 관심을 받으며, 용감한 탐험가들은 교역소를 세울 만한 수익성 있는 장소를 찾아 위험한 늪을 가로지릅니다. 그중 가장 큰 길인 아레스 협곡은 엘프와 드워프 사이의 고대 전쟁이 시작된 이래 오랫동안 분쟁의 대상이었던 유명한 통로입니다. 척박한 땅과 부족한 자원에도 불구하고 전략적 가치가 매우 높아 대륙 중심부에서 군사적 목적을 가진 모든 세력이 치열하게 다투고 있습니다."
 
 #. [multiplayer]: id=multiplayer_The_Freelands
 #: data/multiplayer/scenarios/2p_The_Freelands.cfg:6
 msgid "2p — The Freelands"
-msgstr "2인 — 자유령"
+msgstr "2인 — 자유령(The Freelands)"
 
 #. [multiplayer]: id=multiplayer_The_Freelands
 #: data/multiplayer/scenarios/2p_The_Freelands.cfg:8
@@ -1676,7 +1676,7 @@ msgstr "오크 무리가 대륙에 떼 지어 몰려오기 시작했을 때, 아
 #. [multiplayer]: id=multiplayer_thousand_stings_garrison
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:45
 msgid "2p — Thousand Stings Garrison"
-msgstr "2인 — 천 번의 독침 수비대"
+msgstr "2인 — 천침(Thousand Stings) 주둔지"
 
 #. [multiplayer]: id=multiplayer_thousand_stings_garrison
 #: data/multiplayer/scenarios/2p_Thousand_Stings_Garrison.cfg:47
@@ -1799,7 +1799,7 @@ msgstr "이 중요한 보급로는 웨스노스(Wesnoth)의 수많은 위대한 
 #. [multiplayer]: id=multiplayer_Alirok_Marsh
 #: data/multiplayer/scenarios/3p_Alirok_Marsh.cfg:5
 msgid "3p — Alirok Marsh"
-msgstr "3인 — 알이록(Alirok) 늪"
+msgstr "3인 — 알리록(Alirok) 늪지"
 
 #. [multiplayer]: id=multiplayer_Alirok_Marsh
 #. [multiplayer]: id=multiplayer_Island_of_the_Horatii
@@ -1881,7 +1881,7 @@ msgstr "멀리 떨어진 전설의 도시 말리사트는 수많은 위대한 �
 #. [multiplayer]: id=multiplayer_Blue_Water_Province
 #: data/multiplayer/scenarios/4p_Blue_Water_Province.cfg:5
 msgid "4p — Blue Water Province"
-msgstr "4인 — 블루워터(Bluewater) 주"
+msgstr "4인 — 푸른물(Blue Water) 주"
 
 #. [multiplayer]: id=multiplayer_Blue_Water_Province
 #: data/multiplayer/scenarios/4p_Blue_Water_Province.cfg:7
@@ -1923,7 +1923,7 @@ msgstr "2팀"
 #. [multiplayer]: id=multiplayer_Castle_Hopping_Isle
 #: data/multiplayer/scenarios/4p_Castle_Hopping_Isle.cfg:5
 msgid "4p — Castle Hopping Isle"
-msgstr "4인 — 성 건너뛰기 섬"
+msgstr "4인 — 성을 넘나드는 섬"
 
 #. [multiplayer]: id=multiplayer_Castle_Hopping_Isle
 #: data/multiplayer/scenarios/4p_Castle_Hopping_Isle.cfg:7
@@ -2206,7 +2206,7 @@ msgstr "교전로가 5개로 나뉜 2 대 2 지도입니다. 동쪽 팀과 서�
 #. [multiplayer]: id=multiplayer_Ruins_of_Terra-Dwelve
 #: data/multiplayer/scenarios/4p_Ruins_of_Terra-Dwelve.cfg:6
 msgid "4p — Ruins of Terra-Dwelve"
-msgstr "4인 — 테라-드웰브(Terra-Dwelve)의 유적"
+msgstr "4인 — 테라-드웰브(Terra-Dwelve) 유적"
 
 #. [multiplayer]: id=multiplayer_Ruins_of_Terra-Dwelve
 #: data/multiplayer/scenarios/4p_Ruins_of_Terra-Dwelve.cfg:7
@@ -2482,7 +2482,7 @@ msgid ""
 "confusing area of terrain where it is easy to end up out of position or over "
 "extended. Teams set for players 145 vs. 236 (east vs. west). Designed for "
 "100 starting gold, has 33 villages."
-msgstr "3 대 3 지도입니다. 만지반의 함정은 어렵고 혼란스러운 지형으로 널리 알려져 있어 위치를 잘못 잡거나 지나치게 진출하기 쉽습니다. 1·4·5번 플레이어 대 2·3·6번 플레이어(동쪽 대 서쪽)로 팀이 설정됩니다. 초기 자금 100금화와 마을 33개를 기준으로 설계되었습니다."
+msgstr "3 대 3 지도입니다. 만지반(Manzivan)의 함정은 어렵고 혼란스러운 지형으로 널리 알려져 있어 위치를 잘못 잡거나 지나치게 진출하기 쉽습니다. 1·4·5번 플레이어 대 2·3·6번 플레이어(동쪽 대 서쪽)로 팀이 설정됩니다. 초기 자금 100금화와 마을 33개를 기준으로 설계되었습니다."
 
 #. [multiplayer]: id=multiplayer_Volcano
 #: data/multiplayer/scenarios/6p_Volcano.cfg:7
@@ -2520,7 +2520,7 @@ msgstr "8인 — 모케나(Mokena) 초원"
 msgid ""
 "Inspired from Morituri, this 8 player map creates an epic battle scene that "
 "requires two teams to coordinate on both offense and defense."
-msgstr "모리투리에서 영감을 얻은 8인용 지도입니다. 두 팀이 공격과 방어 모두에서 협력해야 하는 장대한 전투가 펼쳐집니다."
+msgstr "모리투리(Morituri)에서 영감을 얻은 8인용 지도입니다. 두 팀이 공격과 방어 모두에서 협력해야 하는 장대한 전투가 펼쳐집니다."
 
 #. [multiplayer]: id=multiplayer_8p_Morituri
 #: data/multiplayer/scenarios/8p_Morituri.cfg:5
@@ -2537,7 +2537,7 @@ msgstr "여덟 군대가 끝까지 싸우는 이 독특한 전장에서 팀워�
 #. [multiplayer]: id=multiplayer_Merkwuerdigliebe
 #: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:7
 msgid "9p — Merkwuerdigliebe"
-msgstr "9인 — 메르크뷔르디히리베(Merkwuerdigliebe)"
+msgstr "9인 — 메르크뷔르디글리베(Merkwuerdigliebe)"
 
 #. [multiplayer]: id=multiplayer_Merkwuerdigliebe
 #: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:9
@@ -2575,7 +2575,7 @@ msgid ""
 "A random map with sand as the primary terrain. Note: random maps are often "
 "unbalanced, but if you have time, you can regenerate them until you get a "
 "good one."
-msgstr "주로 모래 지형으로 된 무작위 맵. 참고: 무작위 맵들은 보통 밸런스가 맞지 않으나 시간이 충분하다면 좋은 맵을 얻을때까지 계속 재생성할 수 있습니다."
+msgstr "주로 모래 지형으로 된 무작위 맵입니다. 참고: 무작위 맵은 보통 균형이 맞지 않지만, 시간이 충분하다면 좋은 맵을 얻을 때까지 계속 다시 생성할 수 있습니다."
 
 #. [scenario]: id=multiplayer_Random_Map_Marsh
 #. [multiplayer]: id=multiplayer_Random_Map_Marsh
@@ -2590,7 +2590,7 @@ msgid ""
 "A random map with swamp as the primary terrain. Note: random maps are often "
 "unbalanced, but if you have time, you can regenerate them until you get a "
 "good one."
-msgstr "늪지대가 주요 지형인 무작위 맵. 참고: 무작위 맵들은 보통 밸런스가 맞지 않으나 시간이 충분하다면 좋은 맵을 얻을때까지 계속 재생성할 수 있습니다."
+msgstr "늪지대가 주요 지형인 무작위 맵입니다. 참고: 무작위 맵은 보통 균형이 맞지 않지만, 시간이 충분하다면 좋은 맵을 얻을 때까지 계속 다시 생성할 수 있습니다."
 
 #. [scenario]: id=multiplayer_Random_Map_Winter
 #. [multiplayer]: id=multiplayer_Random_Map_Winter
@@ -2605,7 +2605,7 @@ msgid ""
 "A random map set in the break between spring and winter, mainly with snowy "
 "terrains. Note: random maps are often unbalanced, but if you have time, you "
 "can regenerate them until you get a good one."
-msgstr "봄과 겨울 사이의 경계점에 맞춰진 무작위 맵으로, 주로 눈 덮인 지형으로 구성됩니다. 참고: 무작위 맵들은 보통 밸런스가 맞지 않으나 시간이 충분하다면 좋은 맵을 얻을때까지 계속 재생성할 수 있습니다."
+msgstr "봄과 겨울 사이의 경계에 맞춰진 무작위 맵으로, 주로 눈 덮인 지형으로 구성됩니다. 참고: 무작위 맵은 보통 균형이 맞지 않지만, 시간이 충분하다면 좋은 맵을 얻을 때까지 계속 다시 생성할 수 있습니다."
 
 #. [multiplayer]: id=multiplayer_test_Elevation_Demo
 #: data/multiplayer/scenarios/Test_Elevation_Test.cfg:5

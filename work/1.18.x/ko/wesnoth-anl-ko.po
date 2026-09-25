@@ -66,7 +66,7 @@ msgstr "적"
 #. [side]: type=Death Knight
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:148
 msgid "Mal Sevu"
-msgstr "말(Mal) 세부"
+msgstr "말 세부(Mal Sevu)"
 
 #. [side]: type=Orcish Sovereign
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:181
@@ -81,7 +81,7 @@ msgstr "그레그(Greg)"
 #. [side]: type=Death Knight
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:247
 msgid "Mal Shiki"
-msgstr "말(Mal) 쉬키"
+msgstr "말 쉬키(Mal Shiki)"
 
 #. [side]
 #: data/multiplayer/scenarios/4p_A_New_Land.cfg:275
@@ -231,7 +231,7 @@ msgstr "마법사"
 msgid ""
 "Mages are your wise men. They can study at universities, pursuing advances "
 "in mining, farming and recruitment."
-msgstr "마법사들은 당신을 따르는 현자들입니다. 그들은 대학에서 연구를 통해 광업, 농업 효율을 증진시키거나 새로운 소집가능 부대를 연구할 수 있습니다."
+msgstr "마법사들은 당신을 따르는 현자들입니다. 그들은 대학에서 연구를 통해 광업, 농업 효율을 증진시키거나 새로운 소집 가능한 부대를 연구할 수 있습니다."
 
 #. [message]: speaker=narrator
 #. [option]
@@ -290,7 +290,7 @@ msgid ""
 "your turn, Mages in universities automatically add to the study progress of "
 "your chosen research target. Right-click on a mage in a university to change "
 "research target."
-msgstr "모든 '엘프'식의 마을은 대학을 상징합니다. 턴이 시작할때마다 대학에 있는 마법사들은 자동으로 당신이 선택한 목표 연구를 진전시킵니다. 대학에 있는 마법사를 오른쪽 클릭해서 목표 연구를 바꿀 수 있습니다."
+msgstr "모든 '엘프'식의 마을은 대학을 상징합니다. 턴이 시작할 때마다 대학에 있는 마법사들은 자동으로 당신이 선택한 목표 연구를 진전시킵니다. 대학에 있는 마법사를 오른쪽 클릭해서 목표 연구를 바꿀 수 있습니다."
 
 #. [message]: speaker=narrator
 #. [option]
@@ -482,7 +482,7 @@ msgstr "우리의 대화는 끝났소 - 엘프들이 당신의 전투를 도울 
 #. Part of the scenario objectives
 #: data/multiplayer/scenarios/ANL_utils/ANL_objectives.cfg:5
 msgid "In this scenario you build up an economy"
-msgstr "이 시나리오에서는 경제를 발전시켜야 합니다."
+msgstr "이 시나리오에서는 경제를 구축하십시오"
 
 #. Part of the scenario objectives
 #: data/multiplayer/scenarios/ANL_utils/ANL_objectives.cfg:9
@@ -819,7 +819,7 @@ msgstr "비용: 7원"
 #. [option]: description=<span size='small'>
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:581
 msgid "Clear the Ground"
-msgstr "지면 정리"
+msgstr "땅을 청소한다"
 
 #~ msgid "Right-click on your leader during your turn for help"
 #~ msgstr "당신의 턴이 왔을때 지도자를 오른쪽 클릭해서 도움말을 보세요"

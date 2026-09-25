@@ -97,7 +97,7 @@ msgstr "삽화 및 그래픽 설계"
 #. [scenario]: id=01_Born_to_the_Banner
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:5
 msgid "Born to the Banner"
-msgstr "기수로 태어난 자"
+msgstr "군기 아래 태어난 자"
 
 #. [side]: id=Deoran
 #. [side]: type=Horseman Commander, id=Deoran
@@ -138,7 +138,7 @@ msgstr "남부 경비대"
 #. [side]: type=Bandit, id=Urza Mathin
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:58
 msgid "Urza Mathin"
-msgstr "우르자(Urza) 마틴"
+msgstr "우르자 마틴(Urza Mathin)"
 
 #. [side]: type=Bandit, id=Urza Mathin
 #. [side]: type=Outlaw, id=Urza Nalmath
@@ -166,7 +166,7 @@ msgstr "강변 진지를 조사한다"
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:125
 msgid "Defeat Urza Mathin"
-msgstr "우르자(Urza) 마틴을 무찔러라"
+msgstr "우르자 마틴(Urza Mathin)을 무찔러라"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:129
@@ -195,7 +195,7 @@ msgstr "게릭(Gerrick) 경의 사망"
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:173
 msgid "Upon arrival, Deoran found the land completely overrun by bandits."
-msgstr "도착한 데오란(Deoran)은 그 땅이 산적들에게 완전히 점령당한 것을 발견했습니다."
+msgstr "데오란(Deoran)은 도착하자마자 그 땅이 산적들에게 완전히 점령당한 것을 발견했습니다."
 
 #. [unit]: id=Moreth
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:187
@@ -260,8 +260,8 @@ msgid ""
 "Whenever you see a target that looks like this, you should move your leader "
 "(or whatever unit the dialog just suggested) onto the hex that contains it."
 msgstr ""
-"이렇게 보이는 목표물이 보이면, 당신의 지휘관 (또는 대화에서 언급하는 유닛)를 "
-"표시된 칸으로 옮기십시오."
+"이런 목표물이 보이면, 지휘관(또는 대화에서 언급된 유닛)을 표시된 칸으로 "
+"옮기십시오."
 
 #. [message]: speaker=Urza Mathin
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:235
@@ -277,7 +277,7 @@ msgstr "하! 새 사령관이라더니 고작 애송이잖아. 우리를 막으�
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:257
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:792
 msgid "Sir Gerrick"
-msgstr "게르릭(Gerrick) 경"
+msgstr "게릭(Gerrick) 경"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:269
@@ -320,7 +320,7 @@ msgid ""
 "As a senior infantry officer, Sir Gerrick is both a powerful warrior and "
 "capable leader, raising the fighting spirit of less experienced troops near "
 "him and causing their attacks to deal more damage."
-msgstr "고위 보병 장교인 게릭(Gerrick) 경은 강력한 전사이자 유능한 지도자입니다. 곁에 있는 경험 부족한 병사들의 투지를 북돋우고, 그들의 공격이 더 큰 피해를 주게 합니다."
+msgstr "고위 보병 장교인 게릭(Gerrick) 경은 강력한 전사이자 유능한 지도자입니다. 곁에 있는 경험이 부족한 병사들의 투지를 북돋우고, 그들의 공격이 더 큰 피해를 주게 합니다."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:302
@@ -329,12 +329,12 @@ msgid ""
 "them die, you will lose the scenario, so guard them carefully!"
 msgstr ""
 "<i>영웅</i> 마크를 단 유닛은 캠페인 진행에 필수적입니다. 그들 중 하나라도 죽"
-"으면 시나리오에서 패배하게 되니, 그들을 신경써서 보호하세요!"
+"으면 시나리오에서 패배하게 되니, 그들을 신경 써서 보호하세요!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:327
 msgid "Head back to the encampment where you started and recruit some troops!"
-msgstr "시작 지점인 기지로 돌아가서 병력을 소집하세요!"
+msgstr "시작 지점인 야영지로 돌아가서 병력을 모집하세요!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:380
@@ -344,7 +344,7 @@ msgstr "시작 지점인 기지로 돌아가서 병력을 소집하세요!"
 msgid ""
 "While you are in your camp, you can recruit more units. Build an army to use "
 "against the bandits that Urza Mathin recruits."
-msgstr "야영지에 있는 동안 더 많은 유닛을 모집할 수 있습니다. 우르자(Urza) 마틴이 모집하는 산적에 맞설 군대를 만드세요."
+msgstr "야영지에 있는 동안 더 많은 유닛을 모집할 수 있습니다. 우르자 마틴(Urza Mathin)이 모집하는 산적에 맞설 군대를 만드세요."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:386
@@ -377,8 +377,8 @@ msgid ""
 "that you will encounter. For now, concentrate on creating a small corps of "
 "experienced Bowmen."
 msgstr ""
-"좋은 군단을 만들려면 당신이 만나는 다양한 적들과 맞설 수 있는 유닛들의 혼합"
-"을 만들어야 합니다. 일단은 숙련된 소규모 궁병단을 만드는데 주력합시다."
+"최고의 군대는 마주칠 다양한 적에 맞설 수 있도록 여러 유닛을 조합해야 합니다. "
+"지금은 숙련된 궁병으로 소규모 부대를 만드는 데 집중하세요."
 
 #. [unit]: type=Merman Warrior, type=Merman Warrior, type=Merman Fighter, id=Myssh
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:421
@@ -450,7 +450,7 @@ msgid ""
 "bonus during the day and a penalty at night. Urza Mathin’s units are all "
 "<i>chaotic</i>, which means that they receive a bonus at night and a penalty "
 "during the day. You will be much more effective fighting during the day."
-msgstr "당신의 모든 유닛은 <i>주행성</i>입니다. 낮에는 전투 보너스를 받고 밤에는 불이익을 받는다는 뜻입니다. 우르자(Urza) 마틴의 유닛은 모두 <i>야행성</i>이므로 밤에는 보너스를 받고 낮에는 불이익을 받습니다. 낮에 싸우면 훨씬 효과적으로 전투할 수 있습니다."
+msgstr "당신의 모든 유닛은 <i>주행성</i>입니다. 낮에는 전투 보너스를 받고 밤에는 불이익을 받는다는 뜻입니다. 우르자 마틴(Urza Mathin)의 유닛은 모두 <i>야행성</i>이므로 밤에는 보너스를 받고 낮에는 불이익을 받습니다. 낮에 싸우면 훨씬 효과적으로 전투할 수 있습니다."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:511
@@ -478,7 +478,7 @@ msgid ""
 "During the day, your units will deal more damage and the bandits will deal "
 "less. The more of Urza Mathin’s troops you can defeat during the day, the "
 "better."
-msgstr "낮에는 당신의 유닛이 더 큰 피해를 주고 산적들은 더 적은 피해를 줍니다. 낮 동안 우르자(Urza) 마틴의 병력을 많이 물리칠수록 좋습니다."
+msgstr "낮에는 당신의 유닛이 더 큰 피해를 주고 산적들은 더 적은 피해를 줍니다. 낮 동안 우르자 마틴(Urza Mathin)의 병력을 많이 물리칠수록 좋습니다."
 
 #. [unit]: type=Longbowman, id=Aleron
 #. [unit]: type=Peasant, id=Aleron
@@ -587,7 +587,7 @@ msgid ""
 "Remember, your job is to defeat Urza Mathin. He should be your main target. "
 "Archers will be especially effective against him because he has no ranged "
 "attack."
-msgstr "기억하세요. 당신의 임무는 우르자(Urza) 마틴을 물리치는 것입니다. 그를 주요 목표로 삼아야 합니다. 그는 원거리 공격이 없으므로 궁병이 특히 효과적입니다."
+msgstr "기억하세요. 당신의 임무는 우르자 마틴(Urza Mathin)을 물리치는 것입니다. 그를 주요 목표로 삼아야 합니다. 그는 원거리 공격이 없으므로 궁병이 특히 효과적입니다."
 
 #. [message]: speaker=Urza Mathin
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:696
@@ -618,7 +618,7 @@ msgstr "약탈과 강탈의 나날도 끝났구나! 형제들이여, 내 복수�
 msgid ""
 "Urza Mathin is dead! Congratulations, commander, though I am surprised that "
 "the King sent only you to help us. Did Sir Loris not send word of our plight?"
-msgstr "우르자(Urza) 마틴이 죽었다! 축하하네, 사령관. 국왕이 자네만 보내 우리를 돕게 했다는 것은 의외군. 로리스(Loris) 경은 우리의 곤경을 알리지 않았던 건가?"
+msgstr "우르자 마틴(Urza Mathin)이 죽었다! 축하하네, 사령관. 국왕이 자네만 보내 우리를 돕게 했다는 것은 의외군. 로리스(Loris) 경은 우리의 곤경을 알리지 않았던 건가?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:747
@@ -643,7 +643,7 @@ msgid ""
 "inexperience I may have. At least, we must pray that my being here is enough "
 "to remedy these harrowing circumstances. How long have you been fighting "
 "against these bandits anyway?"
-msgstr "나는 최고의 스승들에게 훈련받았고, 그 덕분에 부족한 경험을 어느 정도 보완할 수 있을지도 모릅니다. 적어도 제가 여기에 온 것만으로도 이 끔찍한 상황을 바로잡을 수 있기를 기도해야 겠지요. 그런데 이 산적들과 얼마나 오래 싸워 오셨습니까?"
+msgstr "나는 최고의 스승들에게 훈련받았고, 그 덕분에 부족한 경험을 어느 정도 보완할 수 있을지도 모릅니다. 적어도 제가 여기에 온 것만으로도 이 끔찍한 상황을 바로잡을 수 있기를 기도해야겠지요. 그런데 이 산적들과 얼마나 오래 싸워 오셨습니까?"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:762
@@ -683,7 +683,7 @@ msgstr "웨스틴(Westin)"
 #. [side]: type=Outlaw, id=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:62
 msgid "Urza Nalmath"
-msgstr "우르자(Urza) 날마트"
+msgstr "우르자 날마트(Urza Nalmath)"
 
 #. [side]: type=Outlaw, id=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:99
@@ -713,7 +713,7 @@ msgstr "데오란(Deoran)을 웨스틴(Westin) 요새로 이동시킨다"
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:176
 #| msgid "Kill Urza Nalmath, the bandit leader"
 msgid "Defeat Urza Nalmath, the bandit leader"
-msgstr "도적 우두머리 우르자(Urza) 날마스를 물리치세요"
+msgstr "도적 우두머리 우르자 날마트(Urza Nalmath)를 물리치세요"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:193
@@ -754,7 +754,7 @@ msgstr "그렇다면 놈들이 도시를 폐허로 만들고 그곳에 사는 �
 msgid ""
 "What?! Those soldiers come from the northern forts... this can only mean my "
 "brother Mathin is dead. Those fiends! They will pay for his death!"
-msgstr "뭐라고?! 저 병사들은 북쪽 요새에서 왔군... 그렇다면 내 동생 마틴이 죽었다는 뜻일 수밖에 없다. 저 악마들! 놈들은 그의 죽음에 대가를 치를 것이다!"
+msgstr "뭐라고?! 저 병사들은 북쪽 요새에서 왔군... 그렇다면 내 동생 마틴(Mathin)이 죽었다는 뜻일 수밖에 없다. 저 악마들! 놈들은 그의 죽음에 대가를 치를 것이다!"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:264
@@ -1082,7 +1082,7 @@ msgstr "절박한 여정"
 #. [side]: type=Rogue, id=Urza Fastik
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:57
 msgid "Urza Fastik"
-msgstr "우르자(Urza) 파스티크"
+msgstr "우르자 파스티크(Urza Fastik)"
 
 #. [side]
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:153
@@ -1302,7 +1302,7 @@ msgstr "말을 신중히 골라라, 인간. 우리 땅에 무단 침입한 자�
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:443
 #| msgid "Deoran"
 msgid "Deora—"
-msgstr "Deora—"
+msgstr "데오라—"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:449
@@ -1484,7 +1484,7 @@ msgstr "눈물의 계곡"
 #. [side]: type=Dark Adept, type=Dark Sorcerer, type=Dark Sorcerer, id=Mal A'kai
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:60
 msgid "Mal A’kai"
-msgstr "말(Mal) A’kai"
+msgstr "말 아카이(Mal A’kai)"
 
 #. [side]: type=Dark Adept, type=Dark Sorcerer, type=Dark Sorcerer, id=Mal A'kai
 #. [side]
@@ -2549,7 +2549,7 @@ msgstr "지킴이 눈"
 #: data/campaigns/The_South_Guard/scenarios/06a_Into_the_Depths.cfg:291
 #| msgid "Mal Tera"
 msgid "Mal Maul"
-msgstr "말(Mal) 마울"
+msgstr "말 마울(Mal Maul)"
 
 #. [event]
 #. Dark Sorceress name
@@ -2558,7 +2558,7 @@ msgstr "말(Mal) 마울"
 #: data/campaigns/The_South_Guard/scenarios/06a_Into_the_Depths.cfg:291
 #| msgid "Mal Tera"
 msgid "female^Mal Maul"
-msgstr "말(Mal) 마울"
+msgstr "말 마울(Mal Maul)"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Into_the_Depths.cfg:296
@@ -3424,7 +3424,7 @@ msgid ""
 "That does not surprise me, given our troubles in even getting here. Deoran, "
 "we had best hurry back to your city. I will need to see what the "
 "circumstances are."
-msgstr "여기까지 오는 데 겪은 어려움을 생각하면 놀랍지 않군요. 데오란(Deoran), 서둘러 당신의 도시로 돌아가는 편이 좋겠습니다. 상황이 어떤지 확인해야 겠어요."
+msgstr "여기까지 오는 데 겪은 어려움을 생각하면 놀랍지 않군요. 데오란(Deoran), 서둘러 당신의 도시로 돌아가는 편이 좋겠습니다. 상황이 어떤지 확인해야겠어요."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/07a_Return_to_Kerlath.cfg:430
@@ -4520,7 +4520,7 @@ msgid ""
 "whole countryside. His men reported bandits roaming freely through the land, "
 "terrorizing the peasants and villagers. Nowhere did they find soldiers of "
 "the South Guard."
-msgstr "우르자(Urza) 마틴을 물리친 데오란(Deoran)은 즉시 지방 전역에 정찰병을 보냈습니다. 부하들은 도적들이 온 땅을 자유롭게 돌아다니며 농민과 마을 사람들을 공포에 떨게 한다고 보고했습니다. 남부 경비대의 병사는 어디에서도 찾을 수 없었습니다."
+msgstr "우르자 마틴(Urza Mathin)을 물리친 데오란(Deoran)은 즉시 지방 전역에 정찰병을 보냈습니다. 부하들은 도적들이 온 땅을 자유롭게 돌아다니며 농민과 마을 사람들을 공포에 떨게 한다고 보고했습니다. 남부 경비대의 병사는 어디에서도 찾을 수 없었습니다."
 
 #. [part]
 #. Intro to scenario 2

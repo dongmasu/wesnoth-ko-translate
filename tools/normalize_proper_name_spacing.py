@@ -170,7 +170,7 @@ OVERRIDES = {
     "Flesh Golem": "육체 골렘(Golem)",
     "Great Ogre": "위대한 오우거(Ogre)",
     "Great Troll": "위대한 트롤(Troll)",
-    "Naga Myrmidon": "나가(Naga) 미르미돈(Myrmidon)",
+    "Naga Myrmidon": "나가 미르미돈(Myrmidon)",
     "Pirate Galleon": "해적 갤리언(Galleon)",
     "Red Wyrm": "붉은 웜(Wyrm)",
     "Red Wyrmlet": "붉은 웜(Wyrm) 새끼",

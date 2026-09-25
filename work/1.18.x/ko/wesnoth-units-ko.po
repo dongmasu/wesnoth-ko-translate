@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.18.x Korean translation\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2026-09-24 00:00+0900\n"
+"PO-Revision-Date: 2026-09-25 00:00+0900\n"
 "Last-Translator: Wesnoth Korean Translation Team\n"
 "Language-Team: Korean\n"
 "Language: ko\n"
@@ -552,7 +552,7 @@ msgstr "고대의 리치(Lich)"
 #: data/campaigns/Secrets_of_the_Ancients/units/Necro_Sacrifice.cfg:8
 #: data/core/units/undead/Necromancer.cfg:4
 msgid "Necromancer"
-msgstr "네크로맨서"
+msgstr "강령술사"
 
 #. [attack]: type=impact
 #: data/campaigns/Secrets_of_the_Ancients/units/Necromancer.cfg:11
@@ -615,7 +615,7 @@ msgid ""
 "dark arts; practitioners often use it to raise servants and soldiers from "
 "unwilling corpses. These shamblers are often numerous, but fragile; a touch "
 "of combat can waken them, though, making them far more formidable."
-msgstr "불행히도 시신을 일으키는 기술은 흑마법에서 흔히 퍼져 있다. 이 술사들은 종종 원치않는 시체로부터 하인과 병사들을 일으킨다. 이 어기적거리는 것들은 보통 숫자는 많아도 약하다. 하지만 전투에서 그들의 손길은 죽은 자를 일으켜 그들을 훨씬 더 가공할 존재로 만든다."
+msgstr "불행히도 시신을 일으키는 기술은 흑마법에서 흔히 퍼져 있다. 이 술사들은 종종 원치 않는 시체로부터 하인과 병사들을 일으킨다. 이 어기적거리는 것들은 보통 숫자는 많아도 약하다. 하지만 전투에서 그들의 손길은 죽은 자를 일으켜 그들을 훨씬 더 가공할 존재로 만든다."
 
 #. [unit_type]: id=SotA Soulless_Human
 #. [unit_type]: id=SotA Soulless_Dwarf
@@ -1157,7 +1157,7 @@ msgstr "수송 갤리언은 병력을 수송하는 잘 무장된 선박입니다
 #. [unit_type]: id=Drake Arbiter, race=drake, gender=male,female
 #: data/core/units/drakes/Arbiter.cfg:4
 msgid "Drake Arbiter"
-msgstr "반룡 심판자"
+msgstr "반룡 심판관"
 
 #. [unit_type]: id=Drake Arbiter, race=drake, gender=male,female
 #: data/core/units/drakes/Arbiter.cfg:18
@@ -2435,7 +2435,7 @@ msgid ""
 "is less than some other dwarves, they are unmatched with throwing axes, "
 "having practiced this skill hunting in the mountains. Their maneuverability "
 "makes them dangerous and tricky foes."
-msgstr "난쟁이의 탐험가들은 누구와도 비할 수 없는 생존의 전문가들이다. 이들은 자기가 들고다니는 장비들만으로 새로운 광맥이나 광물의 퇴적지를 찾아서 몇달이고 숲과 산맥을 헤매고 돌아다닐 수 있다. 이들의 기술 중에 근접전의 능력은 다른 드워프들보다 못하지만, 산중에서 사냥을 하며 익힌 도끼 투척술에 있어서는 타의 추종을 불허한다. 이들이 위험하고 까다로운 적인 이유는 이들의 기동성 때문이다."
+msgstr "난쟁이의 탐험가들은 누구와도 비할 수 없는 생존의 전문가들이다. 이들은 자기가 들고다니는 장비들만으로 새로운 광맥이나 광물의 퇴적지를 찾아서 몇 달이고 숲과 산맥을 헤매고 돌아다닐 수 있다. 이들의 기술 중에 근접전의 능력은 다른 드워프들보다 못하지만, 산중에서 사냥을 하며 익힌 도끼 투척술에 있어서는 타의 추종을 불허한다. 이들이 위험하고 까다로운 적인 이유는 이들의 기동성 때문이다."
 
 #. [unit_type]: id=Dwarvish Fighter, race=dwarf
 #: data/core/units/dwarves/Fighter.cfg:4
@@ -2617,7 +2617,7 @@ msgstr "주로 채집가이자 사냥꾼인 대부분의 요정은 어릴 때부
 #. [female]: gender=female
 #: data/core/units/elves/Archer.cfg:80
 msgid "female^Elvish Archer"
-msgstr "요정 궁사"
+msgstr "요정 궁수"
 
 #. [unit_type]: id=Elvish Avenger, race=elf, gender=male,female
 #: data/core/units/elves/Avenger.cfg:4
@@ -3444,7 +3444,7 @@ msgid ""
 "against most infantry, especially those who have fallen out of line, but "
 "must take care against both spearmen and archers for whom their large size "
 "provide inviting targets."
-msgstr "주로 웨스노스(Wesnoth)에서 보다 황량한 야생 지역 출신인 기마병들은 어릴적부터 기마술을 훈련받고 엄격한 명예 규칙을 따른다. 기마병의 돌격은 위험하지만 강력한 전술로서 오랜 시간동안 전장에서 그 가치를 입증하여 왔다. 기마병들은 대부분의 보병들을 압도하지만 특히 전선에서 이탈한 이들을 잡는데 유용하다. 하지만 그들의 큰 몸체는 좋은 목표물이 되므로 궁병이나 창병을 상대할 때는 조심하는 것이 좋다."
+msgstr "주로 웨스노스(Wesnoth)에서 보다 황량한 야생 지역 출신인 기마병들은 어릴 적부터 기마술을 훈련받고 엄격한 명예 규칙을 따른다. 기마병의 돌격은 위험하지만 강력한 전술로서 오랜 시간동안 전장에서 그 가치를 입증하여 왔다. 기마병들은 대부분의 보병들을 압도하지만 특히 전선에서 이탈한 이들을 잡는데 유용하다. 하지만 그들의 큰 몸체는 좋은 목표물이 되므로 궁병이나 창병을 상대할 때는 조심하는 것이 좋다."
 
 #. [unit_type]: id=Bowman, race=human, gender=male
 #: data/core/units/humans/Loyalist_Bowman.cfg:18
@@ -4146,7 +4146,7 @@ msgstr "은색 마법사"
 #. [unit_type]: id=White Mage, race=human, gender=male,female
 #: data/core/units/humans/Mage_White.cfg:4
 msgid "White Mage"
-msgstr "백색 마법사"
+msgstr "백마법사"
 
 #. [unit_type]: id=White Mage, race=human, gender=male,female
 #: data/core/units/humans/Mage_White.cfg:18
@@ -4225,7 +4225,7 @@ msgid ""
 "nightfall."
 msgstr ""
 "몇 년쯤 일하고 나면, 예전의 '발바닥'들은 동료 무법자들과 같은 지위에 오른다. "
-"전투력이 증명된 그들은 좀더 위험한 임무에 투입되고, 약탈물을 더 많이 나눠갖는"
+"전투력이 증명된 그들은 좀 더 위험한 임무에 투입되고, 약탈물을 더 많이 나눠갖는"
 "다. 그들의 무기는 적들의 비웃음을 받지만, 무법자들은 그 탄환의 엄청난 양과 준"
 "비성을 잘 알고 있다. 무법자들은 낮의 싸움을 조금 불편해 하는 반면, 해질녘 그"
 "림자를 선호한다."
@@ -4307,7 +4307,7 @@ msgstr ""
 #. [female]: gender=female
 #: data/core/units/humans/Outlaw_Footpad.cfg:89
 msgid "female^Footpad"
-msgstr "노상 강도"
+msgstr "노상강도"
 
 #. [unit_type]: id=Fugitive, race=human, gender=male,female
 #: data/core/units/humans/Outlaw_Fugitive.cfg:5
@@ -4636,7 +4636,7 @@ msgid ""
 "that of the knights of the silver spire, cornered and slain to a man at the "
 "banks of the Alavynne, but who rode again the next day, in full number, and "
 "wrought the downfall of the crimson duke."
-msgstr "오랜 헌신의 세월로 여신관은 세상의 법칙에 대해 깊은 지혜를 갖게 되며, 빛의 호감이라 할 수 있는 무엇을 얻게 된다. 이로써 이들 물의 여인들에게 주어지는 힘은, 마치 Alavynne의 군사들에게 궁지에 몰려 살해당했으나 다음날 수많은 군세와 함께 다시 나타나 피의 공작을 몰락시킨 은빛 첨탑의 기사와 같이 이야기와 노래에 반복적으로 쓰이는 주제이다."
+msgstr "오랜 헌신의 세월로 여신관은 세상의 법칙에 대해 깊은 지혜를 갖게 되며, 빛의 호감이라 할 수 있는 무엇을 얻게 된다. 이로써 이들 물의 여인들에게 주어지는 힘은, 마치 알라빈(Alavynne)의 군사들에게 궁지에 몰려 살해당했으나 다음날 수많은 군세와 함께 다시 나타나 피의 공작을 몰락시킨 은빛 첨탑의 기사와 같이 이야기와 노래에 반복적으로 쓰이는 주제이다."
 
 #. [unit_type]: id=Mermaid Enchantress, race=merman, gender=female
 #: data/core/units/merfolk/Enchantress.cfg:4
@@ -6173,7 +6173,7 @@ msgstr "베테랑 나가 경비병은 근접전에서 방패를 효과적으로 
 #. [unit_type]: id=Naga Myrmidon, race=naga, gender=male,female
 #: data/core/units/nagas/Myrmidon.cfg:4
 msgid "Naga Myrmidon"
-msgstr "나가(Naga) 미르미돈(Myrmidon)"
+msgstr "나가 미르미돈(Myrmidon)"
 
 #. [unit_type]: id=Naga Myrmidon, race=naga, gender=male,female
 #: data/core/units/nagas/Myrmidon.cfg:20
@@ -6764,7 +6764,7 @@ msgstr ""
 "괴이하고 비밀스런 모습과 무늬를 새긴다. 일부는 그들이 동족들 사이에서 선지자"
 "나 대사제라고 추정한다. 하지만 그들이 가지고 있는 '사회적' 기능이 무엇이든 간"
 "에, 그들은 확실히 그들 종족이 가진 기이한 마법을 강력하게 구사하며, 눈에 띈다"
-"면 주의해야할 존재이다."
+"면 주의해야 할 존재이다."
 
 #. [unit_type]: id=Saurian Prophet, race=lizard, gender=male
 #: data/core/units/saurians/Prophet.cfg:4
@@ -7000,7 +7000,7 @@ msgid ""
 "It is because of such things that necromancy is condemned with an almost "
 "primal hatred in all civilized lands."
 msgstr ""
-"더욱 도착적이고 가학적인 네크로맨서들만이 인간을 구울로 만들기 위해 해야할 일"
+"더욱 도착적이고 가학적인 네크로맨서들만이 인간을 구울로 만들기 위해 해야 할 일"
 "들을 알고 있으며, 그 비밀은 누구에게도 말해주지 않는다. 하지만 그 결과는 너무"
 "나도 잘 알려진 것으로, 인간이었던 나날들을 전혀 기억하지 못하는 야수, 태어난 "
 "그 모습 그대로 벌거벗은 채 기어다니며, 죽은 자의 육신을 먹어대는 피조물이"
@@ -7236,7 +7236,7 @@ msgstr "검은 수련자"
 #. [unit_type]: id=Dark Sorcerer, gender=male,female, race=human
 #: data/core/units/undead/Necro_Dark_Sorcerer.cfg:4
 msgid "Dark Sorcerer"
-msgstr "흑마술사"
+msgstr "흑마법사"
 
 #. [unit_type]: id=Dark Sorcerer, gender=male,female, race=human
 #: data/core/units/undead/Necro_Dark_Sorcerer.cfg:18
@@ -7257,17 +7257,17 @@ msgid ""
 "a loyalty any tyrant would dream of, and it is tempting to those with even "
 "the slightest desire for power."
 msgstr ""
-"흑마법에 의한 공포는 그것을 둘러싼 비밀스러움과 무시무시한 소문에 의해 증폭된"
-"다. 흑마술사들은 너무도 일으키기 쉬운 죽음과, 생명의 비밀을 풀어내기 시작했"
-"다. 이러한 작업은 영혼과 무기력한 물체, 즉 시체 간에 가느다란 이어짐을 만들"
-"며, 이 매듭을 강화시킬 첫번째 성공적인 실험 결과를 내어준다. 죽음 너머에 숨어"
-"있는 미지의 공포는 보이기만 하면, 알아내는 것은 시간문제다.\n"
+"흑마법이 불러일으키는 공포는 이를 둘러싼 비밀과 흉흉한 소문 때문에 더욱 커진"
+"다. 흑마법사들은 생명과 죽음의 비밀을 풀기 시작했으며, 특히 죽음은 너무나 쉽"
+"게 초래할 수 있다. 이 연구로 영혼과 무생물 사이의 연결이 희미하게 드러났고,"
+"그 결속을 조종하는 첫 성공적인 실험도 이루어졌다. 죽음 너머에 도사린 끔찍한"
+"미지의 영역이 모습을 드러냈고, 언젠가는 반드시 그 실체가 밝혀질 것이다.\n"
 "\n"
-"자연의 손아귀에서 그들의 불멸성을 빼내오기 위해, 그 비밀을 쓰는 방법을 어떻"
-"게 계획하든지 간에, 그들의 첫번째 성과는 빠르고 불편한 응용의 결과물이다. 그"
-"들이 죽은 것에 불어넣은 생명은 그들의 주인에게 어떤 의문도 가지지 않고 일하"
-"며, 또한 죽이는 하인들을 창조해 낸다. 이 피조물들은 독재자라면 누구나 꿈꿀만"
-"한 충성을 바치며, 힘에 대한 아주 작은 바람이라도 가진 모든 이들을 유혹한다."
+"자연의 손아귀에서 자신들의 불멸을 빼앗아 오려는 목적이 무엇이든, 그 연구의"
+"첫 결과는 즉각적이고 불쾌한 용도로 쓰였다. 죽은 물질에 불어넣은 생명은 그들을"
+"위해 일하는 하인을 만들 수 있다. 그 하인들은 일할 뿐 아니라 살육도 하고, 주인"
+"을 절대 의심하지 않는다. 이런 피조물은 어느 폭군이라도 꿈꿀 만한 충성을 보이며,"
+"조금이라도 힘을 갈망하는 이들에게 유혹이 된다."
 
 #. [female]: gender=female
 #: data/core/units/undead/Necro_Dark_Sorcerer.cfg:145
@@ -7293,9 +7293,17 @@ msgid ""
 "a loyalty any tyrant would dream of, and it is tempting to those with even "
 "the merest desire for power."
 msgstr ""
-"흑마법에 의한 공포는 그것이 일반적으로 미지의 것이라는 데에서 온다. 흑마녀들은 너무도 일으키기 쉬운 죽음과, 생명의 비밀을 풀어내기 시작했다. 이러한 작업은 영혼과 무기력한 물체, 즉 시체 간에 가느다란 이어짐을 만들며, 이 매듭을 강화시킬 첫번째 성공적인 실험 결과를 내어준다. 죽음 너머에 숨어있는 미지의 공포는 보이기만 하면, 알아내는 것은 시간문제다.\n"
+"흑마법이 불러일으키는 공포는 보통 사람들이 그것에 대해 아는 것이 거의 없다는 "
+"데서 비롯된다. 흑마녀들은 생명과 죽음의 비밀을 풀기 시작했으며, 특히 죽음은 "
+"너무나 쉽게 초래할 수 있다. 이 연구로 영혼과 무생물 사이의 연결이 희미하게 "
+"드러났고, 그 결속을 조종하는 첫 성공적인 실험도 이루어졌다. 죽음 너머에 도사린 "
+"끔찍한 미지의 영역이 모습을 드러냈고, 언젠가는 반드시 그 실체가 밝혀질 것이다.\n"
 "\n"
-"자연의 손아귀에서 그들의 불멸성을 빼내오기 위해, 그 비밀을 쓰는 방법을 어떻게 계획하든지 간에, 그들의 첫번째 성과는 빠르고 불편한 응용의 결과물이다. 그들이 죽은 것에 불어넣은 생명은 그들의 주인에게 어떤 의문도 가지지 않고 일하며, 또한 죽이는 하인들을 창조해 낸다. 이 피조물들은 독재자라면 누구나 꿈꿀만한 충성을 바치며, 힘에 대한 아주 작은 바람이라도 가진 모든 이들을 유혹한다."
+"자연의 손아귀에서 자신들의 불멸을 빼앗아 오려는 목적이 무엇이든, 그 연구의 "
+"첫 결과는 즉각적이고 불쾌한 용도로 쓰였다. 죽은 물질에 불어넣은 생명은 그들을 "
+"위해 일하는 하인을 만들 수 있다. 그 하인들은 일할 뿐 아니라 살육도 하고, 주인"
+"인 그녀를 절대 의심하지 않는다. 이런 피조물은 어느 폭군이라도 꿈꿀 만한 충성을 "
+"보이며, 아주 조금이라도 힘을 갈망하는 이들에게 유혹이 된다."
 
 #. [unit_type]: id=Lich, race=undead
 #: data/core/units/undead/Necro_Lich.cfg:4
@@ -7361,7 +7369,7 @@ msgid ""
 "battle, guided by the fading memory of their former skill, neither knowing, "
 "nor caring what their purpose or foes might be. They are driven only by a "
 "malice born of their empty and tortured existence."
-msgstr "언데드 궁사 중에 가장 강력한 것들은 예외없이 그들의 이전 생에서 가장 강력한 궁사였던 자일 수밖에 없다. 그들은 흩어져 가는 예전의 기술들에 대한 기억에 의지하여 전장을 헤맨다. 그들은 자신들의 목적이나 적이 무엇인지 알지도 못하고 신경쓰지도 않는다. 그들은 오직 그들의 공허하고 고통스런 존재의 본성에서 오는 악의로만 움직일 뿐이다."
+msgstr "언데드 궁사 중에 가장 강력한 것들은 예외없이 그들의 이전 생에서 가장 강력한 궁사였던 자일 수밖에 없다. 그들은 흩어져 가는 예전의 기술들에 대한 기억에 의지하여 전장을 헤맨다. 그들은 자신들의 목적이나 적이 무엇인지 알지도 못하고 신경 쓰지도 않는다. 그들은 오직 그들의 공허하고 고통스런 존재의 본성에서 오는 악의로만 움직일 뿐이다."
 
 #. [unit_type]: id=Bone Knight, race=undead
 #: data/core/units/undead/Skele_Bone_Knight.cfg:5
@@ -7398,7 +7406,7 @@ msgid ""
 "quivers are filled with shafts made not of wood, but of the bones of their "
 "victims. It follows that they are dubbed simply ‘Bone-Shooters’ by their "
 "unfortunate enemies."
-msgstr "어둠의 마법사가 창조한 존재들 중 일부는 그들에게 주어진 거짓된 삶에 더 강하게 적응합니다. 그들의 부활의 힘은 그에 걸맞은 장비로 주어집니다. 특히 궁수들은 매우 끔찍한 무기고를 갖추는 경우가 많습니다. 그들의 화살통은 나무가 아닌 희생자들의 뼈로 만든 화살로 채워져 있습니다. 따라서 그들은 불행한 적들에게 단순히 ‘뼈 사수’라고 불립니다."
+msgstr "흑마법사가 창조한 존재들 중 일부는 그들에게 주어진 거짓된 삶에 더 강하게 적응합니다. 그들의 부활의 힘은 그에 걸맞은 장비로 주어집니다. 특히 궁수들은 매우 끔찍한 무기고를 갖추는 경우가 많습니다. 그들의 화살통은 나무가 아닌 희생자들의 뼈로 만든 화살로 채워져 있습니다. 따라서 그들은 불행한 적들에게 단순히 ‘뼈 사수’라고 불립니다."
 
 #. [unit_type]: id=Chocobone, race=undead
 #: data/core/units/undead/Skele_Chocobone.cfg:4
@@ -7486,7 +7494,7 @@ msgid ""
 "them can only speculate on their past. Such questions aside, a Revenant is a "
 "powerful tool in combat: a fearless warrior that feels no pain and will "
 "fight to the bitter end."
-msgstr "또 한번의 전투를 위해 거짓 생명을 부여받은 이 돌아온 자들로 알려진 피조물들은, 살아 있을때 분명히 대단한 전사들이었을 것이다. 하지만 그때의 기억은 언데드로서의 그들에게는 거의 완전히 잊혀졌다. 그들을 일으켜 세운 마술사들조차도 그들의 과거를 짐작만 할 수 있을 뿐이다. 그런 의문들을 차치하더라도, 돌아온 자들은 강력한 전투 도구이다. 고통도 느끼지 않고 끝장날때까지 싸우는 공포심 없는 전사이기 때문이다."
+msgstr "또 한번의 전투를 위해 거짓 생명을 부여받은 이 돌아온 자들로 알려진 피조물들은, 살아 있을 때 분명히 대단한 전사들이었을 것이다. 하지만 그때의 기억은 언데드로서의 그들에게는 거의 완전히 잊혀졌다. 그들을 일으켜 세운 마법사들조차도 그들의 과거를 짐작만 할 수 있을 뿐이다. 그런 의문들을 차치하더라도, 돌아온 자들은 강력한 전투 도구이다. 고통도 느끼지 않고 끝장날 때까지 싸우는 공포심 없는 전사이기 때문이다."
 
 #. [unit_type]: id=Skeleton, race=undead
 #: data/core/units/undead/Skeleton.cfg:4
@@ -7567,7 +7575,7 @@ msgid ""
 "countenance that they obscure. These terrible forms are rarely seen by the "
 "living, and those who live to speak of them had no leisure to study their "
 "foe."
-msgstr "이 피조물들이 마치 안면을 숨기려는듯이 쓰고 있는 마스크의 목적이 무엇인지는 알려져 있지 않다. 산 자들, 특히 자신이 적에 대해 탐구할 여가같은건 없다고 스스로 말하고 다니는 이들에게는 이 끔찍한 형상들이 잘 눈에 띄지 않는다."
+msgstr "이 피조물들이 마치 안면을 숨기려는듯이 쓰고 있는 마스크의 목적이 무엇인지는 알려져 있지 않다. 산 자들, 특히 자신이 적에 대해 탐구할 여가같은 건 없다고 스스로 말하고 다니는 이들에게는 이 끔찍한 형상들이 잘 눈에 띄지 않는다."
 
 #. [unit_type]: id=Shadow, race=undead
 #: data/core/units/undead/Spirit_Shadow.cfg:4

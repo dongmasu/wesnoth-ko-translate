@@ -123,12 +123,12 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:125
 msgid "Destroy a fierce enemy"
-msgstr "사나운 적을 무찔러라"
+msgstr "사나운 적을 격파하라"
 
 #. [objective]: condition=lose
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:129
 msgid "Get yourself killed"
-msgstr "죽음을 자초하라"
+msgstr "자살한다"
 
 #. [disallow_end_turn]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:137
@@ -193,7 +193,7 @@ msgstr "리사르(Li’sar)를 클릭"
 #. [then]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:319
 msgid "To undo your last move, press <b>u</b> or use the right-click menu."
-msgstr "마지막 이동을 취소하려면 <b>u</b>를 누르거나 마우스 오른쪽 버튼 메뉴를 사용합니다."
+msgstr "마지막 이동을 취소하려면 <b>u</b>를 누르거나 마우스 오른쪽 단추 메뉴를 사용합니다."
 
 #. [hint_message]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:359
@@ -508,13 +508,13 @@ msgstr "자네가 저 과녁을 처치하려면 도움이 좀 필요할 것 같�
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:695
 msgid "I’ll recruit some elves!"
-msgstr "요정들을 좀 소집해야 겠어요!"
+msgstr "요정들을 좀 소집해야겠어요!"
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:696
 #| msgid "I’ll recruit some elves!"
 msgid "female^I’ll recruit some elves!"
-msgstr "요정들을 좀 소집해야 겠어요!"
+msgstr "요정들을 좀 소집해야겠어요!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:701
@@ -559,7 +559,7 @@ msgid ""
 "newly recruited units cannot act the turn you recruit them; you will be able "
 "to use them next turn. For this scenario, you have only one type of unit to "
 "choose from: the Elvish Fighter."
-msgstr "<i>아성</i>에 있으면, 마우스 오른쪽 단추를 누르고 <i>소집</i>을 선택하여 주변 성 타일에서 유닛을 <b>소집</b>할 수 있습니다. 새로 소집한 유닛은 소집한 차례때 행동할 수 없습니다. 다음 차례때 사용할 수 있습니다. 이 시나리오에서는 요정 싸움꾼이라는 한 가지 유형의 유닛만 선택할 수 있습니다."
+msgstr "<i>아성</i>에 있으면, 마우스 오른쪽 단추를 누르고 <i>소집</i>을 선택하여 주변 성 타일에서 유닛을 <b>소집</b>할 수 있습니다. 새로 소집한 유닛은 소집한 차례 때 행동할 수 없습니다. 다음 차례 때 사용할 수 있습니다. 이 시나리오에서는 요정 싸움꾼이라는 한 가지 유형의 유닛만 선택할 수 있습니다."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:743
@@ -599,7 +599,7 @@ msgstr "공격에 대한 수업을 완료할 때까지 차례를 끝낼 수 없�
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:821
 msgid ""
 "Hey, the quintain just healed 2 hitpoints! I’d better attack it at once!"
-msgstr "이봐요, 과녁이 방금 체력 2를 회복했어요! 어서 공격해야 겠어요!"
+msgstr "이봐요, 과녁이 방금 체력 2를 회복했어요! 어서 공격해야겠어요!"
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:822
@@ -608,7 +608,7 @@ msgstr "이봐요, 과녁이 방금 체력 2를 회복했어요! 어서 공격�
 msgid ""
 "female^Hey, the quintain just healed 2 hitpoints! I’d better attack it at "
 "once!"
-msgstr "이봐요, 과녁이 방금 체력 2를 회복했어요! 어서 공격해야 겠어요!"
+msgstr "이봐요, 과녁이 방금 체력 2를 회복했어요! 어서 공격해야겠어요!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:827
@@ -883,7 +883,7 @@ msgstr "그래, 자네는 전투를 통해서 경험치를 얻지만, 특히 상
 msgid ""
 "Now, Konrad, I will leave you with more dummies to practice on! After that, "
 "we have real work to do..."
-msgstr "자, 콘라드(Konrad), 자네가 연습할 수 있게 더 많은 꼭두각시들을 만들어주겠네! 다음번에는 실전이 될거네..."
+msgstr "자, 콘라드(Konrad), 자네가 연습할 수 있게 더 많은 꼭두각시들을 만들어주겠네! 다음번에는 실전이 될 거네..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:1105
@@ -893,7 +893,7 @@ msgstr "자, 콘라드(Konrad), 자네가 연습할 수 있게 더 많은 꼭두
 msgid ""
 "Now, Li’sar, I will leave you with more dummies to practice on! After that, "
 "we have real work to do..."
-msgstr "자, 리사르(Li’sar), 자네가 연습할 수 있게 더 많은 꼭두각시들을 만들어주겠네! 다음번에는 실전이 될거네..."
+msgstr "자, 리사르(Li’sar), 자네가 연습할 수 있게 더 많은 꼭두각시들을 만들어주겠네! 다음번에는 실전이 될 거네..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:1167
@@ -977,7 +977,7 @@ msgstr "오크 졸개에게 운나쁘게 한방만 맞으면, 끝나고 말 거�
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:126
 #| msgid "Ouch! I could make use of some healing in a village."
 msgid "I could make use of some healing in a village."
-msgstr "마을에서 회복을 좀 해야 겠어."
+msgstr "마을에서 회복을 좀 해야겠어."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:127
@@ -1000,7 +1000,7 @@ msgstr "오크 졸개에게 운나쁘게 한방만 맞으면, 끝나고 말 거�
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:130
 #| msgid "Ouch! I could make use of some healing in a village."
 msgid "female^I could make use of some healing in a village."
-msgstr "마을에서 회복을 좀 해야 겠어."
+msgstr "마을에서 회복을 좀 해야겠어."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:131
@@ -1049,7 +1049,7 @@ msgstr "돌아온 것을 환영합니다! 이것은 두 부분으로 구성된 �
 msgid ""
 "Ho, Galdrad! Has Delfador conjured something else to beat me with? A flock "
 "of scarecrows, perhaps?"
-msgstr "오, 갈드라드(Galdrad)! 델파도르(Delfador)가 날 쓰러뜨릴만한 뭔가 또다른 마술을 부려놨나요? 허수아비떼라든가?"
+msgstr "오, 갈드라드(Galdrad)! 델파도르(Delfador)가 날 쓰러뜨릴만한 뭔가 또 다른 마술을 부려놨나요? 허수아비떼라든가?"
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:204
@@ -1059,7 +1059,7 @@ msgstr "오, 갈드라드(Galdrad)! 델파도르(Delfador)가 날 쓰러뜨릴�
 msgid ""
 "female^Ho, Galdrad! Has Delfador conjured something else to beat me with? A "
 "flock of scarecrows, perhaps?"
-msgstr "오, 갈드라드(Galdrad)! 델파도르(Delfador)가 날 쓰러뜨릴만한 뭔가 또다른 마술을 부려놨나요? 허수아비떼라든가?"
+msgstr "오, 갈드라드(Galdrad)! 델파도르(Delfador)가 날 쓰러뜨릴만한 뭔가 또 다른 마술을 부려놨나요? 허수아비떼라든가?"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:210
@@ -1135,7 +1135,7 @@ msgid ""
 "The more likely attack, then, is across the bridge. That middle island is "
 "the key: it has a village for healing injured units and forests in which we "
 "fight so well."
-msgstr "좀더 나은 공격 수단은 다리를 통해 오는거다. 저 중앙의 섬이 요점이다: 여기엔 부상당한 유닛을 치유할 수 있는 마을이 있고, 우리가 싸우기 좋은 숲이 있거든."
+msgstr "좀 더 나은 공격 수단은 다리를 통해 오는거다. 저 중앙의 섬이 요점이다: 여기엔 부상당한 유닛을 치유할 수 있는 마을이 있고, 우리가 싸우기 좋은 숲이 있거든."
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:235
@@ -1258,7 +1258,10 @@ msgid ""
 "\n"
 "A detailed explanation of healing may be found in the <i>Gameplay</i> "
 "section of the help (default hotkey: <b>F1</b>)."
-msgstr "매 차례가 시작될 때, 주술사 주변의 아군 유닛은 체력 4를 회복하지만, 이는 마을이 제공하는 양의 절반 밖에 안 됩니다. 주술사는 치유로 인한 경험치를 얻지 않고, 전투에서만 경험치를 얻게됩니다. 그러나 그를 승진시키는 것은 가치가 있습니다. 레벨 2인 요정 자연술사로 승진하면 마을과 같은 치유력을 얻을 수 있습니다.\n\n치유에 대한 자세한 설명은 도움말(기본 단축키: <i>F1</i>)의 <b>게임 플레이</b> 부분에서 확인할 수 있습니다."
+msgstr ""
+"매 차례가 시작될 때, 주술사 주변의 아군 유닛은 체력 4를 회복하지만, 이는 마을이 제공하는 양의 절반 밖에 안 됩니다. 주술사는 치유로 인한 경험치를 얻지 않고, 전투에서만 경험치를 얻게됩니다. 그러나 그를 승진시키는 것은 가치가 있습니다. 레벨 2인 요정 자연술사로 승진하면 마을과 같은 치유력을 얻을 수 있습니다.\n"
+"\n"
+"치유에 대한 자세한 설명은 도움말(기본 단축키: <i>F1</i>)의 <b>게임 플레이</b> 부분에서 확인할 수 있습니다."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:329
@@ -1653,7 +1656,7 @@ msgstr "이번 차례에서 우리 유닛들이 이 졸개를 처리하지 못�
 msgid ""
 "If one of your Shamans stands just behind you, she will heal you 4 hitpoints "
 "at the beginning of the next turn."
-msgstr "만약 주술사들중 1명이 너의 옆에 있으면, 그는 다음 차례가 시작할때, 너의 체력을 4 만큼 치유할 것이다."
+msgstr "만약 주술사들 중 1명이 너의 옆에 있으면, 그는 다음 차례가 시작할 때, 너의 체력을 4 만큼 치유할 것이다."
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:780
@@ -1675,7 +1678,7 @@ msgstr "이번 차례에 이 졸개를 처리할 수 없다면, 내 유닛이 �
 msgid ""
 "If one of your Shamans stands just behind your wounded units, she will heal "
 "each of them 4 hitpoints at the beginning of the next turn."
-msgstr "만약 주술사들중 1명이 너의 부상당한 유닛들 옆에 있으면, 그는 다음 차례가 시작할때, 그들의 체력을 4 만큼씩 치유할 것이다."
+msgstr "만약 주술사들 중 1명이 너의 부상당한 유닛들 옆에 있으면, 그는 다음 차례가 시작할 때, 그들의 체력을 4 만큼씩 치유할 것이다."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:821
@@ -1717,7 +1720,7 @@ msgid ""
 "Don’t forget about that last village near the channel. The orcs will capture "
 "it if they try to sneak around via the ford! It will be hard to dislodge "
 "them if they do."
-msgstr "강둑 근처의 마지막 마을을 잊지마. 오크들이 여울을 통해 몰래 지나가려고 하면, 저 마을은 점령할 지도 모른다! 만약 그렇게 되면 놈들을 쫓아내기가 어려울 것이다."
+msgstr "강둑 근처의 마지막 마을을 잊지 마. 오크들이 여울을 통해 몰래 지나가려고 하면, 저 마을은 점령할 지도 모른다! 만약 그렇게 되면 놈들을 쫓아내기가 어려울 것이다."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:888
@@ -1729,7 +1732,7 @@ msgid ""
 "It’s very dangerous to stand in water when there are enemies about! Your "
 "unit will have an 80% chance of being hit. Get back, and wait for them to "
 "attack you!"
-msgstr "적이 근처에 있을 때 물 속에 있는 것은 매우 위험하다! 너의 유닛이 맞을 확률은 80%다! 실행을 되돌리고, 놈들이 널 공격할때까지 기다리도록 해라!"
+msgstr "적이 근처에 있을 때 물 속에 있는 것은 매우 위험하다! 너의 유닛이 맞을 확률은 80%다! 실행을 되돌리고, 놈들이 널 공격할 때까지 기다리도록 해라!"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:914
@@ -1821,7 +1824,7 @@ msgid ""
 "selected unit as having finished its turn, which stops you moving it by "
 "accident later on. When <b>n</b> no longer selects a new unit, it’s safe to "
 "end your turn."
-msgstr "<b>n</b>을 누르면 자동으로 다음 유닛이 선택되므로 매 차례마다 모든 유닛을 사용했는지 확인할 수 있습니다. <b>스페이스 바</b>는 유닛의 조작이 끝났음을 표시하여 n 키의 대상에서 벗어나게 합니다. <b>n</b> 키를 눌러도 새 유닛이 선택되지 않으면 차례를 마쳐도 됩니다."
+msgstr "<b>n</b>을 누르면 자동으로 다음 유닛이 선택되므로 매 차례마다 모든 유닛을 사용했는지 확인할 수 있습니다. <b>스페이스 바</b>를 누르면 현재 선택한 유닛의 차례가 끝난 것으로 표시되어 나중에 실수로 움직이는 일을 막을 수 있습니다. <b>n</b>을 눌러도 새 유닛이 선택되지 않으면 차례를 마쳐도 됩니다."
 
 #. [hint_message]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1016
@@ -1835,7 +1838,7 @@ msgid ""
 "Fog and shroud will affect what you can see in this table, and occasionally "
 "a side may be hidden; however, it is still useful to check this table when a "
 "scenario begins. You can access it in the <b>Menu</b> menu."
-msgstr "상태표에는 각 진영의 현재 상태와 시작 조건이 자세히 나와 있습니다. 안개와 장막은 이 표에서 볼 수 있는 내용에 영향을 미치며 때로는 진영이 숨겨질 수도 있습니다. 그러나 시나리오가 시작될 때 이 표를 확인하는 것은 유용할 수 있습니다. <b>메뉴</b>에서 접근할 수 있습니다."
+msgstr "상태표에는 각 진영의 현재 상태와 시작 조건이 자세히 나와 있습니다. 안개와 장막은 이 표에서 볼 수 있는 내용에 영향을 미치며 때로는 진영이 숨겨질 수도 있습니다. 그러나 시나리오가 시작될 때 이 표를 확인하는 것은 유용할 수 있습니다. <b>메뉴</b> 메뉴에서 열 수 있습니다."
 
 #. [hint_message]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1025
@@ -1848,7 +1851,7 @@ msgid ""
 "Holding down <b>shift</b> will make the animations for moving and fighting "
 "quicker. The <b>acceleration factor</b> can be set, and turned on by "
 "default, in the <b>Preferences</b> menu’s <b>General</b> tab."
-msgstr "<b>쉬프트</b> 키를 누르고 있으면 이동 및 전투를 위한 애니메이션이 더 빨라집니다. <b>가속 계수</b>는 <b>환경 설정</b> 메뉴의 <b>일반</b> 탭에서 설정하고 켤 수 있습니다."
+msgstr "<b>쉬프트</b> 키를 누르고 있으면 이동 및 전투 애니메이션이 더 빨라집니다. <b>가속 계수</b>는 <b>환경 설정</b> 메뉴의 <b>일반</b> 탭에서 설정하고 켤 수 있습니다."
 
 #. [hint_message]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1034
@@ -1865,7 +1868,7 @@ msgid ""
 "In this scenario, you only need to defeat the orc leader to win. Victory "
 "conditions for a scenario are given under <b>Objectives</b> in the <b>Menu</"
 "b> menu."
-msgstr "이번 시나리오에서는 오크 대장을 물리쳐야만 승리할 수 있습니다. 시나리오마다 승리 조건은 <b>메뉴</b>에 있는 <b>목표</b>에서 확인할 수 있습니다."
+msgstr "이번 시나리오에서는 오크 대장을 물리쳐야만 승리할 수 있습니다. 시나리오마다 승리 조건은 <b>메뉴</b> 메뉴의 <b>목표</b>에 나와 있습니다."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1044
@@ -2030,7 +2033,7 @@ msgid ""
 "reach a village! I also have gained a new <i>magical</i> attack, meaning it "
 "always has a 70% chance to hit, but it is not as powerful as the similar "
 "attack wielded by the Elvish Sorceress."
-msgstr "승급을 통해 난 완전히 회복되었어! 나는 유닛의 체력을 차례당 4만큼에서 차례당 8만큼으로 치유할 수 있고, 마을에 도달할 수 없는 경우에도 독을 치료할 수도 있어! 또한 새로운 <i>마법</i> 공격을 얻었는데, 항상 적중할 확률이 70%이지만 요정 정령술사가 사용하는 비슷한 공격만큼 강력하지는 않아."
+msgstr "승급을 통해 난 완전히 회복되었어! 나는 유닛의 체력을 차례당 4만큼에서 차례당 8만큼으로 치유할 수 있고, 마을에 도달할 수 없는 경우에도 독을 치료할 수도 있어! 또한 새로운 <i>마법</i> 공격을 얻었는데, 항상 적중할 확률이 70%이지만 요정 마녀가 사용하는 비슷한 공격만큼 강력하지는 않아."
 
 #. [message]: speaker=unit
 #. The speaker is female
@@ -2155,17 +2158,17 @@ msgstr "이제 시간이 없어! 이제 오크들을 몰아내긴 틀렸어!"
 #. [message]: speaker=unit
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1465
 msgid "That... was foolish. Next time I should be more careful."
-msgstr "그건... 어리석은 일이었어. 다음에는 좀 더 조심해야 겠어."
+msgstr "그건... 어리석은 일이었어. 다음에는 좀 더 조심해야겠어."
 
 #. [message]: speaker=unit
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1466
 msgid "female^That... was foolish. Next time I should be more careful."
-msgstr "그건... 어리석은 일이었어. 다음에는 좀 더 조심해야 겠어."
+msgstr "그건... 어리석은 일이었어. 다음에는 좀 더 조심해야겠어."
 
 #. [message]: speaker=unit
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1484
 msgid "Agh! Who will guide you to victory now?"
-msgstr "아! 이제 누가 당신을 승리로 이끌겠습니까?"
+msgstr "아! 이제 누가 당신을 승리로 이끌어 주겠어요?"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1499
@@ -2200,7 +2203,7 @@ msgstr "젊고 용맹한 투사들은 검에 숙달되어 있으며, 적의 공�
 #. [unit_type]: id=Fighteress, gender=female, race=human
 #: data/campaigns/tutorial/units/Fighteress.cfg:4
 msgid "female^Fighter"
-msgstr "여성 투사"
+msgstr "투사"
 
 #. [unit_type]: id=Quintain, race=mechanical
 #: data/campaigns/tutorial/units/Quintain.cfg:4

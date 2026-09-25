@@ -1,0 +1,158 @@
+wesnoth-anl-ko.po	unit	plain=4, other=7, formal=3
+wesnoth-did-ko.po	Darken Volk	plain=12, formal=10, other=6, archaic=2
+wesnoth-did-ko.po	Mal Keshar	other=35, plain=15, archaic=8, imperative=1
+wesnoth-did-ko.po	Malin Keshar	plain=36, other=48, formal=30, archaic=5, imperative=1
+wesnoth-did-ko.po	narrator	plain=10, other=9, formal=13
+wesnoth-did-ko.po	second_unit	formal=2, plain=1
+wesnoth-did-ko.po	unit	other=13, imperative=1, formal=2, archaic=1, plain=3
+wesnoth-dm-ko.po	Chantal	other=10, formal=2, plain=1
+wesnoth-dm-ko.po	Delfador	other=28, plain=21, formal=4, archaic=9, imperative=2
+wesnoth-dm-ko.po	Garrath	other=5, formal=1, plain=3
+wesnoth-dm-ko.po	Marshal	other=2, imperative=1, plain=1
+wesnoth-dm-ko.po	Ulrek	other=3, archaic=1, imperative=1
+wesnoth-dm-ko.po	narrator	other=4, plain=1, formal=1
+wesnoth-dm-ko.po	unit	other=12, plain=4, archaic=4
+wesnoth-dw-ko.po	Caladon	other=2, archaic=1, plain=2
+wesnoth-dw-ko.po	Cylanna	plain=6, other=13, formal=2
+wesnoth-dw-ko.po	Growloff	archaic=1, plain=1, other=2
+wesnoth-dw-ko.po	Gwabbo	other=3, plain=2, imperative=1
+wesnoth-dw-ko.po	Kai Krellis	archaic=10, other=34, plain=23, imperative=3, formal=3
+wesnoth-dw-ko.po	Tyegea	other=3, plain=2, imperative=1
+wesnoth-dw-ko.po	narrator	plain=8, formal=2
+wesnoth-ei-ko.po	$found_unit.id	plain=5, other=10, archaic=1
+wesnoth-ei-ko.po	Addogin	plain=6, archaic=1, other=6
+wesnoth-ei-ko.po	Chief Dra-Nak	other=11, plain=4, archaic=2
+wesnoth-ei-ko.po	Dacyn	plain=25, archaic=7, other=16, formal=2
+wesnoth-ei-ko.po	Gaennell	formal=1, other=4, imperative=1, archaic=1
+wesnoth-ei-ko.po	Gweddry	plain=16, other=28, formal=9, archaic=5, imperative=1
+wesnoth-ei-ko.po	Hahid al-Ali	archaic=4, plain=4, other=7
+wesnoth-ei-ko.po	Halrad	archaic=1, formal=1, plain=1
+wesnoth-ei-ko.po	Halric	plain=2, formal=1
+wesnoth-ei-ko.po	Halrod	archaic=1, plain=1
+wesnoth-ei-ko.po	Konrad	other=3, plain=4, formal=2
+wesnoth-ei-ko.po	Mal-Mana	plain=1, imperative=1, other=1
+wesnoth-ei-ko.po	Mal-Ravanal	other=13, imperative=1, archaic=2, plain=3
+wesnoth-ei-ko.po	Mal-Talar	formal=1, plain=3, archaic=1, other=1
+wesnoth-ei-ko.po	Mal-Yrna	other=6, archaic=1, plain=1
+wesnoth-ei-ko.po	Mel Guthrak	other=3, plain=1, imperative=1
+wesnoth-ei-ko.po	Owaec	other=13, formal=2, plain=11, archaic=7
+wesnoth-ei-ko.po	Terraent	plain=2, archaic=1, other=1, formal=1
+wesnoth-ei-ko.po	second_unit	plain=7, other=7, archaic=1
+wesnoth-ei-ko.po	spirit2	plain=2, imperative=1
+wesnoth-ei-ko.po	unit	plain=10, other=23, formal=1, archaic=5
+wesnoth-httt-ko.po	Delfador	plain=26, other=22, archaic=12, imperative=2, formal=3
+wesnoth-httt-ko.po	Kalenz	other=11, archaic=6, plain=5, formal=4
+wesnoth-httt-ko.po	Konrad	other=75, formal=4, imperative=1, plain=26, archaic=6
+wesnoth-httt-ko.po	Li'sar	other=16, plain=10, archaic=2, formal=1
+wesnoth-httt-ko.po	Relgorn	imperative=1, other=2, archaic=1
+wesnoth-httt-ko.po	Sir Ruga	archaic=1, plain=1
+wesnoth-httt-ko.po	Uncle Somf	archaic=1, plain=2, other=1
+wesnoth-httt-ko.po	narrator	plain=11, formal=11, other=1
+wesnoth-httt-ko.po	second_unit	other=6, plain=3, imperative=1, archaic=1, formal=3
+wesnoth-httt-ko.po	unit	plain=9, formal=4, other=16, archaic=4
+wesnoth-l-ko.po	Baldras	other=21, imperative=1, plain=6, archaic=10
+wesnoth-l-ko.po	Lord Maddock	other=2, archaic=1, plain=2
+wesnoth-l-ko.po	second_unit	other=3, formal=1, archaic=1
+wesnoth-l-ko.po	unit	archaic=4, plain=4, other=8, imperative=1, formal=1
+wesnoth-low-ko.po	Kalenz	other=1, archaic=2, plain=1
+wesnoth-low-ko.po	unit	plain=6, other=14, archaic=5, formal=1
+wesnoth-nr-ko.po	Abhai	plain=2, other=2, archaic=1
+wesnoth-nr-ko.po	Camerin	other=20, plain=7, archaic=2, formal=2
+wesnoth-nr-ko.po	Eryssa	other=14, plain=3, archaic=1
+wesnoth-nr-ko.po	Father Morvin	other=22, plain=7, formal=6, archaic=1
+wesnoth-nr-ko.po	Hidel	other=5, formal=1, plain=1
+wesnoth-nr-ko.po	Malifor	plain=3, other=7, archaic=1
+wesnoth-nr-ko.po	Ro'Arthian	other=7, formal=1, plain=1, archaic=1
+wesnoth-nr-ko.po	Ro'Sothian	plain=4, other=3, formal=1
+wesnoth-nr-ko.po	Sister Thera	other=23, archaic=1, plain=5, formal=5
+wesnoth-nr-ko.po	Tallin	plain=32, other=49, formal=6, archaic=6, imperative=1
+wesnoth-nr-ko.po	narrator	plain=5, other=5, archaic=1
+wesnoth-nr-ko.po	second_unit	other=10, plain=6, archaic=3
+wesnoth-nr-ko.po	unit	archaic=4, other=25, plain=19, formal=6
+wesnoth-sof-ko.po	Alanin	formal=2, plain=5, other=8
+wesnoth-sof-ko.po	Baglur	plain=2, other=5, archaic=1
+wesnoth-sof-ko.po	Durstorn	other=14, plain=10, imperative=1, archaic=2
+wesnoth-sof-ko.po	Gathor	plain=1, archaic=1
+wesnoth-sof-ko.po	Glildur	plain=4, other=4, imperative=1, archaic=1
+wesnoth-sof-ko.po	Haldric II	archaic=3, other=8, formal=1
+wesnoth-sof-ko.po	Khrakrahs	other=2, plain=1, imperative=1
+wesnoth-sof-ko.po	Kuhnar	plain=3, formal=1, other=2
+wesnoth-sof-ko.po	Rugnur	other=29, plain=8, archaic=8, formal=4
+wesnoth-sof-ko.po	Thursagan	other=13, plain=1, archaic=1, formal=1
+wesnoth-sof-ko.po	narrator	other=3, plain=2, formal=4
+wesnoth-sof-ko.po	second_unit	plain=2, archaic=1
+wesnoth-sota-ko.po	Ardonna	other=47, archaic=7, plain=6, formal=3
+wesnoth-sota-ko.po	Caradoc	plain=1, imperative=1
+wesnoth-sota-ko.po	Garcyn	formal=2, other=1, plain=1, archaic=1
+wesnoth-sota-ko.po	Gwendir	archaic=1, plain=1
+wesnoth-sota-ko.po	Ras-Tabahn	other=24, plain=8, archaic=8
+wesnoth-sota-ko.po	Shynal	plain=5, other=7, formal=1
+wesnoth-sota-ko.po	Vendraxis	imperative=1, plain=2, other=4, archaic=1
+wesnoth-sota-ko.po	Vok-Hroog	other=1, plain=1, archaic=1
+wesnoth-sota-ko.po	narrator	plain=3, formal=8
+wesnoth-sotbe-ko.po	Ammon	plain=1, other=3, archaic=1
+wesnoth-sotbe-ko.po	Earl Lanbec'h	other=1, imperative=1, archaic=1
+wesnoth-sotbe-ko.po	Flar'Tar	other=3, formal=1, plain=1
+wesnoth-sotbe-ko.po	Grüü	other=39, plain=6, archaic=1
+wesnoth-sotbe-ko.po	Kapou'e	other=40, plain=20, archaic=7, imperative=2
+wesnoth-sotbe-ko.po	Pirk	plain=3, other=2, archaic=2
+wesnoth-sotbe-ko.po	Thelarion	archaic=1, other=2, plain=3
+wesnoth-sotbe-ko.po	second_unit	other=7, plain=6, imperative=2, formal=3
+wesnoth-tb-ko.po	Arvith	archaic=4, other=16, plain=8
+wesnoth-tb-ko.po	Baran	archaic=3, other=7, plain=2
+wesnoth-tb-ko.po	Guard2_leader	plain=1, archaic=2, other=1
+wesnoth-tb-ko.po	second_unit	other=1, formal=2, plain=1
+wesnoth-tb-ko.po	unit	other=3, plain=3, formal=1
+wesnoth-thot-ko.po	Aiglondur	other=11, formal=10, plain=7, archaic=1
+wesnoth-thot-ko.po	Angarthing	plain=9, other=7, formal=3
+wesnoth-thot-ko.po	Dulcatulos	plain=2, other=3, formal=1
+wesnoth-thot-ko.po	Karrag	archaic=2, plain=2, other=1
+wesnoth-thot-ko.po	Marth-Tak	other=2, formal=1, plain=1
+wesnoth-thot-ko.po	Movrur	other=5, plain=2, formal=2
+wesnoth-thot-ko.po	unit	other=2, formal=9, archaic=1, imperative=1, plain=1
+wesnoth-trow-ko.po	Burin the Lost	other=12, archaic=1, plain=3
+wesnoth-trow-ko.po	Commander Aethyr	formal=5, other=2, imperative=1, plain=2
+wesnoth-trow-ko.po	Elilmaldur-Rithrandil	archaic=1, plain=1
+wesnoth-trow-ko.po	Lady Dionli	formal=2, other=1, archaic=1
+wesnoth-trow-ko.po	Lord El'Isomithir	archaic=1, other=1, formal=1, plain=1
+wesnoth-trow-ko.po	Lord Typhon	plain=1, archaic=1, other=1
+wesnoth-trow-ko.po	Prince Haldric	formal=7, other=74, plain=22, archaic=12
+wesnoth-trow-ko.po	Sir Ladoc	plain=2, formal=1
+wesnoth-trow-ko.po	Sir Ruddry	formal=1, archaic=2, plain=1
+wesnoth-trow-ko.po	narrator	other=17, formal=5, plain=4
+wesnoth-trow-ko.po	second_unit	other=2, plain=2, formal=1, imperative=1
+wesnoth-trow-ko.po	unit	other=14, archaic=6, plain=1
+wesnoth-tsg-ko.po	Deoran	imperative=1, formal=4, archaic=2, plain=8, other=14
+wesnoth-tsg-ko.po	Ethiliel	plain=3, formal=2, other=11, archaic=1
+wesnoth-tsg-ko.po	Ithelden	archaic=1, plain=1
+wesnoth-tsg-ko.po	Kramak	other=1, imperative=1, plain=2
+wesnoth-tsg-ko.po	Minister Hylas	archaic=2, other=2, plain=2
+wesnoth-tsg-ko.po	Sir Gerrick	formal=1, other=9, plain=5, archaic=3
+wesnoth-tsg-ko.po	second_unit	plain=3, formal=2, archaic=1
+wesnoth-tsg-ko.po	unit	other=5, plain=4, archaic=1, imperative=2
+wesnoth-tutorial-ko.po	Delfador	other=2, plain=2, archaic=6
+wesnoth-tutorial-ko.po	narrator	plain=1, other=9, formal=2
+wesnoth-utbs-ko.po	$ally_id	other=5, formal=1, plain=1
+wesnoth-utbs-ko.po	$explorer.id	plain=3, other=7, formal=2, archaic=1
+wesnoth-utbs-ko.po	$speaking_unit.id	formal=1, plain=4, other=1
+wesnoth-utbs-ko.po	Eloh	other=7, plain=4, archaic=1
+wesnoth-utbs-ko.po	Elyssa	plain=1, other=6, formal=1
+wesnoth-utbs-ko.po	Garak	other=2, formal=1, archaic=1, plain=2, imperative=1
+wesnoth-utbs-ko.po	Kaleh	other=69, plain=25, formal=17, imperative=1, archaic=1
+wesnoth-utbs-ko.po	Kromph	other=4, formal=2, plain=1
+wesnoth-utbs-ko.po	Novice Pior	archaic=1, plain=1, other=1
+wesnoth-utbs-ko.po	Nym	other=79, plain=13, formal=3, archaic=2
+wesnoth-utbs-ko.po	Troll Leader	other=1, plain=1, imperative=1
+wesnoth-utbs-ko.po	Ulg	formal=1, plain=1
+wesnoth-utbs-ko.po	Zhul	other=41, plain=13, formal=4, archaic=1
+wesnoth-utbs-ko.po	unit	other=23, plain=9, formal=5, archaic=2
+wesnoth-wof-ko.po	Arinexis	other=11, plain=5, formal=2, archaic=1
+wesnoth-wof-ko.po	Gorlack	other=26, archaic=5, imperative=4, plain=12
+wesnoth-wof-ko.po	Karron	other=7, plain=2, formal=3, archaic=1, imperative=1
+wesnoth-wof-ko.po	Khrakrahs	other=2, plain=6, archaic=2
+wesnoth-wof-ko.po	Reks	archaic=1, plain=1
+wesnoth-wof-ko.po	Resha	plain=5, other=14, formal=8, archaic=1
+wesnoth-wof-ko.po	Vonel	formal=1, other=4, plain=1
+wesnoth-wof-ko.po	Zedrix	imperative=1, other=10, plain=3, formal=5, archaic=2
+wesnoth-wof-ko.po	narrator	formal=2, other=1, plain=1
+wesnoth-wof-ko.po	unit	plain=1, other=3, formal=1

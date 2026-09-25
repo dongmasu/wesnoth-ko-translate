@@ -31,7 +31,7 @@ msgstr "ko"
 #. type: Content of: <book><bookinfo><title>
 #: doc/manual/manual.en.xml:8
 msgid "Battle for Wesnoth User&#8217;s Manual"
-msgstr "웨스노스(Wesnoth)의 전쟁 사용자 설명서"
+msgstr "웨스노스 전투 사용자 설명서"
 
 # type: Content of: <book><preface><title>
 #. type: Content of: <book><preface><title>
@@ -44,7 +44,7 @@ msgstr "머리말"
 #: doc/manual/manual.en.xml:12
 msgid ""
 "The Battle for Wesnoth is a turn-based strategy game with a fantasy theme."
-msgstr "웨스노스(Wesnoth)의 전쟁은 판타지적 배경을 가지고 있는 턴방식 전략 게임입니다."
+msgstr "《웨스노스 전투》는 판타지를 배경으로 하는 턴제 전략 게임입니다."
 
 # type: Content of: <book><preface><simpara>
 #. type: Content of: <book><preface><simpara>
@@ -55,7 +55,7 @@ msgid ""
 "host against whom none can stand! Choose units from a large pool of "
 "specialists, and hand pick a force with the right strengths to fight well on "
 "different terrains against all manner of opposition."
-msgstr "거대한 군단을 만들고, 신입 소집부대원들을 서서히 강인한 숙련병으로 훈련시켜 가십시오. 그리고 이후의 게임에서 당신의 가장 강력한 전사들을 재소집해서 누구도 저하할 수 없는 막강한 군대를 만드십시오! "
+msgstr "강력한 군대를 만들고, 풋내기 신병을 차츰 노련한 베테랑으로 훈련하십시오. 게임 후반에는 가장 강인한 전사들을 재소집해 누구도 맞설 수 없는 치명적인 군세를 이루십시오! 다양한 전문가 유닛 중에서 선택하고, 여러 지형에서 온갖 적과 잘 싸울 수 있도록 적절한 강점을 지닌 병력을 직접 구성하십시오."
 
 # type: Content of: <book><preface><simpara>
 #. type: Content of: <book><preface><simpara>
@@ -68,7 +68,7 @@ msgid ""
 "of Pearls. You can fight to regain the throne of Wesnoth, or use your dread "
 "power over the Undead to dominate the land of mortals, or lead your glorious "
 "Orcish tribe to victory against the humans who dared despoil your lands."
-msgstr "웨스노스(Wesnoth)에는 당신의 플레이를 기다리는 수많은 모험들이 있습니다. 당신은 웨스노스(Wesnoth) 왕국으로 행진하는 오크, 언데드, 도적들과 싸울수도 있고, 우뚝 솟은 봉우리들 사이에서 드래곤과 함께, 푸른 숲 아에센우드의 엘프들과, 크날가(Knalga)의 거대한 홀들에 사는 난쟁이들이나, 진주 해안의 인어들과도 함께 싸울 수 있습니다. 당신은 웨스노스(Wesnoth)의 왕좌를 얻기 위한 싸움에 동참하거나, 당신의 무시무시한 언데드의 힘으로 산 자의 땅을 정복하거나, 영예로운 오크 부족을 이끌어  당신의 땅을 훼손하려는 인간에 맞서 승리할 수도 있습니다."
+msgstr "웨스노스(Wesnoth)에는 당신이 플레이할 수 있는 다양한 이야기가 기다리고 있습니다. 웨스노스(Wesnoth) 왕국 변경의 오크, 언데드, 도적과 싸우고, 높은 봉우리에서 드래곤과 함께 싸우거나, 푸른 아에센우드의 엘프, 크날가(Knalga)의 거대한 홀에 사는 난쟁이, 진주 만의 인어와 나란히 싸울 수도 있습니다. 웨스노스(Wesnoth)의 왕좌를 되찾기 위해 싸울 수도 있고, 무시무시한 언데드의 힘으로 필멸자의 땅을 지배할 수도 있으며, 영광스러운 오크 부족을 이끌고 감히 당신의 땅을 더럽힌 인간을 상대로 승리할 수도 있습니다."
 
 # type: Content of: <book><preface><simpara>
 #. type: Content of: <book><preface><simpara>
@@ -79,7 +79,7 @@ msgid ""
 "ranging from small-unit ambushes to clashes of vast armies. You can also "
 "challenge your friends – or strangers – and fight in epic multi-player "
 "fantasy battles."
-msgstr "당신은 200가지가 넘는 유닛들을 골라서 (보병, 기병, 궁병, 마법사들은 시작에 불과합니다) 소규모 기습에서 대 군단의 충돌에 이르는 전투들을 겪을 수 있습니다. 또한 친구들이나 다른 사람들과 함께 서사적인 다인용 판타지 전투를 치를수도 있습니다."
+msgstr "당신은 200가지가 넘는 유닛을 골라서 (보병, 기병, 궁병, 마법사는 시작에 불과합니다) 소규모 기습부터 대군단의 충돌에 이르는 전투를 치를 수 있습니다. 또한 친구나 낯선 사람들과 함께 장대한 다인용 판타지 전투를 벌일 수도 있습니다."
 
 # type: Content of: <book><preface><simpara>
 #. type: Content of: <book><preface><simpara>
@@ -90,7 +90,7 @@ msgid ""
 "units, write your own scenarios, and even script full-blown campaigns. User-"
 "maintained content is available from an add-on server, and the very best of "
 "it is incorporated into Battle for Wesnoth&#8217;s official releases."
-msgstr "웨스노스(Wesnoth)의 전쟁은 오픈 소스 소프트웨어로, 수많은 봉사자들의 커뮤니티가 게임을 더 낫게 만드는데 협력하고 있습니다. 당신은 자신만의 맞춤 유닛이나, 당신만의 시나리오나, 심지어 완전한 하나의 캠페인을 써 낼수도 있습니다. 유저 제작 콘텐츠들은 부가 기능 서버에서 다운받을 수 있으며, 그 중 가장 좋은 것들은 웨스노스(Wesnoth)의 전쟁 공식판에 통합됩니다."
+msgstr "웨스노스 전투는 오픈 소스 소프트웨어이며, 활발한 자원봉사자 커뮤니티가 협력해 게임을 발전시키고 있습니다. 자신만의 유닛과 시나리오를 만들고, 완전한 캠페인을 직접 작성할 수도 있습니다. 사용자 제작 콘텐츠는 부가 기능 서버에서 이용할 수 있으며, 그중 가장 뛰어난 콘텐츠는 웨스노스 전투 공식 릴리스에 포함됩니다."
 
 # type: Content of: <book><chapter><title>
 #. type: Content of: <book><chapter><title>
@@ -124,7 +124,7 @@ msgid ""
 "once-province of Wesnoth, is bordered by the Great River to the north, a "
 "loosely defined line with Wesnoth to the east, the Bay of Pearls to the "
 "south, and the ocean to the west."
-msgstr "웨스노스(Wesnoth) 왕국은 이 땅의 중앙에 위치해 있습니다. 이곳의 영역은 북쪽으로는 한강까지, 동쪽과 남쪽으로는 둘라투스 언덕까지, 남서쪽으로는 아에센우드의 경계선까지, 서쪽으로는 대양까지입니다. 한때 웨스노스(Wesnoth)의 지방중 하나였던 엘렌세파르(Elensefar)는 북쪽으로는 한강까지, 동쪽으로는 웨스노스(Wesnoth)와의 희미한 경계선까지, 남쪽으로는 진주 해안까지, 서쪽으로는 대양까지입니다."
+msgstr "웨스노스(Wesnoth) 왕국은 이 땅의 중앙에 위치해 있습니다. 국경은 북쪽으로 위대한 강, 동쪽과 남쪽으로 둘라투스 언덕, 남서쪽으로 아에센우드의 가장자리, 서쪽으로 대양과 맞닿아 있습니다. 한때 웨스노스(Wesnoth)의 지방 중 하나였던 엘렌세파르(Elensefar)는 북쪽으로 위대한 강, 동쪽으로 웨스노스(Wesnoth)와의 느슨한 경계선, 남쪽으로 진주 만, 서쪽으로 대양과 맞닿아 있습니다."
 
 # type: Content of: <book><chapter><section><simpara>
 #. type: Content of: <book><chapter><section><simpara>
@@ -134,7 +134,7 @@ msgid ""
 "of orcs, dwarves, barbarians and elves populate the region.  To the north "
 "and east lies the forest of Lintanir, where the great kingdom of the North-"
 "Elves keeps to its own mysterious affairs."
-msgstr "북방은 한강 위쪽에 있는 미개척지입니다. 다양한 무리의 오크, 드워프, 야만인과 엘프들이 이 영역에 살고 있습니다. 북쪽과 동쪽으로는 그들만의 신비한 삶을 영위하고 있는 북방 엘프들의 광대한 왕국이 위치한 린타니르 숲이 펼쳐져 있습니다."
+msgstr "북방은 위대한 강 위쪽에 있는 미개척지입니다. 다양한 무리의 오크, 드워프, 야만인과 엘프들이 이 영역에 살고 있습니다. 북쪽과 동쪽으로는 그들만의 신비한 삶을 영위하고 있는 북방 엘프들의 광대한 왕국이 위치한 린타니르 숲이 펼쳐져 있습니다."
 
 # type: Content of: <book><chapter><section><simpara>
 #. type: Content of: <book><chapter><section><simpara>
@@ -177,7 +177,7 @@ msgid ""
 "outlaws, for example. In most campaigns, you will control units drawn a "
 "single faction. But sometimes factions make alliances with others, so you "
 "may face more than one faction in a scenario."
-msgstr "게임상의 목적을 위해, 각 종족들은 당파로 묶여 있습니다. 예를 들어 오크들은 트롤과 협력하고, 요정과 난쟁이들은 인간과 협력합니다. 어떤 당파는 인간 사회에서의 분업이란 측면을 보여줍니다. 예를 들면 충성파와 무법자 같은 것들입니다. 대부분의 캠페인에서 당신은 하나의 당파로 붂인 유닛들을 제어하게 됩니다. 하지만 종종 당파들은 서로 연맹을 구성하기도 하므로, 당신은 시나리오에서 하나 이상의 당파를 보게 될 수도 있습니다."
+msgstr "게임에서는 종족을 진영으로 묶습니다. 예를 들어 오크는 트롤과, 엘프와 난쟁이는 인간과 협력하는 경우가 많습니다. 진영 중에는 인간 사회 내부의 분열을 반영하는 것도 있습니다. 충성파와 무법자가 그 예입니다. 대부분의 캠페인에서는 하나의 진영에 속한 유닛을 지휘하지만, 진영끼리 동맹을 맺는 경우도 있어 한 시나리오에서 둘 이상의 진영을 상대할 수 있습니다."
 
 # type: Content of: <book><chapter><section><title>
 #. type: Content of: <book><chapter><section><title>
@@ -195,7 +195,7 @@ msgid ""
 "language; then click the \"Tutorial\" button to run the tutorial; and then "
 "play the campaign, \"A Tale of Two Brothers\" by clicking the \"Campaign\" "
 "button and selecting it from the list provided."
-msgstr "웨스노스(Wesnoth)가 처음 실행되면 초기 배경화면과 소위 메인 메뉴라고 불리는 한 줄의 단추를 볼 수 있습니다. 이 단추들은 마우스에만 반응합니다. 답답해 하는 분들을 위해서 조언해 드리자면, \"언어 설정\" 단추를 눌러서 당신의 언어를 설정하시고, \"자습서\" 단추를 눌러서 연습 게임을 진행하신 다음에, \"캠페인\" 버튼을 누르고 제공되는 목록에서 \"두 형제 이야기\"를 플레이해 보세요."
+msgstr "웨스노스(Wesnoth)를 처음 실행하면 초기 배경과 ‘메인 메뉴’라고 불리는 버튼 열이 표시됩니다. 버튼은 마우스로만 작동합니다. 서둘러 시작하고 싶다면 ‘언어 설정’ 버튼으로 언어를 정하고, ‘자습서’ 버튼으로 자습서를 실행한 다음, ‘캠페인’ 버튼을 눌러 목록에서 ‘두 형제 이야기’를 선택해 보십시오."
 
 #. type: Content of: <book><chapter><section><simpara><inlinemediaobject>
 #: doc/manual/manual.en.xml:90
@@ -238,7 +238,7 @@ msgid ""
 "Tutorial you are in the role of the prince Konrad or the princess Li&#8217;"
 "sar, learning from the Elder Mage Delfador — pay attention or he might turn "
 "you into a newt."
-msgstr "연습 게임은 실전이긴 하지만 기초적인 게임으로, 여러분에게 게임 플레이에 필요한 기초적인 조작법을 알려줍니다. 여기서는 이기거나 지는 것보다도 뭘 어떻게 해야하는지 배우는 것이 더 중요합니다. 연습 게임 버튼을 클릭해서 해 보십시오. 연습게임에서 여러분은 콘라드(Konrad) 왕자나 리사르 공주의 역할을 하면서 원로 마법사 델파도르(Delfador)의 지도를 받게 됩니다. 집중하지 않으면 그가 당신을 도룡뇽으로 만들어 버릴지도 모릅니다."
+msgstr "연습 게임은 실전이지만 기초적인 게임으로, 게임에 필요한 기본 조작법을 알려 줍니다. 여기서는 이기거나 지는 것보다 무엇을 어떻게 해야 하는지 배우는 것이 중요합니다. 연습 게임 버튼을 클릭해 시작하십시오. 연습 게임에서는 콘라드(Konrad) 왕자나 리사르 공주가 되어 원로 마법사 델파도르(Delfador)의 지도를 받습니다. 집중하지 않으면 델파도르가 당신을 도롱뇽으로 만들어 버릴지도 모릅니다."
 
 #. type: Content of: <book><chapter><section><variablelist><varlistentry><term>
 #: doc/manual/manual.en.xml:114
@@ -260,7 +260,7 @@ msgid ""
 "guide about <link linkend=\"basic_strategy\">Basic Strategy</link> will "
 "surely help you. Once you have selected the difficulty, you will start with "
 "the first scenario of the campaign."
-msgstr "웨스노스(Wesnoth)는 주로 캠페인 플레이를 위해 짜여졌습니다. 캠페인은 연결된 일련의 시나리오들입니다. 이 버튼을 눌러서 새로운 캠페인을 시작하세요. 그러면 여러분의 컴퓨터에서 할 수 있는 캠페인의 리스트가 뜹니다 (원한다면 더 다운받을 수도 있습니다). 원하는 캠페인을 선택해서 확인을 눌러 시작하거나 취소를 눌러 빠져나올 수 있습니다. 각각의 캠페인에는 쉬움, 보통, 어려움의 난이도가 있습니다. 보통 수준이 도전감을 불러일으킬 만하지만, 어렵지는 않으므로 추천합니다. 여러분은 캠페인 도중에 난이도를 변경할 수는 없습니다. 만약 쉬움 난이도에서 싸워 나가는데 심각한 문제가 있다면, <link linkend=\"basic_strategy\">기초 전략</link>에 있는 가이드가 도움이 될 것입니다. 난이도를 선택하고 나면, 그 캠페인의 첫번째 시나리오를 시작할 수 있습니다."
+msgstr "웨스노스는 주로 캠페인 플레이를 위해 짜여졌습니다. 캠페인은 연결된 일련의 시나리오들입니다. 이 버튼을 눌러서 새로운 캠페인을 시작하세요. 그러면 여러분의 컴퓨터에서 할 수 있는 캠페인의 리스트가 뜹니다 (원한다면 더 다운받을 수도 있습니다). 원하는 캠페인을 선택해서 확인을 눌러 시작하거나 취소를 눌러 빠져나올 수 있습니다. 각각의 캠페인에는 쉬움, 보통, 어려움의 난이도가 있습니다. 보통 수준이 도전감을 불러일으킬 만하지만, 어렵지는 않으므로 추천합니다. 여러분은 캠페인 도중에 난이도를 변경할 수는 없습니다. 만약 쉬움 난이도에서 싸워 나가는데 심각한 문제가 있다면, <link linkend=\"basic_strategy\">기초 전략</link>에 있는 가이드가 도움이 될 것입니다. 난이도를 선택하고 나면, 그 캠페인의 첫 번째 시나리오를 시작할 수 있습니다."
 
 #. type: Content of: <book><chapter><section><variablelist><varlistentry><term>
 #: doc/manual/manual.en.xml:135
@@ -371,7 +371,7 @@ msgid ""
 "be able to reach them in real time at irc.libera.chat:6667 on #wesnoth or at "
 "<ulink url=\"https://discord.gg/battleforwesnoth\">https://discord.gg/"
 "battleforwesnoth</ulink>"
-msgstr "이 단추를 클릭하면 주요 웨스노스(Wesnoth) 기여자 목록이 표시됩니다. irc.libera.chat:6667의 #wesnoth 또는 <ulink url=\"https://discord.gg/battleforwesnoth\">https://discord.gg/battleforwesnoth</ulink>에서 실시간으로 연락할 수 있는 경우가 많습니다."
+msgstr "이 단추를 클릭하면 주요 웨스노스 기여자 목록이 표시됩니다. irc.libera.chat:6667의 #wesnoth 또는 <ulink url=\"https://discord.gg/battleforwesnoth\">https://discord.gg/battleforwesnoth</ulink>에서 실시간으로 연락할 수 있는 경우가 많습니다."
 
 #. type: Content of: <book><chapter><section><variablelist><varlistentry><term>
 #: doc/manual/manual.en.xml:223
@@ -943,7 +943,7 @@ msgid ""
 "can to ensure you have sufficient income to wage war. You can see your "
 "current gold and current income at the top of the screen as described in the "
 "section on the <link linkend=\"game_screen\">game screen</link>."
-msgstr "당신의 군대는 무료로 싸우지 않습니다. 유닛을 모집하고 유지하는 데 금이 필요합니다. 이전 시나리오에서 이월된 금으로 각 시나리오를 시작하며 (이전 시나리오에서 충분히 이월하지 못했을 경우 각 시나리오에서 최소 금액의 금을 보장합니다) 시나리오 목표를 빠르게 달성하고 시나리오 중에 마을을 통제하여 더 많은 금을 얻을 수 있습니다. 통제하는 각 마을은 턴당 2골드의 수입을 제공합니다. 시나리오를 처음 시작할 때 전쟁을 수행하기에 충분한 수입을 확보하기 위해 가능한 한 많은 마을을 통제하는 것이 일반적으로 가치가 있습니다. 현재 금과 현재 수입은 <link linkend=\"game_screen\">게임 화면</link> 섹션에서 설명한 대로 화면 상단에서 확인할 수 있습니다."
+msgstr "당신의 군대는 무료로 싸우지 않습니다. 유닛을 모집하고 유지하려면 금이 필요합니다. 이전 시나리오에서 이월된 금으로 각 시나리오를 시작하며 (이전 시나리오에서 충분히 이월하지 못했을 경우 각 시나리오에서 최소 금액의 금을 보장합니다) 시나리오 목표를 빠르게 달성하고 시나리오 중에 마을을 통제하여 더 많은 금을 얻을 수 있습니다. 통제하는 각 마을은 턴당 2골드의 수입을 제공합니다. 시나리오를 시작할 때 전투에 필요한 수입을 확보하려면 가능한 한 많은 마을을 통제하는 것이 보통 유리합니다. 현재 금과 현재 수입은 <link linkend=\"game_screen\">게임 화면</link> 섹션에서 설명한 대로 화면 상단에서 확인할 수 있습니다."
 
 # type: Content of: <book><chapter><section><section><title>
 #. type: Content of: <book><chapter><section><section><title>
@@ -1105,7 +1105,7 @@ msgid ""
 "<link linkend=\"traits\">traits</link> that make them subtly different from "
 "other units of the same type. Finally, campaign designers can add unique "
 "units to their campaigns to further expand the options available to players."
-msgstr "웨스노스(Wesnoth) 전투에는 풍부한 통계로 특징지어지는 수백 가지 유닛 유형이 있습니다. 또한 개별 유닛은 동일한 유형의 다른 유닛과 미묘하게 다른 특정 <link linkend=\"traits\">특성</link>을 가질 수 있습니다. 마지막으로 캠페인 디자이너는 플레이어에게 제공되는 옵션을 더욱 확장하기 위해 캠페인에 고유한 유닛을 추가할 수 있습니다."
+msgstr "웨스노스 전투에는 풍부한 통계로 특징지어지는 수백 가지 유닛 유형이 있습니다. 또한 개별 유닛은 동일한 유형의 다른 유닛과 미묘하게 다른 특정 <link linkend=\"traits\">특성</link>을 가질 수 있습니다. 마지막으로 캠페인 디자이너는 플레이어에게 제공되는 옵션을 더욱 확장하기 위해 캠페인에 고유한 유닛을 추가할 수 있습니다."
 
 # type: Content of: <book><chapter><section><simpara>
 #. type: Content of: <book><chapter><section><simpara>
@@ -1453,7 +1453,7 @@ msgid ""
 "Advancement (AMLA)  is not as significant a change as advancing a level. If "
 "you have many <emphasis>maximum level</emphasis> units you may wish to "
 "recall units with more useful traits."
-msgstr "영리함(=지능형) 유닛은 승급하는 데 평소보다 20% 적은 경험치를 필요합니다 (트롤은 이런 특성을 갖지 않습니다). 영리함 유닛은 더 빨리 높은 레벨로 승급할 수 있어서 캠페인의 초기에 매우 유용합니다. 하지만 캠페인의 후반으로 가면 영리함은 그렇게 좋은 특성은 아닌데, 그 이유는 최고 레벨 이후 승급(AMLA)이 주는 변화가 레벨을 올리는 것만큼 크지 않기 때문입니다. 당신이 다수의 <emphasis>최고 레벨</emphasis> 유닛을 가지고 있다면 좀더 좋은 특성을 가진 유닛들을 다시 소집하는 것을 더 선호하게 될 것입니다."
+msgstr "영리함 유닛은 승급하는 데 필요한 경험치가 평소보다 20% 적습니다(트롤은 이 특성을 얻지 않습니다). 영리함 유닛은 더 빨리 높은 레벨로 승급할 수 있어 캠페인 초반에 매우 유용합니다. 하지만 캠페인 후반에는 영리함이 그다지 유용하지 않습니다. 최고 레벨 이후 승급(AMLA)이 주는 변화가 레벨을 올리는 것만큼 크지 않기 때문입니다. <emphasis>최고 레벨</emphasis> 유닛이 많다면 더 유용한 특성을 가진 유닛을 다시 소집하고 싶을 수도 있습니다."
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 #: doc/manual/manual.en.xml:908
@@ -1614,7 +1614,7 @@ msgid ""
 "Elemental units aren&#8217;t alive and thus are immune to poison, and drain "
 "and plague don&#8217;t work on them.  Elemental units generally have "
 "<emphasis>Elemental</emphasis> as their only trait."
-msgstr "원소 유닛은 살아있는 존재가 아니므로 독, 흡수, 역병에 면역입니다. 원소 유닛은 일반적으로 <emphasis>원소</emphasis>를 유일한 특성으로 갖습니다."
+msgstr "원소 유닛은 살아 있는 존재가 아니므로 독, 흡수, 역병에 면역입니다. 원소 유닛은 일반적으로 <emphasis>원소</emphasis>를 유일한 특성으로 갖습니다."
 
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 #: doc/manual/manual.en.xml:1045
@@ -1647,7 +1647,7 @@ msgid ""
 "Mechanical units aren&#8217;t alive and thus are immune to poison, and drain "
 "and plague don&#8217;t work on them.  Mechanical units generally have "
 "<emphasis>Mechanical</emphasis> as their only trait."
-msgstr "기계 유닛은 살아있는 존재가 아니므로 독, 흡수, 역병에 면역입니다. 기계 유닛은 일반적으로 <emphasis>기계적</emphasis>을 유일한 특성으로 갖습니다."
+msgstr "기계 유닛은 살아 있는 존재가 아니므로 독, 흡수, 역병에 면역입니다. 기계 유닛은 일반적으로 <emphasis>기계적</emphasis>을 유일한 특성으로 갖습니다."
 
 # type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
@@ -1759,7 +1759,7 @@ msgstr "흡수"
 msgid ""
 "This unit drains health from living units, healing itself for half the "
 "amount of damage it deals (rounded down)."
-msgstr "이 유닛은 살아있는 유닛으로부터 체력을 흡수하여, 입힌 피해의 절반만큼 자신을 치유합니다 (소수점 이하 내림)."
+msgstr "이 유닛은 살아 있는 유닛으로부터 체력을 흡수하여, 입힌 피해의 절반만큼 자신을 치유합니다 (소수점 이하 내림)."
 
 # type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
@@ -1828,7 +1828,7 @@ msgid ""
 "This attack poisons the target. Poisoned units lose 8 HP every turn until "
 "they are cured or are reduced to 1 HP. Poison can not, of itself, kill a "
 "unit."
-msgstr "이 공격은 대상을 중독시킵니다. 중독된 유닛은 치료되거나 체력(HP)이 1 체력(HP)가 될 때까지 매 턴마다 8 체력(HP)를 잃습니다. 독 자체로는 유닛을 죽일 수 없습니다."
+msgstr "이 공격은 대상을 중독시킵니다. 중독된 유닛은 치료되거나 체력이 1이 될 때까지 매 턴 체력(HP)을 8씩 잃습니다. 독 자체만으로는 유닛을 죽일 수 없습니다."
 
 # type: Content of: <book><chapter><section><section><variablelist><varlistentry><listitem><simpara>
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><listitem><simpara>
@@ -1838,7 +1838,7 @@ msgid ""
 "caused by attacks and the movement cost for a slowed unit is doubled. A unit "
 "that is slowed will feature a snail icon in its sidebar information when it "
 "is selected."
-msgstr "이 공격은 해당 차례가 끝날 때까지 대상을 둔화시킵니다. 둔화된 유닛은 공격으로 인한 피해를 절반이되고, 둔화된 유닛의 이동력 비용이 두 배로 늘어납니다. 둔화된 유닛은 선택되면 사이드바 정보에 달팽이 마크가 표시됩니다."
+msgstr "이 공격은 대상이 차례를 마칠 때까지 대상을 둔화시킵니다. 둔화된 유닛은 공격으로 주는 피해가 절반으로 줄고 이동 비용이 두 배가 됩니다. 둔화된 유닛을 선택하면 사이드바 정보에 달팽이 아이콘이 표시됩니다."
 
 # type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
@@ -2038,7 +2038,7 @@ msgstr "재생"
 msgid ""
 "This unit will heal itself 8HP per turn. If it is poisoned, it will remove "
 "the poison instead of healing."
-msgstr "이 유닛은 차례마다 체력(HP) +8을 스스로 회복합니다. 중독된 경우 회복 대신 독을 제거합니다."
+msgstr "이 유닛은 차례마다 체력 +8을 스스로 회복합니다. 중독된 경우 회복 대신 독을 제거합니다."
 
 # type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
@@ -2052,7 +2052,7 @@ msgstr "척후병"
 msgid ""
 "This unit is skilled in moving past enemies quickly, and ignores all enemy "
 "Zones of Control."
-msgstr "이 유닛은 빠르게 적을 지나가는 데 능숙하며, 모든 적의 통제 권역(ZOC)을 무시합니다."
+msgstr "이 유닛은 빠르게 적을 지나가는 데 능숙하며, 모든 적의 통제 권역을 무시합니다."
 
 # type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
 #. type: Content of: <book><chapter><section><section><variablelist><varlistentry><term>
@@ -2256,7 +2256,7 @@ msgid ""
 "reach and the path your unit takes. These restrictions are automatically "
 "reflected in both the path that is displayed for your unit and the hexes it "
 "may move to on the current turn."
-msgstr "대부분의 유닛은 통제 권역(ZOC)을 행사하며, 이는 유닛이 도달할 수 있는 육각형과 유닛이 선택하는 경로에 영향을 미칩니다. 이러한 제한 사항은 유닛에 표시되는 경로와 현재 턴에 이동할 수 있는 육각형에 자동으로 반영됩니다."
+msgstr "대부분의 유닛은 통제 권역을 형성하며, 통제 권역은 유닛이 도달할 수 있는 칸과 이동 경로에 영향을 줍니다. 이러한 제한은 유닛에게 표시되는 경로와 현재 차례에 이동할 수 있는 칸에 자동으로 반영됩니다."
 
 # type: Content of: <book><chapter><section><section><title>
 #. type: Content of: <book><chapter><section><section><title>
@@ -2274,7 +2274,7 @@ msgid ""
 "are able to move through them freely without being forced to stop. Level 0 "
 "units are considered too feeble to generate a zone of control and all units "
 "are able to move through the hexes around an enemy level 0 unit freely."
-msgstr "유닛의 통제 권역(ZOC)은 유닛에 바로 인접한 6개의 육각형까지 확장되며, 적의 통제 권역(ZOC)으로 이동하는 유닛은 멈춰야 합니다. 척후병 능력을 가진 유닛은 적의 통제 권역(ZOC)을 무시하고 멈추지 않고 자유롭게 이동할 수 있습니다. 레벨 0 유닛은 통제 권역(ZOC)을 생성하기에 너무 약하다고 간주되며, 모든 유닛은 적 레벨 0 유닛 주변의 육각형을 자유롭게 이동할 수 있습니다."
+msgstr "유닛의 통제 권역은 바로 인접한 6칸까지 뻗으며, 적의 통제 권역으로 들어간 유닛은 멈춰야 합니다. 척후병 능력을 가진 유닛은 적의 통제 권역을 무시하고 멈추지 않은 채 자유롭게 지나갈 수 있습니다. 레벨 0 유닛은 통제 권역을 만들기에는 너무 약하다고 간주되므로, 모든 유닛은 적 레벨 0 유닛 주변의 칸을 자유롭게 통과할 수 있습니다."
 
 # type: Content of: <book><chapter><section><section><title>
 #. type: Content of: <book><chapter><section><section><table><title>
@@ -2465,7 +2465,7 @@ msgid ""
 "Usually the ellipse will be a solid disk. On level 0 units, you will see an "
 "ellipse that has broken lines. This indicates that the unit has no Zone of "
 "Control."
-msgstr "일반적으로 타원은 단색 원반입니다. 레벨 0 유닛에서는 끊어진 선이 있는 타원을 볼 수 있습니다. 이는 해당 유닛이 통제 권역(ZOC)을 가지고 있지 않음을 나타냅니다."
+msgstr "일반적으로 타원은 단색 원반입니다. 레벨 0 유닛에서는 끊어진 선이 있는 타원을 볼 수 있습니다. 이는 해당 유닛이 통제 권역을 가지고 있지 않음을 나타냅니다."
 
 #. type: Content of: <book><chapter><section><section><simpara>
 #: doc/manual/manual.en.xml:1736
@@ -2573,7 +2573,7 @@ msgid ""
 "<emphasis role=\"strong\">Impact</emphasis>: Weapons having neither a sharp "
 "point nor a cutting edge, but heavy enough to break an enemy&#8217;s bones. "
 "Examples: mace, staff, Troll fist."
-msgstr "<emphasis role=\"strong\">충격</emphasis>: 날카로운 끝이나 칼날이 없지만, 적의 뼈를 부술 만큼 충분히 무거운 무기. 예: 철퇴, 지팡이, 트롤(Troll) 주먹."
+msgstr "<emphasis role=\"strong\">충격</emphasis>: 날카로운 끝이나 칼날이 없지만, 적의 뼈를 부술 만큼 충분히 무거운 무기. 예: 철퇴, 지팡이, 트롤 주먹."
 
 # type: Content of: <book><chapter><section><section><itemizedlist><listitem><simpara>
 #. type: Content of: <book><chapter><section><section><itemizedlist><listitem><simpara>
@@ -2840,7 +2840,7 @@ msgid ""
 "possible hexes your adversary can actually move to. This takes your zone of "
 "control into account. Thus you can check that your near death unit, which is "
 "behind, indeed cannot be attacked as the enemy cannot move close to it."
-msgstr "작업 메뉴에서 \"적 이동 표시\"를 선택하면 적이 실제로 이동할 수 있는 모든 육각형이 강조 표시됩니다. 이는 당신의 통제 권역(ZOC)을 고려합니다. 따라서 뒤에 있는 죽어가는 유닛이 적이 가까이 이동할 수 없으므로 공격받을 수 없음을 확인할 수 있습니다."
+msgstr "작업 메뉴에서 \"적 이동 표시\"를 선택하면 적이 실제로 이동할 수 있는 모든 육각형이 강조 표시됩니다. 이는 당신의 통제 권역을 고려합니다. 따라서 뒤에 있는 죽어가는 유닛은 적이 가까이 이동할 수 없으므로 공격받지 않는다는 것을 확인할 수 있습니다."
 
 # type: Content of: <book><chapter><section><section><simpara>
 #. type: Content of: <book><chapter><section><section><simpara>
@@ -2877,7 +2877,7 @@ msgid ""
 "directions, you can prevent the enemy from reaching a wounded unit behind. "
 "He has to defeat the units imposing the ZOC first. If the enemy can barely "
 "reach it, even a single unit may shield a small region behind itself."
-msgstr "통제 권역(ZOC) 때문에, 적은 남북 또는 대각선으로 정렬되어 있고 정확히 1~2개의 육각형이 그 사이에 있는 두 유닛 사이로 빠져나갈 수 없습니다. 이러한 쌍을 길게 연결하거나 다른 방향으로 사용함으로써, 뒤에 있는 부상 유닛에 적이 도달하는 것을 막을 수 있습니다. 적은 먼저 ZOC를 가하는 유닛을 격파해야 합니다. 적이 간신히 도달할 수 있다면, 단일 유닛조차 뒤쪽의 작은 지역을 방어할 수 있습니다."
+msgstr "통제 권역(ZOC) 때문에, 적은 남북 또는 대각선으로 정렬되어 있고 그 사이에 정확히 1~2개의 육각형이 있는 두 유닛 사이로 빠져나갈 수 없습니다. 이런 쌍을 길게 이어 벽처럼 만들거나 서로 다른 방향으로 배치하면, 뒤에 있는 부상한 유닛에게 적이 도달하지 못하게 할 수 있습니다. 적은 먼저 ZOC를 부여하는 유닛을 물리쳐야 합니다. 적이 간신히 도달할 수 있는 거리라면, 유닛 하나만으로도 뒤쪽의 작은 지역을 지킬 수 있습니다."
 
 # type: Content of: <book><chapter><section><section><title>
 #. type: Content of: <book><chapter><section><section><title>
@@ -3264,7 +3264,7 @@ msgstr "백색 마법사(마법사에서 진화) 또는 드루이드(주술사�
 #. type: Content of: <book><chapter><section><section><itemizedlist><listitem><simpara>
 #: doc/manual/manual.en.xml:2193
 msgid "Losing units is expected, even advanced units."
-msgstr "고급 유닛을 포함하여 유닛을 잃는 것은 예상되는 일입니"
+msgstr "고급 유닛을 포함하여 유닛을 잃는 것은 예상되는 일입니다."
 
 # type: Content of: <book><chapter><section><section><itemizedlist><listitem><simpara>
 #. type: Content of: <book><chapter><section><section><itemizedlist><listitem><simpara>

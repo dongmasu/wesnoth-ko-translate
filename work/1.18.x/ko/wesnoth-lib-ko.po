@@ -2246,7 +2246,7 @@ msgstr "다운로드"
 #: data/gui/widget/addon_list.cfg:151 data/gui/window/unit_create.cfg:147
 #: data/gui/window/unit_list.cfg:79 data/gui/window/unit_recall.cfg:33
 msgid "Type"
-msgstr "속성"
+msgstr "유형"
 
 #. [button]: id=single_install
 #. [button]: id=install
@@ -4035,7 +4035,7 @@ msgstr "이 웨스노스(Wesnoth) 버전을 빌드할 때 다음 기능이 선�
 #: data/gui/window/game_version.cfg:429
 #| msgid "Show Battle for Wesnoth help"
 msgid "The Battle for Wesnoth"
-msgstr "웨스노스(Wesnoth) 전쟁"
+msgstr "웨스노스 전투"
 
 #. [widget]: id=tab_label
 #: data/gui/window/game_version.cfg:508
@@ -4166,7 +4166,7 @@ msgstr "라벨 표시"
 #: data/gui/window/help_browser.cfg:116
 #| msgid "Show Battle for Wesnoth help"
 msgid "Battle For Wesnoth Help"
-msgstr "웨스노스(Wesnoth) 전쟁 도움말"
+msgstr "웨스노스 전투 도움말"
 
 #. [label]
 #: data/gui/window/hotkey_bind.cfg:35
@@ -4185,7 +4185,7 @@ msgid ""
 "<i>The Battle for Wesnoth</i> relies on volunteers for development, "
 "including translation. Translations may drift behind or even become "
 "abandoned."
-msgstr "번역을 비롯한 <i>웨스노스(Wesnoth) 전쟁</i>의 개발은 자원봉사자들에게 의존합니다. 번역이 뒤처지거나 중단될 수도 있습니다."
+msgstr "번역을 비롯한 <i>웨스노스 전투</i>의 개발은 자원봉사자들에게 의존합니다. 번역이 뒤처지거나 중단될 수도 있습니다."
 
 #. [label]
 #. Beneath the label widget displaying this text there is a widget displaying
@@ -5787,7 +5787,7 @@ msgstr "친구가 멀티플레이 로비에 참가할 때 메시지 표시"
 #. [toggle_button]: id=lobby_joins_all
 #: data/gui/window/preferences/05_multiplayer.cfg:131
 msgid "Show all lobby joins"
-msgstr "로비 입장 메시지 모두 표시"
+msgstr "로비 입장 메세지 표시"
 
 #. [toggle_button]: id=lobby_joins_all
 #: data/gui/window/preferences/05_multiplayer.cfg:132
@@ -5814,7 +5814,7 @@ msgstr "서버 실행 파일"
 #. [button]: id=mp_wesnothd
 #: data/gui/window/preferences/05_multiplayer.cfg:163
 msgid "Find and set path to MP server to host LAN games"
-msgstr "LAN 게임을 호스팅할 마력(MP) 서버 경로 찾기 및 설정"
+msgstr "LAN 게임을 호스팅할 멀티플레이 서버 경로 찾기 및 설정"
 
 #. [button]: id=add_friend
 #: data/gui/window/preferences/05_multiplayer.cfg:264
@@ -6079,7 +6079,7 @@ msgstr "도움말"
 #. [button]: id=help
 #: data/gui/window/title_screen.cfg:178
 msgid "Show Battle for Wesnoth help"
-msgstr "Battle for 웨스노스(Wesnoth) 도움말을 봅니다"
+msgstr "웨스노스 전투 도움말을 봅니다"
 
 #. [button]: id=previous_tip
 #: data/gui/window/title_screen.cfg:194
@@ -6112,7 +6112,7 @@ msgstr "멀티플레이 (핫시트, 랜 또는 인터넷)나 인공지능과의 
 #. [grid]
 #: data/gui/window/title_screen.cfg:257
 msgid "Load a saved game"
-msgstr "저장된 게임 불러오기"
+msgstr "저장된 게임을 불러옵니다"
 
 #. [grid]
 #: data/gui/window/title_screen.cfg:258
@@ -6560,23 +6560,23 @@ msgstr "싱글플레이/멀티플레이 캠페인"
 
 #: src/gui/dialogs/addon/manager.cpp:168
 msgid "addons_of_type^MP campaigns"
-msgstr "마력(MP) 캠페인"
+msgstr "멀티플레이 캠페인"
 
 #: src/gui/dialogs/addon/manager.cpp:169
 msgid "addons_of_type^MP scenarios"
-msgstr "마력(MP) 시나리오"
+msgstr "멀티플레이 시나리오"
 
 #: src/gui/dialogs/addon/manager.cpp:170
 msgid "addons_of_type^MP map-packs"
-msgstr "마력(MP) 지도 모음"
+msgstr "멀티플레이 지도 모음"
 
 #: src/gui/dialogs/addon/manager.cpp:171
 msgid "addons_of_type^MP eras"
-msgstr "마력(MP) 시대"
+msgstr "멀티플레이 시대"
 
 #: src/gui/dialogs/addon/manager.cpp:172
 msgid "addons_of_type^MP factions"
-msgstr "마력(MP) 진영"
+msgstr "멀티플레이 진영"
 
 #: src/gui/dialogs/addon/manager.cpp:173
 #| msgid "Choose Resolution"
@@ -7914,7 +7914,7 @@ msgstr "경험치 수정: "
 #: src/gui/widgets/unit_preview_pane.cpp:362
 #: src/gui/widgets/unit_preview_pane.cpp:522
 msgid "MP: "
-msgstr "마력(MP): "
+msgstr "이동력(MP): "
 
 #: src/gui/widgets/unit_preview_pane.cpp:400
 #: src/gui/widgets/unit_preview_pane.cpp:550

@@ -186,7 +186,7 @@ msgid ""
 "clubs. In all Annuvin Province, there won’t be nobody besting us in these "
 "swamps. We’re self-reliant out here. We gots our own trade routes and pacts "
 "of mutual defense. No need for them Wesnothians. Not a single bit."
-msgstr "왕실 따위 지옥으로나 떨어져버려라! 우리는 군대도 없고 진짜 무기도 없지만 우리 서부 국경 지역 사람들은 무릿매와 곤봉만 가지고도 잘 해낸다. 안누빈(Annuvin) 지방 전체에서, 이 늪지에있는 우리를 이길 수 있는 놈들은 아무도 없을 것이다. 우리는 여기서 자립하고 있다. 우리는 우리만의 무역로와 상호 방위 조약도 맺었다. 웨스노스인들은 필요없어. 단 한놈도."
+msgstr "왕실 따위 지옥으로나 떨어져버려라! 우리는 군대도 없고 진짜 무기도 없지만 우리 서부 국경 지역 사람들은 무릿매와 곤봉만 가지고도 잘 해낸다. 안누빈(Annuvin) 지방 전체에서, 이 늪지에있는 우리를 이길 수 있는 놈들은 아무도 없을 것이다. 우리는 여기서 자립하고 있다. 우리는 우리만의 무역로와 상호 방위 조약도 맺었다. 웨스노스인들은 필요 없어. 단 한놈도."
 
 #. [part]
 #. Some languages, including Norwegian and Old English, don't have a single word for "uncle", dividing it into
@@ -447,7 +447,7 @@ msgstr "모르겠다, 하르페르(Harper). 정말 모르겠어. 내가 말 할 
 #. Harper has a scar from a fire burn on the right side of her face
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:347
 msgid "My face kinda itches... I gotta be careful around these big ones."
-msgstr "얼굴이 좀 가렵구만... 이런 큰 놈들 주위에서는 조심해야 겠어."
+msgstr "얼굴이 좀 가렵구만... 이런 큰 놈들 주위에서는 조심해야겠어."
 
 #. [message]: speaker=Fal Khag
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:364
@@ -519,7 +519,7 @@ msgstr "자스켄(Jasken)"
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:519
 #| msgid "What’s happening here? Why are you running like mad, $unit.name|?"
 msgid "What’s happening here? Why be you running like mad, $unit.name|?"
-msgstr "아니 여기서 무슨 일이 일어나고 있는거지? $unit.name, 왜 그렇게 미친 듯이 달리고 있는 거야?"
+msgstr "아니 여기서 무슨 일이 일어나고 있는 거지? $unit.name, 왜 그렇게 미친 듯이 달리고 있는 거야?"
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:523
@@ -966,14 +966,14 @@ msgstr "엘렌세파르(Elensefar)? 왜 그사람이오?"
 msgid ""
 "Well all Annuvin be ruled by Elensefar, right? We don’t gots to heed "
 "anything Wesnoth says. Lord Maddock’s technically the one we answer to."
-msgstr "음, 안누빈(Annuvin) 지방은 모두 엘렌세파르(Elensefar)의 지배를 받고있는거 알고있지 않아요? 우리는 웨스노스(Wesnoth)가 하는 말은 듣지 않아도 되요. 엄밀히 따지면, 마드독(Maddock) 경이 우리가 대답할 사람이에요."
+msgstr "음, 안누빈(Annuvin) 지방은 모두 엘렌세파르(Elensefar)의 지배를 받고있는 거 알고있지 않아요? 우리는 웨스노스(Wesnoth)가 하는 말은 듣지 않아도 되요. 엄밀히 따지면, 마드독(Maddock) 경이 우리가 대답할 사람이에요."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:239
 msgid ""
 "It don’t matter. Weldyn be doing whatever it likes while Maddock says "
 "nothing. He knows, but he don’t care."
-msgstr "그런건 상관없소. 마드독(Maddock)이 아무 말도 하지 않는 동안 웰딘(Weldyn)은 하고 싶은 대로 하고 있소. 그는 알고 있겠지만, 신경쓰지 않는 것이오."
+msgstr "그런건 상관없소. 마드독(Maddock)이 아무 말도 하지 않는 동안 웰딘(Weldyn)은 하고 싶은 대로 하고 있소. 그는 알고 있겠지만, 신경 쓰지 않는 것이오."
 
 #. [message]: speaker=Relana
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:243
@@ -1012,14 +1012,14 @@ msgstr "비러먹을 인간놈들, 비러먹을 팔 크하그(Fal Khag)! 멍청�
 msgid ""
 "“Don’t know why the Queen hired some stinkin’ orcs, we don’t need you here.” "
 "Yeah, well now they’re dead like a bunch of beasts."
-msgstr "“여왕이 왜 저 더러운 오크들을 고용했는지 모르겠군. 여기에는 네놈들이 필요 없다.” 그래, 이제 그들은 짐승 떼처럼 죽어 버렸지."
+msgstr "“여왕이 왜 냄새나는 오크들을 고용했는지 모르겠군. 여기엔 네놈들이 필요 없어.” 그래, 이제 놈들은 짐승 떼처럼 죽어 나갔지."
 
 #. [message]: speaker=Thhsthss
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:273
 #| msgid ""
 #| "Fal Khag is nothing to usss, orc. You promissed uss gold. Bright gold."
 msgid "Your ordersss mean nothing to usss, orc. You promissed uss gold."
-msgstr "오크, 네놈들의 명령따윈 신경쓰지 않는다. 네놈들은 우리에게 돈을 주기로 약속했다."
+msgstr "오크, 네놈들의 명령따윈 신경 쓰지 않는다. 네놈들은 우리에게 돈을 주기로 약속했다."
 
 #. [message]: speaker=Urk Delek
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:277
@@ -1091,7 +1091,7 @@ msgstr "여기 뭔가 매우 이상하군. 이 오크들은 군대의 각인이 
 msgid ""
 "Aye, and the gold in their pouches looks new from mint. Could just be "
 "plunder, but..."
-msgstr "그렇군요, 주머니에 들어있는 돈은 갓 주조된 것 같아요. 물론 그냥 약탈한것일 수도 있지만..."
+msgstr "그렇군요, 주머니에 들어있는 돈은 갓 주조된 것 같아요. 물론 그냥 약탈한 것일 수도 있지만..."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:465
@@ -1150,7 +1150,7 @@ msgid ""
 "Baldras and Relana returned to their villages to find them destroyed, with "
 "any survivors borne away to unknown fates. It was a bitter doom, and as "
 "Wesnoth descended into chaos, they would live to see worse."
-msgstr "발드라스(Baldras)와 렐라나(Relana)는 마을로 돌아왔지만 마을은 파괴되어 있었고, 생존자들은 알 수 없는 운명으로 끌려간 뒤였습니다. 참혹한 운명이었습니다. 웨스노스(Wesnoth)가 혼란에 빠지면서 그들은 더욱 끔찍한 일을 목격하게 됩니다."
+msgstr "발드라스(Baldras)와 렐라나(Relana)는 마을로 돌아왔지만, 마을은 파괴되어 있었고 생존자들은 행방을 알 수 없는 운명으로 끌려간 뒤였다. 참혹한 운명이었다. 웨스노스(Wesnoth)가 혼란에 빠지면서, 두 사람은 더 끔찍한 일까지 보게 될 터였다."
 
 #. [scenario]: id=04_Unlawful_Orders
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:4
@@ -1253,7 +1253,7 @@ msgstr "글쎄, 그들은 내 도시의 성벽 안으로 들어오지 않을 것
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:249
 msgid "And what abouts us? Throw us like dogs to those Wesnothians?"
-msgstr "그러면 우리는 어떻게 할 것이오? 우리를 개처럼 웨스노스인들에게 던져주기라도 할거란 말이오?"
+msgstr "그러면 우리는 어떻게 할 것이오? 우리를 개처럼 웨스노스인들에게 던져주기라도 할 거란 말이오?"
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:253
@@ -1262,7 +1262,7 @@ msgid ""
 "Wesnoth is ancient, and I do not think Her Majesty means to break it. At the "
 "same time, I have some concessions that I shall have to make. I cannot "
 "afford a war with Weldyn, as you can surely understand."
-msgstr "평화는 미묘한 균형으로 이루어져 있소. 엘렌세파르(Elensefar)와 웨스노스(Wesnoth) 사이의 조약은 옛날부터 계속되는 것으로, 여왕도 일부로 파기할거라 생각되지 않소. 한편으로 내가 양보해야 할 부분도 있을 것이오. 나는 지금 웰딘(Weldyn)과 전쟁을 치를 여유가 없소, 그건 당신도 잘 알고 있을 거요."
+msgstr "평화는 미묘한 균형으로 이루어져 있소. 엘렌세파르(Elensefar)와 웨스노스(Wesnoth) 사이의 조약은 옛날부터 계속되는 것으로, 여왕도 일부로 파기할 거라 생각되지 않소. 한편으로 내가 양보해야 할 부분도 있을 것이오. 나는 지금 웰딘(Weldyn)과 전쟁을 치를 여유가 없소, 그건 당신도 잘 알고 있을 거요."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:257
@@ -1327,7 +1327,7 @@ msgstr "“여기 빛의 자녀이자 군주와 땅의 충성스러운 수호자
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:363
 msgid "Maddock’s firstborn son."
-msgstr "마드독(Maddock)의 첫번째 아들이지."
+msgstr "마드독(Maddock)의 첫 번째 아들이지."
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:367
@@ -1405,7 +1405,7 @@ msgstr "세상에! 악령처럼 생겼어요! 외삼촌이 말씀하셨던 언�
 msgid ""
 "They bears some likeness, but these men almost seem half alive. This be some "
 "kind of truly dreadful sorcery."
-msgstr "놈들은 약간 비슷하지만, 이 자들은 거의 반쯤 살아있는 것처럼 보이는구나. 이건 정말 끔찍한 마법같구나."
+msgstr "놈들은 약간 비슷하지만, 이 자들은 거의 반쯤 살아 있는 것처럼 보이는구나. 이건 정말 끔찍한 마법같구나."
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:806
@@ -1523,7 +1523,7 @@ msgid ""
 msgstr ""
 "웨스노스력 501년 뿌리가 깊게 뻗는 04월 22일\n"
 "\n"
-"엘렌세파르(Elensefar)를 떠난 후 며칠 동안은, 그 근처에 있는 순찰대 때문에 힘들었다. 한강을 거룻배를 타고 가면서, 우리는 웨스노스인들을 피하려고 가까스로 노력해왔지만, 끊임 없이 감시를 하는 것은 정말 힘든 일이었다. 나는 정말로 뼈속까지 지침을 느끼기 시작했다... 나 같은 늙은이는 집에서 뒹굴거리며 지친 몸을 쉬면서 젊은 동포가 자라는 것을 지켜보는 게 맞는데 말이다. 나에겐 이곳에 있을 이유가 없지만, 나는 무법자로서 돌아다니고 있다. 내가 10년만 젊었더라면..."
+"엘렌세파르(Elensefar)를 떠난 후 며칠 동안은, 그 근처에 있는 순찰대 때문에 힘들었다. 위대한 강을 거룻배를 타고 가면서, 우리는 웨스노스인들을 피하려고 가까스로 노력해왔지만, 끊임 없이 감시를 하는 것은 정말 힘든 일이었다. 나는 정말로 뼈속까지 지침을 느끼기 시작했다... 나 같은 늙은이는 집에서 뒹굴거리며 지친 몸을 쉬면서 젊은 동포가 자라는 것을 지켜보는 게 맞는데 말이다. 나에겐 이곳에 있을 이유가 없지만, 나는 무법자로서 돌아다니고 있다. 내가 10년만 젊었더라면..."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:52
@@ -1560,7 +1560,7 @@ msgstr "한스(Hans)의 죽음"
 #. [note]
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:168
 msgid "In fog, units always see one hex further than they can move."
-msgstr "항상 안개 속에서는 유닛이 이동할 수 있는 것보다 1 육각형이 더 멀리 시야에 들어갑니다. 이동할때 들키지 않도록 주의하세요."
+msgstr "항상 안개 속에서는 유닛이 이동할 수 있는 것보다 1 육각형이 더 멀리 시야에 들어갑니다. 이동할 때 들키지 않도록 주의하세요."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:349
@@ -1573,7 +1573,7 @@ msgid ""
 "the villagers traveled unseen along the swampy banks of the Great River to "
 "the city of Carcyn. They hid until nightfall, then crept out to find the "
 "help Lord Maddock hinted was here."
-msgstr "엘렌세파르(Elensefar)로 향하는 길을 순찰하는 기병들에게 끊임없이 추격당하던 발드라스(Baldras)와 동료들은 보이지 않는 곳으로 한강의 늪지대를 따라 카르신(Carcyn)으로 향했다. 해질녘이 되어서야 그들은 숨어 있다가, 여기에 마드독(Maddock) 경이 있을 것이라 암시한 도움을 찾기위해 슬그머니 빠져나왔다."
+msgstr "엘렌세파르(Elensefar)로 향하는 길을 순찰하는 기병들에게 끊임없이 추격당하던 발드라스(Baldras)와 동료들은 보이지 않는 곳으로 위대한 강의 늪지대를 따라 카르신(Carcyn)으로 향했다. 해질녘이 되어서야 그들은 숨어 있다가, 여기에 마드독(Maddock) 경이 있을 것이라 암시한 도움을 찾기위해 슬그머니 빠져나왔다."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:397
@@ -1864,7 +1864,7 @@ msgid ""
 "Indeed, I am Lord Helicrom, the Crow of the Grey Woods. We are acquaintances "
 "of Lord Maddock, who sent word to us of your predicament. I believe we can "
 "work something out for your situation."
-msgstr "그렇소. 나는 영주 헬리크롬(Helicrom), 회색 숲의 까마귀라고 불리고 있소. 우리는 마드독(Maddock) 경의 지인으로, 당신들의 어려운 상황에대해서도 들었소. 그런 일이라면 협력 할 수 있다고 생각하오."
+msgstr "그렇소. 나는 영주 헬리크롬(Helicrom), 회색 숲의 까마귀라 불리는 자요. 우리는 마드독(Maddock) 경의 지인으로, 당신들의 어려운 상황에 대해서도 들었소. 그런 일이라면 협력할 수 있다고 생각하오."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:263
@@ -1886,7 +1886,7 @@ msgid ""
 "curriculum were dealt with harshly. Many of us were forced to escape here to "
 "continue our study of our brand of magic. Our security and secrecy are not "
 "cheap."
-msgstr "옛 국왕의 마법장관은 웨스노스(Wesnoth)의 마법사들을 훈련하고 채용하는 것을 엄격하게 통제했소. 감히... 말하자면, 교육과정에서 벗어나려 하는 우리 같은 이들은 혹독하게 다루어졌소. 우리는 우리의 마법 종류를 계속하기위해 도피 할 수 밖에 없었소. 당연히 우리의 안전과 비밀은 싸구려는 아니라오."
+msgstr "옛 국왕의 마법부는 웨스노스(Wesnoth)의 마법사 양성과 채용을 엄격하게 통제했소. 감히 말하자면, 교육 과정에서 벗어나려 한 우리 같은 이들은 혹독하게 다루어졌소. 우리는 우리만의 마법 연구를 계속하기 위해 이곳으로 도망칠 수밖에 없었소. 물론 우리의 안전과 비밀을 지키는 데에는 큰 비용이 들지."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:271
@@ -1911,7 +1911,7 @@ msgid ""
 "Understand this. Any weakening of the Throne of Wesnoth, whether it be "
 "occupied by king or queen, aids us. To accomplish that, we must destabilize "
 "their forces in this region. The key is Halstead."
-msgstr "이것을 이해해야하오. 국왕이든 여왕이든 웨스노스(Wesnoth) 왕좌가 약해지면 우리에게 도움이 되는것이오. 그러기 위해서는 이 지역에 있는 그들의 병력을 불안정하게 만들어야 하오. 핵심은 할스테아드요."
+msgstr "이것을 이해해야하오. 국왕이든 여왕이든 웨스노스(Wesnoth) 왕좌가 약해지면 우리에게 도움이 되는 것이오. 그러기 위해서는 이 지역에 있는 그들의 병력을 불안정하게 만들어야 하오. 핵심은 할스테아드요."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:287
@@ -1937,7 +1937,7 @@ msgid ""
 "forces within Halstead. When its armies are raised, none of your little "
 "villages will be able to resist them. Your only choice would be to flee "
 "farther north into orcish territory."
-msgstr "이걸 알아두시오, 발드라스(Baldras). 지난 한 주 동안, 몇몇 순찰대가 다시 한강을 건너 안누빈(Annuvin)으로 모험을 해왔었소. 렐라나(Relana)라는 한 여성이 작은 민병대로 그들에 맞서 승리를 했지만, 큰 손실을 입었지. 그러나 왕실은 이 반란을 주목하기 시작했고, 할스테아드 내에 병력들을 집결시키고 있소. 이 군단들이 움직이면, 당신네 같은 작은 마을이 아무리 힘을 합쳐도 대항할 수 없을 것이오. 거기서 남는 선택지는 한층 더 북쪽의 오크의 영역으로 도망치는 것 정도일 것이오."
+msgstr "이걸 알아두시오, 발드라스(Baldras). 지난 한 주 동안, 몇몇 순찰대가 다시 위대한 강을 건너 안누빈(Annuvin)으로 모험을 해왔었소. 렐라나(Relana)라는 한 여성이 작은 민병대로 그들에 맞서 승리를 했지만, 큰 손실을 입었지. 그러나 왕실은 이 반란을 주목하기 시작했고, 할스테아드 내에 병력들을 집결시키고 있소. 이 군단들이 움직이면, 당신네 같은 작은 마을이 아무리 힘을 합쳐도 대항할 수 없을 것이오. 거기서 남는 선택지는 한층 더 북쪽의 오크의 영역으로 도망치는 것 정도일 것이오."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:299
@@ -1949,7 +1949,7 @@ msgstr "우린 거기서 절대 살아남지 못할 거에요. 하지만 여왕�
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:303
 msgid "Only if we gots no other choice. Let’s hear the mage’s plan first."
-msgstr "만약 다른 선택지가 없다면 그렇게 해야 겠지. 일단 마법사의 계획을 들어보자."
+msgstr "만약 다른 선택지가 없다면 그렇게 해야겠지. 일단 마법사의 계획을 들어보자."
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:307
@@ -2002,7 +2002,7 @@ msgstr "지난 하루 동안, 내 정찰병들이 주둔군을 향해 행군하�
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:342
 #| msgid "Another platoon approaches..."
 msgid "The first platoon approaches..."
-msgstr "첫번째 소대가 근접하고 있어요..."
+msgstr "첫 번째 소대가 근접하고 있어요..."
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:386
@@ -2220,7 +2220,7 @@ msgid ""
 "The girl is naive, but her spirit is in the right place. You risk your homes "
 "and the lives of your people, yes, but what good will they be if you live in "
 "tyranny? Believe me, I have been there. I would rather die than go back."
-msgstr "소녀는 너무 솔직하지만, 그 마음은 착하오. 당신의 생각은 고향과 사람들의 생명을 위험에 빠뜨리고 있는거요, 그래, 그렇지만 폭정 속에 산다면 그것이 무슨 소용이 있겠소? 나는 거기에 다녀와봤으니, 나를 믿으시오. 돌아가느니 차라리 죽는게 나을거요."
+msgstr "소녀는 너무 솔직하지만, 그 마음은 착하오. 당신의 생각은 고향과 사람들의 생명을 위험에 빠뜨리고 있는 거요, 그래, 그렇지만 폭정 속에 산다면 그것이 무슨 소용이 있겠소? 나는 거기에 다녀와봤으니, 나를 믿으시오. 돌아가느니 차라리 죽는게 나을거요."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1168
@@ -2228,7 +2228,7 @@ msgid ""
 "Yes... Erwen would’ve said the same. If we march on Halstead, we gots to "
 "burn it to the ground before the Queen’s forces rally. If we does that, "
 "Weldyn won’t have no foothold in Annuvin no more."
-msgstr "그래... 에르웬도 똑같이 말했을 거야. 우리가 할스테아드로 진군한다면, 여왕의 병력이 집결하기 전에 불태워야 할거요. 그렇게 하면 웰딘(Weldyn)은 더이상 안누빈(Annuvin)에 발을 들일 수 없게 될거요."
+msgstr "그래... 에르웬도 똑같이 말했을 거야. 우리가 할스테아드로 진군한다면, 여왕의 병력이 집결하기 전에 불태워야 할 거요. 그렇게 하면 웰딘(Weldyn)은 더 이상 안누빈(Annuvin)에 발을 들일 수 없게 될 거요."
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1173
@@ -2292,7 +2292,7 @@ msgid ""
 "prowess and might of human magic. Above a series of old catacombs in a scant "
 "hill, we spent these years raising an immense stronghold from the earth’s "
 "living rock."
-msgstr "6년 전, 웰딘(Weldyn)과 엘렌세파르(Elensefar) 영주는 이 협약을 기념하기 위해 한 때 야생지대였던 이 지역의 중심부에 기념비를 세울 것을 명령했다. 우리 알두인(Alduin)의 마법사들은 인간 마법의 완전한 기량과 힘을 보여주기 위해 그 사업에 협력하게 되었다. 빈약한 언덕에 있는 이어진 오래된 지하 묘지 위에, 우리는 대지의 살아있는 바위로 거대한 성채를 세우는 데 지난 몇 년을 보냈다."
+msgstr "6년 전, 웰딘(Weldyn)과 엘렌세파르(Elensefar) 영주는 이 협약을 기념하기 위해 한 때 야생지대였던 이 지역의 중심부에 기념비를 세울 것을 명령했다. 우리 알두인(Alduin)의 마법사들은 인간 마법의 완전한 기량과 힘을 보여주기 위해 그 사업에 협력하게 되었다. 빈약한 언덕에 있는 이어진 오래된 지하 묘지 위에, 우리는 대지의 살아 있는 바위로 거대한 성채를 세우는 데 지난 몇 년을 보냈다."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:30
@@ -2380,7 +2380,7 @@ msgid ""
 "to hold up the middle, which eventually began to collapse without them. "
 "Naturally, this was made secret by the magi, who did not want others to "
 "learn of their error."
-msgstr "이 벽들은 4개의 탑과 중앙 성채를 연결하는 지하 묘지를 기반으로 그 위에 세워졌소. 겉으로는 튼튼해 보이지만, 그 터널은 결코 그렇게 엄청난 무게를 버틸 목적으로 만들어진게 아니었소. 나중에 중앙을 버틸 수 있도록 지지대가 추가되었지만, 그 지지대들이 없다면 무너지기 시작할 것이오. 당연하게도 이것은 다른 사람들이 그들의 실수를 알기 원하지 않는 마법사들에 의해 비밀로 유지되었소."
+msgstr "이 벽들은 네 탑과 중앙 성채를 연결하는 지하 묘지 위에 세워졌소. 겉으로는 인상적으로 보이지만, 터널은 그렇게 엄청난 무게를 버티도록 만들어진 게 아니었소. 나중에 중앙부를 지탱하려고 지지대를 추가했지만, 지지대가 없으면 결국 무너지기 시작할 것이오. 당연히 마법사들은 자신들의 실수를 다른 이들이 알기를 원하지 않았기에 이 사실을 비밀로 부쳤소."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:291
@@ -2441,7 +2441,7 @@ msgid ""
 "been getting bested by a filthy bunch of vagrant bandits. Your army is as "
 "useless as you are pink. The Queen sent us here to clean up the mess that "
 "you are clearly too stupid to fix on your own."
-msgstr "뭐라고요? 지금 여기 봐보세요, 이해력이 딸린것 같습니다. 당신의 무력한 ‘병사들’은 더러운 부랑자 도적떼들에 의해 구타를 당하고 있잖아요. 당신 부하도 당신 같이 무능한것은 똑같군요. 여왕도, 당신이 아무것도 아무것도 할 수 없는 바보인걸 아니까 나를 보낸 거겠지."
+msgstr "뭐라고요? 지금 여기 봐보세요, 이해력이 딸린것 같습니다. 당신의 무력한 ‘병사들’은 더러운 부랑자 도적떼들에 의해 구타를 당하고 있잖아요. 당신 부하도 당신 같이 무능한 것은 똑같군요. 여왕도, 당신이 아무것도 아무것도 할 수 없는 바보인걸 아니까 나를 보낸 거겠지."
 
 #. [message]: speaker=Dommel
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:328
@@ -2762,7 +2762,7 @@ msgid ""
 "nor some great warrior, but I does my best. And I haven’t forgotten about "
 "all them good times we had together ― somehow, some way, they keeps me "
 "going. Me and Harper, we won’t give up till the very end."
-msgstr "나는 할거다, 에르웬. 진짜로 할거거든. 이 모든건 정말 힘들어. 나는 용감한 영혼도, 위대한 전사도 아니지만 최선은 다할거다. 그리고 우리가 함께 보냈던 그 모든 좋은 시간들을 잊지 않을거다. ― 어떻게든, 그것들이 나를 지탱시켜준다. 나와 하르페르(Harper)도 끝까지 포기하지 않을 것이다."
+msgstr "나는 할 거다, 에르웬. 진짜로 할 거거든. 이 모든건 정말 힘들어. 나는 용감한 영혼도, 위대한 전사도 아니지만 최선은 다할 거다. 그리고 우리가 함께 보냈던 그 모든 좋은 시간들을 잊지 않을거다. ― 어떻게든, 그것들이 나를 지탱시켜준다. 나와 하르페르(Harper)도 끝까지 포기하지 않을 것이다."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:40
@@ -2918,12 +2918,12 @@ msgstr "마을 전체가 연장자에게 지도를 구한다. 강하고 지혜�
 #. [female]: gender=female
 #: data/campaigns/Liberty/units/Villagers.cfg:59
 msgid "female^Senior Village Elder"
-msgstr "여성 마을 원로"
+msgstr "마을 원로"
 
 #. [unit_type]: id=Footpad_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:92
 msgid "Peasant Youth"
-msgstr "청소년 농민"
+msgstr "젊은 농부"
 
 #. [unit_type]: id=Footpad_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:96
@@ -2935,7 +2935,7 @@ msgstr "헝클어진 머리의 농민 청년은 웨스노스(Wesnoth)의 여느 
 #. [female]
 #: data/campaigns/Liberty/units/Villagers.cfg:102
 msgid "female^Peasant Youth"
-msgstr "여성 청소년 농민"
+msgstr "젊은 농부"
 
 #. [unit_type]: id=Outlaw_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:116
@@ -2952,7 +2952,7 @@ msgstr "야경꾼은 밤에 웨스노스(Wesnoth) 시골을 배회하는 인간,
 #. [female]
 #: data/campaigns/Liberty/units/Villagers.cfg:123
 msgid "female^Watchwoman"
-msgstr "여성 야경꾼"
+msgstr "야경꾼"
 
 #. [unit_type]: id=Fugitive_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:137
@@ -2971,7 +2971,7 @@ msgstr "국경지대의 마을들은 적으로부터 몸을 지키기 위한 민
 #. [female]
 #: data/campaigns/Liberty/units/Villagers.cfg:144
 msgid "female^Borderer"
-msgstr "여성 국경의 주민"
+msgstr "국경의 주민"
 
 #. [unit_type]: id=Poacher_Peasant
 #: data/campaigns/Liberty/units/Villagers.cfg:163

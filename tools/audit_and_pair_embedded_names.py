@@ -165,6 +165,8 @@ COMMON_SOURCE_WORDS = {
     "Time",
     "Day",
     "Night",
+    "DiD",
+    "III",
     "Road",
     "Town",
     "Towns",
@@ -440,8 +442,8 @@ def process_file(path: Path, pairs: list[NamePair], apply: bool) -> tuple[int, i
         whole_components = {
             component
             for whole in whole_sources
-            if len(re.findall(r"[A-Za-z]+", whole)) > 1
-            for component in re.findall(r"[A-Za-z]+", whole)
+            if len(re.findall(r"[A-Za-z][A-Za-z’'-]*", whole)) > 1
+            for component in re.findall(r"[A-Za-z][A-Za-z’'-]*", whole)
         }
         for pair in sorted(pairs, key=lambda item: len(item.source)):
             if (

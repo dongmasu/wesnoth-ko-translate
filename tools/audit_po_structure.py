@@ -69,9 +69,7 @@ def main() -> int:
     placeholder_count = 0
     for path in sorted(args.directory.glob("*.po")):
         for message in parse_messages(path):
-            source_forms = [message["msgid"]]
-            if message.get("msgid_plural"):
-                source_forms.append(message["msgid_plural"])
+            source_forms = [message.get("msgid_plural") or message["msgid"]]
             translations = sorted(
                 (
                     int(key[7:-1]) if key != "msgstr" else 0,

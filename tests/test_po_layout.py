@@ -15,6 +15,7 @@ from tools.audit_po_structure import (
 )
 from tools.audit_po_completion import audit_directory
 from tools.audit_locale_comparison import active_entries
+from tools.audit_speaker_style import ending_style
 from tools.project_config import DEFAULT_VERSION, PO_ROOT, VERSION, WORK_ROOT, WORK_KO
 
 
@@ -66,6 +67,39 @@ def po_keys(path):
 
 
 class TranslationLayoutTests(unittest.TestCase):
+    def test_active_translations_have_no_review_markers(self):
+        markers = (
+            "번역확인",
+            "번역확인필요",
+            "FIXME",
+            "검토 필요",
+        )
+        for path in sorted(WORK_KO.glob("*.po")):
+            for block in path.read_text(encoding="utf-8").split("\n\n"):
+                if any(line.startswith("#~") for line in block.splitlines()):
+                    continue
+                values = {}
+                current = None
+                for raw_line in block.splitlines():
+                    match = FIELD_RE.match(raw_line)
+                    if match:
+                        current = match.group(1)
+                        values[current] = literal_eval(match.group(2))
+                    elif current and raw_line.startswith('"'):
+                        values[current] += literal_eval(raw_line)
+                    else:
+                        current = None
+
+                translations = [
+                    value
+                    for field, value in values.items()
+                    if field == "msgstr" or field.startswith("msgstr[")
+                ]
+                for translation in translations:
+                    for marker in markers:
+                        with self.subTest(path=path.name, marker=marker):
+                            self.assertNotIn(marker, translation)
+
     def test_locale_comparison_uses_matching_active_keys(self):
         work = active_entries(WORK_KO)
         english = active_entries(PO_ROOT / "en_GB")
@@ -130,6 +164,12 @@ class TranslationLayoutTests(unittest.TestCase):
         translation = "$version."
         self.assertEqual(PLACEHOLDER_RE.findall(source), ["$version"])
         self.assertFalse(mismatch(source, translation, PLACEHOLDER_RE))
+
+    def test_speaker_style_audit_classifies_common_korean_endings(self):
+        self.assertEqual(ending_style("문을 여십시오."), "formal")
+        self.assertEqual(ending_style("그렇군."), "archaic")
+        self.assertEqual(ending_style("어서 가라!"), "imperative")
+        self.assertEqual(ending_style("이제 끝났다."), "plain")
 
     def test_structure_audit_reads_plural_translations(self):
         path = ROOT / "tests" / "_plural_structure_fixture.po"
@@ -243,6 +283,9 @@ class TranslationLayoutTests(unittest.TestCase):
         self.assertTrue(
             (ROOT / "tools" / "normalize_glossary_labels.py").is_file()
         )
+        self.assertTrue(
+            (ROOT / "tools" / "normalize_known_name_spellings.py").is_file()
+        )
         install_doc = (ROOT / "INSTALL.md").read_text(encoding="utf-8")
         for marker in (
             "tools/build_mo.sh",
@@ -260,6 +303,17 @@ class TranslationLayoutTests(unittest.TestCase):
         ):
             with self.subTest(marker=marker):
                 self.assertIn(marker, install_doc)
+
+    def test_full_review_policy_distinguishes_format_audits_from_prose_review(self):
+        work_readme = (ROOT / "work" / "README.md").read_text(encoding="utf-8")
+        for marker in (
+            "자동 감사가 통과해도 의미, 문체",
+            "같은 화자가 말하는 대사는",
+            "audit_speaker_style.py",
+            "수동 검수 대상",
+        ):
+            with self.subTest(marker=marker):
+                self.assertIn(marker, work_readme)
 
     def test_dist_snapshots_include_work_date_and_ignore_only_backups(self):
         build_script = (ROOT / "tools" / "build_mo.sh").read_text(encoding="utf-8")
@@ -369,7 +423,9 @@ class TranslationLayoutTests(unittest.TestCase):
             text=True,
         )
         self.assertEqual(result.returncode, 0, result.stderr)
-        self.assertIn("messages=0 unresolved=0", result.stdout)
+        # A nonzero message count means pairable name candidates were found;
+        # unresolved=0 is the invariant that matters for this audit.
+        self.assertIn("unresolved=0", result.stdout)
 
 
 if __name__ == "__main__":

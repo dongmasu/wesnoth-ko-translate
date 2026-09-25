@@ -29,7 +29,11 @@ PO_STR = re.compile(r'^msgstr "(.*)"$')
 def glossary_rows():
     with GLOSSARY.open(encoding="utf-8", newline="") as stream:
         reader = csv.DictReader(stream, delimiter="\t")
-        return list(reader.fieldnames or ()), list(reader)
+        rows = list(reader)
+    for row in rows:
+        for field in FIELDS:
+            row[field] = row.get(field) or ""
+    return list(reader.fieldnames or ()), rows
 
 
 def exact_po_translations(path):
@@ -114,6 +118,128 @@ class GlossaryTests(unittest.TestCase):
         self.assertEqual(by_source["Great River"], "위대한 강")
         self.assertEqual(by_source["The Great River"], "위대한 강")
 
+    def test_sorcerer_and_sorceress_preserve_gendered_korean_distinction(self):
+        _, rows = glossary_rows()
+        by_source = {row["source_term"]: row["standard_korean"] for row in rows}
+        self.assertEqual(by_source["Sorcerer"], "마법사")
+        self.assertEqual(by_source["Dark Sorcerer"], "흑마법사")
+        self.assertEqual(by_source["Dark Sorceress"], "흑마녀")
+        self.assertEqual(by_source["female^Elvish Sorceress"], "요정 마녀")
+
+    def test_gendered_lexical_terms_preserve_gender_meaning(self):
+        _, rows = glossary_rows()
+        by_source = {row["source_term"]: row["standard_korean"] for row in rows}
+        expected = {
+            "Ant Queen": "개미 여왕",
+            "Dark Sorceress": "흑마녀",
+            "Elvish Princess": "요정 공주",
+            "Mother Gryphon": "엄마 그리폰(Gryphon)",
+            "Sister Thera": "테라(Thera) 수녀",
+            "female^Battle Princess": "전투 공주",
+            "female^Frontier Baroness": "국경의 남작 부인",
+            "female^Mermaid Priestess": "인어 여신관",
+            "female^Vampire Lady": "뱀파이어 아가씨",
+            "female^Watchwoman": "야경꾼",
+        }
+        for source, korean in expected.items():
+            with self.subTest(source=source):
+                self.assertEqual(by_source[source], korean)
+
+    def test_gender_context_variants_match_base_unless_sex_is_identity(self):
+        _, rows = glossary_rows()
+        by_source = {row["source_term"]: row["standard_korean"] for row in rows}
+        exceptions = {"female^Inky"}
+        for source, korean in by_source.items():
+            if not source.startswith(("female^", "male^", "race+female^")):
+                continue
+            base = source.split("^", 1)[1]
+            if source in exceptions or base not in by_source:
+                continue
+            with self.subTest(source=source):
+                self.assertEqual(korean, by_source[base])
+
+        self.assertEqual(by_source["female^Inky"], "암컷 잉키(Inky)")
+
+    def test_multiword_names_pair_only_transliterated_name_components(self):
+        _, rows = glossary_rows()
+        by_source = {row["source_term"]: row["standard_korean"] for row in rows}
+        expected = {
+            "Barag Gór": "바락 고르(Barag Gór)",
+            "Bragdash Gar": "브라그다시 가르(Bragdash Gar)",
+            "Chief Bir-brish": "족장 비르-브리시(Bir-brish)",
+            "Chief Dra-Nak": "족장 드라-나크(Dra-Nak)",
+            "Contender Gorlack": "경쟁자 고를락(Gorlack)",
+            "Gawffus the Dim": "어리숙한 가우푸스(Gawffus)",
+            "Mal Maul": "말 마울(Mal Maul)",
+            "Muff Argulak": "머프 아르굴락(Muff Argulak)",
+            "Muff Toras": "머프 토라스(Muff Toras)",
+            "Naga Myrmidon": "나가 미르미돈(Myrmidon)",
+            "Pidmer Gar": "피드메르 가르(Pidmer Gar)",
+            "Rawffus the Dim": "어리숙한 라우푸스(Rawffus)",
+            "Urza Fastik": "우르자 파스티크(Urza Fastik)",
+        }
+        for source, standard in expected.items():
+            with self.subTest(source=source):
+                self.assertEqual(by_source[source], standard)
+
+    def test_embedded_name_audit_does_not_repair_components_of_a_paired_name(self):
+        from tools.audit_and_pair_embedded_names import (
+            NamePair,
+            SOURCE_PATTERNS,
+            SOURCE_TRANSLATION_PATTERNS,
+            TRANSLATION_PATTERNS,
+            process_file,
+        )
+        from tempfile import TemporaryDirectory
+
+        pairs = [
+            NamePair("Mal A’kai", "말 아카이", "person_name", "Mal A’kai"),
+            NamePair("A’kai", "아카이", "person_name", "A’kai"),
+        ]
+        original_source_patterns = SOURCE_PATTERNS.copy()
+        original_translation_patterns = TRANSLATION_PATTERNS.copy()
+        original_source_translation_patterns = SOURCE_TRANSLATION_PATTERNS.copy()
+        with TemporaryDirectory() as tempdir:
+            path = Path(tempdir) / "sample.po"
+            path.write_text(
+                'msgid "Mal A’kai"\nmsgstr "말 아카이(Mal A’kai)"\n',
+                encoding="utf-8",
+            )
+            try:
+                SOURCE_PATTERNS.clear()
+                TRANSLATION_PATTERNS.clear()
+                SOURCE_TRANSLATION_PATTERNS.clear()
+                for pair in pairs:
+                    SOURCE_PATTERNS[pair.source] = re.compile(
+                        r"(?<![A-Za-z0-9-])"
+                        + re.escape(pair.source)
+                        + r"(?![A-Za-z0-9-])"
+                    )
+                    TRANSLATION_PATTERNS[(pair.korean, pair.source)] = re.compile(
+                        re.escape(pair.korean)
+                        + r"(?P<particle>(?:은|는|이|가|을|를|의|에|로|와|과|도|만|에서|에게|으로)?)"
+                        + rf"(?!{re.escape(f'({pair.source})')})"
+                        + r"(?!\()"
+                    )
+                    SOURCE_TRANSLATION_PATTERNS[pair.source] = re.compile(
+                        r"(?<![A-Za-z0-9-(])"
+                        + re.escape(pair.source)
+                        + r"(?P<particle>(?:은|는|이|가|을|를|의|에|로|와|과|도|만|에서|에게|으로)?)"
+                        + r"(?![A-Za-z0-9-])"
+                    )
+                messages, unresolved = process_file(path, pairs, apply=False)
+            finally:
+                SOURCE_PATTERNS.clear()
+                SOURCE_PATTERNS.update(original_source_patterns)
+                TRANSLATION_PATTERNS.clear()
+                TRANSLATION_PATTERNS.update(original_translation_patterns)
+                SOURCE_TRANSLATION_PATTERNS.clear()
+                SOURCE_TRANSLATION_PATTERNS.update(
+                    original_source_translation_patterns
+                )
+        self.assertEqual(messages, 0)
+        self.assertEqual(unresolved, 0)
+
     def test_species_names_have_a_separate_context(self):
         _, rows = glossary_rows()
         by_source = {row["source_term"]: row for row in rows}
@@ -144,6 +270,28 @@ class GlossaryTests(unittest.TestCase):
         self.assertIsNotNone(preferences)
         self.assertIn('msgstr "음악"', about)
         self.assertIn('msgstr "음악"', preferences)
+
+    def test_manual_core_terms_and_prose_are_reviewed(self):
+        text = "\n".join(
+            exact_po_translations(WORK_KO / "wesnoth-manual-ko.po").values()
+        )
+        for expected in (
+            "《웨스노스 전투》는 판타지를 배경으로 하는 턴제 전략 게임입니다.",
+            "강력한 군대를 만들고, 풋내기 신병을 차츰 노련한 베테랑으로 훈련하십시오.",
+            "체력(HP)을 8씩 잃습니다.",
+            "통제 권역을 형성하며",
+            "통제 권역은 유닛이 도달할 수 있는 칸과 이동 경로에 영향을 줍니다.",
+        ):
+            with self.subTest(expected=expected):
+                self.assertIn(expected, text)
+        for rejected in (
+            "웨스노스(Wesnoth)의 전쟁은 판타지적",
+            "저하할 수 없는 막강한 군대",
+            "1 체력(HP)가 될 때까지",
+            "통제 구역을 행사하며",
+        ):
+            with self.subTest(rejected=rejected):
+                self.assertNotIn(rejected, text)
 
     def test_yes_no_use_response_words_not_presence_words(self):
         _, rows = glossary_rows()
@@ -177,6 +325,10 @@ class GlossaryTests(unittest.TestCase):
                 translation = values.get("msgstr", "")
                 if "^" not in source or "\n" in source or not translation:
                     continue
+                # Some source strings use ^ as syntax inside a literal command
+                # name; that prefix is part of the command and must remain.
+                if source.startswith("command_"):
+                    continue
                 with self.subTest(path=path.name, source=source):
                     self.assertIsNone(prefix_pattern.match(translation))
 
@@ -202,6 +354,10 @@ class GlossaryTests(unittest.TestCase):
         self.assertIn('msgid "Example"', normalized)
         self.assertIn('msgstr "그렇게 할 것이다"', normalized)
 
+        normalized_again, count_again = normalize_block(normalized)
+        self.assertEqual(count_again, 0)
+        self.assertEqual(normalized_again, normalized)
+
         obsolete = '#~ msgid "Example"\n#~ msgstr "그렇게 할것이다"'
         unchanged, count = normalize_block(obsolete)
         self.assertEqual(count, 0)
@@ -213,6 +369,55 @@ class GlossaryTests(unittest.TestCase):
         self.assertEqual(count, 5)
         self.assertIn(
             'msgstr "절대 난쟁이가 쫓아가며 대가를 치르고 부딪혀"',
+            normalized,
+        )
+
+    def test_korean_spacing_normalization_covers_ordinal_spacing(self):
+        active = 'msgid "Example"\nmsgstr "첫번째와 세번째 대상을 선택할 수 있다"\n'
+        normalized, count = normalize_block(active)
+        self.assertEqual(count, 2)
+        self.assertIn(
+            'msgstr "첫 번째와 세 번째 대상을 선택할 수 있다"',
+            normalized,
+        )
+
+    def test_korean_spacing_normalization_covers_common_time_and_future_spacing(self):
+        active = (
+            'msgid "Example"\n'
+            'msgstr "그때 도착할거다. 온것을 확인할때까지 수백년을 기다렸다."\n'
+        )
+        normalized, count = normalize_block(active)
+        self.assertEqual(count, 4)
+        self.assertIn(
+            'msgstr "그때 도착할 거다. 온 것을 확인할 때까지 수백 년을 기다렸다."',
+            normalized,
+        )
+
+    def test_korean_spacing_normalization_covers_reviewed_typos(self):
+        active = (
+            'msgid "Example"\n'
+            'msgstr "다름 이름으로 빌견되지 않은 죽은자의 흔적이 '
+            '치명타가 꽃히는것처럼 보였다."\n'
+        )
+        normalized, count = normalize_block(active)
+        self.assertEqual(count, 4)
+        self.assertIn(
+            'msgstr "다른 이름으로 발견되지 않은 죽은 자의 흔적이 '
+            '치명타가 꽂히는 것처럼 보였다."',
+            normalized,
+        )
+
+    def test_korean_spacing_normalization_covers_reviewed_compound_spacing(self):
+        active = (
+            'msgid "Example"\n'
+            'msgstr "살아있는 자가 좀더 기다리면 또다른 길이 있는건 아니다. '
+            '몇군데의 북쪽지역을 평생동안 돌아다니며 자기자신을 지켰다."\n'
+        )
+        normalized, count = normalize_block(active)
+        self.assertEqual(count, 8)
+        self.assertIn(
+            'msgstr "살아 있는 자가 좀 더 기다리면 또 다른 길이 있는 건 아니다. '
+            '몇 군데의 북쪽 지역을 평생 동안 돌아다니며 자기 자신을 지켰다."',
             normalized,
         )
 
@@ -249,7 +454,7 @@ class GlossaryTests(unittest.TestCase):
             "Clan": "일족",
             "DM": "회고",
             "DW": "바다",
-            "DiD": "하드코어",
+            "DiD": "DiD",
             "EI": "침동",
             "Garrison": "수비군",
             "HttT": "왕자",
@@ -286,6 +491,458 @@ class GlossaryTests(unittest.TestCase):
                 if source in expected:
                     with self.subTest(path=path.name, source=source):
                         self.assertEqual(values.get("msgstr"), expected[source])
+
+    def test_reviewed_two_brothers_names_use_canonical_spellings(self):
+        _, rows = glossary_rows()
+        by_source = {row["source_term"]: row for row in rows}
+        self.assertEqual(by_source["Maghre"]["standard_korean"], "마그레(Maghre)")
+        self.assertEqual(by_source["Arvith"]["standard_korean"], "아르비쓰(Arvith)")
+        self.assertEqual(by_source["Baran"]["standard_korean"], "바란(Baran)")
+        self.assertEqual(by_source["Arvith"]["forbidden_terms"], "아르비트")
+
+        text = (WORK_KO / "wesnoth-tb-ko.po").read_text(encoding="utf-8")
+        self.assertNotIn("마그흐레", text)
+        self.assertNotIn("아르비트", text)
+        self.assertNotIn("바라네(Baran)", text)
+
+    def test_reviewed_two_brothers_dialogue_regressions(self):
+        text = (WORK_KO / "wesnoth-tb-ko.po").read_text(encoding="utf-8")
+        for expected in (
+            "네가 불렀고, 나는 왔다. 그걸로 만족해라.",
+            "그대가 알던 아우의 모습만 기억하게.",
+            "그대가 너무 늦기를",
+            "내 칼이 네놈 목에 닿아 있다.",
+            "말에 올라라. 출발한다.",
+            "씨족 없는 자 로타리크(Rotharik)의 일기",
+            "흑마법사는 강력한 유닛입니다.",
+        ):
+            with self.subTest(expected=expected):
+                self.assertIn(expected, text)
+
+        for rejected in (
+            "그쪽은 안전할지 몰라도 네놈 목은",
+            "어쩼든",
+            "비러먹을",
+            "착마하라",
+            "해야할 일",
+            "네가 늦지 않기를",
+            "어둠의 정령마법사",
+            "무소속 로타릭",
+        ):
+            with self.subTest(rejected=rejected):
+                self.assertNotIn(rejected, text)
+
+    def test_sorceress_is_feminine_not_plural_and_uses_witch_terms(self):
+        _, rows = glossary_rows()
+        by_source = {row["source_term"]: row for row in rows}
+        self.assertEqual(by_source["Dark Sorcerer"]["standard_korean"], "흑마법사")
+        self.assertEqual(by_source["Dark Sorceress"]["standard_korean"], "흑마녀")
+        self.assertEqual(by_source["Sorcerer"]["standard_korean"], "마법사")
+        self.assertEqual(
+            by_source["female^Elvish Sorceress"]["standard_korean"], "요정 마녀"
+        )
+
+        for path in WORK_KO.glob("*.po"):
+            for block in path.read_text(encoding="utf-8").split("\n\n"):
+                if any(line.startswith("#~") for line in block.splitlines()):
+                    continue
+                values = parse_field_values(block)
+                if values.get("msgid") == "Dark Sorcerer":
+                    with self.subTest(path=path.name):
+                        self.assertEqual(values.get("msgstr"), "흑마법사")
+                if values.get("msgid") == "Dark Sorceress":
+                    with self.subTest(path=path.name):
+                        self.assertEqual(values.get("msgstr"), "흑마녀")
+                if values.get("msgid") == "female^Elvish Sorceress":
+                    with self.subTest(path=path.name):
+                        self.assertEqual(values.get("msgstr"), "요정 마녀")
+                if values.get("msgstr"):
+                    with self.subTest(path=path.name, msgid=values.get("msgid", "")[:40]):
+                        self.assertNotIn("흑마술사", values["msgstr"])
+                        if "sorcerer" in values.get("msgid", "").lower():
+                            self.assertNotIn("마술사", values["msgstr"])
+
+    def test_sorcerer_descriptions_preserve_gender_and_meaning(self):
+        text = (WORK_KO / "wesnoth-units-ko.po").read_text(encoding="utf-8")
+        self.assertIn(
+            "흑마법이 불러일으키는 공포는 이를 둘러싼 비밀과 흉흉한 소문 때문에",
+            text,
+        )
+        self.assertIn(
+            "흑마법이 불러일으키는 공포는 보통 사람들이 그것에 대해 아는 것이 거의 없다는",
+            text,
+        )
+        self.assertIn(
+            '주인"\n"인 그녀를 절대 의심하지 않는다.',
+            text,
+        )
+        self.assertNotIn("무기력한 물체", text)
+        self.assertNotIn("첫번째 성과는 빠르고 불편한 응용", text)
+        self.assertNotIn("보이기만 하면, 알아내는 것은 시간문제", text)
+
+    def test_sorceress_prose_uses_feminine_term_consistently(self):
+        nr = (WORK_KO / "wesnoth-nr-ko.po").read_text(encoding="utf-8")
+        sota = (WORK_KO / "wesnoth-sota-ko.po").read_text(encoding="utf-8")
+        units = (WORK_KO / "wesnoth-units-ko.po").read_text(encoding="utf-8")
+        units_block = next(
+            block
+            for block in units.split("\n\n")
+            if parse_field_values(block).get("msgid") == "The dread inspired by black magic comes chiefly from how little is known about it by the common man. Dark sorceresses have begun to unlock the secrets of life and death, the latter of which is all too easy to inflict. This labor gives the first glimmerings of the connection between the soul and inert matter, and the first successful experiments in manipulating this bond. The terrible unknown that lurks beyond death is glimpsed, and will inevitably be fathomed.\n\nDespite any design they may have of using this to wrest their own immortality from nature’s grasp, the first results of their work have immediate, and unpleasant applications. The life they breathe into dead matter can create servants for them, servants which will work, but which will also kill, and will never question their mistress. These creations have a loyalty any tyrant would dream of, and it is tempting to those with even the merest desire for power."
+        )
+        dark_sorceress = parse_field_values(units_block)["msgstr"]
+
+        self.assertIn("이 어린 마녀를 손에 넣으면", nr)
+        self.assertIn("빌어먹을 마녀를 구하러", nr)
+        self.assertNotIn("마법사들을 넘겨주면", nr)
+        self.assertNotIn("여자 마법사를 구하러", nr)
+        self.assertIn("그때 엘프 마녀를 만났다.", sota)
+        self.assertNotIn("그때 엘프 마법사를 만났다.", sota)
+        self.assertIn("거의 없다는 데서 비롯된다.", dark_sorceress)
+        self.assertIn("죽음은 너무나 쉽게", dark_sorceress)
+        self.assertNotIn("없다는데서 비롯된다", dark_sorceress)
+        self.assertNotIn("죽음은너무나", dark_sorceress)
+
+    def test_reviewed_game_terms_keep_context_specific_meanings(self):
+        _, rows = glossary_rows()
+        by_source = {row["source_term"]: row for row in rows}
+        self.assertEqual(by_source["MP"]["standard_korean"], "이동력(MP)")
+        self.assertEqual(
+            by_source["addons_of_type^MP campaigns"]["standard_korean"],
+            "멀티플레이 캠페인",
+        )
+        self.assertEqual(
+            by_source["The Battle for Wesnoth"]["standard_korean"],
+            "웨스노스 전투",
+        )
+        self.assertEqual(
+            by_source["Battle For Wesnoth Help"]["standard_korean"],
+            "웨스노스 전투 도움말",
+        )
+        self.assertEqual(by_source["Gweddry"]["standard_korean"], "그웨드리(Gweddry)")
+
+        ei = (WORK_KO / "wesnoth-ei-ko.po").read_text(encoding="utf-8")
+        self.assertNotIn("궤드리", ei)
+        self.assertNotIn("다킨", ei)
+        self.assertNotIn("오웨크", ei)
+        self.assertIn("그웨드리(Gweddry), 다신(Dacyn), 오와에크(Owaec)", ei)
+
+    def test_reviewed_ui_and_prose_spacing_is_clean(self):
+        targets = (
+            WORK_KO / "wesnoth-ko.po",
+            WORK_KO / "wesnoth-dm-ko.po",
+            WORK_KO / "wesnoth-dw-ko.po",
+            WORK_KO / "wesnoth-help-ko.po",
+        )
+        text = "\n".join(
+            block
+            for path in targets
+            for block in path.read_text(encoding="utf-8").split("\n\n")
+            if not any(line.startswith("#~") for line in block.splitlines())
+        )
+        for rejected in (
+            "게임 내 체팅",
+            "이동가능한",
+            "해야할",
+            "할 수있는",
+            "공격해야할",
+        ):
+            with self.subTest(rejected=rejected):
+                self.assertNotIn(rejected, text)
+        self.assertIn("크렐라누의 서를 연구한 끝에", text)
+
+    def test_reviewed_main_ui_descriptions_use_natural_korean(self):
+        text = (WORK_KO / "wesnoth-ko.po").read_text(encoding="utf-8")
+        for expected in (
+            "편집기의 최근 파일 메뉴에 표시할 항목의 최대 개수",
+            "게임 내에서 지원 중단 메시지 표시",
+            "현재 해상도의 표준 크기를 기준으로 모든 텍스트 크기를 확대하거나 축소합니다.",
+            "서버 연결 해제 시간 초과",
+        ):
+            with self.subTest(expected=expected):
+                self.assertIn(expected, text)
+        for rejected in (
+            "숫자의 최대치",
+            "하게합니다",
+            "부정적 메시지를 게임에서 표시",
+            "서버가 시간 초과로 연결 해제되었습니다",
+        ):
+            with self.subTest(rejected=rejected):
+                self.assertNotIn(rejected, text)
+
+    def test_reviewed_dead_water_and_northern_rebirth_prose_is_clean(self):
+        dw = (WORK_KO / "wesnoth-dw-ko.po").read_text(encoding="utf-8")
+        nr = (WORK_KO / "wesnoth-nr-ko.po").read_text(encoding="utf-8")
+        main = (WORK_KO / "wesnoth-ko.po").read_text(encoding="utf-8")
+        low = (WORK_KO / "wesnoth-low-ko.po").read_text(encoding="utf-8")
+
+        for expected in (
+            "후회하게 될 거다",
+            "거주민들은 그들을 별로 반기지 않는 듯했다",
+            "저주받은 검은엄니 카즈그를 기습해 죽였소",
+            "당신을 구출하러 온 대규모 요정 군대",
+            "죽음의 문턱에 머뭅니다",
+            "계약에는 우리의 명예가 걸려 있네",
+        ):
+            with self.subTest(expected=expected):
+                self.assertIn(expected, dw + nr + main + low)
+
+        for rejected in (
+            "네놈들감히",
+            "희망이없는",
+            "보호되고있습니다",
+            "석방 할 수",
+            "죽음의 문남아",
+            "원치 않든간에",
+        ):
+            with self.subTest(rejected=rejected):
+                self.assertNotIn(rejected, dw + nr + main + low)
+
+    def test_reviewed_under_the_burning_suns_prose_preserves_meaning(self):
+        text = (WORK_KO / "wesnoth-utbs-ko.po").read_text(encoding="utf-8")
+        for expected in (
+            "여기는 사막이 아니야",
+            "평소처럼 수적 우위도 점하기 어렵지",
+            "우리 추적자들은 그들을 한 명씩 또는 소규모 무리로 쫓아가 처치했다",
+            "우리 요정 동족을 거의 알아차리지 못했다",
+        ):
+            with self.subTest(expected=expected):
+                self.assertIn(expected, text)
+        for rejected in ("다시 한 번 주의했으면해", "싸우는것을", "진여에 접근", "그 떄문에"):
+            with self.subTest(rejected=rejected):
+                self.assertNotIn(rejected, text)
+
+    def test_reviewed_northern_rebirth_and_dialogue_prose(self):
+        nr = (WORK_KO / "wesnoth-nr-ko.po").read_text(encoding="utf-8")
+        dw = (WORK_KO / "wesnoth-dw-ko.po").read_text(encoding="utf-8")
+        utbs = (WORK_KO / "wesnoth-utbs-ko.po").read_text(encoding="utf-8")
+
+        for expected in (
+            "마주치는 오크, 트롤, 해골을 모조리 구워 버려서지.",
+            "지상의 인간들이 몇 년 전 오크에게 노예가 되거나 죽었다고 생각했는데.",
+            "자유를 지키기 위해 옛 동맹인 난쟁이들에게 도움과 장비를 구하러 왔습니다.",
+            "우리 요새에 온 것을 환영하오.",
+            "아직 놈들이 우리를 눈치채지 못한 듯하오.",
+            "각자의 길을 갈 때가 되었다고 생각한 모양입니다.",
+        ):
+            with self.subTest(expected=expected):
+                self.assertIn(expected, nr)
+        self.assertIn("네가 겉모습과 달리 용감하고 내 도움을 받을 자격이 있음을", dw)
+        self.assertIn(
+            "나와 내 백성을 위협하는 자들에게 나 자신을 넘기지는 않겠다.",
+            utbs,
+        )
+        self.assertNotIn("원하신다면 저를 죽이십시오.", utbs)
+
+    def test_reviewed_northern_rebirth_opening_keeps_meaning(self):
+        text = (WORK_KO / "wesnoth-nr-ko.po").read_text(encoding="utf-8")
+        for expected in (
+            "이곳은 난쟁이 동굴 입구 중 하나구나.",
+            "주인님께 알려야겠어.",
+            "나는 이제 죽지만, 자유인으로 죽는다!",
+            "별로 영리한 놈은 아니었지, 그렇지?",
+            "새로 얻은 자유에 대한 사람들의 기쁨을 억누를 수 없었다.",
+            "탈린(Tallin)만은 침통한 표정이었다.",
+            "크날가(Knalga) 침공 때 죽은 난쟁이들이 이제 언데드가 되어",
+        ):
+            with self.subTest(expected=expected):
+                self.assertIn(expected, text)
+        self.assertNotIn("입구중", text)
+        self.assertNotIn("그렇게 대단한 놈도 아니구나", text)
+
+    def test_reviewed_dead_water_opening_preserves_narrative_meaning(self):
+        text = (WORK_KO / "wesnoth-dw-ko.po").read_text(encoding="utf-8")
+        for expected in (
+            "당신은 카이 크렐리스(Kai Krellis)입니다.",
+            "(중급 난이도, 10개 시나리오.)",
+            "인어 도시 조타(Jotha)가 있습니다.",
+            "오크 다섯 명을 쓰러뜨렸습니다.",
+            "실라나(Cylanna)는 그의 아버지의 친구였고",
+            "죽음과 부패의 냄새가 납니다.",
+            "이번이 지도자로서 치르는 첫 시험입니다.",
+            "강령술사의 시체에서 솟아나",
+            "스스로 리치가 된 위대한 인간 마법사",
+        ):
+            with self.subTest(expected=expected):
+                self.assertIn(expected, text)
+        self.assertNotIn("죽은 시체", text)
+        self.assertNotIn("현자 마법사", text)
+
+    def test_reviewed_burning_suns_history_prose_uses_natural_mage_terms(self):
+        text = (WORK_KO / "wesnoth-utbs-ko.po").read_text(encoding="utf-8")
+        for expected in (
+            "초대 왕의 젊은 후손이",
+            "마법을 다루기 위해 여전히 열심히 수련하는 마법사들",
+            "웨스노스(Wesnoth) 제국의 중심부가 완전히 파괴되었습니다.",
+            "섬들이 줄지어 있습니다.",
+            "배들이 교역품과 소식을 싣고 본토를 자주 오갔습니다.",
+        ):
+            with self.subTest(expected=expected):
+                self.assertIn(expected, text)
+        self.assertNotIn("마술사들은 두 번째 산", text)
+        self.assertNotIn("연이은의 섬들", text)
+        self.assertNotIn("파괴 되버렸어요", text)
+
+    def test_lisar_keeps_the_canonical_bilingual_spelling(self):
+        path = WORK_KO / "wesnoth-httt-ko.po"
+        text = path.read_text(encoding="utf-8")
+        self.assertIn(
+            'msgid "Death of Li’sar"\nmsgstr "리사르(Li’sar)의 죽음"',
+            text,
+        )
+        self.assertNotIn('msgstr "Li\'sar의 죽음"', text)
+
+    def test_reviewed_name_overrides_cover_truncated_and_long_prose_names(self):
+        _, rows = glossary_rows()
+        by_source = {row["source_term"]: row for row in rows}
+        self.assertEqual(by_source["Deora—"]["standard_korean"], "데오라—")
+        self.assertEqual(
+            by_source["Mal A’kai"]["standard_korean"],
+            "말 아카이(Mal A’kai)",
+        )
+        self.assertEqual(
+            by_source["Ruaskkolin"]["standard_korean"],
+            "라스코쿠린(Ruaskkolin)",
+        )
+        self.assertEqual(
+            by_source["Alavynne"]["standard_korean"],
+            "알라빈(Alavynne)",
+        )
+
+        tsg = (WORK_KO / "wesnoth-tsg-ko.po").read_text(encoding="utf-8")
+        multiplayer = (
+            WORK_KO / "wesnoth-multiplayer-ko.po"
+        ).read_text(encoding="utf-8")
+        self.assertIn('msgstr "데오라—"', tsg)
+        self.assertIn('msgstr "말 아카이(Mal A’kai)"', tsg)
+        for expected in (
+            "시르스즈크(Syrsszk)",
+            "리스릴레로즈크(Rysssrylosszkk)",
+            "라스코쿠린(Ruaskkolin)",
+            "차크소(Chak’kso)",
+        ):
+            with self.subTest(expected=expected):
+                self.assertIn(expected, multiplayer)
+
+        units = (WORK_KO / "wesnoth-units-ko.po").read_text(encoding="utf-8")
+        self.assertIn("알라빈(Alavynne)의 군사들에게", units)
+
+    def test_name_override_pairing_is_idempotent_and_not_nested(self):
+        from tools.apply_name_translation_overrides import (
+            replace_unpaired_name_tokens,
+        )
+
+        source = (
+            "시르스즈크(시르스즈크(시르스즈크(Syrsszk))) 출신의 "
+            "시크리스(Xikkrisx)는 차크소(Chak’kso)를 만났다."
+        )
+        expected = (
+            "시르스즈크(Syrsszk) 출신의 시크리스(Xikkrisx)는 "
+            "차크소(Chak’kso)를 만났다."
+        )
+        once = replace_unpaired_name_tokens(source)
+        twice = replace_unpaired_name_tokens(once)
+        self.assertEqual(once, expected)
+        self.assertEqual(twice, expected)
+
+    def test_barag_gor_is_paired_in_all_active_contexts(self):
+        for path in WORK_KO.glob("*.po"):
+            for block in path.read_text(encoding="utf-8").split("\n\n"):
+                if any(line.startswith("#~") for line in block.splitlines()):
+                    continue
+                values = parse_field_values(block)
+                if "Barag Gór" not in values.get("msgid", ""):
+                    continue
+                with self.subTest(path=path.name, msgid=values["msgid"][:60]):
+                    self.assertIn(
+                        "바락 고르(Barag Gór)",
+                        values.get("msgstr", ""),
+                    )
+                    self.assertNotIn(
+                        "바락 고르(Barag Gór)(Barag Gór)",
+                        values.get("msgstr", ""),
+                    )
+
+    def test_parser_error_messages_are_translated_without_changing_placeholders(self):
+        source = "Found invalid closing tag [/$tag2] for tag [$tag1]"
+        expected = "[$tag1] 태그에 잘못된 닫기 태그 [/$tag2]"
+
+        path = WORK_KO / "wesnoth-ko.po"
+        for block in path.read_text(encoding="utf-8").split("\n\n"):
+            values = parse_field_values(block)
+            if values.get("msgid") == source:
+                self.assertEqual(values.get("msgstr"), expected)
+                return
+        self.fail(f"missing active msgid: {source}")
+
+    def test_wesnoth_calendar_formats_are_consistent_and_translated(self):
+        expected = {
+            "$year BW": "웨스노스 건국 전 $year년",
+            "$year YW": "웨스노스력 $year년",
+            "$year BF": "웨스노스 몰락 전 $year년",
+            "$year AF": "웨스노스 몰락 후 $year년",
+        }
+        text = (WORK_KO / "wesnoth-ko.po").read_text(encoding="utf-8")
+        for source, translation in expected.items():
+            with self.subTest(source=source):
+                self.assertIn(f'msgid "{source}"\nmsgstr "{translation}"', text)
+
+    def test_great_river_uses_the_canonical_name_in_active_translations(self):
+        old_name = re.compile(
+            r"(?<![가-힣])(한강|대하)(에서|으로|까지|보다|처럼|을|를|이|가|은|는|의|에|와|과|도|로|만)?"
+            r"(?![가-힣])"
+        )
+        for path in WORK_KO.glob("*.po"):
+            for block in path.read_text(encoding="utf-8").split("\n\n"):
+                if any(line.startswith("#~") for line in block.splitlines()):
+                    continue
+                values = parse_field_values(block)
+                if not re.search(
+                    r"\bgreat river\b", values.get("msgid", ""), re.IGNORECASE
+                ):
+                    continue
+                with self.subTest(path=path.name, msgid=values["msgid"][:60]):
+                    self.assertIsNone(old_name.search(values.get("msgstr", "")))
+
+    def test_great_river_normalization_does_not_change_word_substrings(self):
+        from tools.normalize_great_river import normalize_translation
+
+        text = "거대하다. 광대하여. 대하를 건넌다."
+        self.assertEqual(
+            normalize_translation(text),
+            "거대하다. 광대하여. 위대한 강을 건넌다.",
+        )
+        self.assertEqual(
+            normalize_translation(
+                "위대한 강를 건너고, 위대한 강와 웰딘 강이 만난다."
+            ),
+            "위대한 강을 건너고, 위대한 강과 웰딘 강이 만난다.",
+        )
+
+    def test_known_name_normalization_does_not_replace_common_korean_words(self):
+        from tools.normalize_known_name_spellings import update_po
+
+        path = ROOT / "tests" / "_known_name_normalization_fixture.po"
+        path.write_text(
+            'msgid "I hope you do not."\n'
+            'msgstr "그러지 않기를 바라네."\n\n'
+            'msgid "Baran returned."\n'
+            'msgstr "바라네(Baran)가 돌아왔다."\n\n'
+            'msgid "Dacyn returned."\n'
+            'msgstr "다친(Dacyn)이 돌아왔다."\n\n'
+            'msgid "The wounded unit."\n'
+            'msgstr "다친 유닛."\n',
+            encoding="utf-8",
+        )
+        try:
+            self.assertEqual(update_po(path), 2)
+            text = path.read_text(encoding="utf-8")
+        finally:
+            path.unlink()
+
+        self.assertIn('msgstr "그러지 않기를 바라네."', text)
+        self.assertIn('msgstr "바란(Baran)가 돌아왔다."', text)
+        self.assertIn('msgstr "다신(Dacyn)이 돌아왔다."', text)
+        self.assertIn('msgstr "다친 유닛."', text)
 
     def test_toen_caric_uses_one_bilingual_place_name_spelling(self):
         _, rows = glossary_rows()
@@ -332,7 +989,7 @@ class GlossaryTests(unittest.TestCase):
             "Reeve Hoban": ("호반(Hoban) 행정관", "person_name"),
             "Vash-Gorn": ("바시-고른(Vash-Gorn)", "person_name"),
             "North Knalga": ("북부 크날가(Knalga)", "place_name"),
-            "Chief Bir-brish": ("비르-브리시(Bir-brish) 족장", "person_name"),
+            "Chief Bir-brish": ("족장 비르-브리시(Bir-brish)", "person_name"),
             "Ur-Thorodor": ("우르-토로도르(Ur-Thorodor)", "person_name"),
         }
         for source, (translation, category) in expected.items():
@@ -638,7 +1295,7 @@ class GlossaryTests(unittest.TestCase):
             "Great Chief Brurbar": "대족장 브루르바르(Brurbar)",
             "Gnarl": "그나(Gnarl)",
             "Howgarth III": "호우가르쓰(Howgarth) 3세",
-            "Inky": "먹물(Inky)",
+            "Inky": "잉키(Inky)",
             "Kergai": "케르가(Kergai)",
             "Limit FPS": "FPS 제한",
             "Lord Bayar": "바야르(Bayar) 경",
@@ -656,8 +1313,8 @@ class GlossaryTests(unittest.TestCase):
             "feature^Cocoa notifications back end": "Cocoa 알림 백엔드",
             "feature^D-Bus notifications back end": "D-Bus 알림 백엔드",
             "feature^Win32 notifications back end": "Win32 알림 백엔드",
-            "female^Inky": "암컷 먹물(Inky)",
-            "teamname^Inky": "먹물(Inky)",
+            "female^Inky": "암컷 잉키(Inky)",
+            "teamname^Inky": "잉키(Inky)",
             "Talking to Tyegëa": "티에게아(Tyegëa)와 대화",
             "Tyegëa": "티에게아(Tyegëa)",
             "Tyegëa and Priestesses": "티에게아(Tyegëa)와 여제사장들",

@@ -98,7 +98,7 @@ msgstr "캠페인 유지보수"
 #. [scenario]: id=01_Breaking_the_Chains
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:5
 msgid "Breaking the Chains"
-msgstr "부숴지는 사슬"
+msgstr "부서지는 사슬"
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:18
@@ -399,7 +399,7 @@ msgstr "저놈 좀 봐라, 저 약해빠진 알타르는 자기 노예조차 부
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:328
 msgid "This is one of the entrances to the dwarven caves."
-msgstr "이곳은 난쟁이 동굴 입구중 하나구나."
+msgstr "이곳은 난쟁이 동굴 입구 중 하나구나."
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:334
@@ -421,19 +421,19 @@ msgstr "크룰그(Khrulg)"
 msgid ""
 "Garrugch failed in mission, but Al’tar dead by peasant slaves. Better tell "
 "the Master."
-msgstr "가루그치(Garrugch)는 임무에 실패했지만, 알타르는 농부 노예들에게 죽었다. 주인에게 말하는게 좋겠어."
+msgstr "가루그치(Garrugch)는 임무에 실패했고, 알타르는 농부 노예들에게 죽었다. 주인님께 알려야겠어."
 
 #. [message]: speaker=Khrulg
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:381
 msgid "Master needs more meat for wolves. Peasants good meat."
-msgstr "주인은 늑대를 위해 더 많은 고기를 필요로 하지. 농부들은 좋은 고기다."
+msgstr "주인님은 늑대에게 먹일 고기가 더 필요하다. 농부는 좋은 고기다."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:409
 msgid ""
 "I die now, you orcish scum, but I die free! More will come after me. We will "
 "rise again until our vengeance has wiped your stain from our land!"
-msgstr "나는 여기서 죽을 것이다, 이 오크 쓰레기 같은 놈들아, 하지만 나는 자유롭게 죽는 거다! 더 많은 사람이 나를 따를 것이다. 우리의 복수심이 네놈들의 더러운 흔적들을 지워버릴 때까지 다시 일어설 것이다!"
+msgstr "나는 이제 죽지만, 자유인으로 죽는다! 이 오크 쓰레기들아, 더 많은 이들이 나를 따를 것이다. 우리의 복수가 이 땅에서 네놈들의 흔적을 지워 버릴 때까지 우리는 다시 일어날 것이다!"
 
 #. [message]: speaker=Al'Tar
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:421
@@ -443,7 +443,7 @@ msgstr "흥! 졸개들아, 저 나머지 농부 폭도들을 사슬로 묶어라
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:441
 msgid "What the...? (<i>Gurgle</i>) Killed... by... slaves?"
-msgstr "뭐냐...? (<i>꺼억</i>) 노예들... 따위 한테... 죽어야하는거냐?"
+msgstr "뭐냐...? (<i>꺼억</i>) 노예 따위한테... 죽는다고...?"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:445
@@ -454,7 +454,7 @@ msgstr "(<i>찌름</i>)"
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:452
 msgid "What the...? (<i>Gurgle</i>) Defeated... by... a grunt?"
-msgstr "뭐냐...? (<i>꺼억</i>) 졸개... 따위 한테... 진거냐?"
+msgstr "뭐냐...? (<i>꺼억</i>) 졸개 따위한테... 진 거냐?"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:463
@@ -469,7 +469,7 @@ msgstr "웩!"
 #. [message]: speaker=second_unit
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:486
 msgid "Not a very bright one, was he?"
-msgstr "그렇게 대단한 놈도 아니구나, 그치?"
+msgstr "별로 영리한 놈은 아니었지, 그렇지?"
 
 #. [message]: speaker=second_unit
 #. "him" is referring to Al'Tar
@@ -480,7 +480,7 @@ msgstr "잡았습니다, 추장!"
 #. [message]: speaker=second_unit
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:506
 msgid "We avenged our leader..."
-msgstr "우리는 우리의 대장에게 복수했다..."
+msgstr "우리 지도자의 복수를 했다..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:523
@@ -527,7 +527,7 @@ msgid ""
 "freedom. They ransacked the orcish storehouses, sang, danced and drank with "
 "abandon. New-fledged warriors boasted of their deeds in the battle, while "
 "the women and children looked on with awe."
-msgstr "죽은 사람들에 대한 슬픔도 새롭게 찾은 자유속에서 사람들의 기쁨을 억누를 수 없었다. 사람들은 오크의 창고를 샅샅이 뒤지고, 노래하고, 춤추고, 술을 마시며 취했다. 신참 전사들은 전투에서 자신들의 업적을 자랑했고, 여자들과 아이들은 경외심을 가지고 구경했다."
+msgstr "죽은 이들을 향한 슬픔도 새로 얻은 자유에 대한 사람들의 기쁨을 억누를 수 없었다. 사람들은 오크의 창고를 샅샅이 뒤지고, 노래하고, 춤추고, 실컷 술을 마셨다. 새로 전사가 된 이들은 전투에서 세운 공을 자랑했고, 여자들과 아이들은 경외심을 품고 그 모습을 지켜보았다."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:25
@@ -538,7 +538,7 @@ msgid ""
 "their next course. How might they, untrained in the art of war and without "
 "expectation of aid from the prosperous human lands of the south, defend "
 "themselves?"
-msgstr "모두가 축제를 즐기는 가운데 탈린(Tallin)은 혼자 무덤덤하게 남아 있었다. 그는 오크들이 복수를 위해 돌아와 마지막 한 사람까지 남김없이 학살할 것이라는 것을 알고 있었다. 다음날 아침, 그는 다음 정책을 결정할 수 있도록 더욱 냉정한 사람들을 모았다. 전술 훈련도 받지 못했고, 남쪽의 부유한 인간들의 국가에서 도움도 기대할 수 없는 가운데 어떻게 스스로를 지킬 수 있을 것인가?"
+msgstr "모두가 축제를 즐기는 가운데 탈린(Tallin)만은 침통한 표정이었다. 오크들이 복수하러 돌아와 한 사람도 남기지 않고 학살하리라는 것을 알고 있었기 때문이다. 다음 날 아침, 그는 앞으로 어떻게 할지 결정하기 위해 냉정한 판단을 내릴 사람들을 모았다. 전쟁을 배운 적도 없고 남쪽의 부유한 인간 국가에서 도움을 기대할 수도 없는 그들이 어떻게 스스로를 지킬 수 있단 말인가?"
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:28
@@ -550,7 +550,7 @@ msgid ""
 "the invasion of Knalga, now risen in unlife to roam the tunnels. To Tallin "
 "and the others, fighting through all manner of unknown monsters in the mere "
 "hope of finding surviving dwarves held but little appeal."
-msgstr "전쟁 평의회의 생각은 곧바로 과거에 가까웠던 동맹인 난쟁이들에게로 향했다. 그러나 크날간 터널의 상황을 아무도 알지 못했다. 정찰대중 가장 용감한 자들이 그곳에서 많은 트롤과 트롤보다 더 사악한 생명체들의 흔적을 발견했다. 수년 동안 크날가(Knalga) 침공으로 살해된 난쟁이들이 산 송장으로 살아나 터널을 배회하고있다는 소문이 나돌고 있었다. 탈린(Tallin)과 다른 사람들에게는 단지 살아남은 난쟁이들을 찾는다는 단순한 희망을 위해 온갖 종류의 알려지지 않은 괴물들과 싸우는 것은 그다지 매력적이지 않았다."
+msgstr "전쟁 평의회의 생각은 곧 과거의 가까운 동맹이었던 난쟁이들에게로 향했다. 그러나 크날간 터널의 상황을 아는 사람은 아무도 없었다. 가장 용감한 정찰병들이 그곳에서 많은 트롤과 그보다 더 사악한 생명체들의 흔적을 발견했다. 크날가(Knalga) 침공 때 죽은 난쟁이들이 이제 언데드가 되어 터널을 배회한다는 소문도 수년째 퍼지고 있었다. 탈린(Tallin)과 일행에게 살아남은 난쟁이를 찾는다는 희망만으로 온갖 정체불명의 괴물과 싸우는 일은 그다지 매력적이지 않았다."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:32
@@ -657,7 +657,7 @@ msgstr "언데드"
 #. [side]: type=Death Knight, id=Mal Barath
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:159
 msgid "Mal Barath"
-msgstr "말(Mal) 바라쓰"
+msgstr "말 바라쓰(Mal Barath)"
 
 #. [side]: type=Troll Warrior, id=Thung
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:174
@@ -687,7 +687,7 @@ msgstr "탈린(Tallin)을 난쟁이 지역으로 이동시켜 하멜(Hamel) 군�
 #. [objectives]
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:261
 msgid "Clear the caves"
-msgstr "동굴을 정리하라"
+msgstr "동굴을 청소하라"
 
 #. [objective]: condition=lose
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:267
@@ -755,7 +755,7 @@ msgid ""
 "desecrated my life’s work, now I shall not rest till I send every last one "
 "of them to hell! Oh, and just between me and you, it is actually good fun — "
 "more fun anyway than sitting on your backside studying all day..."
-msgstr "나와 마주쳤던 모든 오크, 트롤, 해골을 구워버려서지. 당연한것 아닌가! 저 괴물 놈들이 내 평생의 업적을 더렵혔으니, 이제 나는 놈들을 하나도 남김없이 모두 지옥으로 보낼 때까지 쉬지 않을 생각이네! 아, 그리고 우리 둘만의 비밀인데, 이건 꽤 재미있다네 — 어쨌든 하루 종일 뒷좌석에 앉아서 공부하는 것 보단 말이지..."
+msgstr "마주치는 오크, 트롤, 해골을 모조리 구워 버려서지. 참 나! 그 괴물들이 내 평생의 연구를 더럽혔으니, 놈들을 하나도 빠짐없이 지옥으로 보내기 전에는 쉬지 않을 거야! 그리고 우리 둘만 아는 비밀인데, 이게 사실 꽤 재미있어. 하루 종일 엉덩이를 붙이고 앉아 공부하는 것보다는 훨씬 재미있지..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:388
@@ -938,7 +938,7 @@ msgid ""
 "But still, Tallin, we will take losses, and for each one of us, there is no "
 "replacement — whereas for every monster we kill, it seems that two more come "
 "to take its place!"
-msgstr "하지만 탈린(Tallin), 그래도 우리는 병력을 잃을 것이고 우리 중 한 명이 쓰러질 때마다 대신할 사람은 없소. 반면 우리가 괴물을 하나 죽일 때마다 두 마리가 그 자리를 차지하러 오는 것 같소!"
+msgstr "하지만, 탈린(Tallin), 우리도 손실을 입을 거예요. 우리 중 한 명이 쓰러져도 대체 병력이 없는데, 우리가 괴물을 하나 죽일 때마다 두 마리가 그 자리를 메우러 오는 것 같아요!"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:751
@@ -965,7 +965,7 @@ msgstr "난쟁이의 문을 대표하여 인사드립니다, 친구여."
 msgid ""
 "Dwarven Doors? I thought ye surface humans had been enslaved or slain by the "
 "orcs years ago."
-msgstr "난쟁이의 문? 당신들 지상의 인간들은 오래 전에 오크의 노예가 되거나? 전부 죽었다고 생각했는데.."
+msgstr "난쟁이의 문? 지상의 인간들이 몇 년 전 오크에게 노예가 되거나 죽었다고 생각했는데."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:907
@@ -973,7 +973,7 @@ msgid ""
 "Yes, we were enslaved, but we rose against Al’Tar and defeated his warband. "
 "In order to stay free, we seek help and equipment from our old allies, the "
 "dwarves."
-msgstr "네, 우리는 노예였지만, 알타르에게 맞서 일어나 놈의 군대를 무찔렀어요. 자유를 지키기위해죠, 우린 옛 동맹인 난쟁이들의 도움과 장비를 찾고 있어요."
+msgstr "네, 우리는 노예가 되었지만 알타르에 맞서 봉기해 그의 무리를 무찔렀습니다. 자유를 지키기 위해 옛 동맹인 난쟁이들에게 도움과 장비를 구하러 왔습니다."
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:912
@@ -981,7 +981,7 @@ msgid ""
 "Och, the dwarves of Knalga are themselves in desperate straits — but we "
 "havena’ forgotten the old bonds. Be welcome to our keep. Aye, and have "
 "speech with our chieftain, the Lord Hamel."
-msgstr "아, 크날가(Knalga)의 난쟁이들은 절박한 곤경에 처해있소 — 하지만 우리는 오래된 유대관계는 잊지 않았소. 우리 성에 온것을 환영하오. 그럼 우리의 족장인 하멜(Hamel) 경과 이야기를 나누는게 좋겠소."
+msgstr "아, 크날가(Knalga)의 난쟁이들은 지금 절박한 처지에 있지만 오래된 유대는 잊지 않았소. 우리 요새에 온 것을 환영하오. 그래, 우리 족장 하멜(Hamel) 경과 이야기를 나누시오."
 
 #. [message]: speaker=Tallin
 #. [message]: speaker=unit
@@ -1042,7 +1042,7 @@ msgid ""
 "Good, there are no more monsters lurking in these parts of the tunnels. I "
 "think I can hear the clamor of dwarves just ahead. Come on men, let’s go "
 "meet them."
-msgstr "좋아, 터널들에서 이 부분은 더 이상 몬스터가 숨어있지 않는것 같군. 저 앞쪽에 난쟁이들의 절규가 들리는것 같군. 모두 모여. 그들을 만나러 가자구."
+msgstr "좋아, 터널들에서 이 부분은 더 이상 몬스터가 숨어있지 않는 것 같군. 저 앞쪽에 난쟁이들의 절규가 들리는것 같군. 모두 모여. 그들을 만나러 가자구."
 
 #. [message]: role=Messenger
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:1022
@@ -1110,7 +1110,7 @@ msgid ""
 "destroying any manner of monster that he comes across. They all give him a "
 "very wide berth by now. So just be polite, give him some room and you’ll "
 "find he is relatively harmless..."
-msgstr "오, 그의 것은 걱정하지 않아도 좋다. 카메린(Camerin)일 것이다.그는 이전에 보통 학식있는 마법사 혼자 연구하기 위하여 여기 지상에 가고 있었다. 하지만 그런 오크족이 침공 해오고 그때부터 조금 이상 해져 버렸다. 이것은 독수리의 추측이지만 배회하고 있던 오크 회사의 약탈에 있고, 메모 또는 무언가를 구워진 것이다. 어쨌든 그런 일이 있고, 견딜 수 없게 이상하게되어 버렸다.이후 동굴을 헤매고 조우 한 몬스터의 종류를 쓰러 뜨리고 다닌다. 지금은 몬스터 회사는 모두 그를 피하고 있어요.그래서 정중하고 약간의 것은 양보 해줘, 그러면 비교적 무해한 놈이라고 알겠지만..."
+msgstr "아, 그자는 신경 쓰지 말게. 카메린(Camerin)이라는 친구라네. 원래는 평범한 학자 마법사였고, 혼자 연구하려고 이곳 지상으로 올라왔지. 그런데 오크가 침공한 뒤로 조금 이상해졌네. 내 추측으로는 떠돌이 오크들이 그의 거처를 약탈하고 노트 따위를 태워 버린 모양일세. 무슨 일이었든 그는 그 일을 견디지 못하고 괴짜가 되어 버렸지. 그 뒤로 이 동굴을 돌아다니며 마주치는 온갖 괴물을 때려잡고 있네. 이제는 괴물들이 모두 그를 아주 멀리 피해 다니지. 그러니 예의를 지키고 적당히 거리를 두게. 그러면 그가 비교적 무해하다는 걸 알게 될 걸세..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:1157
@@ -1149,7 +1149,7 @@ msgstr "난쟁이족"
 msgid ""
 "Be welcome to the Southern Tunnels, friends... or at least, what’s left o’ "
 "them."
-msgstr "남부 터널에 온 것을 환영하오, 친구들... 아니, 적어도 그곳에 남은 것에 말이오."
+msgstr "남부 터널에 온 것을 환영하네, 친구들... 아니, 적어도 그 남은 부분에 말일세."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/02_02_Meeting_With_Dwarves.cfg:98
@@ -1216,7 +1216,7 @@ msgid ""
 "Since then, although the orcs still foul these caves with their stench, "
 "their attacks have been uncoordinated and erratic, wi’ the orcs as likely to "
 "attack each other as they are to attack us."
-msgstr "오, 여기 아래에 엄청나게 많은 오크가 있지만, 당신들은 그놈들을 볼 가능성이 적을 것이오. 그들은 해충처럼 우리에게서 숨소. 이것 보시오, 젊은 양반, 이 동굴에는 난쟁이만큼 무서운 적은 없소. 우리는 동굴에서 빠르게 움직일 수 있을 뿐만 아니라, 내 손바닥럼 잘 알고 있소. 수년 전, 오크들은 우리의 방어를 숫자로 압도하기는 했지만, 놈들의 우두머리인 저주받은 검은 엄니 카즈그를 우리가 기습하여 죽였단말이오! 그떄부터, 오크들은 여전히 이 동굴들을 냄새로 더럽히고 있지만, 놈들의 공격은 통솔 받지 못하고 불규칙하게 되어, 오크들은 우리를 공격하는 것처럼 서로를 공격하기도 한단 말이오."
+msgstr "오, 여기 아래에는 오크가 아주 많지만, 젊은 양반이 놈들을 볼 일은 거의 없을 것이오. 놈들은 해충처럼 우리를 피해 숨어 있소. 잘 보시오, 이 동굴에서 난쟁이보다 무서운 적은 없소. 우리는 동굴을 빠르게 누빌 뿐 아니라 손바닥 안처럼 훤히 알고 있소. 수년 전 오크들이 압도적인 수로 우리 방어선을 무너뜨리기는 했지만, 그 전에 우리는 놈들의 우두머리인 저주받은 검은엄니 카즈그를 기습해 죽였소! 그때부터 오크들은 여전히 악취로 동굴을 더럽히고 있지만, 공격은 통솔되지 않아 엉망이 되었소. 이제 놈들은 우리를 공격하듯 서로를 공격하기도 한단 말이오."
 
 #. [message]: speaker=Hamel
 #: data/campaigns/Northern_Rebirth/scenarios/02_02_Meeting_With_Dwarves.cfg:138
@@ -1263,7 +1263,7 @@ msgid ""
 "where we couldna’ reach while the orcs and trolls held them. But metal will "
 "be scarce for a while yet; ore will have to be brought in for smelting, "
 "first."
-msgstr "그게 문제라네, 젊은이. 우리는 몇 년째 이 터널에 갇혀 음식과 금속, 도구를 구할 곳에서 거의 완전히 단절되어 있었지. 살아남는 것만으로도 벅찼다네. 이제 지상에 닿을 수 있으니 식량을 다시 구할 수 있고, 오크와 트롤이 점거해 접근하지 못했던 창고에는 도구도 잔뜩 있을 걸세. 하지만 당분간 금속은 여전히 부족할 테니, 먼저 제련할 광석을 들여와야 하네."
+msgstr "그게 문제라네, 젊은이. 우리는 몇 년째 이 터널에 발이 묶여 식량이나 금속, 도구를 구할 길이 거의 완전히 끊겼지. 살아남기 위해 할 수 있는 건 다 한 셈이야. 이제 지상으로 나갈 수 있으니 식량을 다시 구할 수 있고, 오크와 트롤이 차지하고 있어 접근하지 못했던 창고에는 도구도 넉넉히 있네. 하지만 한동안 금속은 부족할 걸세. 우선 제련할 광석을 들여와야 하네."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/02_02_Meeting_With_Dwarves.cfg:163
@@ -1488,7 +1488,7 @@ msgstr "놈들은 너무 좋은 경비들을 갖고있는 것 같군. 봐, 요�
 msgid ""
 "Fortunately, this entrance seems to be in disrepair. It doesn’t look like "
 "they have noticed us yet."
-msgstr "다행히, 이 입구는 파손된것 같소. 아직 놈들이 우리를 발견하지 못한것 같소."
+msgstr "다행히 이 입구는 관리가 제대로 되지 않은 것 같소. 아직 놈들이 우리를 눈치채지 못한 듯하오."
 
 #. [message]: speaker=Thorin
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:248
@@ -1546,7 +1546,7 @@ msgid ""
 "I will finish the slaughter that the orcs have begun so promisingly, and "
 "Knalga will be all mine! From there I will sweep the whole north of all "
 "living creatures, and then swoop down upon Wesnoth!"
-msgstr "하하하하! 너의 하찮은 짜증은 가장 재미있구나, 이 나약한 난쟁이야. 나는 오크들은 너무나도 좋은 조짐을 보이며 시작된 학살을 끝내면, 크날가(Knalga)의 모든 것은 나의 것이 될 것이다! 거기서부터 나는 북부 전체에 살아있는 모든 생명체를 쓸어 버릴 것이고, 그 다음에 웨스노스(Wesnoth)까지 덮칠 것이다!"
+msgstr "하하하하! 너의 하찮은 짜증은 가장 재미있구나, 이 나약한 난쟁이야. 나는 오크들은 너무나도 좋은 조짐을 보이며 시작된 학살을 끝내면, 크날가(Knalga)의 모든 것은 나의 것이 될 것이다! 거기서부터 나는 북부 전체에 살아 있는 모든 생명체를 쓸어 버릴 것이고, 그 다음에 웨스노스(Wesnoth)까지 덮칠 것이다!"
 
 #. [message]: speaker=Hamel
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:311
@@ -1664,7 +1664,7 @@ msgid ""
 "Oh, and try to stay away from their claws. If you get even one scratch, and "
 "don’t get it treated quickly, you will soon find yourself weak, sick and "
 "unable to fight further."
-msgstr "아, 그리고 갈퀴를 조심하십시오. 당신이 하나의 긁힌 상처를 얻고, 신속하게 치료하지 않으면, 금방 약해지고, 아퍼져서 더이상 싸울 수 없게됩니다."
+msgstr "아, 그리고 갈퀴를 조심하십시오. 당신이 하나의 긁힌 상처를 얻고, 신속하게 치료하지 않으면, 금방 약해지고, 아파져서 더 이상 싸울 수 없게됩니다."
 
 #. [message]: speaker=Hamel
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:449
@@ -1686,7 +1686,7 @@ msgstr "구울들이다! 놈들은 살덩어리에 대해 만족할 줄 모르�
 msgid ""
 "HAHAHA, you puny weaklings think you can destroy me? <i>Fools</i>! You will "
 "all soon be serving me!"
-msgstr "하하하, 이 보잘것 없이 나약한 놈들이 나를 쓰러뜨릴수 있다고 생각하는거냐? <i>어리석은놈들</i>! 너희들은 곧 나에게 복종하게 될 것이다!"
+msgstr "하하하, 이 보잘것없이 나약한 놈들이 나를 쓰러뜨릴 수 있다고 생각하는 거냐? <i>어리석은 놈들</i>! 너희는 곧 나에게 복종하게 될 것이다!"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Northern_Rebirth/scenarios/04_Clearing_the_Mines.cfg:486
@@ -1801,7 +1801,7 @@ msgstr "말리포르(Malifor)를 찾아 없앨것"
 #. [note]
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:341
 msgid "Be sure to explore"
-msgstr "반드시 탐험하세요"
+msgstr "탐험해야 합니다"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:388
@@ -2039,7 +2039,7 @@ msgstr "이것 좀 봐요. 벽에 구멍이 좀 났어..."
 msgid ""
 "It was there when I was thrown down here. The hole wasn’t big enough for me "
 "to go through, but perhaps one of you might enlarge it?"
-msgstr "내가 여기 쓰러져 있을때 거기 있었어요. 내가 빠져 있을만큼 크지는 않지만, 혹시 당신들 중 하나가 그것을 더 크게 할 수 있습니까?"
+msgstr "내가 여기 쓰러져 있을 때 거기 있었어요. 내가 빠져 있을만큼 크지는 않지만, 혹시 당신들 중 하나가 그것을 더 크게 할 수 있습니까?"
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:761
@@ -2306,13 +2306,13 @@ msgstr "우린 부자다!"
 #. [scenario]: id=05a_01_The_Pursuit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1260
 msgid "Why do these skeletons have so much gold just sitting around?"
-msgstr "이 해골들은 왜 그렇게 많은 금화를 그냥 썩히고 있는거지?"
+msgstr "이 해골들은 왜 그렇게 많은 금화를 그냥 썩히고 있는 거지?"
 
 #. [message]: speaker=Abhai
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1286
 msgid ""
 "The Rod of Justice! What in the world is it doing all the way down here?"
-msgstr "정의의 지팡이다! 대체 이런 곳까지 어떻게 내려와 있는 거지?"
+msgstr "정의의 지팡이다! 대체 이런 곳에 왜 있는 거지?"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1291
@@ -2352,7 +2352,7 @@ msgstr "아아아, 심판의 지팡이가 여기에 놓여져 있는것도 예�
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1311
 msgid "Why can’t you wield it, Abhai?"
-msgstr "아브하이(Abhai), 왜 당신이 사용하지 않는것이오?"
+msgstr "아브하이(Abhai), 왜 당신이 사용하지 않는 것이오?"
 
 #. [message]: speaker=Abhai
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1316
@@ -2361,7 +2361,7 @@ msgid ""
 "is your era, Tallin, and thus it is your responsibility to see to it that "
 "your people receive peace, prosperity and justice. Quickly, come forth or "
 "send one of your men for time is waning."
-msgstr "나는 과거의 생명체요, 그래서 내가 그걸 휘두를수 있는 시간은 오래전에 사라졌소. 이제는 그대의 시대인것이오, 탈린(Tallin)이여, 그러니 그대의 민중의 평화와 번영과 정의를 누리게하는 것은 그대의 사명인것이오. 서두르시오, 시간이 없으니 직접 앞으로 오거나 당신의 부하중 하나를 사람들중 한명을 보내시오."
+msgstr "나는 과거의 생명체요, 그래서 내가 그걸 휘두를수 있는 시간은 오래전에 사라졌소. 이제는 그대의 시대인것이오, 탈린(Tallin)이여, 그러니 그대의 민중의 평화와 번영과 정의를 누리게하는 것은 그대의 사명인것이오. 서두르시오, 시간이 없으니 직접 앞으로 오거나 당신의 부하중 하나를 사람들 중 한명을 보내시오."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1345
@@ -2554,7 +2554,7 @@ msgstr "땅이 흔들린다."
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1714
 msgid "Perhaps I spoke too soon..."
-msgstr "아마도 내가 너무 빨리 말한것..."
+msgstr "아마도 내가 너무 빨리 말한 것..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1765
@@ -2615,7 +2615,7 @@ msgstr "조심! 터널이 침수되어 수중 몬스터가 들끓고 있습니�
 msgid ""
 "Interesting. It seems like someone really doesn’t want us going down this "
 "tunnel."
-msgstr "흥미롭군. 사람들이 정말 우리가 이 터널을 내려가는것을 원치 않는것 같군."
+msgstr "흥미롭군. 사람들이 정말 우리가 이 터널을 내려가는것을 원치 않는 것 같군."
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1943
@@ -2633,7 +2633,7 @@ msgid ""
 "Holy water! For a certainty, those skeletons won’t like us getting our hands "
 "on this stuff. But that’s probably why they kept them back here in the first "
 "place."
-msgstr "성수다! 아무래도 그 해골들은 우리가 이 물건에 손대는것을 원하지 않는것 같군. 그렇지만 아마도 제일 먼저 놈들이 여기서 물리려고 하는 것 같군."
+msgstr "성수다! 아무래도 그 해골들은 우리가 이 물건에 손대는것을 원하지 않는 것 같군. 그렇지만 아마도 제일 먼저 놈들이 여기서 물리려고 하는 것 같군."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:1998
@@ -2765,7 +2765,7 @@ msgid ""
 "I have been hiding in these flooded tunnels ever since. Some monster that "
 "Malifor’s minions greatly fear lives in these waters; they do not molest me "
 "here."
-msgstr "실제로. 그는 한때 위대한 마술사였지만 그는 부와 권력 탐냈었지. 그는 자신의 목표를 달성하기 위해 리치(Lich) 군주와 동맹을 맺고 그들의 기술을 배웠네. 오크족의 위협이 대륙에 처음 나타났고 서부인(Wesfolk)은 동쪽으로 도망쳤을 때, 말리포르(Malifor)는 그들의 임무를 떠나고 그것을 쫓았네. 그 후 그의 운명에 대해 확실하지 않지만, 그는 스스로 시체가 되려고 한것 같네. 나는 그가 이 광산에서 살았다는게 놀랍지 않네. 몇 년후, 그는 항상 금화에 대한 사랑과 나를 특별히 증오했지. 그는 나를 생각이 없는 노예로 만들려고했지만 나는 그의 힘에 저항하고 도망쳤다네. 그 이후로 이 침수된 터널에서 숨어 있었지. 이 물속에는 말리포르(Malifor)의 졸개들이 매우 두려워 하는 괴물이 있는것 같았고 여기에서 나를 괴롭히지 않았지."
+msgstr "실제로. 그는 한때 위대한 마법사였지만 그는 부와 권력 탐냈었지. 그는 자신의 목표를 달성하기 위해 리치 군주와 동맹을 맺고 그들의 기술을 배웠네. 오크족의 위협이 대륙에 처음 나타났고 서부인(Wesfolk)은 동쪽으로 도망쳤을 때, 말리포르(Malifor)는 그들의 임무를 떠나고 그것을 쫓았네. 그 후 그의 운명에 대해 확실하지 않지만, 그는 스스로 시체가 되려고 한 것 같네. 나는 그가 이 광산에서 살았다는게 놀랍지 않네. 몇 년 후, 그는 항상 금화에 대한 사랑과 나를 특별히 증오했지. 그는 나를 생각이 없는 노예로 만들려고했지만 나는 그의 힘에 저항하고 도망쳤다네. 그 이후로 이 침수된 터널에서 숨어 있었지. 이 물속에는 말리포르(Malifor)의 졸개들이 매우 두려워 하는 괴물이 있는것 같았고 여기에서 나를 괴롭히지 않았지."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2154
@@ -2970,7 +2970,7 @@ msgstr "하하하하, 니놈들의 어리석은 짓이 나를 매우 즐겁게�
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2736
 msgid "Geez, how are we going to kill him? This weapon is ineffective!"
-msgstr "이런, 어떻게하면 놈을 쓰러뜨릴수 있는거지? 이 무기로는 당해낼 수 없잖아!"
+msgstr "이런, 어떻게하면 놈을 쓰러뜨릴수 있는 거지? 이 무기로는 당해낼 수 없잖아!"
 
 #. [message]: speaker=Malifor
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2746
@@ -3110,7 +3110,7 @@ msgid ""
 "They found Hamel in a forge hammering away at a new axe. He greeted them "
 "warmly and arrangements were quickly made for all their food and "
 "accommodations, as well as care for the sick and wounded."
-msgstr "그들은 새로운 도끼를 망치로 두드리는 대장간에서 하멜(Hamel)을 발견했다. 그는 그들을 따뜻하게 맞이했으며 그들의 모든 음식과 숙박 시설을 서둘러 준비하고 아프고 다친 사람들을 돌 보았습니다."
+msgstr "그들은 새로운 도끼를 망치로 두드리는 대장간에서 하멜(Hamel)을 발견했다. 그는 그들을 따뜻하게 맞이했으며 그들의 모든 음식과 숙박 시설을 서둘러 준비하고 아프고 다친 사람들을 돌보았습니다."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:28
@@ -3135,7 +3135,7 @@ msgid ""
 "Aye. Word ha’ spread, and dwarves who had been living rough in the wilds for "
 "fear of the orcs have been coming to join us. Thanks to you, Tallin, Knalga "
 "is rising again!"
-msgstr "그렇소. 소문이 퍼져 오크를 피해 황야에서 힘겹게 살아가던 난쟁이들이 우리와 합류하러 오고 있소. 탈린(Tallin), 모두 그대 덕분이오. 크날가(Knalga)가 다시 일어서고 있소!"
+msgstr "그렇지. 소문이 퍼져서, 오크를 두려워해 황야에서 힘겹게 살아가던 난쟁이들이 우리와 합류하려고 오고 있소. 탈린(Tallin), 자네 덕분에 크날가(Knalga)가 다시 일어서고 있구먼!"
 
 #. [message]: speaker=Galim
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:148
@@ -3242,7 +3242,7 @@ msgid ""
 "I know you’re impressive wi’ a pitchfork, and you are not half bad with a "
 "sword when you choose to use one. But there skills beyond swingin’ a weapon "
 "that a general must learn."
-msgstr "당신이 쇠스랑을 잘 다루는 건 알고 있소. 검을 들기로 했을 때도 솜씨가 나쁘지 않더군. 하지만 장군이 배워야 할 것은 무기를 휘두르는 기술만이 아니오."
+msgstr "자네가 쇠스랑을 다루는 솜씨가 대단하다는 건 알고 있소. 검을 쓰기로 하면 그 솜씨도 결코 나쁘지 않지. 하지만 장군이라면 무기를 휘두르는 것 말고도 배워야 할 기술이 있소."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_02_Dealings.cfg:227
@@ -3514,7 +3514,7 @@ msgstr "너가 죽고, 너의 주인을 처벌하는데 한발짝 다가섰다�
 #. [message]: speaker=second_unit
 #: data/campaigns/Northern_Rebirth/scenarios/06a_Old_Friend.cfg:449
 msgid "But— my my, what’s in that big pouch? 300 gold! Not bad."
-msgstr "어이쿠, 세상에나, 저 큰 주머니에 뭐가 들어있는거지? 300 금화다! 나쁘지 않군."
+msgstr "어이쿠, 세상에나, 저 큰 주머니에 뭐가 들어있는 거지? 300 금화다! 나쁘지 않군."
 
 #. [message]: id=Rakshas
 #: data/campaigns/Northern_Rebirth/scenarios/06a_Old_Friend.cfg:459
@@ -3563,7 +3563,7 @@ msgid ""
 "It seems hopeless to continue on like this. The orcs’ numbers are unlimited "
 "and Rakshas is very well guarded. The only possible outcome to all this is "
 "more slaughter."
-msgstr "이런 식으로 계속하는 것은 희망이없는 것 같습니다. 오크들의 숫자는 무제한이며 라크샤스(Rakshas)는 매우 잘 보호되고있습니다. 이 모든 것에 가능한 유일한 결과는 더 많은 학살뿐입니다."
+msgstr "이런 식으로 계속하는 것은 희망이 없는 것 같습니다. 오크의 수는 끝이 없고 라크샤스(Rakshas)는 철저히 보호받고 있습니다. 이 모든 일의 유일한 결과는 학살이 더 늘어나는 것뿐입니다."
 
 #. [message]: id=Sister Thera
 #: data/campaigns/Northern_Rebirth/scenarios/06a_Old_Friend.cfg:520
@@ -3664,7 +3664,7 @@ msgstr "오크족은 변덕스럽소. 만약에 녀석들과 조약을 맺어 �
 msgid ""
 "Then what shall we do? Can we assassinate this Rakshas fellow and throw them "
 "into disarray once more?"
-msgstr "그럼 어떻게 해야할까요? 라크샤스(Rakshas)를 암살하고 그들을 다시 한 번 혼란에 빠뜨릴 수 있을까요?"
+msgstr "그럼 어떻게 해야 할까요? 라크샤스(Rakshas)를 암살하고 그들을 다시 한 번 혼란에 빠뜨릴 수 있을까요?"
 
 #. [story]
 #. "coil" meant, in Middle and Early Modern English, a difficulty
@@ -3784,7 +3784,7 @@ msgid ""
 "mages see your dwarves as invaders. How would you feel if say... the elves "
 "decided to come in and level Knalga so they can grow another big forest on "
 "top?"
-msgstr "잊지마세요 하멜(Hamel), 이런 이야기에는 간혹 양면성이 있어요. 아마도 마법사들은 당신네 난쟁이들을 침략자라고 생각했을거에요. 예를들면... 요정들이 와서 크날가(Knalga)를 평평하게 만든후, 그 위에 또하나의 큰 숲이 자라도록 결정한다면 어떤 느낌이 들까요?"
+msgstr "잊지 마세요 하멜(Hamel), 이런 이야기에는 간혹 양면성이 있어요. 아마도 마법사들은 당신네 난쟁이들을 침략자라고 생각했을거에요. 예를들면... 요정들이 와서 크날가(Knalga)를 평평하게 만든후, 그 위에 또하나의 큰 숲이 자라도록 결정한다면 어떤 느낌이 들까요?"
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:83
@@ -3861,7 +3861,7 @@ msgstr "흐으음. 절박한 시기군요. 그 미친 마법사들이 돕기로 
 msgid ""
 "Hey, we have had experiences with crazy mages ourselves. Believe me, they "
 "are dangerous! You will feel a lot better with some of them on your side."
-msgstr "이봐요, 우리도 미친 마법사들을 겪어 봤소. 내 말을 믿어요. 그들은 위험하오! 그중 몇 명이라도 우리 편에 있으면 훨씬 마음이 놓일 거요."
+msgstr "번역 확인 마지막문장-->이봐요, 이리는 미친 마법사들을 경험해봤소. 날 믿어요. 그들은 위험해요! 그들 중 일부를 우리편에 두면 좋은 느낌이 될 것이오."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:108
@@ -3970,7 +3970,7 @@ msgstr "저주받은 마법사 녀석! 나는 네놈에게 죽은 모든 부하�
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:382
 msgid "Hold it! What’s going on here?"
-msgstr "움직이지마! 거기서 뭐하고 있는거지?"
+msgstr "움직이지마! 거기서 뭐하고 있는 거지?"
 
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:387
@@ -4107,7 +4107,7 @@ msgstr "형님! 살려주세요!"
 msgid ""
 "(<i>Booming voice coming from all directions</i>) SO YOU MAGES HAVE THE "
 "AUDACITY TO ATTACK MY BROTHER! YOU SHALL DIE FOR YOUR FOLLY!"
-msgstr "(<i>모든 방향에서 목소리가 울려퍼지며...</i>) 내 동생에게 공격을 가하다니 대담한 마법사여! 그 어리석은 짓이 죽음을 불러올 것이다!"
+msgstr "(<i>모든 방향에서 목소리가 울려 퍼지며...</i>) 내 동생에게 공격을 가하다니 대담한 마법사여! 그 어리석은 짓이 죽음을 불러올 것이다!"
 
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:575
@@ -4127,7 +4127,7 @@ msgstr "(<i>대답 없음</i>)"
 msgid ""
 "I know you can hear me, Ro’Arthian. Please, the fate of every creature in "
 "the north depends on your help."
-msgstr "제 말을 들을수 있는거 알어요, 로아르티안. 제발, 북쪽에 있는 모든 생명체의 운명은 당신의 도움에 달려 있어요."
+msgstr "제 말을 들을수 있는 거 알어요, 로아르티안. 제발, 북쪽에 있는 모든 생명체의 운명은 당신의 도움에 달려 있어요."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:597
@@ -4164,7 +4164,7 @@ msgstr "오 안돼, 놈이 달아났어! 빨리 놈을 잡아야해!"
 #. [message]: speaker=Ro'Sothian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:674
 msgid "Ahhhh! Not again!"
-msgstr "아아아! 또냐고!"
+msgstr "아하하하! 다시는 안한다??!"
 
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:679
@@ -4200,7 +4200,7 @@ msgstr "좋소, 불청객들이여. 원하는 것이 뭐요?"
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:750
 msgid "Well... First, why don’t you tell us what <i>you</i> want?"
-msgstr "좋아... 첫번째, <i>당신</i>이 원하는 것을 우리에게 말해 주는건 어떠시오?"
+msgstr "좋아... 첫 번째, <i>당신</i>이 원하는 것을 우리에게 말해 주는건 어떠시오?"
 
 #. [message]: speaker=Ro'Arthian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:755
@@ -4279,7 +4279,7 @@ msgid ""
 "this is the perfect chance for you guys to go out with a bang! You guys will "
 "become legends! <i>“The two terrible mages, risen from the dead to devastate "
 "the orcish hordes!”</i>"
-msgstr "자, 여러분, 정말 멋질 거예요! 저 오크들은 무엇에 당했는지도 모를 겁니다! 함께 놈들을 갈가리 찢어 버리자고요! 이 일이 끝나면 은퇴할 생각이라면, 화려하게 마무리할 절호의 기회입니다! 여러분은 전설이 될 거예요! <i>“두 명의 무시무시한 마법사가 죽음에서 일어나 오크 무리를 쑥대밭으로 만들다!”</i>"
+msgstr "자, 여러분, 정말 멋진 일이 될 거야! 저 오크들은 뭐에 맞았는지도 모를걸! 다 함께 놈들을 갈기갈기 찢어 버리자고! 이 일이 끝나면 은퇴할 생각이라면, 멋지게 퇴장할 절호의 기회야! 여러분은 전설이 될 거야! <i>“죽음에서 되살아나 오크 무리를 쓸어버린 두 명의 무시무시한 마법사!”</i>"
 
 #. [message]: speaker=Ro'Arthian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:838
@@ -4433,7 +4433,7 @@ msgid ""
 "northwest. The castle had attracted notice because it had been recently "
 "rebuilt and manned by a force known to include some of the hardiest and "
 "toughest of veteran orcs."
-msgstr "인간과 난쟁이들이 이 소식에 응답할 틈도 없이, 또 다른 그리폰이 도착하여, 오크들이 북서쪽으로 하루도 안 되는 거리에 있는 매섭게 딛는 곳 성에서 여자 요정 마법사 포로를 붙잡고 있다는 소식을 전했다. 이 성은 최근에 다시 지어졌고, 가장 강인하고 용맹한 숙련병 오크들로 구성된 부대가 주둔하고 있었기 때문에 주목을 받고 있었다."
+msgstr "인간과 난쟁이들이 이 소식에 응답할 틈도 없이, 또 다른 그리폰이 도착해 오크들이 북서쪽으로 하루도 채 걸리지 않는 거리에 있는 비터홀드(Bitterhold)의 성에서 요정 마녀를 포로로 잡고 있다는 소식을 전했다. 이 성은 최근에 재건되었고, 가장 강인하고 거친 베테랑 오크들이 포함된 부대가 주둔하고 있어 눈길을 끌었다."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:36
@@ -4442,7 +4442,7 @@ msgid ""
 "and less than two days later managed to ambush an orcish messenger on the "
 "road out of Bitterhold. The messenger was carrying a ransom demand to the "
 "elves — for the sorceress was, in fact, a princess of the highest rank."
-msgstr "그날 밤 바로 그리폰과 엄선한 인간 삼림병 부대가 파견되었고, 이틀도 지나지 않아 비터홀드에서 나가는 길의 오크 전령을 매복하는 데 성공했습니다. 전령은 엘프들에게 보낼 몸값 요구서를 가지고 있었습니다. 그 마법사는 사실 최고위 계급의 공주였기 때문입니다."
+msgstr "그날 밤 바로 그리폰과 정예 인간 나무꾼 부대가 파견되었고, 이틀도 지나지 않아 비터홀드(Bitterhold)에서 나오는 길의 오크 전령을 매복했다. 전령은 요정들에게 몸값을 요구하러 가는 중이었다. 그 마녀가 사실 최고위 계급의 공주였기 때문이다."
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:39
@@ -4575,7 +4575,7 @@ msgstr "내 신스플리터들은 이런 일에 더없이 소중하오. 훌륭�
 msgid ""
 "Ha ha, I like this plan! Once we get our hands on this little sorceress the "
 "elves will be forced to do whatever we want them to!"
-msgstr "하하, 난 이 계획이 마음에 드는군. 일단 우리가 이 얼마 안 되는 마법사들을 넘겨주면 그 요정들은 강제로 뭐든지 우리가 원하는대로 하게 될 거야!"
+msgstr "하하, 난 이 계획이 마음에 드는군. 일단 우리가 이 어린 마녀를 손에 넣으면 요정들은 우리가 원하는 건 뭐든지 하게 될 거야!"
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:78
@@ -4583,7 +4583,7 @@ msgid ""
 "Remember, Ro’Arthian, we need willing allies rather than resentful lackeys "
 "that would turn on us at the first chance. If we rescue their princess, the "
 "elves may yet choose not to help us, but that is a risk we’ll have to take."
-msgstr "잊지마세요, 로아르티안, 우리는 첫 기회에 우리를 배신할 수 있는 원한을 가진 아첨꾼보다 기꺼이 함께 일해 줄 동맹을 필요합니다. 우리가 공주를 구출해도 요정들은 우리를 돕지 않기로 결정할 수 도 있을 겁니다. 그러나 그것도 우리가 감수해야할 위험입니다."
+msgstr "잊지 마세요, 로아르티안, 우리는 첫 기회에 우리를 배신할 수 있는 원한을 가진 아첨꾼보다 기꺼이 함께 일해 줄 동맹을 필요합니다. 우리가 공주를 구출해도 요정들은 우리를 돕지 않기로 결정할 수 도 있을 겁니다. 그러나 그것도 우리가 감수해야 할 위험입니다."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:80
@@ -4679,7 +4679,7 @@ msgstr "요새 옆의 숨겨진 터널의 출구에서 나오자, 탈린(Tallin)
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:340
 msgid ""
 "There’s the fortress of Bitterhold. A grim and impressive pile indeed..."
-msgstr "저기 비터홀드 요새가 보이는군. 참으로 음침하면서도 위압적인 성채야..."
+msgstr "저게 비터홀드(Bitterhold) 요새인가. 정말 음울하고 인상적인 거대한 건물이군..."
 
 #. [message]: role=Supporter
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:345
@@ -4691,7 +4691,7 @@ msgstr "그들은 강을 틀어막아 성의 해자로 만들었습니다."
 msgid ""
 "Are we here to sight-see or to rescue this blasted sorceress? If you really "
 "want to sight-see, then check out that orcish encampment south of us."
-msgstr "우리가 여길 구경하러 온것이오? 아니면 비러먹을 여자 마법사를 구하러 온것이오? 정말 구경하고 싶다면, 우리 남쪽에 오크들의 진영을 제대로 구경하고 오시오."
+msgstr "우리가 여길 구경하러 온 것이오? 아니면 빌어먹을 마녀를 구하러 온 것이오? 정말 구경하고 싶다면, 우리 남쪽에 있는 오크 진영이나 살펴보시오."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:355
@@ -4721,7 +4721,7 @@ msgstr "에릿사(Eryssa)"
 msgid ""
 "The intruders are breaking in! Get to the walls and defend the fortress! And "
 "where did that elvish princess go?"
-msgstr "적들이 침입해온다! 성벽에 올라가서 요새를 지켜라! 요정족 공주는 어디있는거냐?"
+msgstr "적들이 침입해온다! 성벽에 올라가서 요새를 지켜라! 요정족 공주는 어디있는 거냐?"
 
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:405
@@ -4834,7 +4834,7 @@ msgstr "여기 우리의 지도자이자 영웅인 탈린(Tallin) 군주가 있�
 msgid ""
 "He is the one who led his people in revolt against the orcs armed with "
 "nothing but pitchforks."
-msgstr "그는 쇠스랑만을 무기로 든 백성들을 이끌고 오크에게 맞서 반란을 일으킨 사람입니다."
+msgstr "그분은 쇠스랑밖에 무기가 없던 사람들을 이끌고 오크에 맞서 봉기한 분이에요."
 
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:245
@@ -4984,7 +4984,7 @@ msgid ""
 "There is a large elvish force not far from here who — we believe anyway — "
 "has been sent to free you. We were hoping if we could secure your release "
 "you would help us crush the orcish host."
-msgstr "여기에서 그렇게 멀지 않은 곳에, 우리들의 추측이긴 하지만, 당신을 해방시키기 위해 보내진 요정의 큰 군대가 있습니다. 만약 우리가 당신의 석방 할 수 있다면, 우리가 오크의 군대를 부수는데 도움이 되기를 바랬습니다."
+msgstr "여기서 그리 멀지 않은 곳에, 우리가 추측하기로는 당신을 구출하러 온 대규모 요정 군대가 있습니다. 우리가 당신을 풀어 줄 수 있다면, 당신이 오크 군대를 무찌르는 데 도움을 주리라 기대했습니다."
 
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/scenarios/09a_Introductions.cfg:360
@@ -5232,7 +5232,7 @@ msgstr "이 짜증나는 놈이 누구죠?"
 msgid ""
 "This is the famous and benevolent Princess Eryssa, in whose rescue we "
 "sacrificed many lives and <i>much</i> gold."
-msgstr "이분은 유명하고 자애로운 에릿사(Eryssa) 공주님입니다. 공주님을 구하기 위해 우리는 많은 목숨과 <i>막대한</i> 금화를 바쳤습니다."
+msgstr "이분은 유명하고 자비로운 에릿사(Eryssa) 공주님입니다. 이분을 구출하는 데 많은 목숨과 <i>많은</i> 금화를 희생했지요."
 
 #. [case]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:80
@@ -5357,7 +5357,7 @@ msgid ""
 "So it shall be. Hamel, when I make contact with the orcs I’ll send you a "
 "message. When you get it, come at all speed. It is near time for the battle "
 "that will decide all."
-msgstr "그렇게 해주세요. 하멜(Hamel), 제가 오크들과 접촉할때 메시지를 보내겠습니다. 그것을 받으면 무슨 수를 써서라도 와주세요. 모든 것을 결정할 전투의 시간이 다가오고 있습니다."
+msgstr "그렇게 해주세요. 하멜(Hamel), 제가 오크들과 접촉할 때 메시지를 보내겠습니다. 그것을 받으면 무슨 수를 써서라도 와주세요. 모든 것을 결정할 전투의 시간이 다가오고 있습니다."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:137
@@ -5421,7 +5421,7 @@ msgstr "크라쉬(Krash)"
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:408
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:733
 msgid "Turns run out"
-msgstr "턴이 모두 소진됨"
+msgstr "차례 끝"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:428
@@ -5495,7 +5495,7 @@ msgstr "이봐 크라쉬(Krash), 당신은 모든 재미를 놓치게 될 거야
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:527
 msgid "I think he has decided that it is time to part ways with us."
-msgstr "그가 이제 우리와 헤어져야 할 때라고 결정한것 같습니다."
+msgstr "그가 이제 우리와 각자의 길을 갈 때가 되었다고 생각한 모양입니다."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:532
@@ -5668,7 +5668,7 @@ msgstr "하이마드린(Himadrin)"
 #. [message]: speaker=Himadrin
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:921
 msgid "Which one of you rabble is Tallin?"
-msgstr "너희 폭도놈들중에 누가 탈린(Tallin)인가?"
+msgstr "너희 폭도놈들 중에 누가 탈린(Tallin)인가?"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/10a_Stolen_Gold.cfg:926
@@ -6637,7 +6637,7 @@ msgstr "후후후! 이 바보같은 놈들아, 너희가 곧 수적으로 열세
 #. [message]: id=Hamel
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:924
 msgid "Will they, now?"
-msgstr "그들이 지금 그걸 할거라고?"
+msgstr "그들이 지금 그걸 할 거라고?"
 
 #. [message]: id=Rakshas
 #: data/campaigns/Northern_Rebirth/scenarios/13a_Showdown.cfg:928
@@ -6949,7 +6949,7 @@ msgid ""
 "Over time, Tallin has proved himself to be a wise, courageous and capable "
 "leader. He is respected by humans, elves and dwarves alike. I therefore "
 "propose that Tallin be made the first head of the Council of Warders."
-msgstr "지속적으로, 탈린(Tallin)은 그 자신이 현명하고 용기있으며, 유능한 리더라는 것을 증명해왔소. 그는 인간이나 난쟁이, 요정 같은 종족에게 존경 받고 있소. 그리하여 나는 탈린(Tallin)이 감시자 평의회의 첫번째 의원장이 되어야한다고 제안하오."
+msgstr "지속적으로, 탈린(Tallin)은 그 자신이 현명하고 용기있으며, 유능한 리더라는 것을 증명해왔소. 그는 인간이나 난쟁이, 요정 같은 종족에게 존경 받고 있소. 그리하여 나는 탈린(Tallin)이 감시자 평의회의 첫 번째 의원장이 되어야 한다고 제안하오."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:180
@@ -6985,7 +6985,7 @@ msgstr "모르빈 신부님, 이 모든 계획이 당신 생각입니다. 당신
 msgid ""
 "Gladly, Tallin. We will stand with the Warders till the end of days if need "
 "be."
-msgstr "기꺼이, 탈린(Tallin). 우리는 우리가 필요 할때까지 Warders 와 함께 할 것이오."
+msgstr "기꺼이, 탈린(Tallin). 필요하다면 세상이 끝날 때까지 감시자들과 함께하겠소."
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:206
@@ -7109,7 +7109,7 @@ msgstr "아브하이(Abhai), 당신의 지원은 우리에게 큰 도움이되�
 msgid ""
 "Pah, think nothing of it. It will sure make an interesting story to tell the "
 "folks back home."
-msgstr "흐흥, 신경쓰지말게. 고향의 동포들에게는 재미있는 여행 이야기가 될 것이네."
+msgstr "흐흥, 신경 쓰지말게. 고향의 동포들에게는 재미있는 여행 이야기가 될 것이네."
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:327
@@ -7136,7 +7136,7 @@ msgstr "테라(Thera)와 나라면 그 건에 대해 도움을 줄 수 있다고
 msgid ""
 "Thank you, Father, and thank you again, Tallin, for all that you have done, "
 "both for the world of the living and the dead."
-msgstr "감사합니다, 탈린(Tallin). 살아있는 자와 죽은 자의 세계 모두를 위해 행하신 모든 일에 대해 다시 한번 감사드립니다."
+msgstr "감사합니다, 탈린(Tallin). 살아 있는 자와 죽은 자의 세계 모두를 위해 행하신 모든 일에 대해 다시 한번 감사드립니다."
 
 #. [message]: id=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:343
@@ -7159,7 +7159,7 @@ msgid ""
 "time. Now we will finally be able to rest in peace. However, as we have "
 "fought hard for this respite, we shall not allow our effort go to waste. "
 "When the Northlands are in direst need of us, we shall rise once again."
-msgstr "고맙소, 탈린(Tallin). 한계를 넘어 계속 움직이면서, 우리의 오래된 뼈는 지쳤네. 드디어 편히 쉴 수 있게된것인가? 하지만, 우리는 이 휴식을 위해 열심히 싸웠으니 이 노력을 헛되지 않도록 할 것이네. 북부 지방이 우리를 절실히 필요로 할때, 우리는 다시 한번 일어설 것이네."
+msgstr "고맙소, 탈린(Tallin). 한계를 넘어 계속 움직이면서, 우리의 오래된 뼈는 지쳤네. 드디어 편히 쉴 수 있게된것인가? 하지만, 우리는 이 휴식을 위해 열심히 싸웠으니 이 노력을 헛되지 않도록 할 것이네. 북부 지방이 우리를 절실히 필요로 할 때, 우리는 다시 한번 일어설 것이네."
 
 #. [message]: id=Ro'Arthian
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:362
@@ -7199,7 +7199,7 @@ msgid ""
 "(<i>Eyes on Eryssa</i>) I know, Hamel. Then may the coming seventy years be "
 "the most happiest and fulfilling years in our lives. Should we deny "
 "ourselves happiness out of the fear of loss?"
-msgstr "(<i>에릿사(Eryssa)를 바라보며</i>) 압니다, 하멜(Hamel). 그래서 오는 70년간을 우리 인생에서 가장 행복하고 성취되는 세월이기를. 두려움과 상실로부터 행복을 부정할 수 있을까요?"
+msgstr "(<i>에릿사(Eryssa)를 바라보며</i>) 압니다, 하멜(Hamel). 앞으로 70년이 우리 인생에서 가장 행복하고 충만한 세월이 되기를 바랍니다. 상실이 두려워 행복을 포기해야 할까요?"
 
 #. [message]: id=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:393
@@ -7253,7 +7253,7 @@ msgid ""
 "Once again I thank all of you. For those of you who are leaving, may the "
 "Lords of Light — or Darkness — guide you on your path. For those of you who "
 "are staying — come, we have much to do."
-msgstr "다시 한번 여러분 모두에게 감사드립니다. 당신의 여정에 빛 또는 어둠의 군주들이 당신의 길을 인도할 것입니다. 이곳에 와서 머무는 사람들을 위해 우리는 해야할 일이 많습니다."
+msgstr "다시 한번 여러분 모두에게 감사드립니다. 당신의 여정에 빛 또는 어둠의 군주들이 당신의 길을 인도할 것입니다. 이곳에 와서 머무는 사람들을 위해 우리는 해야 할 일이 많습니다."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:427
@@ -7647,7 +7647,7 @@ msgstr "지금 어디 간거지.!"
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:651
 msgid "Ahhh, Thera, you would make such a good housewife!"
-msgstr "아아아, 테라(Thera), 당신은 좋은 주부가 될거에요!"
+msgstr "아아아, 테라(Thera), 당신은 좋은 주부가 될 거에요!"
 
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:657

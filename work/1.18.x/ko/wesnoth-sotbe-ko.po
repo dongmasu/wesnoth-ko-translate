@@ -386,7 +386,7 @@ msgid ""
 "We’ll head for Barag Gór in the lands of the free tribes and demand "
 "assistance from the Great Council. With their help, we can raise troops from "
 "the free tribes and crush these humans."
-msgstr "자유 부족들의 땅에 있는 바락 고르에 가서 대 평의회에 도움을 청하도록 하자. 그들의 도움을 얻으면 자유 부족들의 병력을 일으켜서 이 인간들을 뭉개버릴 수 있다."
+msgstr "자유 부족들의 땅에 있는 바락 고르(Barag Gór)로 가서 대평의회에 도움을 청하도록 하자. 그들의 도움을 얻으면 자유 부족들의 병력을 일으켜 이 인간들을 뭉개 버릴 수 있다."
 
 #. [message]: role=second
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:251
@@ -434,7 +434,7 @@ msgstr "란벡흐를 무찔러라"
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:31
 #| msgid "Resist until your people are ready to go"
 msgid "Resist until your people are ready to go (turn 12)"
-msgstr "당신의 백성이 떠날 준비를 마칠 때까지 저항하십시오(12번째 턴)."
+msgstr "백성들이 떠날 준비를 마칠 때까지 저항하라 (12턴까지)"
 
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:34
@@ -521,7 +521,7 @@ msgstr "건방지다! 하지만 네가 좋은 지적을 했다는 점은 인정�
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:177
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:183
 msgid "We must flee! There is no way we can stand up against such a force."
-msgstr "도망가야죠! 저런 병력에 대항할 수 있는 방법 같은건 없어요."
+msgstr "도망가야죠! 저런 병력에 대항할 수 있는 방법 같은 건 없어요."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:190
@@ -536,7 +536,7 @@ msgid ""
 "My father often spoke of the shamans of the Great Council who live in Barag "
 "Gór in the lands of the free tribes. We shall ask them for support. With "
 "their help, perhaps we can unite the orcish tribes and crush these humans."
-msgstr "아버지께서 예전에 자유 부족들의 땅에 있는 바락 고르에 사는 대 평의회의 주술사들 이야기를 해 주신 적이 있지. 우린 그들에게 도움을 청하러 간다. 그들의 도움이 있으면 오크 부족들을 규합해서 이 인간들을 뭉갤 수도 있겠지."
+msgstr "아버지께서 예전에 자유 부족들의 땅에 있는 바락 고르(Barag Gór)에 사는 대 평의회의 주술사들 이야기를 해 주신 적이 있지. 우린 그들에게 도움을 청하러 간다. 그들의 도움이 있으면 오크 부족들을 규합해서 이 인간들을 뭉갤 수도 있겠지."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:208
@@ -824,7 +824,7 @@ msgid ""
 "you can from each of these houses. If anyone refuses to pay, tie them up and "
 "take what they have anyway. Let them know that they live only on my good "
 "graces. I’ll take the army to Barag Gór. Catch up when you’re done."
-msgstr "우린 경고했다, 난쟁이야. 기병들, 흩어져서 집이라는 집에서 눈에 띄는 것을 모두 긁어와라. 따르지 않는 놈이 있다면, 꽁꽁 묶어놓고 무조건 뺏어와라. 놈들이 살아있는건 내 자비 덕분이라는 걸 알게 해줘라. 나는 이대로 바락 고르로 갈 것이다. 너희도 끝나는데로 따라오도록 하라."
+msgstr "경고했을 텐데, 난쟁이야. 기병들, 흩어져서 집집마다 눈에 띄는 것을 모두 긁어 와라. 따르지 않는 놈이 있다면 꽁꽁 묶어 놓고 무조건 빼앗아 와라. 놈들이 살아 있는 건 내 자비 덕분이라는 걸 알려 줘라. 나는 군대를 바락 고르(Barag Gór)로 데려가겠다. 너희도 일이 끝나는 대로 따라오도록."
 
 #. [message]: role=doggie
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:381
@@ -837,7 +837,7 @@ msgid ""
 "We’ve succeeded! We’ve passed through the Mountains of Haag! Look at these "
 "green hills! The land of the free tribes is near now. I can see the walls of "
 "Barag Gór in the distance."
-msgstr "해냈다! 하아그(Haag)의 산맥을 통과했어! 저 초록 언덕들을 봐라! 이제 자유 부족들의 땅이 가깝구나. 저 멀리 바락 고르의 성벽이 보인다."
+msgstr "해냈다! 하아그(Haag)의 산맥을 통과했어! 저 초록 언덕들을 봐라! 이제 자유 부족들의 땅이 가깝구나. 저 멀리 바락 고르(Barag Gór)의 성벽이 보인다."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:426
@@ -887,7 +887,7 @@ msgstr "아버지라면 당신을 도왔을거요. 당신을 돕지 않는건 �
 #. [scenario]: id=04_The_Siege_of_Barag_Gor
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:4
 msgid "The Siege of Barag Gór"
-msgstr "바락 고르 공성전"
+msgstr "바락 고르(Barag Gór) 공성전"
 
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:23
@@ -914,7 +914,7 @@ msgstr "주술사의 죽음"
 msgid ""
 "Except for the shamans, the Barag Gór defenders will not follow you into the "
 "next scenario"
-msgstr "주술사를 제외하고 바락 고르의 수비대는 다음 시나리오에서 당신을 따라가지 않을 것입니다"
+msgstr "주술사를 제외하고 바락 고르(Barag Gór)의 수비대는 다음 시나리오에서 당신을 따라가지 않을 것입니다"
 
 #. [side]: type=Elvish Marshal, id=Etheliel
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:66
@@ -979,7 +979,7 @@ msgstr "브라우르크(Vraurk)"
 msgid ""
 "When the party finally reached Barag Gór, they were met with a most "
 "startling sight."
-msgstr "무리가 바락 고르에 도착했을 때, 그들은 정말로 당황스런 광경을 보게 되었다."
+msgstr "무리가 바락 고르(Barag Gór)에 도착했을 때, 그들은 정말로 당황스런 광경을 보게 되었다."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:249
@@ -987,7 +987,7 @@ msgid ""
 "What the—! Barag Gór is besieged by elves! The wose-born weaklings have "
 "always been jealous of our power, but what reason do they have to attack the "
 "city?"
-msgstr "이 무슨—! 엘프들이 바락 고르를 포위했잖은가! 허약한 나모붙이들은 언제나 우리의 힘을 질투하지만, 어째서 놈들이 도시를 공격하는 거지?"
+msgstr "이 무슨—! 엘프들이 바락 고르(Barag Gór)를 포위했잖은가! 허약한 나모붙이들은 언제나 우리의 힘을 질투하지만, 어째서 놈들이 도시를 공격하는 거지?"
 
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:255
@@ -1157,7 +1157,7 @@ msgid ""
 "The Barag Gór Council sent me to assassinate the elvish leaders. "
 "Unfortunately, I was captured. But now I am free and the elves shall feel my "
 "wrath!"
-msgstr "바락 고르의 평의회는 내게 엘프의 대장들의 암살을 의뢰했소. 하지만 불행히도 잡혀버렸지. 그러나 이제 풀려났으니 엘프들에게 내 분노를 보여주겠소!"
+msgstr "바락 고르(Barag Gór)의 평의회는 내게 엘프의 대장들의 암살을 의뢰했소. 하지만 불행히도 잡혀버렸지. 그러나 이제 풀려났으니 엘프들에게 내 분노를 보여주겠소!"
 
 #. [message]: speaker=Pirk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:509
@@ -1237,7 +1237,7 @@ msgstr "어떻게 이런 녀석들에게 사로잡힌건가?"
 msgid ""
 "The Barag Gór Council sent me to assassinate the elvish leaders. "
 "Unfortunately, I was captured."
-msgstr "바락 고르의 평의회는 내게 엘프의 대장들의 암살을 의뢰했소. 하지만 불행히도 잡혀버렸지."
+msgstr "바락 고르(Barag Gór)의 평의회는 내게 엘프의 대장들의 암살을 의뢰했소. 하지만 불행히도 잡혀버렸지."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:605
@@ -1309,7 +1309,7 @@ msgstr "인간들이 그것을 막기 위해 무슨 수를 써서든 주술사�
 msgid ""
 "Leaving most of his people at Barag Gór, Kapou’e, accompanied by the shamans "
 "and his warriors, set off to Tirigaz."
-msgstr "대부분의 백성들을 바락 고르에 남겨두고, 카포우에는 주술사들과 그의 전사들과 함께 티리가즈(Tirigaz)로 출발했다."
+msgstr "대부분의 백성들을 바락 고르(Barag Gór)에 남겨두고, 카포우에는 주술사들과 그의 전사들과 함께 티리가즈(Tirigaz)로 출발했다."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/05_To_the_Harbor_of_Tirigaz.cfg:186
@@ -1672,7 +1672,7 @@ msgstr "낮의 열기와 밤의 냉기는 오크들을 매우 지치게 만들�
 msgid ""
 "By the dawn of the third day the party was hungry, tired and weary, but "
 "according to their map, a good-sized oasis was not far away."
-msgstr "세번째 날이 밝았을 때 무리는 굶주리고, 피로에 지쳐 떨어질 지경이었다. 하지만 그들의 지도에 의하면 적당한 크기의 오아시스가 머지않은 곳에 있었다."
+msgstr "세 번째 날이 밝았을 때 무리는 굶주리고, 피로에 지쳐 떨어질 지경이었다. 하지만 그들의 지도에 의하면 적당한 크기의 오아시스가 머지않은 곳에 있었다."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:132
@@ -1719,7 +1719,7 @@ msgid ""
 "I wouldn’t worry about the scorpions right now, I would worry about getting "
 "out of this sandstorm! These things can last for weeks, and if we aren’t "
 "buried alive by all the sand, we will die of hunger and thirst."
-msgstr "지금은 전갈보다도 이 모래폭풍에서 문제요! 이 폭풍은 잘못하면 일주일도 더 갈지도 모르고, 그랬다간 우린 모래속에 산 채로 묻히거나, 굶주림과 목마름으로 죽게 될거요."
+msgstr "지금은 전갈보다도 이 모래폭풍에서 문제요! 이 폭풍은 잘못하면 일주일도 더 갈지도 모르고, 그랬다간 우린 모래속에 산 채로 묻히거나, 굶주림과 목마름으로 죽게 될 거요."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:182
@@ -1742,7 +1742,7 @@ msgstr "다른 방법이 없소. 여기 남았다간, 다 죽을 것이오."
 msgid ""
 "Finally we’ve done it! Now let’s wait out this sandstorm, resupply and get "
 "some rest before we continue on our journey."
-msgstr "마침내 해냈다! 이제 여기서 모래폭풍이 잠잠해지길 기다렸다가, 보급을 한 뒤 여행을 계속할때까지 쉬도록 하자."
+msgstr "마침내 해냈다! 이제 여기서 모래폭풍이 잠잠해지길 기다렸다가, 보급을 한 뒤 여행을 계속할 때까지 쉬도록 하자."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:284
@@ -1783,7 +1783,7 @@ msgstr "<i>끄역</i>! 역겨워! 이거 맛 너무 끔찍해!"
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:331
 msgid ""
 "I don’t know if you should have eaten that, Grüü, you don’t look so good."
-msgstr "별로 먹었어야 한다는 생각은 안드는데, 그뤼. 안색이 안좋군."
+msgstr "별로 먹었어야 한다는 생각은 안드는데, 그뤼. 안색이 안 좋군."
 
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/07_The_Desert_of_Death.cfg:336
@@ -1987,7 +1987,7 @@ msgstr "얘들아, 엘프 한놈을 잡아서 심문해라. 대답을 좀 얻어
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/08_Silent_Forest.cfg:241
 #| msgid "Now we’re going to have some some answers out of you."
 msgid "Now we’re going to have some answers out of you."
-msgstr "이제 네놈에게서 몇가지 대답을 얻어낼 것이다."
+msgstr "이제 네놈에게서 몇 가지 대답을 얻어낼 것이다."
 
 #. [message]: speaker=unit
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/08_Silent_Forest.cfg:246
@@ -2434,7 +2434,7 @@ msgid ""
 "the bulk of them have crossed, someone needs to go and light the barrel of "
 "oil we have set up beside the bridge to destroy it. Any warriors trapped on "
 "the bridge or on the other side of the river will perish!"
-msgstr "우린 다리 남쪽을 부숴서 놈들을 잠시 저지할 수 있소. 대부분의 사우리안들이 다리를 건넜을 때, 누가 가서 다리 곁에 설치해 둔 기름통에 불을 붙여서 다리를 파괴해야 하오. 하지만 다리나 강 건너에 갇힌 전사들은 죽게 될거요!"
+msgstr "우린 다리 남쪽을 부숴서 놈들을 잠시 저지할 수 있소. 대부분의 사우리안들이 다리를 건넜을 때, 누가 가서 다리 곁에 설치해 둔 기름통에 불을 붙여서 다리를 파괴해야 하오. 하지만 다리나 강 건너에 갇힌 전사들은 죽게 될 거요!"
 
 #. [message]: speaker=Thelarion
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:228
@@ -2627,7 +2627,7 @@ msgstr "4일간 프레스팀(Prestim)을 완벽하게 방어하라"
 msgid ""
 "You don’t control all villages on the north side of the river when turns run "
 "out"
-msgstr "턴이 다할 때 강 북쪽의 모든 마을을 장악하고 있지 않으면 패배합니다."
+msgstr "턴이 끝날 때 강 북쪽의 모든 마을을 점령하지 못함"
 
 #. [event]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_of_Armies.cfg:233
@@ -2692,7 +2692,7 @@ msgid ""
 "Fool! We can hold that long. But we have to have Prestim firmly in control "
 "when the shamans arrive with the Great Horde. We can’t let the humans "
 "establish a foothold on this side of the river..."
-msgstr "멍청하긴! 우린 그 정도는 버틸 수 있다. 하지만 주술사들이 큰 무리와 함께 와 있을때 우린 프레스팀(Prestim)을 확실하게 장악하고 있어야해. 인간들이 강 이쪽에 발판을 마련하게 둬선 안 된다..."
+msgstr "멍청하긴! 우린 그 정도는 버틸 수 있다. 하지만 주술사들이 큰 무리와 함께 와 있을 때 우린 프레스팀(Prestim)을 확실하게 장악하고 있어야해. 인간들이 강 이쪽에 발판을 마련하게 둬선 안 된다..."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_of_Armies.cfg:295
@@ -3323,7 +3323,7 @@ msgstr "간단한 명령이네요."
 #. [message]: speaker=second_unit
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:612
 msgid "Miserable elf, we want some answers!"
-msgstr "비참한 엘프야, 몇가지 대답을 들어야겠다!"
+msgstr "비참한 엘프야, 몇 가지 대답을 들어야겠다!"
 
 #. [message]: speaker=Thelarion
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:617
@@ -3646,7 +3646,7 @@ msgstr "이제 얼마든지 해도 된다, 그뤼."
 #. [message]: speaker=second_unit
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/15_Civil_War.cfg:361
 msgid "This rabble won’t be a problem anymore."
-msgstr "이 폭도는 더이상 문제가 안될 겁니다."
+msgstr "이 폭도는 더 이상 문제가 안될 겁니다."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/15_Civil_War.cfg:370
@@ -3816,7 +3816,7 @@ msgstr "어떻게 네놈이 감히 날 배신자라고 칭하느냐, 이 똥이�
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/16_The_Coward.cfg:244
 msgid "Right... So what will it be, beheading or torture?"
-msgstr "좋아... 그럼 어떻게 할거냐, 목이 따일거냐 고문당할거냐?"
+msgstr "좋아... 그럼 어떻게 할 거냐, 목이 따일거냐 고문당할 거냐?"
 
 #. [message]: speaker=Shan Taum
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/16_The_Coward.cfg:251
@@ -3918,7 +3918,7 @@ msgid ""
 "shamans at Barag Gór, to his forced march through the northern blizzards. "
 "Younger grunts especially worshiped him with such fervor that he found it "
 "almost frightening."
-msgstr "그러나 그들의 존재는 필요하지 않았다. 카포우에는 며칠 후 그의 동족들이 그를 존경 가득한 시선으로 쳐다보는 것을 보고 깜짝 놀랐다. 카포우에가 이룬 위업은 널리 퍼져있었다 — 바락 고르의 주술사들을 구출한 것부터, 북부의 눈보라 속에서 행한 강행군까지. 어린 졸개들은 특히 열정적으로 그를 숭배해서 두려울 정도였다."
+msgstr "그러나 그들의 존재는 필요하지 않았다. 카포우에는 며칠 후 그의 동족들이 그를 존경 가득한 시선으로 쳐다보는 것을 보고 깜짝 놀랐다. 카포우에가 이룬 위업은 널리 퍼져있었다 — 바락 고르(Barag Gór)의 주술사들을 구출한 것부터, 북부의 눈보라 속에서 행한 강행군까지. 어린 졸개들은 특히 열정적으로 그를 숭배해서 두려울 정도였다."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:147
@@ -4156,7 +4156,7 @@ msgstr "그 문제가 해결되자, 카포우에는 아버지의 죽음에 대�
 msgid ""
 "As they were discussing the matter, a group of orcs charged from the "
 "surrounding trees and hills and surrounded the parley."
-msgstr "그들이 이 문제를 논의하고 있을때, 한 무리의 오크들이 주변의 나무와 언덕에서 나타나 협상 장소를 포위했다."
+msgstr "그들이 이 문제를 논의하고 있을 때, 한 무리의 오크들이 주변의 나무와 언덕에서 나타나 협상 장소를 포위했다."
 
 #. [message]: speaker=Shan Taum
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:475
@@ -4356,7 +4356,7 @@ msgid ""
 "Kapou’e to join the Northern Alliance. Kapou’e declined. Instead, he went "
 "back to Barag Gór and, making that his capital, established himself as "
 "sovereign over all the northern tribes."
-msgstr "라훌이 카포우에의 아버지에게 그랬던 것처럼, 하우가르트 3세는 카포우에에게 북부 동맹에 가입할 것을 요청했다. 카포우에는 거절했다. 대신 그는 바락 고르에 그의 수도를 만들고 그 자신을 모든 북방 부족들의 대총통으로 선언했다."
+msgstr "라훌이 카포우에의 아버지에게 그랬던 것처럼, 하우가르트 3세는 카포우에에게 북부 동맹에 가입할 것을 요청했다. 카포우에는 거절했다. 대신 그는 바락 고르(Barag Gór)에 그의 수도를 만들고 그 자신을 모든 북방 부족들의 대총통으로 선언했다."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/19_Epilogue.cfg:38

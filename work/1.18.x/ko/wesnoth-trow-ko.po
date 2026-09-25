@@ -165,7 +165,7 @@ msgid ""
 "younger brother, the next in line for the throne, chafed at the eye of "
 "suspicion cast upon him. He conspired to start a war of distraction with the "
 "poor Wesfolk kingdoms and their Lich-Lords."
-msgstr "동쪽으로 향했던 바로 그 왕세자는 얼마 지나지않아 의심스러운 상황에서 병으로 죽고 말았다. 다음의 왕위계승자인 그의 동생은 자신에게 의심의 눈길이 돌아오는 것을 견디지 못했다. 그는 시선을 돌리기 위해 가난한 서부인(Wesfolk) 왕국과 그 리치(Lich) 군주들에 대한 전쟁을 일으키고자 했다."
+msgstr "동쪽으로 향했던 바로 그 왕세자는 얼마 지나지않아 의심스러운 상황에서 병으로 죽고 말았다. 다음의 왕위계승자인 그의 동생은 자신에게 의심의 눈길이 돌아오는 것을 견디지 못했다. 그는 시선을 돌리기 위해 가난한 서부인(Wesfolk) 왕국과 그 리치 군주들에 대한 전쟁을 일으키고자 했다."
 
 #. [part]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:47
@@ -177,7 +177,7 @@ msgstr "이 새 왕세자는 서부인(Wesfolk)과의 전쟁을 위해 지금까
 #. [part]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:51
 msgid "... with the plight of a different prince on the same Isle..."
-msgstr "... 같은 섬에 있는 또다른 왕자가 맞이한 역경으로부터..."
+msgstr "... 같은 섬에 있는 또 다른 왕자가 맞이한 역경으로부터..."
 
 #. [part]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:55
@@ -382,7 +382,7 @@ msgstr "왜 우리 영토에 들어와서 소란을 피운 거냐?"
 msgid ""
 "Trouble your lands! Bah! Your fool Prince of Southbay has attacked our "
 "lands. The Lich-Lords had no choice... They opened a gate... and..."
-msgstr "소란이라고! 흥! 당신네 남만국(Southbay)의 멍청한 왕자가 우리 땅을 공격했었소. 리치(Lich) 군주에겐 선택의 여지가 없었소... 그들은 관문을 열었고... 그리고..."
+msgstr "소란이라고! 흥! 당신네 남만국(Southbay)의 멍청한 왕자가 우리 땅을 공격했었소. 리치 군주에겐 선택의 여지가 없었소... 그들은 관문을 열었고... 그리고..."
 
 #. [message]: speaker=King Eldaric IV
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:233
@@ -415,7 +415,7 @@ msgstr "당신들은 이 섬에 너무 오래 있었소. 오크족이 실존한�
 msgid ""
 "We must prepare the defenses! Haldric, stay at the keep. I must go and "
 "fortify our frontier."
-msgstr "우리는 방어태세를 갖춰야 한다! 할드릭(Haldric), 너는 아성에 머물러라. 나는 가서 국경의 방비를 강화해야 겠다."
+msgstr "우리는 방어태세를 갖춰야 한다! 할드릭(Haldric), 너는 아성에 머물러라. 나는 가서 국경의 방비를 강화해야겠다."
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/01_A_Summer_of_Storms.cfg:253
@@ -457,7 +457,7 @@ msgstr "함락의 가을"
 msgid ""
 "Summer passes into fall, and King Eldaric fortifies his frontiers. It is not "
 "long before the first orcish scouts are spotted. War has come to the valley."
-msgstr "여름이 지나가고 가을이 왔을때, 엘다릭 국왕은 국경의 수비를 강화되었다. 곧이어 첫번째 오크의 정찰꾼이 발견되었다. 전쟁이 골짜기에도 찾아오게 되었다."
+msgstr "여름이 지나가고 가을이 왔을때, 엘다릭 국왕은 국경의 수비를 강화되었다. 곧이어 첫 번째 오크의 정찰꾼이 발견되었다. 전쟁이 골짜기에도 찾아오게 되었다."
 
 #. [side]: type=Noble Fighter, id=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:34
@@ -578,7 +578,7 @@ msgstr "저기가 골짜기에서 나가는 유일한 출구다! 이건 재앙�
 msgid ""
 "Run, meat, run! Sooner or later, you will tire and our wolves will hunt you "
 "down!"
-msgstr "달아나봐, 고깃덩어리야, 달아나보라고! 머지않아 네놈들이 지치면, 우리의 늑대들이 네놈들을 사냥할거니까!"
+msgstr "달아나봐, 고깃덩어리야, 달아나보라고! 머지않아 네놈들이 지치면, 우리의 늑대들이 네놈들을 사냥할 거니까!"
 
 #. [message]: speaker=Tan-Erang
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:214
@@ -1009,7 +1009,7 @@ msgid ""
 "have been the Isle’s largest city save for the events of the Wesfolk War. "
 "The Lich-Lords befouled much of the land around the river during the course "
 "of a great battle. Now the swamp is home to a Wesfolk-imitating cult."
-msgstr "강변길은 남동쪽으로 흐르는 섬에서 가장 큰 강을 따라가는 길이다. 이 길은 섬에서 두 번째로 큰 도시인 맑은물(Clearwater) 항구로 이어졌다. 만약 서부인(Wesfolk)의 전쟁이 아니었다면 그곳이 섬에서 가장 큰 도시로 남아있었을 것이다. 리치(Lich) 군주들은 큰 싸움 중에 강가의 많은 땅을 더럽혔다. 이제 늪지대는 서부인(Wesfolk)을 모방한 광신도들의 보금자리가 되어버렸다."
+msgstr "강변길은 남동쪽으로 흐르는 섬에서 가장 큰 강을 따라가는 길이다. 이 길은 섬에서 두 번째로 큰 도시인 맑은물(Clearwater) 항구로 이어졌다. 만약 서부인(Wesfolk)의 전쟁이 아니었다면 그곳이 섬에서 가장 큰 도시로 남아있었을 것이다. 리치 군주들은 큰 싸움 중에 강가의 많은 땅을 더럽혔다. 이제 늪지대는 서부인(Wesfolk)을 모방한 광신도들의 보금자리가 되어버렸다."
 
 #. [side]: type=Dark Sorcerer, id=Cleon
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04a_The_Swamp_of_Esten.cfg:49
@@ -1224,7 +1224,7 @@ msgid ""
 "Well, we can’t go back, and the road ahead is blocked. I guess we’ll have to "
 "risk it and go through the Oldwood forest, then make a break for Clearwater "
 "Port."
-msgstr "흠, 우린 돌아갈 수도 없고, 앞길은 막혀 있군. 아무래도 위험을 무릅쓰고 오래된 나무들의 숲을 지나서 맑은물(Clearwater) 항구에서 휴식을 취해야 겠군."
+msgstr "흠, 우린 돌아갈 수도 없고, 앞길은 막혀 있군. 아무래도 위험을 무릅쓰고 오래된 나무들의 숲을 지나서 맑은물(Clearwater) 항구에서 휴식을 취해야겠군."
 
 #. [message]: speaker=Burin the Lost
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04a_The_Swamp_of_Esten.cfg:590
@@ -1326,7 +1326,7 @@ msgstr "인간족이다... 인간족이 보여!"
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04b_The_Midlands.cfg:195
 msgid ""
 "Ha, Hogar! You said we wouldn’t see any action this far back from the front."
-msgstr "이봐, 호가르! 이런 후방에선 싸움 같은건 없을 거랬잖아."
+msgstr "이봐, 호가르! 이런 후방에선 싸움 같은 건 없을 거랬잖아."
 
 #. [message]: speaker=Tan-Hogar
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04b_The_Midlands.cfg:200
@@ -1422,7 +1422,7 @@ msgid ""
 "Well, we can’t go back, and the road ahead is blocked... I guess we’ll have "
 "to risk it and go through the Oldwood forest, then make a break for "
 "Clearwater Port."
-msgstr "흠, 우린 돌아갈 수도 없고, 앞길은 막혀 있다니... 아무래도 위험을 무릅쓰고 오래된 나무들의 숲을 지나서 맑은물(Clearwater) 항구에서 휴식을 취해야 겠군."
+msgstr "흠, 우린 돌아갈 수도 없고, 앞길은 막혀 있다니... 아무래도 위험을 무릅쓰고 오래된 나무들의 숲을 지나서 맑은물(Clearwater) 항구에서 휴식을 취해야겠군."
 
 #. [message]: speaker=Burin the Lost
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/04b_The_Midlands.cfg:417
@@ -1511,7 +1511,7 @@ msgid ""
 "quickly narrows and becomes little more than a path. Branches reach high "
 "overhead, blocking almost all of the light... The ominous noises of the deep "
 "woods echo all around."
-msgstr "할드릭(Haldric)의 무리는 오래된 나무들의 숲의 심장부에 들어섰다. 길은 급격히 좁아져 급기야 오솔길 수준이 되었다. 하늘 높이 뻗은 가지들이 대부분의 빛을 가리고 있었다... 불길한 소음이 깊은 숲 속에서 울려퍼지고 있었다."
+msgstr "할드릭(Haldric)의 무리는 오래된 나무들의 숲의 심장부에 들어섰다. 길은 급격히 좁아져 급기야 오솔길 수준이 되었다. 하늘 높이 뻗은 가지들이 대부분의 빛을 가리고 있었다... 불길한 소음이 깊은 숲 속에서 울려 퍼지고 있었다."
 
 #. [message]: speaker=Burin the Lost
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/05_The_Oldwood.cfg:204
@@ -1621,7 +1621,7 @@ msgstr "오늘 너희는 나무의 친구임을 증명했다. 오랫동안 너�
 msgid ""
 "Well, I suspect you won’t have to worry about my kind for much longer. The "
 "orcs have come, and they are taking this Isle!"
-msgstr "글쎄, 당신들은 더이상 우리 종족에 대해 걱정할 필요가 없을 것 같네요. 오크족이 와서 이 섬을 점령하고 있거든!"
+msgstr "글쎄, 당신들은 더 이상 우리 종족에 대해 걱정할 필요가 없을 것 같네요. 오크족이 와서 이 섬을 점령하고 있거든!"
 
 #. [message]: speaker=Elilmaldur-Rithrandil
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/05_The_Oldwood.cfg:326
@@ -1688,7 +1688,7 @@ msgid ""
 "Young Prince, while the lich-lords have betrayed us by allying themselves "
 "with that orcish scum, I can’t bring myself to fight against one of the "
 "greatest leaders of my people."
-msgstr "젊은 왕자님, 리치 군주들이 오크의 쓰레기들과 합심해서 우릴 배신했지만, 우리 민족의 위대한 대장들중 한명과 싸우는데는 함께할 수 없을 것 같아요."
+msgstr "젊은 왕자님, 리치 군주들이 오크의 쓰레기들과 합심해서 우릴 배신했지만, 우리 민족의 위대한 대장들 중 한명과 싸우는데는 함께할 수 없을 것 같아요."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/05_The_Oldwood.cfg:373
@@ -1753,7 +1753,7 @@ msgid ""
 "Prince Haldric and his company, grim and watchful, descend into catacombs "
 "below the temple, buried deep in the bedrock, in the very roots of the world "
 "itself. In the distance Haldric hears a booming voice."
-msgstr "할드릭(Haldric) 왕자와 그 동료들은 조용히 주의하면서 기반암 저 아래 묻혀 세계의 바닥까지 내려간 듯한 사원 아래 지하 묘지로 내려갔다. 할드릭(Haldric)은 멀리서 쩌렁쩌렁 울려퍼지는 목소리를 들었다."
+msgstr "할드릭(Haldric) 왕자와 그 동료들은 조용히 주의하면서 기반암 저 아래 묻혀 세계의 바닥까지 내려간 듯한 사원 아래 지하 묘지로 내려갔다. 할드릭(Haldric)은 멀리서 쩌렁쩌렁 울려 퍼지는 목소리를 들었다."
 
 #. [side]: type=Lich, id=Lich-Lord Lenvan
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/06_Temple_in_the_Deep.cfg:44
@@ -1861,7 +1861,7 @@ msgstr "다른 사람이 상자를 이동시켜야 합니다."
 msgid ""
 "I’m glad that’s over! We have the Ruby of Fire, and that Lich-Lord is now a "
 "pile of dust. Let’s get out of these catacombs!"
-msgstr "이번 일이 잘 끝나서 기쁘구나! 우린 불의 루비를 얻었고, 리치(Lich) 군주는 먼지더미로 변했어. 이제 이 지하 묘지에서 나가자!"
+msgstr "이번 일이 잘 끝나서 기쁘구나! 우린 불의 루비를 얻었고, 리치 군주는 먼지더미로 변했어. 이제 이 지하 묘지에서 나가자!"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/06_Temple_in_the_Deep.cfg:313
@@ -1914,7 +1914,7 @@ msgid ""
 "The forest seems particularly bright this day, but there is a cold breeze. "
 "It is late into the fall, and the first snows should fall any day. Prince "
 "Haldric has returned to his forest keep, and is pondering what to do next..."
-msgstr "할드릭(Haldric) 왕자는 리치(Lich) 군주의 무덤에서 불의 루비를 가지고 나왔다. 오늘의 숲은 특히 밝았지만, 찬 바람이 불고 있었다. 때는 늦은 가을로, 언제 첫눈이 내릴지 몰랐다. 할드릭(Haldric) 왕자는 그의 숲속 아성으로 돌아가서 다음에 뭘 할지 생각하고 있다..."
+msgstr "할드릭(Haldric) 왕자는 리치 군주의 무덤에서 불의 루비를 가지고 나왔다. 오늘의 숲은 특히 밝았지만, 찬 바람이 불고 있었다. 때는 늦은 가을로, 언제 첫눈이 내릴지 몰랐다. 할드릭(Haldric) 왕자는 그의 숲속 아성으로 돌아가서 다음에 뭘 할지 생각하고 있다..."
 
 #. [message]: speaker=Elilmaldur-Rithrandil
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/07_Return_to_Oldwood.cfg:116
@@ -2015,7 +2015,7 @@ msgstr "남만국(Southbay)으로 가는 길에 대한 소식을 가져왔어요
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/07_Return_to_Oldwood.cfg:203
 msgid "Humph! Your words mean very little to me."
-msgstr "흐흠! 당신의 말따윈 신경쓰지 않아."
+msgstr "흐흠! 당신의 말따윈 신경 쓰지 않아."
 
 #. [message]: speaker=Lady Outlaw
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/07_Return_to_Oldwood.cfg:208
@@ -2090,7 +2090,7 @@ msgid ""
 "I am the Lady Jessene, a noble, a princess of the Wesfolk! I was betrayed by "
 "the Lich-Lords’ dark pact with the orcs, in no small part because your fool "
 "Prince of Southbay convinced them that their immortal unlives were over!"
-msgstr "나는 제세네(Jessene), 유서깊은 서부인(Wesfolk)의 공주에요! 나는 리치(Lich) 군주들이 오크족과 맺은 어둠의 조약에 배신당했어요. 당신네 남만국(Southbay)의 멍청한 왕자가 그들의 죽지 않는 불멸의 삶이 끝나버릴거라고 믿게 만든 것 때문에!"
+msgstr "나는 제세네(Jessene), 유서깊은 서부인(Wesfolk)의 공주에요! 나는 리치 군주들이 오크족과 맺은 어둠의 조약에 배신당했어요. 당신네 남만국(Southbay)의 멍청한 왕자가 그들의 죽지 않는 불멸의 삶이 끝나버릴거라고 믿게 만든 것 때문에!"
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/07_Return_to_Oldwood.cfg:299
@@ -2104,7 +2104,7 @@ msgid ""
 "Lords still command these orcs or if the orcs have rid themselves of the "
 "Lich-Lords, but I do know that no orc is going to tolerate living humans "
 "outside of the slave mines or worse, stew pots!"
-msgstr "그리고 지금은, 나도 당신과 같은 피난민이죠. 사실 난 리치(Lich) 군주들이 여전히 오크족에게 명령하고 있는지 아니면 관계없이 움직이고 있는지 몰라요. 하지만 확실히 아는 것은 오크족은 노예 광산이나 솥에 담겨진 인간족이 아니면 절대 용납하지 않을거라는 거에요!"
+msgstr "그리고 지금은, 나도 당신과 같은 피난민이죠. 사실 난 리치 군주들이 여전히 오크족에게 명령하고 있는지 아니면 관계없이 움직이고 있는지 몰라요. 하지만 확실히 아는 것은 오크족은 노예 광산이나 솥에 담겨진 인간족이 아니면 절대 용납하지 않을거라는 거에요!"
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/07_Return_to_Oldwood.cfg:303
@@ -2189,7 +2189,7 @@ msgstr "겁쟁이의 길:"
 #. [objective]: condition=win
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:409
 msgid "Flee on the First Ship"
-msgstr "첫번째 배를 타고 퇴각"
+msgstr "첫 번째 배를 타고 퇴각"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:413
@@ -2210,7 +2210,7 @@ msgstr "영웅의 길:"
 #. [objective]: condition=win
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:419
 msgid "Flee on the Third Ship"
-msgstr "세번째 배를 타고 퇴각"
+msgstr "세 번째 배를 타고 퇴각"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:432
@@ -2367,7 +2367,7 @@ msgstr "<i>“하지만 이 서부인(Wesfolk)도 데려가는 겁니까? 그건
 msgid ""
 "Push ’em into the sea! They’re in our winter homes! Heh... Tan-Vragar, I’m "
 "sure they will enjoy your little surprise!"
-msgstr "놈들을 바다로 밀어버려! 저기가 우리의 겨울 집이다! 헤... 탄-브라가르, 놈들이 네가 준비한 깜짝 선물에 좋아할거 같군!"
+msgstr "놈들을 바다로 밀어버려! 저기가 우리의 겨울 집이다! 헤... 탄-브라가르, 놈들이 네가 준비한 깜짝 선물에 좋아할 거 같군!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:601
@@ -2389,14 +2389,14 @@ msgstr "강변길 — 에스텐(Esten)의 늪지대행."
 msgid ""
 "My lord, the first ship has arrived! Prince Haldric, if you and your men "
 "must leave for Southbay just go to the pier to board the ship."
-msgstr "주군, 첫번째 배가 도착했습니다! 할드릭(Haldric) 왕자님, 당신과 부하들이 남만국(Southbay)으로 떠나야 한다면 부두로 가서 배에 타십시오."
+msgstr "주군, 첫 번째 배가 도착했습니다! 할드릭(Haldric) 왕자님, 당신과 부하들이 남만국(Southbay)으로 떠나야 한다면 부두로 가서 배에 타십시오."
 
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:759
 msgid ""
 "My lord, the first ship is departing. But the second ship should arrive "
 "shortly."
-msgstr "주군, 첫번째 배가 떠납니다. 하지만 곧 두 번째 배가 도착할 겁니다."
+msgstr "주군, 첫 번째 배가 떠납니다. 하지만 곧 두 번째 배가 도착할 겁니다."
 
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:800
@@ -2410,7 +2410,7 @@ msgstr "주군, 두 번째 배가 도착했습니다! 할드릭(Haldric) 왕자�
 msgid ""
 "My lord, the second ship is departing. But the last ship will be here before "
 "long. With your help we can hold on just a while longer."
-msgstr "주군, 두 번째 배가 떠납니다. 하지만 마지막 배가 머지않아 도착합니다. 당신의 도움으로 우린 좀더 오래 버틸 수 있겠습니다."
+msgstr "주군, 두 번째 배가 떠납니다. 하지만 마지막 배가 머지않아 도착합니다. 당신의 도움으로 우린 좀 더 오래 버틸 수 있겠습니다."
 
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:859
@@ -2635,7 +2635,7 @@ msgstr "그렇죠."
 msgid ""
 "There’s an odd monolith standing near here. Maybe it has something to do "
 "with the Lich-Lord... I should investigate more closely."
-msgstr "근처에 이상한 돌기둥이 있군. 어쩌면 리치(Lich) 군주와 관계가 있는 걸지도... 좀더 자세히 봐야겠군."
+msgstr "근처에 이상한 돌기둥이 있군. 어쩌면 리치 군주와 관계가 있는 걸지도... 좀 더 자세히 봐야겠군."
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:323
@@ -2661,7 +2661,7 @@ msgid ""
 "good people of the Green Isle. By its power, the Lich-Lord is bound in "
 "stone. To end the spell, a noble of the line of kings should utter the "
 "following..."
-msgstr "이 거석은 초록섬의 선량한 사람들 가운데 최초의 마법사인 나 ― (<i>깎여나감</i>) 가 세운 것이다. 이것의 힘으로 리치(Lich) 군주는 돌이 되어 봉인되었다. 봉인을 파기하려면 국왕의 고귀한 계보를 잇는 자가 다음의 주문을 외우라..."
+msgstr "이 거석은 초록섬의 선량한 사람들 가운데 최초의 마법사인 나 ― (<i>깎여나감</i>) 가 세운 것이다. 이것의 힘으로 리치 군주는 돌이 되어 봉인되었다. 봉인을 파기하려면 국왕의 고귀한 계보를 잇는 자가 다음의 주문을 외우라..."
 
 #. [option]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/09_Fallen_Lich_Point.cfg:372
@@ -2901,7 +2901,7 @@ msgid ""
 "Haldric, I feel a strong foreboding. Have you noticed that anything that "
 "happens to be strong in the ways of magic can sense that ruby? Elilmaldur-"
 "Rithrandil felt it, and so did Lich-Lord Caror, now these two."
-msgstr "할드릭(Haldric), 나쁜 예감이 강하게 들어요. 뭔가 마법 쪽으로 강한 자들이 그 루비를 느낄 수 있다는 걸 눈치챘나요? 엘릴말두르-리트란딜이 느꼈고, 리치(Lich) 군주 카로르(Caror)도 그랬고, 이번엔 이 두 녀석이죠."
+msgstr "할드릭(Haldric), 나쁜 예감이 강하게 들어요. 뭔가 마법 쪽으로 강한 자들이 그 루비를 느낄 수 있다는 걸 눈치챘나요? 엘릴말두르-리트란딜이 느꼈고, 리치 군주 카로르(Caror)도 그랬고, 이번엔 이 두 녀석이죠."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/10_Sewer_of_Southbay.cfg:196
@@ -2909,7 +2909,7 @@ msgid ""
 "We retrieved the Lich-Lord’s book, and I can literally feel the power of the "
 "ruby, even with it in my pack. Let’s work out what it does, before we decide "
 "what to do with it."
-msgstr "그 리치(Lich) 군주의 책을 가져온 이후로, 난 말 그대로 그 루비의 힘을 느낄 수 있소. 그게 가방 안에 있는데도. 이걸 어떻게 할지 결정하기 전에 이게 뭘 하는건지부터 알아냅시다."
+msgstr "그 리치 군주의 책을 가져온 이후로, 난 말 그대로 그 루비의 힘을 느낄 수 있소. 그게 가방 안에 있는데도. 이걸 어떻게 할지 결정하기 전에 이게 뭘 하는건지부터 알아냅시다."
 
 #. [message]: speaker=Daellyn the Red
 #. [message]: speaker=Tinry the Red
@@ -2992,7 +2992,7 @@ msgstr "저는 그것들을 모두 가져왔습니다. 그리고 모두가 남�
 msgid ""
 "I knew you as a boy, and your people have preceded you. Your father was an "
 "honorable man, and so are you. Aren’t you the king now?"
-msgstr "난 그대를 어릴적부터 알고 있네, 그리고 자네보다 앞서 간 이들도. 그대의 아버지는 명예로운 사람이었고, 자네도 그러하지. 이젠 그대가 국왕이 아닌가?"
+msgstr "난 그대를 어릴 적부터 알고 있네, 그리고 자네보다 앞서 간 이들도. 그대의 아버지는 명예로운 사람이었고, 자네도 그러하지. 이젠 그대가 국왕이 아닌가?"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/11_Southbay_in_Winter.cfg:111
@@ -3067,7 +3067,7 @@ msgstr "으음... 좋다. 맹세하지. 말해보라."
 msgid ""
 "First, I <i>can</i> translate the book that will allow Haldric to use the "
 "Ruby of Fire. The artifact should help with what must come."
-msgstr "첫째로, 나는 할드릭(Haldric)이 불의 루비를 쓸 수 있게 해줄 책을 <i>번역할 수</i> 있어요. 그 마도구는 앞으로 있을 일들에 큰 도움이 될거에요."
+msgstr "첫째로, 나는 할드릭(Haldric)이 불의 루비를 쓸 수 있게 해줄 책을 <i>번역할 수</i> 있어요. 그 마도구는 앞으로 있을 일들에 큰 도움이 될 거에요."
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/11_Southbay_in_Winter.cfg:156
@@ -3233,7 +3233,7 @@ msgstr "티폰(Typhon) 군주의 죽음"
 msgid ""
 "Several months pass. Jessene has translated Lich-Lord Caror’s Book of Fire "
 "and Darkness. Prince Haldric is busy probing the secrets of the Ruby of Fire."
-msgstr "몇 달이 지났다. 제세네(Jessene)는 리치(Lich) 군주 카로르(Caror)의 화염과 어둠의 책을 번역해냈다. 할드릭(Haldric) 왕자는 불의 루비의 비밀을 밝혀내기에 바빴다."
+msgstr "몇 달이 지났다. 제세네(Jessene)는 리치 군주 카로르(Caror)의 화염과 어둠의 책을 번역해냈다. 할드릭(Haldric) 왕자는 불의 루비의 비밀을 밝혀내기에 바빴다."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:419
@@ -3245,7 +3245,7 @@ msgstr "뭔가 알아낸거 같아. 봐."
 msgid ""
 "Ouch! Hot, hot, hot! Gee, somebody should really attach this thing to a "
 "scepter or something! I think I’ll save it for closer-ranged combat for now."
-msgstr "아욱! 뜨거, 뜨거, 뜨거! 끄응, 누가 이걸 홀이나 뭔가에다가 달아야 될거 같아! 일단은 근접전을 위해서 이건 아껴둬야겠어."
+msgstr "아욱! 뜨거, 뜨거, 뜨거! 끄응, 누가 이걸 홀이나 뭔가에다가 달아야 될 거 같아! 일단은 근접전을 위해서 이건 아껴둬야겠어."
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:448
@@ -3388,7 +3388,7 @@ msgstr "애드로란 국왕, 너희의 시대는 끝났다. 땅의 먼지가 될
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:603
 msgid ""
 "You monster! You’ve betrayed our people — to ally yourself with these orcs?!"
-msgstr "이 괴물아! 우리 백성들을 배반하다니 — 어떻게 이 오크족과 함께할 수가 있는거냐?!"
+msgstr "이 괴물아! 우리 백성들을 배반하다니 — 어떻게 이 오크족과 함께할 수가 있는 거냐?!"
 
 #. [event]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:606
@@ -3653,7 +3653,7 @@ msgstr "이 섬은 천천히 가라앉고 있군. 흐음, 여기가 너무 작�
 msgid ""
 "They seem rather intelligent. They’re certainly belligerent and numerous. "
 "I’m sure they’ll eventually evacuate. Just like us right now."
-msgstr "저들은 꽤 영리한 종족이에요. 특히 호전적이고 숫자도 많죠. 아마 저들은 결국엔 대피할거에요. 바로 지금 우리들같이."
+msgstr "저들은 꽤 영리한 종족이에요. 특히 호전적이고 숫자도 많죠. 아마 저들은 결국엔 대피할 거에요. 바로 지금 우리들같이."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/13_Peoples_in_Decline.cfg:282
@@ -3858,7 +3858,7 @@ msgstr "(하나의 유닛이라도 죽으면 시나리오는 끝납니다)"
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:220
 #| msgid "Avoid engagement for as long as possible"
 msgid "Avoid deaths for as long as possible"
-msgstr "가능한 한 오랫동안 죽은자가 나오지 않도록 피하십시오"
+msgstr "가능한 한 오랫동안 죽은 자가 나오지 않도록 피하십시오"
 
 #. [note]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:240
@@ -3889,7 +3889,7 @@ msgstr "아아, 큰 대륙의 해안은 바다에서 보았던 것처럼 그렇�
 msgid ""
 "Go home, you vile dwarves! By treaty you are pledged to only the hills and "
 "mountains to the north of the Great River. This is not your land."
-msgstr "돌아가라, 이 추악한 난쟁이족아! 조약에 따르면 너희는 언덕과 산맥 그리고 한강 북쪽만을 약속받았어. 여긴 너희 땅이 아니야."
+msgstr "돌아가라, 이 추악한 난쟁이족아! 조약에 따르면 너희는 언덕과 산맥 그리고 위대한 강 북쪽만을 약속받았어. 여긴 너희 땅이 아니야."
 
 #. [message]: speaker=Dursil
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:271
@@ -3899,7 +3899,7 @@ msgid ""
 "do you claim all of the forests of the world, and all of the land south of "
 "the Great River, and force us onto only the hills and mountains of the "
 "north? There are hills and mountains as good as any here in the south!"
-msgstr "우리 땅은 가득 차버렸고, 우리 광산은 전 세계의 밑에 퍼져있다. 우리는 어둠 속에 사는 것들과의 전쟁에서 승리했어. 무슨 권리로 너희가 전 세계의 숲과, 한강 남쪽의 땅이 너희 것이라고 주장하면서 우릴 북쪽에 있는 언덕과 산맥에만 몰아넣는거지? 여기 남쪽에도 괜찮은 언덕과 산맥이 있잖아!"
+msgstr "우리 땅은 가득 차버렸고, 우리 광산은 전 세계의 밑에 퍼져있다. 우리는 어둠 속에 사는 것들과의 전쟁에서 승리했어. 무슨 권리로 너희가 전 세계의 숲과, 위대한 강 남쪽의 땅이 너희 것이라고 주장하면서 우릴 북쪽에 있는 언덕과 산맥에만 몰아넣는거지? 여기 남쪽에도 괜찮은 언덕과 산맥이 있잖아!"
 
 #. [message]: speaker=Glimir
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:275
@@ -3950,7 +3950,7 @@ msgid ""
 "Gee, and you were practicing that speech for days. I guess that’s it for "
 "diplomacy then. Haldric, we should avoid bloodshed even if we have to ward "
 "them off. There has to be a peaceful resolution to this."
-msgstr "이런, 그리고 당신은 그 연설을 며칠 동안 연습하고 있었군요. 어쨌든 지금은 협상하는 것이 좋을 것 같네요. 할드릭(Haldric), 우리가 그들을 막아야 한다고 해도 싸움은 피하는 편이 좋겠어요. 아마도 좀더 평화적인 해결책이 있을거에요."
+msgstr "이런, 그리고 당신은 그 연설을 며칠 동안 연습하고 있었군요. 어쨌든 지금은 협상하는 것이 좋을 것 같네요. 할드릭(Haldric), 우리가 그들을 막아야 한다고 해도 싸움은 피하는 편이 좋겠어요. 아마도 좀 더 평화적인 해결책이 있을거에요."
 
 #. [message]: speaker=Burin the Lost
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/15_A_New_Land.cfg:364
@@ -4145,7 +4145,7 @@ msgstr "저 해안의 사우리안족과 나가족을 몰아내겠소!"
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:186
 msgid "Those cold blooded monsters will feel my wrath!"
-msgstr "그 냉혈 괴물들은 내 분노를 맛봐야 할거요!"
+msgstr "그 냉혈 괴물들은 내 분노를 맛봐야 할 거요!"
 
 #. [option]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:204
@@ -4304,7 +4304,7 @@ msgstr "우리는 단지 평화롭게 살고자 할뿐이오. 난쟁이족은 �
 msgid ""
 "I suggest that we grant these humans the plains to the north and south of "
 "the Great River."
-msgstr "제 의견으로는 이들 인간족에게 한강의 북쪽과 남쪽에 있는 평원을 내어줬으면 합니다."
+msgstr "제 의견으로는 이들 인간족에게 위대한 강의 북쪽과 남쪽에 있는 평원을 내어줬으면 합니다."
 
 #. [message]: speaker=Lord Aryad
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:416
@@ -4338,7 +4338,7 @@ msgid ""
 "complete them all you will be granted all of the plains in our domain and "
 "the hills south of the Great River; if not you will be forced to depart. So, "
 "which quest do you wish to undertake first?"
-msgstr "그럼 좋다, 인간이여. 우리 군주들이 각각 특정한 임무를 네게 줄 것이다. 네가 그것들을 전부 해내면 너희는 우리 영토의 모든 평야와 한강 남쪽의 언덕에서 살 수 있다. 그렇지 않으면 떠나야만 할 것이다. 그럼 어떤 임무를 먼저 하겠는가?"
+msgstr "그럼 좋다, 인간이여. 우리 군주들이 각각 특정한 임무를 네게 줄 것이다. 네가 그것들을 전부 해내면 너희는 우리 영토의 모든 평야와 위대한 강 남쪽의 언덕에서 살 수 있다. 그렇지 않으면 떠나야만 할 것이다. 그럼 어떤 임무를 먼저 하겠는가?"
 
 #. [message]: speaker=Lord Logalmier
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:452
@@ -4384,7 +4384,7 @@ msgid ""
 "We hereby grant you the plains to the north of the Great River, and the "
 "plains and hills to the south of the Great River. Be kind to the land. In a "
 "time of need we may call upon you, remember our generosity."
-msgstr "이제 너희에게 한강 북쪽의 평원과, 한강 남쪽의 평원과 언덕을 내어주겠다. 땅을 소중히 다루도록 하라. 우리가 너희를 필요로 할때 다시 부르면, 우리의 관대함을 기억하도록 해라."
+msgstr "이제 너희에게 위대한 강 북쪽의 평원과, 위대한 강 남쪽의 평원과 언덕을 내어주겠다. 땅을 소중히 다루도록 하라. 우리가 너희를 필요로 할 때 다시 부르면, 우리의 관대함을 기억하도록 해라."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/16_The_Kalian.cfg:515
@@ -4955,7 +4955,7 @@ msgid ""
 "honor our pledge. If more trouble follows them here we should let them fight "
 "it out, then we should ‘deal’ with the survivors, and make a compromise with "
 "the dwarves."
-msgstr "우리가 잘못 결정한건지도 모르오. 인간족이 오크족을 몰아낸다면 우리는 약속을 지켜야겠지. 만약 또 다른 재앙이 그들을 쫓아온다면, 우리는 그들이 끝까지 싸우도록 놔둬야 하고, 생존자와 ‘협상’을 한 다음에, 난쟁이족 협상을 해야할 거요."
+msgstr "우리가 잘못 결정한건지도 모르오. 인간족이 오크족을 몰아낸다면 우리는 약속을 지켜야겠지. 만약 또 다른 재앙이 그들을 쫓아온다면, 우리는 그들이 끝까지 싸우도록 놔둬야 하고, 생존자와 ‘협상’을 한 다음에, 난쟁이족 협상을 해야 할 거요."
 
 #. [message]: speaker=Lady Dionli
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/18_A_Spy_in_the_Woods.cfg:132
@@ -4977,7 +4977,7 @@ msgid ""
 "<i>“If more trouble follows them here we should let them fight it out, then "
 "we should ‘deal’ with the survivors, and make a compromise with the "
 "dwarves.”</i>"
-msgstr "당신은 우리 외의 종족에게 했던 약속보다 우리의 필요가 항상 우선함을 알 것이오. 아리아드(Aryad) 군주의 말처럼, <i>“만약 또 다른 재앙이 그들을 쫓아온다면 우리는 그들이 그것을 끝까지 싸우도록 놔둬야 하고, 그 후, 우리는 생존자들과 ‘거래’하고, 난쟁이족에게 양보를 강요해야할거요.”</i>"
+msgstr "당신은 우리 외의 종족에게 했던 약속보다 우리의 필요가 항상 우선함을 알 것이오. 아리아드(Aryad) 군주의 말처럼, <i>“만약 또 다른 재앙이 그들을 쫓아온다면 우리는 그들이 그것을 끝까지 싸우도록 놔둬야 하고, 그 후, 우리는 생존자들과 ‘거래’하고, 난쟁이족에게 양보를 강요해야 할 거요.”</i>"
 
 #. [message]: speaker=Lady Dionli
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/18_A_Spy_in_the_Woods.cfg:145
@@ -5032,7 +5032,7 @@ msgstr "내가 그 말을 했어야 되는데."
 msgid ""
 "Haldric, it’s bad. The elves are having second thoughts. They think we might "
 "be more trouble than we’re worth. We have to defeat these orcs decisively."
-msgstr "할드릭(Haldric), 상황이 안좋아요. 요정들은 다른 생각을 품고 있어요. 저들은 우리가 가진 가치보다 우리가 가져온 문제가 더 크다고 보고 있어요. 우린 오크들을 확실하게 무찔러야 해요."
+msgstr "할드릭(Haldric), 상황이 안 좋아요. 요정들은 다른 생각을 품고 있어요. 저들은 우리가 가진 가치보다 우리가 가져온 문제가 더 크다고 보고 있어요. 우린 오크들을 확실하게 무찔러야 해요."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/19_The_Vanguard.cfg:229
@@ -5077,7 +5077,7 @@ msgstr "일단 해요."
 msgid ""
 "Commander Aethyr, did these orcs come on our ships? Did they capture the "
 "fleet we sent out?"
-msgstr "애띠르(Aethyr) 사령관, 오크족이 우리 배를 타고 온것이오? 놈들이 우리가 보낸 함대를 장악한것이오?"
+msgstr "애띠르(Aethyr) 사령관, 오크족이 우리 배를 타고 온 것이오? 놈들이 우리가 보낸 함대를 장악한 것이오?"
 
 #. [message]: speaker=Commander Aethyr
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/19_The_Vanguard.cfg:257
@@ -5097,7 +5097,7 @@ msgstr "우리는 피난민들이오. 반드시 저들의 선봉대를 무찌르
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/19_The_Vanguard.cfg:288
 msgid "Lady Jessene soon departs. In the distance a voice booms:"
-msgstr "제세네(Jessene)는 곧 떠났다. 먼 곳에서 소리가 울려퍼졌다:"
+msgstr "제세네(Jessene)는 곧 떠났다. 먼 곳에서 소리가 울려 퍼졌다:"
 
 #. [message]: speaker=Tan-Gagar
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/19_The_Vanguard.cfg:294
@@ -5303,7 +5303,7 @@ msgid ""
 "I am hardly concerned with the doing of mortal worms — they are no more than "
 "petty pawns, orcs and humans both. The only difference is that orcs will not "
 "complain as long as they are well fed."
-msgstr "머지 않아 죽을 벌레들의 행동에 일일히 신경쓰지 않는다. 놈들은 하찮은 졸개, 오크족, 인간족에 지나지 않는다. 유일한 차이점은 오크족은 먹이만 충분히 주면, 불평하지 않는다는 것이지."
+msgstr "머지 않아 죽을 벌레들의 행동에 일일히 신경 쓰지 않는다. 놈들은 하찮은 졸개, 오크족, 인간족에 지나지 않는다. 유일한 차이점은 오크족은 먹이만 충분히 주면, 불평하지 않는다는 것이지."
 
 #. [message]: speaker=Tan-Halg
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/20_Return_of_the_Fleet.cfg:286
@@ -5384,7 +5384,7 @@ msgid ""
 "That will be easier said than done. Even if we defeat him, the other Lich-"
 "Lords will follow. It’s because of that ruby. If I were paranoid I’d say "
 "that our dear old ‘tree-friend’ might have known as much."
-msgstr "말은 쉽군요. 설사 그를 무찌른다 해도, 다른 리치(Lich) 군주가 올거에요. 그 루비 때문에요. 내가 편집증적인 거라면 우리 옛 ‘나무 친구’ 도 그걸 알고 있었다고 말하겠어요."
+msgstr "말은 쉽군요. 설사 그를 무찌른다 해도, 다른 리치 군주가 올거에요. 그 루비 때문에요. 내가 편집증적인 거라면 우리 옛 ‘나무 친구’ 도 그걸 알고 있었다고 말하겠어요."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/20_Return_of_the_Fleet.cfg:440
@@ -5454,7 +5454,7 @@ msgstr "우리가 이 새로운 땅에서 안전을 보장받는 대신 엘프�
 msgid ""
 "Haldric, that’s devious. I kind of like this plan. But you spoke a pact with "
 "the elves. You’ll be expected to come to their aid."
-msgstr "할드릭(Haldric), 그건 기만이군요. 이런 계획도 괜찮네요. 하지만 당신은 엘프와 조약을 맺었어요. 당신은 그들을 도와주러 가야 할거에요."
+msgstr "할드릭(Haldric), 그건 기만이군요. 이런 계획도 괜찮네요. 하지만 당신은 엘프와 조약을 맺었어요. 당신은 그들을 도와주러 가야 할 거에요."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/21_The_Plan.cfg:124
@@ -5478,7 +5478,7 @@ msgstr "돕지 않는다면 많은 이들이 당신을 겁쟁이라고 부를거
 msgid ""
 "Recent events have taught me one thing: that survival trumps honor. Besides, "
 "they won’t be screaming at me — I’ll be dead."
-msgstr "많은 일들을 겪고 깨달았소. 생존하는 것이 명예보다 우선하다는것을. 게다가 저들을 날 비난하지 못할거요 — 난 죽었을 테니까."
+msgstr "많은 일들을 겪고 깨달았소. 생존하는 것이 명예보다 우선하다는것을. 게다가 저들을 날 비난하지 못할 거요 — 난 죽었을 테니까."
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/21_The_Plan.cfg:137
@@ -5492,7 +5492,7 @@ msgid ""
 "or send Jevyan a letter. Well, we are going to say it — but that’s not the "
 "point. Jessene, you’re going to forge a very official looking treaty, in "
 "which we give the elves the Ruby of Fire, in return for our place here."
-msgstr "난 죽을거요. 내 말은 우린 불의 루비를 줘버렸다고 제비안(Jevyan)에게 얘기하거나 편지를 부칠 순 없지 않소. 뭐, 말은 해야 겠지만 — 그게 중요한 건 아니오. 제세네(Jessene), 당신은 매우 공식적으로 보이는 조약서를 만들어주시오. 우리가 살 곳을 보장받는 대가로 불의 루비를 엘프족에게 건네준다는 내용으로 말이오."
+msgstr "난 죽을거요. 내 말은 우린 불의 루비를 줘버렸다고 제비안(Jevyan)에게 얘기하거나 편지를 부칠 순 없지 않소. 뭐, 말은 해야겠지만 — 그게 중요한 건 아니오. 제세네(Jessene), 당신은 매우 공식적으로 보이는 조약서를 만들어주시오. 우리가 살 곳을 보장받는 대가로 불의 루비를 엘프족에게 건네준다는 내용으로 말이오."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/21_The_Plan.cfg:145
@@ -5690,7 +5690,7 @@ msgstr "여기서 모두 끝이다, 제비안(Jevyan). 설사 내가 네 말을 
 msgid ""
 "Bah! Even if you have learned to conceal the power of the Ruby of Fire you "
 "will deliver it unto me in death!"
-msgstr "하! 네가 불의 루비의 힘을 숨기는 법을 터득했더라도 넌 죽어서 내게 그걸 바쳐야 할거다!"
+msgstr "하! 네가 불의 루비의 힘을 숨기는 법을 터득했더라도 넌 죽어서 내게 그걸 바쳐야 할 거다!"
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:306
@@ -5722,7 +5722,7 @@ msgid ""
 "Casting fire is the least of the Ruby’s abilities. You are twice a fool, for "
 "having failed to plumb more than its most trivial use and for having given "
 "it away."
-msgstr "불을 뿜는건 그 루비의 능력의 극히 일부일 뿐이야. 너는 그 가장 사소한 사용법 이상의 것을 터득하지도 못했고 그걸 남에게 줘버렸으니 두배로 멍청한거다."
+msgstr "불을 뿜는건 그 루비의 능력의 극히 일부일 뿐이야. 너는 그 가장 사소한 사용법 이상의 것을 터득하지도 못했고 그걸 남에게 줘버렸으니 두 배로 멍청한거다."
 
 #. [message]: speaker=Burin the Lost
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:323
@@ -5757,7 +5757,7 @@ msgstr "남만국(Southbay)의 명예를 위해!"
 msgid ""
 "We don’t need some magic trinket to beat you! Prepare to meet your fate, you "
 "decrepit sack of bones! For the honor of all of the people of the west-north!"
-msgstr "네놈을 무찌르는데 그런 마법 장신구는 필요없다! 네 운명을 맞이해라, 이 노쇠한 뼛더미야! 서북의 모든 민족의 영광을 위해!"
+msgstr "네놈을 무찌르는데 그런 마법 장신구는 필요 없다! 네 운명을 맞이해라, 이 노쇠한 뼛더미야! 서북의 모든 민족의 영광을 위해!"
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:348
@@ -5802,7 +5802,7 @@ msgstr "내 분노를 맛봐라, 제비안(Jevyan), 내가 간다! 내 주머니
 #. [message]: speaker=Lich-Lord Jevyan
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:424
 msgid "All life is finite; you will be made to serve along with the rest."
-msgstr "모든 삶은 유한하다. 너도 나머지 놈들과 함께 내게 봉사하게 될거다."
+msgstr "모든 삶은 유한하다. 너도 나머지 놈들과 함께 내게 봉사하게 될 거다."
 
 #. [message]: speaker=Burin the Lost
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:435
@@ -5967,7 +5967,7 @@ msgstr "악. 괴물 한놈이 다리를 부수고 있어."
 #. [unit]: id=Inky, type=Cuttle Fish
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:1100
 msgid "Inky"
-msgstr "먹물(Inky)"
+msgstr "잉키(Inky)"
 
 #. [message]
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/22_The_Rise_of_Wesnoth.cfg:1117
@@ -6139,7 +6139,7 @@ msgstr "뭐에요? 왜 날 의심하는 거죠?"
 msgid ""
 "The orcs that didn’t escape in the ships have regrouped. They are preparing "
 "to march on the elves. We should come to the aid of our new friends."
-msgstr "배를 타고 도망가지 않은 오크족이 재결집했소. 그들은 엘프족에게 진군할 준비를 하고 있지. 우린 새 친구들을 도우러 가야 할거요."
+msgstr "배를 타고 도망가지 않은 오크족이 재결집했소. 그들은 엘프족에게 진군할 준비를 하고 있지. 우린 새 친구들을 도우러 가야 할 거요."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/23_Epilogue.cfg:217
@@ -6160,7 +6160,7 @@ msgstr "이후에는 엘프족이 우리에게 준 모든 지역에 마을을 �
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/23_Epilogue.cfg:239
 msgid "So what of the rest of you?"
-msgstr "그럼 당신들은 이제 어떻게 할거요?"
+msgstr "그럼 당신들은 이제 어떻게 할 거요?"
 
 #. [message]: speaker=Burin the Lost
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/23_Epilogue.cfg:244
@@ -6176,7 +6176,7 @@ msgid ""
 "I know the way to many places, I think. I want to find out if there are "
 "dwarves in other lands. It’s a big world with lots of good mountains. Of "
 "that much I am sure."
-msgstr "내 생각이지만 난 여러 장소로 가는 길을 알아. 또다른 땅에도 난쟁이족이 사는지 한번 알아보고 싶군. 이 세상은 좋은 산들이 많은 거대한 세계니까. 난 그렇게 확신해."
+msgstr "내 생각이지만 난 여러 장소로 가는 길을 알아. 또 다른 땅에도 난쟁이족이 사는지 한번 알아보고 싶군. 이 세상은 좋은 산들이 많은 거대한 세계니까. 난 그렇게 확신해."
 
 #. [message]: speaker=Minister Edren
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/23_Epilogue.cfg:252
@@ -6188,7 +6188,7 @@ msgid ""
 "We have lost much in the last few months, but we should not lose all of our "
 "knowledge. I will go forth amongst the people and spread wisdom, and see "
 "about establishing a new order of magi in this new land."
-msgstr "우리는 지난 몇달동안 많은 사람들을 잃었지만, 우리의 지식은 잃어서는 안 됩니다. 나는 민족 사이에서 지혜를 퍼뜨리고, 이 새로운 땅에 새로운 마법사의 질서가 세워지는 걸 보고자 합니다."
+msgstr "우리는 지난 몇 달동안 많은 사람들을 잃었지만, 우리의 지식은 잃어서는 안 됩니다. 나는 민족 사이에서 지혜를 퍼뜨리고, 이 새로운 땅에 새로운 마법사의 질서가 세워지는 걸 보고자 합니다."
 
 #. [message]: speaker=Sir Ruddry
 #. [message]: speaker=Sir Ladoc
@@ -6274,7 +6274,7 @@ msgid ""
 "Probably not. And, if nothing else, the hero-king of Wesnoth, Haldric "
 "Dragonbane, will need someone to remind him that he does not eat lightning "
 "and belch thunder. I... accept."
-msgstr "아마도 그렇겠죠. 그리고, 적당한 사람이 없다면, 웨스노스(Wesnoth)의 영웅 국왕, 용잡이 할드릭(Haldric)은 그가 번개를 먹거나 트림할때 천둥소리를 내는 사람이 아니란걸 상기시켜줄 사람이 필요하겠죠. 난... 허락하겠어요."
+msgstr "아마도 그렇겠죠. 그리고, 적당한 사람이 없다면, 웨스노스(Wesnoth)의 영웅 국왕, 용잡이 할드릭(Haldric)은 그가 번개를 먹거나 트림할 때 천둥소리를 내는 사람이 아니란걸 상기시켜줄 사람이 필요하겠죠. 난... 허락하겠어요."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/23_Epilogue.cfg:312
@@ -6464,7 +6464,7 @@ msgstr "서부인(Wesfolk) 귀족 가문에서 태어난 그녀와 그녀의 백
 #. [unit_type]: id=Wesfolk Leader, race=human, gender=female
 #: data/campaigns/The_Rise_Of_Wesnoth/units/Wesfolk_Leader.cfg:4
 msgid "female^Wesfolk Leader"
-msgstr "서부인(Wesfolk) 여자 대장"
+msgstr "서부인(Wesfolk) 대장"
 
 #. [unit_type]: id=Wesfolk Leader, race=human, gender=female
 #: data/campaigns/The_Rise_Of_Wesnoth/units/Wesfolk_Leader.cfg:22
@@ -6486,7 +6486,7 @@ msgstr "서부인(Wesfolk) 귀족 가문에서 태어난 그녀와 그녀의 백
 #. [unit_type]: id=Wesfolk Outcast, race=human, gender=female
 #: data/campaigns/The_Rise_Of_Wesnoth/units/Wesfolk_Outcast.cfg:4
 msgid "female^Wesfolk Outcast"
-msgstr "서부인(Wesfolk) 여자 이단아"
+msgstr "서부인(Wesfolk) 이단아"
 
 #. [unit_type]: id=Wesfolk Outcast, race=human, gender=female
 #: data/campaigns/The_Rise_Of_Wesnoth/units/Wesfolk_Outcast.cfg:21
@@ -6503,7 +6503,7 @@ msgid ""
 "Haldric’s people was being lost. This outcast still conserves her nobleness "
 "in her veins, and on the battlefield she has earned valuable experience, "
 "which she can lend to her people for turning a fight in their favor."
-msgstr "서부인(Wesfolk) 귀족 가문에서 태어난 그녀와 그녀의 백성들은 할드릭(Haldric) 백성과의 전쟁이 나쁘게 돌아가자 그들을 배신한 군주들로부터 배제되었다. 이 추방자는 아직 그녀의 고귀한 혈통을 간직하고 있으며 전장에서 귀중한 경험을 쌓아왔다. 그녀는 이 경험을 부하들에게 빌려주어 좀더 유리하게 전투를 이끌어 갔다."
+msgstr "서부인(Wesfolk) 귀족 가문에서 태어난 그녀와 그녀의 백성들은 할드릭(Haldric) 백성과의 전쟁이 나쁘게 돌아가자 그들을 배신한 군주들로부터 배제되었다. 이 추방자는 아직 그녀의 고귀한 혈통을 간직하고 있으며 전장에서 귀중한 경험을 쌓아왔다. 그녀는 이 경험을 부하들에게 빌려주어 좀 더 유리하게 전투를 이끌어 갔다."
 
 #. [skirmisher]: id=distract
 #: data/campaigns/The_Rise_Of_Wesnoth/utils/trow-abilities.cfg:6
@@ -6648,7 +6648,7 @@ msgstr "할드릭(Haldric), 전령이 방금 함대가 옛 고향에서 돌아�
 msgid ""
 "That is excellent news indeed. Our numbers have doubled. Now on to the "
 "business at hand."
-msgstr "그건 정말로 좋은 소식이오. 우리의 숫자가 두배가 됐어. 이제 지금 할 일을 합시다."
+msgstr "그건 정말로 좋은 소식이오. 우리의 숫자가 두 배가 됐어. 이제 지금 할 일을 합시다."
 
 #~ msgid "Southbay Guard"
 #~ msgstr "남안국 수비대"
