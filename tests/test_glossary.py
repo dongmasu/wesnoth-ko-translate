@@ -8,7 +8,7 @@ from tools.audit_glossary import parenthetical_is_source_component
 from tools.merge_reference_translations import parse_field_values
 from tools.normalize_contextual_translations import normalize_translation
 from tools.normalize_korean_spacing import normalize_block
-from tools.project_config import GLOSSARY, WORK_KO
+from tools.project_config import GLOSSARY, VERSION, WORK_KO
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -286,6 +286,31 @@ class GlossaryTests(unittest.TestCase):
             by_source["Return to Kerlath"],
             "케를라스(Kerlath)로 귀환",
         )
+
+    def test_embedded_name_candidate_audit_finds_unregistered_names(self):
+        from tools.audit_and_pair_embedded_names import find_candidates
+
+        path = ROOT / "tests" / ".tmp-name-candidate.po"
+        path.write_text(
+            'msgid "The village of Xandor is under attack."\n'
+            'msgstr "Xandor 마을이 공격받고 있습니다."\n',
+            encoding="utf-8",
+        )
+        try:
+            candidates = find_candidates(path)
+            self.assertEqual([candidate.source for candidate in candidates], ["Xandor"])
+        finally:
+            path.unlink()
+
+    def test_embedded_name_candidate_audit_accepts_fixed_maghre(self):
+        from tools.audit_and_pair_embedded_names import find_candidates, load_pairs
+
+        pairs, conflicts = load_pairs(GLOSSARY)
+        self.assertFalse(conflicts)
+        candidates = find_candidates(
+            ROOT / "work" / VERSION / "ko" / "wesnoth-tb-ko.po"
+        )
+        self.assertNotIn("Maghre", {candidate.source for candidate in candidates})
 
     def test_compound_name_components_are_available_for_prose(self):
         from tools.audit_and_pair_embedded_names import load_pairs

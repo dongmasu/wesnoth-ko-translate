@@ -672,7 +672,7 @@ msgstr "델자쓰(Delzath)"
 #. [side]: type=Death Knight, id=Mal Tath
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:221
 msgid "Mal Tath"
-msgstr "말(Mal) 타쓰"
+msgstr "말(Mal) 타쓰(Tath)"
 
 #. [objective]: condition=win
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:242
@@ -1901,7 +1901,7 @@ msgstr "모르빈!"
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:560
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:675
 msgid "Thera!"
-msgstr "테라!"
+msgstr "테라(Thera)!"
 
 #. [message]: speaker=Tallin
 #. [message]: speaker=unit
@@ -1931,7 +1931,7 @@ msgid ""
 "dwarvish nobles. We could not shield them from the wrath of Khazg Black-"
 "Tusk, but we survived the orcs and trolls — only to be captured by these "
 "skeletons."
-msgstr "내 이름은 모르빈이라고 하오. 내 아내 테라 나는 난쟁이족의 귀족들의 치료자이며 조언자였소. 우리는 검은 엄니 카즈그의 분노에서 그들을 보호 할 수 없었습니다, 그러나 우리는 오크족과 트롤족이—이 뼈대에 의해 붙잡혀서만 살아남았습니다."
+msgstr "내 이름은 모르빈이라고 하오. 내 아내 테라(Thera) 나는 난쟁이족의 귀족들의 치료자이며 조언자였소. 우리는 검은 엄니 카즈그의 분노에서 그들을 보호 할 수 없었습니다, 그러나 우리는 오크족과 트롤족이—이 뼈대에 의해 붙잡혀서만 살아남았습니다."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:601
@@ -1999,7 +1999,7 @@ msgid ""
 "dwarvish nobles of Knalga. We could not save them from Khazg Black-Tusk’s "
 "troops, but we survived the orcs and trolls only to be captured when these "
 "skeletons appeared."
-msgstr "제 이름은 테라입니다. 제 남편 모르빈과 저는 크날가(Knalga)의 난쟁이 귀족들의 치료자며 조언자 였어요. 우리는 검은 엄니 카즈그의 군대로부터 구할 수 없었습니다. 그러나 우리는 오크와 트롤에게 붙잡히고 해골이 나타났을때 살아남았습니다."
+msgstr "제 이름은 테라(Thera)입니다. 제 남편 모르빈과 저는 크날가(Knalga)의 난쟁이 귀족들의 치료자며 조언자 였어요. 우리는 검은 엄니 카즈그의 군대로부터 구할 수 없었습니다. 그러나 우리는 오크와 트롤에게 붙잡히고 해골이 나타났을때 살아남았습니다."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:713
@@ -2103,7 +2103,7 @@ msgstr "... 감사해요."
 msgid ""
 "No problem. Sister Thera, you take care of her. If she wants to join us she "
 "would make a powerful ally."
-msgstr "괜찮아요 테라 수녀, 그녀를 돌봐요. 만약에 그녀가 들어오기 원한다면 강력한 우군이 될 테니."
+msgstr "괜찮아요 테라(Thera) 수녀, 그녀를 돌봐요. 만약에 그녀가 들어오기 원한다면 강력한 우군이 될 테니."
 
 #. [message]: speaker=Elenia
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:909
@@ -2116,7 +2116,7 @@ msgstr "예, 저도... 함께하고 싶습니다... 탈린(Tallin) 군주여."
 msgid ""
 "Just Tallin; I am no lord. But gee, that sure is some powerful spell you "
 "used on her, Thera. She’s looking better already."
-msgstr "그냥 탈린(Tallin)일뿐, 나는 군주가 아니오. 하지만 이런, 그건 당신이 그녀에게 사용한 강력한 주문입니다, 테라. 그녀는 이미 더 좋아 보이네요."
+msgstr "그냥 탈린(Tallin)일뿐, 나는 군주가 아니오. 하지만 이런, 그건 당신이 그녀에게 사용한 강력한 주문입니다, 테라(Thera). 그녀는 이미 더 좋아 보이네요."
 
 #. [message]: speaker=Elenia
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:919
@@ -3007,7 +3007,7 @@ msgstr "그럼 어떻게 그를 파괴할 수 있을까? 분명히 방법이 있
 msgid ""
 "Yes, I think there is, but only myself or Thera have the means to do it. "
 "Come on Thera, let’s destroy that old skeleton."
-msgstr "그렇습니다, 그러나 내생각에 나 또는 Thera만이 것을 할 수 있는 수단을 가지고 있습니다. 이리와요 Thera, 그 오래된 해골을 파괴합시다."
+msgstr "그렇습니다, 그러나 내생각에 나 또는 테라(Thera)만이 것을 할 수 있는 수단을 가지고 있습니다. 이리와요 테라(Thera), 그 오래된 해골을 파괴합시다."
 
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2791
@@ -6181,7 +6181,7 @@ msgid ""
 "Her face streaked with tears, Eryssa gazed imploringly at Father Morvin and "
 "Sister Thera. They sighed and shook their heads. In a broken voice Eryssa "
 "addressed him:"
-msgstr "얼굴이 눈물로 범벅이 된 에릿사(Eryssa)는 모빈 신부와 테라 수녀를 간절히 바라보았다. 그들은 한숨을 쉬며 고개를 저었다. 에릿사(Eryssa)는 부서진 목소리로 그에게 말했다:"
+msgstr "얼굴이 눈물로 범벅이 된 에릿사(Eryssa)는 모빈 신부와 테라(Thera) 수녀를 간절히 바라보았다. 그들은 한숨을 쉬며 고개를 저었다. 에릿사(Eryssa)는 부서진 목소리로 그에게 말했다:"
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/12a_Get_the_Gold.cfg:55
@@ -7129,7 +7129,7 @@ msgstr "그래. 죽은 자는 죽은 자의 땅에 머물러야 해. 그렇지 �
 msgid ""
 "I believe Thera and I can help you with that, Abhai. Have no worries, you "
 "shall soon be home."
-msgstr "테라와 나라면 그 건에 대해 도움을 줄 수 있다고 생각해요, 아브하이(Abhai). 걱정하지마세요, 당신은 곧 고향으로 돌아 갈 수 있을 거에요."
+msgstr "테라(Thera)와 나라면 그 건에 대해 도움을 줄 수 있다고 생각해요, 아브하이(Abhai). 걱정하지마세요, 당신은 곧 고향으로 돌아 갈 수 있을 거에요."
 
 #. [message]: id=Abhai
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:339
@@ -7217,7 +7217,7 @@ msgid ""
 "The joy of the multitude could not be contained, and the ensuing celebration "
 "lasted for a full five days. At that time Tallin and Eryssa were duly "
 "married by Father Morvin and Sister Thera."
-msgstr "수 많은 사람들의 기쁨이 주체할 수 없을 만큼 흘러넘쳤고, 축하 기념일은 5일동안 지속되었다. 그 날 탈린(Tallin)과 에릿사(Eryssa)는 모빈 신부와 테라 자매에 의해 결혼하게 되었다."
+msgstr "수 많은 사람들의 기쁨이 주체할 수 없을 만큼 흘러넘쳤고, 축하 기념일은 5일동안 지속되었다. 그 날 탈린(Tallin)과 에릿사(Eryssa)는 모빈 신부와 테라(Thera) 자매에 의해 결혼하게 되었다."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/14a_Epilogue.cfg:406
@@ -7438,7 +7438,7 @@ msgstr "아아! 저는 오래 살수 없을거에요! 모르빈, 당신 품에�
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:291
 msgid "(<i>Rolls eyes</i>) Thera, do you always have to be so dramatic?"
-msgstr "(<i>눈을 굴린다</i>) 테라, 항상 그렇게 극적으로 굴어야 하나요?"
+msgstr "(<i>눈을 굴린다</i>) 테라(Thera), 항상 그렇게 극적으로 굴어야 하나요?"
 
 #. [message]: role=Supporter
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:296
@@ -7462,13 +7462,13 @@ msgstr "이 잔인한 놈! 감히 어떻게 나같은 연약한 사람에게 그
 msgid ""
 "Don’t worry, Thera, you will have plenty of opportunities to set him "
 "straight."
-msgstr "걱정 마, 테라, 너는 그를 다시 서게 만들 많은 기회를 잡을 수 있을 거야."
+msgstr "걱정 마, 테라(Thera), 너는 그를 다시 서게 만들 많은 기회를 잡을 수 있을 거야."
 
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:333
 msgid ""
 "Thera, when this is all over, you should paint your face and join a theater."
-msgstr "테라, 모든게 끝나면 얼굴에 그림을 그리고 극장에 들어가."
+msgstr "테라(Thera), 모든게 끝나면 얼굴에 그림을 그리고 극장에 들어가."
 
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:338
@@ -7532,7 +7532,7 @@ msgstr "그냥 다시 자신을 죽이지 않으려고."
 msgid ""
 "Thera, you should know by now that it is very unclerical to make such a "
 "spectacle of yourself."
-msgstr "테라, 이제 그런 비웃음거리는 성직자에게 맞지 않다는것을 알아야해요."
+msgstr "테라(Thera), 이제 그런 비웃음거리는 성직자에게 맞지 않다는것을 알아야해요."
 
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:422
@@ -7554,7 +7554,7 @@ msgstr "그건 조낸 맞는 말이야!"
 msgid ""
 "Thera! Language like that coming from you! You should really stop hanging "
 "around the dwarves so much."
-msgstr "테라! 당신 입에서 그런 말을 하다니! 난쟁이들 그렇게 괴롭히는 것을 그만 두세요."
+msgstr "테라(Thera)! 당신 입에서 그런 말을 하다니! 난쟁이들 그렇게 괴롭히는 것을 그만 두세요."
 
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:482
@@ -7632,7 +7632,7 @@ msgstr "미안해요, 다시는 안그럴께요. 약속할께요!"
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:616
 msgid "I heard that, Thera."
-msgstr "나는 그것을 들었소, 테라."
+msgstr "나는 그것을 들었소, 테라(Thera)."
 
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:621
@@ -7647,7 +7647,7 @@ msgstr "지금 어디 간거지.!"
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:651
 msgid "Ahhh, Thera, you would make such a good housewife!"
-msgstr "아아아, 테라, 당신은 좋은 주부가 될거에요!"
+msgstr "아아아, 테라(Thera), 당신은 좋은 주부가 될거에요!"
 
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:657
@@ -7658,7 +7658,7 @@ msgstr "네, 당신이 언젠가 집을 사준다면요! (<i>뿌루퉁한 얼굴
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:662
 msgid ""
 "Thera, don’t you think that this isn’t really a good time to talk about that?"
-msgstr "테라, 당신이 그것에 대해 이야기 할 수있는 좋은 시간이라고 생각하나요?"
+msgstr "테라(Thera), 당신이 그것에 대해 이야기 할 수있는 좋은 시간이라고 생각하나요?"
 
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:667

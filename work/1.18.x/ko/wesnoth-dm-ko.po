@@ -939,7 +939,7 @@ msgid ""
 "more than magic for protection on the road... especially where you’ll be "
 "going, into the wild country north of Tath. It is a chancy place at the best "
 "of times, and orcs may already be raiding south of the Ford."
-msgstr "그럼 출발하게! 리오넬(Lionel)과 부하들이 자네를 따라갈게야. 가는 길에는 마법 외에도 보호가 필요하다네... 특히 자네가 가는 곳은 타쓰 북쪽에 있는 야생의 땅이니까. 가장 나은 상황이라도 위험한데다, 오크들이 이미 여울 남쪽을 약탈하고 있다네."
+msgstr "그럼 출발하게! 리오넬(Lionel)과 부하들이 자네를 따라갈게야. 가는 길에는 마법 외에도 보호가 필요하다네... 특히 자네가 가는 곳은 타쓰(Tath) 북쪽에 있는 야생의 땅이니까. 가장 나은 상황이라도 위험한데다, 오크들이 이미 여울 남쪽을 약탈하고 있다네."
 
 #. [scenario]: id=06_Swamps_of_Illuven
 #: data/campaigns/Delfadors_Memoirs/scenarios/06_Swamps_of_Illuven.cfg:4

@@ -2278,7 +2278,7 @@ msgid ""
 "Yes... We studied together many years ago. Ravan’s power was already most "
 "potent back then, but I fear it has become far greater now. None of you "
 "stand a chance; we must escape immediately!"
-msgstr "그래... 우리는 여러 해 전에 함께 공부했지. 그때도 라반의 힘은 이미 아주 강력했지만, 지금은 훨씬 더 강해진 것 같아. 너희 중 누구도 승산이 없어. 당장 도망쳐야 해!"
+msgstr "그래... 우리는 여러 해 전에 함께 공부했지. 그때도 라반(Ravan)의 힘은 이미 아주 강력했지만, 지금은 훨씬 더 강해진 것 같아. 너희 중 누구도 승산이 없어. 당장 도망쳐야 해!"
 
 #. [message]: speaker=Mal-Rikna
 #: data/campaigns/Eastern_Invasion/scenarios/04c_Mal-Ravanals_Capital.cfg:868
@@ -2772,7 +2772,7 @@ msgid ""
 "advisor, sent us both before Galdren. Then he conversed with the seer "
 "privately. None know what was said, but when he came out he announced that "
 "the seer was dead, and he had... chosen... me as his new advisor."
-msgstr "그래서 왕은 이 비할 데 없는 현자를 찾기로 했습니다. 온 나라에 다른 마법사들보다 확연히 뛰어난 마법사는 둘뿐이었습니다. 동쪽 출신의 마법사이자 제 좋은 친구인 라반, 그리고 저였지요. 왕은 가장 훌륭한 고문을 고르기 위해 우리 둘을 갈드렌 앞에 세웠습니다. 그런 다음 예언자와 단둘이 이야기를 나누었지요. 무슨 말을 했는지는 아무도 모르지만, 왕은 밖으로 나와 예언자가 죽었으며 자신이... 저를... 새 고문으로 선택했다고 알렸습니다."
+msgstr "그래서 왕은 이 비할 데 없는 현자를 찾기로 했습니다. 온 나라에 다른 마법사들보다 확연히 뛰어난 마법사는 둘뿐이었습니다. 동쪽 출신의 마법사이자 제 좋은 친구인 라반(Ravan), 그리고 저였지요. 왕은 가장 훌륭한 고문을 고르기 위해 우리 둘을 갈드렌(Galdren) 앞에 세웠습니다. 그런 다음 예언자와 단둘이 이야기를 나누었지요. 무슨 말을 했는지는 아무도 모르지만, 왕은 밖으로 나와 예언자가 죽었으며 자신이... 저를... 새 고문으로 선택했다고 알렸습니다."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1010
@@ -2780,7 +2780,7 @@ msgid ""
 "Ravan took this quietly enough, or so I had thought, but it must have been "
 "more of a blow than I had realized. We drifted apart for a long while, and "
 "several years passed without my seeing my once close friend."
-msgstr "라반은 이를 꽤 담담하게 받아들였다고, 나는 생각했다. 하지만 내가 깨달은 것보다 더 큰 충격이었음이 틀림없다. 우리는 오랫동안 멀어졌고, 한때 가까웠던 친구를 만나지 못한 채 몇 년이 흘렀다."
+msgstr "라반(Ravan)은 이를 꽤 담담하게 받아들였다고, 나는 생각했다. 하지만 내가 깨달은 것보다 더 큰 충격이었음이 틀림없다. 우리는 오랫동안 멀어졌고, 한때 가까웠던 친구를 만나지 못한 채 몇 년이 흘렀다."
 
 #. [message]: speaker=Dacyn
 #. Happened in 593 YW, it's now 626 YW. The Listra is a river.
@@ -2792,7 +2792,7 @@ msgid ""
 "my friend and a respected mage of the Light, so I obliged. It sounds foolish "
 "now, in hindsight, but I made the long journey north in the darkness of "
 "winter to the sanctuary and its hidden chambers."
-msgstr "어느 날, 나는 전갈을 받았다. 라반이 나를 대하를 건너 리스트라를 지나 북쪽으로, 우리가 젊었을 때 함께 탐험했던 고대 성소로 부르고 있었다. 당시 나는 여전히 라반을 친구이자 존경받는 빛의 마법사라고 생각했기에 그의 요청을 따랐다. 돌이켜 보면 어리석게 들리지만, 나는 겨울의 어둠 속에서 성소와 숨겨진 방들까지 먼 길을 북쪽으로 여행했다."
+msgstr "어느 날, 나는 전갈을 받았다. 라반(Ravan)이 나를 대하를 건너 리스트라를 지나 북쪽으로, 우리가 젊었을 때 함께 탐험했던 고대 성소로 부르고 있었다. 당시 나는 여전히 라반(Ravan)을 친구이자 존경받는 빛의 마법사라고 생각했기에 그의 요청을 따랐다. 돌이켜 보면 어리석게 들리지만, 나는 겨울의 어둠 속에서 성소와 숨겨진 방들까지 먼 길을 북쪽으로 여행했다."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1024
@@ -2805,7 +2805,7 @@ msgid ""
 "whose cacophonous sound clawed and tore at my body and soul. At that moment, "
 "I knew I was obliged to do whatever was necessary to excise this evil from "
 "the world."
-msgstr "지금도 그 끔찍한 광경은 내 기억에 선명히 남아 있다. 힐끗 보기만 해도 망토를 두른 형체에 깃든 흑마법의 오염을 느낄 수 있었다. 한때 밝았던 라반의 기운은 짙고 강력하며 공포로 가득한, 꿰뚫을 수 없는 어둠에 뒤덮여 있었다. 내가 마음을 가다듬기도 전에, 쉰 목소리와 무서운 목소리들이 주변에서 살아 움직이기 시작했다. 불쾌한 주문이 쏟아졌고, 그 불협화음은 내 몸과 영혼을 할퀴고 찢었다. 그 순간 나는 이 악을 세상에서 도려내기 위해 필요한 일은 무엇이든 해야 한다는 것을 알았다."
+msgstr "지금도 그 끔찍한 광경은 내 기억에 선명히 남아 있다. 힐끗 보기만 해도 망토를 두른 형체에 깃든 흑마법의 오염을 느낄 수 있었다. 한때 밝았던 라반(Ravan)의 기운은 짙고 강력하며 공포로 가득한, 꿰뚫을 수 없는 어둠에 뒤덮여 있었다. 내가 마음을 가다듬기도 전에, 쉰 목소리와 무서운 목소리들이 주변에서 살아 움직이기 시작했다. 불쾌한 주문이 쏟아졌고, 그 불협화음은 내 몸과 영혼을 할퀴고 찢었다. 그 순간 나는 이 악을 세상에서 도려내기 위해 필요한 일은 무엇이든 해야 한다는 것을 알았다."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1028
@@ -2816,7 +2816,7 @@ msgid ""
 "throughout the sanctum. I knew then that death would be but a mere "
 "inconvenience to one so skilled in the mystic arts, and that Ravan’s spirit "
 "would return one day..."
-msgstr "주문이 끝나기도 전에 나는 온 힘을 끌어모아 라반의 육신을 찢어 버렸다. 하지만 살과 피가 재가 되어 타 버리는 모습을 지켜보는 동안에도, 잿빛 뼈에서 어두운 그림자가 솟아올라 성소 전체로 흩어졌다. 그때 나는 신비술에 그토록 능한 자에게 죽음은 그저 사소한 불편일 뿐이며, 언젠가 라반의 영혼이 돌아오리라는 것을 알았다..."
+msgstr "주문이 끝나기도 전에 나는 온 힘을 끌어모아 라반(Ravan)의 육신을 찢어 버렸다. 하지만 살과 피가 재가 되어 타 버리는 모습을 지켜보는 동안에도, 잿빛 뼈에서 어두운 그림자가 솟아올라 성소 전체로 흩어졌다. 그때 나는 신비술에 그토록 능한 자에게 죽음은 그저 사소한 불편일 뿐이며, 언젠가 라반(Ravan)의 영혼이 돌아오리라는 것을 알았다..."
 
 #. [message]: speaker=Gweddry
 #. "it" means the spirit of Mal-Ravanal; the Sylph prophesied about it sometime between 36 and 42 years ago.
@@ -2833,7 +2833,7 @@ msgid ""
 "come to a conclusion. I do not have the power to defeat Mal-Ravanal as I am "
 "now. We must travel north, away from Wesnoth, back to the sanctuary where I "
 "had defeated Ravan once before."
-msgstr "그렇소. 하지만 아직 희망을 잃지는 않았소. 이 일을 다시 한번 숙고한 끝에 결론을 내렸소. 지금의 나는 말-라바날을 물리칠 힘이 없소. 우리는 웨스노스(Wesnoth)에서 멀어지는 북쪽으로 가서, 내가 한때 라반을 물리쳤던 성소로 돌아가야 하오."
+msgstr "그렇소. 하지만 아직 희망을 잃지는 않았소. 이 일을 다시 한번 숙고한 끝에 결론을 내렸소. 지금의 나는 말-라바날을 물리칠 힘이 없소. 우리는 웨스노스(Wesnoth)에서 멀어지는 북쪽으로 가서, 내가 한때 라반(Ravan)을 물리쳤던 성소로 돌아가야 하오."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/05_Northern_Outpost.cfg:1050
@@ -4283,7 +4283,7 @@ msgstr "모르겠네, 오와에크(Owaec). 이상한 일이지만 다친의 빛�
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:510
 msgid "So were his friend Ravan’s, if Dacyn’s story is to be believed."
-msgstr "다친의 말을 믿는다면 그의 친구 라반의 빛과 지혜도 그랬지."
+msgstr "다친의 말을 믿는다면 그의 친구 라반(Ravan)의 빛과 지혜도 그랬지."
 
 #. [message]: speaker=Grug
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:521
@@ -5191,7 +5191,7 @@ msgid ""
 "balance between light and dark would be crucial to the safety of Irdya in "
 "the future, at least according to Ravan’s theory. In hindsight, that was all "
 "nonsense."
-msgstr "아, 나는 아직도 이곳을 아주 선명하게 기억하오. 생각해 보니 라반은 언제나 어둠의 마법에 큰 관심을 보였지. 라반의 이론에 따르면 미래의 이르디아의 안전에는 빛과 어둠의 균형이 결정적으로 중요하다고 했소. 돌이켜 보면 그건 모두 헛소리였소."
+msgstr "아, 나는 아직도 이곳을 아주 선명하게 기억하오. 생각해 보니 라반(Ravan)은 언제나 어둠의 마법에 큰 관심을 보였지. 라반(Ravan)의 이론에 따르면 미래의 이르디아의 안전에는 빛과 어둠의 균형이 결정적으로 중요하다고 했소. 돌이켜 보면 그건 모두 헛소리였소."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:841
@@ -5210,7 +5210,7 @@ msgstr "그때 이곳은 함정과 언데드로 가득했으니, 야생 짐승�
 msgid ""
 "Ravan sealed this place before our last meeting. I need a moment to remember "
 "the incantation."
-msgstr "라반은 지난번 만남 전에 이곳을 봉인했어. 주문을 떠올릴 시간이 필요하군."
+msgstr "라반(Ravan)은 지난번 만남 전에 이곳을 봉인했어. 주문을 떠올릴 시간이 필요하군."
 
 #. [message]: speaker=Dacyn
 #. the "red star" refers to the Ruby of Fire, and the "red stone" refers to the Amulet of the Veil FYI but these are not to be explicitly mentioned
@@ -5500,7 +5500,10 @@ msgid ""
 "faint as of yet. I suspect that if I can somehow reach them, they will be "
 "able to answer some of the questions I have been pondering. However, there "
 "seems to be a piece of the puzzle still missing.</i>"
-msgstr "<i>라반의 일지 - 웨스노스력 588년 흑화 13일.\n\n이번 탐험은 내가 예상했던 것보다 훨씬 성공적이다. 다친이 이곳 곳곳에 흩어진 함정을 해제하는 동안, 나는 아가리 너머 다른 차원에 관해 광범위한 연구를 할 수 있었다. 우리 세계에서 도달할 수 있는 영혼의 영역이 있으며, 일리아-말랄은 틀림없이 장막의 부적을 사용해 그곳과 접촉했을 것이다. 이따금 저편에서 속삭이는 영혼들의 목소리가 들리지만, 아직은 희미하다. 어떻게든 그들에게 닿을 수 있다면, 내가 고민해 온 몇 가지 질문에 답을 얻을 수 있을 것 같다. 하지만 퍼즐의 한 조각이 아직 빠져 있는 듯하다.</i>"
+msgstr ""
+"<i>라반(Ravan)의 일지 - 웨스노스력 588년 흑화 13일.\n"
+"\n"
+"이번 탐험은 내가 예상했던 것보다 훨씬 성공적이다. 다친이 이곳 곳곳에 흩어진 함정을 해제하는 동안, 나는 아가리 너머 다른 차원에 관해 광범위한 연구를 할 수 있었다. 우리 세계에서 도달할 수 있는 영혼의 영역이 있으며, 일리아-말랄은 틀림없이 장막의 부적을 사용해 그곳과 접촉했을 것이다. 이따금 저편에서 속삭이는 영혼들의 목소리가 들리지만, 아직은 희미하다. 어떻게든 그들에게 닿을 수 있다면, 내가 고민해 온 몇 가지 질문에 답을 얻을 수 있을 것 같다. 하지만 퍼즐의 한 조각이 아직 빠져 있는 듯하다.</i>"
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1740
@@ -5515,7 +5518,10 @@ msgid ""
 "rending the indestructible core of those without form. I hear voices "
 "recounting these muddled dreams, yet their words are disjointed, "
 "incomprehensible. What are they trying to tell me?</i>"
-msgstr "<i>라반의 일지 - 웨스노스력 589년 백화 21일.\n\n오늘 밤 꿈을 꾸었다. 꿈이었을까? 환영에 훨씬 가까워 보였다. 하늘의 쌍둥이 구체에서 타오르는 빛이 끊임없이 살점을 바꾸는 변이체로 가득한 땅 위에 뜨거운 광채를 내뿜는 모습이 보였다. 보석이, 아니 열쇠가 불길을 밝히며 아가리의 광활한 공허를 이어 주는 모습이 보였다. 빛과 합쳐져 변형된 어둠이 형체 없는 존재들의 파괴할 수 없는 핵을 찢는 모습이 보였다. 이 뒤섞인 꿈을 이야기하는 목소리가 들리지만, 그 말은 단편적이고 이해할 수 없다. 그들은 내게 무엇을 말하려는 걸까?</i>"
+msgstr ""
+"<i>라반(Ravan)의 일지 - 웨스노스력 589년 백화 21일.\n"
+"\n"
+"오늘 밤 꿈을 꾸었다. 꿈이었을까? 환영에 훨씬 가까워 보였다. 하늘의 쌍둥이 구체에서 타오르는 빛이 끊임없이 살점을 바꾸는 변이체로 가득한 땅 위에 뜨거운 광채를 내뿜는 모습이 보였다. 보석이, 아니 열쇠가 불길을 밝히며 아가리의 광활한 공허를 이어 주는 모습이 보였다. 빛과 합쳐져 변형된 어둠이 형체 없는 존재들의 파괴할 수 없는 핵을 찢는 모습이 보였다. 이 뒤섞인 꿈을 이야기하는 목소리가 들리지만, 그 말은 단편적이고 이해할 수 없다. 그들은 내게 무엇을 말하려는 걸까?</i>"
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1753
@@ -5537,7 +5543,7 @@ msgid ""
 "Haldric. Then again, maybe that is the game Dacyn wants to play. What a "
 "shame. I had held him in higher regard than that.</i>"
 msgstr ""
-"<i>라반의 일지 - 피의 달 5일, 웨스노스력 597년.\n"
+"<i>라반(Ravan)의 일지 - 피의 달 5일, 웨스노스력 597년.\n"
 "\n"
 "아무것도 잘되지 않는다. 내 연구는 막다른 길에 다다랐고 다른 차원의 영혼들조차 더 이상 내게 말을 걸지 않는다. 이제 다신(Dacyn)에게도 의지할 수 없다. 그 멍청한 인간! 이 중요한 수수께끼를 해독하는 일을 돕는 것보다 정치를 하는 편이 자신의 능력을 더 잘 쓰는 일이라고 생각하다니. 반쯤 쇠약해진 늙은 할드릭(Haldric) 왕의 고문 노릇을 해서 무슨 도움이 된다고. 다시 생각해 보니, 어쩌면 그게 다신(Dacyn)이 하고 싶은 게임인지도 모르지. 유감이군. 나는 그를 그보다 훨씬 높이 평가했는데.</i>"
 
@@ -5906,7 +5912,7 @@ msgid ""
 "Ravanal. I have tried once before. Even as a mage, Ravan’s powers near "
 "outmatched my own. As the lich Mal-Ravanal, perhaps only Delfador the Great "
 "could have stood a chance."
-msgstr "아니, 그웨드리. 나도 확신할 수 없어. 하지만 말 라바날(Mal-Ravanal)을 물리칠 다른 방법은 모르겠군. 전에도 한 번 시도해 보았지. 마법사였을 때조차 라반의 힘은 내 힘에 거의 맞먹었어. 리치 말 라바날(Mal-Ravanal)이 된 지금은 위대한 델파도르(Delfador) 정도만이 맞설 수 있었을지도 모르지."
+msgstr "아니, 그웨드리. 나도 확신할 수 없어. 하지만 말 라바날(Mal-Ravanal)을 물리칠 다른 방법은 모르겠군. 전에도 한 번 시도해 보았지. 마법사였을 때조차 라반(Ravan)의 힘은 내 힘에 거의 맞먹었어. 리치 말 라바날(Mal-Ravanal)이 된 지금은 위대한 델파도르(Delfador) 정도만이 맞설 수 있었을지도 모르지."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2796
@@ -5920,7 +5926,7 @@ msgstr "이 부적이 내게 필요한 우위를 가져다줄 거야. 이것으�
 msgid ""
 "But if what you said is true, the very same could be said of Ravan. How do "
 "you know you will not fall down the same path as well?"
-msgstr "하지만 네 말이 사실이라면 라반에게도 똑같이 적용되지 않나. 네가 같은 길로 빠지지 않을 거라고 어떻게 확신하지?"
+msgstr "하지만 네 말이 사실이라면 라반(Ravan)에게도 똑같이 적용되지 않나. 네가 같은 길로 빠지지 않을 거라고 어떻게 확신하지?"
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2809
@@ -8539,7 +8545,7 @@ msgid ""
 "The siege around Westin has been broken, but Kerlath’s forces are badly "
 "depleted. I’m afraid we won’t be able to mount a counter-offensive in time "
 "to support you, especially with Mal-Xlana still holding Fort Tahn."
-msgstr "웨스틴(Westin) 포위는 풀렸지만 케를라스(Kerlath)의 병력은 크게 소모되었습니다. 특히 Mal-Xlana가 아직 탄 요새를 점령하고 있어, 제때 반격을 개시해 폐하를 지원할 수 없을까 두렵습니다."
+msgstr "웨스틴(Westin) 포위는 풀렸지만 케를라스(Kerlath)의 병력은 크게 소모되었습니다. 특히 말 즐라나(Mal-Xlana)가 아직 탄 요새를 점령하고 있어, 제때 반격을 개시해 폐하를 지원할 수 없을까 두렵습니다."
 
 #. [message]: speaker=Aeraeka
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:872
@@ -8572,7 +8578,7 @@ msgid ""
 "defeat these invaders. The only path to victory is cutting off the head of "
 "the snake. Mal-Ravanal, who you once knew as the mage Ravan, must be "
 "destroyed."
-msgstr "내 이야기와 외모는 중요하지 않다. 중요한 건 내가 이 침략자들을 물리칠 방법을 안다는 거지. 승리로 가는 유일한 길은 뱀의 머리를 자르는 것이다. 자네들이 한때 마법사 라반으로 알았던 말-라바날을 없애야 해."
+msgstr "내 이야기와 외모는 중요하지 않다. 중요한 건 내가 이 침략자들을 물리칠 방법을 안다는 거지. 승리로 가는 유일한 길은 뱀의 머리를 자르는 것이다. 자네들이 한때 마법사 라반(Ravan)으로 알았던 말-라바날을 없애야 해."
 
 #. [message]: speaker=Aeraeka
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:910
@@ -8647,7 +8653,7 @@ msgid ""
 "not more so after gaining lichdom. (cough)(cough) If I were to challenge Mal-"
 "Ravanal to a duel, I believe they would choose to face me. That would be our "
 "opportunity."
-msgstr "내게는 (기침) 더 나은 제안이 있네. 말-라바날의 군대는 거대하고 정복할 수 없어. 하지만 리치 혼자라면 그렇지 않지. 인간이었을 때 라반은 오만할 정도로 자신만만했어. 리치가 된 지금은 더욱 그럴 거라고 생각해. (기침)(기침) 내가 말-라바날에게 결투를 신청하면, 놈은 나와 직접 맞서기를 선택할 거야. 그게 우리의 기회지."
+msgstr "내게는 (기침) 더 나은 제안이 있네. 말-라바날의 군대는 거대하고 정복할 수 없어. 하지만 리치 혼자라면 그렇지 않지. 인간이었을 때 라반(Ravan)은 오만할 정도로 자신만만했어. 리치가 된 지금은 더욱 그럴 거라고 생각해. (기침)(기침) 내가 말-라바날에게 결투를 신청하면, 놈은 나와 직접 맞서기를 선택할 거야. 그게 우리의 기회지."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/15_Return_to_Wesnoth.cfg:944
@@ -9011,7 +9017,7 @@ msgstr "<span size='small' font-style='italic'>부적을 써. 다른 방법은 �
 msgid ""
 "I must... defeat Ravan! I must be strong enough to stand alone... I alone "
 "must wield this fullness of power!"
-msgstr "나는... 라반을 물리쳐야 해! 홀로 맞설 만큼 강해져야 해... 이 힘을 온전히 휘두를 수 있는 건 나뿐이야!"
+msgstr "나는... 라반(Ravan)을 물리쳐야 해! 홀로 맞설 만큼 강해져야 해... 이 힘을 온전히 휘두를 수 있는 건 나뿐이야!"
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/Eastern_Invasion/scenarios/16_Eleventh_Hour.cfg:1613
@@ -11834,7 +11840,7 @@ msgstr "다신(Dacyn)이라는 마법사가 죽어 가고 있다! 이제 네가 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:779
 msgid "-I... -I am no lich! I am no harbinger of darkness, unlike Ravan!"
-msgstr "-나는... -나는 리치가 아니다! 라반과 달리 어둠의 선구자가 아니야!"
+msgstr "-나는... -나는 리치가 아니다! 라반(Ravan)과 달리 어둠의 선구자가 아니야!"
 
 #. [message]: speaker=spirit2
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:783
@@ -11882,7 +11888,7 @@ msgid ""
 "arrogant. I have been the fool in this story. I believed I and only I was "
 "destined for greatness. But I can see it clearly now. I have been no "
 "different than my dear friend Ravan. We have been the same all along."
-msgstr "아니. 너무 오랫동안 나는 자만심이 지혜를 앞서도록 내버려 두었어. 나는 오만했고, 이 이야기 속의 바보였지. 나만이 위대해질 운명이라고 믿었어. 하지만 이제는 분명히 보인다. 나는 사랑하는 친구 라반과 다르지 않았어. 우리는 처음부터 같았던 거야."
+msgstr "아니. 너무 오랫동안 나는 자만심이 지혜를 앞서도록 내버려 두었어. 나는 오만했고, 이 이야기 속의 바보였지. 나만이 위대해질 운명이라고 믿었어. 하지만 이제는 분명히 보인다. 나는 사랑하는 친구 라반(Ravan)과 다르지 않았어. 우리는 처음부터 같았던 거야."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:836
@@ -13166,7 +13172,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ msgstr "아무래도 이 인간들은 내 생각보다 훨씬 강한 것 같군. 으윽."
 
 #~ msgid "Lake Vrug"
-#~ msgstr "Vrug 호수"
+#~ msgstr "브루그(Vrug) 호수"
 
 #~ msgid "Darg"
 #~ msgstr "Darg"
@@ -13406,11 +13412,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "worried. The seer told him that the only way to stop the evil was to "
 #~ "appoint a mage, versed well in combat with the spirits of darkness, to be "
 #~ "the king’s advisor."
-#~ msgstr ""
-#~ "이 땅의 가장 위대한 선지자였던 Galdren은 언젠가, 언젠가 곧 강대한 악이 이 "
-#~ "땅을 뒤덮을 것이라고 예언했습니다. 왕은 당연히 걱정했지요. 그 선지자는 왕"
-#~ "에게 악을 저지할 수 있는 유일한 방법은 어둠의 영혼과의 싸움에 정통한 마법"
-#~ "사를 왕의 조언자로 선발하는 것이라고 말했습니다."
+#~ msgstr "이 땅의 가장 위대한 선지자였던 갈드렌(Galdren)은 언젠가, 언젠가 곧 강대한 악이 이 땅을 뒤덮을 것이라고 예언했습니다. 왕은 당연히 걱정했지요. 그 선지자는 왕에게 악을 저지할 수 있는 유일한 방법은 어둠의 영혼과의 싸움에 정통한 마법사를 왕의 조언자로 선발하는 것이라고 말했습니다."
 
 #, fuzzy
 #~| msgid ""
@@ -13425,13 +13427,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "was when he began his fall. He went deep into conversation with the "
 #~ "spirits of darkness, hoping to discover their weaknesses. But it was they "
 #~ "who found his."
-#~ msgstr ""
-#~ "Ravan은 이 일을 맡을 충분한 자격이 있다고 우리 모두 생각했지만, 지금와서 "
-#~ "생각해보면 그때부터 그는 타락하기 시작했던 것입니다. 그는 어둠의 영혼들과"
-#~ "의 대화에 깊이 빠져들며 그들의 약점을 찾고자 했지만, 도리어 영혼들이 그의 "
-#~ "약점을 찾아낸 것이었지요. 이윽고 모든 죽음의 마법사들이 그러듯이, 그 또한 "
-#~ "자신의 생명을 취하여 자신을 리치로 변화시키고, 지금껏 있어왔던 자들 중 가"
-#~ "장 강대한 존재 중 하나가 되었습니다."
+#~ msgstr "라반(Ravan)은 이 일을 맡을 충분한 자격이 있다고 우리 모두 생각했지만, 지금와서 생각해보면 그때부터 그는 타락하기 시작했던 것입니다. 그는 어둠의 영혼들과의 대화에 깊이 빠져들며 그들의 약점을 찾고자 했지만, 도리어 영혼들이 그의 약점을 찾아낸 것이었지요. 이윽고 모든 죽음의 마법사들이 그러듯이, 그 또한 자신의 생명을 취하여 자신을 리치로 변화시키고, 지금껏 있어왔던 자들 중 가장 강대한 존재 중 하나가 되었습니다."
 
 #, fuzzy
 #~| msgid ""
@@ -13925,7 +13921,7 @@ msgstr "언데드, 강령술사, 박쥐에게 주는 피해 <span color='#00FF00
 #~ "us no matter what we do. Our only hope was to isolate ourselves on the "
 #~ "Isle of Vrug. We are too far away now to return that way, and we have "
 #~ "aroused the orcs. We cannot try that again. So, if we have no hope..."
-#~ msgstr "당신은 다신(Dacyn)이 한 말을 듣지 못한거요? 우리가 뭘 하든 오크들이나 언데드들이 우릴 죽일거요. 우리의 유일한 희망은 우리를 Vrug 섬에 고립시키는 것이었소. 이제 그리로 돌아가기엔 우린 너무 멀리 왔고, 게다가 우린 오크들을 자극시켰소. 그 방법은 다시 시도할 수 없지. 그러니, 우리에게 희망이 없다면..."
+#~ msgstr "당신은 다신(Dacyn)이 한 말을 듣지 못한거요? 우리가 뭘 하든 오크들이나 언데드들이 우릴 죽일거요. 우리의 유일한 희망은 우리를 브루그(Vrug) 섬에 고립시키는 것이었소. 이제 그리로 돌아가기엔 우린 너무 멀리 왔고, 게다가 우린 오크들을 자극시켰소. 그 방법은 다시 시도할 수 없지. 그러니, 우리에게 희망이 없다면..."
 
 #~ msgid ""
 #~ "There is still some hope left. If we return to Wesnoth, we may be able to "

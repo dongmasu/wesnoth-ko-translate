@@ -176,7 +176,7 @@ msgid ""
 msgstr ""
 "발드라스(Baldras)의 일기, 웨스노스력 501년 씨를 뿌리는 03월 21일\n"
 "\n"
-"이제... 일곱달이 좀 지났나? 왕실이 우리를 돕기 위해 단 한 명의 경비병을 여기에 보낸지 말이다. 이 가라르드(Garard) 2세라는 놈은 자기의 아버지보다 더 못한, 거만한 역한 냄새나 풍기는 놈이다! 이 국경 도시인 델윈과 달벤(Dallben)은 이미 가난하고 궁핍한데도 그 ‘국왕 폐하’ 라는 놈이 생각하는것은 우리가 힘들게 벌어들인 돈을 수탈하려는 오로지 세금, 세금, 세금뿐이다. 그러고 나서 놈은 개인적인 영광을 위해 더 많은 오크들과 더 많은 전쟁을 일으키고, 더러운 귀족이 지배할 더 많은 땅을 확보하기 위해 우리의 돈을 사용한다."
+"이제... 일곱달이 좀 지났나? 왕실이 우리를 돕기 위해 단 한 명의 경비병을 여기에 보낸지 말이다. 이 가라르드(Garard) 2세라는 놈은 자기의 아버지보다 더 못한, 거만한 역한 냄새나 풍기는 놈이다! 이 국경 도시인 델윈(Delwyn)과 달벤(Dallben)은 이미 가난하고 궁핍한데도 그 ‘국왕 폐하’ 라는 놈이 생각하는것은 우리가 힘들게 벌어들인 돈을 수탈하려는 오로지 세금, 세금, 세금뿐이다. 그러고 나서 놈은 개인적인 영광을 위해 더 많은 오크들과 더 많은 전쟁을 일으키고, 더러운 귀족이 지배할 더 많은 땅을 확보하기 위해 우리의 돈을 사용한다."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:28
@@ -186,7 +186,7 @@ msgid ""
 "clubs. In all Annuvin Province, there won’t be nobody besting us in these "
 "swamps. We’re self-reliant out here. We gots our own trade routes and pacts "
 "of mutual defense. No need for them Wesnothians. Not a single bit."
-msgstr "왕실 따위 지옥으로나 떨어져버려라! 우리는 군대도 없고 진짜 무기도 없지만 우리 서부 국경 지역 사람들은 무릿매와 곤봉만 가지고도 잘 해낸다. 안누빈 지방 전체에서, 이 늪지에있는 우리를 이길 수 있는 놈들은 아무도 없을 것이다. 우리는 여기서 자립하고 있다. 우리는 우리만의 무역로와 상호 방위 조약도 맺었다. 웨스노스인들은 필요없어. 단 한놈도."
+msgstr "왕실 따위 지옥으로나 떨어져버려라! 우리는 군대도 없고 진짜 무기도 없지만 우리 서부 국경 지역 사람들은 무릿매와 곤봉만 가지고도 잘 해낸다. 안누빈(Annuvin) 지방 전체에서, 이 늪지에있는 우리를 이길 수 있는 놈들은 아무도 없을 것이다. 우리는 여기서 자립하고 있다. 우리는 우리만의 무역로와 상호 방위 조약도 맺었다. 웨스노스인들은 필요없어. 단 한놈도."
 
 #. [part]
 #. Some languages, including Norwegian and Old English, don't have a single word for "uncle", dividing it into
@@ -211,7 +211,7 @@ msgstr "발드라스(Baldras)"
 #. [side]: type=Goblin Pillager, id=Fal Khag
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:78
 msgid "Fal Khag"
-msgstr "팔 크하그"
+msgstr "팔 크하그(Fal Khag)"
 
 #. [side]: type=Goblin Pillager, id=Fal Khag
 #. [side]: type=Orcish Warrior, id=Urk Delek
@@ -413,7 +413,7 @@ msgid ""
 "probably sent his troops on some new war against them orcs. Don’t really "
 "matter. Technically Annuvin be under the charge of Elensefar, but you don’t "
 "see ‘em coming to help us either."
-msgstr "가라르드(Garard) 2세가 얼마 전에 이곳으로 순찰대를 보내는 걸 그만뒀더군. 망할 놈은 아마도 오크들을 상대로 새로운 전쟁을 벌이기 위해 자신의 군대를 보낸 모양이다. 별로 중요하지 않아. 엄밀히 따지면 안누빈은 엘렌세파르(Elensefar)의 지휘를 받고 있지만, 놈들이 우리를 도우러 오는 것 조차 보이지 않아."
+msgstr "가라르드(Garard) 2세가 얼마 전에 이곳으로 순찰대를 보내는 걸 그만뒀더군. 망할 놈은 아마도 오크들을 상대로 새로운 전쟁을 벌이기 위해 자신의 군대를 보낸 모양이다. 별로 중요하지 않아. 엄밀히 따지면 안누빈(Annuvin)은 엘렌세파르(Elensefar)의 지휘를 받고 있지만, 놈들이 우리를 도우러 오는 것 조차 보이지 않아."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:313
@@ -779,7 +779,7 @@ msgstr "여기엔 뭔가 매우 이상한 일이 일어나고 있네. 그 가라
 msgid ""
 "We’ve got to tell the people of Delwyn about this. Ol’ magistrate Relana "
 "will have some ideas."
-msgstr "델윈 사람들에게 이 일에 대해 알려줘야해요. 늙은 치안 판사 인 렐라나(Relana)가 몇 가지 아이디어를 가지고 있을 거에요."
+msgstr "델윈(Delwyn) 사람들에게 이 일에 대해 알려줘야해요. 늙은 치안 판사 인 렐라나(Relana)가 몇 가지 아이디어를 가지고 있을 거에요."
 
 #. [message]: role=Advisor
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:421
@@ -793,7 +793,7 @@ msgstr "맞아. 어려움이 있을 때마다 우리는 항상 그녀에게 도�
 msgid ""
 "Fine. We’ll go to Delwyn, see what Relana gots to say. With them riders so "
 "eagerly attackin’ us today, I’m thinking Delwyn will be under threat too."
-msgstr "좋네. 델윈에 가서 렐라나(Relana)가 말하는 것을 들어보세. 오늘 기수들이 우리를 적극적으로 공격하는것을 보니, 델윈도 위협받을 거라 생각하네."
+msgstr "좋네. 델윈(Delwyn)에 가서 렐라나(Relana)가 말하는 것을 들어보세. 오늘 기수들이 우리를 적극적으로 공격하는것을 보니, 델윈(Delwyn)도 위협받을 거라 생각하네."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:431
@@ -852,7 +852,7 @@ msgid ""
 msgstr ""
 "발드라스(Baldras)의 일지, 웨스노스력 501년 뿌리가 깊게 뻗는 04월 10일:\n"
 "\n"
-"요 몇 일 동안 이상한 일이 있었다. 달벤(Dallben)을 급하게 떠나야 했다. 우리는 단 하루 만에 먹을 것, 옷, 여동생의 행운의 팔찌... 등 가능한 많이 챙겨가지고 이 나이에 따라가기 힘든 속도로 델윈으로 향했다. 나에게는 거기까지 가는 데 3일이 걸리겠지만, 하르페르(Harper)를 렐라나(Relana)에게 먼저 보내냈다. 그녀에게 우리가 늘 사용하는 늪의 은밀한 장소에서 만나자고 했다."
+"요 몇 일 동안 이상한 일이 있었다. 달벤(Dallben)을 급하게 떠나야 했다. 우리는 단 하루 만에 먹을 것, 옷, 여동생의 행운의 팔찌... 등 가능한 많이 챙겨가지고 이 나이에 따라가기 힘든 속도로 델윈(Delwyn)으로 향했다. 나에게는 거기까지 가는 데 3일이 걸리겠지만, 하르페르(Harper)를 렐라나(Relana)에게 먼저 보내냈다. 그녀에게 우리가 늘 사용하는 늪의 은밀한 장소에서 만나자고 했다."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:23
@@ -966,7 +966,7 @@ msgstr "엘렌세파르(Elensefar)? 왜 그사람이오?"
 msgid ""
 "Well all Annuvin be ruled by Elensefar, right? We don’t gots to heed "
 "anything Wesnoth says. Lord Maddock’s technically the one we answer to."
-msgstr "음, 안누빈 지방은 모두 엘렌세파르(Elensefar)의 지배를 받고있는거 알고있지 않아요? 우리는 웨스노스(Wesnoth)가 하는 말은 듣지 않아도 되요. 엄밀히 따지면, 마드독(Maddock) 경이 우리가 대답할 사람이에요."
+msgstr "음, 안누빈(Annuvin) 지방은 모두 엘렌세파르(Elensefar)의 지배를 받고있는거 알고있지 않아요? 우리는 웨스노스(Wesnoth)가 하는 말은 듣지 않아도 되요. 엄밀히 따지면, 마드독(Maddock) 경이 우리가 대답할 사람이에요."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:239
@@ -1005,7 +1005,7 @@ msgid ""
 "Blasted humans and blasted Fal Khag! Stupid goblin was only supposed to "
 "scout that puny village, not fight it by himself. Then those damned humans "
 "rejected our help and look where that got them."
-msgstr "비러먹을 인간놈들, 비러먹을 팔 크하그! 멍청한 고블린놈에게 그 보잘것 없는 마을이나 정찰하고 돌아오라고 했는데, 혼자서 마음대로 싸우고 있었잖아. 그리고 그 비러먹을 인간놈들은 우리의 도움을 거부했는데 결과가 어떻게 되었는지 봐라."
+msgstr "비러먹을 인간놈들, 비러먹을 팔 크하그(Fal Khag)! 멍청한 고블린놈에게 그 보잘것 없는 마을이나 정찰하고 돌아오라고 했는데, 혼자서 마음대로 싸우고 있었잖아. 그리고 그 비러먹을 인간놈들은 우리의 도움을 거부했는데 결과가 어떻게 되었는지 봐라."
 
 #. [message]: speaker=Urk Delek
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:267
@@ -1223,7 +1223,7 @@ msgstr "엘드레드(Eldred) 왕자가 전투에서 죽은 이후, 여왕은 왕
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:233
 msgid "Annuvin province be ruled by Elensefar! We has no duty to Weldyn."
-msgstr "안누빈 지방은 엘렌세파르(Elensefar)가 다스리고 있소! 우리에겐 웰딘(Weldyn)에 대한 의무는 없소."
+msgstr "안누빈(Annuvin) 지방은 엘렌세파르(Elensefar)가 다스리고 있소! 우리에겐 웰딘(Weldyn)에 대한 의무는 없소."
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:237
@@ -1501,7 +1501,7 @@ msgid ""
 "Asheviere’s armies assembled and struck before the nascent rebellion could "
 "even be planned. Without the necessary forces, Annuvin soon fell under "
 "Weldyn’s absolute control."
-msgstr "아쉐비에레의 군대는 초기 반란이 계획되기 전에 모여서 공격했다. 안누빈에는 대항할 병력이 없었기 때문에 안누빈은 곧 웰딘(Weldyn)의 절대적인 지배하에 놓이게 되었다."
+msgstr "아쉐비에레의 군대는 초기 반란이 계획되기 전에 모여서 공격했다. 안누빈(Annuvin)에는 대항할 병력이 없었기 때문에 안누빈(Annuvin)은 곧 웰딘(Weldyn)의 절대적인 지배하에 놓이게 되었다."
 
 #. [scenario]: id=05_Hide_and_Seek
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:6
@@ -1533,7 +1533,7 @@ msgid ""
 "‘contact’ be. Truths be told, I don’t know how this’ll be turning out, "
 "especially since I don’t be no social butterfly like sis were. Don’t like me "
 "no city folk really. But I’ll deal with them if I gots to."
-msgstr "어쨌든, 내가 렐라나(Relana)에게 보낸 전령은 이미 델윈에 도착했을 것이다. 우리도 곧 카르신(Carcyn)에 도착할 예정인데, 그 겁쟁이 마드독(Maddock)이 '연락책'이라고 말한 곳이다. 사실 나는 이것이 어떻게 될지 모르겠다. 특히 나는 여동생처럼 나비처럼 사교적이지 않기 때문에 더욱 그렇다. 나는 도시 주민을 별로 좋아하지 않는다. 하지만 필요하다면 할 것이다."
+msgstr "어쨌든, 내가 렐라나(Relana)에게 보낸 전령은 이미 델윈(Delwyn)에 도착했을 것이다. 우리도 곧 카르신(Carcyn)에 도착할 예정인데, 그 겁쟁이 마드독(Maddock)이 '연락책'이라고 말한 곳이다. 사실 나는 이것이 어떻게 될지 모르겠다. 특히 나는 여동생처럼 나비처럼 사교적이지 않기 때문에 더욱 그렇다. 나는 도시 주민을 별로 좋아하지 않는다. 하지만 필요하다면 할 것이다."
 
 #. [side]: type=Master Bowman, id=Quentin
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:80
@@ -1916,7 +1916,7 @@ msgstr "이것을 이해해야하오. 국왕이든 여왕이든 웨스노스(Wes
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:287
 msgid "That big ol’ fort between Aldril and Elensefar?"
-msgstr "알드릴과 엘렌세파르(Elensefar) 사이에 있는 커다란 요새 말이에요?"
+msgstr "알드릴(Aldril)과 엘렌세파르(Elensefar) 사이에 있는 커다란 요새 말이에요?"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:291
@@ -1937,7 +1937,7 @@ msgid ""
 "forces within Halstead. When its armies are raised, none of your little "
 "villages will be able to resist them. Your only choice would be to flee "
 "farther north into orcish territory."
-msgstr "이걸 알아두시오, 발드라스(Baldras). 지난 한 주 동안, 몇몇 순찰대가 다시 한강을 건너 안누빈으로 모험을 해왔었소. 렐라나(Relana)라는 한 여성이 작은 민병대로 그들에 맞서 승리를 했지만, 큰 손실을 입었지. 그러나 왕실은 이 반란을 주목하기 시작했고, 할스테아드 내에 병력들을 집결시키고 있소. 이 군단들이 움직이면, 당신네 같은 작은 마을이 아무리 힘을 합쳐도 대항할 수 없을 것이오. 거기서 남는 선택지는 한층 더 북쪽의 오크의 영역으로 도망치는 것 정도일 것이오."
+msgstr "이걸 알아두시오, 발드라스(Baldras). 지난 한 주 동안, 몇몇 순찰대가 다시 한강을 건너 안누빈(Annuvin)으로 모험을 해왔었소. 렐라나(Relana)라는 한 여성이 작은 민병대로 그들에 맞서 승리를 했지만, 큰 손실을 입었지. 그러나 왕실은 이 반란을 주목하기 시작했고, 할스테아드 내에 병력들을 집결시키고 있소. 이 군단들이 움직이면, 당신네 같은 작은 마을이 아무리 힘을 합쳐도 대항할 수 없을 것이오. 거기서 남는 선택지는 한층 더 북쪽의 오크의 영역으로 도망치는 것 정도일 것이오."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:299
@@ -2228,7 +2228,7 @@ msgid ""
 "Yes... Erwen would’ve said the same. If we march on Halstead, we gots to "
 "burn it to the ground before the Queen’s forces rally. If we does that, "
 "Weldyn won’t have no foothold in Annuvin no more."
-msgstr "그래... 에르웬도 똑같이 말했을 거야. 우리가 할스테아드로 진군한다면, 여왕의 병력이 집결하기 전에 불태워야 할거요. 그렇게 하면 웰딘(Weldyn)은 더이상 안누빈에 발을 들일 수 없게 될거요."
+msgstr "그래... 에르웬도 똑같이 말했을 거야. 우리가 할스테아드로 진군한다면, 여왕의 병력이 집결하기 전에 불태워야 할거요. 그렇게 하면 웰딘(Weldyn)은 더이상 안누빈(Annuvin)에 발을 들일 수 없게 될거요."
 
 #. [message]: speaker=Helicrom
 #: data/campaigns/Liberty/scenarios/06_The_Hunters.cfg:1173
@@ -2281,7 +2281,7 @@ msgstr ""
 "알두인(Alduin)의 연대기에서, 웨스노스(Wesnoth)력 98년\n"
 "\n"
 "\n"
-"지금으로부터 20년 하고도 8년 전인 웨스노스(Wesnoth)력 70년, 웨스노스(Wesnoth) 국왕과 엘렌세파르(Elensefar) 영주는 인간들의 안전보장을 강화하기 위해 무역 및 동맹 조약을 체결했다. 이 조약의 실현을 위해서는 웰딘(Weldyn)과 엘렌세파르(Elensefar) 사이에 안전한 길을 만들어야 했고, 이러한 문명화된 땅에서 온갖 종류의 적대적인 생명체나 짐승들은 샅샅이 뒤져 제거되었다. 단톤크에서 알드릴과 카르신(Carcyn)의 설립으로 회색 숲을 따라 한때 위험했던 통로를 확보하여 두 도시 사이의 길을 완성했다. 이로써, 인간들의 동맹은 진정으로 통합된 것으로 여겨졌다."
+"지금으로부터 20년 하고도 8년 전인 웨스노스(Wesnoth)력 70년, 웨스노스(Wesnoth) 국왕과 엘렌세파르(Elensefar) 영주는 인간들의 안전보장을 강화하기 위해 무역 및 동맹 조약을 체결했다. 이 조약의 실현을 위해서는 웰딘(Weldyn)과 엘렌세파르(Elensefar) 사이에 안전한 길을 만들어야 했고, 이러한 문명화된 땅에서 온갖 종류의 적대적인 생명체나 짐승들은 샅샅이 뒤져 제거되었다. 단톤크에서 알드릴(Aldril)과 카르신(Carcyn)의 설립으로 회색 숲을 따라 한때 위험했던 통로를 확보하여 두 도시 사이의 길을 완성했다. 이로써, 인간들의 동맹은 진정으로 통합된 것으로 여겨졌다."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:26
@@ -2348,7 +2348,7 @@ msgid ""
 "them ones who only be politicking nowadays. They helped tame the lands "
 "between the cities and forged the walls of Halstead itself to honor the "
 "alliance."
-msgstr "그래, 그건 어떻게 보면 맞다고 할 수도 있겠구나. 오래된 이야기에 따르면 과거에 엘렌세파르(Elensefar)와 웰딘(Weldyn)에는 요즘 정치 활동만 하는 사람들보다 훨씬 더 능숙한 정말 강력한 마법사들이 있었다고 하는구나. 이 마법사들은 도시들 사이의 땅들을 길들이는 것을 도왔고, 동맹을 기리기 위해 할스테드 성벽을 직접 쌓았다고 하더구나."
+msgstr "그래, 그건 어떻게 보면 맞다고 할 수도 있겠구나. 오래된 이야기에 따르면 과거에 엘렌세파르(Elensefar)와 웰딘(Weldyn)에는 요즘 정치 활동만 하는 사람들보다 훨씬 더 능숙한 정말 강력한 마법사들이 있었다고 하는구나. 이 마법사들은 도시들 사이의 땅들을 길들이는 것을 도왔고, 동맹을 기리기 위해 할스테드(Halstead) 성벽을 직접 쌓았다고 하더구나."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:275
@@ -2742,7 +2742,7 @@ msgid ""
 "meantimes, I’ll rest this tired body for a little and go see sis, maybe pick "
 "her up some lilies. Seems like this’ll probably be the last time I gets to "
 "see her..."
-msgstr "나는 하퍼를 델윈으로 보냈다. 그녀가 그곳에서 뭔가를 찾을 수 있기를 바란다. 그동안 나는 지친 몸을 잠시 쉬고 여동생을 만나러 갈려는데, 아마도 그녀에게 몇 송이 백합을 줄까한다. 아마도 그녀에게 가는 것은 이번이 마지막이 될 것 같다..."
+msgstr "나는 하퍼를 델윈(Delwyn)으로 보냈다. 그녀가 그곳에서 뭔가를 찾을 수 있기를 바란다. 그동안 나는 지친 몸을 잠시 쉬고 여동생을 만나러 갈려는데, 아마도 그녀에게 몇 송이 백합을 줄까한다. 아마도 그녀에게 가는 것은 이번이 마지막이 될 것 같다..."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:34
@@ -2774,7 +2774,7 @@ msgid ""
 msgstr ""
 "웨스노스력 501년 수정초가 피는 05월 14일\n"
 "\n"
-"오늘 하르페르(Harper)가 델윈에서 돌아왔다. 거기에는 살아 있는 사람을 찾지 못했다고 했지만, 쪽지를 찾아서 가져왔다. 이제 거기에 뭐라고 써있는지 보았다."
+"오늘 하르페르(Harper)가 델윈(Delwyn)에서 돌아왔다. 거기에는 살아 있는 사람을 찾지 못했다고 했지만, 쪽지를 찾아서 가져왔다. 이제 거기에 뭐라고 써있는지 보았다."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:47
@@ -3100,7 +3100,7 @@ msgstr "어떻게 이럴 수가 있지?"
 #~ "towns of Delwyn and Dallben in the Province of Annuvin grew increasingly "
 #~ "dissatisfied with the King’s rule. Being preoccupied with the great wars, "
 #~ "the King was unable to send adequate forces to protect the frontier."
-#~ msgstr "혼란의 시대, 가라르드(Garard) 2세의 치세에, Annuvin 지방에 있는 변경 마을 Delwyn와 달벤(Dallben)에서는 왕의 통치에 점점 큰 불만을 갖고 있었다. 대대적인 전쟁에 사로잡힌 왕은 변경을 지킬 수 있는 적절한 병력을 보낼 수 없었다."
+#~ msgstr "혼란의 시대, 가라르드(Garard) 2세의 치세에, 안누빈(Annuvin) 지방에 있는 변경 마을 델윈(Delwyn)와 달벤(Dallben)에서는 왕의 통치에 점점 큰 불만을 갖고 있었다. 대대적인 전쟁에 사로잡힌 왕은 변경을 지킬 수 있는 적절한 병력을 보낼 수 없었다."
 
 #~ msgid ""
 #~ "I long to burn human cities, but until our great chieftains provide us "
@@ -3218,7 +3218,7 @@ msgstr "어떻게 이럴 수가 있지?"
 #~ "thought Wesnoth would fall into darkness. Now, not only do the orcs "
 #~ "threaten our lands, but some sinister thing is happening with the ascent "
 #~ "of the Queen to the throne."
-#~ msgstr "좋다. Delwyn으로 가서 상담을 해 보기로 하지. 웨스노스(Wesnoth)가 악의 무리에게 떨어질거라고는 생각해 본 일이 없었는데. 이제 오크 뿐 아니라 여왕이 왕좌에 오르는 데 일조한 뭔가 불길한 일마저도 우리 땅을 위협하는구나."
+#~ msgstr "좋다. 델윈(Delwyn)으로 가서 상담을 해 보기로 하지. 웨스노스(Wesnoth)가 악의 무리에게 떨어질거라고는 생각해 본 일이 없었는데. 이제 오크 뿐 아니라 여왕이 왕좌에 오르는 데 일조한 뭔가 불길한 일마저도 우리 땅을 위협하는구나."
 
 #~ msgid ""
 #~ "Today we may no longer be citizens of Wesnoth. I wish it could be "
@@ -3247,7 +3247,7 @@ msgstr "어떻게 이럴 수가 있지?"
 #~ "Relana, thank you for welcoming our messenger and agreeing to meet with "
 #~ "us. In your many years as Delwyn’s magistrate I have never known your "
 #~ "judgment to err."
-#~ msgstr "렐라나(Relana), 우리 전령을 맞아들이고 우리와의 회동에 동의해준 데 감사하오. 당신이 Delwyn의 치안 판사로 있은 지 오랜 세월이 지났지만 당신의 판단이 틀린 적은 한번도 없었지."
+#~ msgstr "렐라나(Relana), 우리 전령을 맞아들이고 우리와의 회동에 동의해준 데 감사하오. 당신이 델윈(Delwyn)의 치안 판사로 있은 지 오랜 세월이 지났지만 당신의 판단이 틀린 적은 한번도 없었지."
 
 #, fuzzy
 #~| msgid ""
@@ -3271,14 +3271,12 @@ msgstr "어떻게 이럴 수가 있지?"
 #~ "the leader was no man I had ever seen in Annuvin Province before. Never "
 #~ "has one been sent out here as a patrol captain who was so ruthless and "
 #~ "cruel."
-#~ msgstr "당신은 이해하지 못하는군. 우리는 웨스노스(Wesnoth) 군대의 정찰병에게 공격당했소, 그뿐 아니라 그 지휘관이란 자는 Annuvin 지방에서 전에 한번도 보지 못한 인물이었소. 그 누구도 그런 무자비하고 잔학한 자를 정찰대 대장이랍시고 보내진 않을 거요."
+#~ msgstr "당신은 이해하지 못하는군. 우리는 웨스노스(Wesnoth) 군대의 정찰병에게 공격당했소, 그뿐 아니라 그 지휘관이란 자는 안누빈(Annuvin) 지방에서 전에 한번도 보지 못한 인물이었소. 그 누구도 그런 무자비하고 잔학한 자를 정찰대 대장이랍시고 보내진 않을 거요."
 
 #~ msgid ""
 #~ "Had they taken my uncle, they would have surely shown up in Delwyn today "
 #~ "with the same ultimatum. As it is, several riders escaped."
-#~ msgstr ""
-#~ "만일 놈들이 삼촌을 데려갔다면 그놈들은 분명 오늘쯤이면 Delwyn에 나타나서 "
-#~ "똑같은 통첩을 날렸을 겁니다. 지금은 몇몇 기병들만이 달아났지요."
+#~ msgstr "만일 놈들이 삼촌을 데려갔다면 그놈들은 분명 오늘쯤이면 델윈(Delwyn)에 나타나서 똑같은 통첩을 날렸을 겁니다. 지금은 몇몇 기병들만이 달아났지요."
 
 #~ msgid ""
 #~ "Well, it won’t be long until they report back to the local garrison with "
@@ -3320,7 +3318,7 @@ msgstr "어떻게 이럴 수가 있지?"
 #~ msgid ""
 #~ "By the sound of the wolves, the scent trail of Fal Khag’s killers ends "
 #~ "here."
-#~ msgstr "늑대 울음으로 봐서 Fal Khag를 죽인 놈들의 냄새가 여기서 끝난다."
+#~ msgstr "늑대 울음으로 봐서 팔 카그(Fal Khag)를 죽인 놈들의 냄새가 여기서 끝난다."
 
 #~ msgid "You will get gold. And our wolves will get meat."
 #~ msgstr "너흰 금을 받을거다. 그리고 우리 늑대들은 고기를 먹겠지."
@@ -3355,11 +3353,7 @@ msgstr "어떻게 이럴 수가 있지?"
 #~ "camped nearby, and the main garrison is further south at Halstead. I know "
 #~ "my time will soon come to swear allegiance, but they do not press me. "
 #~ "They are afraid I will refuse."
-#~ msgstr ""
-#~ "뭐, 저들은 내 도시의 성벽 안으로는 들어오지 않았네. 저들은 근처에 진을 쳤"
-#~ "고, 주둔군의 주력은 훨씬 남쪽 Halstead에 있지. 곧 있으면 내가 충성을 맹세"
-#~ "해야할 때가 오겠지만, 저들은 나를 압박하지는 않네. 내가 거부할 경우를 걱정"
-#~ "하는 거겠지."
+#~ msgstr "뭐, 저들은 내 도시의 성벽 안으로는 들어오지 않았네. 저들은 근처에 진을 쳤고, 주둔군의 주력은 훨씬 남쪽 할스테드(Halstead)에 있지. 곧 있으면 내가 충성을 맹세해야할 때가 오겠지만, 저들은 나를 압박하지는 않네. 내가 거부할 경우를 걱정하는 거겠지."
 
 #~ msgid "Will you?"
 #~ msgstr "거절하실겁니까?"
@@ -3387,10 +3381,7 @@ msgstr "어떻게 이럴 수가 있지?"
 #~ "What can we do then? We have brought with us many from Annuvin Province "
 #~ "who are willing to fight, but our families are still at home. They will "
 #~ "not last long if the Queen’s patrols return."
-#~ msgstr ""
-#~ "그럼 우린 어떻게 합니까? 우리가 Annuvin 지방에서 여기까지 오면서 싸울 사람"
-#~ "들을 다수 데려왔지만 우리 가족들은 아직 집에 그대로 있습니다. 여왕의 정찰"
-#~ "대가 돌아오면 오래 버티지 못할텐데."
+#~ msgstr "그럼 우린 어떻게 합니까? 우리가 안누빈(Annuvin) 지방에서 여기까지 오면서 싸울 사람들을 다수 데려왔지만 우리 가족들은 아직 집에 그대로 있습니다. 여왕의 정찰대가 돌아오면 오래 버티지 못할텐데."
 
 #~ msgid ""
 #~ "I am unwilling to start a civil war. I believe the Queen will remain "
@@ -3566,11 +3557,7 @@ msgstr "어떻게 이럴 수가 있지?"
 #~ "wait, their armies will become invincible. If we can burn it to the "
 #~ "ground before the Queen’s forces rally, we may yet be able to break their "
 #~ "foothold in this province."
-#~ msgstr ""
-#~ "피투성이로 엉망이군. 다음은 Halstead를 공격한다. 지체했다간 그곳은 무적의 "
-#~ "요새가 될거야. 그렇게 되기 전에 우리가 그곳을 흔적도 없이 태워버릴 수 있다"
-#~ "면, 우리들에게도 기회는 있다. 오늘 밤은 푹 쉬어라. 내일의 전투가 우리 고향"
-#~ "과 가족의 운명과 함께 우리 자유의 향방을 결정한다."
+#~ msgstr "피투성이로 엉망이군. 다음은 할스테드(Halstead)를 공격한다. 지체했다간 그곳은 무적의 요새가 될거야. 그렇게 되기 전에 우리가 그곳을 흔적도 없이 태워버릴 수 있다면, 우리들에게도 기회는 있다. 오늘 밤은 푹 쉬어라. 내일의 전투가 우리 고향과 가족의 운명과 함께 우리 자유의 향방을 결정한다."
 
 #~ msgid ""
 #~ "In the Year of Wesnoth 161, the newly crowned king sought to tame the "
@@ -3602,11 +3589,7 @@ msgstr "어떻게 이럴 수가 있지?"
 #~ "sheer walls both inspiring and terrifying. Men from all over the "
 #~ "countryside labored there, building the most formidable fortress ever "
 #~ "conceived. It became the Stronghold of Halstead."
-#~ msgstr ""
-#~ "평원 위로 산과 같이 솟아오른 백 미터가 넘어가는 이 밋밋한 벽은 두려워지기"
-#~ "까지 하는 장관이었다. 온 지방에서 끌어모은 사람들이 그곳에서 일해서 지금까"
-#~ "지 세워진 것 중에 가장 어마어마한 요새를 만들어 냈다. 이것이 바로 "
-#~ "Halstead 성채이다."
+#~ msgstr "평원 위로 산과 같이 솟아오른 백 미터가 넘어가는 이 밋밋한 벽은 두려워지기까지 하는 장관이었다. 온 지방에서 끌어모은 사람들이 그곳에서 일해서 지금까지 세워진 것 중에 가장 어마어마한 요새를 만들어 냈다. 이것이 바로 할스테드(Halstead) 성채이다."
 
 #, fuzzy
 #~| msgid ""
@@ -3621,18 +3604,18 @@ msgstr "어떻게 이럴 수가 있지?"
 #~ "walls have never been overrun. The blood of invaders stains its parapets "
 #~ "and the bones of the defeated crumble at the base of Halstead’s frozen "
 #~ "waves of stone."
-#~ msgstr "이 우뚝 선 서부 평원의 감시자는 웨스노스(Wesnoth)가 수백년간 번영하는 가운데 그 기반이 되는 보호막을 제공해 주었다. 그 어떤 전쟁의 물결도 이것을 넘어서지 못했고, 그 벽은 그 어떤 적의 침입도 허용하지 않았다. 침략자들의 피가 그 난간을 적셨으며 쓰러진 자들의 뼈가 Halstead 아래 얼어붙은 돌무더기 곁에서 부서져 갔다."
+#~ msgstr "이 우뚝 선 서부 평원의 감시자는 웨스노스(Wesnoth)가 수백년간 번영하는 가운데 그 기반이 되는 보호막을 제공해 주었다. 그 어떤 전쟁의 물결도 이것을 넘어서지 못했고, 그 벽은 그 어떤 적의 침입도 허용하지 않았다. 침략자들의 피가 그 난간을 적셨으며 쓰러진 자들의 뼈가 할스테드(Halstead) 아래 얼어붙은 돌무더기 곁에서 부서져 갔다."
 
 #~ msgid ""
 #~ "That may not be too far from the truth. During the time of the Great "
 #~ "Kings of Wesnoth, this land was tamed with powerful magic. Wizards of an "
 #~ "ancient era forged the walls of Halstead from the rock below."
-#~ msgstr "거의 진실에 근접했구나. 웨스노스(Wesnoth)의 위대한 왕들의 시절에, 이 땅은 강력한 마법으로 다스려졌단다. 고대의 마도사들이 지하의 바위로부터 Halstead의 벽을 만들어 냈지."
+#~ msgstr "거의 진실에 근접했구나. 웨스노스(Wesnoth)의 위대한 왕들의 시절에, 이 땅은 강력한 마법으로 다스려졌단다. 고대의 마도사들이 지하의 바위로부터 할스테드(Halstead)의 벽을 만들어 냈지."
 
 #~ msgid ""
 #~ "No, my young friend. Halstead indeed has a weakness. Among my many assets "
 #~ "is access to a wealth of secrets few in Wesnoth are privy to."
-#~ msgstr "아니네, 어린 친구. Halstead에는 사실 약점이 있다네. 나의 많은 재산들 중에는 웨스노스(Wesnoth)에서도 소수의 사람들 밖에 모르는 비밀이라는 재물도 있지."
+#~ msgstr "아니네, 어린 친구. 할스테드(Halstead)에는 사실 약점이 있다네. 나의 많은 재산들 중에는 웨스노스(Wesnoth)에서도 소수의 사람들 밖에 모르는 비밀이라는 재물도 있지."
 
 #~ msgid ""
 #~ "You see, the mountain on which the fort was built is solid, but the "
@@ -3660,7 +3643,7 @@ msgstr "어떻게 이럴 수가 있지?"
 #~ "We must be cautious. Look there, a substantial orc force is also "
 #~ "advancing on Halstead. They must think Wesnoth’s army is spread out right "
 #~ "now."
-#~ msgstr "우리는 조심해야 한다. 저쪽을 봐라, 상당한 규모의 오크 병력이 같이 Halstead로 오고 있다. 놈들은 지금 웨스노스(Wesnoth)의 군대가 분산되어 있다고 생각하는 게 분명해."
+#~ msgstr "우리는 조심해야 한다. 저쪽을 봐라, 상당한 규모의 오크 병력이 같이 할스테드(Halstead)로 오고 있다. 놈들은 지금 웨스노스(Wesnoth)의 군대가 분산되어 있다고 생각하는 게 분명해."
 
 #~ msgid "Heh. They’re in for a surprise. This may work to our advantage."
 #~ msgstr "헤. 놈들 꽤 놀라겠는데요. 이건 우리에게 좀 유리하겠군요."
@@ -3759,7 +3742,7 @@ msgstr "어떻게 이럴 수가 있지?"
 #~ "Baldras and his men fled the plains of western Wesnoth under the cover of "
 #~ "night. The spectacle of Halstead’s destruction held them in a daze that "
 #~ "only slowly wore off as they made their way north to and past Elensefar."
-#~ msgstr "발드라스(Baldras)와 부하들은 야음을 틈타 웨스노스(Wesnoth) 서부 평원을 벗어났다. Halstead가 파괴된 광경을 본 충격은 북쪽을 향하여 엘렌세파르(Elensefar)를 지나면서 점점 희미해져 갔다."
+#~ msgstr "발드라스(Baldras)와 부하들은 야음을 틈타 웨스노스(Wesnoth) 서부 평원을 벗어났다. 할스테드(Halstead)가 파괴된 광경을 본 충격은 북쪽을 향하여 엘렌세파르(Elensefar)를 지나면서 점점 희미해져 갔다."
 
 #, fuzzy
 #~| msgid ""
@@ -3780,7 +3763,7 @@ msgstr "어떻게 이럴 수가 있지?"
 #~ "were found hacked to bloody pieces. Unexplained misfortune plagued the "
 #~ "marching columns. Soldiers dropped dead where they stood, slain by unseen "
 #~ "assassins. Fear of an undead menace spread through the ranks."
-#~ msgstr "아셰비에레(Asheviere)의 본대가 Halstead의 잔해로 가까워져 가는 동안, 이상한 일이 일어났다. 매일 밤 사람이 사라졌다. 다른 이들은 조각난 핏덩이로 발견되었다. 설명할 수 없는 불운이 진군하는 전열에 암운을 불러왔다. 병사들은 보이지 않는 암살자에게 당해 서 있던 자리에서 죽었다. 언데드의 위협에 대한 공포가 병사들 사이로 퍼져나갔다."
+#~ msgstr "아셰비에레(Asheviere)의 본대가 할스테드(Halstead)의 잔해로 가까워져 가는 동안, 이상한 일이 일어났다. 매일 밤 사람이 사라졌다. 다른 이들은 조각난 핏덩이로 발견되었다. 설명할 수 없는 불운이 진군하는 전열에 암운을 불러왔다. 병사들은 보이지 않는 암살자에게 당해 서 있던 자리에서 죽었다. 언데드의 위협에 대한 공포가 병사들 사이로 퍼져나갔다."
 
 #, fuzzy
 #~| msgid ""
@@ -3796,7 +3779,7 @@ msgstr "어떻게 이럴 수가 있지?"
 #~ "with the invisible terror stalking them, convinced Asheviere’s second in "
 #~ "command the entire countryside was cursed. He quickly retreated to the "
 #~ "traditional border and set up strong defenses against the west."
-#~ msgstr "웨스노스(Wesnoth)의 군대가 Halstead의 강력한 요새가 폐허로 변한 것을 발견했을 때, 그것은 극대화되었다. 이런 말도 안되는 일이 일어난 사실에 대한 충격과 그들을 쫓는 보이지 않는 존재에 대한 공포가 결합된 덕에 아셰비에레(Asheviere)의 부사령관은 이 지역 전체가 저주받았다고 믿게 되었다. 그는 서둘러 옛날의 국경선으로 돌아가서 서쪽으로 강력한 방어선을 구축했다."
+#~ msgstr "웨스노스(Wesnoth)의 군대가 할스테드(Halstead)의 강력한 요새가 폐허로 변한 것을 발견했을 때, 그것은 극대화되었다. 이런 말도 안되는 일이 일어난 사실에 대한 충격과 그들을 쫓는 보이지 않는 존재에 대한 공포가 결합된 덕에 아셰비에레(Asheviere)의 부사령관은 이 지역 전체가 저주받았다고 믿게 되었다. 그는 서둘러 옛날의 국경선으로 돌아가서 서쪽으로 강력한 방어선을 구축했다."
 
 #~ msgid ""
 #~ "Baldras had just crossed the Great River when rumors of night-stalkers "
@@ -3810,7 +3793,7 @@ msgstr "어떻게 이럴 수가 있지?"
 #~ "ground. In a panic, they raced through the forest to Delwyn. It was "
 #~ "likewise devastated. However, they did find one clue as to what "
 #~ "happened..."
-#~ msgstr "무법자가 된 농민들은 드디어 달벤(Dallben)에 도착했다. 그곳은 완전히 불타 없어져 있었다. 공포에 빠진 그들은 숲으로 달려 Delwyn으로 갔다. 그곳에서도 비슷한 일이 벌어져 있었다. 하지만 그들은 그곳에서 무슨 일이 벌어졌는지에 대한 한 가지 단서를 얻을 수 있었다..."
+#~ msgstr "무법자가 된 농민들은 드디어 달벤(Dallben)에 도착했다. 그곳은 완전히 불타 없어져 있었다. 공포에 빠진 그들은 숲으로 달려 델윈(Delwyn)으로 갔다. 그곳에서도 비슷한 일이 벌어져 있었다. 하지만 그들은 그곳에서 무슨 일이 벌어졌는지에 대한 한 가지 단서를 얻을 수 있었다..."
 
 #~ msgid ""
 #~ "... a grimy note nailed to a charred post that read, <i>“Baldras, You "
@@ -3881,9 +3864,7 @@ msgstr "어떻게 이럴 수가 있지?"
 #~ msgid ""
 #~ "The people of Annuvin were unwilling to relinquish their hard-earned self-"
 #~ "rule, especially not to this pretender..."
-#~ msgstr ""
-#~ "Annuvin 사람들은 어렵게 얻은 자치를 내어주는 것을 달가워하지 않았다. 특히 "
-#~ "이런 찬탈자에게는 더욱..."
+#~ msgstr "안누빈(Annuvin) 사람들은 어렵게 얻은 자치를 내어주는 것을 달가워하지 않았다. 특히 이런 찬탈자에게는 더욱..."
 
 #~ msgid "Mal-Jarrof"
 #~ msgstr "Mal-Jarrof"
@@ -4054,10 +4035,7 @@ msgstr "어떻게 이럴 수가 있지?"
 #~ "movements coming from the direction of Aldril, a nearby city, and "
 #~ "marching to the northwest. Unsure what to make of it, they debated their "
 #~ "next course of action..."
-#~ msgstr ""
-#~ "숲의 가장자리에 기지를 세운 그들은, Aldril 방향에서 상당한 병력이 움직임"
-#~ "이 북서쪽으로 향하고 있는 것을 조용히 바라보았다. 어떻게 해야 할지 확신할 "
-#~ "수 없었기에, 그들은 다음 행동을 결정하기 위한 토의를 시작했다..."
+#~ msgstr "숲의 가장자리에 기지를 세운 그들은, 알드릴(Aldril) 방향에서 상당한 병력이 움직임이 북서쪽으로 향하고 있는 것을 조용히 바라보았다. 어떻게 해야 할지 확신할 수 없었기에, 그들은 다음 행동을 결정하기 위한 토의를 시작했다..."
 
 #~ msgid "Kill all enemy forces"
 #~ msgstr "모든 적 병력을 말살할 것"
@@ -4080,7 +4058,7 @@ msgstr "어떻게 이럴 수가 있지?"
 #~ "The garrison. The towers of Halstead are more than a garrison, nephew, "
 #~ "they are a fortress. They used to protect this area from the enemies of "
 #~ "Wesnoth; I never imagined they would house its enemies."
-#~ msgstr "주둔지라. Halstead 탑은 주둔지 이상이란다, 조카야. 거긴 요새야. 그곳은 이 지역을 웨스노스(Wesnoth)의 적들로부터 지켜왔지. 설마 그곳에 웨스노스(Wesnoth)의 적들이 있게 될줄은 꿈에도 생각지 못했단다."
+#~ msgstr "주둔지라. 할스테드(Halstead) 탑은 주둔지 이상이란다, 조카야. 거긴 요새야. 그곳은 이 지역을 웨스노스(Wesnoth)의 적들로부터 지켜왔지. 설마 그곳에 웨스노스(Wesnoth)의 적들이 있게 될줄은 꿈에도 생각지 못했단다."
 
 #~ msgid "Pitcher"
 #~ msgstr "Pitcher"
@@ -4099,7 +4077,7 @@ msgstr "어떻게 이럴 수가 있지?"
 #~ "several patrols have again ventured across the Great River into Annuvin. "
 #~ "A woman named Relana opposed them with a small militia. She was "
 #~ "victorious."
-#~ msgstr "발드라스(Baldras) 대장, 북쪽에서 소식을 가져왔소. 지난 한 주동안 몇몇 정찰대가 한강을 건너서 Annuvin으로 오려고 시도했소. 렐라나(Relana)라는 여자가 소수의 민병대로 놈들을 상대했소. 그녀는 승리했소."
+#~ msgstr "발드라스(Baldras) 대장, 북쪽에서 소식을 가져왔소. 지난 한 주동안 몇몇 정찰대가 한강을 건너서 안누빈(Annuvin)으로 오려고 시도했소. 렐라나(Relana)라는 여자가 소수의 민병대로 놈들을 상대했소. 그녀는 승리했소."
 
 #~ msgid "This is surely good news!"
 #~ msgstr "이건 정말 좋은 소식이군!"
@@ -4115,11 +4093,7 @@ msgstr "어떻게 이럴 수가 있지?"
 #~ "reaching the garrison. We cannot swallow them whole, but we can gnaw away "
 #~ "at them. They mustn’t take one step without us being there to harass and "
 #~ "delay them. When they reach Halstead they must be exhausted or dying."
-#~ msgstr ""
-#~ "병력의 이동이 갖는 의미가 이제 명확해졌군. 우리는 이 군대가 주둔지에 도착"
-#~ "하는걸 저지해야 한다. 놈들을 전부 집어삼킬 수는 없어도 조금씩 물어뜯어낼 "
-#~ "순 있겠지. 놈들은 우리의 괴롭힘을 받지 않고는 한 발짝도 움직일 수 없다. 놈"
-#~ "들이 Halstead에 도착할 때쯤엔 지쳤거나 죽어있겠지."
+#~ msgstr "병력의 이동이 갖는 의미가 이제 명확해졌군. 우리는 이 군대가 주둔지에 도착하는걸 저지해야 한다. 놈들을 전부 집어삼킬 수는 없어도 조금씩 물어뜯어낼 순 있겠지. 놈들은 우리의 괴롭힘을 받지 않고는 한 발짝도 움직일 수 없다. 놈들이 할스테드(Halstead)에 도착할 때쯤엔 지쳤거나 죽어있겠지."
 
 #~ msgid "You just said we can’t beat their entire army!"
 #~ msgstr "방금 놈들의 모든 군대를 물리칠 순 없다셨잖아요!"
@@ -4145,7 +4119,7 @@ msgstr "어떻게 이럴 수가 있지?"
 #~ msgstr "여기서 너무 오래 지체했다. 분명 웨스노스(Wesnoth)의 모든 군대가 우리 위치로 진군해 올거야. 우린 끝장이다!"
 
 #~ msgid "No, young one. Halstead indeed has a weakness."
-#~ msgstr "아니란다, 얘야. Halstead에는 사실 약점이 있지."
+#~ msgstr "아니란다, 얘야. 할스테드(Halstead)에는 사실 약점이 있지."
 
 #~ msgid "How do you know?"
 #~ msgstr "어떻게 그런걸 아세요?"
@@ -4159,10 +4133,7 @@ msgstr "어떻게 이럴 수가 있지?"
 #~ "When I was a boy, my father — your grandfather — brought your mother and "
 #~ "me to live in Aldril after orcs massacred many in our village. We grew up "
 #~ "around here, and we learned many things."
-#~ msgstr ""
-#~ "내가 어렸을 적에, 우리 아버지가 — 네 할아버지 말이지 — 오크들이 우리 마을 "
-#~ "사람들을 많이 학살했을 때 Aldril로 아버지와 날 데리고 이주해 온 일이 있"
-#~ "다. 우리는 이 근처에서 자랐고, 많은 것들을 알게 되었지."
+#~ msgstr "내가 어렸을 적에, 우리 아버지가 — 네 할아버지 말이지 — 오크들이 우리 마을 사람들을 많이 학살했을 때 알드릴(Aldril)로 아버지와 날 데리고 이주해 온 일이 있다. 우리는 이 근처에서 자랐고, 많은 것들을 알게 되었지."
 
 #~ msgid ""
 #~ "Beneath the structure is a system of catacombs that connects all four "

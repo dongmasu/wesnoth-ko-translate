@@ -1,4 +1,25 @@
 source_term	standard_korean	reference_japanese	reference_chinese	category	forbidden_terms	notes
+Maghre	마그흐레(Maghre)			place_name		고유명사 병기 기준
+Toen Caric	토엔 캐릭(Toen Caric)			place_name		고유명사 병기 기준
+Tath	타쓰(Tath)			place_name		고유명사 병기 기준
+Thorodor	토로도르(Thorodor)			person_name		고유명사 병기 기준
+Galdren	갈드렌(Galdren)			person_name		고유명사 병기 기준
+Mal-Xlana	말-즐라나(Mal-Xlana)			person_name		고유명사 병기 기준
+Ravan	라반(Ravan)			person_name		고유명사 병기 기준
+Vrug	브루그(Vrug)			place_name		고유명사 병기 기준
+Aldril	알드릴(Aldril)			place_name		고유명사 병기 기준
+Annuvin	안누빈(Annuvin)			place_name		고유명사 병기 기준
+Delwyn	델윈(Delwyn)			place_name		고유명사 병기 기준
+Halstead	할스테드(Halstead)			place_name		고유명사 병기 기준
+Aethenwood	아에텐우드(Aethenwood)			place_name		고유명사 병기 기준
+Leonard	레너드(Leonard)			person_name		고유명사 병기 기준
+Mebrin	메브린(Mebrin)			person_name		고유명사 병기 기준
+Arne	아른(Arne)			person_name		고유명사 병기 기준
+Bjarn	비아른(Bjarn)			person_name		고유명사 병기 기준
+Barag Gór	바락 고르(Barag Gór)			place_name		고유명사 병기 기준
+Thera	테라(Thera)			person_name		고유명사 병기 기준
+Grubr	그루브르(Grubr)			person_name		고유명사 병기 기준
+Prestim	프레스팀(Prestim)			place_name		고유명사 병기 기준
  | Right-click to remove	 | 오른쪽 클릭으로 제거	 | 右クリックで削除	 | 右击以移除	term		
 #	#	#	#	identifier		
 (Hard level, 10 scenarios.)	(어려움 난이도, 10개 시나리오.)	（上級レベル、10 シナリオ）	（困难级别，10幕场景。）	campaign_name		
@@ -1185,7 +1206,7 @@ Failed Experiment	실패한 실험체	実験失敗作	失败的实验品	proper_
 Fair	공정한	展示場	集市	term		
 Fake Map Border	가짜 지도 경계	フェイクマップボーダー	伪地图边缘	terrain		
 Fake Shroud	가짜 장막	フェイクの幕	虚假黑幕	terrain		
-Fal Khag	팔 크하그	Fal Khag	法尔·卡格	faction		
+Fal Khag	팔 크하그(Fal Khag)	Fal Khag	法尔·卡格	faction		고유명사 병기 기준
 Falcon	매	隼	猎隼	unit_name		
 Fall Deciduous Forest	가을 낙엽수림	秋の落葉樹林	秋季落叶林	terrain		
 Fall Mixed Forest	가을 혼합수림	秋の混交林	秋季混交林	terrain		
@@ -1827,7 +1848,7 @@ Junior Commander	어린 사령관	若手指揮官	见习指挥官	unit_name
 Kaara	카아라(Kaara)	Kaara	卡拉	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
 Kaba	카바(Kaba)	Kaba	卡巴	unit_name		
 Kabak	카박(Kabak)	Kabak	卡巴克	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
-Kai Krellis	카이 크렐리스	Kai Krellis	克雷利斯凯王	term		
+Kai Krellis	카이 크렐리스(Kai Krellis)	Kai Krellis	克雷利斯凯王	person_name		고유명사 병기 기준
 Kal Karthans	칼 카르타인들(Kal)	Kal Kartha 軍	卡尔·卡萨人	faction		
 Kalba	칼바(Kalba)	Kalba	卡尔巴	proper_noun		
 Kaleh	칼레흐(Kaleh)	Kaleh	卡勒	proper_noun		
@@ -2085,7 +2106,7 @@ Mal Keshar	말 케샤르(Mal Keshar)	Mal Keshar	玛尔·凯沙	unit_name
 Mal Maul	말(Mal) 마울	Mal Maul	玛尔·魔尔	proper_noun		
 Mal Sevu	말(Mal) 세부	Mal Sevu	玛尔·瑟夫	faction		
 Mal Shiki	말(Mal) 쉬키	Mal Shiki	玛尔·史奇	faction		
-Mal Tath	말(Mal) 타쓰	Mal Tath	玛尔·塔斯	faction		
+Mal Tath	말(Mal) 타쓰(Tath)	Mal Tath	玛尔·塔斯	faction		고유명사 병기 기준
 Mal Tera	말 테라(Mal Tera)	Mal Tera	玛尔·特拉	faction		
 Mal-Akranbral	말-아크란브랄(Mal-Akranbral)	Mal-Akranbral	玛尔-阿克兰布劳尔	person_name		
 Mal-Analla	말-아날라(Mal-Analla)	Mal-Analla	玛尔-安娜拉	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기

@@ -71,6 +71,172 @@ class NamePair:
     glossary_source: str
 
 
+@dataclass(frozen=True)
+class NameCandidate:
+    source: str
+    path: Path
+    context: str
+
+
+COMMON_SOURCE_WORDS = {
+    "A",
+    "An",
+    "And",
+    "As",
+    "At",
+    "But",
+    "Can",
+    "Chapter",
+    "Campaign",
+    "For",
+    "From",
+    "He",
+    "Her",
+    "His",
+    "I",
+    "If",
+    "In",
+    "Is",
+    "It",
+    "King",
+    "Kingdom",
+    "Lady",
+    "Let",
+    "Many",
+    "May",
+    "Minister",
+    "My",
+    "No",
+    "Now",
+    "Of",
+    "On",
+    "One",
+    "Only",
+    "Or",
+    "Our",
+    "She",
+    "Some",
+    "The",
+    "Their",
+    "There",
+    "These",
+    "They",
+    "This",
+    "To",
+    "Today",
+    "Two",
+    "When",
+    "Where",
+    "Which",
+    "While",
+    "Who",
+    "With",
+    "You",
+    "Your",
+    "Wesnoth",
+    "North",
+    "South",
+    "East",
+    "West",
+    "Grey",
+    "Great",
+    "New",
+    "Old",
+    "First",
+    "Last",
+    "End",
+    "Start",
+    "Level",
+    "Scenario",
+    "Unit",
+    "Gold",
+    "Damage",
+    "Attack",
+    "Armor",
+    "Armour",
+    "Mage",
+    "Warrior",
+    "Village",
+    "People",
+    "Game",
+    "Player",
+    "Side",
+    "Help",
+    "Time",
+    "Day",
+    "Night",
+    "Road",
+    "Town",
+    "Towns",
+    "Farm",
+    "Farms",
+    "Sword",
+    "Shield",
+    "Horse",
+    "Horses",
+    "Elves",
+    "Orcs",
+    "Dwarves",
+    "Human",
+    "Humans",
+    "Dragon",
+    "Dragons",
+    "Language",
+    "English",
+    "Korean",
+    "Japanese",
+    "Chinese",
+    "Lua",
+    "WML",
+}
+SOURCE_NAME_TOKEN = re.compile(
+    r"(?<![A-Za-z])[A-Z][A-Za-z0-9’'-]{2,}(?![A-Za-z])"
+)
+RAW_NAME_TOKEN = re.compile(
+    r"(?<![A-Za-z(])[A-Z][A-Za-z0-9’'-]{2,}(?![A-Za-z)])"
+)
+
+
+def candidate_context(source: str, translation: str) -> str:
+    source = " ".join(source.split())
+    translation = " ".join(translation.split())
+    return f"{source[:180]} => {translation[:220]}"
+
+
+def find_candidates(path: Path) -> list[NameCandidate]:
+    """Find source-name tokens that remain raw in a Korean translation."""
+    candidates: list[NameCandidate] = []
+    for block in path.read_text(encoding="utf-8").split("\n\n"):
+        obsolete = any(line.startswith("#~") for line in block.splitlines())
+        values = parse_field_values(obsolete_to_parseable(block) if obsolete else block)
+        source = values.get("msgid", "")
+        translation = values.get("msgstr", "")
+        if (
+            not source
+            or not translation
+            or source.count(",") >= 20
+            or "=" in source
+            or "{" in source
+            or (is_fuzzy(block) and not obsolete)
+            or "msgid_plural" in values
+            or "@" in source
+        ):
+            continue
+
+        source_tokens = set(SOURCE_NAME_TOKEN.findall(source))
+        for token in sorted(source_tokens & set(RAW_NAME_TOKEN.findall(translation))):
+            if token in COMMON_SOURCE_WORDS:
+                continue
+            candidates.append(
+                NameCandidate(
+                    token,
+                    path,
+                    candidate_context(source, translation),
+                )
+            )
+    return candidates
+
+
 def load_pairs(path: Path) -> tuple[list[NamePair], list[str]]:
     by_source: dict[str, list[NamePair]] = {}
     with path.open(encoding="utf-8", newline="") as stream:
@@ -312,9 +478,31 @@ def main() -> int:
     parser.add_argument("--glossary", type=Path, default=GLOSSARY)
     parser.add_argument("--work", type=Path, default=WORK_KO)
     parser.add_argument("--check", action="store_true")
+    parser.add_argument(
+        "--candidates",
+        action="store_true",
+        help="report raw source-name candidates missing from the glossary",
+    )
     args = parser.parse_args()
 
     pairs, conflicts = load_pairs(args.glossary)
+    if args.candidates:
+        candidates: dict[tuple[str, str], NameCandidate] = {}
+        for path in sorted(args.work.glob("*.po")):
+            for candidate in find_candidates(path):
+                key = (candidate.path.name, candidate.source)
+                candidates.setdefault(key, candidate)
+        for candidate in sorted(
+            candidates.values(),
+            key=lambda item: (item.path.name, item.source),
+        ):
+            print(
+                f"candidate={candidate.path.name}:{candidate.source}\t"
+                f"{candidate.context}"
+            )
+        print(f"candidates={len(candidates)}")
+        return 1 if candidates else 0
+
     SOURCE_PATTERNS.update(
         {
             pair.source: re.compile(

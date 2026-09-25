@@ -2236,7 +2236,7 @@ msgstr "에챠르프(Echarp)"
 msgid ""
 "What is this? Are you mad?! Humans are to besiege our fortress at Prestim "
 "and you are fighting each other?!"
-msgstr "이게 무슨 짓인가? 자네들 미쳤는가? 인간들이 우리 요새 프레스팀을 포위하고 있는데 서로 싸우고 있다니?!"
+msgstr "이게 무슨 짓인가? 자네들 미쳤는가? 인간들이 우리 요새 프레스팀(Prestim)을 포위하고 있는데 서로 싸우고 있다니?!"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:167
@@ -2291,7 +2291,7 @@ msgstr "고맙소."
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:195
 msgid "Did you hear? There is a battle waiting for us at Prestim!"
-msgstr "들었어요? 프레스팀에서 싸움이 있대요!"
+msgstr "들었어요? 프레스팀(Prestim)에서 싸움이 있대요!"
 
 #. [message]: speaker=Echarp
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:199
@@ -2299,7 +2299,7 @@ msgid ""
 "Kapou’e, if Prestim falls, humans will have a strong bridgehead on this side "
 "of the river and your people won’t be safe. You are the only one that can "
 "help us defend Prestim!"
-msgstr "카포우에, 프레스팀이 함락되면, 인간들은 강 건너편에서 강력한 교두보를 확보하게 되고 우리 종족은 안전을 잃게 되네. 자네가 프레스팀을 방어해낼 수 있는 유일한 인물이야!"
+msgstr "카포우에, 프레스팀(Prestim)이 함락되면, 인간들은 강 건너편에서 강력한 교두보를 확보하게 되고 우리 종족은 안전을 잃게 되네. 자네가 프레스팀(Prestim)을 방어해낼 수 있는 유일한 인물이야!"
 
 #. [message]: speaker=Pirk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:203
@@ -2312,7 +2312,7 @@ msgid ""
 "Go defend Prestim, Kapou’e. In the meantime, now that the Council is "
 "complete again, we will decide. We may have to form the Great Horde again "
 "and make you its leader."
-msgstr "카포우에, 프레스팀을 방어하십시오. 그 동안, 평의회가 다시 완성되므로 우리는 결정하겠습니다. 다시 큰 무리를 결성하고 당신을 그 대장로 삼아야 할지도 모릅니다."
+msgstr "카포우에, 프레스팀(Prestim)을 방어하십시오. 그 동안, 평의회가 다시 완성되므로 우리는 결정하겠습니다. 다시 큰 무리를 결성하고 당신을 그 대장로 삼아야 할지도 모릅니다."
 
 #. [message]: speaker=Shan Taum
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:248
@@ -2380,7 +2380,7 @@ msgid ""
 "Reinforcements, at last! Whoever you are, you are welcome in Prestim! The "
 "fortified bridge over the River Bork was taken this morning by a small "
 "commando of elves. We have already tried to assault it twice without success."
-msgstr "마침내 원군이 왔구나! 당신이 누구든 프레스팀에 온 것을 환영하오! 보르크 강 위에 놓인 요새화된 다리가 오늘 아침 엘프 특공대원들에게 점령당했소. 우린 두번이나 재탈환을 시도했지만 실패했소."
+msgstr "마침내 원군이 왔구나! 당신이 누구든 프레스팀(Prestim)에 온 것을 환영하오! 보르크 강 위에 놓인 요새화된 다리가 오늘 아침 엘프 특공대원들에게 점령당했소. 우린 두번이나 재탈환을 시도했지만 실패했소."
 
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:196
@@ -2442,7 +2442,7 @@ msgid ""
 "Hey look, that tribe of orcs that destroyed my enclave in the Silent Forest "
 "have reinforced Prestim. It is time to avenge the death of our fallen kin my "
 "friends — get them!"
-msgstr "저기 봐라, 침묵의 숲에 있던 내 주거지를 파괴한 오크 부족이 프레스팀을 지원하러 왔다. 친구들이여 복수의 시간이 왔다 — 잡아라!"
+msgstr "저기 봐라, 침묵의 숲에 있던 내 주거지를 파괴한 오크 부족이 프레스팀(Prestim)을 지원하러 왔다. 친구들이여 복수의 시간이 왔다 — 잡아라!"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:232
@@ -2461,7 +2461,7 @@ msgstr "이나릭스(Inarix)"
 msgid ""
 "Hurry-hurry, friends. Lanbec’h and his kind are right on our tails, we must "
 "reach Prestim quickly."
-msgstr "빨리빨리, 친구들. 란벡흐와 놈들이 바로 뒤에 따라온다, 어서 프레스팀에 들어가자."
+msgstr "빨리빨리, 친구들. 란벡흐와 놈들이 바로 뒤에 따라온다, 어서 프레스팀(Prestim)에 들어가자."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:341
@@ -2617,7 +2617,7 @@ msgstr "군대들의 격돌"
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_of_Armies.cfg:20
 msgid "Defend Prestim successfully for four days"
-msgstr "4일간 프레스팀을 완벽하게 방어하라"
+msgstr "4일간 프레스팀(Prestim)을 완벽하게 방어하라"
 
 #. [objective]: condition=lose
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_of_Armies.cfg:25
@@ -2647,7 +2647,7 @@ msgstr "우리는 모두 전투태세를 갖췄고, 놈들은 공격을 준비�
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_of_Armies.cfg:260
 msgid "Prestim’s walls are rock-hard, they’ll waste themselves on them."
-msgstr "프레스팀의 벽은 단단하니, 놈들은 시간만 날려먹을거에요."
+msgstr "프레스팀(Prestim)의 벽은 단단하니, 놈들은 시간만 날려먹을거에요."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_of_Armies.cfg:265
@@ -2663,7 +2663,7 @@ msgid ""
 "once. This Earl Lanbec’h must know they can’t break through by only fording "
 "the river where the bridge previously stood, so he must have a better plan "
 "than that."
-msgstr "그건 확신할 수 없다. 모든 요새에는 약점이 있어. 프레스팀의 벽은 강하지만 길어서, 방어하려면 한번에 여러 지점에 서야 한다. 이 란벡흐 백작도 자기들이 예전에 다리가 있던 지점으로 강을 건너기만 해서는 뚫을 수 없다는 걸 알테니 뭔가 더 나은 방책을 생각해 뒀을거야."
+msgstr "그건 확신할 수 없다. 모든 요새에는 약점이 있어. 프레스팀(Prestim)의 벽은 강하지만 길어서, 방어하려면 한번에 여러 지점에 서야 한다. 이 란벡흐 백작도 자기들이 예전에 다리가 있던 지점으로 강을 건너기만 해서는 뚫을 수 없다는 걸 알테니 뭔가 더 나은 방책을 생각해 뒀을거야."
 
 #. [message]: role=cannonfodder
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_of_Armies.cfg:270
@@ -2692,7 +2692,7 @@ msgid ""
 "Fool! We can hold that long. But we have to have Prestim firmly in control "
 "when the shamans arrive with the Great Horde. We can’t let the humans "
 "establish a foothold on this side of the river..."
-msgstr "멍청하긴! 우린 그정도는 버틸 수 있다. 하지만 주술사들이 큰 무리와 함께 와 있을때 우린 프레스팀을 확실하게 장악하고 있어야해. 인간들이 강 이쪽에 발판을 마련하게 둬선 안된다..."
+msgstr "멍청하긴! 우린 그정도는 버틸 수 있다. 하지만 주술사들이 큰 무리와 함께 와 있을때 우린 프레스팀(Prestim)을 확실하게 장악하고 있어야해. 인간들이 강 이쪽에 발판을 마련하게 둬선 안된다..."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_of_Armies.cfg:295
@@ -2759,7 +2759,7 @@ msgstr "우리가 왔네!"
 msgid ""
 "What’s this? This weakling has let humans enter Prestim? I will lead the "
 "horde and push them to the river!"
-msgstr "이게 뭐야? 이 약골이 인간들을 프레스팀 안으로 들였어? 내가 무리를 이끌고 놈들을 강으로 밀어넣겠다!"
+msgstr "이게 뭐야? 이 약골이 인간들을 프레스팀(Prestim) 안으로 들였어? 내가 무리를 이끌고 놈들을 강으로 밀어넣겠다!"
 
 #. [message]: role=greathordewarlord2
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_of_Armies.cfg:1189
@@ -2779,7 +2779,7 @@ msgstr "저걸 봐라, 멍청한 오크들이 자기들끼리 싸우기 시작�
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_of_Armies.cfg:1206
 #| msgid "Here we are! Hold on Prestim, we arrive to push them to the river!"
 msgid "Here we are! Hold on Prestim, we will help you push them to the river!"
-msgstr "우리가 왔네! 프레스팀을 지키게, 우리가 놈들을 강으로 밀어버릴 수 있게 돕겠네!"
+msgstr "우리가 왔네! 프레스팀(Prestim)을 지키게, 우리가 놈들을 강으로 밀어버릴 수 있게 돕겠네!"
 
 #. [message]: speaker=Earl Lanbec'h
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_of_Armies.cfg:1211
@@ -2802,7 +2802,7 @@ msgid ""
 "Your defense of Prestim was heroic, facing such opposition surely undermined "
 "the morale of the humans. Now they are retreating to their fortresses and "
 "will not venture out again anytime soon."
-msgstr "자네의 프레스팀 방어전은 영웅적이었네, 이정도의 저항을 받았으니 필시 인간들의 사기도 떨어졌겠지. 이제 놈들은 자기들의 요새로 퇴각해서 다시는 나오지 못할걸세."
+msgstr "자네의 프레스팀(Prestim) 방어전은 영웅적이었네, 이정도의 저항을 받았으니 필시 인간들의 사기도 떨어졌겠지. 이제 놈들은 자기들의 요새로 퇴각해서 다시는 나오지 못할걸세."
 
 #. [message]: speaker=Pirk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/11_Clash_of_Armies.cfg:1243
@@ -2912,7 +2912,7 @@ msgid ""
 "Kapou’e himself — desiring to settle this business once and for all — led "
 "his remaining forces to Dorest, the human city due southeast of Prestim, to "
 "which Earl Lanbec’h had retreated."
-msgstr "카포우에 자신은 이 일을 최종적으로 끝맺기 위해 그의 남은 병력을 란벡흐 백작이 퇴각해 간 프레스팀 남동쪽의 인간 도시 도레스트로 진군시켰다."
+msgstr "카포우에 자신은 이 일을 최종적으로 끝맺기 위해 그의 남은 병력을 란벡흐 백작이 퇴각해 간 프레스팀(Prestim) 남동쪽의 인간 도시 도레스트로 진군시켰다."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/12_Giving_Some_Back.cfg:226
@@ -4556,7 +4556,7 @@ msgstr "큰 무리: 모든 유닛의 유지비가 1 감소합니다."
 #~ "Then, Kapou’e launched his desperate attack to break the siege of Barag "
 #~ "Gór."
 #~ msgstr ""
-#~ "그렇게, Kapou'e는 Barag Gór의 포위를 뚫기 위한 필사적인 공격을 감행했다."
+#~ "그렇게, 카푸에(Kapou'e)는 바락 고르(Barag Gór)의 포위를 뚫기 위한 필사적인 공격을 감행했다."
 
 #~ msgid "Good. Reinforcements at last!"
 #~ msgstr "좋아. 드디어 원군이 왔다!"
@@ -4567,7 +4567,7 @@ msgstr "큰 무리: 모든 유닛의 유지비가 1 감소합니다."
 #~ msgstr "그렇소! 이제 갈아먹을 나무붙이들을 숲으로 몰아냅시다!"
 
 #~ msgid "Then, the battle for Prestim began."
-#~ msgstr "그리고, Prestim 전투가 시작되었다."
+#~ msgstr "그리고, 프레스팀(Prestim) 전투가 시작되었다."
 
 #~ msgid "I obey."
 #~ msgstr "알겠습니다."

@@ -908,7 +908,7 @@ msgstr "놈들은 격렬하게 저항했습니다. 아직 전투는 끝나지 �
 #. [message]: id=Mutaf-uru
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/03_Kalian_under_Attack.cfg:522
 msgid "Go, report this news to the warlord Grubr."
-msgstr "가라, 이 소식을 Grubr 장군에게 전하도록."
+msgstr "가라, 이 소식을 그루브르(Grubr) 장군에게 전하도록."
 
 #. [message]: id=Urudin
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter1/03_Kalian_under_Attack.cfg:526
@@ -3067,7 +3067,7 @@ msgid ""
 "The orcish forces are encamped south of the Great River, and have surrounded "
 "the fortified human settlement at Tath. The humans are sending all their "
 "forces there. We need to decide whether we will help them or not."
-msgstr "오크 병력은 한강 남쪽에 기지를 세우고 타쓰의 요새화된 인간 거주지를 포위했습니다. 인간족은 전 병력을 그쪽으로 보내고 있습니다. 우리는 그들을 도울지 말지를 결정해야 합니다."
+msgstr "오크 병력은 한강 남쪽에 기지를 세우고 타쓰(Tath)의 요새화된 인간 거주지를 포위했습니다. 인간족은 전 병력을 그쪽으로 보내고 있습니다. 우리는 그들을 도울지 말지를 결정해야 합니다."
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/13_News_from_the_Front.cfg:251
@@ -3315,7 +3315,7 @@ msgstr "왕께서 오셨다! 웨스노스(Wesnoth)의 왕 할드릭(Haldric) 2�
 #. [message]: speaker=unit
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/14_Human_Alliance.cfg:640
 msgid "Tath will fall! We have failed!"
-msgstr "타쓰는 이제 함락된다! 우리는 실패했어!!"
+msgstr "타쓰(Tath)는 이제 함락된다! 우리는 실패했어!!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/14_Human_Alliance.cfg:654
@@ -3455,7 +3455,7 @@ msgid ""
 "carry out Crelanu’s dangerous but necessary plan. Meanwhile Cleodil had, "
 "reluctantly, been training Kalenz in a selected few of the secrets of "
 "Crelanu’s book..."
-msgstr "타쓰에서의 전투가 지나고, 칼렌츠(Kalenz)와 란다르(Landar)는 지금이 크렐라누(Crelanu)의 위험하지만 필요한 계획을 실행에 옮겨야 할때라는 것을 느꼈다. 한편 클레오딜(Cleodil)은 마지못해서 칼렌츠(Kalenz)에게 크렐라누(Crelanu)의 책에 있는 몇가지 엄선된 비밀들을 가르치고 있었다..."
+msgstr "타쓰(Tath)에서의 전투가 지나고, 칼렌츠(Kalenz)와 란다르(Landar)는 지금이 크렐라누(Crelanu)의 위험하지만 필요한 계획을 실행에 옮겨야 할때라는 것을 느꼈다. 한편 클레오딜(Cleodil)은 마지못해서 칼렌츠(Kalenz)에게 크렐라누(Crelanu)의 책에 있는 몇가지 엄선된 비밀들을 가르치고 있었다..."
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/16_The_Chief_Must_Die.cfg:45
@@ -3882,7 +3882,7 @@ msgstr "오르흐티브(Orhtib)"
 msgid ""
 "Before you die, know that you lost in Wesmere, you lost at Tath, you will "
 "lose here and that your Great Chief is dead!"
-msgstr "너희가 죽기 전에 알아둬라, 너희는 웨스미어(Wesmere)에서 패배했고, 타쓰에서 패배했으며, 여기서도 패배할 것이고, 너희 큰 족장도 죽었다는것을!"
+msgstr "너희가 죽기 전에 알아둬라, 너희는 웨스미어(Wesmere)에서 패배했고, 타쓰(Tath)에서 패배했으며, 여기서도 패배할 것이고, 너희 큰 족장도 죽었다는것을!"
 
 #. [scenario]: id=18_Hour_of_Glory
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter4/18_Hour_of_Glory.cfg:3
@@ -4179,7 +4179,7 @@ msgid ""
 "risk further war with the orcs; to strike at the orcs north; and last to "
 "attack the saurians. These were decisions to be taken by the Council, not by "
 "a field commander!"
-msgstr "칼렌츠(Kalenz), 본 평의회는 그대의 행동에 대한 해명할 것을 요구하기 위해 그대를 소환하였소. 당신은 타쓰에서 인간들을 돕기로 결정했고, 그것으로 이후에 오크들과 전쟁이 일어날 것을 감수했고, 이후 북부의 오크들과 싸웠고, 마침내 사우리안들과도 싸웠소. 이러한 결정은 본 평의회에서 내리는 결정이지, 한낱 야전 사령관이 결정할 문제가 아니오!"
+msgstr "칼렌츠(Kalenz), 본 평의회는 그대의 행동에 대한 해명할 것을 요구하기 위해 그대를 소환하였소. 당신은 타쓰(Tath)에서 인간들을 돕기로 결정했고, 그것으로 이후에 오크들과 전쟁이 일어날 것을 감수했고, 이후 북부의 오크들과 싸웠고, 마침내 사우리안들과도 싸웠소. 이러한 결정은 본 평의회에서 내리는 결정이지, 한낱 야전 사령관이 결정할 문제가 아니오!"
 
 #. [part]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/20_Council_Ruling.cfg:31
@@ -4947,7 +4947,7 @@ msgstr "아, 안돼! 너무 늦어버렸어..."
 #~ msgstr "적 지휘관들을 격파"
 
 #~ msgid "Grubr"
-#~ msgstr "Grubr"
+#~ msgstr "그루브르(Grubr)"
 
 #~ msgid ""
 #~ "<i>The Legend of Wesmere</i>\n"

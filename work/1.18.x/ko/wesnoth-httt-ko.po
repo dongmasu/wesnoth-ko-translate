@@ -6338,7 +6338,7 @@ msgid ""
 "Just the other day ... hmm ... I was speaking with that twig ... alam ... "
 "alam dum ... Thorodor? Hmm ... yes ... hum ... he said you took a ... alam "
 "har ... nasty blow to the head ... hmm ... and he feared you were dead."
-msgstr "얼마 전 ... 흠 ... 저 나뭇가지와 이야기를 나눴지 ... 알람 ... 알람 둠 ... Thorodor? 흠 ... 그래 ... 흠 ... 그가 말하길 네가 ... 알람 하르 ... 머리를 심하게 다쳤고 ... 흠 ... 네가 죽었을까 봐 걱정했다고 하더구나."
+msgstr "얼마 전 ... 흠 ... 저 나뭇가지와 이야기를 나눴지 ... 알람 ... 알람 둠 ... 토로도르(Thorodor)? 흠 ... 그래 ... 흠 ... 그가 말하길 네가 ... 알람 하르 ... 머리를 심하게 다쳤고 ... 흠 ... 네가 죽었을까 봐 걱정했다고 하더구나."
 
 #. [message]: speaker=Delfador
 #. Over 50 years ago, probably 52, to be more precise.
@@ -6368,7 +6368,7 @@ msgid ""
 "When you asked Thorodor for ... harum ... assistance? Hmm ... hmm ... He "
 "thought you meant the book ... har hmm ... but you had rushed off ... "
 "alam ... alam dum ... and died before he could tell you I have it."
-msgstr "네가 Thorodor에게 ... 하룸 ... 도움을 청했을 때 말이다? 흠 ... 흠 ... 그는 네가 그 책을 말하는 줄 알았지 ... 하르 흠 ... 하지만 네가 서둘러 떠나 버렸고 ... 알람 ... 알람 둠 ... 그가 내가 그 책을 가지고 있다고 말하기도 전에 죽었단다."
+msgstr "네가 토로도르(Thorodor)에게 ... 하룸 ... 도움을 청했을 때 말이다? 흠 ... 흠 ... 그는 네가 그 책을 말하는 줄 알았지 ... 하르 흠 ... 하지만 네가 서둘러 떠나 버렸고 ... 알람 ... 알람 둠 ... 그가 내가 그 책을 가지고 있다고 말하기도 전에 죽었단다."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:563
@@ -6381,7 +6381,7 @@ msgid ""
 "I am sure ... dum hum ... well, the head ... alam lum alam ... yes, it was "
 "somewhere around here ... hum dum da dum ... Thorodor thought it ... hmm ... "
 "quite important ... lum harum dum ... perhaps near my home stump?"
-msgstr "분명히 ... 둠 흠 ... 그래, 머리 ... 알람 룸 알람 ... 그래, 이 근처 어딘가였지 ... 흠 둠 다 둠 ... Thorodor는 그 책이 ... 흠 ... 아주 중요하다고 생각했어 ... 룸 하룸 둠 ... 아마 내 집인 나무 그루터기 근처였을까?"
+msgstr "분명히 ... 둠 흠 ... 그래, 머리 ... 알람 룸 알람 ... 그래, 이 근처 어딘가였지 ... 흠 둠 다 둠 ... 토로도르(Thorodor)는 그 책이 ... 흠 ... 아주 중요하다고 생각했어 ... 룸 하룸 둠 ... 아마 내 집인 나무 그루터기 근처였을까?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:573
@@ -8088,7 +8088,7 @@ msgid ""
 "And Eldred did indeed meet Delfador face-to-face in battle, in the "
 "hinterlands near Tath. Sword clashed against staff, as the wise old mage "
 "fought the brash young warrior."
-msgstr "그리고 엘드레드(Eldred)는 Tath 근방에서 벌어진 전투에서 드디어 델파도르(Delfador)와 일대일로 맞붙게 되었다. 현명한 노마법사가 자신만만한 젊은 전사와 싸우면서 검과 지팡이가 격돌했다."
+msgstr "그리고 엘드레드(Eldred)는 타쓰(Tath) 근방에서 벌어진 전투에서 드디어 델파도르(Delfador)와 일대일로 맞붙게 되었다. 현명한 노마법사가 자신만만한 젊은 전사와 싸우면서 검과 지팡이가 격돌했다."
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/utils/intro.cfg:40

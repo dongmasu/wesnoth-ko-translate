@@ -4542,7 +4542,7 @@ msgstr "마을 관리는 승리의 열쇠다. 굳이 마을을 점령하지 않�
 #: data/tips.cfg:153
 #| msgid "<i>― King Konrad, 536YW</i>"
 msgid "<i>― Kai Laudiss, 623YW</i>"
-msgstr "<i>― 라우디스 카이, 웨스노스력 623년</i>"
+msgstr "<i>― 라우디스 카이(Kai), 웨스노스력 623년</i>"
 
 #. [tip]
 #: data/tips.cfg:156

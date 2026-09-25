@@ -242,6 +242,8 @@ VERSION="${WESNOTH_VERSION:-$(tr -d '\r\n' < VERSION)}"
 python3 -m unittest discover -s tests -v
 python3 tools/audit_glossary.py
 python3 tools/audit_po_structure.py
+python3 tools/audit_and_pair_embedded_names.py --candidates
+python3 tools/audit_and_pair_embedded_names.py --check
 find "work/$VERSION/ko" -name '*.po' -print0 |
   xargs -0 -n1 msgfmt --check --output-file=/dev/null
 ```

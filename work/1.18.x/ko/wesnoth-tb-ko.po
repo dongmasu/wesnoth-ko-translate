@@ -53,9 +53,7 @@ msgid ""
 "as planned. Can you help?\n"
 "\n"
 msgstr ""
-"사악한 마법사가 작은 마을 Maghre 사람들을 위협하고 있습니다. 마을의 마법사는 "
-"전사인 형에게 도움을 청했지만, 모든 것이 뜻대로 되지는 않네요. 당신의 도움이 "
-"필요합니다.\n"
+"사악한 마법사가 작은 마을 마그흐레(Maghre) 사람들을 위협하고 있습니다. 마을의 마법사는 전사인 형에게 도움을 청했지만, 모든 것이 뜻대로 되지는 않네요. 당신의 도움이 필요합니다.\n"
 "\n"
 
 #. [campaign]: id=Two_Brothers
@@ -115,7 +113,7 @@ msgid ""
 "comings and goings of the wider world. Wars and the rumor of wars touched "
 "them not. Even merchants were rarely seen, although caravans between Aldril "
 "and Dan’Tonk might send a wagon when called by the beacon tower."
-msgstr "웨스노스(Wesnoth) 왕국 서쪽 끝자락에 있는 자유민 마을 마그흐레는 한때 평화로운 마을로, 그곳 주민들은 바깥 세상에서 일어나는 일들을 거의 알지 못하고 살았다. 전쟁과 전쟁에 대한 소문은 그들에게 영향을 미치지 않았다. 심지어 상인들 조차 드물게 나타나는 편이었으며, 오직 알드릴과 단톤크 사이의 상인단은 봉화탑의 부름을 받을때만 마차를 보냈다."
+msgstr "웨스노스(Wesnoth) 왕국 서쪽 끝자락에 있는 자유민 마을 마그흐레(Maghre)는 한때 평화로운 마을로, 그곳 주민들은 바깥 세상에서 일어나는 일들을 거의 알지 못하고 살았다. 전쟁과 전쟁에 대한 소문은 그들에게 영향을 미치지 않았다. 심지어 상인들 조차 드물게 나타나는 편이었으며, 오직 알드릴(Aldril)과 단톤크 사이의 상인단은 봉화탑의 부름을 받을때만 마차를 보냈다."
 
 #. [part]
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:57
@@ -151,7 +149,7 @@ msgid ""
 "sires and grandsires hanging in many houses, and bade the villagers to take "
 "them down and clean and oil them. He set the smiths of Maghre to making "
 "spearheads and ax-blades for the rest."
-msgstr "당시에 바란(Baran)이라는 사내가 있었는데, 그는 어릴적에 마법에 재능을 보여 알두인(Alduin) 섬의 큰 마법학교에 들어갔으며, 자신의 고향을 위해 마법을 쓰고자 돌아온 사람이었다. 사람들은 그를 찾아가 도움을 청하고 그들을 이끌어 줄 것을 부탁했다. 그는 그들의 선조와 그 선조 대부터 반쯤은 잊혀진 채로 집안에 걸려있던 무기들을 찾아내고 마을 사람들이 그것들을 끌어내려 닦고 기름치도록 독려했다. 또한 그는 그런 것이 없는 나머지 사람들을 위해 마그흐레의 대장장이들에게 창머리와 도끼날을 만들 것을 지시했다."
+msgstr "당시에 바란(Baran)이라는 사내가 있었는데, 그는 어릴적에 마법에 재능을 보여 알두인(Alduin) 섬의 큰 마법학교에 들어갔으며, 자신의 고향을 위해 마법을 쓰고자 돌아온 사람이었다. 사람들은 그를 찾아가 도움을 청하고 그들을 이끌어 줄 것을 부탁했다. 그는 그들의 선조와 그 선조 대부터 반쯤은 잊혀진 채로 집안에 걸려있던 무기들을 찾아내고 마을 사람들이 그것들을 끌어내려 닦고 기름치도록 독려했다. 또한 그는 그런 것이 없는 나머지 사람들을 위해 마그흐레(Maghre)의 대장장이들에게 창머리와 도끼날을 만들 것을 지시했다."
 
 #. [part]
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:68
@@ -168,7 +166,7 @@ msgid ""
 "as guards to merchant caravans. Fortunate it was for all that, in better "
 "times, the brothers had talked of using trade beacons for other signals when "
 "in dire need. Baran sent out that call."
-msgstr "바란(Baran)에게는 자기 자신의 운명을 개척하고자 마그흐레를 떠나서 주로 상단 경비들을 지휘하는 작은 기병대의 대장이 된 형 아르비쓰(Arvith)가 있었다. 다행히도, 좋았던 시절에 형제는 긴급히 필요할 때 무역 봉화를 다른 신호로 사용하자고 이야기했었다. 바란(Baran)이 그 신호를 보냈다."
+msgstr "바란(Baran)에게는 자기 자신의 운명을 개척하고자 마그흐레(Maghre)를 떠나서 주로 상단 경비들을 지휘하는 작은 기병대의 대장이 된 형 아르비쓰(Arvith)가 있었다. 다행히도, 좋았던 시절에 형제는 긴급히 필요할 때 무역 봉화를 다른 신호로 사용하자고 이야기했었다. 바란(Baran)이 그 신호를 보냈다."
 
 #. [part]
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:72
@@ -211,7 +209,7 @@ msgstr ""
 msgid ""
 "Heeding the call, Arvith gathered such men as he could and hurried to Maghre "
 "to help Baran."
-msgstr "그 부름에 귀를 기울인 아르비쓰(Arvith)는 가능한 한 많은 사람들을 모아 바란(Baran)을 돕기 위해 서둘러 마그흐레로 갔다."
+msgstr "그 부름에 귀를 기울인 아르비쓰(Arvith)는 가능한 한 많은 사람들을 모아 바란(Baran)을 돕기 위해 서둘러 마그흐레(Maghre)로 갔다."
 
 #. [side]
 #. [side]: type=Longbowman, id=Reeve Hoban
@@ -323,7 +321,7 @@ msgstr "이게 다요? 형님 마음이해는 하지만, 그래도..."
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:207
 msgid "You called, and I came; be content with that. What ails Maghre?"
-msgstr "네가 불러서 내가 왔잖느냐. 그걸로 만족해라. 우리 마을 마그흐레를 괴롭히는게 어떤놈이냐?"
+msgstr "네가 불러서 내가 왔잖느냐. 그걸로 만족해라. 우리 마을 마그흐레(Maghre)를 괴롭히는게 어떤놈이냐?"
 
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:212
@@ -337,7 +335,7 @@ msgid ""
 "terrorizing outlying farms, and we fear they may soon attack the village "
 "itself! The villagers of Maghre have taken up weapons but they are not "
 "trained fighters; we need your men, and you to lead them."
-msgstr "한 흑마법사가 우리에게 왔었소. 그의 피조물들은 모르닥(Mordak)이라고 부릅디다. 놈들은 이미 변두리 농장들을 공포에 떨게 했고, 곧 이 마을에 직접 쳐들어올까 두려워하고 있소! 마그흐레의 주민들은 무기를 가지고 있지만 그들은 훈련된 전사들은 아니오. 우리는 형님의 부하들이 필요하고, 그들을 이끌 형님도 필요하오."
+msgstr "한 흑마법사가 우리에게 왔었소. 그의 피조물들은 모르닥(Mordak)이라고 부릅디다. 놈들은 이미 변두리 농장들을 공포에 떨게 했고, 곧 이 마을에 직접 쳐들어올까 두려워하고 있소! 마그흐레(Maghre)의 주민들은 무기를 가지고 있지만 그들은 훈련된 전사들은 아니오. 우리는 형님의 부하들이 필요하고, 그들을 이끌 형님도 필요하오."
 
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:217
@@ -513,7 +511,7 @@ msgid ""
 "Besides... I want my brother back."
 msgstr ""
 "363 YW 5월 16일\n"
-"Maghre의 아르비쓰(Arvith)의 일기에서 발췌.\n"
+"마그흐레(Maghre)의 아르비쓰(Arvith)의 일기에서 발췌.\n"
 "\n"
 "하지만 난 이제 미신 따위는 뛰어넘었다. 나는 세상을 떠돌면서 이런 종류의 이야기들 뒤에 숨겨진 진실을 예측해낼 수 있게 되었다. 숲 속엔 엘프들이 산다. 전설에 어떤 근거가 있다면 우호적인 이들은 아닐 것이다. 부하들이 걱정이다. 기마는 숲 속에선 잘 싸우지 못하고, 엘프들은 자기들 영토에선 더욱 위험해질 것이다. 하지만 해야할 일과 풀어야할 의문들이 있다. 뭔가 큰 일이 벌어지고 있다. 네크로맨서 하나가 마을을 공포에 몰아넣는건 별다른 일이 아니지만, 어째서 그를 죽였는데도 그 하인들은 사라지지 않았을까? 그들은 어디로 향한 것일까? 그리고 더 중요한 것, 어째서 그들은 바란(Baran)을 잡아갔는가?\n"
 "\n"
@@ -1369,7 +1367,7 @@ msgid ""
 "given us plenty of time to talk."
 msgstr ""
 "363 YW 5월 27일\n"
-"Maghre의 바란(Baran)의 일기에서 발췌.\n"
+"마그흐레(Maghre)의 바란(Baran)의 일기에서 발췌.\n"
 "\n"
 "집에 거의 다 왔다. 지난 한주는 내게 수많은 감정들로 가득찬 나날이었다. 더없이 행복하면서도 동시에 곤란한 기분. 지하 감옥에서 나와서 다시 태양을 보고, 죽음이나 그보다 더 나쁜일을 상상하지 않아도 된다는 것은 정말 멋진 일이었다... 하지만 그와 함께, 나는 형에게 보답해야 한다는 그만큼 어려운 의무를 마주하게 되었다.\n"
 "\n"
@@ -1397,9 +1395,9 @@ msgid ""
 "something real?"
 msgstr ""
 "363 YW 5월 27일\n"
-"Maghre의 바란(Baran)의 일기에서 발췌.\n"
+"마그흐레(Maghre)의 바란(Baran)의 일기에서 발췌.\n"
 "\n"
-"비록 내 마음은 더 편해졌지만, 내 생각은 종종 Toen Caric의 그 때로 돌아간다. 우리는 큰 피해 없이 오크들을 격퇴해낼 수 있었다. 나만 아니었다면 아르비쓰(Arvith)가 입안한 협공 작전으로 충분히 승리할 수 있었던 것이다. 나는 무모하게도 내 부하들을 뒤에 내버려두었다. 나는 적의 무장을 부상입히고 그를 전장에서 몰아냈지만, 그 대가는 더욱 컸다. 내가 내 지휘하에 있던 이들과 함께 있었다면 그들은 죽지 않았을 것이다.\n"
+"비록 내 마음은 더 편해졌지만, 내 생각은 종종 토엔 캐릭(Toen Caric)의 그 때로 돌아간다. 우리는 큰 피해 없이 오크들을 격퇴해낼 수 있었다. 나만 아니었다면 아르비쓰(Arvith)가 입안한 협공 작전으로 충분히 승리할 수 있었던 것이다. 나는 무모하게도 내 부하들을 뒤에 내버려두었다. 나는 적의 무장을 부상입히고 그를 전장에서 몰아냈지만, 그 대가는 더욱 컸다. 내가 내 지휘하에 있던 이들과 함께 있었다면 그들은 죽지 않았을 것이다.\n"
 "\n"
 "나는 아르비쓰(Arvith)가 그들의 죽음에 분노했던 점을 탓할 수도, 내가 저지른 잘못을 되돌릴 수도 없지만, 아무래도 시간이 어느정도 약이 되었던 것 같다. 우리는 형제로서 다시 마을에 돌아왔다.\n"
 "\n"
@@ -1495,14 +1493,14 @@ msgstr "돌아오신 걸 보니 기쁘군요."
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:255
 msgid "No gladder than I am to be here. But what has happened to Maghre?"
-msgstr "설마 나만큼 기쁘겠는가. 근데 마그흐레에 무슨 일이 일어난건가?"
+msgstr "설마 나만큼 기쁘겠는가. 근데 마그흐레(Maghre)에 무슨 일이 일어난건가?"
 
 #. [message]: speaker=Reeve Hoban
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:260
 msgid ""
 "Soon after you departed we were beset by orcs. With half the men of Maghre "
 "gone, we could not stop them."
-msgstr "여러분이 떠난 직후에 우린 오크에게 포위당했습니다. 마그흐레 사람들 절반이 희생당하고도 그들의 진격을 막을 수 없었습니다."
+msgstr "여러분이 떠난 직후에 우린 오크에게 포위당했습니다. 마그흐레(Maghre) 사람들 절반이 희생당하고도 그들의 진격을 막을 수 없었습니다."
 
 #. [message]: speaker=Reeve Hoban
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:265
@@ -1597,9 +1595,9 @@ msgid ""
 "new patron, I have asked leave of him to visit my brother and he gave it."
 msgstr ""
 "365YW 9월 22일\n"
-"Maghre의 아르비쓰(Arvith)의 일기에서 발췌.\n"
+"마그흐레(Maghre)의 아르비쓰(Arvith)의 일기에서 발췌.\n"
 "\n"
-"Maghre는 지난번에 보았을 때보다 훨씬 나아진 모습이다. 바란(Baran)은 2년 만에 기적을 일궈냈다. 마을은 재건되었고, 주변의 농장들도 복구되었으며 사람들은 다시 일하고 있다. 아우의 우려에도 불구하고 우리 마을 사람들에겐 그 어떤 위협도 없다.\n"
+"마그흐레(Maghre)는 지난번에 보았을 때보다 훨씬 나아진 모습이다. 바란(Baran)은 2년 만에 기적을 일궈냈다. 마을은 재건되었고, 주변의 농장들도 복구되었으며 사람들은 다시 일하고 있다. 아우의 우려에도 불구하고 우리 마을 사람들에겐 그 어떤 위협도 없다.\n"
 "\n"
 "지난 두 해동안 떠나 있는 것은 예전보다 더 힘든 일이었지만, 나와 바란(Baran)은 서로의 할일이 있었고, 우리가 만날 기회는 거의 없었다. 하지만 우리 용병단은 새로운 고객을 맞아 왕국의 이 지역을 지나게 되었고, 나는 양해를 구하고 아우를 만나러 갔다."
 
@@ -1617,7 +1615,7 @@ msgid ""
 "In the meantime, though, it’s good to relax and enjoy the peace."
 msgstr ""
 "365YW 9월 22일\n"
-"Maghre의 아르비쓰(Arvith)의 일기에서 발췌.\n"
+"마그흐레(Maghre)의 아르비쓰(Arvith)의 일기에서 발췌.\n"
 "\n"
 "이 고객이란, 하필이면 엘프다. 나는 엘프와 친구가 될거라고는 상상도 못해봤지만, 그는 다른 이들과는 달리 오만하지 않았다. 그는 칼렌츠(Kalenz)라고 한다. 그는 정말로 오래 살았다. 나는 그의 눈빛만 보고도 그걸 구분할 수 있다. 우리는 곧 일을 시작하게 될 듯하다.\n"
 "\n"
@@ -1710,10 +1708,10 @@ msgstr "실마리:"
 #~ msgstr "철문"
 
 #~ msgid "Arne"
-#~ msgstr "Arne"
+#~ msgstr "아른(Arne)"
 
 #~ msgid "Bjarn"
-#~ msgstr "Bjarn"
+#~ msgstr "비아른(Bjarn)"
 
 #~ msgid "Fargus"
 #~ msgstr "Fargus"
@@ -1761,9 +1759,7 @@ msgstr "실마리:"
 #~ msgid ""
 #~ "Heedless of those rumors, Arne followed them. His only worry was that his "
 #~ "horsemen would be at disadvantage if attacked in the forest."
-#~ msgstr ""
-#~ "그런 소문들에는 신경쓰지 않고, Arne는 그들을 쫓았다. 그의 걱정은 오직 숲에"
-#~ "서 공격받을 경우 그의 기병들이 불리할 것이라는 점 뿐이었다."
+#~ msgstr "그런 소문들에는 신경쓰지 않고, 아른(Arne)는 그들을 쫓았다. 그의 걱정은 오직 숲에서 공격받을 경우 그의 기병들이 불리할 것이라는 점 뿐이었다."
 
 #~ msgid "Sounds of a scuffle were heard from the forest."
 #~ msgstr "숲 속에서 실랑이를 벌이는 소리가 들려온다."
@@ -1778,30 +1774,27 @@ msgstr "실마리:"
 #~ msgid ""
 #~ "Arne’s men arrived at the castle and were immediately challenged by some "
 #~ "guards."
-#~ msgstr "Arne의 부대가 성에 도착하자마자 경비대와 마주쳤다."
+#~ msgstr "아른(Arne)의 부대가 성에 도착하자마자 경비대와 마주쳤다."
 
 #~ msgid "Nooo! This is the end..."
 #~ msgstr "안돼-! 이걸로 끝..."
 
 #~ msgid ""
 #~ "Good to see you, Arne. Now can you get me out of this dungeon, please?"
-#~ msgstr "여기서 보니 반갑소, Arne. 이제 이 던전에서 꺼내줄 수 있겠소?"
+#~ msgstr "여기서 보니 반갑소, 아른(Arne). 이제 이 던전에서 꺼내줄 수 있겠소?"
 
 #~ msgid "Finally the warlord is killed. Now you can go back to Maghre."
-#~ msgstr "드디어 적장을 죽였다. 이제 자네는 Maghre로 돌아가면 되네."
+#~ msgstr "드디어 적장을 죽였다. 이제 자네는 마그흐레(Maghre)로 돌아가면 되네."
 
 #~ msgid ""
 #~ "It took years to rebuild the village and restore the surrounding farms. "
 #~ "The people of Maghre had to work very hard, but felt better knowing "
 #~ "Arne’s men would be their firm allies in troubled times."
-#~ msgstr ""
-#~ "마을을 재건하고 근방의 농장을 수복하는데는 수년이 걸렸다. Maghre의 사람들"
-#~ "은 힘들게 일해야 했지만, Arne와 부하들이 어려운 시기에 그들의 확고한 맹우"
-#~ "라는 사실을 알고 있었으므로 좀더 마음이 놓였다."
+#~ msgstr "마을을 재건하고 근방의 농장을 수복하는데는 수년이 걸렸다. 마그흐레(Maghre)의 사람들은 힘들게 일해야 했지만, 아른(Arne)와 부하들이 어려운 시기에 그들의 확고한 맹우라는 사실을 알고 있었으므로 좀더 마음이 놓였다."
 
 #~ msgid ""
 #~ "Arne and his men left the village assured that it would be well guided by "
 #~ "Bjarn. On their journeys they faced many challenges and battles. Some "
 #~ "tales even mention Arne’s name together with that of the famous elvish "
 #~ "lord Kalenz, but this is a different story..."
-#~ msgstr "Arne와 부하들은 Bjarn이 마을을 잘 이끌어나갈 거라는 확신을 갖고 떠났다. 그들은 여행 중에 많은 모험과 전투를 치렀다. 어떤 이야기들은 심지어 Arne의 이름을 저 유명한 엘프 로드 칼렌츠(Kalenz)와 함께 언급하지만, 이것은 또 다른 이야기이다..."
+#~ msgstr "아른(Arne)와 부하들은 비아른(Bjarn)이 마을을 잘 이끌어나갈 거라는 확신을 갖고 떠났다. 그들은 여행 중에 많은 모험과 전투를 치렀다. 어떤 이야기들은 심지어 아른(Arne)의 이름을 저 유명한 엘프 로드 칼렌츠(Kalenz)와 함께 언급하지만, 이것은 또 다른 이야기이다..."

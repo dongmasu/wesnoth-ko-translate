@@ -368,6 +368,10 @@ Codex, Claude, Gemini, Copilot 또는 사람이 작업하더라도 아래 원칙
    금지 대안 메모 유입·병기 원문 대응을 별도로 검사한다.
    `python3 tools/audit_and_pair_embedded_names.py --check`로 활성 및
    obsolete(`#~`) 긴 문자열의 고유명사 병기 누락과 중첩 병기를 검사한다.
+   `python3 tools/audit_and_pair_embedded_names.py --candidates`로 용어집에
+   아직 등록되지 않은 원문 고유명사 후보도 별도로 추출한다. 후보는 자동
+   번역하지 않고, 문맥을 확인해 용어집에 확정 등록한 뒤 병기 도구를 다시
+   실행한다. 코드·placeholder·생성 이름 목록·저작자 정보는 후보에서 제외한다.
    obsolete 항목도 삭제하지 않고 같은 표기 규칙으로 정리한다. 병기 실행 후에는
    `python3 tools/sync_glossary_korean.py`로 용어집과 정확한 PO 항목을
    동기화한다.

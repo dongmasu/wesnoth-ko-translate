@@ -1072,7 +1072,7 @@ msgid ""
 "for reinforcements, I remember there being a small outpost within a couple "
 "days’ ride of here. I will send a message to them asking for a few riders, "
 "then we should make haste toward the Aethenwood to find the elves."
-msgstr "좋습니다. 국왕께 원군을 요청하는 전령을 보내기에는 너무 오래 걸리겠지만, 여기서 말을 타고 며칠이면 닿는 곳에 작은 전초기지가 있었던 것으로 기억합니다. 그곳에 기수 몇 명을 보내 달라는 전갈을 보낸 뒤, 요정들을 찾으러 Aethenwood로 서둘러 가야 합니다."
+msgstr "좋습니다. 국왕께 원군을 요청하는 전령을 보내기에는 너무 오래 걸리겠지만, 여기서 말을 타고 며칠이면 닿는 곳에 작은 전초기지가 있었던 것으로 기억합니다. 그곳에 기수 몇 명을 보내 달라는 전갈을 보낸 뒤, 요정들을 찾으러 아에텐우드(Aethenwood)로 서둘러 가야 합니다."
 
 #. [scenario]: id=03_A_Desperate_Errand
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:5
@@ -1439,7 +1439,7 @@ msgid ""
 "to the darkness if they fight it alone. There is one elf who still remembers "
 "the secrets of the undead that we learned when Haldric I came to our land. "
 "His name is Mebrin, and he lives secluded in the hills south of here."
-msgstr "이 인간들은 이런 적과 맞설 만큼 용감하지만, 홀로 싸우면 어둠에 쓰러질까 걱정됩니다. 우리 땅에 할드릭(Haldric) 1세가 왔을 때 배운 언데드의 비밀을 아직 기억하는 엘프가 한 명 있습니다. 그의 이름은 Mebrin이며 이곳 남쪽 언덕에서 은둔해 살고 있습니다."
+msgstr "이 인간들은 이런 적과 맞설 만큼 용감하지만, 홀로 싸우면 어둠에 쓰러질까 걱정됩니다. 우리 땅에 할드릭(Haldric) 1세가 왔을 때 배운 언데드의 비밀을 아직 기억하는 엘프가 한 명 있습니다. 그의 이름은 메브린(Mebrin)이며 이곳 남쪽 언덕에서 은둔해 살고 있습니다."
 
 #. [message]: speaker=Ithelden
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:529
@@ -1447,7 +1447,7 @@ msgid ""
 "Are you sure about this? The road south is no longer as safe as it once was, "
 "and Mebrin is not as powerful as he once was. You would not presume to put "
 "one of our great sages in danger, Ethiliel."
-msgstr "정말 확실한가? 남쪽 길은 예전만큼 안전하지 않고, Mebrin도 예전만큼 강하지 않네. 우리 위대한 현자 중 한 명을 위험에 빠뜨리려 하지는 말게, 에틸리엘(Ethiliel)."
+msgstr "정말 확실한가? 남쪽 길은 예전만큼 안전하지 않고, 메브린(Mebrin)도 예전만큼 강하지 않네. 우리 위대한 현자 중 한 명을 위험에 빠뜨리려 하지는 말게, 에틸리엘(Ethiliel)."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:534
@@ -1456,7 +1456,7 @@ msgid ""
 "whether or not he wants to help us. I will not ask you to place yourselves "
 "in danger for these humans, but you will not presume to tell me — nor Mebrin "
 "— what to do. Is that fair?"
-msgstr "<i>내가</i> 이 인간과 부하들을 Mebrin에게 데려가겠네. 그리고 우리를 도울지는 그가 결정할 수 있지. 이 인간들을 위해 자네들에게 위험을 감수하라고 하지는 않겠네. 하지만 내가, 아니 Mebrin이 어떻게 해야 하는지 자네들이 이래라저래라 할 수는 없네. 공평하지 않은가?"
+msgstr "<i>내가</i> 이 인간과 부하들을 메브린(Mebrin)에게 데려가겠네. 그리고 우리를 도울지는 그가 결정할 수 있지. 이 인간들을 위해 자네들에게 위험을 감수하라고 하지는 않겠네. 하지만 내가, 아니 메브린(Mebrin)이 어떻게 해야 하는지 자네들이 이래라저래라 할 수는 없네. 공평하지 않은가?"
 
 #. [message]: speaker=Ithelden
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:539
@@ -1520,7 +1520,7 @@ msgstr "눈물의 계곡을 청소할 것"
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:230
 msgid "Move Ethiliel to Mebrin’s village"
-msgstr "에틸리엘(Ethiliel)을 Mebrin의 은거지로 이동시킬 것"
+msgstr "에틸리엘(Ethiliel)을 메브린(Mebrin)의 은거지로 이동시킬 것"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:246
@@ -1586,7 +1586,7 @@ msgid ""
 "them all nonetheless. Now, listen well to me, humans. The Great Sage Mebrin "
 "is ancient and remembers well Haldric’s betrayal of the elves. Should one of "
 "you set foot in his village first, he will certainly drive us away!"
-msgstr "어둠의 존재들의 도움 없이는 감히 그러지 못했겠지만, 그래도 우리는 모두를 물리칠 것이다. 인간들이여, 이제 내 말을 잘 들어라. 대현자 Mebrin은 아주 오래 살았고 할드릭(Haldric)이 엘프를 배신한 일을 잘 기억한다. 너희 중 하나라도 그의 마을에 먼저 발을 들이면, 그는 분명 우리를 쫓아낼 것이다!"
+msgstr "어둠의 존재들의 도움 없이는 감히 그러지 못했겠지만, 그래도 우리는 모두를 물리칠 것이다. 인간들이여, 이제 내 말을 잘 들어라. 대현자 메브린(Mebrin)은 아주 오래 살았고 할드릭(Haldric)이 엘프를 배신한 일을 잘 기억한다. 너희 중 하나라도 그의 마을에 먼저 발을 들이면, 그는 분명 우리를 쫓아낼 것이다!"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:306
@@ -1600,7 +1600,7 @@ msgid ""
 "Mebrin can be... difficult, yes. However, should we cleanse the valley and "
 "restore peace to his home, I am sure he will accept your request for his "
 "aid. That is, so long as I am the one who makes the request to him."
-msgstr "Mebrin은... 상대하기 까다로울 수 있지. 하지만 우리가 계곡을 정화하고 그의 집에 평화를 되찾아 준다면, 그가 자네들의 도움 요청을 받아들일 것이라 확신하네. 물론 그에게 요청하는 사람이 나여야 하겠지만."
+msgstr "메브린(Mebrin)은... 상대하기 까다로울 수 있지. 하지만 우리가 계곡을 정화하고 그의 집에 평화를 되찾아 준다면, 그가 자네들의 도움 요청을 받아들일 것이라 확신하네. 물론 그에게 요청하는 사람이 나여야 하겠지만."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:316
@@ -1641,7 +1641,7 @@ msgstr ""
 msgid ""
 "We must clear out these undead if you are to reach Mebrin’s village, but our "
 "weapons are ineffective against them! What should we do?"
-msgstr "Mebrin의 마을에 가려면 이 언데드들을 몰아내야 하지만, 우리의 무기는 놈들에게 효과가 없습니다! 어떻게 해야 합니까?"
+msgstr "메브린(Mebrin)의 마을에 가려면 이 언데드들을 몰아내야 하지만, 우리의 무기는 놈들에게 효과가 없습니다! 어떻게 해야 합니까?"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:384
@@ -1728,7 +1728,7 @@ msgstr "그럴지도 모르지만, 적어도 너는 더 이상 우리를 괴롭�
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:642
 msgid "Mebrin! Are you there? We have come to seek your aid!"
-msgstr "Mebrin! 계세요? 당신의 도움이 필요해서 왔습니다!"
+msgstr "메브린(Mebrin)! 계세요? 당신의 도움이 필요해서 왔습니다!"
 
 #. [message]: speaker=narrator
 #. [message]: speaker=Kramak
@@ -1743,7 +1743,7 @@ msgstr "..."
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:653
 msgid "Mebrin! Where are you?!"
-msgstr "Mebrin! 어디 계세요?!"
+msgstr "메브린(Mebrin)! 어디 계세요?!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:664
@@ -1822,13 +1822,13 @@ msgstr "마침내 요정들이 자신들의 계곡을 지키러 왔군. 안됐�
 msgid ""
 "They have reached Mebrin’s village before us! We have no hope of obtaining "
 "his aid now..."
-msgstr "그들이 우리보다 먼저 Mebrin의 마을에 도착했군! 이제 그의 도움을 받을 희망은 없어..."
+msgstr "그들이 우리보다 먼저 메브린(Mebrin)의 마을에 도착했군! 이제 그의 도움을 받을 희망은 없어..."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:763
 msgid ""
 "Come, my bodyguards! We must make haste to follow this trail and find Mebrin."
-msgstr "가자, 나의 경호원들이여! 서둘러 이 흔적을 따라 Mebrin을 찾아야 한다."
+msgstr "가자, 나의 경호원들이여! 서둘러 이 흔적을 따라 메브린(Mebrin)을 찾아야 한다."
 
 #. [scenario]: id=05_Choice_in_the_Fog
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:5
@@ -2111,7 +2111,7 @@ msgstr "맹세코 나는 당신들의 적이 아니오! 내가 아는 것을 기
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:665
 msgid "You imprisoned Mebrin?! You loathsome vermin!"
-msgstr "네놈들이 Mebrin을 감금했다고?! 이 역겨운 해충들!"
+msgstr "네놈들이 메브린(Mebrin)을 감금했다고?! 이 역겨운 해충들!"
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:670
@@ -2132,7 +2132,7 @@ msgstr "완전하고 철저한 쓰레기가 지껄이는 완전하고 철저한 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:680
 msgid "Please, Ethiliel, let us hear him out. What happened to Mebrin?"
-msgstr "제발, 에틸리엘(Ethiliel). 그의 말을 끝까지 들어 보자. Mebrin에게 무슨 일이 있었지?"
+msgstr "제발, 에틸리엘(Ethiliel). 그의 말을 끝까지 들어 보자. 메브린(Mebrin)에게 무슨 일이 있었지?"
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:685
@@ -2153,7 +2153,7 @@ msgid ""
 "not resist them. He allowed them to make him one of them and became a lich "
 "of formidable power. He took control of the other undead lords and now leads "
 "them from the depths."
-msgstr "Mebrin은 우리가 소환한 어떤 언데드보다도 강력했지만, 그들에게 저항하지 않았어. 그는 그들이 자신을 동족으로 만들도록 내버려 두고 막강한 힘을 지닌 리치가 되었지. 다른 언데드 군주들을 장악했고, 이제는 깊은 곳에서 그들을 이끌고 있어."
+msgstr "메브린(Mebrin)은 우리가 소환한 어떤 언데드보다도 강력했지만, 그들에게 저항하지 않았어. 그는 그들이 자신을 동족으로 만들도록 내버려 두고 막강한 힘을 지닌 리치가 되었지. 다른 언데드 군주들을 장악했고, 이제는 깊은 곳에서 그들을 이끌고 있어."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:701
@@ -2161,7 +2161,7 @@ msgstr "Mebrin은 우리가 소환한 어떤 언데드보다도 강력했지만,
 msgid ""
 "You dare spew such falsities! Mebrin would never fight for the undead, much "
 "less lead them!"
-msgstr "감히 그런 거짓말을 지껄이다니! Mebrin이 언데드를 위해 싸울 리 없고, 하물며 그들을 이끌 리는 더더욱 없다!"
+msgstr "감히 그런 거짓말을 지껄이다니! 메브린(Mebrin)이 언데드를 위해 싸울 리 없고, 하물며 그들을 이끌 리는 더더욱 없다!"
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:706
@@ -2171,7 +2171,7 @@ msgid ""
 "master undeath — the only way to conquer it is to resist the temptation "
 "altogether. If this Mebrin played a part in the summoning of these undead, I "
 "do not doubt that he was corrupted as well.</i>"
-msgstr "<i>데오란(Deoran) 경, 뛰어난 기술과 오랜 경험을 지닌 현자와 신비술사들이 흑마법의 오염에 가장 먼저 굴복하는 경우가 많습니다. 지혜와 힘만으로는 언데드를 다스리기에 부족합니다. 이를 정복하는 유일한 방법은 유혹을 완전히 거부하는 것입니다. 이 Mebrin이 이 언데드 소환에 관여했다면, 그 역시 타락했으리라 의심하지 않습니다.</i>"
+msgstr "<i>데오란(Deoran) 경, 뛰어난 기술과 오랜 경험을 지닌 현자와 신비술사들이 흑마법의 오염에 가장 먼저 굴복하는 경우가 많습니다. 지혜와 힘만으로는 언데드를 다스리기에 부족합니다. 이를 정복하는 유일한 방법은 유혹을 완전히 거부하는 것입니다. 이 메브린(Mebrin)이 이 언데드 소환에 관여했다면, 그 역시 타락했으리라 의심하지 않습니다.</i>"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:711
@@ -2234,9 +2234,7 @@ msgstr "그렇다면 이 회담은 끝이다! 당신들은 우리 모두의 파�
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:751
 msgid "You will pay for taking Mebrin from us! If he is harmed..."
-msgstr ""
-"너희는 우리에게서 Mebrin을 빼앗아간 대가를 치를 것이다! 그가 다치기라도 했으"
-"면..."
+msgstr "너희는 우리에게서 메브린(Mebrin)을 빼앗아간 대가를 치를 것이다! 그가 다치기라도 했으면..."
 
 #. [option]
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:770
@@ -2376,7 +2374,7 @@ msgid ""
 "resides in catacombs deep underneath the castle, but they cannot be entered "
 "without magical means. We would require elvish magic in order to dispel the "
 "barrier he has erected."
-msgstr "안타깝지만 그렇지 않습니다. 이것은 진짜 Mebrin의 환영에 불과합니다. 그는 성 깊은 지하 묘지에 있지만, 마법 없이는 들어갈 수 없습니다. 그가 세운 장벽을 해제하려면 요정의 마법이 필요합니다."
+msgstr "안타깝지만 그렇지 않습니다. 이것은 진짜 메브린(Mebrin)의 환영에 불과합니다. 그는 성 깊은 지하 묘지에 있지만, 마법 없이는 들어갈 수 없습니다. 그가 세운 장벽을 해제하려면 요정의 마법이 필요합니다."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1070
@@ -2413,7 +2411,7 @@ msgid ""
 "have abandoned us... that would seem to be our only choice. But what about "
 "Mebrin? The undead will keep attacking our homes unless we root them out at "
 "the source."
-msgstr "우리가 네 거짓말에 속지 않았다면 에틸리엘(Ethiliel)이 이 마법 장벽을 해제할 수 있었을 텐데! 하지만 내가 어리석게도 그녀의 조언과 모든 도움을 거부했어. 지금 당장 네 목숨을 끊고 싶지만, 요정들이 우리를 버렸으니... 그것이 우리의 유일한 선택인 듯하군. 하지만 Mebrin은 어떻게 하지? 근원을 뿌리 뽑지 않는 한 언데드는 계속 우리 집을 공격할 거야."
+msgstr "우리가 네 거짓말에 속지 않았다면 에틸리엘(Ethiliel)이 이 마법 장벽을 해제할 수 있었을 텐데! 하지만 내가 어리석게도 그녀의 조언과 모든 도움을 거부했어. 지금 당장 네 목숨을 끊고 싶지만, 요정들이 우리를 버렸으니... 그것이 우리의 유일한 선택인 듯하군. 하지만 메브린(Mebrin)은 어떻게 하지? 근원을 뿌리 뽑지 않는 한 언데드는 계속 우리 집을 공격할 거야."
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1091
@@ -2434,7 +2432,7 @@ msgid ""
 "I know that Mebrin intends to lead the undead to Westin and raze the city. "
 "While his power is great and his army vast, we have fought the undead before "
 "and know that they can be defeated. Deoran—"
-msgstr "Mebrin이 언데드를 이끌고 웨스틴(Westin)으로 가서 도시를 초토화하려 한다는 것을 알고 있습니다. 그의 힘은 강하고 군대도 거대하지만, 우리는 전에 언데드와 싸워 보았고 그들을 물리칠 수 있다는 것을 압니다. 데오란(Deoran)—"
+msgstr "메브린(Mebrin)이 언데드를 이끌고 웨스틴(Westin)으로 가서 도시를 초토화하려 한다는 것을 알고 있습니다. 그의 힘은 강하고 군대도 거대하지만, 우리는 전에 언데드와 싸워 보았고 그들을 물리칠 수 있다는 것을 압니다. 데오란(Deoran)—"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1104
@@ -2694,7 +2692,7 @@ msgstr "훌륭해. 계속 나아가자!"
 #: data/campaigns/The_South_Guard/scenarios/06a_Into_the_Depths.cfg:641
 #| msgid "Mebrin! My teacher of old! Can that truly be you?"
 msgid "Mebrin! My old master! Is that truly you?"
-msgstr "메브린! 나의 옛 스승님! 정말 스승님이 맞나요?"
+msgstr "메브린(Mebrin)! 나의 옛 스승님! 정말 스승님이 맞나요?"
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/06a_Into_the_Depths.cfg:647
@@ -2758,7 +2756,7 @@ msgstr "놈들은 알고 있었어, 알고 있었다고! 내 고통을 즐기며
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Into_the_Depths.cfg:677
 msgid "Mebrin..."
-msgstr "메브린..."
+msgstr "메브린(Mebrin)..."
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/06a_Into_the_Depths.cfg:682
@@ -2787,7 +2785,7 @@ msgstr "인간은 결국 나약한 종족이야. 나는 그들에게 통제할 �
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Into_the_Depths.cfg:692
 msgid "Mebrin, please..."
-msgstr "메브린, 제발..."
+msgstr "메브린(Mebrin), 제발..."
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/06a_Into_the_Depths.cfg:697
@@ -2803,7 +2801,7 @@ msgstr "에틸리엘(Ethiliel), 너는 나의 최고의 제자였지. 내가 얼
 msgid ""
 "Mebrin... that’s enough. I am sorry. I should have protected you. I should "
 "never have let those humans take you and turn you into... into a monster!"
-msgstr "Mebrin... 이제 그만해. 미안해. 내가 너를 지켰어야 했어. 그 인간들이 너를 데려가... 괴물로 만들도록 내버려 두지 말았어야 했어!"
+msgstr "메브린(Mebrin)... 이제 그만해. 미안해. 내가 너를 지켰어야 했어. 그 인간들이 너를 데려가... 괴물로 만들도록 내버려 두지 말았어야 했어!"
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/06a_Into_the_Depths.cfg:707
@@ -2817,7 +2815,7 @@ msgid ""
 "abominations worse than any human. They stink of death, and tainted magic, "
 "and... and corruption! Even you! Mebrin... you were the kindest and gentlest "
 "of the sages. How could you become something like this? Mebrin, answer me!"
-msgstr "분명 너도 알고 있잖아! 네 모습을 잘 보라고! 네 하인들은 어떤 인간보다도 끔찍한 흉물이야. 죽음과 오염된 마법, 그리고... 타락의 냄새를 풍기고 있어! 너도 마찬가지야! Mebrin... 너는 현자들 중 가장 친절하고 온화했어. 어떻게 이런 존재가 될 수 있었어? Mebrin, 대답해!"
+msgstr "분명 너도 알고 있잖아! 네 모습을 잘 보라고! 네 하인들은 어떤 인간보다도 끔찍한 흉물이야. 죽음과 오염된 마법, 그리고... 타락의 냄새를 풍기고 있어! 너도 마찬가지야! 메브린(Mebrin)... 너는 현자들 중 가장 친절하고 온화했어. 어떻게 이런 존재가 될 수 있었어? 메브린(Mebrin), 대답해!"
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/06a_Into_the_Depths.cfg:717
@@ -2868,7 +2866,7 @@ msgstr "그렇게 하고 나면 우리는 무엇이 되나요? 한때 소중히 
 msgid ""
 "No... No. The sage Mebrin is dead. You are not the master I once revered. I "
 "will cleanse your soul and put you to rest, my beloved teacher."
-msgstr "아니... 아니야. 현자 Mebrin은 죽었어. 당신은 내가 한때 존경했던 스승이 아니야. 내가 당신의 영혼을 정화하고 편히 쉬게 하겠어요, 사랑하는 스승님."
+msgstr "아니... 아니야. 현자 메브린(Mebrin)은 죽었어. 당신은 내가 한때 존경했던 스승이 아니야. 내가 당신의 영혼을 정화하고 편히 쉬게 하겠어요, 사랑하는 스승님."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Into_the_Depths.cfg:744
@@ -2903,7 +2901,7 @@ msgid ""
 "the touch of the black arts. He used to use this spell to heal the mind and "
 "purge negative emotions from the body. I imagine it will have exactly the "
 "opposite effect now."
-msgstr "Mebrin의 소행입니다. 흑마법의 손길에 뒤틀렸지만 이 에너지를 알아볼 수 있습니다. 그는 예전에 이 주문으로 정신을 치유하고 몸에서 부정적인 감정을 씻어 냈습니다. 지금은 정확히 반대의 효과를 내고 있을 것 같습니다."
+msgstr "메브린(Mebrin)의 소행입니다. 흑마법의 손길에 뒤틀렸지만 이 에너지를 알아볼 수 있습니다. 그는 예전에 이 주문으로 정신을 치유하고 몸에서 부정적인 감정을 씻어 냈습니다. 지금은 정확히 반대의 효과를 내고 있을 것 같습니다."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Into_the_Depths.cfg:812
@@ -2915,7 +2913,7 @@ msgstr "정신이... 아득해..."
 msgid ""
 "We must hurry! Once Mebrin’s spell takes full effect, none of us will be "
 "able to stop him."
-msgstr "서둘러야 해! Mebrin의 주문이 완전히 효과를 발휘하면 우리 중 누구도 그를 막을 수 없어."
+msgstr "서둘러야 해! 메브린(Mebrin)의 주문이 완전히 효과를 발휘하면 우리 중 누구도 그를 막을 수 없어."
 
 #. [message]: role=soldier
 #: data/campaigns/The_South_Guard/scenarios/06a_Into_the_Depths.cfg:844
@@ -2930,7 +2928,7 @@ msgstr "망각의 숨결을 맛보아라!"
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Into_the_Depths.cfg:861
 msgid "Mebrin has caught us in his spell! We are doomed..."
-msgstr "Mebrin이 우리를 주문에 가뒀어! 우리는 끝장이야..."
+msgstr "메브린(Mebrin)이 우리를 주문에 가뒀어! 우리는 끝장이야..."
 
 #. [message]: speaker=Grek
 #: data/campaigns/The_South_Guard/scenarios/06a_Into_the_Depths.cfg:875
@@ -2951,7 +2949,7 @@ msgid ""
 "It would only be an empire of misery, Mebrin. I wish it had not come to "
 "this, but you have been corrupted beyond saving. Still, I will fondly "
 "cherish the memories I had with the old you."
-msgstr "그건 고통의 제국일 뿐이야, Mebrin. 이렇게 되지 않았으면 했지만, 너는 구할 수 없을 만큼 타락했어. 그래도 예전의 너와 함께했던 기억은 소중히 간직할게."
+msgstr "그건 고통의 제국일 뿐이야, 메브린(Mebrin). 이렇게 되지 않았으면 했지만, 너는 구할 수 없을 만큼 타락했어. 그래도 예전의 너와 함께했던 기억은 소중히 간직할게."
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/06a_Into_the_Depths.cfg:897
@@ -2963,7 +2961,7 @@ msgstr "감히 나를 공격하겠다고?! 나는 어둠의 화신이다! 내가
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Into_the_Depths.cfg:902
 msgid "Goodbye, Mebrin."
-msgstr "안녕히계세요, 메브린."
+msgstr "안녕히계세요, 메브린(Mebrin)."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Into_the_Depths.cfg:912
@@ -3010,7 +3008,7 @@ msgstr "각 턴이 시작될 때 우르자 아팔라스(Urza Afalas)가 시야 �
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Long_March.cfg:545
 msgid "Deoran and Urza Afalas retreated quickly from Mebrin's fortress..."
-msgstr "데오란(Deoran)과 우르자 아팔라스(Urza Afalas)는 Mebrin의 요새에서 빠르게 후퇴했습니다..."
+msgstr "데오란(Deoran)과 우르자 아팔라스(Urza Afalas)는 메브린(Mebrin)의 요새에서 빠르게 후퇴했습니다..."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Long_March.cfg:583
@@ -3096,7 +3094,7 @@ msgstr "여기서 강둑이 보여!"
 msgid ""
 "Humans! You are the curs who kidnapped the Sage Mebrin! Tell us where you "
 "have hidden him and perhaps we will grant you a quick death!"
-msgstr "인간들! 너희가 현자 Mebrin을 납치한 악당들이군! 그를 어디에 숨겼는지 말해라. 그러면 어쩌면 고통 없이 죽게 해 줄지도 모르지!"
+msgstr "인간들! 너희가 현자 메브린(Mebrin)을 납치한 악당들이군! 그를 어디에 숨겼는지 말해라. 그러면 어쩌면 고통 없이 죽게 해 줄지도 모르지!"
 
 #. [message]: id=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Long_March.cfg:984
@@ -3112,7 +3110,7 @@ msgid ""
 "How dare you speak of Mebrin with such lies?! Though he has knowledge of the "
 "undead, he is no human, so easily corrupted by the temptation of such power. "
 "Did you think that you could fool us with such a fictitious story?"
-msgstr "감히 그런 거짓말로 Mebrin을 말하다니?! 그가 언데드에 관한 지식은 가지고 있지만, 그런 힘의 유혹에 쉽게 타락하는 인간이 아니야. 그런 허무맹랑한 이야기로 우리를 속일 수 있다고 생각했나?"
+msgstr "감히 그런 거짓말로 메브린(Mebrin)을 말하다니?! 그가 언데드에 관한 지식은 가지고 있지만, 그런 힘의 유혹에 쉽게 타락하는 인간이 아니야. 그런 허무맹랑한 이야기로 우리를 속일 수 있다고 생각했나?"
 
 #. [message]: id=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Long_March.cfg:997
@@ -3144,7 +3142,7 @@ msgid ""
 "And so does our Sage Mebrin, yet you have not returned him to us! Even if "
 "you did, we would still dispatch of you for your heinous transgressions, you "
 "treacherous scum!"
-msgstr "우리 현자 Mebrin도 그렇지만, 너희는 그를 우리에게 돌려주지 않았어! 돌려준다 해도 너희의 극악무도한 죄 때문에 처단할 것이다, 배신자 같은 쓰레기들아!"
+msgstr "우리 현자 메브린(Mebrin)도 그렇지만, 너희는 그를 우리에게 돌려주지 않았어! 돌려준다 해도 너희의 극악무도한 죄 때문에 처단할 것이다, 배신자 같은 쓰레기들아!"
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Long_March.cfg:1059
@@ -3271,14 +3269,14 @@ msgstr "뭐라고요? 우리는 당신들의 친구이지 적이 아닙니다! �
 msgid ""
 "Save those wishes for another life, cur! You kidnapped and slew the Sage "
 "Mebrin!"
-msgstr "그런 소망은 다음 생에서나 빌어라, 개 같은 놈! 너희는 현자 Mebrin을 납치하고 죽였다!"
+msgstr "그런 소망은 다음 생에서나 빌어라, 개 같은 놈! 너희는 현자 메브린(Mebrin)을 납치하고 죽였다!"
 
 #. [message]: id=Deoran
 #: data/campaigns/The_South_Guard/scenarios/07a_Return_to_Kerlath.cfg:278
 msgid ""
 "We did no such thing! Mebrin adopted the dark arts of his own volition. He "
 "was consumed by it and twisted into a being of great evil!"
-msgstr "우리는 그런 짓을 하지 않았어! Mebrin은 스스로 어둠의 마법을 받아들였어. 그는 그것에 집어삼켜져 거대한 악의 존재로 뒤틀렸지!"
+msgstr "우리는 그런 짓을 하지 않았어! 메브린(Mebrin)은 스스로 어둠의 마법을 받아들였어. 그는 그것에 집어삼켜져 거대한 악의 존재로 뒤틀렸지!"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/07a_Return_to_Kerlath.cfg:282
@@ -3292,7 +3290,7 @@ msgstr "감히 그런 말을 하다니! 우리가 사랑하는 현자를 그런 
 msgid ""
 "The human speaks the truth. As much as my heart grieves for Mebrin, he was "
 "not innocent either."
-msgstr "저 인간이 진실을 말하고 있어. 내 마음이 Mebrin 때문에 슬프지만, 그 역시 결백하지는 않았어."
+msgstr "저 인간이 진실을 말하고 있어. 내 마음이 메브린(Mebrin) 때문에 슬프지만, 그 역시 결백하지는 않았어."
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/07a_Return_to_Kerlath.cfg:290
@@ -3324,7 +3322,7 @@ msgid ""
 "<i>I am not sure. Mebrin was beloved by many of our people. His death must "
 "have angered some of them greatly, perhaps to the point that they have "
 "become utterly irrational. Even so, this seems like madness to me.</i>"
-msgstr "<i>확실하지 않아. Mebrin은 우리 동족 많은 이들에게 사랑받았어. 그의 죽음이 그들 중 일부를 크게 분노하게 만들었고, 완전히 이성을 잃을 정도가 되었을지도 몰라. 그래도 지금 상황은 광기처럼 보여.</i>"
+msgstr "<i>확실하지 않아. 메브린(Mebrin)은 우리 동족 많은 이들에게 사랑받았어. 그의 죽음이 그들 중 일부를 크게 분노하게 만들었고, 완전히 이성을 잃을 정도가 되었을지도 몰라. 그래도 지금 상황은 광기처럼 보여.</i>"
 
 #. [message]: id=Deoran
 #: data/campaigns/The_South_Guard/scenarios/07a_Return_to_Kerlath.cfg:311
@@ -3343,7 +3341,7 @@ msgid ""
 "one in command of our warriors; that responsibility belongs to Ithelden, "
 "whom I very much doubt sent anyone to come hunt us down. Something else is "
 "going on.</i>"
-msgstr "<i>그 동굴에서 일어난 일은 내가 더 이상 화를 낼 수 없을 만큼 큰 슬픔을 안겨 주었어. 하지만 다른 동족들은 Mebrin이 어떻게 되었는지 직접 보지 못했어. 나를 공격한 것에 관해서는, 나는 평소 우리 전사들을 지휘하는 사람이 아니야. 그 책임은 이텔덴(Ithelden)에게 있지만, 그가 우리를 사냥하라고 누군가를 보냈을 것 같지는 않아. 다른 일이 벌어지고 있어.</i>"
+msgstr "<i>그 동굴에서 일어난 일은 내가 더 이상 화를 낼 수 없을 만큼 큰 슬픔을 안겨 주었어. 하지만 다른 동족들은 메브린(Mebrin)이 어떻게 되었는지 직접 보지 못했어. 나를 공격한 것에 관해서는, 나는 평소 우리 전사들을 지휘하는 사람이 아니야. 그 책임은 이텔덴(Ithelden)에게 있지만, 그가 우리를 사냥하라고 누군가를 보냈을 것 같지는 않아. 다른 일이 벌어지고 있어.</i>"
 
 #. [message]: id=Deoran
 #: data/campaigns/The_South_Guard/scenarios/07a_Return_to_Kerlath.cfg:319
@@ -3369,7 +3367,7 @@ msgstr "<i>좋아.</i>"
 msgid ""
 "These human beasts slew our people and murdered Mebrin! We must have "
 "vengeance for this vile atrocity. Burn their city to the ground!"
-msgstr "이 인간 짐승들이 우리 동족을 죽이고 Mebrin을 살해했다! 이 사악한 만행에 복수해야 한다. 놈들의 도시를 불태워 잿더미로 만들어라!"
+msgstr "이 인간 짐승들이 우리 동족을 죽이고 메브린(Mebrin)을 살해했다! 이 사악한 만행에 복수해야 한다. 놈들의 도시를 불태워 잿더미로 만들어라!"
 
 #. [message]: speaker=Deoran
 #. Defeat message after time-over
@@ -3748,7 +3746,7 @@ msgstr "불쌍한 농부"
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:210
 #| msgid "You must pay for killing Mebrin!"
 msgid "You will pay for Mebrin’s death!"
-msgstr "메브린의 죽음에 대한 대가를 치러라!"
+msgstr "메브린(Mebrin)의 죽음에 대한 대가를 치러라!"
 
 #. [message]: speaker=Poor Farmer
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:214
@@ -3778,7 +3776,7 @@ msgid ""
 "helped me obtain vengeance on the ones responsible for the horrible deed and "
 "have thus absolved themselves of any wrongdoing. No more innocent blood "
 "needs to be shed."
-msgstr "멈춰, 엘텐미르(Eltenmir)! 이 인간들은 Mebrin을 해친 자들이 아니야. 그들은 끔찍한 일을 저지른 자들에게 복수하는 것을 도와줬고, 그로써 자신들의 잘못을 씻었어. 더 이상 무고한 피를 흘릴 필요는 없어."
+msgstr "멈춰, 엘텐미르(Eltenmir)! 이 인간들은 메브린(Mebrin)을 해친 자들이 아니야. 그들은 끔찍한 일을 저지른 자들에게 복수하는 것을 도와줬고, 그로써 자신들의 잘못을 씻었어. 더 이상 무고한 피를 흘릴 필요는 없어."
 
 #. [message]: speaker=Eltenmir
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:265
@@ -3787,7 +3785,7 @@ msgid ""
 "to side with the humans? All humans are scum and vermin! Just as they have "
 "felled our trees in the past, they have destroyed our homes, murdered our "
 "people, and killed Mebrin!"
-msgstr "내 귀를 믿을 수가 없군. 에틸리엘(Ethiliel), 너는 늘 너무 물렀지만 인간 편을 들다니? 모든 인간은 쓰레기이자 해충이야! 과거에 우리 나무를 베어 쓰러뜨린 것처럼, 우리의 집을 파괴하고 동족을 살해하고 Mebrin까지 죽였어!"
+msgstr "내 귀를 믿을 수가 없군. 에틸리엘(Ethiliel), 너는 늘 너무 물렀지만 인간 편을 들다니? 모든 인간은 쓰레기이자 해충이야! 과거에 우리 나무를 베어 쓰러뜨린 것처럼, 우리의 집을 파괴하고 동족을 살해하고 메브린(Mebrin)까지 죽였어!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:269
@@ -3797,7 +3795,7 @@ msgid ""
 "so dearly that my heart never ceases to ache. You know how I must feel about "
 "losing one that I cherished so. Still... still, even I recognize that these "
 "humans are not the ones to blame."
-msgstr "Mebrin은 나의 스승이었어, 엘텐미르(Eltenmir)! 가장 슬퍼하는 사람은 바로 <i>나</i>야! 그의 죽음을 생각하고 그를 너무나 그리워하느라 셀 수 없이 많은 밤을 잠 못 이루며 보냈고, 내 마음은 계속 아파. 내가 그토록 소중히 여긴 이를 잃은 심정을 너도 알잖아. 그래도... 그래도 나조차 이 인간들이 비난받을 자들이 아니라는 것을 알아."
+msgstr "메브린(Mebrin)은 나의 스승이었어, 엘텐미르(Eltenmir)! 가장 슬퍼하는 사람은 바로 <i>나</i>야! 그의 죽음을 생각하고 그를 너무나 그리워하느라 셀 수 없이 많은 밤을 잠 못 이루며 보냈고, 내 마음은 계속 아파. 내가 그토록 소중히 여긴 이를 잃은 심정을 너도 알잖아. 그래도... 그래도 나조차 이 인간들이 비난받을 자들이 아니라는 것을 알아."
 
 #. [message]: speaker=Eltenmir
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:273
@@ -3865,7 +3863,7 @@ msgid ""
 "I know you must be grieving over Mebrin’s death as well, but surely you see "
 "that nothing good can come of doing this. Especially not from attacking "
 "Ethiliel!"
-msgstr "너도 Mebrin의 죽음으로 슬퍼하고 있다는 것을 알아. 하지만 이런 일을 해 봐야 좋은 결과는 없다는 것도 분명히 알고 있겠지. 특히 에틸리엘(Ethiliel)을 공격하는 것은 더더욱 안 돼!"
+msgstr "너도 메브린(Mebrin)의 죽음으로 슬퍼하고 있다는 것을 알아. 하지만 이런 일을 해 봐야 좋은 결과는 없다는 것도 분명히 알고 있겠지. 특히 에틸리엘(Ethiliel)을 공격하는 것은 더더욱 안 돼!"
 
 #. [message]: speaker=Eltenmir
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:485
@@ -3877,7 +3875,7 @@ msgstr "그렇다면 방법을 제시해. 우리도 어떤 식으로든 복수�
 msgid ""
 "The ones who <i>effectively</i> killed Mebrin are dead. I saw to that "
 "personally. We should have no more qualms with the remaining humans here."
-msgstr "Mebrin을 <i>실질적으로</i> 죽인 자들은 죽었어. 내가 직접 처리했지. 여기 남은 인간들에게 더 이상 원한을 품을 이유는 없어."
+msgstr "메브린(Mebrin)을 <i>실질적으로</i> 죽인 자들은 죽었어. 내가 직접 처리했지. 여기 남은 인간들에게 더 이상 원한을 품을 이유는 없어."
 
 #. [message]: speaker=Eltenmir
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:493
@@ -4507,7 +4505,7 @@ msgid ""
 "an officer for thirty years. Thus, with full trust in the young officer, "
 "King Haldric knighted Deoran and tasked him with riding to Westin to demand "
 "accounting from Sir Loris."
-msgstr "할드릭(Haldric)은 이 임무를 위해 젊지만 전도유망한 기병 장교 데오란(Deoran)을 불렀습니다. 데오란(Deoran)의 가문은 특별히 이름난 집안은 아니었지만 웨스노스(Wesnoth) 군대에서 훌륭한 역사를 쌓았습니다. 그의 증조부 할디엘(Haldiel)은 왕좌를 되찾기 위한 전쟁에서 콘라드(Konrad) 1세와 함께 싸웠고, 아버지 Leonard는 30년 동안 장교로 복무했습니다. 그래서 할드릭(Haldric) 왕은 이 젊은 장교를 전적으로 신뢰해 데오란(Deoran)을 기사로 서임하고, 웨스틴(Westin)으로 가서 로리스(Loris) 경에게 해명을 요구하도록 명했습니다."
+msgstr "할드릭(Haldric)은 이 임무를 위해 젊지만 전도유망한 기병 장교 데오란(Deoran)을 불렀습니다. 데오란(Deoran)의 가문은 특별히 이름난 집안은 아니었지만 웨스노스(Wesnoth) 군대에서 훌륭한 역사를 쌓았습니다. 그의 증조부 할디엘(Haldiel)은 왕좌를 되찾기 위한 전쟁에서 콘라드(Konrad) 1세와 함께 싸웠고, 아버지 레너드(Leonard)는 30년 동안 장교로 복무했습니다. 그래서 할드릭(Haldric) 왕은 이 젊은 장교를 전적으로 신뢰해 데오란(Deoran)을 기사로 서임하고, 웨스틴(Westin)으로 가서 로리스(Loris) 경에게 해명을 요구하도록 명했습니다."
 
 #. [part]
 #. Intro to scenario 2
@@ -4594,7 +4592,7 @@ msgid ""
 "sage’s name. Perhaps, he thought, she suspected that the bandits’ story was "
 "indeed true and that Mebrin had been corrupted by his dabbling in undead "
 "magic. Perhaps she simply hadn’t come to terms with it."
-msgstr "그는 잠시 그녀가 왜 Mebrin과 그의 행방에 대한 언급을 멈췄는지 의아해했지만, 지금은 그 현자의 이름을 꺼낼 때가 아니라는 생각이 들었습니다. 어쩌면 그녀는 산적들의 이야기가 정말 사실이며 Mebrin이 언데드 마법을 조금씩 익히다 타락했다고 의심하는 것인지도 모릅니다. 아니면 단순히 그 사실을 받아들이지 못했을 수도 있습니다."
+msgstr "그는 잠시 그녀가 왜 메브린(Mebrin)과 그의 행방에 대한 언급을 멈췄는지 의아해했지만, 지금은 그 현자의 이름을 꺼낼 때가 아니라는 생각이 들었습니다. 어쩌면 그녀는 산적들의 이야기가 정말 사실이며 메브린(Mebrin)이 언데드 마법을 조금씩 익히다 타락했다고 의심하는 것인지도 모릅니다. 아니면 단순히 그 사실을 받아들이지 못했을 수도 있습니다."
 
 #. [part]
 #. Intro to scenario 6a
@@ -4948,7 +4946,7 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #~ msgid ""
 #~ "Deoran sent a rider to request mounted reinforcements and set out at once "
 #~ "towards the Aethenwood..."
-#~ msgstr "데오란(Deoran)은 기병 원군을 청하는 전령을 보내고 바로 Aethenwood를 향해 출발했다..."
+#~ msgstr "데오란(Deoran)은 기병 원군을 청하는 전령을 보내고 바로 아에텐우드(Aethenwood)를 향해 출발했다..."
 
 #~ msgid ""
 #~ "But if we do not discover the source of these undead warriors, the whole "
@@ -5003,7 +5001,7 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #~ "Yet, as she says, he is our best hope to rid our lands of this new "
 #~ "menace. We do that which we must. Ethiliel, you make for Mebrin’s "
 #~ "village. We will handle the intruders."
-#~ msgstr "하지만 그녀의 말대로 이 새로운 위협을 몰아내려면 그가 최고의 희망이지. 우리가 할 일을 하자. 에틸리엘(Ethiliel), 당신은 Mebrin의 은거지로 가시오. 우리가 침입자들을 상대하겠소."
+#~ msgstr "하지만 그녀의 말대로 이 새로운 위협을 몰아내려면 그가 최고의 희망이지. 우리가 할 일을 하자. 에틸리엘(Ethiliel), 당신은 메브린(Mebrin)의 은거지로 가시오. 우리가 침입자들을 상대하겠소."
 
 #~ msgid "Now your blood and tears will join that of the elves!"
 #~ msgstr "이제 너희의 피와 눈물이 엘프의 피눈물에 섞일거다!"
@@ -5111,9 +5109,7 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #~ "You imprisoned Mebrin?! For that you must surely pay. Speak swiftly so "
 #~ "that we may end this parley and dispatch you quickly! We will have "
 #~ "vengeance!"
-#~ msgstr ""
-#~ "너희가 Mebrin을 가두었다고?! 너희는 반드시 그 짓의 대가를 치를 것이다. 어"
-#~ "서 이야기를 끝내고 이 협상을 마쳐라! 우리는 복수할 것이다!"
+#~ msgstr "너희가 메브린(Mebrin)을 가두었다고?! 너희는 반드시 그 짓의 대가를 치를 것이다. 어서 이야기를 끝내고 이 협상을 마쳐라! 우리는 복수할 것이다!"
 
 #~ msgid ""
 #~ "Hear me out! He taught us to summon the dead to fight for us. We were "
@@ -5121,12 +5117,7 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #~ "Mebrin too fell sway to the influence of the undead, and now he leads "
 #~ "them. For a time he served us, but now he has gone mad and is attacking "
 #~ "us as well!"
-#~ msgstr ""
-#~ "내 얘기를 끝까지 들어줘요! 그는 우리에게 죽은 자를 소환해서 싸우게 하는 법"
-#~ "을 가르쳐줬소. 우리는 나약했고 어리석어서 우리가 통제하지도 못할 언데드를 "
-#~ "소환하고 말았소. Mebrin도 언데드의 영향력에 물들어 버렸고, 이제 그가 놈들"
-#~ "을 이끌고 있소. 그는 잠시동안은 우릴 도왔지만, 이제는 미쳐서 우리까지 공격"
-#~ "하고 있소!"
+#~ msgstr "내 얘기를 끝까지 들어줘요! 그는 우리에게 죽은 자를 소환해서 싸우게 하는 법을 가르쳐줬소. 우리는 나약했고 어리석어서 우리가 통제하지도 못할 언데드를 소환하고 말았소. 메브린(Mebrin)도 언데드의 영향력에 물들어 버렸고, 이제 그가 놈들을 이끌고 있소. 그는 잠시동안은 우릴 도왔지만, 이제는 미쳐서 우리까지 공격하고 있소!"
 
 #~ msgid "But what do you want us to do about it? You are criminals!"
 #~ msgstr "그렇다고 우리가 뭘 해주길 바라는거냐? 너희는 범죄자들이다!"
@@ -5400,7 +5391,7 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #~ msgid ""
 #~ "While the council debated the best course of action, Deoran and Ethiliel "
 #~ "prepared to enter the caves under Mebrin’s fortress..."
-#~ msgstr "의회가 어떤 조치를 취할 지를 논의하는 동안, 데오란(Deoran)과 에틸리엘(Ethiliel)은 Mebrin의 성채 아래 있는 동굴로 들어갈 준비를 하고 있었다..."
+#~ msgstr "의회가 어떤 조치를 취할 지를 논의하는 동안, 데오란(Deoran)과 에틸리엘(Ethiliel)은 메브린(Mebrin)의 성채 아래 있는 동굴로 들어갈 준비를 하고 있었다..."
 
 #, fuzzy
 #~| msgid ""
@@ -5409,9 +5400,7 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #~ msgid ""
 #~ "Proceed slowly, who knows what evils the bandits have awoken here! We "
 #~ "cannot be too careful."
-#~ msgstr ""
-#~ "천천히 나아가자, Mebrin이 바뀌기 이전이었더라도 무슨 사악한 것이 안에서 살"
-#~ "고 있었을지 모른다! 주의에 주의를 거듭하도록."
+#~ msgstr "천천히 나아가자, 메브린(Mebrin)이 바뀌기 이전이었더라도 무슨 사악한 것이 안에서 살고 있었을지 모른다! 주의에 주의를 거듭하도록."
 
 #~ msgid ""
 #~ "Meet with and pay the troll leader $troll_help_cost gold to receive their "
@@ -5428,10 +5417,7 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #~ "Whatever evil lurks below must have set it here as a guardian. We elves "
 #~ "have heard stories of these creatures but I wouldn’t have expected to "
 #~ "come across one here. Let us proceed with caution."
-#~ msgstr ""
-#~ "Mebrin이 둔 지킴이의 일종인 것 같다. 우리 엘프들에게 이런 생물들이 있다는 "
-#~ "이야기가 전해지긴 하지만 내가 실제로 보게 될 줄은 몰랐군... 정말로 의외"
-#~ "다. 주의하면서 나아가자."
+#~ msgstr "메브린(Mebrin)이 둔 지킴이의 일종인 것 같다. 우리 엘프들에게 이런 생물들이 있다는 이야기가 전해지긴 하지만 내가 실제로 보게 될 줄은 몰랐군... 정말로 의외다. 주의하면서 나아가자."
 
 #~ msgid ""
 #~ "Ha! Humans and elves! What are you doing in our caves, and why shouldn’t "
@@ -5510,9 +5496,7 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #~ "These creatures are much too simpleminded to be of any help to us but at "
 #~ "least they will not attack us outright. We will have to face this enemy "
 #~ "alone."
-#~ msgstr ""
-#~ "이 생물들은 우리를 도와줄 생각을 하기엔 너무 어리석은 모양이지만 최소한 우"
-#~ "릴 드러내놓고 공격하는 일은 없겠지. 우리들만으로 Mebrin과 대면해야겠다."
+#~ msgstr "이 생물들은 우리를 도와줄 생각을 하기엔 너무 어리석은 모양이지만 최소한 우릴 드러내놓고 공격하는 일은 없겠지. 우리들만으로 메브린(Mebrin)과 대면해야겠다."
 
 #~ msgid "I’m lighting it!"
 #~ msgstr "불 붙인다!"
@@ -5543,18 +5527,12 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #~ "stink of the grave. This cannot be the sage Mebrin that I knew and "
 #~ "revered speaking. He would never have allied himself with the dead "
 #~ "against the living!"
-#~ msgstr ""
-#~ "그 하인들! 당신의 하인들은 그 어떤 인간보다도 나쁜 추악한 괴물이에요. 저들"
-#~ "에게선 무덤의 악취가 납니다. 그런 말을 하는 건 내가 알고 존경하던 현자 "
-#~ "Mebrin이 아니에요. 그라면 절대로 죽은 자들과 함께 산 자를 해치려 하지 않았"
-#~ "을 겁니다!"
+#~ msgstr "그 하인들! 당신의 하인들은 그 어떤 인간보다도 나쁜 추악한 괴물이에요. 저들에게선 무덤의 악취가 납니다. 그런 말을 하는 건 내가 알고 존경하던 현자 메브린(Mebrin)이 아니에요. 그라면 절대로 죽은 자들과 함께 산 자를 해치려 하지 않았을 겁니다!"
 
 #~ msgid ""
 #~ "No. It shall not be. The sage Mebrin is dead. It is time to put him to "
 #~ "rest."
-#~ msgstr ""
-#~ "안돼요. 그럴 순 없습니다. 현자 Mebrin은 죽었어요. 이제 그에게 안식을 줄 때"
-#~ "입니다."
+#~ msgstr "안돼요. 그럴 순 없습니다. 현자 메브린(Mebrin)은 죽었어요. 이제 그에게 안식을 줄 때입니다."
 
 #~ msgid ""
 #~ "You, destroy me? Fool human. You will die, and the elves you have seduced "
@@ -5626,12 +5604,12 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #, fuzzy
 #~| msgid "You must pay for killing Mebrin!"
 #~ msgid "You must pay for killing Mebrin!"
-#~ msgstr "Mebrin을 죽인 댓가를 치러라!"
+#~ msgstr "메브린(Mebrin)을 죽인 댓가를 치러라!"
 
 #~ msgid ""
 #~ "Stop, Ithelden! I have traveled with these humans, and they are not the "
 #~ "ones who harmed Mebrin. They are our allies!"
-#~ msgstr "멈추시오, 이텔덴(Ithelden)! 나는 이 인간들과 여정을 함께했고, 이들은 Mebrin을 해한 자들이 아니오. 이들은 우리의 아군이오!"
+#~ msgstr "멈추시오, 이텔덴(Ithelden)! 나는 이 인간들과 여정을 함께했고, 이들은 메브린(Mebrin)을 해한 자들이 아니오. 이들은 우리의 아군이오!"
 
 #~ msgid ""
 #~ "You too, Ethiliel? All these humans are the same! They fell trees to till "
@@ -5640,7 +5618,7 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #~ msgstr "당신도요, 에틸리엘(Ethiliel)? 이 인간들은 전부 똑같소! 놈들은 나무를 땅으로 쓰러뜨리고, 이제는 우리의 지도자를 쓰러뜨렸소! 우리는 이런 짓거리들을 용납할 수 없소! 당신도 저들과 함께 죽을 것이오!"
 
 #~ msgid "Disciple of Mebrin"
-#~ msgstr "Mebrin의 추종자"
+#~ msgstr "메브린(Mebrin)의 추종자"
 
 #~ msgid ""
 #~ "We won’t be able to hold them off for long. I should go reason with them!"
@@ -5894,4 +5872,4 @@ msgstr "데오란(Deoran)은 부상자들을 찾아다니고 병사들이 도시
 #, fuzzy
 #~| msgid "Disciple of Mebrin"
 #~ msgid "female^Disciple of Mebrin"
-#~ msgstr "Mebrin의 추종자"
+#~ msgstr "메브린(Mebrin)의 추종자"
