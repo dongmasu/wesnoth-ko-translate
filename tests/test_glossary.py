@@ -222,6 +222,20 @@ class GlossaryTests(unittest.TestCase):
         self.assertEqual(tarek["standard_korean"], "타렉(Tarek)")
         self.assertEqual(tarek["reference_japanese"], "Tarek")
 
+    def test_toen_caric_uses_one_bilingual_place_name_spelling(self):
+        _, rows = glossary_rows()
+        toen_caric = next(
+            row for row in rows if row["source_term"] == "Toen Caric"
+        )
+        self.assertEqual(
+            toen_caric["standard_korean"],
+            "토엔 캐릭(Toen Caric)",
+        )
+        po = (WORK_KO / "wesnoth-tb-ko.po").read_text(encoding="utf-8")
+        self.assertNotIn("토엔 카릭", po)
+        self.assertNotIn("토엔 카리크", po)
+        self.assertNotIn('msgstr "Toen Caric', po)
+
     def test_newly_reviewed_proper_names_are_transliterated(self):
         _, rows = glossary_rows()
         by_source = {row["source_term"]: row for row in rows}

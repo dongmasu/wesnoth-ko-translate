@@ -199,7 +199,7 @@ msgstr ""
 "\n"
 "이 ‘모르닥(Mordak)’을 직접 상대할 수만 있다면! 내 마법이 놈보다 강하다는 것을 증명할 수 있을 것 같다. 하지만 놈은 언덕에서 하인들의 호위를 받으며 버티고 있고, 나는 겁에 질린 농민들을 모아 칼과 막대기로 놈의 부하들과 싸우게 하고 있다.\n"
 "\n"
-"형제가 필요하다. 형은 언제나 나보다 전투 감각이 뛰어났다. 하지만 토엔 카릭에서 그 끔찍한 날을 보낸 뒤로 우리는 말 한마디 나누지 않았다. 형이 나를 위해 오지 않더라도, 절박한 위기에 처한 우리 마을을 돕기 위해 돌아와 줄지도 모른다."
+"형제가 필요하다. 형은 언제나 나보다 전투 감각이 뛰어났다. 하지만 토엔 캐릭(Toen Caric)에서 그 끔찍한 날을 보낸 뒤로 우리는 말 한마디 나누지 않았다. 형이 나를 위해 오지 않더라도, 절박한 위기에 처한 우리 마을을 돕기 위해 돌아와 줄지도 모른다."
 
 #. [part]
 #: data/campaigns/Two_Brothers/scenarios/01_Rooting_Out_a_Mage.cfg:81
@@ -765,7 +765,7 @@ msgstr "이놈을 묶어서 데려간다. 놈이 우릴 거짓으로 놀린거�
 msgid ""
 "Captain, what are we riding into? I thought you wanted nothing to do with "
 "Baran any more, not since Toen Caric."
-msgstr "대장, 어째서 위험을 감수하는겁니까? 토엔 카리크 이후로 바란(Baran)에겐 아무것도 바라지 않을거라 생각했습니다."
+msgstr "대장, 어째서 위험을 감수하는겁니까? 토엔 캐릭(Toen Caric) 이후로 바란(Baran)에겐 아무것도 바라지 않을거라 생각했습니다."
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:607
@@ -1468,7 +1468,7 @@ msgstr "그래, 어디서라도 저 얼굴은 알아보겠어. 특히 네가 저
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:216
 msgid "The warlord from Toen Caric."
-msgstr "토엔 카리크의 장군."
+msgstr "토엔 캐릭(Toen Caric)의 장군."
 
 #. [message]: speaker=Tairach
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:221
@@ -1536,7 +1536,7 @@ msgstr "오늘은 내 얼굴을 훼손한 대가를 톡톡히 치르게 될 것�
 msgid ""
 "I have already paid with the lives of my men at Toen Caric. It is time I "
 "righted that mistake and finished this once and for all."
-msgstr "이미 토엔 카리크에서 내 부하들의 목숨이 희생되었다. 내가 그 실수를 바로잡고 모든 것을 끝내겠다."
+msgstr "이미 토엔 캐릭(Toen Caric)에서 내 부하들의 목숨이 희생되었다. 내가 그 실수를 바로잡고 모든 것을 끝내겠다."
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/04_Return_to_the_Village.cfg:355

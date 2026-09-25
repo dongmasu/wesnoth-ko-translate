@@ -1,0 +1,208 @@
+candidate=wesnoth-did-ko.po:III	A Small Favor — III => 작은 호의 — III
+candidate=wesnoth-dm-ko.po:Pilafman	Pilafman => Pilafman
+candidate=wesnoth-dm-ko.po:Tan-Garthak	Tan-Garthak => Tan-Garthak
+candidate=wesnoth-dm-ko.po:Unuvim	Unuvim => Unuvim
+candidate=wesnoth-editor-ko.po:Battle	The Battle for Wesnoth => Battle for 웨스노스(Wesnoth) Map Editor
+candidate=wesnoth-editor-ko.po:Cmd	Cmd + click: copy terrain => Cmd + 클릭: 지형을 복사
+candidate=wesnoth-ei-ko.po:Darg	Darg => Darg
+candidate=wesnoth-ei-ko.po:Draka-Kura	Draka-Kura => Draka-Kura
+candidate=wesnoth-ei-ko.po:Elandin	Elandin => Elandin
+candidate=wesnoth-ei-ko.po:Garnad	Garnad => Garnad
+candidate=wesnoth-ei-ko.po:Groog	Groog => Groog
+candidate=wesnoth-ei-ko.po:Gruga-Har	Gruga-Har => Gruga-Har
+candidate=wesnoth-ei-ko.po:Kaldor	Kaldor => Kaldor
+candidate=wesnoth-ei-ko.po:Kraagak	Kraagak => Kraagak
+candidate=wesnoth-ei-ko.po:Lanar-Skal	Lanar-Skal => Lanar-Skal
+candidate=wesnoth-ei-ko.po:Mal-Galkar	Mal-Galkar => Mal-Galkar
+candidate=wesnoth-ei-ko.po:Mal-Grekulak	Mal-Grekulak => Mal-Grekulak
+candidate=wesnoth-ei-ko.po:Mal-Hakralan	Mal-Hakralan => Mal-Hakralan
+candidate=wesnoth-ei-ko.po:Mal-Telnarad	Mal-Telnarad => Mal-Telnarad
+candidate=wesnoth-ei-ko.po:Mal-Uldhar	Mal-Uldhar => Mal-Uldhar
+candidate=wesnoth-ei-ko.po:Ran-Lar	Ran-Lar => Ran-Lar
+candidate=wesnoth-ei-ko.po:S11	And look, our captured equipment and provisions are here too! I’ve recovered supplies worth $gold_amount_S11 gold. => 이것 봐, 빼앗겼던 장비와 보급품도 여기 있어! $gold_amount_S11 골드어치의 보급품을 되찾았어.
+candidate=wesnoth-ei-ko.po:S12	Congratulations! By sparing Dra-Nak in S11, ‘Captured’, sparing Mortic in S12 ‘Evacuation’, and completing the difficult S17b ‘All-In’, you’ve unlocked this bonus scenario! => 축하합니다! S11 ‘포획’에서 드라-나크를 살려 두고, S12 ‘철수’에서 모르틱(Mortic)을 살려 두며, 어려운 S17b ‘올인’을 완료해 이 보너스 시나리오를 잠금 해제했습니다!
+candidate=wesnoth-ei-ko.po:S17b	Congratulations! By sparing Dra-Nak in S11, ‘Captured’, sparing Mortic in S12 ‘Evacuation’, and completing the difficult S17b ‘All-In’, you’ve unlocked this bonus scenario! => 축하합니다! S11 ‘포획’에서 드라-나크를 살려 두고, S12 ‘철수’에서 모르틱(Mortic)을 살려 두며, 어려운 S17b ‘올인’을 완료해 이 보너스 시나리오를 잠금 해제했습니다!
+candidate=wesnoth-ei-ko.po:Unhk	Unhk => Unhk
+candidate=wesnoth-ei-ko.po:Volas	Volas => Volas
+candidate=wesnoth-ei-ko.po:Wak-Rano	Wak-Rano => Wak-Rano
+candidate=wesnoth-help-ko.po:Battle	The Battle for Wesnoth Help => Battle for 웨스노스(Wesnoth) 도움말
+candidate=wesnoth-help-ko.po:Cmd-b	To see where the enemy can move to during their next turn, press Ctrl-v or Cmd-v. Ctrl-b or Cmd-b shows where the enemy could move, if your units were not on the map to block their => 적이 다음 턴에 이동가능한 영역을 보려면, Ctrl-v나 Cmd-v를 누르십시오. Ctrl-b나 Cmd-b는 ZOC 등으로 그들의 이동을 막는 당신의 유닛이 맵에 없다고 가정했을 때 적이 이동가능한 영역을 보여줍니다.
+candidate=wesnoth-help-ko.po:Cmd-v	To see where the enemy can move to during their next turn, press Ctrl-v or Cmd-v. Ctrl-b or Cmd-b shows where the enemy could move, if your units were not on the map to block their => 적이 다음 턴에 이동가능한 영역을 보려면, Ctrl-v나 Cmd-v를 누르십시오. Ctrl-b나 Cmd-b는 ZOC 등으로 그들의 이동을 막는 당신의 유닛이 맵에 없다고 가정했을 때 적이 이동가능한 영역을 보여줍니다.
+candidate=wesnoth-help-ko.po:Ctrl-b	To see where the enemy can move to during their next turn, press Ctrl-v or Cmd-v. Ctrl-b or Cmd-b shows where the enemy could move, if your units were not on the map to block their => 적이 다음 턴에 이동가능한 영역을 보려면, Ctrl-v나 Cmd-v를 누르십시오. Ctrl-b나 Cmd-b는 ZOC 등으로 그들의 이동을 막는 당신의 유닛이 맵에 없다고 가정했을 때 적이 이동가능한 영역을 보여줍니다.
+candidate=wesnoth-help-ko.po:Ctrl-v	To see where the enemy can move to during their next turn, press Ctrl-v or Cmd-v. Ctrl-b or Cmd-b shows where the enemy could move, if your units were not on the map to block their => 적이 다음 턴에 이동가능한 영역을 보려면, Ctrl-v나 Cmd-v를 누르십시오. Ctrl-b나 Cmd-b는 ZOC 등으로 그들의 이동을 막는 당신의 유닛이 맵에 없다고 가정했을 때 적이 이동가능한 영역을 보여줍니다.
+candidate=wesnoth-httt-ko.po:Ronry	Ronry => Ronry
+candidate=wesnoth-httt-ko.po:Tahn	NE — Dan’Tonk SE — Fort Tahn => 북동 — Dan' Tonk 남동 — Tahn 요새
+candidate=wesnoth-ko.po:ADF	Oldania ADF Std => Oldania ADF Std
+candidate=wesnoth-ko.po:API	Show warnings about deprecated API in the in-game chat area. These messages will still be shown in the log, even if this is disabled. In addition, the deprecation log-domain contro => 게임 내 체팅 영역에서 더 이상 사용되지 않는 API에 대한 경고를 표시합니다. 이 메시지는 비활성화되어 있어도 로그에 계속 표시됩니다. 또한 지원 중단 로그 도메인은 인쇄할 메시지 수를 제어합니다.
+candidate=wesnoth-ko.po:Andagii	Lato-Regular.ttf,DejaVuSans.ttf,Andagii.ttf,DroidSansJapanese.ttf,DroidSansFallbackFull.ttf,Junicode-Regular.ttf => DejaVuSans.ttf,Andagii.ttf,DroidSansFallbackFull.ttf,DroidSansJapanese.ttf,Junicode-Regular.ttf
+candidate=wesnoth-ko.po:Battle	Battle for Wesnoth => The Battle for 웨스노스(Wesnoth)
+candidate=wesnoth-ko.po:Bzip2	save_compression^Bzip2 => Bzip2
+candidate=wesnoth-ko.po:Cmd-b	To see where the enemy can move to during their next turn, press Ctrl-v or Cmd-v. Ctrl-b or Cmd-b shows where the enemy could move, if your units were not on the map to block their => 적이 다음 턴에 이동가능한 영역을 보려면, Ctrl-v나 Cmd-v를 누르십시오. Ctrl-b나 Cmd-b는 ZOC 등으로 그들의 이동을 막는 당신의 유닛이 맵에 없다고 가정했을 때 적이 이동가능한 영역을 보여줍니다.
+candidate=wesnoth-ko.po:Cmd-v	To see where the enemy can move to during their next turn, press Ctrl-v or Cmd-v. Ctrl-b or Cmd-b shows where the enemy could move, if your units were not on the map to block their => 적이 다음 턴에 이동가능한 영역을 보려면, Ctrl-v나 Cmd-v를 누르십시오. Ctrl-b나 Cmd-b는 ZOC 등으로 그들의 이동을 막는 당신의 유닛이 맵에 없다고 가정했을 때 적이 이동가능한 영역을 보여줍니다.
+candidate=wesnoth-ko.po:Ctrl-b	To see where the enemy can move to during their next turn, press Ctrl-v or Cmd-v. Ctrl-b or Cmd-b shows where the enemy could move, if your units were not on the map to block their => 적이 다음 턴에 이동가능한 영역을 보려면, Ctrl-v나 Cmd-v를 누르십시오. Ctrl-b나 Cmd-b는 ZOC 등으로 그들의 이동을 막는 당신의 유닛이 맵에 없다고 가정했을 때 적이 이동가능한 영역을 보여줍니다.
+candidate=wesnoth-ko.po:Ctrl-v	To see where the enemy can move to during their next turn, press Ctrl-v or Cmd-v. Ctrl-b or Cmd-b shows where the enemy could move, if your units were not on the map to block their => 적이 다음 턴에 이동가능한 영역을 보려면, Ctrl-v나 Cmd-v를 누르십시오. Ctrl-b나 Cmd-b는 ZOC 등으로 그들의 이동을 막는 당신의 유닛이 맵에 없다고 가정했을 때 적이 이동가능한 영역을 보여줍니다.
+candidate=wesnoth-ko.po:DejaVu	DejaVu Sans Mono => DejaVu Sans Mono
+candidate=wesnoth-ko.po:DejaVuSans	Lato-Regular.ttf,DejaVuSans.ttf,Andagii.ttf,DroidSansJapanese.ttf,DroidSansFallbackFull.ttf,Junicode-Regular.ttf => DejaVuSans.ttf,Andagii.ttf,DroidSansFallbackFull.ttf,DroidSansJapanese.ttf,Junicode-Regular.ttf
+candidate=wesnoth-ko.po:Droid	DejaVu Sans,Andagii,Droid Sans Japanese,Droid Sans Fallback,Junicode => DejaVu Sans,Andagii,Droid Sans Fallback,Droid Sans Japanese,Junicode
+candidate=wesnoth-ko.po:DroidSansFallbackFull	Lato-Regular.ttf,DejaVuSans.ttf,Andagii.ttf,DroidSansJapanese.ttf,DroidSansFallbackFull.ttf,Junicode-Regular.ttf => DejaVuSans.ttf,Andagii.ttf,DroidSansFallbackFull.ttf,DroidSansJapanese.ttf,Junicode-Regular.ttf
+candidate=wesnoth-ko.po:DroidSansJapanese	Lato-Regular.ttf,DejaVuSans.ttf,Andagii.ttf,DroidSansJapanese.ttf,DroidSansFallbackFull.ttf,Junicode-Regular.ttf => DejaVuSans.ttf,Andagii.ttf,DroidSansFallbackFull.ttf,DroidSansJapanese.ttf,Junicode-Regular.ttf
+candidate=wesnoth-ko.po:Fallback	DejaVu Sans,Andagii,Droid Sans Japanese,Droid Sans Fallback,Junicode => DejaVu Sans,Andagii,Droid Sans Fallback,Droid Sans Japanese,Junicode
+candidate=wesnoth-ko.po:Graa	Graa,Greaa,Gree,Kaaa,Kassshh,Kessshh,Korro,Kraa,Kuu,Kzaaa,Kzuuu => Graa,Greaa,Gree,Kaaa,Kassshh,Kessshh,Korro,Kraa,Kuu,Kzaaa,Kzuuu
+candidate=wesnoth-ko.po:Greaa	Graa,Greaa,Gree,Kaaa,Kassshh,Kessshh,Korro,Kraa,Kuu,Kzaaa,Kzuuu => Graa,Greaa,Gree,Kaaa,Kassshh,Kessshh,Korro,Kraa,Kuu,Kzaaa,Kzuuu
+candidate=wesnoth-ko.po:Gree	Graa,Greaa,Gree,Kaaa,Kassshh,Kessshh,Korro,Kraa,Kuu,Kzaaa,Kzuuu => Graa,Greaa,Gree,Kaaa,Kassshh,Kessshh,Korro,Kraa,Kuu,Kzaaa,Kzuuu
+candidate=wesnoth-ko.po:Gzip	save_compression^Gzip => Gzip
+candidate=wesnoth-ko.po:Junicode	DejaVu Sans,Andagii,Droid Sans Japanese,Droid Sans Fallback,Junicode => DejaVu Sans,Andagii,Droid Sans Fallback,Droid Sans Japanese,Junicode
+candidate=wesnoth-ko.po:Junicode-Regular	Lato-Regular.ttf,DejaVuSans.ttf,Andagii.ttf,DroidSansJapanese.ttf,DroidSansFallbackFull.ttf,Junicode-Regular.ttf => DejaVuSans.ttf,Andagii.ttf,DroidSansFallbackFull.ttf,DroidSansJapanese.ttf,Junicode-Regular.ttf
+candidate=wesnoth-ko.po:Kaaa	Graa,Greaa,Gree,Kaaa,Kassshh,Kessshh,Korro,Kraa,Kuu,Kzaaa,Kzuuu => Graa,Greaa,Gree,Kaaa,Kassshh,Kessshh,Korro,Kraa,Kuu,Kzaaa,Kzuuu
+candidate=wesnoth-ko.po:Kaasa	Kaasa,Kayya,Keyya,Kiira,Korra => Kaasa,Kayya,Keyya,Kiira,Korra
+candidate=wesnoth-ko.po:Kassshh	Graa,Greaa,Gree,Kaaa,Kassshh,Kessshh,Korro,Kraa,Kuu,Kzaaa,Kzuuu => Graa,Greaa,Gree,Kaaa,Kassshh,Kessshh,Korro,Kraa,Kuu,Kzaaa,Kzuuu
+candidate=wesnoth-ko.po:Kayya	Kaasa,Kayya,Keyya,Kiira,Korra => Kaasa,Kayya,Keyya,Kiira,Korra
+candidate=wesnoth-ko.po:Kessshh	Graa,Greaa,Gree,Kaaa,Kassshh,Kessshh,Korro,Kraa,Kuu,Kzaaa,Kzuuu => Graa,Greaa,Gree,Kaaa,Kassshh,Kessshh,Korro,Kraa,Kuu,Kzaaa,Kzuuu
+candidate=wesnoth-ko.po:Keyya	Kaasa,Kayya,Keyya,Kiira,Korra => Kaasa,Kayya,Keyya,Kiira,Korra
+candidate=wesnoth-ko.po:Kiira	Kaasa,Kayya,Keyya,Kiira,Korra => Kaasa,Kayya,Keyya,Kiira,Korra
+candidate=wesnoth-ko.po:Korra	Kaasa,Kayya,Keyya,Kiira,Korra => Kaasa,Kayya,Keyya,Kiira,Korra
+candidate=wesnoth-ko.po:Korro	Graa,Greaa,Gree,Kaaa,Kassshh,Kessshh,Korro,Kraa,Kuu,Kzaaa,Kzuuu => Graa,Greaa,Gree,Kaaa,Kassshh,Kessshh,Korro,Kraa,Kuu,Kzaaa,Kzuuu
+candidate=wesnoth-ko.po:Kraa	Graa,Greaa,Gree,Kaaa,Kassshh,Kessshh,Korro,Kraa,Kuu,Kzaaa,Kzuuu => Graa,Greaa,Gree,Kaaa,Kassshh,Kessshh,Korro,Kraa,Kuu,Kzaaa,Kzuuu
+candidate=wesnoth-ko.po:Kuu	Graa,Greaa,Gree,Kaaa,Kassshh,Kessshh,Korro,Kraa,Kuu,Kzaaa,Kzuuu => Graa,Greaa,Gree,Kaaa,Kassshh,Kessshh,Korro,Kraa,Kuu,Kzaaa,Kzuuu
+candidate=wesnoth-ko.po:Kzaaa	Graa,Greaa,Gree,Kaaa,Kassshh,Kessshh,Korro,Kraa,Kuu,Kzaaa,Kzuuu => Graa,Greaa,Gree,Kaaa,Kassshh,Kessshh,Korro,Kraa,Kuu,Kzaaa,Kzuuu
+candidate=wesnoth-ko.po:Kzuuu	Graa,Greaa,Gree,Kaaa,Kassshh,Kessshh,Korro,Kraa,Kuu,Kzaaa,Kzuuu => Graa,Greaa,Gree,Kaaa,Kassshh,Kessshh,Korro,Kraa,Kuu,Kzaaa,Kzuuu
+candidate=wesnoth-ko.po:Lato	Lato => GULIM, Lato
+candidate=wesnoth-ko.po:Light	Lato Light => Lato Light
+candidate=wesnoth-ko.po:Mono	DejaVu Sans Mono => DejaVu Sans Mono
+candidate=wesnoth-ko.po:Northerners	Northerners unleashed! => Northerners
+candidate=wesnoth-ko.po:Oldania	Oldania ADF Std => Oldania ADF Std
+candidate=wesnoth-ko.po:OneDrive	Unable to create log files in directory $logdir. This is often caused by incorrect folder permissions, anti-virus software restricting folder access, or using OneDrive to manage yo => $logdir 디렉토리에 로그 파일을 만들 수 없습니다. 이 문제는 잘못된 폴더 권한, 백신 소프트웨어로 인한 폴더 접근 제한, 또는 OneDrive로 내 문서 폴더를 관리할 때 발생하는 경우가 많습니다.
+candidate=wesnoth-ko.po:Sans	DejaVu Sans Mono => DejaVu Sans Mono
+candidate=wesnoth-ko.po:Shaw	English (Shaw) Translation => 영어 Shaw식 음역 담당
+candidate=wesnoth-ko.po:Std	Oldania ADF Std => Oldania ADF Std
+candidate=wesnoth-ko.po:Still	Still there => Still Another Wanderer
+candidate=wesnoth-ko.po:Throne	There are two important exceptions to Upkeep: units with the Loyal trait and leaders never incur upkeep. Units you begin the scenario with (such as Delfador), or units who join you => 유지비에는 중요한 두 가지 예외가 있습니다: 심복 특성을 가진 유닛과 지휘관은 유지비를 요구하지 않습니다. 첫 시나리오부터 함께 시작하는 유닛 (Delfador 같은)이나 시나리오 중간에 합류하는 유닛 (Heir to the Throne 캠페인 2번째 시나리오의 기병 같은)은 대체로 심복 특성을 가지고 있습니다. 당신이 플레이하는 유닛 (Konrad 같은)은 거의 항상 지휘관입니다.
+candidate=wesnoth-ko.po:UTC	UTC+0 => UTC+0
+candidate=wesnoth-ko.po:UTF-8	The add-on name contains an invalid UTF-8 sequence. => 부가 기능 이름에 잘못된 UTF-8 시퀀스가 있습니다.
+candidate=wesnoth-l-ko.po:Jingo	Jingo => Jingo
+candidate=wesnoth-l-ko.po:Majel	Majel => Majel
+candidate=wesnoth-l-ko.po:Mal-Jarrof	Mal-Jarrof => Mal-Jarrof
+candidate=wesnoth-l-ko.po:Mal-Jerod	Mal-Jerod => Mal-Jerod
+candidate=wesnoth-l-ko.po:Pitcher	Pitcher => Pitcher
+candidate=wesnoth-l-ko.po:Rothel	Rothel => Rothel
+candidate=wesnoth-l-ko.po:Sel-Mana	Sel-Mana => Sel-Mana
+candidate=wesnoth-lib-ko.po:Battle	Show Battle for Wesnoth help => Battle for 웨스노스(Wesnoth) 도움말을 봅니다
+candidate=wesnoth-lib-ko.po:CPU	Disabling this increases CPU usage, but may slightly improve performance (requires restart to take effect) => 사용하지 않으면 CPU 사용량이 늘지만 성능이 약간 향상될 수 있습니다(적용하려면 다시 시작해야 합니다)
+candidate=wesnoth-lib-ko.po:Cocoa	feature^Cocoa notifications back end => Cocoa 알림 백엔드
+candidate=wesnoth-lib-ko.po:Ctrl	Use left/right mouse button to draw fore-/background terrain. Hold Shift to paint base layer only. Ctrl+click to sample terrain under cursor. => 마우스 왼쪽/오른쪽 버튼으로 전경/배경 지형을 그립니다. Shift를 누르면 기본 레이어만 칠하고, Ctrl+클릭하면 커서 아래 지형을 추출합니다.
+candidate=wesnoth-lib-ko.po:D-Bus	feature^D-Bus notifications back end => D-Bus 알림 백엔드
+candidate=wesnoth-lib-ko.po:Discord	Discord => Discord
+candidate=wesnoth-lib-ko.po:ESC	Press ESC to skip => ESC를 눌러 건너뛰기
+candidate=wesnoth-lib-ko.po:FPS	Limit FPS => FPS 제한
+candidate=wesnoth-lib-ko.po:HOME	Use absolute paths. Relative paths are deprecated because they are interpreted relative to $HOME => 절대 경로를 사용하세요. 상대 경로는 $HOME을 기준으로 해석되므로 더 이상 사용되지 않습니다
+candidate=wesnoth-lib-ko.po:IRC	IRC => IRC
+candidate=wesnoth-lib-ko.po:LAN	Find and set path to MP server to host LAN games => LAN 게임을 호스팅할 마력(MP) 서버 경로 찾기 및 설정
+candidate=wesnoth-lib-ko.po:PNG	Unsupported image format. Try to save the screenshot as PNG instead. => 지원하지 않는 이미지 형식입니다. 스크린샷을 PNG 형식으로 저장해 보십시오.
+candidate=wesnoth-lib-ko.po:POSIX	The POSIX locale name of the translation, such as sv (Swedish) or zh_CN (Simplified Chinese). => 번역의 POSIX locale 이름입니다. 예: sv(스웨덴어) 또는 zh_CN(중국어 간체).
+candidate=wesnoth-lib-ko.po:Pango	The text contains invalid Pango markup: => 텍스트에 잘못된 Pango 마크업이 포함되어 있습니다:
+candidate=wesnoth-lib-ko.po:Reddit	Reddit => Reddit
+candidate=wesnoth-lib-ko.po:Shift	Speed at which unit moves and animations play when ‘Accelerated speed’ is enabled or when Shift is held down in-game => ‘가속 속도’를 사용하거나 게임에서 Shift를 누르는 동안 유닛 이동과 애니메이션이 재생되는 속도
+candidate=wesnoth-lib-ko.po:Steam	Steam => Steam
+candidate=wesnoth-lib-ko.po:Tb'	editor^The overlays '^Uf' and '^Ufi' are deprecated because, although the graphics show an overlay with another terrain underneath, the movement and defense stats are purely fungus => Ufi'는 더 이상 사용되지 않습니다. 그래픽상으로는 다른 지형 위에 오버레이가 표시되지만, 이동력과 방어력은 아래 지형을 무시하고 순수한 버섯 지형의 수치를 사용하기 때문입니다. 대신 그래픽은 같으면서 그래픽에 맞는 수치를 사용하는 '^Tf'와 '^Tfi'를 권장합니다. 순수한 버섯 지형의 수치가 필요한 칸에는 버섯 기본 지형인 'Tb'를 사용하며, 그 위에 '^Tf'를 추가하거나 추가하지
+candidate=wesnoth-lib-ko.po:Tf'	editor^The overlays '^Uf' and '^Ufi' are deprecated because, although the graphics show an overlay with another terrain underneath, the movement and defense stats are purely fungus => Ufi'는 더 이상 사용되지 않습니다. 그래픽상으로는 다른 지형 위에 오버레이가 표시되지만, 이동력과 방어력은 아래 지형을 무시하고 순수한 버섯 지형의 수치를 사용하기 때문입니다. 대신 그래픽은 같으면서 그래픽에 맞는 수치를 사용하는 '^Tf'와 '^Tfi'를 권장합니다. 순수한 버섯 지형의 수치가 필요한 칸에는 버섯 기본 지형인 'Tb'를 사용하며, 그 위에 '^Tf'를 추가하거나 추가하지
+candidate=wesnoth-lib-ko.po:Tfi'	editor^The overlays '^Uf' and '^Ufi' are deprecated because, although the graphics show an overlay with another terrain underneath, the movement and defense stats are purely fungus => Ufi'는 더 이상 사용되지 않습니다. 그래픽상으로는 다른 지형 위에 오버레이가 표시되지만, 이동력과 방어력은 아래 지형을 무시하고 순수한 버섯 지형의 수치를 사용하기 때문입니다. 대신 그래픽은 같으면서 그래픽에 맞는 수치를 사용하는 '^Tf'와 '^Tfi'를 권장합니다. 순수한 버섯 지형의 수치가 필요한 칸에는 버섯 기본 지형인 'Tb'를 사용하며, 그 위에 '^Tf'를 추가하거나 추가하지
+candidate=wesnoth-lib-ko.po:URL	Forum URL => 포럼 URL
+candidate=wesnoth-lib-ko.po:Ufi'	editor^The overlays '^Uf' and '^Ufi' are deprecated because, although the graphics show an overlay with another terrain underneath, the movement and defense stats are purely fungus => Ufi'는 더 이상 사용되지 않습니다. 그래픽상으로는 다른 지형 위에 오버레이가 표시되지만, 이동력과 방어력은 아래 지형을 무시하고 순수한 버섯 지형의 수치를 사용하기 때문입니다. 대신 그래픽은 같으면서 그래픽에 맞는 수치를 사용하는 '^Tf'와 '^Tfi'를 권장합니다. 순수한 버섯 지형의 수치가 필요한 칸에는 버섯 기본 지형인 'Tb'를 사용하며, 그 위에 '^Tf'를 추가하거나 추가하지
+candidate=wesnoth-lib-ko.po:Win32	feature^Win32 notifications back end => Win32 알림 백엔드
+candidate=wesnoth-low-ko.po:Alexander	Spiros, George and Alexander Alexiou (Santi/fnaek) => Spiros, George and Alexander Alexiou (Santi/fnaek)
+candidate=wesnoth-low-ko.po:Alexiou	Spiros, George and Alexander Alexiou (Santi/fnaek) => Spiros, George and Alexander Alexiou (Santi/fnaek)
+candidate=wesnoth-low-ko.po:George	Spiros, George and Alexander Alexiou (Santi/fnaek) => Spiros, George and Alexander Alexiou (Santi/fnaek)
+candidate=wesnoth-low-ko.po:Khafa-Urg	Khafa-Urg => Khafa-Urg
+candidate=wesnoth-low-ko.po:Spiros	Spiros, George and Alexander Alexiou (Santi/fnaek) => Spiros, George and Alexander Alexiou (Santi/fnaek)
+candidate=wesnoth-manpages-ko.po:API	disallow deprecated Lua API calls => 더 이상 사용하지 않는 Lua API 호출을 허용하지 않습니다.
+candidate=wesnoth-manpages-ko.po:Battle	Battle for Wesnoth multiplayer network daemon => Battle for 웨스노스(Wesnoth) 멀티플레이 네트워크 데몬
+candidate=wesnoth-manpages-ko.po:CONFIG	sets the user configuration directory to I<name> under $HOME or "My Documents\eMy Games" for windows. You can also specify an absolute path for the configuration directory outside  => 사용자 설정 디렉터리를 $HOME 아래의 I<name>으로 설정하거나, Windows에서는 "My Documents\eMy Games" 아래의 I<name>으로 설정합니다. $HOME 또는 "My Documents\eMy Games" 외부의 절대 경로도 지정할 수 있습니다. Windows에서는 ".\e" 또는 "..\e"로 시작하는 경로를 사용해 프로세스의 작업 디렉터리를 기준으로 한 디렉터
+candidate=wesnoth-manpages-ko.po:CONOUT	For Windows, when used with --no-log-to-file, results in output being written to cerr/cout instead of CONOUT. Otherwise, does nothing. => Windows에서 --no-log-to-file과 함께 사용하면 CONOUT 대신 cerr/cout에 출력을 기록합니다. 그 외에는 아무 작업도 하지 않습니다.
+candidate=wesnoth-manpages-ko.po:CORE	comma separated list of defines to be used by the B<--preprocess> command. If B<SKIP_CORE> is in the define list the "data/core" directory won't be preprocessed. => B<--preprocess> 명령에서 사용할 define의 쉼표로 구분된 목록입니다. define 목록에 B<SKIP_CORE>가 있으면 "data/core" 디렉터리는 전처리하지 않습니다.
+candidate=wesnoth-manpages-ko.po:Command-line	preprocesses a specified file/folder. For each file(s) a plain .cfg file and a processed .cfg file will be written in specified target directory. If a folder is specified, it will  => 지정한 파일 또는 폴더를 전처리합니다. 각 파일에 대해 일반 .cfg 파일과 처리된 .cfg 파일을 지정한 대상 디렉터리에 기록합니다. 폴더를 지정하면 알려진 전처리 규칙에 따라 재귀적으로 전처리합니다. 지정한 리소스보다 먼저 "data/core/macros" 디렉터리의 공통 매크로를 전처리합니다. 예: B<-p ~/wesnoth/data/campaigns/tutorial ~/result.>
+candidate=wesnoth-manpages-ko.po:CommandMode	enables additional command mode options in-game (see the wiki page at https://www.wesnoth.org/wiki/CommandMode for more information about command mode). => 게임 내에서 추가 명령 모드 옵션을 활성화합니다(명령 모드에 대한 자세한 내용은 https://www.wesnoth.org/wiki/CommandMode의 위키 문서를 참조하십시오).
+candidate=wesnoth-manpages-ko.po:DATA	B<wesnoth> [I<OPTIONS>] [I<PATH_TO_DATA>] => B<wesnoth> [I<OPTIONS>] [I<PATH_TO_DATA>]
+candidate=wesnoth-manpages-ko.po:Default	use this option to play in the selected era instead of the B<Default> era. The era is chosen by an id. Eras are described in the B<data/multiplayer/eras.cfg> file. => B<Default> 시대 대신 선택한 시대에서 플레이하려면 이 옵션을 사용합니다. 시대는 ID로 선택합니다. 시대는 B<data/multiplayer/eras.cfg> 파일에 설명되어 있습니다.
+candidate=wesnoth-manpages-ko.po:DiffWML	diffs the two WML files; does not preprocess them first (to do that, run them through B<-p> first). Outputs the diff as DiffWML on standard output or to the file indicated by I<--o => 두 WML 파일의 차이를 출력합니다. 먼저 전처리하지 않습니다(전처리하려면 먼저 B<-p>를 통해 실행하십시오). 차이 결과를 표준 출력 또는 I<--output>으로 지정한 파일에 DiffWML 형식으로 출력합니다.
+candidate=wesnoth-manpages-ko.po:Documents	sets the user configuration directory to I<name> under $HOME or "My Documents\eMy Games" for windows. You can also specify an absolute path for the configuration directory outside  => 사용자 설정 디렉터리를 $HOME 아래의 I<name>으로 설정하거나, Windows에서는 "My Documents\eMy Games" 아래의 I<name>으로 설정합니다. $HOME 또는 "My Documents\eMy Games" 외부의 절대 경로도 지정할 수 있습니다. Windows에서는 ".\e" 또는 "..\e"로 시작하는 경로를 사용해 프로세스의 작업 디렉터리를 기준으로 한 디렉터
+candidate=wesnoth-manpages-ko.po:ENABLE	B<[user_handler]> Configures the user handler. If no B<[user_handler]> section is present in the configuration the server will run without any nick registration service. All additi => B<[user_handler]> 사용자 처리기를 설정합니다. 설정에 B<[user_handler]> 섹션이 없으면 서버는 별명 등록 서비스 없이 실행됩니다. B<forum_user_handler>가 작동하는 데 필요한 추가 테이블은 웨스노스(Wesnoth) 소스 저장소의 table_definitions.sql에서 찾을 수 있습니다. mysql 지원을 활성화해야 합니다. cmake에서는 B<E
+candidate=wesnoth-manpages-ko.po:Foundation	This is Free Software; this software is licensed under the GPL version 2, as published by the Free Software Foundation. There is NO warranty; not even for MERCHANTABILITY or FITNES => 이것은 자유 소프트웨어입니다. 이 소프트웨어는 Free Software Foundation이 공표한 GPL 버전 2에 따라 사용 허가됩니다. 어떠한 보증도 제공하지 않으며, 상품성이나 특정 목적에 대한 적합성에 대한 보증도 제공하지 않습니다.
+candidate=wesnoth-manpages-ko.po:Free	This is Free Software; this software is licensed under the GPL version 2, as published by the Free Software Foundation. There is NO warranty; not even for MERCHANTABILITY or FITNES => 이것은 자유 소프트웨어입니다. 이 소프트웨어는 Free Software Foundation이 공표한 GPL 버전 2에 따라 사용 허가됩니다. 어떠한 보증도 제공하지 않으며, 상품성이나 특정 목적에 대한 적합성에 대한 보증도 제공하지 않습니다.
+candidate=wesnoth-manpages-ko.po:Freelands	selects a multiplayer scenario by id. The default scenario id is B<multiplayer_The_Freelands>. => ID로 멀티플레이 시나리오를 선택합니다. 기본 시나리오 ID는 B<multiplayer_The_Freelands>입니다.
+candidate=wesnoth-manpages-ko.po:GPL	This is Free Software; this software is licensed under the GPL version 2, as published by the Free Software Foundation. There is NO warranty; not even for MERCHANTABILITY or FITNES => 이것은 자유 소프트웨어입니다. 이 소프트웨어는 Free Software Foundation이 공표한 GPL 버전 2에 따라 사용 허가됩니다. 어떠한 보증도 제공하지 않으며, 상품성이나 특정 목적에 대한 적합성에 대한 보증도 제공하지 않습니다.
+candidate=wesnoth-manpages-ko.po:GUI	runs the game without the GUI. Only available in combination with B<--multiplayer> or B<--screenshot> or B<--plugin>. => GUI 없이 게임을 실행합니다. B<--multiplayer>, B<--screenshot> 또는 B<--plugin>과 함께 사용할 때만 사용할 수 있습니다.
+candidate=wesnoth-manpages-ko.po:Games	sets the user configuration directory to I<name> under $HOME or "My Documents\eMy Games" for windows. You can also specify an absolute path for the configuration directory outside  => 사용자 설정 디렉터리를 $HOME 아래의 I<name>으로 설정하거나, Windows에서는 "My Documents\eMy Games" 아래의 I<name>으로 설정합니다. $HOME 또는 "My Documents\eMy Games" 외부의 절대 경로도 지정할 수 있습니다. Windows에서는 ".\e" 또는 "..\e"로 시작하는 경로를 사용해 프로세스의 작업 디렉터리를 기준으로 한 디렉터
+candidate=wesnoth-manpages-ko.po:HOME	sets the user configuration directory to I<name> under $HOME or "My Documents\eMy Games" for windows. You can also specify an absolute path for the configuration directory outside  => 사용자 설정 디렉터리를 $HOME 아래의 I<name>으로 설정하거나, Windows에서는 "My Documents\eMy Games" 아래의 I<name>으로 설정합니다. $HOME 또는 "My Documents\eMy Games" 외부의 절대 경로도 지정할 수 있습니다. Windows에서는 ".\e" 또는 "..\e"로 시작하는 경로를 사용해 프로세스의 작업 디렉터리를 기준으로 한 디렉터
+candidate=wesnoth-manpages-ko.po:ImagePathFunctionWML	takes a valid wesnoth 'image path string' with image path functions, and outputs to a .png file. Image path functions are documented at https://wiki.wesnoth.org/ImagePathFunctionWM => 유효한 Wesnoth 'image path string'을 이미지 경로 함수와 함께 받아 .png 파일로 출력합니다. 이미지 경로 함수는 https://wiki.wesnoth.org/ImagePathFunctionWML에 문서화되어 있습니다.
+candidate=wesnoth-manpages-ko.po:MACROS	used only by the B<--preprocess> command. Will output all preprocessed macros in the target file. If the file is not specified the output will be file '_MACROS_.cfg' in the target  => B<--preprocess> 명령에서만 사용합니다. 전처리된 모든 매크로를 대상 파일에 출력합니다. 파일을 지정하지 않으면 전처리 명령의 대상 디렉터리에 '_MACROS_.cfg' 파일로 출력합니다. 출력 파일은 B<--preprocess-input-macros>에 전달할 수 있습니다. 이 스위치는 B<--preprocess> 명령 앞에 입력해야 합니다.
+candidate=wesnoth-manpages-ko.po:MYSQL	B<[user_handler]> Configures the user handler. If no B<[user_handler]> section is present in the configuration the server will run without any nick registration service. All additi => B<[user_handler]> 사용자 처리기를 설정합니다. 설정에 B<[user_handler]> 섹션이 없으면 서버는 별명 등록 서비스 없이 실행됩니다. B<forum_user_handler>가 작동하는 데 필요한 추가 테이블은 웨스노스(Wesnoth) 소스 저장소의 table_definitions.sql에서 찾을 수 있습니다. mysql 지원을 활성화해야 합니다. cmake에서는 B<E
+candidate=wesnoth-manpages-ko.po:OPTIONS	B<wesnoth> [I<OPTIONS>] [I<PATH_TO_DATA>] => B<wesnoth> [I<OPTIONS>] [I<PATH_TO_DATA>]
+candidate=wesnoth-manpages-ko.po:PATH	B<wesnoth> [I<OPTIONS>] [I<PATH_TO_DATA>] => B<wesnoth> [I<OPTIONS>] [I<PATH_TO_DATA>]
+candidate=wesnoth-manpages-ko.po:PreprocessorRef	preprocesses a specified file/folder. For each file(s) a plain .cfg file and a processed .cfg file will be written in specified target directory. If a folder is specified, it will  => 지정한 파일 또는 폴더를 전처리합니다. 각 파일에 대해 일반 .cfg 파일과 처리된 .cfg 파일을 지정한 대상 디렉터리에 기록합니다. 폴더를 지정하면 알려진 전처리 규칙에 따라 재귀적으로 전처리합니다. 지정한 리소스보다 먼저 "data/core/macros" 디렉터리의 공통 매크로를 전처리합니다. 예: B<-p ~/wesnoth/data/campaigns/tutorial ~/result.>
+candidate=wesnoth-manpages-ko.po:SDL	Normal exit status is 0. An exit status of 1 indicates an (SDL, video, fonts, etc) initialization error. An exit status of 2 indicates an error with the command line options. => 일반적인 종료 상태는 0입니다. 종료 상태 1은 SDL, 비디오, 글꼴 등의 초기화 오류를 나타냅니다. 종료 상태 2는 명령줄 옵션 오류를 나타냅니다.
+candidate=wesnoth-manpages-ko.po:SERVER	tells wesnothd where to find the config file to use. See the section B<SERVER CONFIG> below for the syntax. You can reload the config with sending SIGHUP to the server process. => wesnothd에 사용할 설정 파일의 위치를 알려 줍니다. 문법은 아래의 B<SERVER CONFIG> 절을 참조하십시오. 서버 프로세스에 SIGHUP을 보내 설정을 다시 불러올 수 있습니다.
+candidate=wesnoth-manpages-ko.po:SIGHUP	tells wesnothd where to find the config file to use. See the section B<SERVER CONFIG> below for the syntax. You can reload the config with sending SIGHUP to the server process. => wesnothd에 사용할 설정 파일의 위치를 알려 줍니다. 문법은 아래의 B<SERVER CONFIG> 절을 참조하십시오. 서버 프로세스에 SIGHUP을 보내 설정을 다시 불러올 수 있습니다.
+candidate=wesnoth-manpages-ko.po:SKIP	comma separated list of defines to be used by the B<--preprocess> command. If B<SKIP_CORE> is in the define list the "data/core" directory won't be preprocessed. => B<--preprocess> 명령에서 사용할 define의 쉼표로 구분된 목록입니다. define 목록에 B<SKIP_CORE>가 있으면 "data/core" 디렉터리는 전처리하지 않습니다.
+candidate=wesnoth-manpages-ko.po:ServerAdministration	Manages Battle for Wesnoth multiplayer games. See https://www.wesnoth.org/wiki/ServerAdministration on what commands the server accepts via the wesnoth client (/query ...) or the f => Battle for 웨스노스(Wesnoth) 멀티플레이 게임을 관리합니다. wesnoth 클라이언트(/query ...) 또는 FIFO를 통해 서버가 허용하는 명령은 https://www.wesnoth.org/wiki/ServerAdministration을 참조하십시오.
+candidate=wesnoth-manpages-ko.po:Software	This is Free Software; this software is licensed under the GPL version 2, as published by the Free Software Foundation. There is NO warranty; not even for MERCHANTABILITY or FITNES => 이것은 자유 소프트웨어입니다. 이 소프트웨어는 Free Software Foundation이 공표한 GPL 버전 2에 따라 사용 허가됩니다. 어떠한 보증도 제공하지 않으며, 상품성이나 특정 목적에 대한 적합성에 대한 보증도 제공하지 않습니다.
+candidate=wesnoth-manpages-ko.po:TLS	Enable use of TLS. If true, requires 3 following options to be set too. => TLS 사용을 활성화합니다. true인 경우 다음 3개 옵션도 설정해야 합니다.
+candidate=wesnoth-manpages-ko.po:WESNOTHD	WESNOTHD => WESNOTHD
+candidate=wesnoth-manpages-ko.po:Windows	For Windows, when used with --no-log-to-file, results in output being written to cerr/cout instead of CONOUT. Otherwise, does nothing. => Windows에서 --no-log-to-file과 함께 사용하면 CONOUT 대신 cerr/cout에 출력을 기록합니다. 그 외에는 아무 작업도 하지 않습니다.
+candidate=wesnoth-manpages-ko.po:X11	sets the user configuration directory to I<name> under $HOME or "My Documents\eMy Games" for windows. You can also specify an absolute path for the configuration directory outside  => 사용자 설정 디렉터리를 $HOME 아래의 I<name>으로 설정하거나, Windows에서는 "My Documents\eMy Games" 아래의 I<name>으로 설정합니다. $HOME 또는 "My Documents\eMy Games" 외부의 절대 경로도 지정할 수 있습니다. Windows에서는 ".\e" 또는 "..\e"로 시작하는 경로를 사용해 프로세스의 작업 디렉터리를 기준으로 한 디렉터
+candidate=wesnoth-manpages-ko.po:XDG	sets the user configuration directory to I<name> under $HOME or "My Documents\eMy Games" for windows. You can also specify an absolute path for the configuration directory outside  => 사용자 설정 디렉터리를 $HOME 아래의 I<name>으로 설정하거나, Windows에서는 "My Documents\eMy Games" 아래의 I<name>으로 설정합니다. $HOME 또는 "My Documents\eMy Games" 외부의 절대 경로도 지정할 수 있습니다. Windows에서는 ".\e" 또는 "..\e"로 시작하는 경로를 사용해 프로세스의 작업 디렉터리를 기준으로 한 디렉터
+candidate=wesnoth-manual-ko.po:Ctrl	The first thing you will probably want to do is recruit your first unit. Press <literal>Ctrl+r</literal> (or right click on an empty castle hex and select "Recruit") and you will b => 가장 먼저 하고 싶은 일은 첫 번째 유닛을 모집하는 것일 것입니다. <literal>Ctrl+r</literal>을 누르거나 빈 성 육각형을 마우스 오른쪽 버튼으로 클릭하고 "모집"을 선택하면 사용 가능한 모든 유닛 목록에서 유닛을 모집할 수 있습니다. 각 신병은 빈 성 육각형에 배치됩니다. 성을 채우면 유닛이 이동할 때까지 더 이상 모집할 수 없습니다. 상대방의 지휘관도 마찬가지로 성 요새
+candidate=wesnoth-manual-ko.po:LAN	In general multiplayer games are played against other players via the Internet (you can also run them on your LAN if you have one). All these games are co-ordinated through the Wes => 일반적으로 멀티플레이어 게임은 인터넷을 통해 다른 플레이어와 플레이합니다 (LAN이 있는 경우 LAN에서도 실행할 수 있습니다). 이 모든 게임은 웨스노스(Wesnoth) 멀티플레이어 서버를 통해 조정됩니다. 멀티플레이어 게임은 플레이어 수 (및 맵 크기)에 따라 1시간에서 10시간까지 걸릴 수 있습니다. 평균 시간은 3시간에서 7시간 사이입니다. 게임은 원하는 만큼 저장하고 불러올 수 있습
+candidate=wesnoth-manual-ko.po:TCP	To be able to start a multiplayer game without using an external multiplayer server, you have to start the server, which is usually named <emphasis>wesnothd</emphasis>, yourself. T => 외부 멀티플레이어 서버를 사용하지 않고 멀티플레이어 게임을 시작하려면 일반적으로 <emphasis>wesnothd</emphasis>라는 서버를 직접 시작해야 합니다. 이 옵션을 선택하면 이 프로그램이 백그라운드에서 자동으로 시작됩니다. 모든 플레이어가 서버를 떠나면 중지됩니다. 다른 플레이어는 TCP를 사용하여 포트 15000에 연결하여 서버에서 함께 플레이할 수 있어야 합니다. 방화벽을 
+candidate=wesnoth-manual-ko.po:ZOC	Because of ZOC, an enemy may not slip between two units which are aligned on a north-south or diagonal line and have exactly 1 or 2 hexes between them. By combining these pairs int => 통제 권역(ZOC) 때문에, 적은 남북 또는 대각선으로 정렬되어 있고 정확히 1~2개의 육각형이 그 사이에 있는 두 유닛 사이로 빠져나갈 수 없습니다. 이러한 쌍을 길게 연결하거나 다른 방향으로 사용함으로써, 뒤에 있는 부상 유닛에 적이 도달하는 것을 막을 수 있습니다. 적은 먼저 ZOC를 가하는 유닛을 격파해야 합니다. 적이 간신히 도달할 수 있다면, 단일 유닛조차 뒤쪽의 작은 지역을 방어
+candidate=wesnoth-multiplayer-ko.po:Dark	Complete the survival scenario <i>2p - Dark Forecast</i>. => 생존 시나리오 <i>2p - Dark Forecast</i>를 완료하십시오.
+candidate=wesnoth-multiplayer-ko.po:Doc	Long ago, the Great Mage Sulla was imprisoned in the Aethermaw, a nexus of mystical energy whose chaotic nature was able to prevent her escape. Over the centuries, however, Sulla g => 오랜 옛날, 대마법사 술라(Sulla)는 혼돈의 힘을 가진 신비한 에너지의 중심부인 천공의 구멍에 봉인되었다. 하지만, 술라(Sulla)는 수백년이 지나는 동안 점점 그녀의 힘을 바로 그 천공의 구멍 속 혼돈의 폭풍에 맞추어 갔으며, 이제는 그 영향력을 물질 세계에, 수백개의 다른 세계와 현실과 시간대에 있는 영토들에 행사하기 위한 작업을 시작했다. 그녀는 우주의 서로 다른 조각들을 조종하고
+candidate=wesnoth-multiplayer-ko.po:Forecast	Complete the survival scenario <i>2p - Dark Forecast</i>. => 생존 시나리오 <i>2p - Dark Forecast</i>를 완료하십시오.
+candidate=wesnoth-multiplayer-ko.po:Ihn	Rah Ihn Mar => 라 이흔 마르(Rah Ihn Mar)
+candidate=wesnoth-multiplayer-ko.po:Isle	Complete the survival scenario <i>2p - Isle of Mists</i>. => 생존 시나리오 <i>2p - Isle of Mists</i>를 완료하십시오.
+candidate=wesnoth-multiplayer-ko.po:Lagoon	4p — Lagoon => 4p - Lagoon
+candidate=wesnoth-multiplayer-ko.po:Land	Complete the survival scenario <i>4p - A New Land</i>. => 생존 시나리오 <i>4p - A New Land</i>를 완료하십시오.
+candidate=wesnoth-multiplayer-ko.po:Lord-Knightmare	Isle of Mists is a survival scenario which can be played alone or with another player against randomly spawned AI units, catered for experienced players. Victory is achieved by sur => 안개의 섬은 숙련된 플레이어를 위한 생존 시나리오로, 혼자 또는 다른 플레이어와 함께 무작위로 생성되는 AI 유닛에 맞서 싸울 수 있습니다. 모든 적의 파도를 물리치고 살아남으면 승리합니다. 플레이 중에는 무작위 날씨 효과에 따라 지형이 변합니다. 시나리오가 제대로 작동하려면 기본 지도 설정을 사용해야 합니다. Lord-Knightmare 제작.
+candidate=wesnoth-multiplayer-ko.po:Mists	Complete the survival scenario <i>2p - Isle of Mists</i>. => 생존 시나리오 <i>2p - Isle of Mists</i>를 완료하십시오.
+candidate=wesnoth-multiplayer-ko.po:Paterson	Long ago, the Great Mage Sulla was imprisoned in the Aethermaw, a nexus of mystical energy whose chaotic nature was able to prevent her escape. Over the centuries, however, Sulla g => 오랜 옛날, 대마법사 술라(Sulla)는 혼돈의 힘을 가진 신비한 에너지의 중심부인 천공의 구멍에 봉인되었다. 하지만, 술라(Sulla)는 수백년이 지나는 동안 점점 그녀의 힘을 바로 그 천공의 구멍 속 혼돈의 폭풍에 맞추어 갔으며, 이제는 그 영향력을 물질 세계에, 수백개의 다른 세계와 현실과 시간대에 있는 영토들에 행사하기 위한 작업을 시작했다. 그녀는 우주의 서로 다른 조각들을 조종하고
+candidate=wesnoth-multiplayer-ko.po:Ruaskkolin	Xikkrisx of Syrsszk was a powerful Saurian warrior, sent to this region by the Elders of the Rysssrylosszkk Clan (translation: “The Hunts-Foes-In-Boiling-Rivers Clan”). The Elders  => Syrsszk 출신의 시크리스(Xikkrisx)는 강력한 사우리안 전사로, Rysssrylosszkk 씨족의 장로들이 이 지역으로 보냈습니다. 씨족 이름은 ‘끓는 강에서 적을 사냥하는 씨족’이라는 뜻입니다. 장로들은 인간 전초기지를 상대로 전쟁을 준비하고 있었고, 마지막으로 Ruaskkolin 호수 방향으로 향하는 모습이 목격된 사우리안 신비술사 옥스르스크(Oxsrrsk)의 강력한 마법이 절
+candidate=wesnoth-multiplayer-ko.po:Rysssrylosszkk	Xikkrisx of Syrsszk was a powerful Saurian warrior, sent to this region by the Elders of the Rysssrylosszkk Clan (translation: “The Hunts-Foes-In-Boiling-Rivers Clan”). The Elders  => Syrsszk 출신의 시크리스(Xikkrisx)는 강력한 사우리안 전사로, Rysssrylosszkk 씨족의 장로들이 이 지역으로 보냈습니다. 씨족 이름은 ‘끓는 강에서 적을 사냥하는 씨족’이라는 뜻입니다. 장로들은 인간 전초기지를 상대로 전쟁을 준비하고 있었고, 마지막으로 Ruaskkolin 호수 방향으로 향하는 모습이 목격된 사우리안 신비술사 옥스르스크(Oxsrrsk)의 강력한 마법이 절
+candidate=wesnoth-multiplayer-ko.po:Survival	Complete the survival scenario <i>6p - Team Survival</i>. => 생존 시나리오 <i>6p - Team Survival</i>을 완료하십시오.
+candidate=wesnoth-multiplayer-ko.po:Syrsszk	Xikkrisx of Syrsszk was a powerful Saurian warrior, sent to this region by the Elders of the Rysssrylosszkk Clan (translation: “The Hunts-Foes-In-Boiling-Rivers Clan”). The Elders  => Syrsszk 출신의 시크리스(Xikkrisx)는 강력한 사우리안 전사로, Rysssrylosszkk 씨족의 장로들이 이 지역으로 보냈습니다. 씨족 이름은 ‘끓는 강에서 적을 사냥하는 씨족’이라는 뜻입니다. 장로들은 인간 전초기지를 상대로 전쟁을 준비하고 있었고, 마지막으로 Ruaskkolin 호수 방향으로 향하는 모습이 목격된 사우리안 신비술사 옥스르스크(Oxsrrsk)의 강력한 마법이 절
+candidate=wesnoth-multiplayer-ko.po:Team	Complete the survival scenario <i>6p - Team Survival</i>. => 생존 시나리오 <i>6p - Team Survival</i>을 완료하십시오.
+candidate=wesnoth-nr-ko.po:Warders	Gladly, Tallin. We will stand with the Warders till the end of days if need be. => 기꺼이, 탈린(Tallin). 우리는 우리가 필요 할때까지 Warders 와 함께 할 것이오.
+candidate=wesnoth-sof-ko.po:SoF	SoF => SoF
+candidate=wesnoth-sotbe-ko.po:Barag	We’ve succeeded! We’ve passed through the Mountains of Haag! Look at these green hills! We’ve reached the lands of the free tribes. I can see the walls of Barag Gór in the distance => 해냈다! 하아그(Haag) 산맥을 통과했어! 저 초록 언덕들을 봐라! 우린 자유 부족들의 땅에 왔다. 저 멀리 Barag Gór의 성벽이 보이는구나.
+candidate=wesnoth-tb-ko.po:Erik	Erik => Erik
+candidate=wesnoth-tb-ko.po:Fargus	Fargus => Fargus
+candidate=wesnoth-tb-ko.po:Heine	Heine => Heine
+candidate=wesnoth-tb-ko.po:Magnus	Magnus => Magnus
+candidate=wesnoth-tools-ko.po:EOL	Convert EOL characters to Unix format => EOL 문자를 유닉스 형식으로 변환
+candidate=wesnoth-tools-ko.po:GUI	Launch GUI.pyw in the specified language. Language code is expected as a POSIX locale name, refer to gettext.wesnoth.org for a full list. => `지정된 언어로 GUI.pyw를 실행합니다. 언어 코드는 POSIX 로케일 이름으로 예상됩니다. 전체 목록은 gettext.wesnoth.org를 참조하세요.
+candidate=wesnoth-tools-ko.po:POSIX	Launch GUI.pyw in the specified language. Language code is expected as a POSIX locale name, refer to gettext.wesnoth.org for a full list. => `지정된 언어로 GUI.pyw를 실행합니다. 언어 코드는 POSIX 로케일 이름으로 예상됩니다. 전체 목록은 gettext.wesnoth.org를 참조하세요.
+candidate=wesnoth-tsg-ko.po:Abdur	Abdur => Abdur
+candidate=wesnoth-tsg-ko.po:A’kai	Mal A’kai => 말(Mal) A’kai
+candidate=wesnoth-tsg-ko.po:Deora	Deora— => Deora—
+candidate=wesnoth-tsg-ko.po:Eliomir	Eliomir => Eliomir
+candidate=wesnoth-tsg-ko.po:Issorai	Issorai => Issorai
+candidate=wesnoth-tsg-ko.po:Kallen	Kallen => Kallen
+candidate=wesnoth-tsg-ko.po:Lesssh	Lesssh => Lesssh
+candidate=wesnoth-tsg-ko.po:Plynry	Plynry => Plynry
+candidate=wesnoth-tsg-ko.po:Sidaurios	Sidaurios => Sidaurios
+candidate=wesnoth-tsg-ko.po:Ssanur	Ssanur => Ssanur
+candidate=wesnoth-tsg-ko.po:Ssesseth	Ssesseth => Ssesseth
+candidate=wesnoth-tsg-ko.po:Xeila	Queen Xeila => 여왕 Xeila
+candidate=wesnoth-tsg-ko.po:Zarr	Zarr => Zarr
+candidate=wesnoth-tsg-ko.po:Zasz	Zasz => Zasz
+candidate=wesnoth-tsg-ko.po:Zerix	Zerix => Zerix
+candidate=wesnoth-tutorial-ko.po:Elindel	Elindel => Elindel
+candidate=wesnoth-tutorial-ko.po:Elriend	Elriend => Elriend
+candidate=wesnoth-tutorial-ko.po:Eowynial	Eowynial => Eowynial
+candidate=wesnoth-tutorial-ko.po:Golir	Golir => Golir
+candidate=wesnoth-tutorial-ko.po:Had	Had the quintain survived your onslaught, it would have regained two hitpoints. If a unit doesn’t do anything for a turn, it will slowly heal. => Had the quintain survived your onslaught, it would have regained two hitpoints. If a unit doesn’t do anything for a turn, it will slowly heal. 이 문구 발견한 분은 어떤 조건에서 나온건지 연락점. http://cafe.naver.com/wesnothko or drier22@gmai
+candidate=wesnoth-tutorial-ko.po:ZoC	ZoC => ZoC
+candidate=wesnoth-units-ko.po:Alavynne	Years of devotion may endow a priestess with great wisdom on the workings of the world, and grants some the favor of the light. The power thus given to these ladies of the water is => 오랜 헌신의 세월로 여신관은 세상의 법칙에 대해 깊은 지혜를 갖게 되며, 빛의 호감이라 할 수 있는 무엇을 얻게 된다. 이로써 이들 물의 여인들에게 주어지는 힘은, 마치 Alavynne의 군사들에게 궁지에 몰려 살해당했으나 다음날 수많은 군세와 함께 다시 나타나 피의 공작을 몰락시킨 은빛 첨탑의 기사와 같이 이야기와 노래에 반복적으로 쓰이는 주제이다.
+candidate=wesnoth-wc-ko.po:AMLA	Always AMLA with 60 XP and raises maximum health by 6 HP. => 경험치(XP) 60을 획득하면 항상 AMLA(레벨 초과 성장)하며, 최대 체력(HP)이 6 증가합니다.
+candidate=wesnoth-wc-ko.po:Conquest	Use World Conquest Unitmarkers => World Conquest 유닛 마커 사용
+candidate=wesnoth-wc-ko.po:WC2	You are not using a WC2 faction. => 당신은 WC2 진영을 사용하고 있지 않습니다.
+candidate=wesnoth-wc-ko.po:World	Use World Conquest Unitmarkers => World Conquest 유닛 마커 사용
+candidates=207

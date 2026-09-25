@@ -381,7 +381,9 @@ python3 tools/audit_locale_comparison.py --limit 200
    `python3 tools/audit_and_pair_embedded_names.py --candidates`로 용어집에
    아직 등록되지 않은 원문 고유명사 후보도 별도로 추출한다. 후보는 자동
    번역하지 않고, 문맥을 확인해 용어집에 확정 등록한 뒤 병기 도구를 다시
-   실행한다. 코드·placeholder·생성 이름 목록·저작자 정보는 후보에서 제외한다.
+   실행한다. 실행 결과는 `work/<버전>/audit/`에 날짜별 텍스트 파일로
+   저장한다. 코드·placeholder·생성 이름 목록·저작자 정보는 후보에서
+   제외한다.
    obsolete 항목도 삭제하지 않고 같은 표기 규칙으로 정리한다. 병기 실행 후에는
    `python3 tools/sync_glossary_korean.py`로 용어집과 정확한 PO 항목을
    동기화한다.

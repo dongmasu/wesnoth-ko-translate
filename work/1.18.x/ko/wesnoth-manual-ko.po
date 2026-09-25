@@ -473,7 +473,7 @@ msgstr "멀티플레이어에서 플레이할 수 있는 캠페인도 있습니�
 #. type: Content of: <book><chapter><section><section><title>
 #: doc/manual/manual.en.xml:294
 msgid "Campaigns"
-msgstr "캠페인들"
+msgstr "캠페인"
 
 # type: Content of: <book><chapter><section><section><simpara>
 #. type: Content of: <book><chapter><section><section><simpara>

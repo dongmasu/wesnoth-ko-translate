@@ -245,7 +245,8 @@ VERSION="${WESNOTH_VERSION:-$(tr -d '\r\n' < VERSION)}"
 python3 -m unittest discover -s tests -v
 python3 tools/audit_glossary.py
 python3 tools/audit_po_structure.py
-python3 tools/audit_and_pair_embedded_names.py --candidates
+python3 tools/audit_and_pair_embedded_names.py --candidates \
+  | tee "work/$VERSION/audit/embedded-name-candidates-$(date +%Y%m%d).txt"
 python3 tools/audit_and_pair_embedded_names.py --check
 find "work/$VERSION/ko" -name '*.po' -print0 |
   xargs -0 -n1 msgfmt --check --output-file=/dev/null
@@ -338,6 +339,10 @@ python3 tools/audit_locale_comparison.py --limit 200
 일본어·중국어와 대조해 실제 누락인지 확인하고 한국어로 수정한다.
 후보를 예외 처리할 때도 placeholder, 태그, `^` 문맥 키의 구조는
 변경하지 않는다.
+
+고유명사 후보 감사 결과는 `work/<버전>/audit/`에 날짜별로 저장한다.
+각 후보를 영어·일본어·중국어·기존 참고 번역과 대조한 뒤 용어집에
+등록하거나 정당한 영어 잔존 예외로 판정한다.
 
 2026-09-25 전수 대조에서 활성 키 20,564개를 영어·일본어·중국어와
 맞췄고, 구조·placeholder 감사는 통과했다. 남은 후보는 기술 문자열,
