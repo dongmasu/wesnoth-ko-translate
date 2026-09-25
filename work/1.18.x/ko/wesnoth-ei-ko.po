@@ -173,7 +173,7 @@ msgstr "시나리오 4b: 용병"
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:43
 msgid "Rescue all 6 prisoners from ‘<i>Mal Ravanal’s Capital</i>’."
-msgstr "‘<i>말(Mal) 라바날의 수도</i>’에서 죄수 6명을 모두 구출하세요."
+msgstr "‘<i>말-라바날(Mal-Ravanal)의 수도</i>’에서 죄수 6명을 모두 구출하세요."
 
 #. [achievement_group]
 #: data/campaigns/Eastern_Invasion/achievements.cfg:43

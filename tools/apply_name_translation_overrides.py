@@ -24,6 +24,7 @@ EXACT_TRANSLATIONS = {
     "Mal A’kai": "말 아카이(Mal A’kai)",
     "Mal Barath": "말 바라쓰(Mal Barath)",
     "Mal Maul": "말 마울(Mal Maul)",
+    "Mal M’Brin": "말 므브린(Mal M’Brin)",
     "female^Mal Maul": "말 마울(Mal Maul)",
     "Mal Sevu": "말 세부(Mal Sevu)",
     "Mal Shiki": "말 쉬키(Mal Shiki)",
@@ -105,6 +106,8 @@ DRA_NAK_REPLACEMENTS = {
 NAME_COMPONENT_REPLACEMENTS = {
     "말(Mal) 바라쓰": "말 바라쓰(Mal Barath)",
     "말(Mal) 마울": "말 마울(Mal Maul)",
+    "말(Mal) 므브린": "말 므브린(Mal M’Brin)",
+    "말(Mal) 음브린": "말 므브린(Mal M’Brin)",
     "말(Mal) 세부": "말 세부(Mal Sevu)",
     "말(Mal) 쉬키": "말 쉬키(Mal Shiki)",
     "머프(Muff) 아르굴락": "머프 아르굴락(Muff Argulak)",

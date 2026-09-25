@@ -245,6 +245,7 @@ class GlossaryTests(unittest.TestCase):
             "Kah Ruuk": "카 루크(Kah Ruuk)",
             "Lintanir": "린타니르(Lintanir)",
             "Mal Maul": "말 마울(Mal Maul)",
+            "Mal M’Brin": "말 므브린(Mal M’Brin)",
             "Muff Argulak": "머프 아르굴락(Muff Argulak)",
             "Muff Toras": "머프 토라스(Muff Toras)",
             "Naga Myrmidon": "나가 미르미돈(Myrmidon)",
@@ -256,6 +257,7 @@ class GlossaryTests(unittest.TestCase):
             with self.subTest(source=source):
                 self.assertEqual(by_source[source], standard)
         self.assertNotIn("말(Mal) 아카이(A’kai)", by_source["Mal A’kai"])
+        self.assertNotIn("말(Mal) 므브린", by_source["Mal M’Brin"])
 
     def test_embedded_name_audit_does_not_repair_components_of_a_paired_name(self):
         from tools.audit_and_pair_embedded_names import (
@@ -706,6 +708,31 @@ class GlossaryTests(unittest.TestCase):
         self.assertNotIn("아르비트", text)
         self.assertNotIn("토엔 캐릭", text)
         self.assertNotIn("바라네(Baran)", text)
+
+    def test_mal_mbrin_uses_one_bilingual_compound_name(self):
+        _, rows = glossary_rows()
+        by_source = {row["source_term"]: row for row in rows}
+        self.assertEqual(
+            by_source["Mal M’Brin"]["standard_korean"],
+            "말 므브린(Mal M’Brin)",
+        )
+        text = (WORK_KO / "wesnoth-tsg-ko.po").read_text(encoding="utf-8")
+        self.assertIn("말 므브린(Mal M’Brin)을 처치하십시오", text)
+        self.assertIn("말 므브린(Mal M’Brin)이라 불린다", text)
+        self.assertNotIn("말(Mal) 므브린", text)
+        self.assertNotIn("말(Mal) M’Brin", text)
+        self.assertNotIn("말(Mal) 음브린", text)
+
+    def test_hyphenless_mal_ravanal_uses_canonical_name(self):
+        _, rows = glossary_rows()
+        by_source = {row["source_term"]: row["standard_korean"] for row in rows}
+        self.assertEqual(
+            by_source["Mal Ravanal"],
+            "말-라바날(Mal-Ravanal)",
+        )
+        text = (WORK_KO / "wesnoth-ei-ko.po").read_text(encoding="utf-8")
+        self.assertIn("말-라바날(Mal-Ravanal)의 수도", text)
+        self.assertNotIn("말(Mal) 라바날의 수도", text)
 
     def test_obsolete_queen_name_pairs_only_the_name_component(self):
         _, rows = glossary_rows()

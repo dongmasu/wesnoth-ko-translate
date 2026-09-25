@@ -404,7 +404,8 @@ class TranslationLayoutTests(unittest.TestCase):
             readme,
         )
         self.assertIn(
-            "releases/latest/download/wesnoth-ko-translate-1.18.x-20260925.zip",
+            "releases/download/wesnoth-ko-translate-1.18.x-20260925/"
+            "wesnoth-ko-translate-1.18.x-20260925.zip",
             readme,
         )
         self.assertIn("Release asset이 게시된 뒤에는", readme)
