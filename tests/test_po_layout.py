@@ -192,6 +192,22 @@ class TranslationLayoutTests(unittest.TestCase):
             with self.subTest(locale=locale):
                 self.assertTrue((PO_ROOT / locale).is_dir())
 
+    def test_curated_glossary_is_the_only_glossary_artifact(self):
+        self.assertTrue((WORK_ROOT / "glossary.tsv").is_file())
+        for name in (
+            "glossary-candidates.tsv",
+            "glossary-inventory.tsv",
+            "glossary-untranslated.tsv",
+        ):
+            with self.subTest(name=name):
+                self.assertFalse((WORK_ROOT / name).exists())
+        for name in (
+            "extract_glossary_candidates.py",
+            "promote_glossary_candidates.py",
+        ):
+            with self.subTest(name=name):
+                self.assertFalse((ROOT / "tools" / name).exists())
+
     def test_version_configuration_uses_root_default(self):
         self.assertEqual(DEFAULT_VERSION, "1.18.x")
         self.assertEqual(VERSION, DEFAULT_VERSION)

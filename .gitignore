@@ -11,8 +11,3 @@ build/
 # The archive contains copied Naver Cafe material. Keep it local unless
 # redistribution permission has been verified for every file.
 /References/wesnothko/
-
-# Intermediate glossary extraction reports; glossary.tsv is the maintained source.
-/work/*/glossary-candidates.tsv
-/work/*/glossary-inventory.tsv
-/work/*/glossary-untranslated.tsv
