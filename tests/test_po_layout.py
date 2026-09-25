@@ -266,6 +266,14 @@ class TranslationLayoutTests(unittest.TestCase):
         self.assertIn("rebuild from", install_doc)
         self.assertIn("동기화", install_doc)
 
+    def test_docs_workflow_only_publishes_from_main(self):
+        workflow = (ROOT / ".github" / "workflows" / "docs.yml").read_text(
+            encoding="utf-8"
+        )
+        self.assertIn("branches:\n      - main", workflow)
+        self.assertIn("git push origin HEAD:main", workflow)
+        self.assertNotIn("\n          git push\n", workflow)
+
     def test_work_files_follow_github_korean_file_set(self):
         self.assertTrue(REFERENCE_KO.is_dir())
         self.assertEqual(po_files(PO_ROOT / "ko"), po_files(WORK_KO))
