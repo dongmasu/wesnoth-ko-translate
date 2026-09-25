@@ -20,7 +20,7 @@ msgstr "투르사간(Thursagan)의 망치"
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:12
 msgid "THoT"
-msgstr "망치(THoT)"
+msgstr "망치"
 
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:19

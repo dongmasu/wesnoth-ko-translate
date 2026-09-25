@@ -27,7 +27,7 @@ msgstr "동부 침공"
 #. [campaign]: id=Eastern_Invasion
 #: data/campaigns/Eastern_Invasion/_main.cfg:52
 msgid "EI"
-msgstr "침동(EI)"
+msgstr "침동"
 
 #. [campaign]: id=Eastern_Invasion
 #: data/campaigns/Eastern_Invasion/_main.cfg:56

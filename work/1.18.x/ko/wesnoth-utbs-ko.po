@@ -22,7 +22,7 @@ msgstr "불타는 태양 아래서"
 #. [campaign]: id=Under_the_Burning_Suns
 #: data/campaigns/Under_the_Burning_Suns/_main.cfg:14
 msgid "UtBS"
-msgstr "태양(UtBS)"
+msgstr "태양"
 
 #. [campaign]: id=Under_the_Burning_Suns
 #: data/campaigns/Under_the_Burning_Suns/_main.cfg:20

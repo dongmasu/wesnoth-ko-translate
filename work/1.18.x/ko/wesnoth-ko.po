@@ -3120,7 +3120,7 @@ msgstr "북부 산맥 너머"
 #. [music]
 #: data/core/macros/sound-utils.cfg:253
 msgid "Northerners"
-msgstr "북부인(Northerners)"
+msgstr "북부인"
 
 #. [music]
 #: data/core/macros/sound-utils.cfg:259
@@ -4071,7 +4071,7 @@ msgstr "초기화"
 #. [menu]: id=menu-main
 #: data/themes/cutscene.cfg:37 data/themes/default.cfg:91
 msgid "Menu"
-msgstr "차림표"
+msgstr "메뉴"
 
 #. [action]: id=button-endturn
 #: data/themes/cutscene.cfg:53 data/themes/default.cfg:151

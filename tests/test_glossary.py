@@ -222,6 +222,71 @@ class GlossaryTests(unittest.TestCase):
         self.assertEqual(tarek["standard_korean"], "타렉(Tarek)")
         self.assertEqual(tarek["reference_japanese"], "Tarek")
 
+    def test_main_menu_uses_the_standard_ui_term(self):
+        _, rows = glossary_rows()
+        main_menu = next(
+            row for row in rows if row["source_term"] == "Main Menu"
+        )
+        self.assertEqual(main_menu["standard_korean"], "메인 메뉴")
+        for path in WORK_KO.glob("*.po"):
+            self.assertNotIn("기본 차림표", path.read_text(encoding="utf-8"))
+
+    def test_menu_terms_use_menu_not_old_korean_wording(self):
+        _, rows = glossary_rows()
+        by_source = {row["source_term"]: row["standard_korean"] for row in rows}
+        self.assertEqual(by_source["Menu"], "메뉴")
+        self.assertEqual(by_source["Time Schedule Menu"], "시간 일정 메뉴")
+        for path in WORK_KO.glob("*.po"):
+            self.assertNotIn("차림표", path.read_text(encoding="utf-8"))
+
+    def test_non_transliterated_labels_do_not_repeat_source_in_parentheses(self):
+        _, rows = glossary_rows()
+        by_source = {row["source_term"]: row["standard_korean"] for row in rows}
+        expected = {
+            "AToTB": "형제",
+            "Base.x": "기준점 X",
+            "Base.y": "기준점 Y",
+            "Clan": "일족",
+            "DM": "회고",
+            "DW": "바다",
+            "DiD": "하드코어",
+            "EI": "침동",
+            "Garrison": "수비군",
+            "HttT": "왕자",
+            "LoW": "전설",
+            "Northerners": "북부인",
+            "NR": "부활",
+            "SotA": "고대인",
+            "SotBE": "검은눈",
+            "THoT": "망치",
+            "TRoW": "성립",
+            "Treefolk": "나무 동포",
+            "TSG": "남부",
+            "UtBS": "태양",
+            "WoF": "바람",
+        }
+        for source, standard in expected.items():
+            with self.subTest(source=source):
+                self.assertEqual(by_source[source], standard)
+
+    def test_glossary_labels_are_applied_to_active_po_entries(self):
+        expected = {
+            "AToTB": "형제",
+            "Base.x": "기준점 X",
+            "Base.y": "기준점 Y",
+            "Northerners": "북부인",
+            "Treefolk": "나무 동포",
+        }
+        for path in WORK_KO.glob("*.po"):
+            for block in path.read_text(encoding="utf-8").split("\n\n"):
+                if any(line.startswith("#~") for line in block.splitlines()):
+                    continue
+                values = parse_field_values(block)
+                source = values.get("msgid")
+                if source in expected:
+                    with self.subTest(path=path.name, source=source):
+                        self.assertEqual(values.get("msgstr"), expected[source])
+
     def test_toen_caric_uses_one_bilingual_place_name_spelling(self):
         _, rows = glossary_rows()
         toen_caric = next(

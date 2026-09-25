@@ -20,7 +20,7 @@ msgstr "남부 경비대"
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:10
 msgid "TSG"
-msgstr "남부(TSG)"
+msgstr "남부"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:20

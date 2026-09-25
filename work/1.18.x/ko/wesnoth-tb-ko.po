@@ -20,7 +20,7 @@ msgstr "두 형제 이야기"
 #. [campaign]: id=Two_Brothers
 #: data/campaigns/Two_Brothers/_main.cfg:14
 msgid "AToTB"
-msgstr "형제(AToTB)"
+msgstr "형제"
 
 #. [campaign]: id=Two_Brothers
 #: data/campaigns/Two_Brothers/_main.cfg:18

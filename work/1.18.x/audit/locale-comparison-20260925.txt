@@ -1,0 +1,1826 @@
+active_keys ko=20564 en_GB=20564 ja=20564 zh_CN=20564 archive=22200
+missing_source_keys en_GB=0 ja=0 zh_CN=0
+english_residue_candidates=303
+
+[english-identical] wesnoth-dm-ko.po
+EN: . .
+KO: . .
+JA: . .
+ZH: . .
+
+[english-identical] wesnoth-dm-ko.po
+EN: o o
+KO: o o
+JA: o o
+ZH: o o
+
+[english-identical] wesnoth-ko.po
+EN: \n		main=$base{!}’s Peak|$base Peak|Mount $base|Mount $base\n	
+KO: \n		main=$base{!}’s Peak|$base Peak|Mount $base|Mount $base\n	
+JA: \n		main=$base{!} の峰|$base{!} 山\n	
+ZH: \n		main=$base{!}之峰|$base{!}峰|$base{!}之山|$base{!}山\n	
+
+[english-identical] wesnoth-ko.po
+EN: \n		prefix=$base{!}|$mountain{!}\n		suffix=mont|cliff|bury|ham\n		main={prefix}{suffix}\n	
+KO: \n		prefix=$base{!}|$mountain{!}\n		suffix=mont|cliff|bury|ham\n		main={prefix}{suffix}\n	
+JA: \n		prefix=$base{!}|$mountain{!}\n		suffix=mont|cliff|bury|ham\n		main={prefix}{suffix}\n	
+ZH: \n		prefix=$base{!}|$mountain{!}\n		suffix=蒙特|克里夫|布里|汉姆\n		main={prefix}{suffix}\n	
+
+[english-identical] wesnoth-ko.po
+EN: \n		prefix=$base{!}|$river{!}\n		river=$river{!}|River\n		suffix=ham|ford|cross| on {river}\n		main={prefix}{suffix}\n	
+KO: \n		prefix=$base{!}|$river{!}\n		river=$river{!}|River\n		suffix=ham|ford|cross| on {river}\n		main={prefix}{suffix}\n	
+JA: \n		prefix=$base{!}|$river{!}\n		river=$river{!}|River\n		suffix=ham|ford|cross| on {river}\n		main={prefix}{suffix}\n	
+ZH: \n		prefix=$base{!}|$river{!}\n		river=$river{!}|River\n		suffix=汉姆|福德|克洛斯|{river}上的\n		main={prefix}{suffix}\n	
+
+[english-identical] wesnoth-ko.po
+EN: \n		prefix=$base{!}|$river{!}|$bridge{!}\n		suffix=bridge|bridge|ham|ton\n		main={prefix}{suffix}\n	
+KO: \n		prefix=$base{!}|$river{!}|$bridge{!}\n		suffix=bridge|bridge|ham|ton\n		main={prefix}{suffix}\n	
+JA: \n		prefix=$base{!}|$river{!}|$bridge{!}\n		suffix=bridge|bridge|ham|ton\n		main={prefix}{suffix}\n	
+ZH: \n		prefix=$base{!}|$river{!}|$bridge{!}\n		suffix=布里奇|布里奇|汉姆|屯\n		main={prefix}{suffix}\n	
+
+[english-identical] wesnoth-ko.po
+EN: \n		prefix=$base{!}|$swamp{!}\n		suffix=bury|ham|ton\n		main={prefix}{suffix}\n	
+KO: \n		prefix=$base{!}|$swamp{!}\n		suffix=bury|ham|ton\n		main={prefix}{suffix}\n	
+JA: \n		prefix=$base{!}|$swamp{!}\n		suffix=bury|ham|ton\n		main={prefix}{suffix}\n	
+ZH: \n		prefix=$base{!}|$swamp{!}\n		suffix=布里|汉姆|屯\n		main={prefix}{suffix}\n	
+
+[english-identical] wesnoth-ko.po
+EN: \n		suffix=ham|bury|ton|hill|crest\n		main=$base{!}{suffix}\n	
+KO: \n		suffix=ham|bury|ton|hill|crest\n		main=$base{!}{suffix}\n	
+JA: \n		suffix=ham|bury|ton|hill|crest\n		main=$base{!}{suffix}\n	
+ZH: \n		suffix=汉姆|布里|屯|希尔|克雷斯特\n		main=$base{!}{suffix}\n	
+
+[english-identical] wesnoth-ko.po
+EN: \n		suffix=ham|bury|ton|mont|mont|cliff|cliff\n		main=$base{!}{suffix}\n	
+KO: \n		suffix=ham|bury|ton|mont|mont|cliff|cliff\n		main=$base{!}{suffix}\n	
+JA: \n		suffix=ham|bury|ton|mont|mont|cliff|cliff\n		main=$base{!}{suffix}\n	
+ZH: \n		suffix=汉姆|布里|屯|蒙特|蒙特|克里夫|克里夫\n		main=$base{!}{suffix}\n	
+
+[english-identical] wesnoth-ko.po
+EN: \n		suffix=ham|ton|field\n		main=$base{!}{suffix}\n	
+KO: \n		suffix=ham|ton|field\n		main=$base{!}{suffix}\n	
+JA: \n		suffix=ham|ton|field\n		main=$base{!}{suffix}\n	
+ZH: \n		suffix=汉姆|屯|菲尔德\n		main=$base{!}{suffix}\n	
+
+[english-identical] wesnoth-ko.po
+EN: \nmain={generated_prefix_c}{suffix_c}|{generated_prefix_v}{suffix_v}|{prefix_c}{centre_c}{suffix_c}|{prefix_v}{centre_v}{suffix_v}\ngenerated_prefix_c={starting_consonnant}{vowel}{consonnant}|{starting_vowel}{consonnant}\ngenerated_prefix_v={starting_consonnan
+KO: \nmain={generated_prefix_c}{suffix_c}|{generated_prefix_v}{suffix_v}|{prefix_c}{centre_c}{suffix_c}|{prefix_v}{centre_v}{suffix_v}\ngenerated_prefix_c={starting_consonnant}{vowel}{consonnant}|{starting_vowel}{consonnant}\ngenerated_prefix_v={starting_consonnan
+JA: \nmain={generated_prefix_c}{suffix_c}|{generated_prefix_v}{suffix_v}|{prefix_c}{centre_c}{suffix_c}|{prefix_v}{centre_v}{suffix_v}\ngenerated_prefix_c={starting_consonnant}{vowel}{consonnant}|{starting_vowel}{consonnant}\ngenerated_prefix_v={starting_consonnan
+ZH: \nmain=埃德莱辛|埃德莱凡|埃德拉尔|埃德拉尔辛|埃德拉林|埃德雷德利|埃德雷|埃德雷格温|埃德雷尼克|埃德雷欧德雷|埃德雷欧丁|埃德雷欧尼克|埃德雷欧拉辛|埃德雷兰|埃德里布林|埃德里德丁|埃德罗辛|埃德罗林|埃德朗凡|埃德鲁辛|埃德里尔林|埃德林凡|埃萨辛|埃萨德利|埃萨克|埃萨兰|埃萨琳|埃萨格温|埃森利|埃萨辛|埃瑟克|埃瑟尔林|埃森凡|埃瑟欧克|埃瑟欧林|埃瑟欧尼克|埃瑟欧辛|埃瑟辛|埃瑟拉恩特|埃希布林|埃西德利|埃希尔辛|埃索布林|埃索丁|埃索恩宁|埃舒克|埃舒德利|埃赛格温|埃桑|埃桑利|埃赛
+
+[english-identical] wesnoth-ko.po
+EN: \nmain={generated_prefix_c}{suffix_c}|{generated_prefix_v}{suffix_v}|{prefix_c}{centre_c}{suffix_c}|{prefix_v}{centre_v}{suffix_v}\ngenerated_prefix_c={starting_consonnant}{vowel}{consonnant}|{starting_vowel}{consonnant}\ngenerated_prefix_v={starting_consonnan
+KO: \nmain={generated_prefix_c}{suffix_c}|{generated_prefix_v}{suffix_v}|{prefix_c}{centre_c}{suffix_c}|{prefix_v}{centre_v}{suffix_v}\ngenerated_prefix_c={starting_consonnant}{vowel}{consonnant}|{starting_vowel}{consonnant}\ngenerated_prefix_v={starting_consonnan
+JA: \nmain={generated_prefix_c}{suffix_c}|{generated_prefix_v}{suffix_v}|{prefix_c}{centre_c}{suffix_c}|{prefix_v}{centre_v}{suffix_v}\ngenerated_prefix_c={starting_consonnant}{vowel}{consonnant}|{starting_vowel}{consonnant}\ngenerated_prefix_v={starting_consonnan
+ZH: \nmain=艾拉布莱拉|艾拉尔布莱拉|艾拉艾妮法|艾拉莉娅|艾拉洛娜|艾拉莉安|艾莉娅卡|艾莉妮法|艾莉拉|艾莉尔卡|艾勒娜|艾勒格温妮|艾莉洛娜|艾琳格温妮|艾洛拉|艾洛露拉|艾罗拉|艾露布莉拉|艾露妮法|艾露莉安|艾露莎|艾尔瓦卡|艾尔薇莉拉|艾尔薇莉安|艾尔温娜|艾莉布莉拉|艾莉诺依可|艾莉拉|艾莉莱安|布拉艾妲|布拉莎|布拉薇安|布里布莉拉|布莉尔|布莉尔拉|布莉洛娜|布琳娜|布蕾尔|布蕾莉拉|布蕾拉|布蕾尔卡|布蕾尔兰|布莉珂拉|布莉尔卡|布洛布莉拉|布洛莉拉|布洛娜|布洛妮可|布洛拉|布洛卡|布莱温妮
+
+[english-identical] wesnoth-ko.po
+EN: \nmain={generated_prefix_v}{centre_v}{suffix_v}|{generated_prefix_c}{centre_c}{suffix_c}\ngenerated_prefix_v={starting_consonnant}{vowel}\ngenerated_prefix_c={starting_consonnant}{vowel}{consonnant}\nstarting_consonnant=C|D|F|L|M|N|P|Qu|R|S|T|V\nvowel=a|e|i|o|
+KO: \nmain={generated_prefix_v}{centre_v}{suffix_v}|{generated_prefix_c}{centre_c}{suffix_c}\ngenerated_prefix_v={starting_consonnant}{vowel}\ngenerated_prefix_c={starting_consonnant}{vowel}{consonnant}\nstarting_consonnant=C|D|F|L|M|N|P|Qu|R|S|T|V\nvowel=a|e|i|o|
+JA: \nmain={generated_prefix_v}{centre_v}{suffix_v}|{generated_prefix_c}{centre_c}{suffix_c}\ngenerated_prefix_v={starting_consonnant}{vowel}\ngenerated_prefix_c={starting_consonnant}{vowel}{consonnant}\nstarting_consonnant=C|D|F|L|M|N|P|Qu|R|S|T|V\nvowel=a|e|i|o|
+ZH: \nmain=艾玛德蕾莉娅|艾玛德莉尔琳德|艾玛德蕾德拉|艾玛德蕾|艾玛|艾美布莉琳|艾美|艾美馨尔|艾美薇尔|艾蜜尔-伽迪丝|艾蜜尔-伽莉丝|艾蜜尔玛蒂娅|艾蜜欧莉丝|艾蜜欧妮娅|艾蜜丝兰妮|艾蜜丝莱温|艾蜜|艾墨尔|艾墨菲莉丝|艾墨莉丝|艾墨莉娅|艾墨薇尔|艾墨莱托妮|艾娜莉娅|艾娜|艾娜莱莉娅|艾娜鑫尔|艾娜布琳妮|艾妮尔玛丽丝|艾宁|艾诺尔莉丝|艾诺云|艾楠德拉|艾楠丝伊尔|艾楠馨尔|艾妮琳德妮|艾妮馨尔|艾妮|贝莱赛尔卡|贝莱德莉莉丝|贝莱德莉|贝莱德莉洛妮|贝莱兰妮娅|贝莱莱菲尔|贝莱布琳德妮|贝莱德拉
+
+[english-identical] wesnoth-ko.po
+EN: \nmain={generated_prefix}{consonnant}{suffix}|{prefix}{centre}{suffix}\ngenerated_prefix={starting_consonnant}{vowel}\nstarting_consonnant=C|D|F|L|M|N|P|Qu|R|S|T|V\nvowel=a|e|i|o|ae|é|ë\nconsonnant=n|l|r|m|s|v|th|nn\nprefix={prefix_vc}{vowel}|{prefix_cv}\npref
+KO: \nmain={generated_prefix}{consonnant}{suffix}|{prefix}{centre}{suffix}\ngenerated_prefix={starting_consonnant}{vowel}\nstarting_consonnant=C|D|F|L|M|N|P|Qu|R|S|T|V\nvowel=a|e|i|o|ae|é|ë\nconsonnant=n|l|r|m|s|v|th|nn\nprefix={prefix_vc}{vowel}|{prefix_cv}\npref
+JA: \nmain={generated_prefix}{consonnant}{suffix}|{prefix}{centre}{suffix}\ngenerated_prefix={starting_consonnant}{vowel}\nstarting_consonnant=C|D|F|L|M|N|P|Qu|R|S|T|V\nvowel=a|e|i|o|ae|é|ë\nconsonnant=n|l|r|m|s|v|th|nn\nprefix={prefix_vc}{vowel}|{prefix_cv}\npref
+ZH: \nmain=阿玛德利艾兰德|阿玛利尔|阿梅拉德|阿梅尔多|阿蒙德尔|阿蒙|阿米尔玛尔多|阿米尔玛利斯|阿米尔曼迪尔|阿明德|阿密欧尔|阿米欧利温|阿密斯拉利温|阿莫尔多|阿莫尔菲米尔|阿莫尔菲尔|阿莫温|阿穆拉斯|阿穆恩迪尔|阿南|阿纳布林|阿纳布利尔|阿纳姆波|阿纳恩杜伊尔|阿纳利温|阿尼拉德|阿尼尔-伽温|阿尼尔曼波|阿尼尔玛利安德|阿尼欧|阿尼斯兰杜伊尔|阿诺尔|阿诺恩|阿诺夫林|阿努迪尔|贝隆|贝兰迪尔|贝拉兰迪尔|贝雷尔|贝伦|贝利尔-甘迪尔|贝利尔曼德|贝利尔曼|贝利温迪尔|贝利理尔|贝利斯拉尔多|贝
+
+[english-identical] wesnoth-ko.po
+EN: \nmain={long_name}\nlong_name={prefix}{centre}{suffix}|{prefix}{centre}{centre}{suffix}\nshort_name={prefix}{suffix}\nprefix=Ai|Al|A|Du|Glam|Dul|Gom|Nar|Pel|Tri|Dun|Do|Bar|Er|Tim|Al|Du|Bu|Bur|Nor|Der|Ur|Gar\nsuffix=sil|fur|bor|bus|bur|bor|gos|dor|rin|dur|ing|r
+KO: \nmain={long_name}\nlong_name={prefix}{centre}{suffix}|{prefix}{centre}{centre}{suffix}\nshort_name={prefix}{suffix}\nprefix=Ai|Al|A|Du|Glam|Dul|Gom|Nar|Pel|Tri|Dun|Do|Bar|Er|Tim|Al|Du|Bu|Bur|Nor|Der|Ur|Gar\nsuffix=sil|fur|bor|bus|bur|bor|gos|dor|rin|dur|ing|r
+JA: \nmain={long_name}\nlong_name={prefix}{centre}{suffix}|{prefix}{centre}{centre}{suffix}\nshort_name={prefix}{suffix}\nprefix=Ai|Al|A|Du|Glam|Dul|Gom|Nar|Pel|Tri|Dun|Do|Bar|Er|Tim|Al|Du|Bu|Bur|Nor|Der|Ur|Gar\nsuffix=sil|fur|bor|bus|bur|bor|gos|dor|rin|dur|ing|r
+ZH: \nmain={long_name}\nlong_name={prefix}{centre}{suffix}|{prefix}{centre}{centre}{suffix}\nshort_name={prefix}{suffix}\nprefix=埃|埃尔|阿|杜|格拉姆|杜尔|戈姆|那|佩尔|特里|杜恩|杜|巴|厄|提姆|阿尔|杜|布|巴|诺尔|德尔|乌|加\nsuffix=希尔|法尔|波|巴斯|巴|波尔|格斯|多|林|达|因|拉斯|希斯|提斯|罗尔|索尔|拉斯|提尔|提尔|图尔|洛斯|鲁尔|叟尔|里尔|希尔|
+
+[english-identical] wesnoth-ko.po
+EN: \nmain={name_long}|{prefix}{suffix}|{name_mid}{connector}{name_mid}\nname_mid={prefix}{suffix}|{name_short}\nname_long={prefix}{suffix}|{prefix}{centre}{suffix}\nname_short=Din|Sif|Din|Taj|Sud|Ali|Lut|Nuh|Qays|Nimr|Jad|Bushr|Lut|Maʿd|Nur|Fadl\nprefix=Ab|Bas|Fa
+KO: \nmain={name_long}|{prefix}{suffix}|{name_mid}{connector}{name_mid}\nname_mid={prefix}{suffix}|{name_short}\nname_long={prefix}{suffix}|{prefix}{centre}{suffix}\nname_short=Din|Sif|Din|Taj|Sud|Ali|Lut|Nuh|Qays|Nimr|Jad|Bushr|Lut|Maʿd|Nur|Fadl\nprefix=Ab|Bas|Fa
+JA: \nmain={name_long}|{prefix}{suffix}|{name_mid}{connector}{name_mid}\nname_mid={prefix}{suffix}|{name_short}\nname_long={prefix}{suffix}|{prefix}{centre}{suffix}\nname_short=Din|Sif|Din|Taj|Sud|Ali|Lut|Nuh|Qays|Nimr|Jad|Bushr|Lut|Maʿd|Nur|Fadl\nprefix=Ab|Bas|Fa
+ZH: \nmain=阿班|阿巴斯|阿布德|阿卜杜勒-阿德|阿卜杜勒-阿哈德|阿卜杜勒-阿利姆|阿卜杜勒-阿利耶|阿卜杜勒-阿齐姆|阿卜杜勒-阿齐兹|阿卜杜勒-巴迪|阿卜杜勒-巴伊|阿卜杜勒-巴基|阿卜杜勒-巴里|阿卜杜勒-巴尔|阿卜杜勒-巴希尔|阿卜杜勒-巴西特|阿卜杜勒-法塔赫|阿卜杜勒-加法尔|阿卜杜勒-加富尔|阿卜杜勒-加尼|阿卜杜勒-哈迪|阿卜杜勒-哈菲兹|阿卜杜勒-哈卡姆|阿卜杜勒-哈基姆|阿卜杜勒-哈利姆|阿卜杜勒-阿米德|阿卜杜勒-哈基|阿卜杜勒-哈西卜|阿卜杜勒-哈伊|阿卜杜勒-贾巴尔|阿卜杜勒-贾利勒|
+
+[english-identical] wesnoth-ko.po
+EN: \nmain={name_long}|{prefix}{suffix}|{name_mid}{connector}{surname}\nname_mid={prefix}{suffix}|{name_short}\nsurname={name_mid_male}|{name_mid}|{name_mid_male}\nname_long={prefix}{suffix}|{prefix}{centre}{suffix}\nname_short=Afaf|Aida|Alya|Arij|Arwa|Asma|Asra|A
+KO: \nmain={name_long}|{prefix}{suffix}|{name_mid}{connector}{surname}\nname_mid={prefix}{suffix}|{name_short}\nsurname={name_mid_male}|{name_mid}|{name_mid_male}\nname_long={prefix}{suffix}|{prefix}{centre}{suffix}\nname_short=Afaf|Aida|Alya|Arij|Arwa|Asma|Asra|A
+JA: \nmain={name_long}|{prefix}{suffix}|{name_mid}{connector}{surname}\nname_mid={prefix}{suffix}|{name_short}\nsurname={name_mid_male}|{name_mid}|{name_mid_male}\nname_long={prefix}{suffix}|{prefix}{centre}{suffix}\nname_short=Afaf|Aida|Alya|Arij|Arwa|Asma|Asra|A
+ZH: \nmain=阿班|阿巴斯|阿布德|阿卜杜勒-阿德|阿卜杜勒-阿哈德|阿卜杜勒-阿利姆|阿卜杜勒-阿利耶|阿卜杜勒-阿齐姆|阿卜杜勒-阿齐兹|阿卜杜勒-巴迪|阿卜杜勒-巴伊|阿卜杜勒-巴基|阿卜杜勒-巴里|阿卜杜勒-巴尔|阿卜杜勒-巴希尔|阿卜杜勒-巴西特|阿卜杜勒-法塔赫|阿卜杜勒-加法尔|阿卜杜勒-加富尔|阿卜杜勒-加尼|阿卜杜勒-哈迪|阿卜杜勒-哈菲兹|阿卜杜勒-哈卡姆|阿卜杜勒-哈基姆|阿卜杜勒-哈利姆|阿卜杜勒-阿米德|阿卜杜勒-哈基|阿卜杜勒-哈西卜|阿卜杜勒-哈伊|阿卜杜勒-贾巴尔|阿卜杜勒-贾利勒|
+
+[english-identical] wesnoth-ko.po
+EN: \nmain={prefix}{centre}{centre}{suffix}|{prefix}{centre}{centre}{centre}{suffix}\nprefix=Blu|Bo|Bre|Bro|Bru|Bu|Car|Da|Da|De|Dib|Dol|Dro|Dul|Dum|El|Gre|Gul|Gum|Laf|Lan|Las|Lef|Lib|Lol|Mon|Mul|Mun|Nan|Nun|Or|Pam|Pom|Rith|Tan|Tem|Ton|Troom|Tun|Tum|Won|Wun\ncentre
+KO: \nmain={prefix}{centre}{centre}{suffix}|{prefix}{centre}{centre}{centre}{suffix}\nprefix=Blu|Bo|Bre|Bro|Bru|Bu|Car|Da|Da|De|Dib|Dol|Dro|Dul|Dum|El|Gre|Gul|Gum|Laf|Lan|Las|Lef|Lib|Lol|Mon|Mul|Mun|Nan|Nun|Or|Pam|Pom|Rith|Tan|Tem|Ton|Troom|Tun|Tum|Won|Wun\ncentre
+JA: \nmain={prefix}{centre}{centre}{suffix}|{prefix}{centre}{centre}{centre}{suffix}\nprefix=Blu|Bo|Bre|Bro|Bru|Bu|Car|Da|Da|De|Dib|Dol|Dro|Dul|Dum|El|Gre|Gul|Gum|Laf|Lan|Las|Lef|Lib|Lol|Mon|Mul|Mun|Nan|Nun|Or|Pam|Pom|Rith|Tan|Tem|Ton|Troom|Tun|Tum|Won|Wun\ncentre
+ZH: \nmain=布鲁德巴尔蒙|波拉杜鲁姆班德鲁姆|波尔乌尔德蒙|波姆博姆波姆托|波姆坎博姆坎通|波姆坦博姆通纳姆|布雷伽拉德|布雷姆德布布德|布雷巴斯努德纳姆|布雷达玛多阿克|布鲁姆蔓藤多诺诺尔|布鲁姆本多布伦|布鲁蒙纳鲁诺姆|布鲁姆莫德尔布洛克|巴姆巴达达巴姆|波姆达姆登罗|卡尼米利埃|达巴姆达巴姆塔姆|达姆蔓通龚诺尔|丹莫恩努尔巴姆|德巴德本穆恩|德尔姆丢尔姆德罗姆|迪布尔姆巴姆德|多尔蔓纳姆比尔|德隆诺波尔姆度|杜尔蔓达鲁克|杜尔乌尔蒙多幕|达姆达姆达玛托姆|埃尔玛洛玛德拉姆|格雷尔玛德拉姆巴姆达姆|古拉德罗玛
+
+[english-identical] wesnoth-ko.po
+EN: \nmain={prefix}{middle}{suffix}\nprefix=B|C|D|E|F|Fr|Wat|G|H|K|N|O|R|S|T|W|Y|Ro\nmiddle=a|e|o|u|i\nsuffix=l|m|rn|x|w|ld|ck|k|rk\n
+KO: \nmain={prefix}{middle}{suffix}\nprefix=B|C|D|E|F|Fr|Wat|G|H|K|N|O|R|S|T|W|Y|Ro\nmiddle=a|e|o|u|i\nsuffix=l|m|rn|x|w|ld|ck|k|rk\n
+JA: \nmain={prefix}{middle}{suffix}\nprefix=B|C|D|E|F|Fr|Wat|G|H|K|N|O|R|S|T|W|Y|Ro\nmiddle=a|e|o|u|i\nsuffix=l|m|rn|x|w|ld|ck|k|rk\n
+ZH: \nmain=巴尔|卡姆|科恩|德尔|伊艾尔|艾尔|福克斯|福伦|葛尔|黑尔|海克斯|霍尔|霍克斯|伊尔|金|纳姆|尼斯|纽|欧尔|欧德|欧夫|欧乌尔|欧克斯|洛克|卢克|萨尔|萨姆|希德|赛尔|森|西尔|塔尔|沃特|维特\n
+
+[english-identical] wesnoth-ko.po
+EN: \nmain={prefix}{suffix}\nprefix=Abra|Ale|Ama|Ax|Bla|Ble|Bre|Bri|Gri|Hai|Har|Hu|Ine|Kle|Krez|Lam|Lin|Lob|Mai|Lal|Nild|Pon|Pse|Pza|Sa|Se|Sle|So|Sor|Tri|Vi|Vla|Xa|Xi|Xna|Za|Zle|Zse\nsuffix=iss|ail|nal|eii|mol|loss|noss|xos|sal|zel|kps|pek|ness|or|sol|peii|iaz|on|
+KO: \nmain={prefix}{suffix}\nprefix=Abra|Ale|Ama|Ax|Bla|Ble|Bre|Bri|Gri|Hai|Har|Hu|Ine|Kle|Krez|Lam|Lin|Lob|Mai|Lal|Nild|Pon|Pse|Pza|Sa|Se|Sle|So|Sor|Tri|Vi|Vla|Xa|Xi|Xna|Za|Zle|Zse\nsuffix=iss|ail|nal|eii|mol|loss|noss|xos|sal|zel|kps|pek|ness|or|sol|peii|iaz|on|
+JA: \nmain={prefix}{suffix}\nprefix=Abra|Ale|Ama|Ax|Bla|Ble|Bre|Bri|Gri|Hai|Har|Hu|Ine|Kle|Krez|Lam|Lin|Lob|Mai|Lal|Nild|Pon|Pse|Pza|Sa|Se|Sle|So|Sor|Tri|Vi|Vla|Xa|Xi|Xna|Za|Zle|Zse\nsuffix=iss|ail|nal|eii|mol|loss|noss|xos|sal|zel|kps|pek|ness|or|sol|peii|iaz|on|
+ZH: \nmain=阿布拉克萨斯|阿雷斯|阿梅尔|阿克斯梅尔|布拉纳尔|布雷伊|布罗|布瑞斯|布利斯|伽克斯摩尔|格里阿姆|格里斯|格里斯雷伊|海尔洛斯|海诺斯|哈克索斯|忽则尔|伊纳诺斯|伊内伊|伊萨尔|克勒泽尔|克拉斯|克雷泽克普斯|克扎普|拉米伊斯|拉姆雷|勒克斯佩克|利内斯|洛博|麦索尔|玛里诺斯|米尔博|米雷伊|尼尔德罗斯|欧克斯佩伊|波尼亚兹|波赛尔|波松|波扎克|雷伊|萨赛尔|萨克希尔|萨克斯利雷伊|瑟克尔|希拉斯|斯克尔|斯克普斯|斯勒尔|斯诺尔|索伊尔|索克尔|斯瑞尔|崔克斯欧兹|维拉尔|维萨尔|维拉尼
+
+[english-identical] wesnoth-ko.po
+EN: \nmain={prefix}{suffix}\nprefix=Ak|Ar|Bar|Blok|Bor|Bul|Cork|Del|Gar|Gnu|Gra|Gru|Gu|Kal|Kar|Kay|Kel|Ker|Kil|King|Kor|Kru|Kur|Mar|Mer|Nal|Trak|Urk\nsuffix=ark|ort|alk|arm|kuk|kak|ukk|nak|ta|k|rok|rar|kon|gak|nik\n
+KO: \nmain={prefix}{suffix}\nprefix=Ak|Ar|Bar|Blok|Bor|Bul|Cork|Del|Gar|Gnu|Gra|Gru|Gu|Kal|Kar|Kay|Kel|Ker|Kil|King|Kor|Kru|Kur|Mar|Mer|Nal|Trak|Urk\nsuffix=ark|ort|alk|arm|kuk|kak|ukk|nak|ta|k|rok|rar|kon|gak|nik\n
+JA: \nmain={prefix}{suffix}\nprefix=Ak|Ar|Bar|Blok|Bor|Bul|Cork|Del|Gar|Gnu|Gra|Gru|Gu|Kal|Kar|Kay|Kel|Ker|Kil|King|Kor|Kru|Kur|Mar|Mer|Nal|Trak|Urk\nsuffix=ark|ort|alk|arm|kuk|kak|ukk|nak|ta|k|rok|rar|kon|gak|nik\n
+ZH: \nmain=阿阔拉克|阿阔特|阿克扎尔克|阿克阿姆|巴库克|布罗卡|博库克|布卡克|布鲁克|阔卡|德尔卡克|伽库克|格努克|格鲁克|格拉克|嘎克|嘎姆|卡尔尼克斯|卡拉克|卡布克|卡格纳克|卡特拉克|凯拉克|基尔卡拉|柯塔|基尔克拉|金罗克|坷克|克鲁德|阔坎|阔克|阔马克|阔格纳克|阔尔克|阔鲁克|克拉马克|克鲁格|克鲁克拉克|克鲁马克|克鲁纳克|卡卡|卡马克|马克隆|马卡克|马库克|莫克内克|纳伽克|欧尔克|欧尔克特|雷克纳克|塔寇拉克|特拉布克|特拉空|乌卡|乌克阿克\n
+
+[english-identical] wesnoth-ko.po
+EN: \nmain={prefix}{suffix}\nprefix=Ali|Ama|Ax|Bla|Bli|Bra|Bri|Gax|Gri|Hai|Har|Hu|Ina|Iss|Krez|Kzap|Lam|Lex|Li|Lin|Mai|Mu|Nil|Ox|Pon|Pza|Ri|Sal|Sax|Sek|Snel|Sra|Trix|Vil|Vis|Blan|Xab|Xam|Xi|Xnam|Xop|Zal|Zle|Zse\nsuffix=asse|mailia|ilis|ana|ama|ssa|ssilai|zi|xias|l
+KO: \nmain={prefix}{suffix}\nprefix=Ali|Ama|Ax|Bla|Bli|Bra|Bri|Gax|Gri|Hai|Har|Hu|Ina|Iss|Krez|Kzap|Lam|Lex|Li|Lin|Mai|Mu|Nil|Ox|Pon|Pza|Ri|Sal|Sax|Sek|Snel|Sra|Trix|Vil|Vis|Blan|Xab|Xam|Xi|Xnam|Xop|Zal|Zle|Zse\nsuffix=asse|mailia|ilis|ana|ama|ssa|ssilai|zi|xias|l
+JA: \nmain={prefix}{suffix}\nprefix=Ali|Ama|Ax|Bla|Bli|Bra|Bri|Gax|Gri|Hai|Har|Hu|Ina|Iss|Krez|Kzap|Lam|Lex|Li|Lin|Mai|Mu|Nil|Ox|Pon|Pza|Ri|Sal|Sax|Sek|Snel|Sra|Trix|Vil|Vis|Blan|Xab|Xam|Xi|Xnam|Xop|Zal|Zle|Zse\nsuffix=asse|mailia|ilis|ana|ama|ssa|ssilai|zi|xias|l
+ZH: \nmain=艾莉阿希|艾麦莉丝|艾克丝麦莉娅|巴莱|巴兰纳莱|波莉|波莉娅拉|布拉萨丝|布莉萨尔|伽克丝梅尔|格莉娅玛|格莉莎|格莉希莱|海莉娅|海娜|哈克夏丝|胡兹|伊娜尔|伊纳莱|伊萨莱|克勒丝|库拉丝|库瑞泽克普丝|克萨普斯|拉麦尔|拉麦萨|勒克丝佩可|莉娅波拉|琳琳|莉娜莎|麦莎|玛莉娜|米拉|米尔布拉|妮尔德拉丝|欧克丝佩尔|波妮娅瑟尔|赛尔|申|萨科普|莉娅|萨尔|萨萨莉娅|萨克丝夏拉|萨克丝莉莉娅|瑟科|斯卡尔|斯克普丝|斯拉|斯内莉娅|斯拉可|斯拉尔|斯扎可|崔克丝哲德|薇莱拉|薇萨莱|薇拉妮莎|
+
+[english-identical] wesnoth-ko.po
+EN: \nmain={prefix}{suffix}|{prefix}{centre}{suffix}\nprefix=Agla|Amphi|A|Ca|Del|Der|Di|El|Ga|Je|Leu|Li|Lo|Ma|Wa|Ma|Mi|Mo|Par|Pel|Pi|Se|Ste|Ma|The|Ti|Va|Ve\nsuffix=me|pe|gia|noe|dna|la|ris|ta|tea|va|mo|pe|riam|riel|na|ra|tea\ncentre=ophe|phri|tri|phro|di|si|xie|ce
+KO: \nmain={prefix}{suffix}|{prefix}{centre}{suffix}\nprefix=Agla|Amphi|A|Ca|Del|Der|Di|El|Ga|Je|Leu|Li|Lo|Ma|Wa|Ma|Mi|Mo|Par|Pel|Pi|Se|Ste|Ma|The|Ti|Va|Ve\nsuffix=me|pe|gia|noe|dna|la|ris|ta|tea|va|mo|pe|riam|riel|na|ra|tea\ncentre=ophe|phri|tri|phro|di|si|xie|ce
+JA: \nmain={prefix}{suffix}|{prefix}{centre}{suffix}\nprefix=Agla|Amphi|A|Ca|Del|Der|Di|El|Ga|Je|Leu|Li|Lo|Ma|Wa|Ma|Mi|Mo|Par|Pel|Pi|Se|Ste|Ma|The|Ti|Va|Ve\nsuffix=me|pe|gia|noe|dna|la|ris|ta|tea|va|mo|pe|riam|riel|na|ra|tea\ncentre=ophe|phri|tri|phro|di|si|xie|ce
+ZH: \nmain=安吉拉菲米|艾蜜菲特|艾菲洛蒂特|艾莉尔|艾塔佳提丝|卡莉普索妮|德尔菲妮|德丝托妮|蒂可提娜|伊莱柯特拉|伽拉提妮|希梅萝帕|珍古|琉克希娅|莉基娅|萝莉·拉玛莉丝|玛玛·瓦塔|玛丽娜|米兰达|米丽娅|莫尔菲|帕丝诺帕|佩娜吉拉|佩希诺伊|兰|希德娜|斯蒂拉·玛丽丝|希莉珂丝皮娅|提佳塔|瓦提|薇-艾娃|薇恩·艾墨尔|薇特-艾玛\n
+
+[english-identical] wesnoth-ko.po
+EN: \nmain={prefix}{suffix}|{prefix}{centre}{suffix}\nprefix=Am|An|Ar|Bzz|Cha|Clee|Fa|Fi|Fli|Fri|Ha|He|In|Ir|In|Ka|Ke|Jezz|Ji|Ka|Ke|Lo|Ma|Ox|Po|Sa|Se|Li|Me|Na|Pre|Ska|Sse|Ssi|Sto|Ste|Szi|Sza|Ti|Ve|Vri|Xa|Xe|Xi|Zan|Zil|Zzu\nsuffix=ta|ir|az|ix|za|trax|il|le|esz|izs|
+KO: \nmain={prefix}{suffix}|{prefix}{centre}{suffix}\nprefix=Am|An|Ar|Bzz|Cha|Clee|Fa|Fi|Fli|Fri|Ha|He|In|Ir|In|Ka|Ke|Jezz|Ji|Ka|Ke|Lo|Ma|Ox|Po|Sa|Se|Li|Me|Na|Pre|Ska|Sse|Ssi|Sto|Ste|Szi|Sza|Ti|Ve|Vri|Xa|Xe|Xi|Zan|Zil|Zzu\nsuffix=ta|ir|az|ix|za|trax|il|le|esz|izs|
+JA: \nmain={prefix}{suffix}|{prefix}{centre}{suffix}\nprefix=Am|An|Ar|Bzz|Cha|Clee|Fa|Fi|Fli|Fri|Ha|He|In|Ir|In|Ka|Ke|Jezz|Ji|Ka|Ke|Lo|Ma|Ox|Po|Sa|Se|Li|Me|Na|Pre|Ska|Sse|Ssi|Sto|Ste|Szi|Sza|Ti|Ve|Vri|Xa|Xe|Xi|Zan|Zil|Zzu\nsuffix=ta|ir|az|ix|za|trax|il|le|esz|izs|
+ZH: \nmain=阿姆布里希塔|安纳希尔|安尼特拉兹|阿利克斯|阿克斯|布兹卡匝|查米尔|克里兹|克雷兹|法泽斯|菲兹特拉克斯|佛里克斯塔|佛利兹尔|佛里克斯|佛里索尔|哈兹|赫菲兹|赫塔兹尔|赫匝|赫兹尔|赫匝斯|希克斯|伊内科希斯|伊里克斯|杰希克斯|杰兹|卡勒兹|卡普兹|柯尼克斯|柯申斯|柯图拉特斯|柯克斯|柯申克斯|柯兹|柯勒克萨斯|柯勒辛斯|柯拉拉克斯|柯伦阿里克斯|柯雷克斯|柯里尼克斯|柯里申斯|莱希克斯|拉泽奇|历希斯|莫莱克斯|莫希斯|莫山斯|纳克希斯|尼克斯|佩克萨斯|普拉克希斯|普莱希克斯|普雷斯奇
+
+[english-identical] wesnoth-ko.po
+EN: \nmain={prefix}{suffix}|{prefix}{centre}{suffix}\nprefix=A|Ai|Apa|Bar|Atla|Dha|El|Fa|Ja|La|Ku|Li|Ma|Me|Mi|Na|Ne|Njo|Nua|Nu|Oce|Okre|Phor|Po|Pro|Ra|Ro|Ryu|Scy|Si|Ta|Thau|Ti|Vi|Tri|Vo|Vou\nsuffix=su|ion|la|ta|ua|mar|re|lau|lu|na|yr|ra|tes|nus|teus|tes|tan|mas|ki
+KO: \nmain={prefix}{suffix}|{prefix}{centre}{suffix}\nprefix=A|Ai|Apa|Bar|Atla|Dha|El|Fa|Ja|La|Ku|Li|Ma|Me|Mi|Na|Ne|Njo|Nua|Nu|Oce|Okre|Phor|Po|Pro|Ra|Ro|Ryu|Scy|Si|Ta|Thau|Ti|Vi|Tri|Vo|Vou\nsuffix=su|ion|la|ta|ua|mar|re|lau|lu|na|yr|ra|tes|nus|teus|tes|tan|mas|ki
+JA: \nmain={prefix}{suffix}|{prefix}{centre}{suffix}\nprefix=A|Ai|Apa|Bar|Atla|Dha|El|Fa|Ja|La|Ku|Li|Ma|Me|Mi|Na|Ne|Njo|Nua|Nu|Oce|Okre|Phor|Po|Pro|Ra|Ro|Ryu|Scy|Si|Ta|Thau|Ti|Vi|Tri|Vo|Vou\nsuffix=su|ion|la|ta|ua|mar|re|lau|lu|na|yr|ra|tes|nus|teus|tes|tan|mas|ki
+ZH: \nmain=艾布苏|艾布祖|艾该温|阿拉斯廷|阿帕拉拉|阿帕姆|阿帕苏|阿雷麦塔|阿塔拉华|阿塔拉瓦|巴林萨斯|达克汉|迪兰|艾尔克瓦|艾姆巴|恩基|法罗|哈巴克|伊卡特尔|伽姆|金|金尼劳|库鲁鲁|拉布那|劳特|利尔|里尔|路德|马卡拉|茅伊|梅利希特斯|米米尔|纳塔特|纳特琉斯|内普丁|内纳鲁斯|内森斯|内贾德|努阿达|努德|努迪蒙德|纳恩|欧辛纳斯|欧金诺斯|菲欧希斯|本图斯|波波阿|波塞冬|普洛图斯|拉伽|劳|洛拉|柳金|斯奇拉|辛尼劳|希修提尔|塔伽洛阿|塔纳阿|坦甲洛阿|坦加|陶玛斯|提奇提奇|提尼|
+
+[english-identical] wesnoth-ko.po
+EN: \nmain={prefix}{suffix}|{prefix}{centre}{suffix}\nprefix=Gr|Ka|Ke|Ko|Kr|Kz\nsuffix=aa|eaa|ee|aaa|ssshh|rro|uu|uuu\ncentre=arr|aash|eez|ozz\n
+KO: \nmain={prefix}{suffix}|{prefix}{centre}{suffix}\nprefix=Gr|Ka|Ke|Ko|Kr|Kz\nsuffix=aa|eaa|ee|aaa|ssshh|rro|uu|uuu\ncentre=arr|aash|eez|ozz\n
+JA: \nmain={prefix}{suffix}|{prefix}{centre}{suffix}\nprefix=Gr|Ka|Ke|Ko|Kr|Kz\nsuffix=aa|eaa|ee|aaa|ssshh|rro|uu|uuu\ncentre=arr|aash|eez|ozz\n
+ZH: \nmain={prefix}{suffix}|{prefix}{centre}{suffix}\nprefix=格|卡|柯|克|库|卡兹\nsuffix=阿|依阿|伊|希|罗|乌\ncentre=阿|阿什|伊兹|欧兹\n
+
+[english-identical] wesnoth-ko.po
+EN: \nmain={prefix}{suffix}|{prefix}{centre}{suffix}\nprefix=Kaa|Ka|Ke|Kuu|Ko\nsuffix=sa|yya|ra|rra\ncentre=err|aash|eez|azz\n
+KO: \nmain={prefix}{suffix}|{prefix}{centre}{suffix}\nprefix=Kaa|Ka|Ke|Kuu|Ko\nsuffix=sa|yya|ra|rra\ncentre=err|aash|eez|azz\n
+JA: \nmain={prefix}{suffix}|{prefix}{centre}{suffix}\nprefix=Kaa|Ka|Ke|Kuu|Ko\nsuffix=sa|yya|ra|rra\ncentre=err|aash|eez|azz\n
+ZH: \nmain={prefix}{suffix}|{prefix}{centre}{suffix}\nprefix=卡|柯|库|克\nsuffix=萨|娅|拉\ncentre=厄|阿什|伊兹|阿兹\n
+
+[english-identical] wesnoth-ko.po
+EN: \nmain={prefix}{suffix}|{prefix}{suffix} {short_name}\nprefix=Al|Ali|Ash|Aug|Auug|Da|De|Dem|Din|Ol|Oma|Orri|Oshi|Val|Ver|Vel|Vush\nsuffix=en|nash|irt|glann|ll|ge|lin|nitt|tin|tar|lisk|rida|grra|sill|la|mell\nshort_name=Mal|Ka|Emth|Dar|Eshi\n
+KO: \nmain={prefix}{suffix}|{prefix}{suffix} {short_name}\nprefix=Al|Ali|Ash|Aug|Auug|Da|De|Dem|Din|Ol|Oma|Orri|Oshi|Val|Ver|Vel|Vush\nsuffix=en|nash|irt|glann|ll|ge|lin|nitt|tin|tar|lisk|rida|grra|sill|la|mell\nshort_name=Mal|Ka|Emth|Dar|Eshi\n
+JA: \nmain={prefix}{suffix}|{prefix}{suffix} {short_name}\nprefix=Al|Ali|Ash|Aug|Auug|Da|De|Dem|Din|Ol|Oma|Orri|Oshi|Val|Ver|Vel|Vush\nsuffix=en|nash|irt|glann|ll|ge|lin|nitt|tin|tar|lisk|rida|grra|sill|la|mell\nshort_name=Mal|Ka|Emth|Dar|Eshi\n
+ZH: \nmain={prefix}{suffix}|{prefix}{suffix}·{short_name}\nprefix=艾尔|艾莉|艾希|奥格|奥格|达|德|德姆|丁|欧尔|欧玛|欧莉|欧希|瓦尔|瓦尔|维尔|瓦希\nsuffix=恩|纳什|依特|格兰|尔|格|林|妮特|汀|塔|莉斯科|莉达|格拉|希尔|拉|梅尔\nshort_name=玛尔|卡|艾蜜丝|达|艾希\n
+
+[english-identical] wesnoth-ko.po
+EN: \nmain={prefix}{suffix}|{prefix}’{suffix}|{prefix}{suffix} {short_name}\nshort_name=Ohm|Ihn|Ohn|Ka|Murr|Kon|Elch|Ko|Græt|Egar\nprefix=Ga|Ge|Gel|Gi|Go|Gra|Gri|Ka|Ko|Kla|Mar|Di|Mer|Mor|Oma|Re|Vel|Vash|Ver|Vla\nsuffix=ash|kré|lsh|lin|rutin|shinar|rushi|ka|ash|ag|
+KO: \nmain={prefix}{suffix}|{prefix}’{suffix}|{prefix}{suffix} {short_name}\nshort_name=Ohm|Ihn|Ohn|Ka|Murr|Kon|Elch|Ko|Græt|Egar\nprefix=Ga|Ge|Gel|Gi|Go|Gra|Gri|Ka|Ko|Kla|Mar|Di|Mer|Mor|Oma|Re|Vel|Vash|Ver|Vla\nsuffix=ash|kré|lsh|lin|rutin|shinar|rushi|ka|ash|ag|
+JA: \nmain={prefix}{suffix}|{prefix}’{suffix}|{prefix}{suffix} {short_name}\nshort_name=Ohm|Ihn|Ohn|Ka|Murr|Kon|Elch|Ko|Græt|Egar\nprefix=Ga|Ge|Gel|Gi|Go|Gra|Gri|Ka|Ko|Kla|Mar|Di|Mer|Mor|Oma|Re|Vel|Vash|Ver|Vla\nsuffix=ash|kré|lsh|lin|rutin|shinar|rushi|ka|ash|ag|
+ZH: \nmain={prefix}{suffix}|{prefix}{suffix}·{short_name}\nshort_name=欧姆|伊恩|欧恩|卡|玛|可恩|艾奇|柯|格莱特|埃加\nprefix=加|格|格尔|吉|苟|格拉|格里|卡|柯|科拉|玛|迪|梅|莫|欧玛|雷|维尔|瓦什|维|维拉\nsuffix=艾什|克雷|什|林|鲁汀|史纳|鲁什|卡|艾什|阿格|阿尔|艾什|斯拉|利|迪安|利托斯|鲁斯特|希特|尼克|拉斯|迪特|孔|玛德|提克|尼尔\n
+
+[english-identical] wesnoth-ko.po
+EN: \nmain={short_name}|{short_name}|{short_name}|{short_name} {short_name}\nshort_name={prefix}{middle}{suffix}|{prefix}{middle}{suffix}|{prefix}{middle}{suffix}|{beginning}{suffix}\nprefix=B|Br|D|G|Gn|H|K|Kr|L|N|K|P|R|S|Sh|St|Th|Ts|T|V|Z\nmiddle=a|o|u|uu|ä|ü\nbe
+KO: \nmain={short_name}|{short_name}|{short_name}|{short_name} {short_name}\nshort_name={prefix}{middle}{suffix}|{prefix}{middle}{suffix}|{prefix}{middle}{suffix}|{beginning}{suffix}\nprefix=B|Br|D|G|Gn|H|K|Kr|L|N|K|P|R|S|Sh|St|Th|Ts|T|V|Z\nmiddle=a|o|u|uu|ä|ü\nbe
+JA: \nmain={short_name}|{short_name}|{short_name}|{short_name} {short_name}\nshort_name={prefix}{middle}{suffix}|{prefix}{middle}{suffix}|{prefix}{middle}{suffix}|{beginning}{suffix}\nprefix=B|Br|D|G|Gn|H|K|Kr|L|N|K|P|R|S|Sh|St|Th|Ts|T|V|Z\nmiddle=a|o|u|uu|ä|ü\nbe
+ZH: \nmain=阿格|阿嘎|布格·阿|布博|布拉格|布拉格·嘎|布罗克|达克|德罗格|福罗克|嘎|格|嘎克|格纳夫|格拉|格罗克|格拉姆|格尔克|哈克|哈斯克|霍斯|哈格·巴|呼·卡|卡克|克拉克|库拉格|库博|库|罗克|鲁克|纳克|纳克·卡|帕格|雷克|路克|拉克|萨克|夏克|夏夫|斯图|塔格|图鲁格|图鲁夫|苏尔|托格|托尔格|托克|苏克|塔|塔克·拉|尤格|阿|乌格|乌拉|乌克|乏克|佐格|组格\n
+
+[english-identical] wesnoth-ko.po
+EN: \nmain={starting_consonnant}{vowel}{consonnant}{vowel}{ending_consonnant}|{starting_consonnant}{vowel}{consonnant}{ending_vowel}|{starting_vowel}{consonnant}{vowel}{ending_consonnant}|{starting_consonnant}{vowel}{ending_consonnant}|{starting_vowel}{consonnant}
+KO: \nmain={starting_consonnant}{vowel}{consonnant}{vowel}{ending_consonnant}|{starting_consonnant}{vowel}{consonnant}{ending_vowel}|{starting_vowel}{consonnant}{vowel}{ending_consonnant}|{starting_consonnant}{vowel}{ending_consonnant}|{starting_vowel}{consonnant}
+JA: \nmain={starting_consonnant}{vowel}{consonnant}{vowel}{ending_consonnant}|{starting_consonnant}{vowel}{consonnant}{ending_vowel}|{starting_vowel}{consonnant}{vowel}{ending_consonnant}|{starting_consonnant}{vowel}{ending_consonnant}|{starting_vowel}{consonnant}
+ZH: \nmain=巴达西|巴加|巴戈迪西|巴拉戈|巴巴戈|巴特|巴什纳克|比迪西|比达什|比克|比力格|比力欧|比纳克|宾克|比欧尔|博特|博加|博戈迪西|博戈达什|博戈|博克|博尔戈|崩|博戈|巴克|博特|博什纳克|巴达什|巴戈迪什|巴鲁克|巴纳克|邦|邦克|布拉戈|巴戈|布克|布鲁克|埃拉达什|埃拉迪什|埃拉戈迪什|埃拉戈达什|埃拉戈诺尔|埃拉纳克|埃朗|埃拉拉戈|埃拉戈|埃拉特|埃里戈达什|埃里克|埃里纳克|埃里欧尔|埃里拉戈|埃里巴戈|埃里戈|埃里特|埃里什纳克|埃里鲁拉克|埃罗格迪什|埃罗格达什|埃罗克|埃隆
+
+[english-identical] wesnoth-ko.po
+EN:  UTC+0
+KO:  UTC+0
+JA:  UTC+0
+ZH:  UTC+0
+
+[english-only] wesnoth-ko.po
+EN: $attack_list|: $effect_description
+KO: $attack_list|： $effect_description
+JA: $attack_list|： $effect_description
+ZH: $attack_list|：$effect_description
+
+[english-identical] wesnoth-ko.po
+EN: $playername $side
+KO: $playername $side
+JA: $playername $side
+ZH: $playername $side
+
+[english-identical] wesnoth-ko.po
+EN: $year AF
+KO: $year AF
+JA: $year AF
+ZH: 崩后$year|年
+
+[english-identical] wesnoth-ko.po
+EN: $year BF
+KO: $year BF
+JA: $year BF
+ZH: 崩前$year|年
+
+[english-identical] wesnoth-ko.po
+EN: $year BW
+KO: $year BW
+JA: $year BW
+ZH: 韦元前$year|年
+
+[english-identical] wesnoth-ko.po
+EN: %A, %H:%M
+KO: %A, %H:%M
+JA: %A, %H:%M
+ZH: %A, %H:%M
+
+[english-identical] wesnoth-ko.po
+EN: %A, %I:%M %p
+KO: %A, %I:%M %p
+JA: %A, %I:%M %p
+ZH: %A, %H:%M %p
+
+[english-identical] wesnoth-ko.po
+EN: %H:%M
+KO: %H:%M
+JA: %H:%M
+ZH: %H:%M
+
+[english-identical] wesnoth-ko.po
+EN: %I:%M %p
+KO: %I:%M %p
+JA: %I:%M %p
+ZH: %I:%M %p
+
+[english-identical] wesnoth-ko.po
+EN: <N>
+KO: <N>
+JA: <N>
+ZH: <N>
+
+[english-identical] wesnoth-ko.po
+EN: <terrain type> [both|base|overlay]
+KO: <terrain type> [both|base|overlay]
+JA: <terrain type> [both|base|overlay]
+ZH: <地形类型> [both|base|overlay]
+
+[english-identical] wesnoth-ko.po
+EN: Abiha,Afaf,A'isha,Ajda,Aliya,Amira,Ashraqat,Atikah,Azra,Boutheina,Bushra,Chaima,Dalia,Esma,Farida,Fatima,Feyrouz,Habiba,Hafsa,Hajra,Halima,Hamida,Hanifa,Havva,Hayat,Hessa,Ibtisam,Ibtissam,Inaam,Jamila,Jawahir,Jena,Jumana,Kareena,Karima,Katya,Khadija,Khairunnis
+KO: Abiha,Afaf,A'isha,Ajda,Aliya,Amira,Ashraqat,Atikah,Azra,Boutheina,Bushra,Chaima,Dalia,Esma,Farida,Fatima,Feyrouz,Habiba,Hafsa,Hajra,Halima,Hamida,Hanifa,Havva,Hayat,Hessa,Ibtisam,Ibtissam,Inaam,Jamila,Jawahir,Jena,Jumana,Kareena,Karima,Katya,Khadija,Khairunnis
+JA: Abiha,Afaf,A'isha,Ajda,Aliya,Amira,Ashraqat,Atikah,Azra,Boutheina,Bushra,Chaima,Dalia,Esma,Farida,Fatima,Feyrouz,Habiba,Hafsa,Hajra,Halima,Hamida,Hanifa,Havva,Hayat,Hessa,Ibtisam,Ibtissam,Inaam,Jamila,Jawahir,Jena,Jumana,Kareena,Karima,Katya,Khadija,Khairunnis
+ZH: 阿碧哈,阿法芙,艾莎,阿嘉,阿莉雅,阿米菈.阿什拉卡忒,阿缇卡,阿梓拉.博希娜,布什菈,柴玛,达莉娅,艾丝玛,法莉妲,法蒂玛,菲萝兹,哈碧芭,哈法莎,哈吉菈,哈莉玛,哈米妲,哈妮法,哈娃,哈娅忒,赫莎,伊布缇莎姆,伊布缇萨姆,伊娜姆,嘉米菈,嘉瓦希尔,珍娜,朱玛娜,卡莉娜,卡莉玛,卡缇娅,卡蒂嘉,凯朗妮莎,考菈,卡菈,拉玛,拉缇法,拉娅尔,拉妍,蕾拉,莉娜,露瓦,玛蒂哈,玛哈,玛穆娜,麦,麦卡,玛瓦,梅娅姆,玛雅,梅苏,娜蒂娅,娜菲莎,娜菈,奈菈,娜嘉忒,娜希姆,娜丝琳,娜吉菈,娜扎,纽莎,拉希玛,拉娜,拉希妲,莉
+
+[english-identical] wesnoth-ko.po
+EN: Abraxas,Aleiss,Amail,Axmail,Blanal,Bleii,Blo,Bress,Briss,Gaxmol,Griam,Griss,Grissileii,Hailoss,Hainoss,Harxos,Huzel,Inaloss,Ineii,Issal,Klezel,Kras,Krezkps,Kzap,Lamaiss,Lameii,Lexpek,Liness,Lobor,Maissol,Malinos,Milbor,Mileii,Nildloss,Oxpeii,Poniaz,Psell,Pson,
+KO: Abraxas,Aleiss,Amail,Axmail,Blanal,Bleii,Blo,Bress,Briss,Gaxmol,Griam,Griss,Grissileii,Hailoss,Hainoss,Harxos,Huzel,Inaloss,Ineii,Issal,Klezel,Kras,Krezkps,Kzap,Lamaiss,Lameii,Lexpek,Liness,Lobor,Maissol,Malinos,Milbor,Mileii,Nildloss,Oxpeii,Poniaz,Psell,Pson,
+JA: Abraxas,Aleiss,Amail,Axmail,Blanal,Bleii,Blo,Bress,Briss,Gaxmol,Griam,Griss,Grissileii,Hailoss,Hainoss,Harxos,Huzel,Inaloss,Ineii,Issal,Klezel,Kras,Krezkps,Kzap,Lamaiss,Lameii,Lexpek,Liness,Lobor,Maissol,Malinos,Milbor,Mileii,Nildloss,Oxpeii,Poniaz,Psell,Pson,
+ZH: 阿布拉克萨斯,阿雷斯,阿梅尔,阿克斯梅尔,布拉纳尔,布雷伊,布罗,布瑞斯,布利斯,伽克斯摩尔,格里阿姆,格里斯,格里斯雷伊,海尔洛斯,海诺斯,哈克索斯,忽则尔,伊纳诺斯,伊内伊,伊萨尔,克勒泽尔,克拉斯,克雷泽克普斯,克扎普,拉米伊斯,拉姆雷,勒克斯佩克,利内斯,洛博,麦索尔,玛里诺斯,米尔博,米雷伊,尼尔德罗斯,欧克斯佩伊,波尼亚兹,波赛尔,波松,波扎克,雷伊,萨赛尔,萨克希尔,萨克斯利雷伊,瑟克尔,希拉斯,斯克尔,斯克普斯,斯勒尔,斯诺尔,索伊尔,索克尔,斯瑞尔,崔克斯欧兹,维拉尔,维萨尔,维拉尼斯,希布拉克,
+
+[english-identical] wesnoth-ko.po
+EN: Absu,Abzu,Aigaion,Alastyn,Apalala,Apam,Apsu,Aremata,Atlahua,Atlaua,Barinthus,Dhakhan,Dylan,Elcmar,Ember,Enki,Faro,Habaek,Ikatere,Jamm,Jin,Kinilau,Kulullu,Labuna,Laut,Lir,Llyr,Ludd,Makara,Maui,Melicertes,Mimir,Natat,Nechtan,Neptune,Nereus,Nethuns,Njord,Nuada,Nu
+KO: Absu,Abzu,Aigaion,Alastyn,Apalala,Apam,Apsu,Aremata,Atlahua,Atlaua,Barinthus,Dhakhan,Dylan,Elcmar,Ember,Enki,Faro,Habaek,Ikatere,Jamm,Jin,Kinilau,Kulullu,Labuna,Laut,Lir,Llyr,Ludd,Makara,Maui,Melicertes,Mimir,Natat,Nechtan,Neptune,Nereus,Nethuns,Njord,Nuada,Nu
+JA: Absu,Abzu,Aigaion,Alastyn,Apalala,Apam,Apsu,Aremata,Atlahua,Atlaua,Barinthus,Dhakhan,Dylan,Elcmar,Ember,Enki,Faro,Habaek,Ikatere,Jamm,Jin,Kinilau,Kulullu,Labuna,Laut,Lir,Llyr,Ludd,Makara,Maui,Melicertes,Mimir,Natat,Nechtan,Neptune,Nereus,Nethuns,Njord,Nuada,Nu
+ZH: 艾布苏,艾布祖,艾该温,阿拉斯廷,阿帕拉拉,阿帕姆,阿帕苏,阿雷麦塔,阿塔拉华,阿塔拉瓦,巴林萨斯,达克汉,迪兰,艾尔克瓦,艾姆巴,恩基,法罗,哈巴克,伊卡特尔,伽姆,金,金尼劳,库鲁鲁,拉布那,劳特,利尔,里尔,路德,马卡拉,茅伊,梅利希特斯,米米尔,纳塔特,纳特琉斯,内普丁,内纳鲁斯,内森斯,内贾德,努阿达,努德,努迪蒙德,纳恩,欧辛纳斯,欧金诺斯,菲欧希斯,本图斯,波波阿,波塞冬,普洛图斯,拉伽,劳,洛拉,柳金,斯奇拉,辛尼劳,希修提尔,塔伽洛阿,塔纳阿,坦甲洛阿,坦加,陶玛斯,提奇提奇,提尼,提尼劳,提尼洛
+
+[english-identical] wesnoth-ko.po
+EN: Addraecyn,Addraenvan,Addraer,Addraercyn,Addraryn,Addreddry,Addredry,Addregwyn,Addrenyc,Addreoddry,Addreoddyn,Addreonyc,Addreorcyn,Addreran,Addribryn,Addriddyn,Addrocyn,Addroryn,Addrunvan,Addrurcyn,Addryllyn,Addrynvan,Aethacyn,Aethadry,Aethaec,Aethaeran,Aethaer
+KO: Addraecyn,Addraenvan,Addraer,Addraercyn,Addraryn,Addreddry,Addredry,Addregwyn,Addrenyc,Addreoddry,Addreoddyn,Addreonyc,Addreorcyn,Addreran,Addribryn,Addriddyn,Addrocyn,Addroryn,Addrunvan,Addrurcyn,Addryllyn,Addrynvan,Aethacyn,Aethadry,Aethaec,Aethaeran,Aethaer
+JA: Addraecyn,Addraenvan,Addraer,Addraercyn,Addraryn,Addreddry,Addredry,Addregwyn,Addrenyc,Addreoddry,Addreoddyn,Addreonyc,Addreorcyn,Addreran,Addribryn,Addriddyn,Addrocyn,Addroryn,Addrunvan,Addrurcyn,Addryllyn,Addrynvan,Aethacyn,Aethadry,Aethaec,Aethaeran,Aethaer
+ZH: 埃德莱辛,埃德莱凡,埃德拉尔,埃德拉尔辛,埃德拉林,埃德雷德利,埃德雷,埃德雷格温,埃德雷尼克,埃德雷欧德雷,埃德雷欧丁,埃德雷欧尼克,埃德雷欧拉辛,埃德雷兰,埃德里布林,埃德里德丁,埃德罗辛,埃德罗林,埃德朗凡,埃德鲁辛,埃德里尔林,埃德林凡,埃萨辛,埃萨德利,埃萨克,埃萨兰,埃萨琳,埃萨格温,埃森利,埃萨辛,埃瑟克,埃瑟尔林,埃森凡,埃瑟欧克,埃瑟欧林,埃瑟欧尼克,埃瑟欧辛,埃瑟辛,埃瑟拉恩特,埃希布林,埃西德利,埃希尔辛,埃索布林,埃索丁,埃索恩宁,埃舒克,埃舒德利,埃赛格温,埃桑,埃桑利,埃赛德利,埃赛尼克
+
+[english-identical] wesnoth-ko.po
+EN: Aglaopheme,Amphitrite,Aphrodite,Ariel,Atargatis,Calypso,Delphine,Derceto,Diktynna,Electra,Galatea,Himeropa,Jengu,Leucosia,Ligia,Lori Lamaris,Mama Wata,Marina,Miranda,Miriam,Molpe,Parthenope,Pelagia,Pisinoe,Rân,Sedna,Stella Maris,Thelxiepia,Tirgata,Vatea,Ved-Av
+KO: Aglaopheme,Amphitrite,Aphrodite,Ariel,Atargatis,Calypso,Delphine,Derceto,Diktynna,Electra,Galatea,Himeropa,Jengu,Leucosia,Ligia,Lori Lamaris,Mama Wata,Marina,Miranda,Miriam,Molpe,Parthenope,Pelagia,Pisinoe,Rân,Sedna,Stella Maris,Thelxiepia,Tirgata,Vatea,Ved-Av
+JA: Aglaopheme,Amphitrite,Aphrodite,Ariel,Atargatis,Calypso,Delphine,Derceto,Diktynna,Electra,Galatea,Himeropa,Jengu,Leucosia,Ligia,Lori Lamaris,Mama Wata,Marina,Miranda,Miriam,Molpe,Parthenope,Pelagia,Pisinoe,Rân,Sedna,Stella Maris,Thelxiepia,Tirgata,Vatea,Ved-Av
+ZH: 安吉拉菲米,艾蜜菲特,艾菲洛蒂特,艾莉尔,艾塔佳提丝,卡莉普索妮,德尔菲妮,德丝托妮,蒂可提娜,伊莱柯特拉,伽拉提妮,希梅萝帕,珍古,琉克希娅,莉基娅,萝莉·拉玛莉丝,玛玛·瓦塔,玛丽娜,米兰达,米丽娅,莫尔菲,帕丝诺帕,佩娜吉拉,佩希诺伊,兰,希德娜,斯蒂拉·玛丽丝,希莉珂丝皮娅,提佳塔,瓦提,薇-艾娃,薇恩·艾墨尔,薇特-艾玛
+
+[english-identical] wesnoth-ko.po
+EN: Aigaithas,Aigaithil,Aigaithing,Aigaithol,Aigalas,Aigaling,Aigalis,Aigalol,Aigalsil,Aigatas,Aigatis,Aigatlos,Aigatsil,Aigatsol,Aigatus,Aigcatas,Aigcatil,Aigcating,Aigcatis,Aigcatsil,Aigcatsol,Aigcatus,Aigdring,Aigdris,Aigdrlos,Aigdrsil,Aigdrsol,Aigduras,Aigdurl
+KO: Aigaithas,Aigaithil,Aigaithing,Aigaithol,Aigalas,Aigaling,Aigalis,Aigalol,Aigalsil,Aigatas,Aigatis,Aigatlos,Aigatsil,Aigatsol,Aigatus,Aigcatas,Aigcatil,Aigcating,Aigcatis,Aigcatsil,Aigcatsol,Aigcatus,Aigdring,Aigdris,Aigdrlos,Aigdrsil,Aigdrsol,Aigduras,Aigdurl
+JA: Aigaithas,Aigaithil,Aigaithing,Aigaithol,Aigalas,Aigaling,Aigalis,Aigalol,Aigalsil,Aigatas,Aigatis,Aigatlos,Aigatsil,Aigatsol,Aigatus,Aigcatas,Aigcatil,Aigcating,Aigcatis,Aigcatsil,Aigcatsol,Aigcatus,Aigdring,Aigdris,Aigdrlos,Aigdrsil,Aigdrsol,Aigduras,Aigdurl
+ZH: 埃该萨斯,埃该希尔,埃该辛,埃该索尔,埃加拉斯,埃加林,埃加利斯,埃加洛尔,埃加希尔,埃加塔斯,埃加提斯,埃加托洛斯,埃加特希尔,埃加特索尔,埃加塔斯,埃格卡塔斯,埃格卡提尔,埃格卡廷,埃格卡提斯,埃格卡特希尔,埃格卡特索尔,埃格卡托斯,埃格杜林,埃格杜林斯,埃格多洛斯,埃格多希尔,埃格多索尔,埃格杜拉斯,埃格杜洛斯,埃格杜索尔,埃格沙恩,埃格沙埃斯,埃格沙希尔,埃格沙斯,埃莱沙斯,埃莱希斯,埃莱希洛斯,埃莱希洛尔,埃莱希索尔,埃莱萨斯,阿拉拉斯,阿拉利尔,阿拉洛尔,阿拉尔索尔,阿拉拉鲁斯,阿拉塔斯,阿拉提尔,阿拉
+
+[english-identical] wesnoth-ko.po
+EN: Akoark,Akort,Akzalk,Arkarm,Barkuk,Blokkar,Borkuk,Bukkak,Bulruk,Corkkar,Delkkak,Garkuk,Gnukk,Goruk,Grak,Gurk,Gurm,Kalknix,Karak,Karbuk,Kargnak,Karterak,Kayrak,Kelkrar,Kerta,Kilkrar,Kingrok,Kirk,Klud,Kokkan,Kolk,Komak,Korgnak,Kork,Koruck,Kramak,Krog,Krukrak,Krum
+KO: Akoark,Akort,Akzalk,Arkarm,Barkuk,Blokkar,Borkuk,Bukkak,Bulruk,Corkkar,Delkkak,Garkuk,Gnukk,Goruk,Grak,Gurk,Gurm,Kalknix,Karak,Karbuk,Kargnak,Karterak,Kayrak,Kelkrar,Kerta,Kilkrar,Kingrok,Kirk,Klud,Kokkan,Kolk,Komak,Korgnak,Kork,Koruck,Kramak,Krog,Krukrak,Krum
+JA: Akoark,Akort,Akzalk,Arkarm,Barkuk,Blokkar,Borkuk,Bukkak,Bulruk,Corkkar,Delkkak,Garkuk,Gnukk,Goruk,Grak,Gurk,Gurm,Kalknix,Karak,Karbuk,Kargnak,Karterak,Kayrak,Kelkrar,Kerta,Kilkrar,Kingrok,Kirk,Klud,Kokkan,Kolk,Komak,Korgnak,Kork,Koruck,Kramak,Krog,Krukrak,Krum
+ZH: 阿阔拉克,阿阔特,阿克扎尔克,阿克阿姆,巴库克,布罗卡,博库克,布卡克,布鲁克,阔卡,德尔卡克,伽库克,格努克,格鲁克,格拉克,嘎克,嘎姆,卡尔尼克斯,卡拉克,卡布克,卡格纳克,卡特拉克,凯拉克,基尔卡拉,柯塔,基尔克拉,金罗克,坷克,克鲁德,阔坎,阔克,阔马克,阔格纳克,阔尔克,阔鲁克,克拉马克,克鲁格,克鲁克拉克,克鲁马克,克鲁纳克,卡卡,卡马克,马克隆,马卡克,马库克,莫克内克,纳伽克,欧尔克,欧尔克特,雷克纳克,塔寇拉克,特拉布克,特拉空,乌卡,乌克阿克
+
+[english-identical] wesnoth-ko.po
+EN: Alabrylla,Alaebrylla,Alaeniver,Alalla,Alalonna,Alaryan,Aleacla,Aleaniver,Aleara,Alearka,Alena,Alengwen,Alilonna,Alingwen,Alolla,Alolonna,Alora,Alubrylla,Aluniver,Aluryan,Alussa,Alwcla,Alwllyra,Alwlyan,Alwna,Alybrylla,Alynoic,Alyra,Alyryan,Braedda,Brassa,Bravya
+KO: Alabrylla,Alaebrylla,Alaeniver,Alalla,Alalonna,Alaryan,Aleacla,Aleaniver,Aleara,Alearka,Alena,Alengwen,Alilonna,Alingwen,Alolla,Alolonna,Alora,Alubrylla,Aluniver,Aluryan,Alussa,Alwcla,Alwllyra,Alwlyan,Alwna,Alybrylla,Alynoic,Alyra,Alyryan,Braedda,Brassa,Bravya
+JA: Alabrylla,Alaebrylla,Alaeniver,Alalla,Alalonna,Alaryan,Aleacla,Aleaniver,Aleara,Alearka,Alena,Alengwen,Alilonna,Alingwen,Alolla,Alolonna,Alora,Alubrylla,Aluniver,Aluryan,Alussa,Alwcla,Alwllyra,Alwlyan,Alwna,Alybrylla,Alynoic,Alyra,Alyryan,Braedda,Brassa,Bravya
+ZH: 艾拉布莱拉,艾拉尔布莱拉,艾拉艾妮法,艾拉莉娅,艾拉洛娜,艾拉莉安,艾莉娅卡,艾莉妮法,艾莉拉,艾莉尔卡,艾勒娜,艾勒格温妮,艾莉洛娜,艾琳格温妮,艾洛拉,艾洛露拉,艾罗拉,艾露布莉拉,艾露妮法,艾露莉安,艾露莎,艾尔瓦卡,艾尔薇莉拉,艾尔薇莉安,艾尔温娜,艾莉布莉拉,艾莉诺依可,艾莉拉,艾莉莱安,布拉艾妲,布拉莎,布拉薇安,布里布莉拉,布莉尔,布莉尔拉,布莉洛娜,布琳娜,布蕾尔,布蕾莉拉,布蕾拉,布蕾尔卡,布蕾尔兰,布莉珂拉,布莉尔卡,布洛布莉拉,布洛莉拉,布洛娜,布洛妮可,布洛拉,布洛卡,布莱温妮,布露莉安,布
+
+[english-identical] wesnoth-ko.po
+EN: Alen Ka,Alinash Mal,Ashirt,Auginet Ka,Auuglann,Damell,Dell,Demla,Dinsill,Eshi,Olath,Omage,Omagrra,Orra Ka,Orridan,Orrida,Oshibi,Vallin,Valnirra,Valnitt,Velisk,Verra,Vellin Ka,Veshtar,Vushtin
+KO: Alen Ka,Alinash Mal,Ashirt,Auginet Ka,Auuglann,Damell,Dell,Demla,Dinsill,Eshi,Olath,Omage,Omagrra,Orra Ka,Orridan,Orrida,Oshibi,Vallin,Valnirra,Valnitt,Velisk,Verra,Vellin Ka,Veshtar,Vushtin
+JA: Alen Ka,Alinash Mal,Ashirt,Auginet Ka,Auuglann,Damell,Dell,Demla,Dinsill,Eshi,Olath,Omage,Omagrra,Orra Ka,Orridan,Orrida,Oshibi,Vallin,Valnirra,Valnitt,Velisk,Verra,Vellin Ka,Veshtar,Vushtin
+ZH: 艾伦·卡,艾尔纳什·玛尔,阿希尔特,奥基奈特·卡,奥格兰,达姆埃尔,戴尔,德穆拉,丁希尔,艾希,欧拉丝,欧玛格,欧玛格拉,欧拉·卡,欧丽丹,欧丽达,欧什比,瓦琳,瓦尔尼拉,瓦尔尼特,瓦丽思科,瓦拉,瓦琳·卡,瓦什塔,瓦什丁
+
+[english-identical] wesnoth-ko.po
+EN: Aliasse,Amailis,Axmailia,Blai,Blanalai,Bli,Bliana,Brassas,Brissal,Gaxmail,Griama,Grissa,Grissilai,Haila,Haina,Harxias,Huzi,Inai,Inalai,Issalai,Klez,Kras,Krezkps,Kzap,Lamai,Lamaissa,Lexpek,Liabra,Lilin,Linassa,Maissa,Malina,Mila,Milbra,Nildlasi,Oxpel,Poniazal,P
+KO: Aliasse,Amailis,Axmailia,Blai,Blanalai,Bli,Bliana,Brassas,Brissal,Gaxmail,Griama,Grissa,Grissilai,Haila,Haina,Harxias,Huzi,Inai,Inalai,Issalai,Klez,Kras,Krezkps,Kzap,Lamai,Lamaissa,Lexpek,Liabra,Lilin,Linassa,Maissa,Malina,Mila,Milbra,Nildlasi,Oxpel,Poniazal,P
+JA: Aliasse,Amailis,Axmailia,Blai,Blanalai,Bli,Bliana,Brassas,Brissal,Gaxmail,Griama,Grissa,Grissilai,Haila,Haina,Harxias,Huzi,Inai,Inalai,Issalai,Klez,Kras,Krezkps,Kzap,Lamai,Lamaissa,Lexpek,Liabra,Lilin,Linassa,Maissa,Malina,Mila,Milbra,Nildlasi,Oxpel,Poniazal,P
+ZH: 艾莉阿希,艾麦莉丝,艾克丝麦莉娅,巴莱,巴兰纳莱,波莉,波莉娅拉,布拉萨丝,布莉萨尔,伽克丝梅尔,格莉娅玛,格莉莎,格莉希莱,海莉娅,海娜,哈克夏丝,胡兹,伊娜尔,伊纳莱,伊萨莱,克勒丝,库拉丝,库瑞泽克普丝,克萨普斯,拉麦尔,拉麦萨,勒克丝佩可,莉娅波拉,琳琳,莉娜莎,麦莎,玛莉娜,米拉,米尔布拉,妮尔德拉丝,欧克丝佩尔,波妮娅瑟尔,赛尔,申,萨科普,莉娅,萨尔,萨萨莉娅,萨克丝夏拉,萨克丝莉莉娅,瑟科,斯卡尔,斯克普丝,斯拉,斯内莉娅,斯拉可,斯拉尔,斯扎可,崔克丝哲德,薇莱拉,薇萨莱,薇拉妮莎,夏布拉可,夏玛
+
+[english-identical] wesnoth-ko.po
+EN: Amadrielia,Amadrielindë,Amadriendra,Amadriewen,Amarang,Amebrilindë,Amedë,Améthien,Amewien,Amil-Gadith,Amil-Garith,Amilmadia,Amiolith,Amionia,Amithraniel,Amithrawien,Amiwen,Amodë,Amorfilith,Amorith,Amulia,Amuviel,Amuwen,Analia,Anang,Anaraclya,Anáthien,Anebrinie
+KO: Amadrielia,Amadrielindë,Amadriendra,Amadriewen,Amarang,Amebrilindë,Amedë,Améthien,Amewien,Amil-Gadith,Amil-Garith,Amilmadia,Amiolith,Amionia,Amithraniel,Amithrawien,Amiwen,Amodë,Amorfilith,Amorith,Amulia,Amuviel,Amuwen,Analia,Anang,Anaraclya,Anáthien,Anebrinie
+JA: Amadrielia,Amadrielindë,Amadriendra,Amadriewen,Amarang,Amebrilindë,Amedë,Améthien,Amewien,Amil-Gadith,Amil-Garith,Amilmadia,Amiolith,Amionia,Amithraniel,Amithrawien,Amiwen,Amodë,Amorfilith,Amorith,Amulia,Amuviel,Amuwen,Analia,Anang,Anaraclya,Anáthien,Anebrinie
+ZH: 艾玛德蕾莉娅,艾玛德莉尔琳德,艾玛德蕾德拉,艾玛德蕾,艾玛,艾美布莉琳,艾美,艾美馨尔,艾美薇尔,艾蜜尔-伽迪丝,艾蜜尔-伽莉丝,艾蜜尔玛蒂娅,艾蜜欧莉丝,艾蜜欧妮娅,艾蜜丝兰妮,艾蜜丝莱温,艾蜜,艾墨尔,艾墨菲莉丝,艾墨莉丝,艾墨莉娅,艾墨薇尔,艾墨莱托妮,艾娜莉娅,艾娜,艾娜莱莉娅,艾娜鑫尔,艾娜布琳妮,艾妮尔玛丽丝,艾宁,艾诺尔莉丝,艾诺云,艾楠德拉,艾楠丝伊尔,艾楠馨尔,艾妮琳德妮,艾妮馨尔,艾妮,贝莱赛尔卡,贝莱德莉莉丝,贝莱德莉,贝莱德莉洛妮,贝莱兰妮娅,贝莱莱菲尔,贝莱布琳德妮,贝莱德拉,贝莉欧莉娅,
+
+[english-identical] wesnoth-ko.po
+EN: Amadrieriand,Amáril,Amelad,Ameldor,Amendel,Ameng,Amilmaldur,Amilmalith,Amilmandir,Amind,Amiol,Amiorion,Amithrarion,Amóldor,Amorfimir,Amorfir,Amowyn,Amulas,Amundil,Anán,Anebrin,Anebrir,Anémbor,Anénduil,Anerion,Anilad,Anil-Gawyn,Anilmambor,Anilmariand,Anior,Anit
+KO: Amadrieriand,Amáril,Amelad,Ameldor,Amendel,Ameng,Amilmaldur,Amilmalith,Amilmandir,Amind,Amiol,Amiorion,Amithrarion,Amóldor,Amorfimir,Amorfir,Amowyn,Amulas,Amundil,Anán,Anebrin,Anebrir,Anémbor,Anénduil,Anerion,Anilad,Anil-Gawyn,Anilmambor,Anilmariand,Anior,Anit
+JA: Amadrieriand,Amáril,Amelad,Ameldor,Amendel,Ameng,Amilmaldur,Amilmalith,Amilmandir,Amind,Amiol,Amiorion,Amithrarion,Amóldor,Amorfimir,Amorfir,Amowyn,Amulas,Amundil,Anán,Anebrin,Anebrir,Anémbor,Anénduil,Anerion,Anilad,Anil-Gawyn,Anilmambor,Anilmariand,Anior,Anit
+ZH: 阿玛德利艾兰德,阿玛利尔,阿梅拉德,阿梅尔多,阿蒙德尔,阿蒙,阿米尔玛尔多,阿米尔玛利斯,阿米尔曼迪尔,阿明德,阿密欧尔,阿米欧利温,阿密斯拉利温,阿莫尔多,阿莫尔菲米尔,阿莫尔菲尔,阿莫温,阿穆拉斯,阿穆恩迪尔,阿南,阿纳布林,阿纳布利尔,阿纳姆波,阿纳恩杜伊尔,阿纳利温,阿尼拉德,阿尼尔-伽温,阿尼尔曼波,阿尼尔玛利安德,阿尼欧,阿尼斯兰杜伊尔,阿诺尔,阿诺恩,阿诺夫林,阿努迪尔,贝隆,贝兰迪尔,贝拉兰迪尔,贝雷尔,贝伦,贝利尔-甘迪尔,贝利尔曼德,贝利尔曼,贝利温迪尔,贝利理尔,贝利斯拉尔多,贝利斯拉温,贝洛
+
+[english-identical] wesnoth-ko.po
+EN: Amprixta,Anexir,Anitraz,Arix,Axiz,Bzz’Kza,Chamil,Cleezi,Clezz,Fazzis,Fizztrax,Flixta,Flizzil,Frikes,Frizzle,Hasz,Heffez,Hertrazzir,Hesz,Hezzir,Hezzis,Hix,Inexis,Irix,Jezzix,Kaliez,Kepzs,Kernix,Kersezz,Kertrasz,Kerx,Kerxenix,Kezz,Klexaz,Klezyx,Krarax,Krenarex,K
+KO: Amprixta,Anexir,Anitraz,Arix,Axiz,Bzz’Kza,Chamil,Cleezi,Clezz,Fazzis,Fizztrax,Flixta,Flizzil,Frikes,Frizzle,Hasz,Heffez,Hertrazzir,Hesz,Hezzir,Hezzis,Hix,Inexis,Irix,Jezzix,Kaliez,Kepzs,Kernix,Kersezz,Kertrasz,Kerx,Kerxenix,Kezz,Klexaz,Klezyx,Krarax,Krenarex,K
+JA: Amprixta,Anexir,Anitraz,Arix,Axiz,Bzz’Kza,Chamil,Cleezi,Clezz,Fazzis,Fizztrax,Flixta,Flizzil,Frikes,Frizzle,Hasz,Heffez,Hertrazzir,Hesz,Hezzir,Hezzis,Hix,Inexis,Irix,Jezzix,Kaliez,Kepzs,Kernix,Kersezz,Kertrasz,Kerx,Kerxenix,Kezz,Klexaz,Klezyx,Krarax,Krenarex,K
+ZH: 阿姆布里希塔,安纳希尔,安尼特拉兹,阿利克斯,阿克斯,布兹卡匝,查米尔,克里兹,克雷兹,法泽斯,菲兹特拉克斯,佛里克斯塔,佛利兹尔,佛里克斯,佛里索尔,哈兹,赫菲兹,赫塔兹尔,赫匝,赫兹尔,赫匝斯,希克斯,伊内科希斯,伊里克斯,杰希克斯,卡勒兹,卡普兹,柯尼克斯,柯申斯,柯图拉特斯,柯克斯,柯申克斯,柯兹,柯勒克萨斯,柯勒辛斯,柯拉拉克斯,柯伦阿里克斯,柯雷克斯,柯里尼克斯,柯里申斯,莱希克斯,拉泽奇,历希斯,莫莱克斯,莫希斯,莫山斯,纳克希斯,尼克斯,佩克萨斯,普拉克希斯,普莱希克斯,普雷斯奇,赛里克,萨兰尼斯,
+
+[english-identical] wesnoth-ko.po
+EN: Badush,Bagar,Bagdish,Barag,Barbag,Bart,Bashnak,Bidish,Bidush,Bik,Bilg,Bilo,Binak,Bink,Biol,Birt,Bogar,Bogdish,Bogdush,Bogor,Bok,Bolg,Bong,Borg,Bork,Bort,Boshnak,Budush,Bugdish,Buk,Bunak,Bung,Bunk,Burag,Burg,Burk,Buurk,Eradash,Eradish,Eragdish,Eragdush,Eragor,E
+KO: Badush,Bagar,Bagdish,Barag,Barbag,Bart,Bashnak,Bidish,Bidush,Bik,Bilg,Bilo,Binak,Bink,Biol,Birt,Bogar,Bogdish,Bogdush,Bogor,Bok,Bolg,Bong,Borg,Bork,Bort,Boshnak,Budush,Bugdish,Buk,Bunak,Bung,Bunk,Burag,Burg,Burk,Buurk,Eradash,Eradish,Eragdish,Eragdush,Eragor,E
+JA: Badush,Bagar,Bagdish,Barag,Barbag,Bart,Bashnak,Bidish,Bidush,Bik,Bilg,Bilo,Binak,Bink,Biol,Birt,Bogar,Bogdish,Bogdush,Bogor,Bok,Bolg,Bong,Borg,Bork,Bort,Boshnak,Budush,Bugdish,Buk,Bunak,Bung,Bunk,Burag,Burg,Burk,Buurk,Eradash,Eradish,Eragdish,Eragdush,Eragor,E
+ZH: 巴达西,巴加,巴戈迪西,巴拉戈,巴巴戈,巴特,巴什纳克,比迪西,比达什,比克,比力格,比力欧,比纳克,宾克,比欧尔,博特,博加,博戈迪西,博戈达什,博戈,博克,博尔戈,崩,博戈,巴克,博特,博什纳克,巴达什,巴戈迪什,巴鲁克,巴纳克,邦,邦克,布拉戈,巴戈,布克,布鲁克,埃拉达什,埃拉迪什,埃拉戈迪什,埃拉戈达什,埃拉戈诺尔,埃拉纳克,埃朗,埃拉拉戈,埃拉戈,埃拉特,埃里戈达什,埃里克,埃里纳克,埃里欧尔,埃里拉戈,埃里巴戈,埃里戈,埃里特,埃里什纳克,埃里鲁拉克,埃罗格迪什,埃罗格达什,埃罗克,埃隆,埃隆克,埃罗
+
+[english-identical] wesnoth-ko.po
+EN: Bal,Cam,Corn,Del,Earl,El,Fox,Fren,Gel,Hel,Hex,Hol,Hox,Il,Kin,Nam,Nes,New,Ol,Old,Olf,Oul,Ox,Rock,Rook,Sal,Sam,Sed,Sel,Sen,Sil,Tal,Water,Wet,York
+KO: Bal,Cam,Corn,Del,Earl,El,Fox,Fren,Gel,Hel,Hex,Hol,Hox,Il,Kin,Nam,Nes,New,Ol,Old,Olf,Oul,Ox,Rock,Rook,Sal,Sam,Sed,Sel,Sen,Sil,Tal,Water,Wet,York
+JA: Bal,Cam,Corn,Del,Earl,El,Fox,Fren,Gel,Hel,Hex,Hol,Hox,Il,Kin,Nam,Nes,New,Ol,Old,Olf,Oul,Ox,Rock,Rook,Sal,Sam,Sed,Sel,Sen,Sil,Tal,Water,Wet,York
+ZH: 巴尔,卡姆,科恩,德尔,伊艾尔,艾尔,福克斯,福伦,葛尔,黑尔,海克斯,霍尔,霍克斯,伊尔,金,纳姆,尼斯,纽,欧尔,欧德,欧夫,欧乌尔,欧克斯,洛克,卢克,萨尔,萨姆,希德,赛尔,森,西尔,塔尔,沃特,维特,约克
+
+[english-identical] wesnoth-ko.po
+EN: DejaVu Sans Mono
+KO: DejaVu Sans Mono
+JA: DejaVu Sans Mono
+ZH: DejaVu Sans Mono,Droid Sans Fallback
+
+[english-identical] wesnoth-ko.po
+EN: Graa,Greaa,Gree,Kaaa,Kassshh,Kessshh,Korro,Kraa,Kuu,Kzaaa,Kzuuu
+KO: Graa,Greaa,Gree,Kaaa,Kassshh,Kessshh,Korro,Kraa,Kuu,Kzaaa,Kzuuu
+JA: Graa,Greaa,Gree,Kaaa,Kassshh,Kessshh,Korro,Kraa,Kuu,Kzaaa,Kzuuu
+ZH: 葛拉,葛利拉,葛利,卡,卡什,柯什,柯罗,克拉,库,克匝,克苏
+
+[english-identical] wesnoth-ko.po
+EN: Kaasa,Kayya,Keyya,Kiira,Korra
+KO: Kaasa,Kayya,Keyya,Kiira,Korra
+JA: Kaasa,Kayya,Keyya,Kiira,Korra
+ZH: 卡萨,卡娅,可娅,奇菈,科菈
+
+[english-only] wesnoth-ko.po
+EN: Lato
+KO: GULIM, Lato
+JA: Lato,Noto Sans JP
+ZH: Lato,DejaVu Sans,Andagii,Droid Sans Fallback
+
+[english-identical] wesnoth-ko.po
+EN: Lato Light
+KO: Lato Light
+JA: Lato Light
+ZH: Lato Light,Droid Sans Fallback
+
+[english-identical] wesnoth-ko.po
+EN: Oldania ADF Std
+KO: Oldania ADF Std
+JA: Oldania ADF Std,Noto Sans JP
+ZH: Oldania ADF Std,Droid Sans Fallback
+
+[english-only] wesnoth-ko.po
+EN: save_compression^Bzip2
+KO: Bzip2
+JA: Bzip2
+ZH: Bzip2
+
+[english-only] wesnoth-ko.po
+EN: save_compression^Gzip
+KO: Gzip
+JA: Gzip
+ZH: Gzip
+
+[english-identical] wesnoth-ko.po
+EN: Äg,Agh,Bog Äh,Borb,Brag,Brag Goh,Brok,Dak,Drog,Frok,Ga,Gah,Gark,Gnarf,Grar,Grokk,Grumph,Gulk,Hak,Hask,Hoth,Hug Bah,Hu Kah,Kak,Krak,Krug,Kub,Kuh,Lok,Luk,Nak,Nuk Kar,Pag,Reck,Rok,Ruk,Sark,Shak,Shuf,Stuh,Targ,Thog,Thruf,Thur,Tohg,Torg,Trok,Tsok,Tuh,Tuk Ruh,Ugg,Üh
+KO: Äg,Agh,Bog Äh,Borb,Brag,Brag Goh,Brok,Dak,Drog,Frok,Ga,Gah,Gark,Gnarf,Grar,Grokk,Grumph,Gulk,Hak,Hask,Hoth,Hug Bah,Hu Kah,Kak,Krak,Krug,Kub,Kuh,Lok,Luk,Nak,Nuk Kar,Pag,Reck,Rok,Ruk,Sark,Shak,Shuf,Stuh,Targ,Thog,Thruf,Thur,Tohg,Torg,Trok,Tsok,Tuh,Tuk Ruh,Ugg,Üh
+JA: Äg,Agh,Bog Äh,Borb,Brag,Brag Goh,Brok,Dak,Drog,Frok,Ga,Gah,Gark,Gnarf,Grar,Grokk,Grumph,Gulk,Hak,Hask,Hoth,Hug Bah,Hu Kah,Kak,Krak,Krug,Kub,Kuh,Lok,Luk,Nak,Nuk Kar,Pag,Reck,Rok,Ruk,Sark,Shak,Shuf,Stuh,Targ,Thog,Thruf,Thur,Tohg,Torg,Trok,Tsok,Tuh,Tuk Ruh,Ugg,Üh
+ZH: 阿格,阿嘎,布格·阿,布博,布拉格,布拉格·嘎,布罗克,达克,德罗格,福罗克,嘎,格,嘎克,格纳夫,格拉,格罗克,格拉姆,格尔克,哈克,哈斯克,霍斯,哈格·巴,呼·卡,卡克,克拉克,库拉格,库博,库,罗克,鲁克,纳克,纳克·卡,帕格,雷克,路克,拉克,萨克,夏克,夏夫,斯图,塔格,图鲁格,图鲁夫,苏尔,托格,托尔格,托克,苏克,塔,塔克·拉,尤格,阿,乌格,乌拉,乌克,乏克,佐格,组格
+
+[english-identical] wesnoth-ko.po
+EN: “$color_id”
+KO: “$color_id”
+JA: 「$color_id」
+ZH: ”$color_id“
+
+[english-identical] wesnoth-l-ko.po
+EN: ...\n...\n...
+KO: ...\n...\n...
+JA: ……\n……\n……
+ZH: ……\n……\n……
+
+[english-identical] wesnoth-lib-ko.po
+EN: #
+KO: #
+JA: #
+ZH: #
+
+[english-identical] wesnoth-lib-ko.po
+EN: $count|× $name
+KO: $count|× $name
+JA: $count|× $name
+ZH: $count|× $name
+
+[english-identical] wesnoth-lib-ko.po
+EN: Discord
+KO: Discord
+JA: Discord
+ZH: Discord
+
+[english-identical] wesnoth-lib-ko.po
+EN: ID:
+KO: ID:
+JA: ID：
+ZH: ID：
+
+[english-identical] wesnoth-lib-ko.po
+EN: IRC
+KO: IRC
+JA: IRC
+ZH: IRC
+
+[english-identical] wesnoth-lib-ko.po
+EN: Reddit
+KO: Reddit
+JA: Reddit
+ZH: Reddit
+
+[english-identical] wesnoth-lib-ko.po
+EN: Steam
+KO: Steam
+JA: Steam
+ZH: Steam
+
+[english-identical] wesnoth-lib-ko.po
+EN: [%H:%M]
+KO: [%H:%M]
+JA: [%H:%M]
+ZH: [%H:%M]
+
+[english-identical] wesnoth-lib-ko.po
+EN: [%I:%M %p]
+KO: [%I:%M %p]
+JA: [%I:%M %p]
+ZH: [%I:%M %p]
+
+[english-only] wesnoth-lib-ko.po
+EN: conjunct mid^$prefix, $next
+KO: $prefix, $next
+JA: $prefix、$next
+ZH: $prefix|、$next
+
+[english-only] wesnoth-lib-ko.po
+EN: conjunct start^$first, $second
+KO: $first, $second
+JA: $first、$second
+ZH: $first|、$second
+
+[english-only] wesnoth-lib-ko.po
+EN: disjunct mid^$prefix, $next
+KO: $prefix, $next
+JA: $prefix、$next
+ZH: $prefix|、$next
+
+[english-only] wesnoth-lib-ko.po
+EN: disjunct start^$first, $second
+KO: $first, $second
+JA: $first、$second
+ZH: $first|、$second
+
+[english-only] wesnoth-lib-ko.po
+EN: number of players^$min to $max
+KO: $min~$max
+JA: $min ～ $max
+ZH: $min|至$max
+
+[english-identical] wesnoth-lib-ko.po
+EN: ∞
+KO: ∞
+JA: 無限
+ZH: ∞
+
+[english-identical] wesnoth-low-ko.po
+EN: Spiros, George and Alexander Alexiou (Santi/fnaek)
+KO: Spiros, George and Alexander Alexiou (Santi/fnaek)
+JA: Spiros, George and Alexander Alexiou (Santi/fnaek)
+ZH: Spiros，George，以及Alexander Alexiou（Santi/fnaek）
+
+[english-identical] wesnoth-manpages-ko.po
+EN: 2022
+KO: 2022
+JA: 2022
+ZH: 2022
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--ai-config>I<\ number>B<:>I<value>
+KO: B<--ai-config>I<\ number>B<:>I<value>
+JA: B<--ai-config>I<\ number>B<:>I<value>
+ZH: B<--ai-config>I<\ number>B<:>I<value>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--algorithm>I<\ number>B<:>I<value>
+KO: B<--algorithm>I<\ number>B<:>I<value>
+JA: B<--algorithm>I<\ number>B<:>I<value>
+ZH: B<--algorithm>I<\ number>B<:>I<value>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--all-translations>
+KO: B<--all-translations>
+JA: B<--all-translations>
+ZH: B<--all-translations>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--bunzip2>I<\ infile.bz2>
+KO: B<--bunzip2>I<\ infile.bz2>
+JA: B<--bunzip2>I<\ infile.bz2>
+ZH: B<--bunzip2>I<\ infile.bz2>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--bzip2>I<\ infile>
+KO: B<--bzip2>I<\ infile>
+JA: B<--bzip2>I<\ infile>
+ZH: B<--bzip2>I<\ infile>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--campaign-difficulty[>I<=difficulty>B<]>
+KO: B<--campaign-difficulty[>I<=difficulty>B<]>
+JA: B<--campaign-difficulty[>I<=difficulty>B<]>
+ZH: B<--campaign-difficulty[>I<=difficulty>B<]>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--campaign-scenario>I<\ id_scenario>
+KO: B<--campaign-scenario>I<\ id_scenario>
+JA: B<--campaign-scenario>I<\ id_scenario>
+ZH: B<--campaign-scenario>I<\ id_scenario>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--campaign-skip-story>
+KO: B<--campaign-skip-story>
+JA: B<--campaign-skip-story>
+ZH: B<--campaign-skip-story>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--clock>
+KO: B<--clock>
+JA: B<--clock>
+ZH: B<--clock>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--config-dir>I<\ name>
+KO: B<--config-dir>I<\ name>
+JA: B<--config-dir>I<\ name>
+ZH: B<--config-dir>I<\ name>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--config-path>
+KO: B<--config-path>
+JA: B<--config-path>
+ZH: B<--config-path>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--controller>I<\ number>B<:>I<value>
+KO: B<--controller>I<\ number>B<:>I<value>
+JA: B<--controller>I<\ number>B<:>I<value>
+ZH: B<--controller>I<\ number>B<:>I<value>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--core>I<\ id_core>
+KO: B<--core>I<\ id_core>
+JA: B<--core>I<\ id_core>
+ZH: B<--core>I<\ id_core>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--data-dir>I<\ directory>
+KO: B<--data-dir>I<\ directory>
+JA: B<--data-dir>I<\ directory>
+ZH: B<--data-dir>I<\ directory>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--data-path>
+KO: B<--data-path>
+JA: B<--data-path>
+ZH: B<--data-path>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--debug-lua>
+KO: B<--debug-lua>
+JA: B<--debug-lua>
+ZH: B<--debug-lua>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--era>I<\ value>
+KO: B<--era>I<\ value>
+JA: B<--era>I<\ value>
+ZH: B<--era>I<\ value>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--exit-at-end>
+KO: B<--exit-at-end>
+JA: B<--exit-at-end>
+ZH: B<--exit-at-end>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--fps>
+KO: B<--fps>
+JA: B<--fps>
+ZH: B<--fps>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--gunzip>I<\ infile.gz>
+KO: B<--gunzip>I<\ infile.gz>
+JA: B<--gunzip>I<\ infile.gz>
+ZH: B<--gunzip>I<\ infile.gz>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--gzip>I<\ infile>
+KO: B<--gzip>I<\ infile>
+JA: B<--gzip>I<\ infile>
+ZH: B<--gzip>I<\ infile>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--ignore-map-settings>
+KO: B<--ignore-map-settings>
+JA: B<--ignore-map-settings>
+ZH: B<--ignore-map-settings>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--label>I<\ label>
+KO: B<--label>I<\ label>
+JA: B<--label>I<\ label>
+ZH: B<--label>I<\ label>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--log->I<level>B<=>I<domain1>B<,>I<domain2>B<,>I<...>
+KO: B<--log->I<level>B<=>I<domain1>B<,>I<domain2>B<,>I<...>
+JA: B<--log->I<level>B<=>I<domain1>B<,>I<domain2>B<,>I<...>
+ZH: B<--log->I<level>B<=>I<domain1>B<,>I<domain2>B<,>I<...>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--log-precise>
+KO: B<--log-precise>
+JA: B<--log-precise>
+ZH: B<--log-precise>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--log-strict>
+KO: B<--log-strict>
+JA: B<--log-strict>
+ZH: B<--log-strict>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--log-to-file>
+KO: B<--log-to-file>
+JA: B<--log-to-file>
+ZH: B<--log-to-file>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--logdomains[>I<=filter>B<]>
+KO: B<--logdomains[>I<=filter>B<]>
+JA: B<--logdomains[>I<=filter>B<]>
+ZH: B<--logdomains[>I<=filter>B<]>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--max-fps>I<\ fps>
+KO: B<--max-fps>I<\ fps>
+JA: B<--max-fps>I<\ fps>
+ZH: B<--max-fps>I<\ fps>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--mp-test>
+KO: B<--mp-test>
+JA: B<--mp-test>
+ZH: B<--mp-test>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--multiplayer-repeat>I<\ value>
+KO: B<--multiplayer-repeat>I<\ value>
+JA: B<--multiplayer-repeat>I<\ value>
+ZH: B<--multiplayer-repeat>I<\ value>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--new-widgets>
+KO: B<--new-widgets>
+JA: B<--new-widgets>
+ZH: B<--new-widgets>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--no-log-to-file>
+KO: B<--no-log-to-file>
+JA: B<--no-log-to-file>
+ZH: B<--no-log-to-file>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--noaddons>
+KO: B<--noaddons>
+JA: B<--noaddons>
+ZH: B<--noaddons>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--nobanner>
+KO: B<--nobanner>
+JA: B<--nobanner>
+ZH: B<--nobanner>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--nocache>
+KO: B<--nocache>
+JA: B<--nocache>
+ZH: B<--nocache>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--nodelay>
+KO: B<--nodelay>
+JA: B<--nodelay>
+ZH: B<--nodelay>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--nogui>
+KO: B<--nogui>
+JA: B<--nogui>
+ZH: B<--nogui>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--nomusic>
+KO: B<--nomusic>
+JA: B<--nomusic>
+ZH: B<--nomusic>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--noreplaycheck>
+KO: B<--noreplaycheck>
+JA: B<--noreplaycheck>
+ZH: B<--noreplaycheck>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--nosound>
+KO: B<--nosound>
+JA: B<--nosound>
+ZH: B<--nosound>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--output>I<\ file>
+KO: B<--output>I<\ file>
+JA: B<--output>I<\ ファイル>
+ZH: B<--output>I<\ file>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--parm>I<\ number>B<:>I<name>B<:>I<value>
+KO: B<--parm>I<\ number>B<:>I<name>B<:>I<value>
+JA: B<--parm>I<\ number>B<:>I<name>B<:>I<value>
+ZH: B<--parm>I<\ number>B<:>I<name>B<:>I<value>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--password>I<\ password>
+KO: B<--password>I<\ password>
+JA: B<--password>I<\ password>
+ZH: B<--password>I<\ password>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--plugin>I<\ script>
+KO: B<--plugin>I<\ script>
+JA: B<--plugin>I<\ script>
+ZH: B<--plugin>I<\ script>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--preprocess-defines=>I<DEFINE1>B<,>I<DEFINE2>B<,>I<...>
+KO: B<--preprocess-defines=>I<DEFINE1>B<,>I<DEFINE2>B<,>I<...>
+JA: B<--preprocess-defines=>I<DEFINE1>B<,>I<DEFINE2>B<,>I<...>
+ZH: B<--preprocess-defines=>I<DEFINE1>B<,>I<DEFINE2>B<,>I<...>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--preprocess-input-macros>I<\ source-file>
+KO: B<--preprocess-input-macros>I<\ source-file>
+JA: B<--preprocess-input-macros>I<\ source-file>
+ZH: B<--preprocess-input-macros>I<\ source-file>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--preprocess-output-macros[>I<=target-file>B<]>
+KO: B<--preprocess-output-macros[>I<=target-file>B<]>
+JA: B<--preprocess-output-macros[>I<=target-file>B<]>
+ZH: B<--preprocess-output-macros[>I<=target-file>B<]>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--render-image>I<\ image>B<\ >I<output>
+KO: B<--render-image>I<\ image>B<\ >I<output>
+JA: B<--render-image>I<\ image>B<\ >I<output>
+ZH: B<--render-image>I<\ image>B<\ >I<output>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--rng-seed>I<\ number>
+KO: B<--rng-seed>I<\ number>
+JA: B<--rng-seed>I<\ number>
+ZH: B<--rng-seed>I<\ number>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--scenario>I<\ value>
+KO: B<--scenario>I<\ value>
+JA: B<--scenario>I<\ value>
+ZH: B<--scenario>I<\ value>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--screenshot>I<\ map>B<\ >I<output>
+KO: B<--screenshot>I<\ map>B<\ >I<output>
+JA: B<--screenshot>I<\ map>B<\ >I<output>
+ZH: B<--screenshot>I<\ map>B<\ >I<output>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--script>I<\ file>
+KO: B<--script>I<\ file>
+JA: B<--script>I<\ file>
+ZH: B<--script>I<\ file>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--showgui>
+KO: B<--showgui>
+JA: B<--showgui>
+ZH: B<--showgui>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--side>I<\ number>B<:>I<value>
+KO: B<--side>I<\ number>B<:>I<value>
+JA: B<--side>I<\ number>B<:>I<value>
+ZH: B<--side>I<\ number>B<:>I<value>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--simple-version>
+KO: B<--simple-version>
+JA: B<--simple-version>
+ZH: B<--simple-version>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--strict-lua>
+KO: B<--strict-lua>
+JA: B<--strict-validation>
+ZH: B<--strict-lua>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--strict-validation>
+KO: B<--strict-validation>
+JA: B<--strict-validation>
+ZH: B<--strict-validation>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--translations-over>I<\ percent>
+KO: B<--translations-over>I<\ percent>
+JA: B<--translations-over>I<\ percent>
+ZH: B<--translations-over>I<\ percent>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--turns>I<\ value>
+KO: B<--turns>I<\ value>
+JA: B<--turns>I<\ value>
+ZH: B<--turns>I<\ value>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--unsafe-scripts>
+KO: B<--unsafe-scripts>
+JA: B<--unsafe-scripts>
+ZH: B<--unsafe-scripts>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--userconfig-dir>I<\ name>
+KO: B<--userconfig-dir>I<\ name>
+JA: B<--userconfig-dir>I<\ name>
+ZH: B<--userconfig-dir>I<\ name>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--userconfig-path>
+KO: B<--userconfig-path>
+JA: B<--userconfig-path>
+ZH: B<--userconfig-path>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--userdata-dir>I<\ name>
+KO: B<--userdata-dir>I<\ name>
+JA: B<--userdata-dir>I<\ name>
+ZH: B<--userdata-dir>I<\ name>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--userdata-path>
+KO: B<--userdata-path>
+JA: B<--userdata-path>
+ZH: B<--userdata-path>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--username>I<\ username>
+KO: B<--username>I<\ username>
+JA: B<--username>I<\ username>
+ZH: B<--username>I<\ username>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--validate-addon>I<\ addon_id>
+KO: B<--validate-addon>I<\ addon_id>
+JA: B<--validate-addon>I<\ アドオンid>
+ZH: B<--validate-addon>I<\ addon_id>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--validate-core>
+KO: B<--validate-core>
+JA: B<--validate-core>
+ZH: B<--validate-core>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--validate-schema \ path>
+KO: B<--validate-schema \ path>
+JA: B<--validate-schema \ パス>
+ZH: B<--validate-schema \ path>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--validate>I<\ path>
+KO: B<--validate>I<\ path>
+JA: B<--validate>I<\ パス>
+ZH: B<--validate>I<\ path>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--validcache>
+KO: B<--validcache>
+JA: B<--validcache>
+ZH: B<--validcache>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--with-replay>
+KO: B<--with-replay>
+JA: B<--with-replay>
+ZH: B<--with-replay>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<--wnoconsole>
+KO: B<--wnoconsole>
+JA: B<--wnoconsole>
+ZH: B<--wnoconsole>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<-D,--diff>I<\ left-file>B<\ >I<right-file>
+KO: B<-D,--diff>I<\ left-file>B<\ >I<right-file>
+JA: B<-D,--diff>I<\ 左ファイル>B<\ >I<右ファイル>
+ZH: B<-D,--diff>I<\ left-file>B<\ >I<right-file>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<-L,\ --language>I<\ lang>
+KO: B<-L,\ --language>I<\ lang>
+JA: B<-L,\ --language>I<\ lang>
+ZH: B<-L,\ --language>I<\ lang>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<-P,--patch>I<\ base-file>B<\ >I<patch-file>
+KO: B<-P,--patch>I<\ base-file>B<\ >I<patch-file>
+JA: B<-P,--patch>I<\ ベースファイル>B<\ >I<パッチファイル>
+ZH: B<-P,--patch>I<\ base-file>B<\ >I<patch-file>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<-R,\ --report>
+KO: B<-R,\ --report>
+JA: B<-R,\ --report>
+ZH: B<-R,\ --report>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<-S,--use-schema>I<\ path>
+KO: B<-S,--use-schema>I<\ path>
+JA: B<-S,--use-schema>I<\ パス>
+ZH: B<-S,--use-schema>I<\ path>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<-T\ >I<number>B<,\ --max-threads>I<\ number>
+KO: B<-T\ >I<number>B<,\ --max-threads>I<\ number>
+JA: B<-T\ >I<number>B<,\ --max-threads>I<\ number>
+ZH: B<-T\ >I<number>B<,\ --max-threads>I<\ number>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<-V, --version>
+KO: B<-V, --version>
+JA: B<-V, --version>
+ZH: B<-V, --version>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<-c[>I<id_campaign>B<],\ --campaign[>I<=id_campaign>B<]>
+KO: B<-c[>I<id_campaign>B<],\ --campaign[>I<=id_campaign>B<]>
+JA: B<-c[>I<id_campaign>B<],\ --campaign[>I<=id_campaign>B<]>
+ZH: B<-c[>I<id_campaign>B<],\ --campaign[>I<=id_campaign>B<]>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<-c\ >I<path>B<,\ --config>I<\ path>
+KO: B<-c\ >I<path>B<,\ --config>I<\ path>
+JA: B<-c\ >I<path>B<,\ --config>I<\ path>
+ZH: B<-c\ >I<path>B<,\ --config>I<\ path>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<-d, --daemon>
+KO: B<-d, --daemon>
+JA: B<-d, --daemon>
+ZH: B<-d, --daemon>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<-d, --debug>
+KO: B<-d, --debug>
+JA: B<-d, --debug>
+ZH: B<-d, --debug>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<-e[>I<file>B<],\ --editor[>I<=file>B<]>
+KO: B<-e[>I<file>B<],\ --editor[>I<=file>B<]>
+JA: B<-e[>I<file>B<],\ --editor[>I<=file>B<]>
+ZH: B<-e[>I<file>B<],\ --editor[>I<=file>B<]>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<-f, --fullscreen>
+KO: B<-f, --fullscreen>
+JA: B<-f, --fullscreen>
+ZH: B<-f, --fullscreen>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<-h, --help>
+KO: B<-h, --help>
+JA: B<-h, --help>
+ZH: B<-h, --help>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<-l,\ --load>I<\ file>
+KO: B<-l,\ --load>I<\ file>
+JA: B<-l,\ --load>I<\ file>
+ZH: B<-l,\ --load>I<\ file>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<-m, --multiplayer>
+KO: B<-m, --multiplayer>
+JA: B<-m, --multiplayer>
+ZH: B<-m, --multiplayer>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<-p,\ --preprocess>I<\ source-file/folder>B<\ >I<target-directory>
+KO: B<-p,\ --preprocess>I<\ source-file/folder>B<\ >I<target-directory>
+JA: B<-p,\ --preprocess>I<\ source-file/folder>B<\ >I<target-directory>
+ZH: B<-p,\ --preprocess>I<\ source-file/folder>B<\ >I<target-directory>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<-p\ >I<port>B<,\ --port>I<\ port>
+KO: B<-p\ >I<port>B<,\ --port>I<\ port>
+JA: B<-p\ >I<port>B<,\ --port>I<\ port>
+ZH: B<-p\ >I<port>B<,\ --port>I<\ port>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<-r\ >I<X>B<x>I<Y>B<,\ --resolution\ >I<X>B<x>I<Y>
+KO: B<-r\ >I<X>B<x>I<Y>B<,\ --resolution\ >I<X>B<x>I<Y>
+JA: B<-r\ >I<X>B<x>I<Y>B<,\ --resolution\ >I<X>B<x>I<Y>
+ZH: B<-r\ >I<X>B<x>I<Y>B<,\ --resolution\ >I<X>B<x>I<Y>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<-s[>I<host>B<],\ --server[>I<=host>B<]>
+KO: B<-s[>I<host>B<],\ --server[>I<=host>B<]>
+JA: B<-s[>I<host>B<],\ --server[>I<=host>B<]>
+ZH: B<-s[>I<host>B<],\ --server[>I<=host>B<]>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<-t[>I<scenario_id>B<],\ --test[>I<=scenario_id>B<]>
+KO: B<-t[>I<scenario_id>B<],\ --test[>I<=scenario_id>B<]>
+JA: B<-t[>I<scenario_id>B<],\ --test[>I<=scenario_id>B<]>
+ZH: B<-t[>I<scenario_id>B<],\ --test[>I<=scenario_id>B<]>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<-t\ >I<number>B<,\ --threads>I<\ number>
+KO: B<-t\ >I<number>B<,\ --threads>I<\ number>
+JA: B<-t\ >I<number>B<,\ --threads>I<\ number>
+ZH: B<-t\ >I<number>B<,\ --threads>I<\ number>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<-u,\ --unit>I<\ scenario-id>
+KO: B<-u,\ --unit>I<\ scenario-id>
+JA: B<-u,\ --unit>I<\ scenario-id>
+ZH: B<-u,\ --unit>I<\ scenario-id>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<-v, --verbose>
+KO: B<-v, --verbose>
+JA: B<-v, --verbose>
+ZH: B<-v, --verbose>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<-v, --version>
+KO: B<-v, --version>
+JA: B<-v, --version>
+ZH: B<-v, --version>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<-w, --windowed>
+KO: B<-w, --windowed>
+JA: B<-w, --windowed>
+ZH: B<-w, --windowed>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<allow_remote_shutdown>
+KO: B<allow_remote_shutdown>
+JA: B<allow_remote_shutdown>
+ZH: B<allow_remote_shutdown>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<ban_save_file>
+KO: B<ban_save_file>
+JA: B<ban_save_file>
+ZH: B<ban_save_file>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<compress_stored_rooms>
+KO: B<compress_stored_rooms>
+JA: B<compress_stored_rooms>
+ZH: B<compress_stored_rooms>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<connections_allowed>
+KO: B<connections_allowed>
+JA: B<connections_allowed>
+ZH: B<connections_allowed>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<db_banlist_table>
+KO: B<db_banlist_table>
+JA: B<db_banlist_table>
+ZH: B<db_banlist_table>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<db_connection_history_table>
+KO: B<db_connection_history_table>
+JA: B<db_connection_history_table>
+ZH: B<db_connection_history_table>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<db_extra_table>
+KO: B<db_extra_table>
+JA: B<db_extra_table>
+ZH: B<db_extra_table>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<db_game_info_table>
+KO: B<db_game_info_table>
+JA: B<db_game_info_table>
+ZH: B<db_game_info_table>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<db_game_modification_info_table>
+KO: B<db_game_modification_info_table>
+JA: B<db_game_modification_info_table>
+ZH: B<db_game_modification_info_table>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<db_game_player_info_table>
+KO: B<db_game_player_info_table>
+JA: B<db_game_player_info_table>
+ZH: B<db_game_player_info_table>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<db_host>
+KO: B<db_host>
+JA: B<db_host>
+ZH: B<db_host>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<db_name>
+KO: B<db_name>
+JA: B<db_name>
+ZH: B<db_name>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<db_password>
+KO: B<db_password>
+JA: B<db_password>
+ZH: B<db_password>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<db_topics_table>
+KO: B<db_topics_table>
+JA: B<db_topics_table>
+ZH: B<db_topics_table>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<db_user>
+KO: B<db_user>
+JA: B<db_user>
+ZH: B<db_user>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<db_user_group_table>
+KO: B<db_user_group_table>
+JA: B<db_user_group_table>
+ZH: B<db_user_group_table>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<db_users_table>
+KO: B<db_users_table>
+JA: B<db_users_table>
+ZH: B<db_users_table>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<deny_unregistered_login>
+KO: B<deny_unregistered_login>
+JA: B<deny_unregistered_login>
+ZH: B<deny_unregistered_login>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<disallow_names>
+KO: B<disallow_names>
+JA: B<disallow_names>
+ZH: B<disallow_names>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<fifo_path>
+KO: B<fifo_path>
+JA: B<fifo_path>
+ZH: B<fifo_path>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<host>
+KO: B<host>
+JA: B<host>
+ZH: B<host>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<id>
+KO: B<id>
+JA: B<id>
+ZH: B<id>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<max_messages>
+KO: B<max_messages>
+JA: B<max_messages>
+ZH: B<max_messages>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<messages_time_period>
+KO: B<messages_time_period>
+JA: B<messages_time_period>
+ZH: B<messages_time_period>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<motd>
+KO: B<motd>
+JA: B<motd>
+ZH: B<motd>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<mp_mod_group>
+KO: B<mp_mod_group>
+JA: B<mp_mod_group>
+ZH: B<mp_mod_group>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<name>
+KO: B<name>
+JA: B<name>
+ZH: B<name>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<new_room_policy>
+KO: B<new_room_policy>
+JA: B<new_room_policy>
+ZH: B<new_room_policy>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<passwd>
+KO: B<passwd>
+JA: B<passwd>
+ZH: B<passwd>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<port>
+KO: B<port>
+JA: B<port>
+ZH: B<port>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<replay_save_path>
+KO: B<replay_save_path>
+JA: B<replay_save_path>
+ZH: B<replay_save_path>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<restart_command>
+KO: B<restart_command>
+JA: B<restart_command>
+ZH: B<restart_command>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<room_save_file>
+KO: B<room_save_file>
+JA: B<room_save_file>
+ZH: B<room_save_file>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<save_replays>
+KO: B<save_replays>
+JA: B<save_replays>
+ZH: B<save_replays>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<time>
+KO: B<time>
+JA: B<time>
+ZH: B<time>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<tls_dh>
+KO: B<tls_dh>
+JA: B<tls_dh>
+ZH: B<tls_dh>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<tls_enabled>
+KO: B<tls_enabled>
+JA: B<tls_enabled>
+ZH: B<tls_enabled>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<tls_fullchain>
+KO: B<tls_fullchain>
+JA: B<tls_fullchain>
+ZH: B<tls_fullchain>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<tls_private_key>
+KO: B<tls_private_key>
+JA: B<tls_private_key>
+ZH: B<tls_private_key>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<version>
+KO: B<version>
+JA: B<version>
+ZH: B<version>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<versions_accepted>
+KO: B<versions_accepted>
+JA: B<versions_accepted>
+ZH: B<versions_accepted>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<wesnoth> [I<OPTIONS>] [I<PATH_TO_DATA>]
+KO: B<wesnoth> [I<OPTIONS>] [I<PATH_TO_DATA>]
+JA: B<wesnoth> [I<OPTIONS>] [I<PATH_TO_DATA>]
+ZH: B<wesnoth> [I<选项>] [I<数据路径>]
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<wesnoth>(6)
+KO: B<wesnoth>(6)
+JA: B<wesnoth>(6)
+ZH: B<wesnoth>(6)
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<wesnothd> B<-V>
+KO: B<wesnothd> B<-V>
+JA: B<wesnothd> B<-V>
+ZH: B<wesnothd> B<-V>
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<wesnothd> [\|B<-dv>\|] [\|B<-c> I<path>\|] [\|B<-p> I<port>\|] [\|B<-t> I<number>\|] [\|B<-T> I<number>\|]
+KO: B<wesnothd> [\|B<-dv>\|] [\|B<-c> I<path>\|] [\|B<-p> I<port>\|] [\|B<-t> I<number>\|] [\|B<-T> I<number>\|]
+JA: B<wesnothd> [\|B<-dv>\|] [\|B<-c> I<path>\|] [\|B<-p> I<port>\|] [\|B<-t> I<number>\|] [\|B<-T> I<number>\|]
+ZH: B<wesnothd> [\|B<-dv>\|] [\|B<-c> I<path>\|] [\|B<-p> I<port>\|] [\|B<-t> I<number>\|] [\|B<-T> I<number>\|]
+
+[english-identical] wesnoth-manpages-ko.po
+EN: B<wesnothd>(6)
+KO: B<wesnothd>(6)
+JA: B<wesnothd>(6)
+ZH: B<wesnothd>(6)
+
+[english-identical] wesnoth-manpages-ko.po
+EN: I<key>="I<value>"
+KO: I<key>="I<value>"
+JA: I<key>="I<value>"
+ZH: I<key>="I<value>"
+
+[english-identical] wesnoth-manpages-ko.po
+EN: I<key>="I<value>,I<value>,..."
+KO: I<key>="I<value>,I<value>,..."
+JA: I<key>="I<value>,I<value>,..."
+ZH: I<key>="I<value>,I<value>,..."
+
+[english-identical] wesnoth-manpages-ko.po
+EN: WESNOTHD
+KO: WESNOTHD
+JA: WESNOTHD
+ZH: WESNOTHD
+
+[english-identical] wesnoth-manpages-ko.po
+EN: [/I<tag>]
+KO: [/I<tag>]
+JA: [/I<tag>]
+ZH: [/I<tag>]
+
+[english-identical] wesnoth-manpages-ko.po
+EN: [I<tag>]
+KO: [I<tag>]
+JA: [I<tag>]
+ZH: [I<tag>]
+
+[english-identical] wesnoth-manpages-ko.po
+EN: wesnothd
+KO: wesnothd
+JA: wesnothd
+ZH: wesnothd
+
+[english-identical] wesnoth-manual-ko.po
+EN: +25%
+KO: +25%
+JA: +25%
+ZH: +25%
+
+[english-identical] wesnoth-manual-ko.po
+EN: -
+KO: -
+JA: -
+ZH: -
+
+[english-identical] wesnoth-manual-ko.po
+EN: --
+KO: --
+JA: --
+ZH: ——
+
+[english-identical] wesnoth-manual-ko.po
+EN: 0
+KO: 0
+JA: 0
+ZH: 0
+
+[english-identical] wesnoth-manual-ko.po
+EN: 1
+KO: 1
+JA: 1
+ZH: 1
+
+[english-identical] wesnoth-manual-ko.po
+EN: 16
+KO: 16
+JA: 16
+ZH: 16
+
+[english-identical] wesnoth-manual-ko.po
+EN: 2
+KO: 2
+JA: 2
+ZH: 2
+
+[english-identical] wesnoth-manual-ko.po
+EN: 24
+KO: 24
+JA: 24
+ZH: 24
+
+[english-identical] wesnoth-manual-ko.po
+EN: 3
+KO: 3
+JA: 3
+ZH: 3
+
+[english-identical] wesnoth-manual-ko.po
+EN: 32
+KO: 32
+JA: 32
+ZH: 32
+
+[english-identical] wesnoth-manual-ko.po
+EN: 4
+KO: 4
+JA: 4
+ZH: 4
+
+[english-identical] wesnoth-manual-ko.po
+EN: 40
+KO: 40
+JA: 40
+ZH: 40
+
+[english-identical] wesnoth-manual-ko.po
+EN: 48
+KO: 48
+JA: 48
+ZH: 48
+
+[english-identical] wesnoth-manual-ko.po
+EN: 5
+KO: 5
+JA: 5
+ZH: 5
+
+[english-identical] wesnoth-manual-ko.po
+EN: 6
+KO: 6
+JA: 6
+ZH: 6
+
+[english-identical] wesnoth-manual-ko.po
+EN: 8
+KO: 8
+JA: 8
+ZH: 8
+
+[english-identical] wesnoth-manual-ko.po
+EN: <?asciidoc-toc?> <?asciidoc-numbered?>
+KO: <?asciidoc-toc?> <?asciidoc-numbered?>
+JA: <?asciidoc-toc?> <?asciidoc-numbered?>
+ZH: <?asciidoc-toc?> <?asciidoc-numbered?>
+
+[english-identical] wesnoth-manual-ko.po
+EN: <imageobject> <imagedata fileref="images/game-screen-1.13.11+dev.jpg"/> </imageobject>
+KO: <imageobject> <imagedata fileref="images/game-screen-1.13.11+dev.jpg"/> </imageobject>
+JA: <imageobject> <imagedata fileref="images/game-screen-1.13.11+dev.jpg"/> </imageobject>
+ZH: <imageobject> <imagedata fileref="images/game-screen-1.13.11+dev.jpg"/> </imageobject>
+
+[english-identical] wesnoth-manual-ko.po
+EN: <imageobject> <imagedata fileref="images/main-menu-1.13.11+dev.jpg"/> </imageobject>
+KO: <imageobject> <imagedata fileref="images/main-menu-1.13.11+dev.jpg"/> </imageobject>
+JA: <imageobject> <imagedata fileref="images/main-menu-1.13.11+dev.jpg"/> </imageobject>
+ZH: <imageobject> <imagedata fileref="images/main-menu-1.13.11+dev.jpg"/> </imageobject>
+REF: <imageobject> <imagedata fileref="images/main-menu-1.13.11.jpg"/> </imageobject>
+
+[english-identical] wesnoth-manual-ko.po
+EN: <imageobject> <imagedata fileref="images/multiplayer-1.13.11+dev.png"/> </imageobject>
+KO: <imageobject> <imagedata fileref="images/multiplayer-1.13.11+dev.png"/> </imageobject>
+JA: <imageobject> <imagedata fileref="images/multiplayer-1.13.11+dev.png"/> </imageobject>
+ZH: <imageobject> <imagedata fileref="images/multiplayer-1.13.11+dev.png"/> </imageobject>
+
+[english-identical] wesnoth-manual-ko.po
+EN: <imageobject> <imagedata fileref="images/orb-blue.jpg"/> </imageobject>
+KO: <imageobject> <imagedata fileref="images/orb-blue.jpg"/> </imageobject>
+JA: <imageobject> <imagedata fileref="images/orb-blue.jpg"/> </imageobject>
+ZH: <imageobject> <imagedata fileref="images/orb-blue.jpg"/> </imageobject>
+
+[english-identical] wesnoth-manual-ko.po
+EN: <imageobject> <imagedata fileref="images/orb-disengaged.png"/> </imageobject>
+KO: <imageobject> <imagedata fileref="images/orb-disengaged.png"/> </imageobject>
+JA: <imageobject> <imagedata fileref="images/orb-disengaged.png"/> </imageobject>
+ZH: <imageobject> <imagedata fileref="images/orb-disengaged.png"/> </imageobject>
+
+[english-identical] wesnoth-manual-ko.po
+EN: <imageobject> <imagedata fileref="images/orb-green.jpg"/> </imageobject>
+KO: <imageobject> <imagedata fileref="images/orb-green.jpg"/> </imageobject>
+JA: <imageobject> <imagedata fileref="images/orb-green.jpg"/> </imageobject>
+ZH: <imageobject> <imagedata fileref="images/orb-green.jpg"/> </imageobject>
+
+[english-identical] wesnoth-manual-ko.po
+EN: <imageobject> <imagedata fileref="images/orb-none.jpg"/> </imageobject>
+KO: <imageobject> <imagedata fileref="images/orb-none.jpg"/> </imageobject>
+JA: <imageobject> <imagedata fileref="images/orb-none.jpg"/> </imageobject>
+ZH: <imageobject> <imagedata fileref="images/orb-none.jpg"/> </imageobject>
+
+[english-identical] wesnoth-manual-ko.po
+EN: <imageobject> <imagedata fileref="images/orb-red.jpg"/> </imageobject>
+KO: <imageobject> <imagedata fileref="images/orb-red.jpg"/> </imageobject>
+JA: <imageobject> <imagedata fileref="images/orb-red.jpg"/> </imageobject>
+ZH: <imageobject> <imagedata fileref="images/orb-red.jpg"/> </imageobject>
+
+[english-identical] wesnoth-manual-ko.po
+EN: <imageobject> <imagedata fileref="images/orb-yellow.jpg"/> </imageobject>
+KO: <imageobject> <imagedata fileref="images/orb-yellow.jpg"/> </imageobject>
+JA: <imageobject> <imagedata fileref="images/orb-yellow.jpg"/> </imageobject>
+ZH: <imageobject> <imagedata fileref="images/orb-yellow.jpg"/> </imageobject>
+
+[english-identical] wesnoth-manual-ko.po
+EN: <imageobject> <imagedata fileref="images/recruit-1.13.11+dev.png"/> </imageobject>
+KO: <imageobject> <imagedata fileref="images/recruit-1.13.11+dev.png"/> </imageobject>
+JA: <imageobject> <imagedata fileref="images/recruit-1.13.11+dev.png"/> </imageobject>
+ZH: <imageobject> <imagedata fileref="images/recruit-1.13.11+dev.png"/> </imageobject>
+
+[english-identical] wesnoth-manual-ko.po
+EN: <imageobject> <imagedata fileref="images/right_pane-1.13.11+dev.png"/> </imageobject>
+KO: <imageobject> <imagedata fileref="images/right_pane-1.13.11+dev.png"/> </imageobject>
+JA: <imageobject> <imagedata fileref="images/right_pane-1.13.11+dev.png"/> </imageobject>
+ZH: <imageobject> <imagedata fileref="images/right_pane-1.13.11+dev.png"/> </imageobject>
+
+[english-identical] wesnoth-manual-ko.po
+EN: <imageobject> <imagedata fileref="images/schedule-afternoon.png"/> </imageobject>
+KO: <imageobject> <imagedata fileref="images/schedule-afternoon.png"/> </imageobject>
+JA: <imageobject> <imagedata fileref="images/schedule-afternoon.png"/> </imageobject>
+ZH: <imageobject> <imagedata fileref="images/schedule-afternoon.png"/> </imageobject>
+
+[english-identical] wesnoth-manual-ko.po
+EN: <imageobject> <imagedata fileref="images/schedule-dawn.png"/> </imageobject>
+KO: <imageobject> <imagedata fileref="images/schedule-dawn.png"/> </imageobject>
+JA: <imageobject> <imagedata fileref="images/schedule-dawn.png"/> </imageobject>
+ZH: <imageobject> <imagedata fileref="images/schedule-dawn.png"/> </imageobject>
+
+[english-identical] wesnoth-manual-ko.po
+EN: <imageobject> <imagedata fileref="images/schedule-dusk.png"/> </imageobject>
+KO: <imageobject> <imagedata fileref="images/schedule-dusk.png"/> </imageobject>
+JA: <imageobject> <imagedata fileref="images/schedule-dusk.png"/> </imageobject>
+ZH: <imageobject> <imagedata fileref="images/schedule-dusk.png"/> </imageobject>
+
+[english-identical] wesnoth-manual-ko.po
+EN: <imageobject> <imagedata fileref="images/schedule-firstwatch.png"/> </imageobject>
+KO: <imageobject> <imagedata fileref="images/schedule-firstwatch.png"/> </imageobject>
+JA: <imageobject> <imagedata fileref="images/schedule-firstwatch.png"/> </imageobject>
+ZH: <imageobject> <imagedata fileref="images/schedule-firstwatch.png"/> </imageobject>
+
+[english-identical] wesnoth-manual-ko.po
+EN: <imageobject> <imagedata fileref="images/schedule-morning.png"/> </imageobject>
+KO: <imageobject> <imagedata fileref="images/schedule-morning.png"/> </imageobject>
+JA: <imageobject> <imagedata fileref="images/schedule-morning.png"/> </imageobject>
+ZH: <imageobject> <imagedata fileref="images/schedule-morning.png"/> </imageobject>
+
+[english-identical] wesnoth-manual-ko.po
+EN: <imageobject> <imagedata fileref="images/schedule-secondwatch.png"/> </imageobject>
+KO: <imageobject> <imagedata fileref="images/schedule-secondwatch.png"/> </imageobject>
+JA: <imageobject> <imagedata fileref="images/schedule-secondwatch.png"/> </imageobject>
+ZH: <imageobject> <imagedata fileref="images/schedule-secondwatch.png"/> </imageobject>
+
+[english-identical] wesnoth-manual-ko.po
+EN: <imageobject> <imagedata fileref="images/schedule-underground.png"/> </imageobject>
+KO: <imageobject> <imagedata fileref="images/schedule-underground.png"/> </imageobject>
+JA: <imageobject> <imagedata fileref="images/schedule-underground.png"/> </imageobject>
+ZH: <imageobject> <imagedata fileref="images/schedule-underground.png"/> </imageobject>
+
+[english-identical] wesnoth-manual-ko.po
+EN: <imageobject> <imagedata fileref="images/top_pane-1.13.11+dev.png"/> </imageobject>
+KO: <imageobject> <imagedata fileref="images/top_pane-1.13.11+dev.png"/> </imageobject>
+JA: <imageobject> <imagedata fileref="images/top_pane-1.13.11+dev.png"/> </imageobject>
+ZH: <imageobject> <imagedata fileref="images/top_pane-1.13.11+dev.png"/> </imageobject>
+
+[english-identical] wesnoth-manual-ko.po
+EN: <placeholder type="inlinemediaobject" id="0"/>
+KO: <placeholder type="inlinemediaobject" id="0"/>
+JA: <placeholder type="inlinemediaobject" id="0"/>
+ZH: <placeholder type="inlinemediaobject" id="0"/>
+
+[english-identical] wesnoth-manual-ko.po
+EN: i
+KO: i
+JA: i
+ZH: i
+
+[english-identical] wesnoth-manual-ko.po
+EN: images/schedule-afternoon.png
+KO: images/schedule-afternoon.png
+JA: images/schedule-afternoon.png
+ZH: images/schedule-afternoon.png
+
+[english-identical] wesnoth-manual-ko.po
+EN: images/schedule-dawn.png
+KO: images/schedule-dawn.png
+JA: images/schedule-dawn.png
+ZH: images/schedule-dawn.png
+
+[english-identical] wesnoth-manual-ko.po
+EN: images/schedule-dusk.png
+KO: images/schedule-dusk.png
+JA: images/schedule-dusk.png
+ZH: images/schedule-dusk.png
+
+[english-identical] wesnoth-manual-ko.po
+EN: images/schedule-firstwatch.png
+KO: images/schedule-firstwatch.png
+JA: images/schedule-firstwatch.pn
+ZH: images/schedule-firstwatch.png
+
+[english-identical] wesnoth-manual-ko.po
+EN: images/schedule-morning.png
+KO: images/schedule-morning.png
+JA: images/schedule-morning.png
+ZH: images/schedule-morning.png
+
+[english-identical] wesnoth-manual-ko.po
+EN: images/schedule-secondwatch.png
+KO: images/schedule-secondwatch.png
+JA: images/schedule-secondwatch.png
+ZH: images/schedule-secondwatch.png
+
+[english-identical] wesnoth-manual-ko.po
+EN: images/schedule-underground.png
+KO: images/schedule-underground.png
+JA: images/schedule-underground.png
+ZH: images/schedule-underground.png
+
+[english-identical] wesnoth-manual-ko.po
+EN: −25%
+KO: −25%
+JA: −25%
+ZH: −25%
+
+[english-identical] wesnoth-nr-ko.po
+EN: ...!
+KO: ...!
+JA: ……！
+ZH: ……！
+
+[english-identical] wesnoth-sof-ko.po
+EN: $cost|g
+KO: $cost|g
+JA: $cost|g
+ZH: $cost|金币
+
+[english-identical] wesnoth-sof-ko.po
+EN: ... ?
+KO: ... ?
+JA: ……？
+ZH: ……？
+
+[english-identical] wesnoth-sof-ko.po
+EN: SoF
+KO: SoF
+JA: SoF
+ZH: SoF
+
+[english-identical] wesnoth-sotbe-ko.po
+EN: $stored_helper.name|!
+KO: $stored_helper.name|!
+JA: $stored_helper.name|!
+ZH: $stored_helper.name|！
+
+[english-identical] wesnoth-tools-ko.po
+EN: wmlindent
+KO: wmlindent
+JA: wmlindent
+ZH: wmlindent
+REF: WML 들여쓰기
+
+[english-identical] wesnoth-tools-ko.po
+EN: wmllint
+KO: wmllint
+JA: wmllint
+ZH: wmllint
+REF: WML 보푸라기
+
+[english-identical] wesnoth-tools-ko.po
+EN: wmlscope
+KO: wmlscope
+JA: wmlscope
+ZH: wmlscope
+REF: WML 범위
+
+[english-identical] wesnoth-tools-ko.po
+EN: wmlxgettext
+KO: wmlxgettext
+JA: wmlxgettext
+ZH: wmlxgettext
+
+[english-identical] wesnoth-tsg-ko.po
+EN: ?
+KO: ?
+JA: ？
+ZH: ？
+
+[english-identical] wesnoth-tsg-ko.po
+EN: Deora—
+KO: Deora—
+JA: Deora—
+ZH: 德欧——
+
+[english-identical] wesnoth-tsg-ko.po
+EN: De—
+KO: De—
+JA: De—
+ZH: 德——
+
+[english-identical] wesnoth-wc-ko.po
+EN: $range|: $special|
+KO: $range|: $special|
+JA: $range|: $special|
+ZH: $range|：$special|
+
+[english-identical] wesnoth-wc-ko.po
+EN: WC
+KO: WC
+JA: WC
+ZH: WC
+
+[english-identical] wesnoth-wof-ko.po
+EN: ! ! !
+KO: ! ! !
+JA: ！！！
+ZH: ！！！
+
+[english-identical] wesnoth-wof-ko.po
+EN: ...
+KO: ...
+JA: ・・・
+ZH: …
+
+[english-identical] wesnoth-wof-ko.po
+EN: ......
+KO: ......
+JA: ・・・・・・
+ZH: ……
+
+[english-identical] wesnoth-wof-ko.po
+EN: .........
+KO: .........
+JA: ・・・・・・
+ZH: ………
+
+[english-identical] wesnoth-wof-ko.po
+EN: ............
+KO: ............
+JA: ・・・・・・
+ZH: …………
+
+[english-identical] wesnoth-wof-ko.po
+EN: ..................
+KO: ..................
+JA: ・・・・・・
+ZH: ………………
+placeholder_candidates=7

@@ -20,7 +20,7 @@ msgstr "죽음의 바다"
 #. [campaign]: id=Dead_Water
 #: data/campaigns/Dead_Water/_main.cfg:14
 msgid "DW"
-msgstr "바다(DW)"
+msgstr "바다"
 
 #. [campaign]: id=Dead_Water
 #: data/campaigns/Dead_Water/_main.cfg:18

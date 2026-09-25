@@ -20,7 +20,7 @@ msgstr "북부의 부활"
 #. [campaign]: id=Northern_Rebirth
 #: data/campaigns/Northern_Rebirth/_main.cfg:10
 msgid "NR"
-msgstr "부활(NR)"
+msgstr "부활"
 
 #. [campaign]: id=Northern_Rebirth
 #: data/campaigns/Northern_Rebirth/_main.cfg:17

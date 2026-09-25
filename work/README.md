@@ -195,6 +195,7 @@ gettext 문맥 항목을 재검토하거나 용어집을 갱신한 뒤에는 다
 ```sh
 python3 tools/sync_contextual_glossary.py
 python3 tools/audit_and_pair_embedded_names.py
+python3 tools/normalize_glossary_labels.py
 python3 tools/sync_glossary_korean.py
 python3 tools/audit_po_structure.py
 ```
@@ -317,6 +318,9 @@ done
    - `Garard’s Hold` → `가라르드(Garard)의 요새`
    - `Fire Dragon` → `불의 드래곤(Dragon)`
    - `Masked Dwarf` → `가면 쓴 난쟁이`
+   약어·일반 명칭·편집기 좌표 레이블은 음차가 아니므로 원문을
+   괄호로 반복하지 않습니다. `AToTB` → `형제`, `Northerners` →
+   `북부인`, `Base.x` → `기준점 X`처럼 기록합니다.
 7. `forbidden_terms`는 폐기 표현·오역·검토에서 제외한 대안이 있을 때만
    기록하고, 없으면 빈 칸으로 둡니다. `notes`도 병기·예외·번역 선택처럼
    재검수에 필요한 결정만 기록합니다.
@@ -341,11 +345,11 @@ python3 tools/audit_locale_comparison.py --limit 200
 변경하지 않는다.
 
 고유명사 후보 감사 결과는 `work/<버전>/audit/`에 날짜별로 저장한다.
-예를 들어 2026년 9월 25일 결과는
-`work/1.18.x/audit/embedded-name-candidates-20260925.txt`이다.
-이 목록은 후보를 자동 번역했다는 뜻이 아니며, 각 항목을 영어·일본어·
-중국어·기존 참고 번역과 대조한 뒤 용어집에 등록하거나 정당한 영어 잔존
-예외로 판정한다.
+각 후보를 영어·일본어·중국어·기존 참고 번역과 대조한 뒤 용어집에
+등록하거나 정당한 영어 잔존 예외로 판정한다.
+
+문장형 용어집 후보도 `work/<버전>/audit/`에 별도로 기록하고,
+PO 문맥을 확인한 뒤 용어집에서 제거하거나 짧은 UI 고정 문구로 남긴다.
 
 2026-09-25 전수 대조에서 활성 키 20,564개를 영어·일본어·중국어와
 맞췄고, 구조·placeholder 감사는 통과했다. 남은 후보는 기술 문자열,

@@ -1,0 +1,79 @@
+source_term	standard_korean	reference_japanese	reference_chinese	category	forbidden_terms	notes
+Clear Selected Item Set	선택한 아이템 집합 지우기	選択したアイテムセットの消去	清除选定的物品集合	term		
+Clear stale and unused cache files	오래되었거나 사용하지 않는 캐시 파일 삭제	不要な、使われていないキャッシュをクリアします	将陈旧及未使用的缓存文件清除	term		
+Clear the log area	로그 영역 지우기	ログを消去します	清除日志区域	term		
+Copy edge terrain	가장자리 지형 복사	端の地形をコピー	复制边界地形	term		
+Copy the full report to clipboard	전체 보고서를 클립보드에 복사	リポートを全てクリップボードにコピーします	将完整的报告复制到剪贴板	term		
+Copy this log to clipboard	이 로그를 클립보드에 복사	ログをクリップボードにコピーします	将此日志复制到剪贴板	term		
+Copy this path to clipboard	이 경로를 클립보드에 복사	パスをクリップボードにコピーします	将路径复制到剪贴板	term		
+Copy this report to clipboard	이 보고서를 클립보드에 복사	このリポートをクリップボードにコピーします	将此报告复制到剪贴板	term		
+Defeat Glonoin, the Shorbear clan leader	쇼어베어(Shorbear) 부족장 글로노인(Glonoin)을 물리치세요	Shorbear クランの指導者 Glonoin を倒す	击败格罗诺因，矮熊氏族首领	term		
+Defeat Urza Nalmath, the bandit leader	도적 우두머리 우르자(Urza) 날마스를 물리치세요	無法者のリーダー、Urza Nalmath を倒す	击败土匪首领，乌扎·纳尔马什	term		
+Defeat all Death Knights first	먼저 모든 죽음의 기사를 물리치십시오	最初に全ての死の騎士を倒す	首先击败所有死亡骑士	term		
+Defeat all drake leaders	모든 드레이크 지도자를 물리치십시오	全てのドレークのリーダーを倒す	击败所有龙人首领	term		
+Defeat either of the enemy leaders	적 지도자 중 하나를 물리치십시오	どちらかの敵のリーダーを倒す	击败任意一名敌方首领	term		
+Defeat one more enemy unit	적 유닛을 하나 더 물리치세요	$units_to_slay 体以上のユニットを倒す	再击败一个敌方单位	term		
+Defeat the Lich-Lord Aimucasur	리치 군주 아이무카수르(Aimucasur)를 물리치십시오	リッチの王 Aimucasur を倒す	击败巫妖王艾姆卡苏尔	term		
+Defeat the sanctum guard	성소 경비병을 물리치십시오	聖域の守護者を倒す	击败密室守卫	term		
+Defeat the southern necromancer	남쪽의 강령술사를 물리치십시오	南のネクロマンサーを倒す	击败南面的死灵法师	term		
+Defeat the spirits	영혼들을 물리치십시오	魂達を倒す	击败鬼魂	term		
+Destroy all the undead units	모든 언데드 유닛을 처치하십시오	全てのアンデッドユニットを倒す	摧毁所有的亡灵单位	term		
+Find Gweddry, Dacyn and Owaec	그웨드리, 다친, 오와에크(Owaec)를 찾으세요	GweddryとDacyn、Owaecを見つける	找到格威德利、达辛和欧瓦埃克	term		
+Find Label or Unit	레이블 또는 유닛 찾기	ラベルまたはユニットの検索	查找标签或单位	term		
+Find Server Application	서버 애플리케이션 찾기	サーバープログラムの探索	查找服务器应用	term		
+Find both gate keys	성문 열쇠 두 개를 찾으세요	ゲートの鍵を両方とも見つける	找到两个大门的钥匙	term		
+Force Li’sar’s surrender	리사르(Li’sar)를 항복시키십시오	Li'sar を降伏させる	逼迫莉莎投降	term		
+Increases melee weapon damage by 2	근접 무기의 피해를 2 증가	近接攻撃ダメージを 2 増やす	使近战武器的伤害增加2	term		
+Increases melee weapon damage by 4	근접 무기의 피해를 4 증가	近接攻撃ダメージを 4 増やす	使近战武器的伤害增加4	term		
+It is winter, daytime is shorter	겨울이라 낮이 짧습니다	冬のため、日中の時間が短くなります	这是冬天，白天会变短	term		
+Kill Addogin (bonus reward)	아도긴(Addogin) 처치(보너스 보상)	Addogin を殺す(ボーナス報酬)	杀了阿道金（附加奖励）	term		
+Kill all elves in the caves	동굴의 모든 엘프를 처치하세요	洞窟内にいる全てのエルフを倒す	击杀洞穴里的所有精灵	term		
+Kill every enemy unit	모든 적 유닛을 처치하십시오	全ての敵ユニットを倒す	击杀每一个敌方单位	term		
+Make Into a Lich	리치(Lich)로 만들기	リッチにする	转变为巫妖	term		
+Move Ardonna to the signpost	아르도나(Ardonna)를 표지판으로 이동	Ardonna を道標まで移動させる	移动阿冬娜至路标处	term		
+Move Ardonna to the tunnel	아르도나(Ardonna)를 터널로 이동시키십시오	Ardonna をトンネルへ移動させる	移动阿冬娜至隧道处	term		
+Move Konrad to the cave	콘라드(Konrad)를 동굴로 이동시키십시오	Konrad を洞窟まで移動させる	移动科纳德至洞穴	term		
+Move Thursagan to the forge	투르사간(Thursagan)을 대장간으로 이동시키세요	Thursagan を鍛冶場に移動させる	移动瑟萨冈至熔炉处	term		
+Move Thursagan to the signpost	투르사간(Thursagan)을 이정표로 이동시키세요	Thursagan を道標の所へ移動させる	移动瑟萨冈至路标处	term		
+Protect generals Halrad, Halric, and Halrod	할라드(Halrad), 할릭(Halric), 할로드(Halrod) 장군을 보호하세요	将軍達（Halrad、Halric、Halrod）を守る	保护将军哈拉德、哈尔里克和哈尔罗德	term		
+Raise Skeleton (15 Gold)	해골 소환 (금화 15)	スケルトンを呼び出す（15ゴールド）	征募骷髅战士（15枚金币）	term		
+Raise Skeleton Archer (14 Gold)	해골 궁수 소환 (금화 14)	スケルトンアーチャーを呼び出す（14ゴールド）	征募骷髅弓箭手（14枚金币）	term		
+Raise Walking Corpse (8 Gold)	걸어 다니는 시체 소환 (금화 8)	歩く死体を呼び出す（8ゴールド）	征募陆行僵尸（8枚金币）	term		
+Randomize Tiles in Selection	선택 영역의 타일 무작위화	選択部分のタイルをランダム化	将选定区域内的区块随机化	term		
+Randomize the starting time of day	시작 시간대를 무작위로 설정	開始時刻をランダムに設定します	游戏开始时的时段随机	term		
+Reinitialize fonts for the current language	현재 언어의 글꼴 재초기화	現在の言語向けにフォントを再初期化	正在为当前语言重新初始化字体	term		
+Release the other prisoners	나머지 포로들을 석방하십시오	他の囚人たちを解放する	释放其他囚犯	term		
+Reloading alters future combat outcomes	다시 불러오면 이후 전투 결과가 달라집니다	再開すると未来の戦闘結果が変化します	重新载入存档将改变未来的战斗结果	term		
+Remove Selected Area	선택한 구역 제거	選択領域の削除	移除所选区域	term		
+Remove this username from your list	목록에서 이 사용자 이름 삭제	ユーザ名をリストから削除します	将此用户名从列表中移除	term		
+Rescue Dolburras before he drowns	돌부라스(Dolburras)가 익사하기 전에 구출하세요	Dolburras が溺死する前に救助する	在多尔布拉斯淹死前营救他	term		
+Rescue the imprisoned knights	갇힌 기사들을 구출하십시오	囚われた騎士達を救出する	救出被囚禁的骑士	term		
+Save Selection to Area	선택 영역을 구역으로 저장	選択部分を領域として保存	将选区保存到区域	term		
+Save password locally (encrypted)	암호를 로컬에 저장(암호화됨)	パスワードを暗号化して保存する	在本地保存密码（明文）	term		
+Show Lua Console	Lua 콘솔 표시	Luaコンソールの表示	显示Lua控制台	term		
+Show Sails and Rigging	돛과 삭구 표시	帆と索具の表示	显示船帆和船索	term		
+Show Tool Information	도구 정보 표시	ツール情報を表示	显示工具信息	term		
+Show ally orb	아군 구슬 표시	同盟軍のユニットに宝珠を表示	显示友军状态球	term		
+Show enemy orb	적군 구슬 표시	敵ユニットに宝珠を表示	显示敌军状态球	term		
+Show in-progress or abandoned translations	진행 중이거나 중단된 번역 표시	進行中または放置されている翻訳を表示する	显示正在进行或弃用的翻译	term		
+Show moved orb	이동한 유닛 구슬 표시	移動済みユニットに宝珠を表示	显示“已移动”状态球	term		
+Show or Hide Labels	라벨 표시 또는 숨기기	ラベルの表示・非表示	显示或隐藏标签	term		
+Show partially moved orb	일부 이동한 유닛 구슬 표시	移動途中のユニットに宝珠を表示	显示“已部分移动”状态球	term		
+Show unmoved orb	이동하지 않은 유닛 구슬 표시	移動前のユニットに宝珠を表示	显示“尚未移动”状态球	term		
+Show/Hide Labels	라벨 표시/숨기기	ラベルの表示・非表示	显示/隐藏标签	term		
+Summon the Bat (20 gold)	박쥐 소환 (금화 20)	コウモリを呼び出す（20 ゴールド）	召唤蝙蝠（20金币）	term		
+This side’s color	이 진영의 색상	陣営の色です	此阵营的颜色	term		
+This user's password	이 사용자의 비밀번호	ユーザーのパスワード	这个用户的密码	term		
+Toggle Accelerated Speed	가속 속도 전환	高速化の切り替え	开/关加速模式	term		
+Toggle Minimap Terrain Coding	미니맵 지형 표시 전환	ミニマップ上の地形表示形式の切り替え	开启/关闭小地图地形编码	term		
+Toggle Minimap Terrain Drawing	미니맵 지형 그리기 전환	ミニマップ上での地形の表示/非表示	开启/关闭小地图地形绘制	term		
+Toggle Minimap Unit Coding	미니맵 유닛 표시 전환	ミニマップ上のユニット表示色の切り替え	开启/关闭小地图单位编码	term		
+Toggle Minimap Unit Drawing	미니맵 유닛 그리기 전환	ミニマップ上でのユニットの表示/非表示	开启/关闭小地图单位绘制	term		
+Toggle Minimap Village Drawing	미니맵 마을 그리기 전환	ミニマップ上での村の表示/非表示	开启/关闭小地图村庄绘制	term		
+Toggle Terrain Transition Update	지형 전환 갱신 전환	地形の繋ぎ目の自動更新の切り替え	开启/关闭地形过渡更新	term		
+Toggle between fullscreen and window mode	전체 화면 모드와 창 모드 전환	フルスクリーンモード/ウィンドウモードを切り替えます	在全屏和窗口模式之间切换	term		
+When a new turn has begun	새 턴이 시작되었을 때	新しいターンが始まった時	当新的回合开始时	term		
+When a public message is received	공개 메시지를 받을 때	公開メッセージを受け取った時	当收到公开消息时	term		
+When a server message is received	서버 메시지를 받을 때	サーバーからメッセージが届いた時	当收到服务器消息时	term		
+When a whisper is received	귓속말을 받을 때	ささやきを受け取った時	当收到悄悄话时	term		
+Which team this side belongs to	이 진영이 속한 팀	陣営が属するチームを変更します	此阵营所属的队伍	term		

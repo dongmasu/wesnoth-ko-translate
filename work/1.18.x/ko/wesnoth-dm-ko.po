@@ -20,7 +20,7 @@ msgstr "델파도르(Delfador)의 회고록"
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:23
 msgid "DM"
-msgstr "회고(DM)"
+msgstr "회고"
 
 #. [campaign]: id=Delfadors_Memoirs
 #: data/campaigns/Delfadors_Memoirs/_main.cfg:31

@@ -193,7 +193,7 @@ msgstr "리사르(Li’sar)를 클릭"
 #. [then]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:319
 msgid "To undo your last move, press <b>u</b> or use the right-click menu."
-msgstr "마지막 이동을 취소하려면 <b>u</b> 를 누르거나 마우스 오른쪽 단추 차림표를 사용합니다."
+msgstr "마지막 이동을 취소하려면 <b>u</b>를 누르거나 마우스 오른쪽 버튼 메뉴를 사용합니다."
 
 #. [hint_message]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:359
@@ -1835,7 +1835,7 @@ msgid ""
 "Fog and shroud will affect what you can see in this table, and occasionally "
 "a side may be hidden; however, it is still useful to check this table when a "
 "scenario begins. You can access it in the <b>Menu</b> menu."
-msgstr "상태표에는 각 진영의 현재 상태와 시작 조건이 자세히 나와 있습니다. 안개와 장막은 이 표에서 볼 수 있는 내용에 영향을 미치며 때로는 진영이 숨겨질 수도 있습니다. 그러나 시나리오가 시작될 때 이 표를 확인하는 것은 유용할 수 있습니다. <b>차림표</b> 차림표에서 접근할 수 있습니다."
+msgstr "상태표에는 각 진영의 현재 상태와 시작 조건이 자세히 나와 있습니다. 안개와 장막은 이 표에서 볼 수 있는 내용에 영향을 미치며 때로는 진영이 숨겨질 수도 있습니다. 그러나 시나리오가 시작될 때 이 표를 확인하는 것은 유용할 수 있습니다. <b>메뉴</b>에서 접근할 수 있습니다."
 
 #. [hint_message]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1025
@@ -1848,7 +1848,7 @@ msgid ""
 "Holding down <b>shift</b> will make the animations for moving and fighting "
 "quicker. The <b>acceleration factor</b> can be set, and turned on by "
 "default, in the <b>Preferences</b> menu’s <b>General</b> tab."
-msgstr "<b>쉬프트</b>키를 누르고 있으면 이동 및 전투를 위한 애니메이션이 더 빨라집니다. <b>가속 계수</b>는 <b>환경 설정</b> 차림표의 <b>일반</b> 탭에서 설정하고 켤 수 있습니다."
+msgstr "<b>쉬프트</b> 키를 누르고 있으면 이동 및 전투를 위한 애니메이션이 더 빨라집니다. <b>가속 계수</b>는 <b>환경 설정</b> 메뉴의 <b>일반</b> 탭에서 설정하고 켤 수 있습니다."
 
 #. [hint_message]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1034
@@ -1865,7 +1865,7 @@ msgid ""
 "In this scenario, you only need to defeat the orc leader to win. Victory "
 "conditions for a scenario are given under <b>Objectives</b> in the <b>Menu</"
 "b> menu."
-msgstr "이번 시나리오에서는 오크 대장을 물리쳐야만 승리할 수 있습니다. 시나리오마다 승리조건은 <b>차림표</b> 차림표에 있는 <b>목표</b>에서 주어집니다."
+msgstr "이번 시나리오에서는 오크 대장을 물리쳐야만 승리할 수 있습니다. 시나리오마다 승리 조건은 <b>메뉴</b>에 있는 <b>목표</b>에서 확인할 수 있습니다."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1044

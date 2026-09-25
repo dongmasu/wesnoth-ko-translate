@@ -15,7 +15,7 @@ msgstr ""
 #. [campaign]: id=LOW, type=hybrid
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:44
 msgid "LoW"
-msgstr "전설(LoW)"
+msgstr "전설"
 
 #. [campaign]: id=LOW, type=hybrid
 #: data/campaigns/Legend_of_Wesmere/_main.cfg:45

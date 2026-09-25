@@ -22,7 +22,7 @@ msgstr "운명의 바람"
 #. [campaign]: id=Winds_of_Fate
 #: data/campaigns/Winds_of_Fate/_main.cfg:11
 msgid "WoF"
-msgstr "바람(WoF)"
+msgstr "바람"
 
 #. [campaign]: id=Winds_of_Fate
 #: data/campaigns/Winds_of_Fate/_main.cfg:20

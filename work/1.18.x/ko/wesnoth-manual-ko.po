@@ -207,7 +207,7 @@ msgstr "<imageobject> <imagedata fileref=\"images/main-menu-1.13.11+dev.jpg\"/> 
 #. type: Content of: <book><chapter><section><simpara><inlinemediaobject><textobject><phrase>
 #: doc/manual/manual.en.xml:93
 msgid "Main Menu"
-msgstr "기본 차림표"
+msgstr "메인 메뉴"
 
 #. type: Content of: <book><chapter><section><section><table><tgroup><tbody><row><entry>
 #: doc/manual/manual.en.xml:89 doc/manual/manual.en.xml:325
@@ -299,7 +299,7 @@ msgid ""
 "continue, or Cancel to return to the Main Menu. If you select a replay game, "
 "you can check the \"Show replay\" check box. The loaded game will make all "
 "the moves from the beginning while you watch."
-msgstr "이 단추를 눌러서 이전에 저장된 게임을 불러올 수 있습니다. 이것을 선택하면 저장된 게임 목록 대화 상자가 나타납니다. 원하는 게임을 선택해서 확인을 누르고 불러온 게임을 계속하거나, 취소를 눌러서 기본 차림표로 돌아갈 수 있습니다. 게임의 리플레이를 보고 싶다면, \"리플레이를 보기\" 확인란을 선택하세요. 불러낸 게임의 모든 움직임이 처음부터 재생됩니다."
+msgstr "이 단추를 눌러서 이전에 저장된 게임을 불러올 수 있습니다. 이것을 선택하면 저장된 게임 목록 대화 상자가 나타납니다. 원하는 게임을 선택해서 확인을 누르고 불러온 게임을 계속하거나, 취소를 눌러서 메인 메뉴로 돌아갈 수 있습니다. 게임의 리플레이를 보고 싶다면, \"리플레이를 보기\" 확인란을 선택하세요. 불러낸 게임의 모든 움직임이 처음부터 재생됩니다."
 
 # type: Content of: <book><chapter><section><variablelist><varlistentry><term>
 #. type: Content of: <book><chapter><section><variablelist><varlistentry><term>

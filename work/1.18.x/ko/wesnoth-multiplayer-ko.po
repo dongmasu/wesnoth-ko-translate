@@ -304,7 +304,7 @@ msgstr "<bold>text='Loyalists'</bold>는 Wesnoth의 왕좌에 충성하는 <ref>
 #: data/multiplayer/factions/northerners-aoh.cfg:4
 #: data/multiplayer/factions/northerners-default.cfg:4
 msgid "Northerners"
-msgstr "북부인(Northerners)"
+msgstr "북부인"
 
 #. [multiplayer_side]: id=Northerners, type=random, description=<img>src='portraits/orcs/warlord.webp~BG()' align='middle'</img>
 #: data/multiplayer/factions/northerners-aoh.cfg:16

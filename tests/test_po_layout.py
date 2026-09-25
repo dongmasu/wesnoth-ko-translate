@@ -240,6 +240,9 @@ class TranslationLayoutTests(unittest.TestCase):
                 self.assertTrue((ROOT / "tools" / name).is_file())
 
         self.assertTrue((ROOT / "tools" / "audit_glossary.py").is_file())
+        self.assertTrue(
+            (ROOT / "tools" / "normalize_glossary_labels.py").is_file()
+        )
         install_doc = (ROOT / "INSTALL.md").read_text(encoding="utf-8")
         for marker in (
             "tools/build_mo.sh",

@@ -71,7 +71,7 @@ A Subterranean Struggle	지하 투쟁	地中の闘争	地下挣扎	campaign_name
 A Summer of Storms	폭풍의 여름	騒乱の夏	风暴之夏	campaign_name		
 A component	구성요소	コンポーネント	一个组件	term		
 A swift victory	신속한 승리	迅速な勝利	迅速胜利	term		
-AToTB	형제(AToTB)	AToTB	AToTB	campaign_name		
+AToTB	형제	AToTB	AToTB	campaign_name		캠페인 약어는 음차 병기 대상이 아니므로 한국어 제목만 사용
 Abandoned Mine	버려진 광산	荒れた鉱山	废弃矿坑	item_name		
 Abandoned Outpost	버려진 전초기지	荒れ果てた前哨基地	废弃哨所	campaign_name		
 Abhai	아브하이(Abhai)	Abhai	安彼海	unit_name		
@@ -313,8 +313,8 @@ Barrel	통	樽	桶	item_name
 Barrow Wight	무덤 망령	亡霊騎士	古墓尸妖	unit_name		
 Barth-Malal	바르쓰-말랄(Barth-Malal)	Barth-Malal	巴思-玛拉	person_name		
 Base damage	기본 피해	基本ダメージ	基础伤害	term		
-Base.x	기준점(Base.x).x	Base.x	基础X	term		
-Base.y	기준점(Base.y).y	Base.y	基础Y	term		
+Base.x	기준점 X	Base.x	基础X	term		편집기 좌표 레이블
+Base.y	기준점 Y	Base.y	基础Y	term		편집기 좌표 레이블
 Bashnark	바쉬나르크(Bashnark)	Bashnark	巴什纳克	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
 Basic Stone Bridge	기본 돌다리	普通の石橋	基本石桥	terrain		
 Basic Stone Floor	기본 돌 바닥	普通の石の床	基本石地板	terrain		
@@ -565,7 +565,7 @@ Civil Disobedience	시민 불복종	民の反抗	温和反抗	campaign_name
 Civil War	내전	内戦	内战	campaign_name		
 Civilian	시민	一般市民	平民	campaign_name		
 Claiomh Dubh	클라이오흐 두브	Claiomh Dubh	克莱欧·达博	unit_name		
-Clan	일족(Clan)	not found	not found	faction	씨족	
+Clan	일족	not found	not found	faction	씨족	일반 명칭은 음차 병기하지 않음
 Clan Captain	부족 대장	クランの隊長	氏族队长	unit_name		
 Clan Whitefang	하얀(Whitefang) 송곳니 일족(Clan)	Whitefang 氏族	白牙氏族	faction		
 Clartakis	클라르타키스(Clartakis)	Clartakis	克拉塔基斯	person_name		
@@ -581,11 +581,8 @@ Clear Chat	채팅 지우기	チャットの消去	清除对话	term
 Clear Console	콘솔 지우기	コンソールのクリア	清除控制台	term		
 Clear Hotkey	단축키 제거	ホットキーの消去	清除快捷键	term		
 Clear Labels	딱지를 지움	ラベルの消去	清除标签	term		
-Clear Selected Item Set	선택한 아이템 집합 지우기	選択したアイテムセットの消去	清除选定的物品集合	term		
 Clear Weather	맑은 날	晴天	晴天	term		
 Clear output	출력물을 지움	出力内容をクリアします	清除输出	term		
-Clear stale and unused cache files	오래되었거나 사용하지 않는 캐시 파일 삭제	不要な、使われていないキャッシュをクリアします	将陈旧及未使用的缓存文件清除	term		
-Clear the log area	로그 영역 지우기	ログを消去します	清除日志区域	term		
 Clearing the Mines	광산 정리	鉱山の掃除	清理矿脉	campaign_name		
 Clearwater Lake	맑은물(Clearwater) 호수	透水湖	清水湖	place_name		
 Clearwater Port	맑은물(Clearwater) 항구	透水港	清水港	campaign_name		
@@ -651,11 +648,6 @@ Controls	조작	操作	控制	term
 Convert to Grassland	풀밭으로 전환	草原に作り変える	化为草原	term		
 Cooperative	협동	協力	协作	proper_noun		
 Copy	복사	コピー	复制	term		
-Copy edge terrain	가장자리 지형 복사	端の地形をコピー	复制边界地形	term		
-Copy the full report to clipboard	전체 보고서를 클립보드에 복사	リポートを全てクリップボードにコピーします	将完整的报告复制到剪贴板	term		
-Copy this log to clipboard	이 로그를 클립보드에 복사	ログをクリップボードにコピーします	将此日志复制到剪贴板	term		
-Copy this path to clipboard	이 경로를 클립보드에 복사	パスをクリップボードにコピーします	将路径复制到剪贴板	term		
-Copy this report to clipboard	이 보고서를 클립보드에 복사	このリポートをクリップボードにコピーします	将此报告复制到剪贴板	term		
 Core	핵심	コア	核心	term		
 Corrupt	타락한	腐敗	腐败不堪	campaign_name		
 Corrupted Elf	타락한 엘프	堕落したエルフ	堕落精灵	unit_name		
@@ -712,8 +704,8 @@ Cuttle Fish	갑오징어	イカ	乌贼怪	proper_noun
 Cylanna	실라나(Cylanna)	Cylanna	赛兰娜	unit_name		
 Czech Translation	체코어 번역 담당	チェコ語翻訳	捷克文翻译	term		
 DESCRIPTION	설명	説明	描述	proper_noun		
-DM	회고(DM)	DM	DM	campaign_name		
-DW	바다(DW)	DW	DW	campaign_name		
+DM	회고	DM	DM	campaign_name		캠페인 약어는 음차 병기 대상이 아니므로 한국어 제목만 사용
+DW	바다	DW	DW	campaign_name		캠페인 약어는 음차 병기 대상이 아니므로 한국어 제목만 사용
 Dacayan	다카얀(Dacayan)	Dacayan	达卡扬	proper_noun		
 Dacyn	다신(Dacyn)	Dacyn	达辛	proper_noun		
 Daellyn the Red	적색의 댈린(Daellyn)	赤き Daellyn	红袍法师戴林	faction		
@@ -792,21 +784,11 @@ Defaults	기본값	デフォルト	默认	term
 Defeat	패배	敗北	失败	term		
 Defeat Asheviere	아셰비에레(Asheviere)를 물리치십시오	Asheviere を倒す	击败艾什薇尔	term		
 Defeat Crelanu	크렐라누(Crelanu)를 물리치십시오	Crelanu を倒す	击败克雷拉努	term		
-Defeat Glonoin, the Shorbear clan leader	쇼어베어(Shorbear) 부족장 글로노인(Glonoin)을 물리치세요	Shorbear クランの指導者 Glonoin を倒す	击败格罗诺因，矮熊氏族首领	term		
 Defeat Izziasch	이자이아슈(Izziasch)를 물리치세요	Izziasch を倒す	击败伊兹亚赫	term		
 Defeat Mal-Ravanal	말-라바날을 물리치십시오	Mal-Ravanal を倒す	击败玛尔-拉瓦纳尔	term		
 Defeat Mal-Skraat	말-스크라트를 물리치십시오	Mal-Skraat を倒す	击败玛尔-斯克拉特	term		
 Defeat Mal-un-Karad	말-운-카라드를 물리치십시오	Mal-un-Karad を倒す	击败玛尔-昂-卡拉德	term		
 Defeat Rilaka	릴라카(Rilaka)를 물리치십시오	Rilaka を倒す	击败里拉卡	term		
-Defeat Urza Nalmath, the bandit leader	도적 우두머리 우르자(Urza) 날마스를 물리치세요	無法者のリーダー、Urza Nalmath を倒す	击败土匪首领，乌扎·纳尔马什	term		
-Defeat all Death Knights first	먼저 모든 죽음의 기사를 물리치십시오	最初に全ての死の騎士を倒す	首先击败所有死亡骑士	term		
-Defeat all drake leaders	모든 드레이크 지도자를 물리치십시오	全てのドレークのリーダーを倒す	击败所有龙人首领	term		
-Defeat either of the enemy leaders	적 지도자 중 하나를 물리치십시오	どちらかの敵のリーダーを倒す	击败任意一名敌方首领	term		
-Defeat one more enemy unit	적 유닛을 하나 더 물리치세요	$units_to_slay 体以上のユニットを倒す	再击败一个敌方单位	term		
-Defeat the Lich-Lord Aimucasur	리치 군주 아이무카수르(Aimucasur)를 물리치십시오	リッチの王 Aimucasur を倒す	击败巫妖王艾姆卡苏尔	term		
-Defeat the sanctum guard	성소 경비병을 물리치십시오	聖域の守護者を倒す	击败密室守卫	term		
-Defeat the southern necromancer	남쪽의 강령술사를 물리치십시오	南のネクロマンサーを倒す	击败南面的死灵法师	term		
-Defeat the spirits	영혼들을 물리치십시오	魂達を倒す	击败鬼魂	term		
 Defend this location	이 지점을 방어	この地点を防衛する	把守此位置	term		
 Defender	수비자	防御側	防守方	faction		
 Defender resistance vs	방어자의 저항력:	防御側の耐性：	防守方抗性 vs	term		
@@ -857,10 +839,9 @@ Desktop Notification	데스크톱 알림	デスクトップ通知	桌面提醒	t
 Desolation	황폐	荒地	荒芜	term		
 Despair	절망	絶望	绝望	term		
 Destiny	운명	運命	命运	term		
-Destroy all the undead units	모든 언데드 유닛을 처치하십시오	全てのアンデッドユニットを倒す	摧毁所有的亡灵单位	term		
 Destruction	파괴	残骸	毁坏	term		
 Dextrous	손재주 좋음	器用	灵巧	proper_noun		
-DiD	하드코어(DiD)	DiD	DiD	campaign_name		
+DiD	하드코어	DiD	DiD	campaign_name		캠페인 약어는 음차 병기 대상이 아니므로 한국어 제목만 사용
 Diabolic	악마적인	悪魔	群魔乱舞	campaign_name		
 Diff	차이점	差分（Diff）	差异	proper_noun		
 Difficult	어려움	難しい	困难	campaign_name		
@@ -1033,7 +1014,7 @@ Dwarvish Thunderer	난쟁이 천둥사	ドワーフの雷撃兵	矮人雷霆战�
 Dwarvish Thunderguard	난쟁이의 천둥 수호자	ドワーフの雷撃衛兵	矮人雷霆卫士	unit_name		
 Dwarvish Ulfserker	난쟁이 광투사	ドワーフの狂戦士	矮人狂狼战士	unit_name		
 Dwarvish Witness	난쟁이제 목격자	ドワーフの証人	矮人见证者	unit_name		
-EI	침동(EI)	EI	EI	campaign_name		
+EI	침동	EI	EI	campaign_name		캠페인 약어는 음차 병기 대상이 아니므로 한국어 제목만 사용
 ENLIGHTENED	깨달음	覚醒	觉悟	term		
 Eagle eye longbow	독수리 눈의 장궁	鷹の目の長弓	鹰眼长弓	item_name		
 Early Arrival	조기 도착	早過ぎた到着	先至	campaign_name		
@@ -1257,10 +1238,6 @@ Filters on hotkey description	단축키 설명으로 필터링	ホットキー�
 Final Battle	최종 전투	最終戦	决战	term		
 Final Departure	마지막 이륙	最後の離陸	终途启程	campaign_name		
 Find File	파일 찾기	ファイル探索	查找文件	term		
-Find Gweddry, Dacyn and Owaec	그웨드리, 다친, 오와에크(Owaec)를 찾으세요	GweddryとDacyn、Owaecを見つける	找到格威德利、达辛和欧瓦埃克	term		
-Find Label or Unit	레이블 또는 유닛 찾기	ラベルまたはユニットの検索	查找标签或单位	term		
-Find Server Application	서버 애플리케이션 찾기	サーバープログラムの探索	查找服务器应用	term		
-Find both gate keys	성문 열쇠 두 개를 찾으세요	ゲートの鍵を両方とも見つける	找到两个大门的钥匙	term		
 Finde	핀드(Finde)	Finde	芬德	proper_noun		
 Finding Your Way	길 찾기	Wesnoth の開始	新手上路	term		
 Findlas	핀들라스(Findlas)	Findlas	法恩德拉斯	proper_noun		
@@ -1306,7 +1283,6 @@ Footwork	발놀림	フットワーク	步法	proper_noun
 Forbidden Forest	금지된 숲	禁じられた森	禁绝森林	campaign_name		
 Forbidden grimoire	금지된 마법서	禁断の魔導書	禁忌法书	item_name		
 Force	힘	力	力量	term		
-Force Li’sar’s surrender	리사르(Li’sar)를 항복시키십시오	Li'sar を降伏させる	逼迫莉莎投降	term		
 Forcefield	힘의 장벽	フォースフィールド	力场	item_name		
 Ford	냇가	川瀬	浅滩	terrain		
 Ford of Alyas	알리아스(Alyas)의 여울	Alyas の渡り場	阿亚斯浅滩	place_name		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
@@ -1375,7 +1351,7 @@ Garard II	가라르드(Garard) 2세	Garard II世	伽拉德二世	term
 Garard’s Hold	가라르드(Garard)의 요새	Garard の要塞	加拉德要塞	place_name		
 Garcyn	가르신(Garcyn)	Garcyn	伽辛	unit_name		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
 Garrath	가라쓰(Garrath)	Garrath	加勒思	person_name		
-Garrison	수비군(Garrison)	not found	not found	faction	주둔지	
+Garrison	수비군	not found	not found	faction	주둔지	일반 명칭은 음차 병기하지 않음
 Garrugch	가루그치(Garrugch)	Garrugch	嘎拉格奇	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
 Gashnok	가쉬노크(Gashnok)	Gashnok	嘎什诺克	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
 Gate	문	門	大门	unit_name	관문	
@@ -1679,7 +1655,7 @@ Hraul	흐라울(Hraul)	Hraul	赫劳	proper_noun
 Hraurg	흐라우르그(Hraurg)	Hraurg	赫劳格	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
 Hrugt	흐루그트(Hrugt)	Hrugt	户格特	unit_name		
 Hsssss	스르륵	シャーーーッ	嘶嘶嘶嘶嘶	proper_noun		
-HttT	왕자(HttT)	HttT	HttT	campaign_name		
+HttT	왕자	HttT	HttT	campaign_name		캠페인 약어는 음차 병기 대상이 아니므로 한국어 제목만 사용
 Human Alliance	인간 동맹	人間族との同盟	人类联盟	campaign_name		
 Human Allies	인간 동맹	人間の軍勢	人类同盟	faction		
 Human Ally	동맹 인간족	人間の友軍	人类同盟	faction		
@@ -1744,8 +1720,6 @@ Income	수입	収入	收入	term
 Income and Upkeep	수입과 유지비	収入と維持費	收入和维护费用	term		
 Incompatible User-made Content	호환되지 않는 사용자 제작 콘텐츠	互換性の無いユーザーメイドコンテンツ	不兼容的用户制作内容	term		
 Increased hitpoints	생명력 증가	HP を増やします	增加生命值	term		
-Increases melee weapon damage by 2	근접 무기의 피해를 2 증가	近接攻撃ダメージを 2 増やす	使近战武器的伤害增加2	term		
-Increases melee weapon damage by 4	근접 무기의 피해를 4 증가	近接攻撃ダメージを 4 増やす	使近战武器的伤害增加4	term		
 Incursion	침공	侵入	袭击	campaign_name		
 Independent	완전 랜덤	完全ランダム	独立	term		
 Independent: Random factions assigned independently	독립: 무작위 진영을 독립적으로 배정	完全ランダム：陣営の党派をランダムに決定します。ミラーマッチが起こる可能性もあります。	独立：将随机阵营独立地指定给玩家	term		
@@ -1808,7 +1782,6 @@ Isle of the Damned	저주받은 섬	のろわれた島	被诅咒者之岛	campai
 Isorfilad	이소르필라드(Isorfilad)	Isorfilad	埃索弗雷德	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
 Istelimir	이스텔리미르(Istelimir)	Istelimir	伊特丽梅	faction		
 Isthiniel	이스티니엘(Isthiniel)	Isthiniel	伊丝忒馨妮尔	unit_name		
-It is winter, daytime is shorter	겨울이라 낮이 짧습니다	冬のため、日中の時間が短くなります	这是冬天，白天会变短	term		
 Italian Translation	이탈리아어 번역 담당	イタリア語翻訳	意大利文翻译	term		
 Item Tool	아이템 도구	アイテムツール	物品工具	term		
 Items	아이템들	アイテム	物品	term		
@@ -1882,9 +1855,6 @@ Khrubar	크루바르(Khrubar)	Khrubar	库鲁巴	faction		원본 PO의 고유명�
 Khrulg	크룰그(Khrulg)	Khrulg	鲁尔格	unit_name		
 Kick	추방	キック	踢出	term		
 Kick + Ban	추방 + 차단	キック + バン	剔出+封禁	term		
-Kill Addogin (bonus reward)	아도긴(Addogin) 처치(보너스 보상)	Addogin を殺す(ボーナス報酬)	杀了阿道金（附加奖励）	term		
-Kill all elves in the caves	동굴의 모든 엘프를 처치하세요	洞窟内にいる全てのエルフを倒す	击杀洞穴里的所有精灵	term		
-Kill every enemy unit	모든 적 유닛을 처치하십시오	全ての敵ユニットを倒す	击杀每一个敌方单位	term		
 Kills	처치	撃破	击杀	term		
 Kinan	키난(Kinan)	Kinan	奇南	unit_name		
 King	왕	王	国王	unit_name		
@@ -2018,7 +1988,7 @@ Lithuanian Translation	리투아니아어 번역 담당	リトアニア語翻訳
 Lizard Beach	도마뱀 해안	トカゲの海岸	蜥蜴海滩	campaign_name		
 Li’sar	리사르(Li’sar)	Li’sar	莉莎	unit_name		
 Llorvin	로르빈(Llorvin)	Llorvin	洛温	proper_noun		
-LoW	전설(LoW)	LoW	LoW	campaign_name		
+LoW	전설	LoW	LoW	campaign_name		캠페인 약어는 음차 병기 대상이 아니므로 한국어 제목만 사용
 Load	불러오기	再開	载入	term		
 Load Core	핵심 데이터 불러오기	コアの読み込み	读取核心	term		
 Load Game	게임을 불러오기	ゲームの再開	载入游戏	term	게임 로드	
@@ -2096,11 +2066,10 @@ Magic Circle	마법진	魔法陣	魔法环	item_name
 Magic Staff	마법 지팡이	魔法の杖	法杖	item_name		
 Magical	마법	魔法	魔法	proper_noun		
 Magrid	마그리드(Magrid)	Magrid	玛格里德	proper_noun		
-Main Menu	기본 차림표	メインメニュー	主菜单	term		
+Main Menu	메인 메뉴	メインメニュー	主菜单	term		
 Mainline	본편	メインライン（公式キャンペーン）	主线	term		
 Mainline multiplayer scenarios	기본선 멀티플레이어 시나리오	メインライン・マルチプレイヤーシナリオ	主线多人场景	term		
 Mak-Dak’an	막-다칸(Mak-Dak’an)	Mak-Dak’an	玛克-达克安	proper_noun		
-Make Into a Lich	리치(Lich)로 만들기	リッチにする	转变为巫妖	term		
 Makees	메이키스(Makees)	Makees	马基斯	proper_noun		
 Mal Barath	말(Mal) 바라쓰	Mal Barath	玛尔·巴拉斯	faction		
 Mal Keshar	말 케샤르(Mal Keshar)	Mal Keshar	玛尔·凯沙	unit_name		
@@ -2200,7 +2169,7 @@ Melee Combat	근접 전투	近接戦闘	近身战斗	term
 Melinna	멜리나(Melinna)	Melinna	梅林娜	campaign_name		
 Melusand	멜루산드(Melusand)	Melusand	美露珊德	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
 Memory	메모리	記念碑	记忆	term		
-Menu	차림표	メニュー	菜单	term		
+Menu	메뉴	メニュー	菜单	term		
 Menu button	메뉴 버튼	メニューボタン	“菜单”按钮	term		
 Meorraent	메오르라엔트(Meorraent)	Meorraent	梅欧兰特	proper_noun		
 Mercantile	잡화점	商業地	商店	proper_noun		
@@ -2280,11 +2249,6 @@ Mounted Dwarf	기마 드워프	騎乗ドワーフ	矮人骑手	unit_name
 Mounted General	마상의 장군	騎兵将軍	骑兵将军	unit_name		
 Mouse Scrolling	마우스 화면이동	マウススクロール	鼠标滚屏	term		
 Mouse scrolling	마우스로 지도를 움직이기	マウスでスクロールする	鼠标滚屏	term		
-Move Ardonna to the signpost	아르도나(Ardonna)를 표지판으로 이동	Ardonna を道標まで移動させる	移动阿冬娜至路标处	term		
-Move Ardonna to the tunnel	아르도나(Ardonna)를 터널로 이동시키십시오	Ardonna をトンネルへ移動させる	移动阿冬娜至隧道处	term		
-Move Konrad to the cave	콘라드(Konrad)를 동굴로 이동시키십시오	Konrad を洞窟まで移動させる	移动科纳德至洞穴	term		
-Move Thursagan to the forge	투르사간(Thursagan)을 대장간으로 이동시키세요	Thursagan を鍛冶場に移動させる	移动瑟萨冈至熔炉处	term		
-Move Thursagan to the signpost	투르사간(Thursagan)을 이정표로 이동시키세요	Thursagan を道標の所へ移動させる	移动瑟萨冈至路标处	term		
 Move/Attack	이동/공격	移動/攻撃	移动/攻击	term		
 Movement	이동	移動	移动	term		
 Movement Cost	소모 이동력	移動コスト	移动消耗	term		
@@ -2319,7 +2283,7 @@ Mute	음소거	ミュート	静音	term
 Mycelium	균사체	菌糸体	菌丝体	terrain		
 Myssh	미시(Myssh)	Myssh	麦什	unit_name		
 NAME	이름	名前	名称	proper_noun		
-NR	부활(NR)	NR	NR	campaign_name		
+NR	부활	NR	NR	campaign_name		캠페인 약어는 음차 병기 대상이 아니므로 한국어 제목만 사용
 Na-Mana	나-마나(Na-Mana)	Na-Mana	纳-玛拉	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
 Na-alga	나-알가(Na-alga)	Na-alga	纳-阿尔伽	faction		
 Nafga	나프가(Nafga)	Nafga	纳法加	unit_name		
@@ -2450,7 +2414,7 @@ Northern Outpost	북부 전초기지	川岸北部拠点	北疆哨所	campaign_na
 Northern Rebirth	북부의 부활	北部の再興	北国重生	campaign_name		
 Northern Shallows	북쪽 여울	北の浅瀬	北方浅滩	term		
 Northern Winter	북부의 겨울	北部の冬	北国之冬	campaign_name		
-Northerners	북부인(Northerners)	Northerners	北陆之民	music_title	Northerners	
+Northerners	북부인	Northerners	北陆之民	music_title	Northerners	일반 명칭은 음차 병기하지 않음
 Northlands	북부 지방	北の大地（Northlands）	北陆	proper_noun		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
 Northwest	북서쪽	北西軍	西北	faction		
 Norwegian Translation	노르웨이어 번역 담당	ノルウェー語翻訳	挪威文翻译	term		
@@ -2699,7 +2663,6 @@ Properties	속성	プロパティ	特性	term
 Prose and Story Editing	산문 및 이야기 편집	ストーリー構成	散文和故事编辑	term		
 Prose and Story Editing, Code Preparation	산문 및 이야기 편집, 코드 준비	物語や文章の編集とコードの作成	散文与故事编辑、代码准备	term		
 Prose and Story Edits	내용 및 스토리 편집	ストーリー構成	散文与故事编辑	term		
-Protect generals Halrad, Halric, and Halrod	할라드(Halrad), 할릭(Halric), 할로드(Halrod) 장군을 보호하세요	将軍達（Halrad、Halric、Halrod）を守る	保护将军哈拉德、哈尔里克和哈尔罗德	term		
 Proven by the Sword	검으로 입증된 것	剣による証明	以剑为证	campaign_name		
 Provinces	주	田舎	省份	proper_noun		
 Provincial Guard	지방 경비대	辺境防衛隊	行省卫队	person_name		
@@ -2762,9 +2725,6 @@ Rails	철로	レール	轨道	terrain
 Rain of Arrows	화살비	矢の雨	箭雨	term		
 Rain of arrows	화살비	矢の雨	箭雨	attack_type		
 Rainforest	열대우림	雨林	雨林	terrain		
-Raise Skeleton (15 Gold)	해골 소환 (금화 15)	スケルトンを呼び出す（15ゴールド）	征募骷髅战士（15枚金币）	term		
-Raise Skeleton Archer (14 Gold)	해골 궁수 소환 (금화 14)	スケルトンアーチャーを呼び出す（14ゴールド）	征募骷髅弓箭手（14枚金币）	term		
-Raise Walking Corpse (8 Gold)	걸어 다니는 시체 소환 (금화 8)	歩く死体を呼び出す（8ゴールド）	征募陆行僵尸（8枚金币）	term		
 Raised elevation on-map marker	고도 상승 표시기	上昇のエレベーションを示すマップ上のマーカー	地图上的高低差标记	term		
 Rakkha	라카(Rakkha)	Rakkha	拉克哈	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
 Rakshas	라크샤스(Rakshas)	Rakshas	拉克夏斯	proper_noun		
@@ -2777,8 +2737,6 @@ Random Maps	무작위 지도	ランダムマップ	随机地图	term
 Random Start Time	무작위 시작 시간	開始時刻をランダムに	随机起始时段	term		
 Random map	무작위 맵	ランダムマップ	随机地图	campaign_name		
 Random starting time	무작위 시작 시간	開始時刻のランダム化	随机起始时间	term		
-Randomize Tiles in Selection	선택 영역의 타일 무작위화	選択部分のタイルをランダム化	将选定区域内的区块随机化	term		
-Randomize the starting time of day	시작 시간대를 무작위로 설정	開始時刻をランダムに設定します	游戏开始时的时段随机	term		
 Range	공격범위	射程	射程	term		
 Ranger	유격병	レンジャー	游侠	unit_name		
 Ranger Tactics	레인저 전술	レンジャー	游侠战术	term		
@@ -2848,23 +2806,18 @@ Regular Hills	일반 언덕	普通の丘	齐整丘陵	terrain
 Regular Impassable Mountains	일반 통과 불가 산맥	普通の通れない山	齐整的高不可攀的山岭	terrain		
 Regular Mountains	일반 산맥	普通の山	齐整山岭	terrain		
 Reinforcements	증원군	増援	援军	faction		
-Reinitialize fonts for the current language	현재 언어의 글꼴 재초기화	現在の言語向けにフォントを再初期化	正在为当前语言重新初始化字体	term		
 Reject	거절	断る	拒绝	term		
 Reks	렉스(Reks)	Reks	雷克斯	proper_noun		
 Relana	렐라나(Relana)	Relana	蕾拉娜	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
-Release the other prisoners	나머지 포로들을 석방하십시오	他の囚人たちを解放する	释放其他囚犯	term		
 Relgorn	렐고른(Relgorn)	Relgorn	雷尔戈恩	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
 Reloaded game	불러온 게임	再開されたゲーム	重新载入了游戏	term		
-Reloading alters future combat outcomes	다시 불러오면 이후 전투 결과가 달라집니다	再開すると未来の戦闘結果が変化します	重新载入存档将改变未来的战斗结果	term		
 Remains	잔해	残骸	残骸	terrain		
 Remald	렘말드(Remald)	Remald	雷马尔德	proper_noun		
 Remote scenario	원격 시나리오	リモートシナリオ	远程场景	term		
 Remove	삭제하기	削除	移除	term		
 Remove Add-ons	부가 기능 삭제	アドオンの削除	移除附加组件	term		
 Remove Location	위치 제거	開始位置の削除	移除位置	term		
-Remove Selected Area	선택한 구역 제거	選択領域の削除	移除所选区域	term		
 Remove Side	진영 제거	陣営の削除	移除阵营	term		
-Remove this username from your list	목록에서 이 사용자 이름 삭제	ユーザ名をリストから削除します	将此用户名从列表中移除	term		
 Removes the current bookmark	현재 책갈피 삭제	選択中のブックマークを削除します	移除当前书签	term		
 Removing Add-ons	부가 기능을 제거하고 있음	アドオンの削除	移除附加组件	term		
 Renaerawan	레나에라완(Renaerawan)	Renaerawan	瑞纳尔拉文	proper_noun		
@@ -2880,8 +2833,6 @@ Replay Control	리플레이 제어	リプレイコントロール	回放控制	t
 Report unchanged files	변경되지 않은 파일을 보고	変更なしのファイルを通知	报告未变更的文件	term		
 Report unresolved macro references	해결되지 않은 매크로 참조를 보고	未解決のマクロ参照を通知する	报告未解析的宏引用	term		
 Rerivyan	레리비안(Rerivyan)	Rerivyan	瑞里维安	unit_name		
-Rescue Dolburras before he drowns	돌부라스(Dolburras)가 익사하기 전에 구출하세요	Dolburras が溺死する前に救助する	在多尔布拉斯淹死前营救他	term		
-Rescue the imprisoned knights	갇힌 기사들을 구출하십시오	囚われた騎士達を救出する	救出被囚禁的骑士	term		
 Research	연구	研究	研究	term		
 Reserved	예약됨	予約済み	保留	term		
 Reservoir	저장 시간	上限値	蓄水池	proper_noun		
@@ -3039,8 +2990,6 @@ Savanna	열대 초원	サバンナ	热带草原	terrain
 Save Game	게임 저장	ゲームの保存	保存游戏	term		
 Save Map	맵 저장	マップを保存	保存地图	term		
 Save Replay	리플레이를 저장	リプレイを保存	保存录像	term		
-Save Selection to Area	선택 영역을 구역으로 저장	選択部分を領域として保存	将选区保存到区域	term		
-Save password locally (encrypted)	암호를 로컬에 저장(암호화됨)	パスワードを暗号化して保存する	在本地保存密码（明文）	term		
 Save the King	국왕을 구하라	国王救出	保卫国王	campaign_name		
 Save-loading	저장-로드	保存＆再開	存档-载入大法	proper_noun		
 Saved	저장됨	保存完了	已保存	proper_noun		
@@ -3183,22 +3132,11 @@ Show Advantage	우위를 표시	優位性を表示	显示优势	term
 Show Credits	만든 이들 보기	クレジットの表示	显示制作者名单	term		
 Show Helptip	도움말 표시	ヘルプチップの表示	显示帮助提示	term		
 Show Labels	라벨 표시	ラベルを表示する	显示标签	term		
-Show Lua Console	Lua 콘솔 표시	Luaコンソールの表示	显示Lua控制台	term		
-Show Sails and Rigging	돛과 삭구 표시	帆と索具の表示	显示船帆和船索	term		
-Show Tool Information	도구 정보 표시	ツール情報を表示	显示工具信息	term		
 Show all	모두 표시	全てを表示	显示所有	term		
-Show ally orb	아군 구슬 표시	同盟軍のユニットに宝珠を表示	显示友军状态球	term		
 Show changes	변경 사항을 표시	変化を表示	显示更改	term		
 Show combat	전투 장면을 표시	戦闘を表示する	显示战斗	term		
-Show enemy orb	적군 구슬 표시	敵ユニットに宝珠を表示	显示敌军状态球	term		
-Show in-progress or abandoned translations	진행 중이거나 중단된 번역 표시	進行中または放置されている翻訳を表示する	显示正在进行或弃用的翻译	term		
-Show moved orb	이동한 유닛 구슬 표시	移動済みユニットに宝珠を表示	显示“已移动”状态球	term		
-Show or Hide Labels	라벨 표시 또는 숨기기	ラベルの表示・非表示	显示或隐藏标签	term		
-Show partially moved orb	일부 이동한 유닛 구슬 표시	移動途中のユニットに宝珠を表示	显示“已部分移动”状态球	term		
 Show progress	진행 상황을 표시	進行状況を表示する	显示进度	term		
 Show replay	리플레이 표시	リプレイを見る	显示录像	term		
-Show unmoved orb	이동하지 않은 유닛 구슬 표시	移動前のユニットに宝珠を表示	显示“尚未移动”状态球	term		
-Show/Hide Labels	라벨 표시/숨기기	ラベルの表示・非表示	显示/隐藏标签	term		
 Showdown	최후의 대결	決着	决战	campaign_name		
 Shrine	성소	神殿	神殿	proper_noun		
 Shroud	장막	幕	战场黑幕	terrain		
@@ -3311,8 +3249,8 @@ Soradoc	소라도크(Soradoc)	Soradoc	索拉多克	campaign_name
 Sorcerer	마술사	not found	not found	unit_role		
 Sorcery	마술	not found	not found	magic		
 Sorrek, Chosen of Death	죽음이 선택한 소렉(Sorrek)	死に選ばれしSorrek	索里克，死之神选	unit_name		
-SotA	고대인(SotA)	SotA	SotA	campaign_name		
-SotBE	검은눈(SotBE)	SotBE	SotBE	campaign_name		
+SotA	고대인	SotA	SotA	campaign_name		캠페인 약어는 음차 병기 대상이 아니므로 한국어 제목만 사용
+SotBE	검은눈	SotBE	SotBE	campaign_name		캠페인 약어는 음차 병기 대상이 아니므로 한국어 제목만 사용
 Soul of Malin Keshar	말린 케샤르(Malin Keshar)의 영혼	Malin Keshar の魂	马林·凯沙的灵魂	unit_name		
 Soulless	혼이 없는 자	さまよえる死体	无魂怪	unit_name		
 Sound	소리	サウンド	声音	term		
@@ -3423,7 +3361,6 @@ Sultaria	술타리아(Sultaria)	Sultaria	索特瑞	unit_name
 Summer	여름	夏	夏季	term		
 Summer Deciduous Forest	여름 낙엽수림	夏の落葉樹林	夏季落叶林	terrain		
 Summer Mixed Forest	여름 혼합수림	夏の混交林	夏季混交林	terrain		
-Summon the Bat (20 gold)	박쥐 소환 (금화 20)	コウモリを呼び出す（20 ゴールド）	召唤蝙蝠（20金币）	term		
 Summoner	소환사	召喚者	召魂师	campaign_name		
 Summoning Center	소환 중심점	召喚陣の中央	召唤阵中心	item_name		
 Summoning Circle	소환진	召喚陣	召唤阵圆环	item_name		
@@ -3465,9 +3402,9 @@ Syryn	시린(Syryn)	Syryn	希林	unit_name
 System default language	시스템 기본 언어	システムのデフォルト言語	系统默认语言	term		
 Sythan	시탄(Sythan)	Sythan	西丹	campaign_name		
 Szerkz	스제르크스(Szerkz)	Szerkz	斯扎克斯	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
-THoT	망치(THoT)	THoT	THoT	campaign_name		
-TRoW	성립(TRoW)	TRoW	TRoW	campaign_name		
-TSG	남부(TSG)	南部防衛隊	TSG	campaign_name		
+THoT	망치	THoT	THoT	campaign_name		캠페인 약어는 음차 병기 대상이 아니므로 한국어 제목만 사용
+TRoW	성립	TRoW	TRoW	campaign_name		캠페인 약어는 음차 병기 대상이 아니므로 한국어 제목만 사용
+TSG	남부	南部防衛隊	TSG	campaign_name		캠페인 약어는 음차 병기 대상이 아니므로 한국어 제목만 사용
 Tabomo	타보모(Tabomo)	Tabomo	塔波摩	unit_name		
 Tackle Shop	낚시 도구점	道具屋	渔具店	term		
 Tafrul	타프룰(Tafrul)	Tafrul	塔弗尔	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
@@ -3666,8 +3603,6 @@ Thief	도둑	盗賊	盗贼	unit_name
 Third Oracle	세번째 예언자	第三の賢人	第三先知	faction		
 Thirsty Goblin	목마른 고블린	喉が乾いたゴブリン	口渴的地精	proper_noun		
 This Turn	이번 턴	このターン	此回合	term		
-This side’s color	이 진영의 색상	陣営の色です	此阵营的颜色	term		
-This user's password	이 사용자의 비밀번호	ユーザーのパスワード	这个用户的密码	term		
 Thorin	쏘린(Thorin)	Thorin	索林	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
 Thorn	토른(Thorn)	Thorn	斯恩	unit_name		
 Thrag	트라그(Thrag)	Thrag	斯拉戈	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
@@ -3685,7 +3620,7 @@ Thursagan	투르사간(Thursagan)	Thursagan	瑟萨冈	unit_name
 Tidbit	작은 조각(Tidbit)	Tidbit	小点	proper_noun		
 Time Limit	시간 제한	持ち時間	时限	term		
 Time Schedule Editor	시간 일정 편집기	タイムスケジュールエディタ	日程表编辑器	term		
-Time Schedule Menu	시간 일정 차림표	タイムスケジュールメニュー	日程表菜单	term		
+Time Schedule Menu	시간 일정 메뉴	タイムスケジュールメニュー	日程表菜单	term		
 Time of Day	시간대	時刻	时段	term		
 Time of day indicator	시간대 표시기	時刻	时段指示器	term		
 Time of day modifier	시간대 보정	時刻の影響	时段修正	term		
@@ -3707,16 +3642,8 @@ To the Mines	광산으로	鉱山へ	冲向矿脉	campaign_name
 To the Northrun	북부(Northrun) 방향	Northrun へ	往北程	term		
 Tobo	토보(Tobo)	Tobo	托博	faction		
 Together Again	다시 함께	再会	再次相聚	campaign_name		
-Toggle Accelerated Speed	가속 속도 전환	高速化の切り替え	开/关加速模式	term		
 Toggle Ellipses	토글 키 무시	ユニット足元の楕円表示の切り替え	开/关椭圆	term		
 Toggle Grid	격자 표시	グリッド表示の切り替え	开/关网格	term		
-Toggle Minimap Terrain Coding	미니맵 지형 표시 전환	ミニマップ上の地形表示形式の切り替え	开启/关闭小地图地形编码	term		
-Toggle Minimap Terrain Drawing	미니맵 지형 그리기 전환	ミニマップ上での地形の表示/非表示	开启/关闭小地图地形绘制	term		
-Toggle Minimap Unit Coding	미니맵 유닛 표시 전환	ミニマップ上のユニット表示色の切り替え	开启/关闭小地图单位编码	term		
-Toggle Minimap Unit Drawing	미니맵 유닛 그리기 전환	ミニマップ上でのユニットの表示/非表示	开启/关闭小地图单位绘制	term		
-Toggle Minimap Village Drawing	미니맵 마을 그리기 전환	ミニマップ上での村の表示/非表示	开启/关闭小地图村庄绘制	term		
-Toggle Terrain Transition Update	지형 전환 갱신 전환	地形の繋ぎ目の自動更新の切り替え	开启/关闭地形过渡更新	term		
-Toggle between fullscreen and window mode	전체 화면 모드와 창 모드 전환	フルスクリーンモード/ウィンドウモードを切り替えます	在全屏和窗口模式之间切换	term		
 Tome of secrets	비밀의 서	秘密の書	秘密典籍	item_name		
 Too Foolish Hero	너무 어리석은 영웅	愚かすぎる勇者	过于愚蠢的英雄	unit_name		
 Toomak	투막(Toomak)	Toomak	图玛克	unit_name		
@@ -3756,7 +3683,7 @@ Treasure Chest	보물 상자	宝箱	宝箱	item_name
 Treasure Chest Gold	보물 상자 금화	財宝箱のゴールド	宝箱黄金	term		
 Tree	나무	樹	树	term		
 Tree Fellows	나무 동료들	木の同志	树友	faction		
-Treefolk	나무 동포(Treefolk)	Treefolk	树精	faction		
+Treefolk	나무 동포	Treefolk	树精	faction		일반 명칭은 음차 병기하지 않음
 Trgrau	트르그라우(Trgrau)	Trgrau	特尔格罗	person_name		
 Tribute	공물	貢ぎ物	贡品	faction		
 Trident of storms	폭풍의 삼지창	ストームトライデント	风暴三叉戟	item_name		
@@ -3920,7 +3847,7 @@ User Map	사용자 지도	ユーザーマップ	用户地图	term
 User interaction required	사용자 조작 필요	ユーザの操作が必要です	需要用户操作	term		
 User interface sounds	유저 인터페이스 사운드	ユーザーインターフェースサウンド	用户界面音效	term		
 Using Add-ons	부가 기능 사용	アドオンの使い方	使用附加组件	term		
-UtBS	태양(UtBS)	UtBS	UtBS	campaign_name		
+UtBS	태양	UtBS	UtBS	campaign_name		캠페인 약어는 음차 병기 대상이 아니므로 한국어 제목만 사용
 Utrub	우트루브(Utrub)	Utrub	尤土巴	unit_name		
 VSync	수직 동기화(VSync)	垂直同期	VSync	proper_noun		
 Vacant slot	비어 있는 슬롯	空席	空闲位置	term		
@@ -4058,12 +3985,7 @@ West: Laboratory and Experiment Testing	서쪽: 실험실 및 실험 구역	西�
 Westin	웨스틴(Westin)	Westin	韦斯廷	proper_noun		
 Westin Guard	웨스틴(Westin) 수비대	Westin 防衛隊	韦斯廷卫队	faction		
 Westwind Wood	하늬바람(Westwind) 숲	西風の森	西风树林	place_name		
-When a new turn has begun	새 턴이 시작되었을 때	新しいターンが始まった時	当新的回合开始时	term		
-When a public message is received	공개 메시지를 받을 때	公開メッセージを受け取った時	当收到公开消息时	term		
-When a server message is received	서버 메시지를 받을 때	サーバーからメッセージが届いた時	当收到服务器消息时	term		
-When a whisper is received	귓속말을 받을 때	ささやきを受け取った時	当收到悄悄话时	term		
 Where have you been? Lord-	어디 있었던 거야? 군주-	今までどこにいたんだ？長よ──	你去哪儿了？达——	term		
-Which team this side belongs to	이 진영이 속한 팀	陣営が属するチームを変更します	此阵营所属的队伍	term		
 Whirlpool	소용돌이	渦巻き	漩涡	item_name		
 Whisper	속삭임	ささやき	悄悄话	proper_noun		
 White	흰색	白	白	term		
@@ -4089,7 +4011,7 @@ Winter Elven Keep	겨울 엘프 본영	冬のエルフの主塔	冬季精灵主�
 Winter Mixed Forest	겨울 혼합수림	冬の混交林	冬季混交林	terrain		
 Wizard	마도사	not found	not found	unit_role		
 WoCopedia	WoC 백과사전	世界征服の手引き	世界征服百科全书	proper_noun		
-WoF	바람(WoF)	WoF	WoF	campaign_name		
+WoF	바람	WoF	WoF	campaign_name		캠페인 약어는 음차 병기 대상이 아니므로 한국어 제목만 사용
 Wolf	늑대	狼	狼	unit_name		
 Wolf Coast	늑대의 해안	オオカミ海岸	恶狼海岸	place_name		
 Wolf Rider	늑대 기병	ウルフライダー	狼骑手	unit_name		

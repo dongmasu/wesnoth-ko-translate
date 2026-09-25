@@ -6042,12 +6042,12 @@ msgstr "레이어"
 #. [label]
 #: data/gui/window/terrain_layers.cfg:81
 msgid "Base.x"
-msgstr "기준점(Base.x).x"
+msgstr "기준점 X"
 
 #. [label]
 #: data/gui/window/terrain_layers.cfg:93
 msgid "Base.y"
-msgstr "기준점(Base.y).y"
+msgstr "기준점 Y"
 
 #. [label]
 #: data/gui/window/terrain_layers.cfg:105

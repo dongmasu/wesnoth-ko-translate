@@ -384,6 +384,9 @@ python3 tools/audit_locale_comparison.py --limit 200
    실행한다. 실행 결과는 `work/<버전>/audit/`에 날짜별 텍스트 파일로
    저장한다. 코드·placeholder·생성 이름 목록·저작자 정보는 후보에서
    제외한다.
+   문장·명령형으로 의심되는 용어집 항목도
+   `work/<버전>/audit/glossary-sentence-candidates-YYYYMMDD.tsv`에
+   별도로 기록하고 수동 판정한다.
    obsolete 항목도 삭제하지 않고 같은 표기 규칙으로 정리한다. 병기 실행 후에는
    `python3 tools/sync_glossary_korean.py`로 용어집과 정확한 PO 항목을
    동기화한다.

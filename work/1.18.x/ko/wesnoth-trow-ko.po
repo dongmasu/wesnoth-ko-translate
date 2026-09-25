@@ -22,7 +22,7 @@ msgstr "웨스노스(Wesnoth)의 성립"
 #. [campaign]: id=The_Rise_of_Wesnoth
 #: data/campaigns/The_Rise_Of_Wesnoth/_main.cfg:15
 msgid "TRoW"
-msgstr "성립(TRoW)"
+msgstr "성립"
 
 #. [campaign]: id=The_Rise_of_Wesnoth
 #: data/campaigns/The_Rise_Of_Wesnoth/_main.cfg:20
@@ -1885,7 +1885,7 @@ msgstr "탈로둘보렌탄(Talodulborentan)"
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/07_Return_to_Oldwood.cfg:49
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/07_Return_to_Oldwood.cfg:60
 msgid "Treefolk"
-msgstr "나무 동포(Treefolk)"
+msgstr "나무 동포"
 
 #. [side]: type=Wose, id=Gullatendronnorbum
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/07_Return_to_Oldwood.cfg:45

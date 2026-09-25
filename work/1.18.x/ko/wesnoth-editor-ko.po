@@ -233,7 +233,7 @@ msgstr "유닛"
 #. [menu]: id=switch_time
 #: data/themes/editor.cfg:469
 msgid "Time Schedule Menu"
-msgstr "시간 일정 차림표"
+msgstr "시간 일정 메뉴"
 
 #. [menu]: id=menu-playlist
 #: data/themes/editor.cfg:480
