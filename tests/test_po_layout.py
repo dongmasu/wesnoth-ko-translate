@@ -256,10 +256,12 @@ class TranslationLayoutTests(unittest.TestCase):
 
         self.assertIn('DIST_DIR="$ROOT/dist/$VERSION-$po_date"', build_script)
         self.assertIn('SOURCE_DIR=${2:-"$ROOT/dist/$VERSION-$po_date/ko/LC_MESSAGES"}', install_script)
-        self.assertIn("dist/**/LC_MESSAGES.backup-*/", gitignore)
+        self.assertNotIn("LC_MESSAGES.backup", gitignore)
         self.assertNotIn("\ndist/\n", gitignore)
+        self.assertNotIn("backup_root", install_script)
         self.assertIn("dist/<버전>-<작업일>/ko/LC_MESSAGES/", install_doc)
         self.assertIn("Versioned `dist/<version>-<work-date>/`", install_doc)
+        self.assertIn("rebuild from", install_doc)
 
     def test_work_files_follow_github_korean_file_set(self):
         self.assertTrue(REFERENCE_KO.is_dir())

@@ -47,20 +47,5 @@ set -- "$SOURCE_DIR"/*.mo
 }
 
 mkdir -p "$TARGET_DIR"
-backup_root=${WESNOTH_BACKUP_DIR:-"$ROOT/dist/$VERSION-$po_date/ko"}
-backup="$backup_root/LC_MESSAGES.backup-$(date +%Y%m%d-%H%M%S)"
-existing=0
-for mo in "$TARGET_DIR"/*.mo; do
-    if [ -f "$mo" ]; then
-        existing=1
-        break
-    fi
-done
-if [ "$existing" -eq 1 ]; then
-    mkdir -p "$backup"
-    cp "$TARGET_DIR"/*.mo "$backup"/
-    echo "backed up existing MO files to $backup"
-fi
-
 cp "$SOURCE_DIR"/*.mo "$TARGET_DIR"/
 echo "installed MO files into $TARGET_DIR"

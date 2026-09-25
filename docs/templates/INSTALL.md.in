@@ -73,8 +73,9 @@ tools/build_mo.sh
 placeholder를 먼저 수정합니다. 생성되는 파일명은 `wesnoth-ko.po`에서
 `wesnoth.mo`처럼 마지막 `-ko`를 제거한 textdomain 이름이어야 합니다.
 즉 PO 파일명은 번역 작업용 이름이고, 게임은 같은 basename의 `.mo`를
-`translations/ko/LC_MESSAGES/`에서 읽습니다. 기존 MO를 덮어쓰기 전에
-반드시 별도 디렉터리에 백업합니다. 빌드가 끝나면
+`translations/ko/LC_MESSAGES/`에서 읽습니다. 설치 스크립트는 대상 경로의
+기존 MO를 새 파일로 덮어씁니다. 문제가 생기면 `po/<버전>/ko/`의 원본
+PO 또는 `work/<버전>/ko/`의 작업 PO에서 MO를 다시 생성합니다. 빌드가 끝나면
 `dist/<버전>-<작업일>/ko/PO_LAST_MODIFIED_DATE`에 전체 작업 PO 중 가장 최근
 수정일(`YYYYMMDD`)이 기록됩니다. 언어 목록의 작업 표식은 이 파일을
 사용하므로 `한국어 (<작업버전>-<작업날짜>)` 형식으로 실제 번역 자료의
@@ -95,22 +96,17 @@ The Battle for Wesnoth.app/
 
 `%The Battle for Wesnoth%`는 Finder에서 **응용 프로그램**에 있는
 `The Battle for Wesnoth.app`를 뜻합니다. `dist/<버전>-<작업일>/ko/LC_MESSAGES/*.mo`를
-이 디렉터리에 복사합니다. 예를 들어 터미널에서는 다음처럼 백업 후
-복사할 수 있습니다.
+이 디렉터리에 복사합니다.
 
 ```sh
 tools/install_mo.sh \
   "/Applications/The Battle for Wesnoth.app/Contents/Resources/translations/ko/LC_MESSAGES"
 ```
 
-대상 경로는 반드시 실제 앱의 경로로 확인합니다. 스크립트는 기존 MO를
-앱 번들 바깥의 `dist/<버전>-<작업일>/ko/LC_MESSAGES.backup-YYYYMMDD-HHMMSS/`에
-백업한 뒤 복사합니다. App Store 앱처럼 앱 번들 내부에 새 디렉터리를
-만들 수 없는 설치본에서도 백업 단계가 실패하지 않도록 하기 위한
-구성입니다. 필요하면 `WESNOTH_BACKUP_DIR`로 백업 루트를 지정할 수
-있습니다. 앱 업데이트로 원본 파일이 바뀔 수 있으므로 기존 디렉터리를
-먼저 백업하고,
-복사 후 게임을 완전히 종료했다가 다시 실행합니다. 앱 패키지가 쓰기
+대상 경로는 반드시 실제 앱의 경로로 확인합니다. 설치 스크립트는 기존 MO를
+백업하지 않고 덮어씁니다. 앱 업데이트로 원본 파일이 바뀔 수 있으므로
+게임 버전에 맞는 앱 경로인지 확인하고, 복사 후 게임을 완전히 종료했다가
+다시 실행합니다. 앱 패키지가 쓰기
 금지 상태이면 관리자 권한이 필요할 수 있습니다.
 
 #### macOS 앱 번들을 수정하지 않는 방법
@@ -222,8 +218,8 @@ ZIP 압축판은 압축을 푼 폴더가 곧 게임 폴더입니다. 예를 들�
 C:\Games\Wesnoth-{{WESNOTH_MAJOR_MINOR}}\data\translations\ko\LC_MESSAGES\
 ```
 
-기존 `*.mo` 파일을 별도 폴더에 백업한 뒤 새 MO를 복사해도 되지만,
-프로젝트의 배치 스크립트를 사용하면 자동으로 백업하고 복사할 수 있습니다.
+프로젝트의 배치 스크립트는 기존 `*.mo`를 별도 백업하지 않고 새 MO로
+덮어씁니다. 문제가 생기면 아래 복구 절차를 사용합니다.
 
 PowerShell 또는 명령 프롬프트에서 MO를 생성합니다.
 
@@ -237,9 +233,8 @@ call tools\build_mo.bat
 call tools\install_mo.bat "C:\Program Files\Battle for Wesnoth {{WESNOTH_MAJOR_MINOR}}\data\translations\ko\LC_MESSAGES"
 ```
 
-스크립트는 기존 MO를 앱 외부의 `dist/<버전>-<작업일>/ko/` 아래
-`LC_MESSAGES.backup-YYYYMMDD-HHMMSS` 디렉터리에 백업합니다.
-`Program Files` 아래에 설치되어 있으면 관리자 권한이 필요할 수 있습니다.
+스크립트는 기존 MO를 백업하지 않고 덮어씁니다. `Program Files` 아래에
+설치되어 있으면 관리자 권한이 필요할 수 있습니다.
 
 압축판의 언어 목록에 작업 버전을 표시하려면 `data\languages\ko_KR.cfg`도
 다음처럼 수정합니다. 이 스크립트는 `PO_LAST_MODIFIED_DATE`를 사용해
@@ -291,8 +286,10 @@ sudo tools/install_mo.sh \
    게임을 재시작합니다.
 5. 번역이 보이지 않으면 게임 버전이 {{WESNOTH_VERSION}}인지, MO 파일명이
    `wesnoth*.mo` textdomain 이름과 일치하는지 확인합니다.
-6. 기존 MO를 백업했다면 원래 파일을 복원해 변경 전 상태로 되돌릴 수
-   있습니다.
+6. 문제가 생기면 `po/{{WESNOTH_VERSION}}/ko/` 또는
+   `work/{{WESNOTH_VERSION}}/ko/`의 PO를 기준으로
+   `tools/build_mo.sh` 또는 `tools\build_mo.bat`를 다시 실행한 뒤,
+   올바른 게임 데이터 경로에 재설치합니다.
 7. 여러 Wesnoth 설치본이 있으면 실행 중인 게임의 데이터 경로에 복사했는지
    확인합니다.
 
@@ -455,12 +452,12 @@ tools/install_mo.sh \
   "/Applications/The Battle for Wesnoth.app/Contents/Resources/translations/ko/LC_MESSAGES"
 ```
 
-The helper backs up existing MO files outside the application bundle, under
-`dist/<version>-<work-date>/ko/LC_MESSAGES.backup-YYYYMMDD-HHMMSS/`, before copying.
-This avoids the backup step failing on protected App Store bundles. Set
-`WESNOTH_BACKUP_DIR` to choose another backup root. `%The Battle for
-Wesnoth%` means the `The Battle for Wesnoth.app` bundle under `/Applications`
-when using the default install location. App updates may replace the files.
+The helper overwrites existing MO files without creating a backup. If a
+translation problem appears, rebuild from
+`po/<version>/ko/` or `work/<version>/ko/` with `tools/build_mo.sh`, then
+install the regenerated files again. `%The Battle for Wesnoth%` means the
+`The Battle for Wesnoth.app` bundle under `/Applications` when using the
+default install location. App updates may replace the files.
 Administrator permission may be required if the application bundle is not
 writable.
 
@@ -569,12 +566,14 @@ call tools\install_mo.bat "C:\Games\Wesnoth-{{WESNOTH_MAJOR_MINOR}}\data\transla
 call tools\mark_korean_locale.bat "C:\Games\Wesnoth-{{WESNOTH_MAJOR_MINOR}}\data\languages\ko_KR.cfg"
 ```
 
-The first helper backs up existing MO files before copying. The second helper
-backs up `ko_KR.cfg` and writes the language label as
+The first helper overwrites existing MO files without creating a backup. The
+second helper backs up `ko_KR.cfg` and writes the language label as
 `한국어 (<work-version>-<work-date>)`, using `PO_LAST_MODIFIED_DATE`.
 
-The install helper backs up existing MO files before copying. Windows may
-request administrator permission under `Program Files`.
+The install helper overwrites existing MO files without creating a backup.
+If a translation problem appears, rebuild the MO files from
+`po/<version>/ko/` or `work/<version>/ko/` and install them again. Windows
+may request administrator permission under `Program Files`.
 
 ### 5. Linux
 
@@ -662,8 +661,7 @@ Publish the translation result and reproducible tooling first:
 
 Keep the Cafe archive local and record only the necessary conclusions with
 source attribution in the public repository. Versioned `dist/<version>-<work-date>/`
-MO files and metadata are published, while only
-`LC_MESSAGES.backup-YYYYMMDD-HHMMSS/` directories are ignored. The
+MO files and metadata are published. The
 `.gitignore` excludes `References/wesnothko/` by default, but inspect
 `git status` and `git ls-files` before publishing.
 

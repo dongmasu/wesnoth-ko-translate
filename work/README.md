@@ -25,7 +25,8 @@ work/
   `WESNOTH_VERSION=<버전>`으로 덮어쓸 수 있습니다. 새 버전은 같은
   `po/<버전>/`, `work/<버전>/`, `dist/<버전>-<작업일>/` 구조를 사용합니다.
 - `dist/<버전>-<작업일>/`의 MO와 메타데이터는 공개 산출물로 Git에
-  포함하고, `LC_MESSAGES.backup-YYYYMMDD-HHMMSS/` 백업만 무시합니다.
+  포함합니다. 설치 도구는 기존 MO를 백업하지 않으며, 문제가 생기면
+  `po/<버전>/ko/` 또는 `work/<버전>/ko/`에서 MO를 다시 생성합니다.
 - 루트 문서의 버전 표기는 `docs/templates/*.md.in`에서 관리합니다.
   템플릿을 수정한 뒤 `python3 tools/render_docs.py`로 게시 문서를
   재생성하고, `--check`로 생성 결과를 검증합니다. 생성된 Markdown은
@@ -281,8 +282,10 @@ done
   `data\languages\ko_KR.cfg`를 직접 지정합니다.
 
 설치 도구는 대상 경로를 자동 추측하지 않습니다. 기존 MO가 있으면
-`<target_dir>.backup-YYYYMMDD-HHMMSS`에 먼저 백업하므로, 잘못된 Wesnoth
-설치본에 복사하는 실수를 줄일 수 있습니다. 게임에 적용하기 전에는
+새 MO로 덮어쓰므로, 잘못된 Wesnoth 설치본에 복사하지 않도록 게임의
+데이터 경로를 먼저 확인합니다. 문제가 생기면
+`po/<버전>/ko/` 또는 `work/<버전>/ko/`에서 MO를 다시 생성합니다.
+게임에 적용하기 전에는
 `INSTALL.md`의 운영체제별 경로 확인 절차를 먼저 수행합니다.
 
 ## 용어집 판정 규칙
