@@ -41,6 +41,18 @@ same source term is shared across active files.
   remains; the DID and Whitefang-related tests pass after synchronization.
 - Glossary audit: the remaining `Nothing` mismatch is unrelated to this cycle.
 
+## 장문 대화 후속 검수
+
+- 다켄 볼크가 제자와 마을 사람들에게 말하는 장면에서 관계에 맞지 않는
+  기계적인 `당신`을 `자네`로 조정했다.
+- `네 마법이 우리보다 더 중요하다고 결정했어`, `오크들은 언덕에서
+  강력하며`, `냉혈하게 살해`처럼 직역으로 어색해진 대사를 자연스럽게
+  고쳤다.
+- 다켄 볼크의 견습생 훈련 지시문을 스승의 말투에 맞게 정리하고,
+  `추방을 심각하게 받아들이지`, `말해 주겠다` 등의 표현을 다듬었다.
+- 말린의 장문 독백에서 `이 모든 시간과 ... 후에`의 부자연스러운 구조를
+  원문 의미에 맞는 자연스러운 서술로 수정했다.
+
 ## Next File
 
 If no new medium-confidence decision is required, continue with

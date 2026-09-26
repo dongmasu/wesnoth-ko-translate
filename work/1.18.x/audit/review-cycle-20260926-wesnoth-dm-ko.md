@@ -34,6 +34,19 @@
 - Glossary audit: `errors=0`, `warnings=0`
 - Glossary-to-PO regression test: passed
 
+## Long-dialogue follow-up
+
+- Corrected the portal and freezing passage, including `얼어붙을 듯`,
+  `피신처`, and related spacing and phrasing.
+- Reworked Chantal's exchange with Delfador where mechanical `당신`
+  repetition obscured the respectful relationship; the meaning and polite
+  register were preserved with `그대`.
+- Reworked Kalenz's exchange with Delfador for the same address consistency.
+- Corrected clear spacing and grammar issues such as `우리 중`, `흉내 내지`,
+  `좋지 않은`, `통합한 게`, `걸려 있소`, and `죽게 될`.
+- No dialect, intentional insult, or uncertain lore interpretation was
+  normalized.
+
 ## Next File
 
 Continue automatically with the next PO in order, `wesnoth-dw-ko.po`.

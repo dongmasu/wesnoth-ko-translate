@@ -27,6 +27,27 @@
 - obsolete(`#~`) 항목은 활성 번역이 아니므로 수정하지 않았습니다.
 - 이번 장문 재검토에서 별도의 용어집 표준값 변경은 필요하지 않았습니다.
 
+## 우선순위 후속 수정
+
+`utils/herodeaths.cfg`에서 의미가 붕괴된 기계 번역과 명백한 오역을
+추가로 수정했습니다.
+
+- `You monsters think...`, `You incompetent fools...`,
+  `Your efforts to destroy us...`의 적대적 대사를 자연스러운 한국어로
+  복원했습니다.
+- `life is nothing but a drama`, `be grateful that you are alive`,
+  `payback time`의 부부 간 대화를 문맥에 맞게 수정했습니다.
+- `hard on the constitution`을 정부의 헌법이 아닌 신체적 부담으로
+  해석해 `몸에 좀 무리가 가네요`로 수정했습니다.
+- `Your wife just got killed`, `I’ll get you cleaned up good`,
+  `give him an incentive to drown himself`, `in my next life`의
+  문장 구조와 의미를 복원했습니다.
+- `My wanderings have come to an end`, `join my fallen brothers`,
+  `Your death shall not go unavenged`의 오역과 서식 태그 불일치를
+  수정했습니다.
+- `당신` 자체를 일괄 치환하지 않고, 원문 의미가 명백히 확인되는
+  항목만 수정했습니다.
+
 ## 검증
 
 - `msgfmt --check --check-format`: 통과

@@ -589,7 +589,7 @@ msgstr "고깃덩어리는 죽을 것이다! 죽어라! 죽어라! 죽어라!"
 #. [message]: speaker=Wesfolk Leader
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:219
 msgid "This is going to get ugly..."
-msgstr "상황이 더 나빠지는것 같은데..."
+msgstr "상황이 더 나빠지는 것 같은데..."
 
 #. [message]: speaker=King Eldaric IV
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/02_The_Fall.cfg:227
@@ -940,7 +940,7 @@ msgstr "중부 지역을 지나가야겠어..."
 #. [message]: speaker=Lady Outlaw
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:301
 msgid "I suspect that the Midlands might be in ruins by now."
-msgstr "중부 지역은 이제 폐허가 되어 있을텐데요."
+msgstr "중부 지역은 이제 폐허가 되어 있을 텐데요."
 
 #. [message]: speaker=Burin the Lost
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/03_A_Harrowing_Escape.cfg:306
@@ -1644,7 +1644,7 @@ msgid ""
 "our borders. Maybe we could still be of some aid to you. In a war of your "
 "people some time ago one of your kings trapped an evil lich in the catacombs "
 "of the temple at the heart of the wood. We were there, we were watching."
-msgstr "우리 종족은 숲에 매여 있어, 우리의 경계를 넘어서면 거의 도움이 되지 못할 것이다. 하지만 다른 도움을 줄 수 있을 것 같다. 얼마전 너희 종족의 전쟁에서 왕들 중 하나가 사악한 리치를 숲의 중심부에 있는 사원의 지하묘지에 봉인했다. 우린 거기 있었고, 우리는 보고 있었다."
+msgstr "우리 종족은 숲에 매여 있어, 우리의 경계를 넘어서면 거의 도움이 되지 못할 것이다. 하지만 다른 도움을 줄 수 있을 것 같다. 얼마 전 너희 종족의 전쟁에서 왕들 중 하나가 사악한 리치를 숲의 중심부에 있는 사원의 지하 묘지에 봉인했다. 우린 거기 있었고, 우리는 보고 있었다."
 
 #. [message]: speaker=Elilmaldur-Rithrandil
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/05_The_Oldwood.cfg:338
@@ -1689,7 +1689,7 @@ msgid ""
 "Young Prince, while the lich-lords have betrayed us by allying themselves "
 "with that orcish scum, I can’t bring myself to fight against one of the "
 "greatest leaders of my people."
-msgstr "젊은 왕자님, 리치 군주들이 오크의 쓰레기들과 합심해서 우릴 배신했지만, 우리 민족의 위대한 대장들 중 한명과 싸우는데는 함께할 수 없을 것 같아요."
+msgstr "젊은 왕자님, 리치 군주들이 오크의 쓰레기들과 합심해서 우릴 배신했지만, 우리 민족의 위대한 대장들 중 한 명과 싸우는 데는 함께할 수 없을 것 같아요."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/05_The_Oldwood.cfg:373
@@ -1816,7 +1816,7 @@ msgstr "그를 그리워할 사람은 세상에 아무도 없겠지."
 msgid ""
 "What’s that! No! The tree-folk are sealing us back in here. They must think "
 "that we’ve failed. We’re trapped."
-msgstr "이게 뭐야! 안돼! 나무 동포들이 우릴 여기에 둔채로 여길 다시 봉인해버렸어. 우리가 실패했다고 생각했나봐. 우린 갇혔어."
+msgstr "이게 뭐야! 안 돼! 나무 동포들이 우릴 여기에 둔 채로 여길 다시 봉인해 버렸어. 우리가 실패했다고 생각했나 봐. 우린 갇혔어."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/06_Temple_in_the_Deep.cfg:188
@@ -1847,7 +1847,7 @@ msgid ""
 "It’s funny that the lich-lord didn’t have this on his person. Since I don’t "
 "actually know what this thing does, I’ll just put it in the bottom of my "
 "pack for right now."
-msgstr "그 리치 군주가 이걸 쓰지 않았다는 게 웃기는 일이네. 이게 뭘 하는 건지 확실히는 모르니, 일단은 가방 깊숙한 곳에 넣어놔야겠어."
+msgstr "그 리치 군주가 이걸 쓰지 않았다는 게 웃기는 일이네. 이게 뭘 하는 건지 확실히는 모르니, 일단은 가방 깊숙한 곳에 넣어 놔야겠어."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/06_Temple_in_the_Deep.cfg:277
@@ -2494,7 +2494,7 @@ msgid ""
 "Erm, yes... He was Caror, the arch rival of our dearly departed Lich-Lord "
 "Lenvan. He coveted the ruby, and was studying it. The only copy of his "
 "study, the Book of Fire and Darkness, was petrified along with him."
-msgstr "으음, 그렇죠... 그는 우리를 떠난 리치 군주 렌반(Lenvan)의 숙적인 카로르(Caror)이었어요. 그는 루비를 탐냈고, 그걸 연구해왔죠. 그의 연구의 결정체인 단 한권의 책인 화염과 어둠의 책이 그와 함께 석화되어 있어요."
+msgstr "으음, 그렇죠... 그는 우리를 떠난 리치 군주 렌반(Lenvan)의 숙적인 카로르(Caror)이었어요. 그는 루비를 탐냈고, 그걸 연구해 왔죠. 그의 연구의 결정체인 단 한 권의 책, 화염과 어둠의 책이 그와 함께 석화되어 있어요."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/08_Clearwater_Port.cfg:1027
@@ -2894,7 +2894,7 @@ msgstr "적색의 형제들이 드디어 힘을 얻게 된다. 저걸 가져와�
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/10_Sewer_of_Southbay.cfg:182
 msgid "Nooo! The wizards are flooding the sewer. We’re doomed!"
-msgstr "안돼!! 마도사들이 하수도에 물길을 끌어들였어. 우린 끝장이야!"
+msgstr "안 돼!! 마도사들이 하수도에 물길을 끌어들였어. 우린 끝장이야!"
 
 #. [message]: speaker=Lady Jessene
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/10_Sewer_of_Southbay.cfg:191
@@ -3006,7 +3006,7 @@ msgid ""
 "It is so. These are dark days to live through, my young prince. You’ve done "
 "your father proud. Far better than my legacy, a dead adventurer and a "
 "missing fool! It is fitting that my line should end with my kingdom."
-msgstr "그렇지. 지금은 살아남기 힘든 어려운 시기일세, 젊은 왕자여. 그대의 아버지는 그대를 자랑스럽게 여길걸세. 내 자식들보단 훨씬 낫지, 죽은 모험가와 사라진 얼간이라니! 내 왕국은 내 대에서 끝나는 것이 옳은것 같네."
+msgstr "그렇지. 지금은 살아남기 힘든 어려운 시기일세, 젊은 왕자여. 그대의 아버지는 그대를 자랑스럽게 여길걸세. 내 자식들보단 훨씬 낫지, 죽은 모험가와 사라진 얼간이라니! 내 왕국은 내 대에서 끝나는 것이 옳은 것 같네."
 
 #. [message]: speaker=Prince Haldric
 #: data/campaigns/The_Rise_Of_Wesnoth/scenarios/11_Southbay_in_Winter.cfg:119

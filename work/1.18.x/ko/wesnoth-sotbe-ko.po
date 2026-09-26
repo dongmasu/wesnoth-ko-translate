@@ -2282,7 +2282,7 @@ msgstr "자넨 이해를 못하는군. 오크들은 오랜 세월 분열되어 �
 msgid ""
 "This is true. Now we are pressed from all sides by humans and elves; we need "
 "a leader that can unite all banners. This one is <i>you</i>!"
-msgstr "그렇습니다. 이제 우린 인간과 엘프들로부터 전방면에서 포위되어 있지요. 우리에겐 모든 부족을 통합할 지도자가 필요합니다. 그건 바로 <i>당신</i>이지요!"
+msgstr "그렇습니다. 이제 우리는 인간과 엘프들에게 사방에서 압박받고 있습니다. 모든 부족을 통합할 지도자가 필요합니다. 바로 <i>그대</i>입니다!"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:191
@@ -2300,7 +2300,7 @@ msgid ""
 "Kapou’e, if Prestim falls, humans will have a strong bridgehead on this side "
 "of the river and your people won’t be safe. You are the only one that can "
 "help us defend Prestim!"
-msgstr "카포우에, 프레스팀(Prestim)이 함락되면, 인간들은 강 건너편에서 강력한 교두보를 확보하게 되고 우리 종족은 안전을 잃게 되네. 자네가 프레스팀(Prestim)을 방어해낼 수 있는 유일한 인물이야!"
+msgstr "카포우에, 프레스팀(Prestim)이 함락되면 인간들은 이 강 건너편에 강력한 교두보를 확보하게 되고, 자네의 백성은 안전하지 못할 걸세. 자네만이 프레스팀(Prestim)을 지킬 수 있어!"
 
 #. [message]: speaker=Pirk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:203
@@ -2313,7 +2313,7 @@ msgid ""
 "Go defend Prestim, Kapou’e. In the meantime, now that the Council is "
 "complete again, we will decide. We may have to form the Great Horde again "
 "and make you its leader."
-msgstr "카포우에, 프레스팀(Prestim)을 방어하십시오. 그 동안, 평의회가 다시 완성되므로 우리는 결정하겠습니다. 다시 큰 무리를 결성하고 당신을 그 대장로 삼아야 할지도 모릅니다."
+msgstr "카포우에, 프레스팀(Prestim)을 방어하게. 그동안 평의회가 다시 완전히 구성되었으니, 우리가 결정할 걸세. 다시 대군을 결성해 자네를 그 우두머리로 삼아야 할지도 모르네."
 
 #. [message]: speaker=Shan Taum
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:248
@@ -2381,7 +2381,7 @@ msgid ""
 "Reinforcements, at last! Whoever you are, you are welcome in Prestim! The "
 "fortified bridge over the River Bork was taken this morning by a small "
 "commando of elves. We have already tried to assault it twice without success."
-msgstr "마침내 원군이 왔구나! 당신이 누구든 프레스팀(Prestim)에 온 것을 환영하오! 보르크 강 위에 놓인 요새화된 다리가 오늘 아침 엘프 특공대원들에게 점령당했소. 우린 두 번이나 재탈환을 시도했지만 실패했소."
+msgstr "마침내 원군이 왔구나! 누구든 프레스팀(Prestim)에 온 것을 환영하오! 보르크 강 위의 요새화된 다리를 오늘 아침 소수의 엘프 특공대가 점령했소. 우리는 이미 두 번이나 공격했지만 실패했소."
 
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:196
@@ -3087,14 +3087,14 @@ msgid ""
 "Elf, our kind can move and fight far better and faster in these conditions "
 "than your kind can. Take the orcish prisoners and hurry to Melmog. The "
 "dwarves shall stop this orcish menace!"
-msgstr "엘프여, 우리 종족은 당신들보다 이런 환경에서 훨씬 빠르고, 또 잘 싸울 수 있어. 오크 포로들을 어서 멜모그로 이송하게. 드워프들은 오크들의 위협을 막고 있겠네!"
+msgstr "엘프여, 우리 종족은 이런 환경에서 그대들보다 훨씬 빠르게 움직이고 잘 싸울 수 있네. 오크 포로들을 데리고 서둘러 멜모그로 가게. 드워프들이 이 오크의 위협을 막겠네!"
 
 #. [message]: speaker=Thelarion
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:260
 msgid ""
 "Very well, but our human allies will also stay behind and help you. After "
 "all, we are dealing with the Son of the Black-Eye here."
-msgstr "좋소, 하지만 우리 인간 동맹군도 뒤에 남아서 그대들을 도울것이오. 어쨌든 우린 여기서 검은 눈 아들을 상대하는 거니까."
+msgstr "좋소. 하지만 우리 인간 동맹군도 뒤에 남아 그대들을 도울 것이오. 어쨌든 우리는 여기서 검은 눈의 아들을 상대하고 있으니까."
 
 #. [message]: speaker=Darstang
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:265
@@ -3988,7 +3988,7 @@ msgstr "멈추시오! 대체 이 넓은 녹빛 천지에 무슨 짓을 하는 �
 msgid ""
 "Howgarth? You and your interfering alliance always show up at the worst "
 "possible time."
-msgstr "호우가르쓰(Howgarth)? 당신과 그 방해되는 동맹은 항상 제일 나쁜 때에만 나타나는군."
+msgstr "호우가르쓰(Howgarth)? 자네와 그 성가신 동맹은 언제나 가장 나쁜 때에 나타나는군."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:440
@@ -4019,7 +4019,7 @@ msgid ""
 "treaty some seventeen years ago between your people and the orcs, which both "
 "of you are no doubt violating. It is our duty as the orchestrator and "
 "witness of this treaty to see that it is honored."
-msgstr "빌어먹게도 없지, 란벡흐 백작. 북부 동맹은 벌써 17년 전에 공증했는데, 당신들 둘 다 그것을 위반하였소. 우리는 이 조약이 지켜지는 것을 보는 것이 이 조약의 중재자이자 공증인으로서의 의무요."
+msgstr "천만에, 란벡흐 백작. 북부 동맹은 17년 전 자네의 민족과 오크 사이에 맺은 조약의 증인이었소. 자네들 둘 다 틀림없이 그 조약을 어기고 있겠지. 조약의 중재자이자 증인인 우리에게는 조약이 지켜지도록 할 의무가 있소."
 
 #. [message]: speaker=Earl Lanbec'h
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:463
@@ -4027,7 +4027,7 @@ msgid ""
 "Well, good for you. As a matter of fact, this land is clearly defined under "
 "your precious treaty as human territory. So if you are so keen on being all "
 "high and noble, then muster your men to help us push back this orcish menace."
-msgstr "좋아, 잘하는군. 사실을 말하자면, 이 땅은 당신의 소중한 조약에 의하면 완벽하게 인간의 영토요. 그렇게 높고 고귀한 데에 집착할 것 같으면 부하들을 모아서 이 오크들의 위협을 물리치는 걸 도와주는 게 어떻소."
+msgstr "좋아, 잘하는군. 사실 이 땅은 자네의 소중한 조약에 따라 명백히 인간의 영토요. 그렇게 고상하고 고결한 척하고 싶다면, 부하들을 모아 이 오크의 위협을 물리치는 일을 돕는 게 어떻소."
 
 #. [message]: speaker=Howgarth III
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:468
@@ -4039,7 +4039,7 @@ msgid ""
 "Cease your lies, Lanbec’h. We all know that you were the one who started "
 "this war. But enough. It is time for all this to end. I call for both sides "
 "to parley and we shall discuss this matter."
-msgstr "거짓말은 그만두시오, 란벡흐. 우리는 당신들이 이 전쟁을 시작했다는 것을 전부 알고 있소. 하지만 됐소. 이젠 끝낼 시간이오. 나는 쌍방 모두를 소환해서 교섭을 통해 이 문제를 논의하게 할 것이오."
+msgstr "거짓말은 그만두시오, 란벡흐. 우리 모두 자네가 이 전쟁을 시작했다는 것을 알고 있소. 하지만 이제 충분하오. 이 모든 일을 끝낼 때가 왔소. 양측에 협상을 요청해 이 문제를 논의하겠소."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:473
@@ -4218,7 +4218,7 @@ msgid ""
 "Dorest and call off the horde. I have had dealings with Kapou’e’s father "
 "before, and I believe his blood will be trustworthy. And if that isn’t "
 "enough, then we are here to protect you in case he violates the pact."
-msgstr "멈추시오, 란벡흐 백작. 나는 이 오크들과 합의점에 도달했소. 당신의 군대가 먼저 공격했으니, 당신은 즉시 군대를 해산하고 오크 영토에서 물러나시오. 그렇게 하면 카포우에는 당신에게 도레스트을 반환하고 무리를 해산할 것이오. 나는 카포우에의 아버지와 전에 협상을 해 본일이 있어서 그의 혈통이 믿을만하다고 믿소. 그리고 그것이 충분치 않다면, 그가 협약을 파기할 때엔 우리가 당신을 보호할 것을 약속하겠소."
+msgstr "멈추시오, 란벡흐 백작. 나는 이 오크들과 합의했소. 자네의 군대가 먼저 공격했으니, 즉시 군대를 해산하고 오크 영토에서 물러나시오. 그렇게 하면 카포우에는 자네에게 도레스트를 돌려주고 무리를 해산할 것이오. 나는 전에 카포우에의 아버지와 거래한 적이 있어 그의 혈통을 믿을 만하다고 생각하오. 그래도 부족하다면, 그가 협약을 어길 경우 우리가 자네를 보호하겠소."
 
 #. [message]: speaker=Earl Lanbec'h
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:513
@@ -4257,7 +4257,7 @@ msgid ""
 "ambush. Once you get back to your camp, we will make a joint assault on "
 "these traitors. Once they are dead and dispersed, then I trust you will "
 "carry out our agreement."
-msgstr "카포우에, 나는 내 야영지로 돌아가서 우리의 합의와 이 배신에 대해서 필히 알려야겠소. 그리폰 기병 중 한 명이 날 데려갈 거요. 내 경호원(One)과 나머지 그리폰들이 이 습격에서 빠져나가는 걸 도와줄 거요. 기지로 돌아가면 이 배신자들을 협공하도록 합시다. 저들이 죽고 해산되면, 당신이 약속을 지키리라 믿소."
+msgstr "카포우에, 나는 야영지로 돌아가 우리의 합의와 이 배신을 알려야겠소. 그리폰 기병 한 명이 나를 데려갈 거요. 내 경호원들과 나머지 그리폰들이 자네가 이 매복에서 빠져나오도록 도울 것이오. 자네가 야영지로 돌아오면 이 배신자들을 협공합시다. 저들이 죽어 흩어지면 자네가 약속을 지키리라 믿소."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:642
@@ -4299,7 +4299,7 @@ msgstr "빌어먹을! 그 배신자는 내꺼야!"
 #. [message]: speaker=Howgarth III
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:771
 msgid "I’m sorry, Kapou’e. I’ll have my men leave what remains of him to you."
-msgstr "미안하오, 카포우에. 부하를 시켜 시체를 당신에게 보내 주겠소."
+msgstr "미안하오, 카포우에. 부하들에게 그의 남은 시신을 자네에게 가져다주라고 하겠소."
 
 #. [message]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:777

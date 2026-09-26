@@ -1279,7 +1279,7 @@ msgid ""
 "skeletons are coming from. For all that we have managed to hold the "
 "skeletons off in our own keep, I dare not venture right into their lair. To "
 "go there would mean certain death."
-msgstr "예, 있습니다. 여기서 몇 마일 북쪽에 우리가 자주 원석을 채굴했던 곳이 있습니다. 하지만 그곳은 모든 해골들이 어디서 오는 곳처럼 보입니다. 우리는 우리성에서 해골들을 물리치도록 애써왔지만, 나는 그들의 은신처으로 감히 위험을 무릅쓰라고 하지 않았습니다. 그곳에 가는것은 확실히 죽으러 가는것입니다."
+msgstr "예, 있습니다. 여기서 몇 마일 북쪽에 우리가 자주 원석을 채굴하던 곳이 있습니다. 하지만 그곳은 모든 해골이 나오는 곳처럼 보입니다. 우리는 요새에서 해골들을 막아 왔지만, 그들의 은신처로 들어갈 엄두는 내지 못했습니다. 거기에 가는 건 확실한 죽음입니다."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/02_02_Meeting_With_Dwarves.cfg:173
@@ -3637,7 +3637,7 @@ msgid ""
 "So you withdrew. Rightly done, me lad. Our prepared defenses will be able to "
 "hold the orcs off far longer and with less loss than ye could ha’ done in "
 "the open field. I see that my training of you hasna’ been for naught."
-msgstr "그래서 철수했군. 잘했소, 젊은이. 우리가 준비한 방어 수단은 오크들이 야전에서 할 수있는 것보다 훨씬 더 오래 적은 손실로 오크들을 막을 수 있소. 당신에 대한 나의 훈련은 헛되지 않은것 같소."
+msgstr "그래서 철수했군. 잘했소, 젊은이. 우리가 준비한 방어 시설이라면 자네가 야전에서 막는 것보다 훨씬 오래, 훨씬 적은 희생으로 오크들을 막을 수 있소. 자네를 가르친 보람이 있군."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:39
@@ -3785,7 +3785,7 @@ msgid ""
 "mages see your dwarves as invaders. How would you feel if say... the elves "
 "decided to come in and level Knalga so they can grow another big forest on "
 "top?"
-msgstr "잊지 마세요 하멜(Hamel), 이런 이야기에는 간혹 양면성이 있어요. 아마도 마법사들은 당신네 드워프들을 침략자라고 생각했을 거예요. 예를들면... 엘프들이 와서 크날가(Knalga)를 평평하게 만든후, 그 위에 또하나의 큰 숲이 자라도록 결정한다면 어떤 느낌이 들까요?"
+msgstr "잊지 마시오, 하멜(Hamel). 이런 이야기에는 흔히 양면이 있는 법이오. 마법사들은 자네들의 드워프를 침략자로 여길지도 모르오. 가령 엘프들이 찾아와 크날가(Knalga)를 평평하게 밀어 버리고 그 위에 거대한 숲을 만들기로 한다면, 자네는 어떤 기분이겠소?"
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:83
@@ -3871,12 +3871,12 @@ msgid ""
 "another assault in force. I think ye should take as little gold as possible. "
 "We’ll store the rest in the tunnels furthest away from the attacking orcs in "
 "case they break through."
-msgstr "오크들이 또 다른 공격을 시작하기 전에 윗개울 고개길에 도달하려면 가볍게 이동해야 합니다. 당신은 가능한 적은 양의 금화를 가져가야 한다고 생각합니다. 우리는 나머지는 오크들이 침입할 경우를 대비해, 공격하는 오크들로부터 가장 멀리 떨어진 터널에 보관해두겠습니다."
+msgstr "오크들이 대규모 공격을 다시 시작하기 전에 윗개울 고개길에 도착하려면 짐을 가볍게 해야 하오. 금화는 가능한 한 적게 가져가는 게 좋겠소. 나머지는 오크들이 뚫고 들어올 경우를 대비해, 오크들의 공격선에서 가장 먼 터널에 보관하겠소."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:110
 msgid "So it shall be. Now how exactly do we get to this mountain pass?"
-msgstr "그렇게 될 것입니다. 이제 어떻게 하면 이 산길을 정확히 갈 수 있나요?"
+msgstr "그렇게 합시다. 이제 이 산길에는 정확히 어떻게 가야 하오?"
 
 #. [part]
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:115
@@ -4030,7 +4030,7 @@ msgid ""
 "know, the people of Dwarven Doors were enslaved by the orcs for many years. "
 "They have broken their chains and together with Lord Hamel from Knalga, they "
 "are beginning to reclaim Knalga from the chaos that it was in."
-msgstr "오... 알겠어요. 하지만 우리는 더 급한 일 때문에 왔어요. 당신의 도움이 절실히 필요합니다. 여기 드워프의 문 공동체 출신인 탈린(Tallin)이 있습니다. 아시다시피 드워프의 문 사람들은 여러 해 동안 오크들의 노예였습니다. 그들은 사슬을 끊고 크날가(Knalga)의 하멜(Hamel) 군주와 함께 혼란에 빠진 크날가(Knalga)를 되찾기 시작했습니다."
+msgstr "오... 알겠소. 하지만 우리에게는 더 급한 일이 있소. 자네의 도움이 절실히 필요하오. 여기 드워프의 문 공동체 출신인 탈린(Tallin)이 있소. 알다시피 드워프의 문 사람들은 여러 해 동안 오크의 노예였소. 그들은 사슬을 끊고 크날가(Knalga)의 하멜(Hamel) 군주와 함께 혼란에 빠진 크날가를 되찾기 시작했소."
 
 #. [message]: speaker=Ro'Sothian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:446
@@ -4046,14 +4046,14 @@ msgid ""
 "are threatening to complete their conquest of Knalga and convert it into an "
 "orcish stronghold. We can’t let that happen! That’s why we have come here, "
 "to seek your and your brother’s help in defeating the orcs."
-msgstr "그러지 마시오! 제발, 친구여, 들어 보시오. 오크들이 다시 세력을 키우고 있으며 크날가(Knalga) 정복을 마무리해 그곳을 오크 요새로 만들려 하고 있소. 우리는 그런 일이 일어나게 둘 수 없소! 그래서 오크들을 물리치는 데 당신과 당신 형제의 도움을 구하러 이곳에 온 것이오."
+msgstr "그러지 마시오! 제발, 친구여, 들어 보시오. 오크들이 다시 세력을 키워 크날가(Knalga) 정복을 끝내고 오크 요새로 만들려 하고 있소. 우리는 그런 일이 일어나게 둘 수 없소! 그래서 오크를 물리치는 데 자네와 자네 형제의 도움을 구하러 이곳에 왔소."
 
 #. [message]: speaker=Ro'Sothian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:456
 msgid ""
 "Take your begging and shove it, Father! We don’t help no-one. Not even you "
 "and <i>especially</i> not any dwarf!"
-msgstr "그런 부탁은 집어치우시오, 신부님! 우리는 아무도 돕지 않소. 당신도 예외가 아니고, <i>특히</i> 어떤 드워프도 돕지 않소!"
+msgstr "그런 부탁은 집어치우시오, 신부님! 우리는 아무도 돕지 않소. 자네도 예외는 아니고, <i>특히</i> 드워프는 절대 돕지 않소!"
 
 #. [message]: speaker=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:466
@@ -4069,7 +4069,7 @@ msgid ""
 "Camerin, you were always a little crazy. Now I see you have gone stark "
 "raving mad! Do you really think we would help anyone? <i>Especially</i> a "
 "bunch of dwarves!"
-msgstr "카메린(Camerin), 당신은 항상 약간 미쳤어요. 그런데 이제 보니 당신은 완전히 미쳐 버렸군요! 우리가 정말 누구를 도울 수 있을 것 같아요? <i>특히</i> 드워프 무리 따위에!"
+msgstr "카메린(Camerin), 자네는 원래도 약간 미쳤지. 그런데 이제 보니 완전히 미쳐 버렸군! 우리가 정말 누구를 도울 것 같나? <i>특히</i> 드워프 무리 따위를!"
 
 #. [message]: speaker=Ro'Sothian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:478
@@ -4091,7 +4091,7 @@ msgstr "빨리, 여보, 우리가 그를 막아야 해요!"
 #. [message]: speaker=Camerin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:498
 msgid "Hey, are you two going to hog all the fun for yourselves?"
-msgstr "이봐, 당신들 둘만 모든 즐거움을 독차지 할건가요?"
+msgstr "이봐, 자네들 둘이서만 재미를 독차지할 셈인가?"
 
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:503
@@ -4115,7 +4115,7 @@ msgstr "(<i>모든 방향에서 목소리가 울려 퍼지며...</i>) 내 동생
 msgid ""
 "Ro’Arthian, listen to me. We don’t want to fight with you, we have come here "
 "to seek your assistance."
-msgstr "로아르티안, 내 말 들어요. 우리는 당신과 싸우고 싶지 않아요. 우리는 당신의 도움을 구하기위해 여기 왔습니다."
+msgstr "로아르티안, 내 말을 들어 주시오. 우리는 자네와 싸우고 싶지 않소. 자네의 도움을 구하러 여기 왔소."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:581
@@ -4128,7 +4128,7 @@ msgstr "(<i>대답 없음</i>)"
 msgid ""
 "I know you can hear me, Ro’Arthian. Please, the fate of every creature in "
 "the north depends on your help."
-msgstr "제 말을 들을수 있는 거 알어요, 로아르티안. 제발, 북쪽에 있는 모든 생명체의 운명은 당신의 도움에 달려 있어요."
+msgstr "내 말이 들리는 것 알고 있소, 로아르티안. 제발, 북부의 모든 생명체의 운명이 자네의 도움에 달려 있소."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:597
@@ -4201,7 +4201,7 @@ msgstr "좋소, 불청객들이여. 원하는 것이 뭐요?"
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:750
 msgid "Well... First, why don’t you tell us what <i>you</i> want?"
-msgstr "좋아... 첫 번째, <i>당신</i>이 원하는 것을 우리에게 말해 주는건 어떠시오?"
+msgstr "좋아... 우선, <i>자네</i>가 원하는 것을 우리에게 말해 주는 게 어떻소?"
 
 #. [message]: speaker=Ro'Arthian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:755
@@ -4214,12 +4214,12 @@ msgstr "<i>내</i>가 원하는 거? 내가 원하는 것을 말해주지! 내�
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:760
 msgid "So basically, you want to be left alone in peace, right?"
-msgstr "기본적으로 당신은 홀로 평화롭게 지내고 싶다는 것이지요. 그렇죠?"
+msgstr "요컨대 자네는 우리 모두가 평화롭게 자네를 내버려 두길 바라는 거지? 그렇소?"
 
 #. [message]: speaker=Ro'Arthian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:765
 msgid "Wow! Someone <i>finally</i> figured it out!"
-msgstr "와우! <i>드디어</i>누군지 알아냈습니다!"
+msgstr "와! <i>드디어</i> 알아듣는 사람이 나왔군!"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:770
@@ -4227,7 +4227,7 @@ msgid ""
 "All right! Listen, then. Right now we have very little power to grant your "
 "request. We are simply a band of peasants fighting for the freedom of our "
 "homeland."
-msgstr "좋소! 잘들으시오. 우리는 당신의 요구를 들어줄 힘이 없소. 우리는 그저 조국의 자유를 위해 싸우는 농부 무리일 뿐이오."
+msgstr "좋소! 잘 들으시오. 지금 우리에게는 자네의 요구를 들어줄 힘이 없소. 우리는 그저 조국의 자유를 위해 싸우는 농부 무리일 뿐이오."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:775
@@ -4244,14 +4244,14 @@ msgid ""
 "ever set foot on your land without your leave. If any of my men violates "
 "this law they shall be punished with death, and I believe I may speak for "
 "Hamel in this as well."
-msgstr "그 때가 되면, 나는 맹세를 하겠소. 아무도 당신의 땅을 밟지 않도록 할 것이오. 내 부하들 중 누구라도 이 법을 어시면 사형에 처할 것이며 하멜(Hamel)을 걸고 말할 수 있다고 믿어도 좋소."
+msgstr "그때가 오면 엄숙히 맹세하겠소. 자네의 허락 없이는 누구도 자네의 땅에 발을 들이지 못하게 하겠소. 내 부하 중 누구라도 이 법을 어기면 사형에 처할 것이며, 하멜(Hamel)도 같은 뜻이라고 믿어도 좋소."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:785
 msgid ""
 "In order for that to come about, we must crush the orcish host. But we can’t "
 "do that without your help. Will you join us?"
-msgstr "그렇게 하기 위해서는 오크의 군대를 무찔러야 하오. 하지만 당신의 도움 없이는 할 수 없소. 함께 하겠소?"
+msgstr "그러려면 오크 군대를 무찔러야 하오. 하지만 자네의 도움 없이는 불가능하오. 우리와 함께하겠소?"
 
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:790
@@ -4260,7 +4260,7 @@ msgid ""
 "Tallin’s proposal, the endless war you two wage with the dwarves will never "
 "be resolved. You have been haunting these mountains for far too long. It is "
 "high time for you and your brother to rest in peace."
-msgstr "생각해 보시오, 로아르티안(Ro’Arthian). 이건 공정한 거래요. 탈린(Tallin)의 제안을 받아들이지 않으면 당신들이 드워프들과 벌여 온 끝없는 전쟁은 결코 끝나지 않을 거요. 당신들은 너무 오랫동안 이 산을 떠돌며 괴롭혀 왔소. 이제 당신과 동생이 평화롭게 쉴 때가 되었소."
+msgstr "생각해 보시오, 로아르티안(Ro’Arthian). 이건 공정한 거래요. 탈린(Tallin)의 제안을 받아들이지 않으면 자네 형제가 드워프들과 벌여 온 끝없는 전쟁은 결코 끝나지 않을 거요. 자네들은 너무 오랫동안 이 산을 떠돌며 괴롭혀 왔소. 이제 자네와 동생이 평화롭게 쉴 때가 되었소."
 
 #. [message]: speaker=Ro'Arthian
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:795
@@ -4287,7 +4287,7 @@ msgstr "자, 여러분, 정말 멋진 일이 될 거야! 저 오크들은 뭐에
 msgid ""
 "Very well, Tallin. We accept under the terms that your people will forever "
 "leave us in peace after this."
-msgstr "좋군요, 탈린(Tallin). 우리는 이 일이 끝나면 당신의 백성이 영원히 우리를 평화롭게 떠나리라는 조건을 받아들이겠습니다."
+msgstr "좋소, 탈린(Tallin). 이 일이 끝나면 자네의 백성이 영원히 우리를 평화롭게 내버려 둔다는 조건으로 받아들이겠소."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:843
@@ -4306,7 +4306,7 @@ msgstr "아주 좋아. 오크의 군대들은 우리의 분노를 느낄 것이�
 msgid ""
 "Wait a second, Tallin. Are you saying that we should abandon our homeland to "
 "these wretched mages?!"
-msgstr "잠시만, 탈린(Tallin). 당신 지금 우리가 그 끔찍한 마법사들에게 우리의 고향을 포기하고 넘겨줘야한다고 이야기하는 것인가?!"
+msgstr "잠시만, 탈린(Tallin). 자네는 지금 우리가 그 끔찍한 마법사들에게 고향을 포기하고 넘겨줘야 한다는 말인가?!"
 
 #. [message]: speaker=Ro'Arthian
 #. [message]: speaker=Ro'Sothian
@@ -4330,7 +4330,7 @@ msgstr "스탈라그(Stalrag) 추장, 한 가족을 구하기 위해서는 한 �
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:868
 msgid "Now, Stalrag, it is up to you. Do you want to save Knalga or not?"
-msgstr "지금이요 스탈라그(Stalrag), 당신에게 달려있어요. 크날가(Knalga)를 구하길 원하지않으시오?"
+msgstr "이제 스탈라그(Stalrag), 결정은 자네에게 달렸소. 크날가(Knalga)를 구하고 싶지 않소?"
 
 #. [message]: speaker=Stalrag
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:873
@@ -4344,7 +4344,7 @@ msgstr "알겠소, 탈린(Tallin), 그렇게 말하면 말야... 우리는 그�
 msgid ""
 "Thank you, Stalrag. I am sure that the sacrifice of you and your people will "
 "always be remembered."
-msgstr "고마워, 스탈라그(Stalrag). 나는 당신과 당신 백성의 희생이 항상 기억될 것이라고 확신하겠습니다."
+msgstr "고맙소, 스탈라그(Stalrag). 자네와 자네 백성의 희생은 영원히 기억될 것이오."
 
 #. [message]: speaker=Stalrag
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:883
@@ -4382,7 +4382,7 @@ msgstr "멋지네요. 그럼 이제 동굴로 돌아가서 저 오크놈들에�
 #. [message]: speaker=Stalrag
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:1012
 msgid "Farewell, my friends. I now go to join my fallen brethren."
-msgstr "안녕, 내 친구들. 나는 이제 죽어가는 형제들과 함께 갑니다."
+msgstr "잘 가게, 친구들이여. 이제 전사한 형제들과 함께하러 가겠네."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/07a_Settling_Disputes.cfg:1017
@@ -4495,7 +4495,7 @@ msgstr "워워.. 사이좋게 지내요! 사이좋게! 두분 다 누군가를 �
 msgid ""
 "But you do have a point, Stalrag. That ransom will buy more troops and "
 "weapons for the orcs, and that is bad news for us."
-msgstr "하지만 당신 말이 맞아요, 스탈라그(Stalrag), 그 몸값은 오크들에게 더 많은 병력과 무기를 사게 할 거예요, 그리고 우리에게는 더 나쁜 소식이 될 겁니다."
+msgstr "하지만 자네 말이 맞소, 스탈라그(Stalrag). 그 몸값으로 오크들이 더 많은 병력과 무기를 마련할 수 있으니 우리에게는 나쁜 소식이오."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:56
@@ -4516,7 +4516,7 @@ msgstr "동맹? 우리가 그들에게 가서 공주를 구하는 데 도움을 
 msgid ""
 "Of course we won’t do that. As a matter of fact I think it’s best that we "
 "don’t say anything to the elves at all."
-msgstr "물론 우리는 그러지 않을 것입니다. 사실 나는 우리가 엘프들게 아무말도 하지않는 것이 제일 좋다고 생각합니다."
+msgstr "물론 그렇게 하지는 않을 거요. 사실 엘프들에게는 아무 말도 하지 않는 게 가장 좋다고 생각하오."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:62
@@ -4611,7 +4611,7 @@ msgid ""
 "So it shall be, Tallin, I’ll hold the caves here while you and Stalrag’s "
 "Shinsplitters fare to Bitterhold. The orcs still haven’t given up their "
 "attack on our southern tunnels."
-msgstr "그럼 그렇게 합시다, 탈린(Tallin). 당신과 스탈라그(Stalrag)의 신스플리터가 매섭게 딛는 곳으로 향하는 동안 저는 동굴을 지키겠습니다. 오크들이 아직 남쪽 터널에 대한 공격을 포기 하지 않을 것입니다."
+msgstr "그럼 그렇게 합시다, 탈린(Tallin). 자네와 스탈라그(Stalrag)의 신스플리터들이 비터홀드로 가는 동안 나는 동굴을 지키겠소. 오크들은 아직 남쪽 터널 공격을 포기하지 않았소."
 
 #. [story]
 #: data/campaigns/Northern_Rebirth/scenarios/08a_Elvish_Princess.cfg:88
@@ -7368,7 +7368,7 @@ msgstr "아우우우, 저 사람은 내가 좋아했었어!"
 #. [message]: speaker=Elenia
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:127
 msgid "Alas! My wanderings have come to an end."
-msgstr "아아! 나의 방황은 끝이왔다."
+msgstr "아아! 내 방황도 끝이구나."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:132
@@ -7399,14 +7399,14 @@ msgstr "아아아아아아아!"
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:231
 msgid "You monsters think you are so tough don’t you? Well check this out."
-msgstr "당신이 괴물은 당신이 할 당신 너무 힘든 생각합니다. 그럼이를 확인하세요."
+msgstr "이 괴물들아, 너희가 그렇게 강한 줄 아나? 그럼 이걸 잘 보시지."
 
 #. [message]: speaker=Father Morvin
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:243
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:499
 msgid "You incompetent fools, you think you can kill us? Good luck!"
-msgstr "당신은 무능한 바보, 당신은 당신이 우리를 죽일 수 있다고 생각합니다. 행운을 빌어 요!"
+msgstr "이 무능한 바보들아, 우리가 죽을 것 같으냐? 행운을 빌지!"
 
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:251
@@ -7416,7 +7416,7 @@ msgstr "악! 바보 군침 짐승!"
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:256
 msgid "Your efforts to destroy us are in vain, you foul creature."
-msgstr "우리를 파괴하는 당신의 노력은 수포, 당신 파울 생물에 있습니다."
+msgstr "우리를 없애려는 너희의 노력은 헛수고다, 이 사악한 생물아."
 
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:268
@@ -7444,12 +7444,12 @@ msgstr "(<i>눈을 굴린다</i>) 테라(Thera), 항상 그렇게 극적으로 �
 #. [message]: role=Supporter
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:296
 msgid "Um... Father? Your wife just got killed..."
-msgstr "음 ... 신부님? 부인은 살해당한 ..."
+msgstr "음... 신부님? 사모님이 방금 돌아가셨는데요..."
 
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:301
 msgid "Oh right. I CALL UPON THE LORDS OF LIGHT TO GRANT YOU LIFE!"
-msgstr "아 맞소. 나는 빛의 군주들에게 여러분에게 생명을 요청할 것이오!"
+msgstr "아, 맞소. 빛의 군주들이여, 그대에게 생명을 내려 주소서!"
 
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:310
@@ -7474,7 +7474,7 @@ msgstr "테라(Thera), 모든 게 끝나면 얼굴에 그림을 그리고 극장
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:338
 msgid "Hey, don’t you always say that life is nothing but a drama?"
-msgstr "이봐, 할 당신은 인생이 드라마에 불과하다 말할 수 없습니까?"
+msgstr "이봐요, 여보는 인생이 드라마일 뿐이라고 늘 말하지 않았나요?"
 
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:343
@@ -7489,12 +7489,12 @@ msgstr "(<i>키득키득 웃으며</i>) 과장된 걸 변명해야 할 사람은
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:357
 msgid "Whoa! That trick is a bit hard on the constitution."
-msgstr "우와! 그 트릭은 헌법에 조금 어렵습니다."
+msgstr "우와! 그 묘기는 몸에 좀 무리가 가네요."
 
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:366
 msgid "Well, be grateful that you are alive."
-msgstr "글쎄, 당신은 살아 있음을 감사합니다."
+msgstr "글쎄, 살아 있다는 것에 감사하시오."
 
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:371
@@ -7516,7 +7516,7 @@ msgstr "아야! 아파.. 다시 시도해보진 말자고, 그렇지?"
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:392
 msgid "There we go, payback time!"
-msgstr "거기에서 우리는, 회수 기간을 간다!"
+msgstr "자, 복수할 시간이네요!"
 
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:399
@@ -7598,7 +7598,7 @@ msgstr "어리석은 트롤, 다음에는 죽을 수 있는 상대를 골라서 
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:542
 msgid "Argh! I’ll just come back and finish you in my next life."
-msgstr "아 아! 난 그냥 다시 와서 내 옆에 인생을 마무리합니다."
+msgstr "아악! 다음 생에는 돌아와서 너를 끝장내겠소."
 
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:547
@@ -7613,7 +7613,7 @@ msgstr "악! 머리를 맞았어!"
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:560
 msgid "Eew! Gross! Ahh never mind, I’ll get you cleaned up good."
-msgstr "으! 역겨워! 아아, 걱정하지 마. 널 씻기는 게 좋겠어."
+msgstr "으! 역겨워! 아, 됐어요. 제가 깨끗이 씻겨 드릴게요."
 
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:578
@@ -7638,12 +7638,12 @@ msgstr "나는 그것을 들었소, 테라(Thera)."
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:621
 msgid "Hey, just trying to give him an incentive to drown himself."
-msgstr "이봐요, 그냥 자신을 익사하는 인센티브를 제공하기 위해 노력."
+msgstr "이봐요, 그냥 그가 스스로 물에 빠져 죽고 싶게 만들려던 거예요."
 
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:639
 msgid "Now where did he go?!"
-msgstr "지금 어디 간거지.!"
+msgstr "그자는 이제 어디로 갔지?!"
 
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:651
@@ -7659,7 +7659,7 @@ msgstr "네, 당신이 언젠가 집을 사준다면요! (<i>뿌루퉁한 얼굴
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:662
 msgid ""
 "Thera, don’t you think that this isn’t really a good time to talk about that?"
-msgstr "테라(Thera), 당신이 그것에 대해 이야기할 수있는 좋은 시간이라고 생각하나요?"
+msgstr "테라(Thera), 지금 그 얘기를 할 때는 아닌 것 같소."
 
 #. [message]: speaker=Sister Thera
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:667
@@ -7681,12 +7681,12 @@ msgstr "젠장! 그들은 사라졌고, 그들이 통제하는 생명체들도 �
 #. [message]: speaker=Stalrag
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:763
 msgid "Farewell, my friends. I now go to join my fallen brothers."
-msgstr "잘가요, 내 친구여. 나는 지금 나의 타락한 형제에 참여하기위해 이동합니다."
+msgstr "잘 가게, 친구들이여. 이제 전사한 형제들과 함께하러 가겠네."
 
 #. [message]: role=Shinsplitter
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:783
 msgid "No, Stalrag! Without you what will become of the Shinsplitters?"
-msgstr "아니오 스탈라그(Stalrag)! 당신없이 어떻게 신스플리터가 될 수 있죠?"
+msgstr "아니오, 스탈라그(Stalrag)! 당신이 없으면 신스플리터들은 어떻게 되는 겁니까?"
 
 #. [message]: speaker=Stalrag
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:788
@@ -7698,7 +7698,7 @@ msgstr "신스플리터... 탈린(Tallin)과 합류하시오... 그는 당신의
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:793
 msgid "Your death shall not go unavenged, brave Stalrag. DEATH TO THE ORCS!!"
-msgstr "당신의 죽음은 반드시 갚겠습니다. 용감한 스탈라그(Stalrag)여. 오크놈들 죽여버리겠어!!"
+msgstr "용감한 스탈라그(Stalrag), 자네의 죽음을 반드시 복수하겠소. 오크들에게 죽음을!!"
 
 #. [message]: role=Shinsplitter
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:798
@@ -7708,7 +7708,7 @@ msgstr "죽어라!, 이 더러운 놈아!!"
 #. [message]: speaker=Eryssa
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:815
 msgid "Alas, you must continue your mission without me!"
-msgstr "아아, 당신은 나 없이 임무를 계속해야 해요!"
+msgstr "아아, 나 없이 임무를 계속해야 해요!"
 
 #. [message]: speaker=Elenia
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:825

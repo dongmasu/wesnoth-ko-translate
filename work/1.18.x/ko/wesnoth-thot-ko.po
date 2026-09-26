@@ -1334,7 +1334,7 @@ msgid ""
 "As you say. These things are for lords and loremasters to worry about, not "
 "the likes of me. I must see to my troop’s care. Food will be brought to you; "
 "rest well. We will speak again."
-msgstr "말씀하신 대로 하겠습니다. 이런 일들은 영주나 전승의 대가들이나 걱정해야 할 일이지, 나 같은 자가 걱정해야 할 일은 아닙니다. 나는 내 군대를 잘 돌보아야 합니다. 음식은 당신들에게 가져다 줄 것입니다. 잘 쉬십시오. 나중에 다시 이야기합시다."
+msgstr "말씀하신 대로 하겠습니다. 이런 일은 영주나 전승의 대가들이나 걱정할 일이지, 나 같은 자가 걱정할 일은 아닙니다. 나는 내 군대를 돌봐야 합니다. 음식은 자네들 앞으로 가져다주겠소. 푹 쉬게. 다시 이야기하세."
 
 #. [scenario]: id=08_The_Court_of_Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Court_of_Karrag.cfg:5
@@ -1794,7 +1794,7 @@ msgid ""
 "No! You are the one who owes our brethren their freedom! You have ensnared "
 "their minds with your foul magic and now we are here to put an end to your "
 "tyrannical rule!"
-msgstr "아니요! 당신은 우리 동포의 자유를 빼앗은 죄인일 뿐입니다! 사악한 마술로 사람들의 마음을 현혹시키는 폭군의 지배도 여기서 끝내겠습니다!"
+msgstr "아니요! 우리 동포의 자유를 빼앗은 장본인은 바로 그대입니다! 사악한 마법으로 그들의 마음을 옭아맨 폭군의 지배를 이제 끝내겠습니다!"
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1221
@@ -1806,7 +1806,7 @@ msgstr "내 다스림에 대항하는 적은 가장 불결한 땅거지 새끼�
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1226
 msgid "Not if we stop you here. AXES UP!"
-msgstr "여기서 당신을 막겠습니다. 도끼를 듭시다!"
+msgstr "여기서 막으면 됩니다. 도끼를 들어라!"
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1244
@@ -1826,7 +1826,7 @@ msgstr "안돼애! 내 힘이... 사라지고 있어..."
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1264
 msgid "And your rule is at an end, Karrag, once the brave lord of Kal Kartha."
-msgstr "이것으로 당신의 통치는 끝났군요. 한때 칼 카르타의 용맹한 영주였던 카르라그(Karrag)여."
+msgstr "이제 그대의 통치는 끝났소. 한때 칼 카르타의 용맹한 영주였던 카르라그(Karrag)여."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1269
@@ -1834,7 +1834,7 @@ msgid ""
 "Do not mourn his passing, Dulcatulos. The Karrag you knew died many years "
 "ago when his lust for power consumed him. It is now time to put the past "
 "behind and right the wrongs that have been wrought here."
-msgstr "그의 죽음을 슬퍼하지 마세요, 둘카툴로스(Dulcatulos). 당신이 알고 있던 카르라그(Karrag)는 수년 전에 권력에 대한 그의 탐욕이 그를 태워 죽였습니다. 이제는 과거를 뒤로하고 이곳에서 저지른 잘못을 바로잡아야 할 때입니다."
+msgstr "그의 죽음을 슬퍼하지 마시오, 둘카툴로스(Dulcatulos). 자네가 알던 카르라그는 오래전에 권력욕에 사로잡혀 죽었소. 이제 과거는 뒤로하고 이곳에서 저질러진 잘못을 바로잡을 때요."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1274
@@ -1996,12 +1996,12 @@ msgstr "전승의 대가여... 우리 중 아무도 영주의 자리를 맡을 �
 msgid ""
 "I was told I’d find Aiglondur of Knalga here. I bear a message from Tallin, "
 "the Lord Protector of the Alliance."
-msgstr "여기서 크날가(Knalga)의 아이글론두르(Aiglondur)를 찾을 수 있다고 들었습니다. 나는 동맹의 호법경인 탈린(Tallin)이 보낸 전갈이 있습니다."
+msgstr "아이글론두르가 옳은 말을 했습니다. 일은 끝났습니다. 비록 동맹의 호법경의 마음은..."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_Epilogue.cfg:163
 msgid "I am he. Speak your message."
-msgstr "그가 바로 나입니다. 전갈을 읽어주세요."
+msgstr "내가 바로 그 사람이오. 전갈을 말해 보시오."
 
 #. [message]: speaker=Pelias
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_Epilogue.cfg:169
@@ -2011,14 +2011,14 @@ msgid ""
 "you knew that day; Tan-Morgh had exchanged messages with certain orcish "
 "chieftains within the Alliance, and your victory prevented a dangerous "
 "revolt."
-msgstr "나는 몇 주 동안 당신의 발자취를 따라 왔습니다. 당신이 탄-모르그흐(Tan-Morgh)와 그의 동맹을 물리쳤다는 소식이 퍼져서 탈린(Tallin)에게 전해졌습니다. 그 날 당신은 동맹에게 생각보다 더 큰 도움을 줬습니다. 그것은 탄-모르그흐(Tan-Morgh)는 동맹 내의 특정 오크의 족장들과 연락을 주고받았고, 당신의 승리로 인해 위험한 반란을 막을 수 있었습니다."
+msgstr "몇 주 동안 자네의 뒤를 쫓았소. 자네가 탄-모르그흐(Tan-Morgh)와 그 동맹군을 무찔렀다는 소식이 퍼져 탈린(Tallin)에게까지 전해졌지. 그날 자네가 동맹에 얼마나 큰 공을 세웠는지 자네는 몰랐을 거요. 탄-모르그흐는 동맹에 속한 오크 족장 몇 명과 연락을 주고받고 있었고, 자네의 승리 덕분에 위험한 반란을 막을 수 있었소."
 
 #. [message]: speaker=Pelias
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_Epilogue.cfg:174
 msgid ""
 "Aiglondur, the Protector dubs you a Lord Companion of the Alliance. He bids "
 "you return to Knalga as soon as convenient, for your investiture."
-msgstr "아이글론두르(Aiglondur), 호법경께서는 당신을 동맹의 동반자로 지목하셨습니다. 그는 당신이 편리한 대로 빨리 크날가(Knalga)로 돌아가서 임명을 받으라고 하셨습니다."
+msgstr "아이글론두르(Aiglondur), 호법경께서 자네를 동맹의 동료 영주로 임명하셨소. 가능한 한 빨리 크날가(Knalga)로 돌아가 서임식을 받으라고 하셨지."
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_Epilogue.cfg:179

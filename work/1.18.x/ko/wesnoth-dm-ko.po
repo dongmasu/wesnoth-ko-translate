@@ -2084,31 +2084,31 @@ msgid ""
 "living. The ground became icy underfoot, and soon Delfador was following the "
 "necromancer’s footsteps in a thick layer of snow. Eventually, even these "
 "became indistinct."
-msgstr "델파도르(Delfador)가 일리아흐-말랄(Iliah-Malal)을 따라 문으로 나오자, 얼어붙을듯한 바람이 불며 산 자의 땅으로 쏟아져 나온 유령들로 공기가 빡빡해지기 시작했다. 발밑의 땅은 얼어붙어 있었고, 델파도르(Delfador)는 곧 두껍게 쌓인 눈밭에서 강령술사의 발자국을 찾아내고 쫓기 시작했다. 하지만 결국에는 그것조차 희미해져버렸다."
+msgstr "델파도르(Delfador)가 일리아흐-말랄(Iliah-Malal)을 따라 차원문 안으로 들어서자, 얼어붙을 듯한 바람이 불며 산 자의 땅으로 쏟아져 나온 유령들로 공기가 가득 차기 시작했다. 발밑의 땅은 얼어붙었고, 델파도르(Delfador)는 곧 두껍게 쌓인 눈밭에서 강령술사의 발자국을 찾아 뒤쫓기 시작했다. 하지만 결국에는 그것조차 희미해져 버렸다."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:107
 msgid ""
 "It’s hopeless, I’ve lost all track of Iliah-Malal... and I shall freeze "
 "unless I find shelter soon. Perhaps in that forest to the north..."
-msgstr "가망이 없어. 일리아흐-말랄(Iliah-Malal)의 모든 흔적을 놓쳐버렸다... 그리고 안가를 찾지 못하면 난 얼어죽고 말 거야. 혹시 저 북쪽의 숲이라면..."
+msgstr "가망이 없어. 일리아흐-말랄(Iliah-Malal)의 흔적을 모두 놓쳐 버렸어... 피신처를 찾지 못하면 난 얼어 죽고 말 거야. 혹시 저 북쪽의 숲이라면..."
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:113
 msgid "Find Delfador shelter before he freezes to death"
-msgstr "델파도르(Delfador)가 얼어죽기 전에 안가를 찾아줄 것"
+msgstr "델파도르(Delfador)가 얼어 죽기 전에 피신처를 찾아라"
 
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:158
 msgid "What are you doing in our forests, stranger?"
-msgstr "우리의 숲에서 무얼 하는거지, 이방인?"
+msgstr "우리 숲에서 무얼 하는 거지, 이방인?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:162
 msgid ""
 "It’s a long story... but I wonder whether I might first ask for your "
 "hospitality? I’m lost, and freezing to death here!"
-msgstr "말하자면 길어집니다... 하지만 그보다 먼저 여러분의 환대를 기대할 순 없겠습니까? 난 길을 잃었고, 여기서 얼어죽기 직전입니다!"
+msgstr "말하자면 길어집니다... 하지만 그보다 먼저 여러분의 환대를 기대할 순 없겠습니까? 저는 길을 잃었고, 여기서 얼어 죽기 직전입니다!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:166
@@ -2116,7 +2116,7 @@ msgid ""
 "I suppose there can be little harm in one half-frozen human... Our nearest "
 "post is to the northeast; I’ll lead you there. But we must not tarry! There "
 "are deadlier foes than the weather abroad."
-msgstr "반쯤 얼어붙은 인간이 그리 위협이 되진 않을 것 같군... 우리 가까운 초소가 북동쪽에 있소. 그쪽으로 데려가 주지. 하지만 우린 지체할 수가 없소! 날씨보다 더 지독한 적이 밖에 있으니까."
+msgstr "반쯤 얼어붙은 인간이 그리 위협이 되진 않을 것 같군... 가장 가까운 초소가 북동쪽에 있소. 그쪽으로 데려가 주지. 하지만 우린 지체할 수가 없소! 바깥에는 날씨보다 더 지독한 적이 있으니까."
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:205
@@ -2142,7 +2142,7 @@ msgid ""
 "adversity and visited a place from where few hope to return, from where none "
 "before have returned unchanged. Fate is heavy upon you, and you deserve our "
 "help."
-msgstr "네. 나는 샨탈(Chantal)이라고 하고, 많은 걸 알고 있지요. 당신이 남쪽에 있는 거대한 인간의 왕국에서 왔고 마법의 대가잖아요. 당신은 강대한 적수를 만났으며, 한 번 가면 다시 돌아오기 힘든 곳이며 돌아온 자들조차도 모두 변해버렸던 그런 장소에 다녀왔다는 것도 알고 있어요. 운명이 당신에게 무겁게 얹혀 있고, 당신은 우리의 도움을 받을 자격이 있지요."
+msgstr "네. 나는 샨탈(Chantal)이라고 해요. 많은 것을 알고 있지요. 그대가 남쪽의 거대한 인간 왕국에서 왔고 마법의 대가라는 것도 알고 있어요. 그대는 큰 역경을 겪었고, 가면 돌아오기를 바라는 이가 드문 곳, 돌아온 이들도 예전과 같을 수 없었던 곳을 다녀왔지요. 운명이 그대를 무겁게 짓누르고 있어요. 그러니 그대는 우리의 도움을 받을 자격이 있지요."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:218
@@ -2166,7 +2166,7 @@ msgid ""
 "is he who fears death above all things who deceives the spirits into "
 "believing they can live again, and blinds them to the peace and rest of "
 "their own domain."
-msgstr "당신은 실패한 것이 아니에요. 남부는 아직 오크 군대에게 함락되지 않았고, 당신은 어떤 산 사람보다도 언데드에 대해 많이 알게 되지 않았나요? 영혼들이 다시 살아날 수 있다고 속이고, 자신들의 영역에서 평화와 안식을 누리지 못하도록 눈멀게 하는 자는 무엇보다도 죽음을 두려워하는 사람이지요."
+msgstr "그대는 실패한 것이 아니에요. 남부는 아직 오크 군대에게 함락되지 않았고, 그대는 어떤 산 사람보다도 언데드에 대해 많이 알게 되지 않았나요? 영혼들을 속여 다시 살아날 수 있다고 믿게 만들고, 자기 영역에서 평화와 안식을 누리지 못하게 눈멀게 하는 자야말로 무엇보다 죽음을 두려워하는 사람이지요."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:226
@@ -2192,7 +2192,7 @@ msgid ""
 "the winter cold within these woods. To the south and west of here lies a "
 "wasteland inhabited only by barbarians and orcs. To the south again, the "
 "Great River, and your home. Of your friends, I know nothing."
-msgstr "당신은 북방 엘프들의 땅 린타니르(Lintanir) 숲에 있어요. 우리의 술법이 이 숲에서 겨울의 추위를 몰아내고 있지요. 여기서 남서쪽으로는 야만인들과 오크들이 사는 황무지가 있습니다. 거기서 남쪽으로 가면 위대한 강과 당신의 고향이 나오지요. 하지만 나는 당신의 친구들에 대해서는 잘 모르겠군요."
+msgstr "그대는 북방 엘프들의 땅, 린타니르(Lintanir) 숲에 있어요. 우리의 술법이 이 숲에서 겨울의 추위를 몰아내고 있지요. 여기서 남서쪽으로는 야만인들과 오크들이 사는 황무지가 있고, 더 남쪽으로 가면 위대한 강과 그대의 고향이 나오지요. 하지만 그대의 친구들에 대해서는 아무것도 모르겠군요."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:242
@@ -2200,7 +2200,7 @@ msgid ""
 "I am deeply grateful for your aid, Chantal. I see now what I must do... I "
 "have lost Iliah-Malal, but I must at least try to report back to the King or "
 "to Leollyn. I will set out for the south!"
-msgstr "당신의 도움에 정말로 감사드립니다, 샨탈(Chantal). 이제 뭘 해야 할지 알겠어요... 나는 일리아흐-말랄(Iliah-Malal)을 놓쳤지만, 최소한 왕이나 레올린(Leollyn)에게 이 사실을 보고해야만 하겠어요. 나는 남쪽으로 가야겠습니다!"
+msgstr "샨탈(Chantal), 정말 고맙습니다. 이제 뭘 해야 할지 알겠어요... 나는 일리아흐-말랄(Iliah-Malal)을 놓쳤지만, 최소한 왕이나 레올린(Leollyn)에게 이 사실을 보고해야만 하겠어요. 나는 남쪽으로 가야겠습니다!"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:251
@@ -2208,14 +2208,14 @@ msgid ""
 "It will not be easy. The orcish army lies between here and your destination. "
 "We are under attack even here, by an orcish warband encamped in the "
 "mountains to the southwest."
-msgstr "쉽지 않은 일일 거예요. 이곳과 당신의 목적지 사이에는 오크 군대가 있어요. 여기 우리조차도 남서쪽에 있는 산맥에 진을 친 오크 전투단에게 공격을 받고 있습니다."
+msgstr "쉽지 않은 일일 거예요. 이곳과 그대의 목적지 사이에는 오크 군대가 있어요. 우리조차 이곳에서 남서쪽 산맥에 진을 친 오크 전투단의 공격을 받고 있지요."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:255
 msgid ""
 "Attacked by orcs? Then I might perhaps help you to defeat them, and repay "
 "your assistance and kindness!"
-msgstr "오크들에게 공격받고 있다구요? 그럼 내가 당신의 도움과 친절에 대한 보답으로 놈들을 격퇴하는걸 도와줄 수 있을 것 같군요!"
+msgstr "오크들에게 공격받고 있다고요? 그럼 내가 그대의 도움과 친절에 보답하여 놈들을 격퇴하는 일을 도울 수 있을 것 같군요!"
 
 #. [objective]: condition=win
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:269
@@ -2243,7 +2243,7 @@ msgstr "샨탈(Chantal)의 죽음"
 msgid ""
 "Chantal! No — you can’t be dead! I have no hope of returning to Wesnoth "
 "now..."
-msgstr "샨탈(Chantal)! 안 돼 — 당신은 죽어선 안 돼! 이제 웨스노스(Wesnoth)로 돌아갈 희망이 없어져 버렸어..."
+msgstr "샨탈(Chantal)! 안 돼 — 그대는 죽어선 안 돼! 이제 웨스노스(Wesnoth)로 돌아갈 희망이 없어져 버렸어..."
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/11_Wasteland.cfg:339
@@ -2251,7 +2251,7 @@ msgid ""
 "With your help, Delfador, we have overrun the orcish warlord of this area, "
 "and our forests are secure. Secure enough that I can even join you in your "
 "journey south... at least as far as the Great River."
-msgstr "델파도르(Delfador), 당신의 도움으로 우린 이 지역에서 오크의 장군을 몰아냈고 숲을 지켜냈어요. 덕분에 남쪽으로 향하는 당신의 여정에 함께할 수 있을 것 같군요... 최소한 위대한 강까지는."
+msgstr "델파도르(Delfador), 그대의 도움으로 우리는 이 지역에서 오크 장군을 몰아냈고 숲을 지켜냈어요. 덕분에 그대의 남쪽 여정에 함께할 수 있을 것 같군요... 적어도 위대한 강까지는."
 
 #. [scenario]: id=12_Terror_at_the_Ford_of_Parthyn
 #: data/campaigns/Delfadors_Memoirs/scenarios/12_Terror_at_the_Ford_of_Parthyn.cfg:4
@@ -3187,7 +3187,7 @@ msgid ""
 "If you were human, you would be quite right to be. Strange... they are such "
 "surly children in the main, short-lived and crude and quarrelsome. And yet, "
 "even our greatest mystics do not shine so brightly as this one."
-msgstr "네가 인간이었다면 아마 그랬을지도 모르지. 기이하구나... 저들은 대체로 못된 어린아이와도 같으며, 수명도 짧고 상스러우며 다투기 좋아하지. 그런데도 이 사람은 우리중 가장 위대하고 신비로운 이도 흉내내지못할 빛을 가지고 있구나."
+msgstr "네가 인간이었다면 아마 그랬을지도 모르지. 기이하구나... 저들은 대체로 못된 어린아이와도 같으며, 수명도 짧고 상스러우며 다투기 좋아하지. 그런데도 이 사람은 우리 중 가장 위대하고 신비로운 이도 흉내 내지 못할 빛을 가지고 있구나."
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:281
@@ -3227,7 +3227,7 @@ msgstr "아무래도 즐기기엔 너무 늦게 온 것 같군."
 msgid ""
 "Well met, Delfador. Chantal has told me of you. I am Kalenz, High Lord of "
 "the Elves, and we are in your debt today."
-msgstr "잘 만났소, 델파도르(Delfador)여. 샨탈(Chantal)이 그대 얘기를 해 줬지. 나는 엘프들의 대군주인 칼렌츠(Kalenz)요. 오늘 당신에게 빚을 졌군."
+msgstr "잘 만났소, 델파도르(Delfador)여. 샨탈(Chantal)이 그대 이야기를 해 줬지. 나는 엘프들의 대군주인 칼렌츠(Kalenz)요. 오늘은 그대에게 빚을 졌군."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:374
@@ -3241,14 +3241,14 @@ msgstr "만나서 영광입니다. 샨탈(Chantal)이 무사히 동족들에게 
 msgid ""
 "I am not sure there is safety for anyone in these days, but we all travel "
 "the same road and face the same foes."
-msgstr "지금같은 시기에 안전한 이가 있을지는 모르겠지만, 우린 모두 한 배를 탄 사이입니다."
+msgstr "지금 같은 시기에 안전한 이가 있을지는 모르겠지만, 우린 모두 한 배를 탄 사이입니다."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/14_Shadows.cfg:382
 msgid ""
 "Yes. We will follow you to the Ford of Abez, Delfador. Let us hope we are "
 "not too late to prevent an orcish victory there."
-msgstr "그렇소. 우린 델파도르(Delfador) 당신을 따라 아베즈(Abez) 여울로 가겠소. 오크의 승리를 막기에 너무 늦지 않기만을 바라도록 합시다."
+msgstr "그렇소. 우린 델파도르(Delfador), 그대를 따라 아베즈(Abez) 여울로 가겠소. 오크의 승리를 막기에 너무 늦지 않기만을 바라도록 합시다."
 
 #. [scenario]: id=15_Save_the_King
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:4
@@ -3265,7 +3265,7 @@ msgstr "엘프들은 델파도르(Delfador)를 따라서 웨스노스 병력과 
 #. [part]
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:23
 msgid "but the King was in an unenviable position..."
-msgstr "하지만 국왕은 좋지않은 상황에 처해 있었다..."
+msgstr "하지만 국왕은 좋지 않은 상황에 처해 있었다..."
 
 #. [leader]: id=T'bhan, type=Orcish Warrior
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:124
@@ -3299,7 +3299,7 @@ msgstr "아무래도 제때 도착한 것 같습니다! 국왕이 적에게 포�
 msgid ""
 "I fear we may be too late. This new warlord must have united every orcish "
 "tribe north of the Great River. Look at their army, it is vast!"
-msgstr "너무 늦지 않을까 걱정이군요. 이 새로운 장군은 위대한 강 북쪽에 있는 모든 오크의 부족을 통합한게 분명합니다. 놈들의 군단은 정말로 거대하군요!"
+msgstr "너무 늦지 않을까 걱정이군요. 이 새로운 장군은 위대한 강 북쪽에 있는 모든 오크 부족을 통합한 게 분명합니다. 놈들의 군단은 정말로 거대하군요!"
 
 #. [message]: speaker=Zorlan
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:236
@@ -3380,7 +3380,7 @@ msgstr "대군주께서는 영원히 웨스노스(Wesnoth) 궁정에서 환영�
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:343
 msgid ""
 "We look forward to fighting beside you to defeat those threats that remain."
-msgstr "우리는 남아 있는 위협을 물리치기 위해 당신과 함께 싸우기를 기대하오."
+msgstr "우리는 남아 있는 위협을 물리치기 위해 그대와 함께 싸우기를 기대하오."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:347
@@ -3407,7 +3407,7 @@ msgid ""
 "Delfador, our weapons are weak against the undead, but perhaps we have other "
 "help to give you. Centuries ago, the great mage Crelanu entrusted to us a "
 "book of lore and perilous secrets that took him his entire life to gather."
-msgstr "델파도르(Delfador)여, 우리의 무기는 언데드에게 잘 먹히지 않지만, 아마도 그대에게 다른 도움을 줄 수 있을 것 같소. 수백 년 전, 대마법사 크렐라누(Crelanu)는 평생 동안 모은 지식과, 위험한 비밀이 담긴 책을 우리에게 맡겼소."
+msgstr "델파도르(Delfador)여, 우리의 무기는 언데드에게 잘 먹히지 않지만, 아마도 그대에게 다른 도움을 줄 수 있을 것 같소. 수백 년 전, 대마법사 크렐라누(Crelanu)는 평생 모은 지식과 위험한 비밀이 담긴 책을 우리에게 맡겼소."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:355
@@ -3443,7 +3443,7 @@ msgid ""
 "warned: there is a curse on this book. Crelanu fairly warned us that his "
 "arts would bring much woe down upon us. And so it proved, though at the time "
 "we had no other choice. The victories you win with it may cost you as dearly."
-msgstr "그대는 약간의 의심이 있을지도 모르지만, 샨탈(Chantal)과 나는 당신의 능력을 확신하오. 하지만 주의하시오. 이 책에는 저주가 걸려있소. 크렐라누(Crelanu)는 우리에게 그의 기술이 큰 문제를 안겨줄 것이라고 예언했소. 그리고 그건 성취되었소. 비록 우리에게 다른 선택이 없었기는 하지만. 그대의 승리는 그만큼 큰 대가를 치르게 만들 것이오."
+msgstr "그대는 약간의 의심이 있을지도 모르지만, 샨탈(Chantal)과 나는 그대의 능력을 확신하오. 하지만 주의하시오. 이 책에는 저주가 걸려 있소. 크렐라누(Crelanu)는 우리에게 그의 기술이 큰 문제를 안겨줄 것이라고 경고했소. 그리고 그 말은 현실이 되었소. 그때 우리에게 다른 선택이 없었기는 하지만 말이오. 그대가 이 책으로 얻는 승리도 그만큼 큰 대가를 치르게 할 수 있소."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:367
@@ -3458,21 +3458,21 @@ msgid ""
 "This is a decision you will have to make. If we fight the undead without the "
 "book’s help, it will be an honor to fight by your side, no matter what the "
 "outcome."
-msgstr "이것은 당신이 결정해야 할 문제이라오. 책의 도움 없이 언데드와 싸운다면, 결과가 어떻든 당신과 함께 싸우는 것은 영광일 것이오."
+msgstr "이것은 그대가 결정해야 할 문제라오. 책의 도움 없이 언데드와 싸운다면, 결과가 어떻든 그대와 함께 싸우는 것은 영광일 것이오."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:375
 msgid ""
 "I think I, too, have no choice but to accept the book. I cannot allow the "
 "sure death of many humans and elves for fear of the curse."
-msgstr "아무래도 저 또한 그 책을 받아들일 수밖에 없을 것 같군요. 저주를 두려워하여 수많은 인간과 엘프들이 죽게될 운명을 받아들일 순 없으니까요."
+msgstr "아무래도 저 또한 그 책을 받아들일 수밖에 없을 것 같군요. 저주를 두려워하여 수많은 인간과 엘프들이 죽게 될 운명을 받아들일 순 없으니까요."
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:379
 msgid ""
 "Then here it is, Delfador. May it help you bring a swift end to the undead "
 "menace. And may it cost you less than it has cost us..."
-msgstr "그럼 이것이 그 책입니다, 델파도르(Delfador). 이것이 언데드의 위협을 끝내는 데 도움을 줄 겁니다. 아마 이것이 당신에게도 우리가 치른 것만큼이나 큰 대가를 요구하겠죠..."
+msgstr "그럼 이것이 그 책입니다, 델파도르(Delfador). 이것이 언데드의 위협을 끝내는 데 도움을 줄 겁니다. 아마 이것이 그대에게도 우리가 치른 것만큼이나 큰 대가를 요구하겠죠..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Delfadors_Memoirs/scenarios/15_Save_the_King.cfg:383

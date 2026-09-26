@@ -34,3 +34,12 @@
 - `msgfmt --check --check-format`: passed for `wesnoth-trow-ko.po`
 - `python3 tools/audit_po_structure.py`: passed with zero mismatches
 - `python3 tools/audit_glossary.py --glossary work/1.18.x/glossary.tsv --work-ko work/1.18.x/ko`: passed with zero errors and warnings
+
+## Long-dialogue follow-up
+
+- Corrected unambiguous spacing and grammar in active dialogue and narrative:
+  `나빠지는 것`, `중부 지방`, `있을 텐데요`, `얼마 전`, `지하 묘지`,
+  `한 명`, `싸우는 데`, `안 돼`, `둔 채로`, `넣어 놔야`, `한 권`,
+  and `옳은 것`.
+- Preserved the campaign's established proper-name pairings and character
+  voices; no uncertain lore or dialect wording was normalized.

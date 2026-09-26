@@ -253,7 +253,7 @@ msgid ""
 "orcish menace grows in the north and they will soon return in even greater "
 "force. You cannot hope to defend against them without my... help. For now, I "
 "ask only to refresh myself in your town.”</i>"
-msgstr "고요한 침묵은 숲에서 나타난 남자의 불규칙한 발걸음 소리에 깨졌다. 그는 그들 앞에 섰다. 구부정한 모습에 뼈가 부딪히는 듯한 거친 목소리를 가진 남자였다. <i>“나는 다켄 볼크(Darken Volk)입니다. 당신들이 내 종족을 좋아하지 않는다는 것을 알지만, 우리는 차이를 접어두는 것이 중요하다고 생각합니다. 북쪽에서 오크의 위협이 커지고 있으며, 그들은 곧 훨씬 더 큰 규모로 돌아올 것입니다. 당신들은 나의... 도움 없이는 그들을 막을 수 없을 것입니다. 지금은 당신들의 마을에서 휴식을 취하는 것만을 요청합니다.”</i>"
+msgstr "고요한 침묵은 숲에서 나타난 남자의 불규칙한 발걸음 소리에 깨졌다. 그는 그들 앞에 섰다. 구부정한 모습에 뼈가 부딪히는 듯한 거친 목소리를 가진 남자였다. <i>“나는 다켄 볼크(Darken Volk)입니다. 자네들이 내 종족을 좋아하지 않는다는 것은 알지만, 우리는 차이를 접어두는 것이 중요하다고 생각합니다. 북쪽에서 오크의 위협이 커지고 있으며, 그들은 곧 훨씬 더 큰 규모로 돌아올 것입니다. 자네들은 나의... 도움 없이는 그들을 막을 수 없을 것입니다. 지금은 자네들의 마을에서 쉬게 해 주기만을 바랍니다.”</i>"
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:62
@@ -588,7 +588,7 @@ msgstr "델라(Dela), 이번에는 그를 지지할 수 없다."
 msgid ""
 "I... guess you’re right. You’ve decided your magic is more important than "
 "us, Malin. I can’t help you."
-msgstr "나... 네 말이 맞는 것 같아. 너는 네 마법이 우리보다 더 중요하다고 결정했어, 말린(Malin). 나는 널 도울 수 없어."
+msgstr "나... 네 말이 맞는 것 같아. 넌 네 마법이 우리보다 더 중요하다고 판단했어, 말린(Malin). 나는 널 도울 수 없어."
 
 #. [message]: speaker=Drogan
 #: data/campaigns/Descent_Into_Darkness/scenarios/01_Saving_Parthyn.cfg:579
@@ -771,7 +771,7 @@ msgid ""
 "Parthyn to welcome you back. But for now, I must train you. The orcs are "
 "powerful in the hills, strong enough that even I dare not confront them "
 "directly."
-msgstr "그래, 오크의 습격 위협을 제거하면 파르틴(Parthyn) 사람들이 자네를 다시 환영하도록 설득할 수 있을지도 모르지. 하지만 지금은 자네를 훈련시켜야 하네. 오크들은 언덕에서 강력하며, 나조차도 직접 맞설 엄두를 내지 못할 정도로 강하네."
+msgstr "그래, 오크의 습격 위협을 제거하면 파르틴(Parthyn) 사람들이 자네를 다시 환영하도록 설득할 수 있을지도 모르지. 하지만 지금은 자네를 훈련시켜야 하네. 언덕에서는 오크들이 강하고, 나조차 직접 맞설 엄두를 내지 못할 정도로 위협적이네."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/02_Peaceful_Valley.cfg:147
@@ -1365,7 +1365,7 @@ msgstr "아직 준비되지 않았습니다."
 msgid ""
 "You have done well so far to master the reanimation of skeletons. Now, I "
 "shall teach you to control spirits. Are you ready?"
-msgstr "지금까지 해골을 되살리는 것을 숙달하는 데 잘 해냈습니다. 이제 영혼을 제어하는 법을 가르쳐 드리겠습니다. 준비되었습니까?"
+msgstr "지금까지 해골을 되살리는 법을 잘 익혔네. 이제 영혼을 제어하는 법을 가르쳐 주지. 준비됐나?"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/03_A_Haunting_in_Winter.cfg:1581
@@ -1904,7 +1904,7 @@ msgid ""
 "a small favor I will ask of you. It will constitute the last part of your... "
 "training. I have some other things that I must attend to in preparation. In "
 "a few weeks, meet with me to the west, near the town of Tath."
-msgstr "당신의 견습 기간은 거의 끝났습니다. 당신은 혼자서 반쯤 죽은 오크 한 명 정도는 충분히 처리할 수 있습니다. 그를 처리한 후 당신에게 부탁할 작은 호의가 있습니다. 그것은 당신의... 훈련의 마지막 부분이 될 것입니다. 준비해야 할 다른 일들이 있습니다. 몇 주 안에 서쪽 타스 마을 근처에서 저를 만나십시오."
+msgstr "자네의 견습 기간은 거의 끝났네. 자네라면 혼자서 반쯤 죽은 오크 한 명 정도는 충분히 처리할 수 있지. 그를 처리한 뒤 자네에게 부탁할 작은 호의가 있네. 그것이 자네 훈련의 마지막 부분이 될 걸세. 준비해야 할 다른 일이 있으니, 몇 주 안에 서쪽 타스 마을 근처에서 나를 만나게."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/05_Schism.cfg:400
@@ -1983,7 +1983,7 @@ msgid ""
 "banishment seriously, so I’ll tell ya one last time — no matter why you’ve "
 "come back, we’re not welcomin’ ya here. Take one step closer to Parthyn and "
 "I’ll order tha guards to attack ya."
-msgstr "말린(Malin), 다시는 널 보지 않기를 바랐다. 네가 너의 추방을 심각하게 생각하지 않는 게 분명하니 마지막으로 한 번 더 말해주겠다. 네가 무슨 이유로 돌아왔든 우리는 널 환영하지 않는다. 파르틴(Parthyn)에 한 발짝이라도 더 다가서면 경비병들에게 공격 명령을 내리겠다."
+msgstr "말린(Malin), 다시는 널 보지 않기를 바랐다. 네가 추방을 심각하게 받아들이지 않는 게 분명하니 마지막으로 한 번 더 말해 주겠다. 네가 무슨 이유로 돌아왔든 우리는 널 환영하지 않는다. 파르틴(Parthyn)에 한 발짝이라도 더 다가서면 경비병들에게 공격 명령을 내리겠다."
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:256
@@ -2248,7 +2248,7 @@ msgstr "네 배신자 같은 행동이 너에게 무엇을 가져다주었는지
 msgid ""
 "Drogan, no! Malin, you monster, how could ya just murder Drogan in cold "
 "blood?"
-msgstr "드로간(Drogan), 안 돼! 말린(Malin), 이 괴물아, 어떻게 드로간(Drogan)을 냉혈하게 살해할 수 있어?"
+msgstr "드로간(Drogan), 안 돼! 말린(Malin), 이 괴물아, 어떻게 드로간(Drogan)을 그토록 냉혹하게 살해할 수 있어?"
 
 #. [message]: speaker=Malin Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/06_Return_to_Parthyn.cfg:741
@@ -3538,7 +3538,7 @@ msgid ""
 "Still, the words, that terrifying idea, stick in the back of his mind. Life "
 "has offered him nothing; could death be any worse? Death... and not rebirth, "
 "but undeath."
-msgstr "말린(Malin)은 책을 덮는다. 이 모든 시간과 그가 싸워온 모든 것 후에, 그는 절망에 굴복하고 죽을 수 있을까? 그는 단순히 포기하는 사람이 아니었지만, 그가 싸울 것이 남아 있을까? 여전히 그 단어들, 그 무서운 생각이 그의 마음속에 박혀 있다. 삶은 그에게 아무것도 제공하지 않았다. 죽음이 더 나쁠 수 있을까? 죽음... 그리고 환생이 아닌, 불멸."
+msgstr "말린(Malin)은 책을 덮는다. 이 모든 시간을 보내고 지금껏 싸워 온 모든 일을 겪은 뒤에도, 그는 절망에 굴복해 죽을 수 있을까? 그는 쉽게 포기하는 사람이 아니었지만, 이제 그에게 싸울 것이 남아 있을까? 여전히 그 말과 무서운 생각이 그의 마음속에 박혀 있다. 삶은 그에게 아무것도 주지 않았다. 죽음이 더 나쁠 수 있을까? 죽음... 그리고 환생이 아닌, 불멸."
 
 #. [part]
 #: data/campaigns/Descent_Into_Darkness/scenarios/09_Descent_into_Darkness.cfg:45
