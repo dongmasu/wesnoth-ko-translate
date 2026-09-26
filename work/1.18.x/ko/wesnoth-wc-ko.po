@@ -102,7 +102,7 @@ msgstr "동맹"
 #. [world_conquest_data]
 #: data/campaigns/World_Conquest/era/factions/The_Alliance.cfg:16
 msgid "Young Ogre, Undead and Northerners"
-msgstr "어린 오우거(Ogre), 언데드, 노던너"
+msgstr "어린 오우거(Ogre), 언데드, 북부인들"
 
 #. [multiplayer_side]: id=The_Artisans, type=random
 #: data/campaigns/World_Conquest/era/factions/The_Artisans.cfg:8
@@ -117,7 +117,7 @@ msgstr "이교도"
 #. [world_conquest_data]
 #: data/campaigns/World_Conquest/era/factions/The_Cult.cfg:16
 msgid "Young Ogre, Drakes and Northerners"
-msgstr "어린 오우거(Ogre), 반룡들, 노던너"
+msgstr "어린 오우거(Ogre), 반룡들, 북부인들"
 
 #. [multiplayer_side]: id=The_Defiance, type=random
 #: data/campaigns/World_Conquest/era/factions/The_Defiance.cfg:8
@@ -147,7 +147,7 @@ msgstr "길드"
 #. [world_conquest_data]
 #: data/campaigns/World_Conquest/era/factions/The_Guild.cfg:16
 msgid "Dune Soldier, Loyalists and Drakes"
-msgstr "사막 병사, 충성파, 반룡"
+msgstr "사막 병사, 충성파, 반룡들"
 
 #. [multiplayer_side]: id=The Hand, type=random
 #: data/campaigns/World_Conquest/era/factions/The_Hand.cfg:6
@@ -157,7 +157,7 @@ msgstr "손"
 #. [world_conquest_data]
 #: data/campaigns/World_Conquest/era/factions/The_Hand.cfg:17
 msgid "Dune Rider, Knalgan Alliance and Drakes"
-msgstr "사막 기수, 크날간 동맹, 드레이크"
+msgstr "사막 기수, 크날간 동맹, 반룡들"
 
 #. [multiplayer_side]: id=The Horde, type=random
 #: data/campaigns/World_Conquest/era/factions/The_Horde.cfg:6
@@ -1293,7 +1293,7 @@ msgstr "WC2 투자"
 msgid ""
 "Commanders will take your leader’s place when the leader dies, possible "
 "commanders:"
-msgstr "사령관은 대장이 죽으면 대장의 자리를 대신합니다, 가능한 사령관들:"
+msgstr "대장이 죽으면 사령관이 대장의 자리를 대신합니다. 가능한 사령관:"
 
 #. [lua]: gui.widget.add_invest_item
 #: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest_show_dialog.lua:84
@@ -1345,7 +1345,7 @@ msgstr "물자 비축"
 #. [lua]: gui.widget.add_invest_item
 #: data/campaigns/World_Conquest/lua/game_mechanics/invest/invest_show_dialog.lua:153
 msgid "Gives 70 gold and places a village on your keep."
-msgstr "70 금화와 당신의 성에 마을을 추가합니다."
+msgstr "금화 70개를 주고 당신의 거점에 마을을 추가합니다."
 
 #: data/campaigns/World_Conquest/lua/game_mechanics/promote_commander.lua:5
 msgid "No! This is the end!"
@@ -1708,7 +1708,7 @@ msgstr "내 부족은 오래 전에 멸망했어. 이제 나는 혼자서 살아
 #. an Orcish Assassin joins a player's side
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:28
 msgid "Hey boss. Looks like you’ve got some prey that need killing."
-msgstr "이봐, 보스. 당신에게 처치해야 할 먹이가 있네요."
+msgstr "이봐, 보스. 보스에게 처치해야 할 먹이가 있네요."
 
 #. a Wolf Rider joins a player's side
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:34
@@ -1778,14 +1778,14 @@ msgstr "흐음! 환영합니다, 나무의 친구들. 우리는 적들을 먼지
 msgid ""
 "Greetings, friends. I am a lone hunter and have no legions of warriors to "
 "offer you, but I will gladly lend my arms to your cause."
-msgstr "안녕하세요, 친구들. 나는 외로운 사냥꾼이고 당신에게 전사 군단을 제공할 수는 없지만, 기꺼이 내 팔을 당신의 대의에 바치겠습니다."
+msgstr "안녕하세요, 친구들. 나는 외로운 사냥꾼이고 자네들에게 전사 군단을 제공할 수는 없지만, 기꺼이 내 팔을 자네들의 대의에 바치겠습니다."
 
 #. a Mermaid Initiate joins a player's side
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:107
 msgid ""
 "You have come a long way over the ocean, yet I see that you know little of "
 "her ways. Let me show you."
-msgstr "당신은 바다를 건너 멀리 왔지만, 나는 당신이 그녀의 방식에 대해 잘 모르고 있다는 것을 봅니다. 내가 보여 주겠습니다."
+msgstr "자네는 바다를 건너 멀리 왔지만, 나는 자네가 그녀의 방식에 대해 잘 모르고 있다는 것을 봅니다. 내가 보여 드리겠습니다."
 
 #. a Cavalryman joins a player's side
 #. a Sergeant joins a player's side
@@ -1794,7 +1794,7 @@ msgstr "당신은 바다를 건너 멀리 왔지만, 나는 당신이 그녀의 
 msgid ""
 "You’re not from around here, but I seem to find myself between employers at "
 "the moment and I’m not picky. I’ll fight for you, if you’ll have me."
-msgstr "당신은 여기 사람은 아니지만, 지금은 고용주가 없어서 나는 까다롭지 않아요. 저를 받아주신다면, 제가 당신을 위해 싸울게요."
+msgstr "자네는 여기 사람은 아니지만, 지금은 고용주가 없어서 나는 까다롭지 않아요. 저를 받아 주신다면, 제가 자네를 위해 싸울게요."
 
 #. speaker is female, just after a Cavalryman or Horseman joins their side
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:123
@@ -1817,7 +1817,7 @@ msgstr "으쌰! 이제 이건 놓칠 수 없는 전투네요. 나를 위해서 �
 msgid ""
 "Ho there, friends! I am but a soldier of humble circumstances, yet long have "
 "I dreamed of joining great wars beyond our shores. Let me join your mission!"
-msgstr "이봐, 친구들! 나는 겸손한 처지의 군인일 뿐이지만, 오랫동안 우리 땅을 넘어 큰 전쟁에 참여하고 싶었어요. 제발 제게 당신의 임무에 참여할 기회를 주세요!"
+msgstr "이봐, 친구들! 나는 겸손한 처지의 군인일 뿐이지만, 오랫동안 우리 땅을 넘어 큰 전쟁에 참여하고 싶었어요. 제발 제게 자네들의 임무에 참여할 기회를 주세요!"
 
 #. a Fencer joins a player's side
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:144
@@ -1838,7 +1838,7 @@ msgstr "드디어 지원군이 왔어요! 며칠 동안 갇혀 있었죠. 저를
 msgid ""
 "Greetings, my lords. I have watched your battle from afar and yearn to join "
 "such a glorious campaign. I pledge myself to your service!"
-msgstr "안녕하세요, 제 위인들. 멀리서 당신의 전투를 지켜보았고, 이렇게 영광스러운 캠페인에 참여하고 싶습니다. 제 자신을 당신의 서비스에 바칩니다!"
+msgstr "안녕하세요, 제 위인들. 멀리서 자네들의 전투를 지켜보았고, 이렇게 영광스러운 캠페인에 참여하고 싶습니다. 제 자신을 자네들의 부대에 바칩니다!"
 
 #. a Mage joins a player's side
 #. a Dune Herbalist joins a player's side
@@ -1847,7 +1847,7 @@ msgstr "안녕하세요, 제 위인들. 멀리서 당신의 전투를 지켜보�
 msgid ""
 "Long have I studied the ways of lore, and I have much wisdom to offer. Allow "
 "me to guide you on your quest and together we will accomplish great things!"
-msgstr "오랫동안 지식의 길을 공부해왔고, 많은 지혜를 드릴 수 있습니다. 저에게 당신의 퀘스트를 안내하게 해주시면, 함께 큰 일을 이룰 수 있을 것입니다!"
+msgstr "오랫동안 지식의 길을 공부해 왔고, 많은 지혜를 드릴 수 있습니다. 자네들의 여정을 안내하게 해 주시면, 함께 큰 일을 이룰 수 있을 것입니다!"
 
 #. a Merman Fighter joins a player's side
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:174
@@ -1855,7 +1855,7 @@ msgid ""
 "I bring greetings from the merfolk. We have heard your plight, and though we "
 "have few warriors to spare among us, I would gladly lend my trident to your "
 "cause."
-msgstr "저는 머미족의 인사를 전합니다. 우리는 당신의 곤경을 들었습니다. 우리 중 전사는 많지 않지만, 기꺼이 제 삼지창을 당신의 대의에 바치겠습니다."
+msgstr "저는 머미족의 인사를 전합니다. 우리는 자네들의 곤경을 들었습니다. 우리 중 전사는 많지 않지만, 기꺼이 제 삼지창을 자네들의 대의에 바치겠습니다."
 
 #. a Dwarvish Fighter joins a player's side
 #. a Dwarvish Scout joins a player's side
@@ -1893,7 +1893,7 @@ msgstr "뭐, 내가 도와줄까? 나 같은 사람이? 하, 참 기가 막히�
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:446
 msgid ""
 "A soldier is no good without something to fight for. Let me fight for you!"
-msgstr "군인은 싸울 이유가 없으면 소용없어요. 제가 당신을 위해 싸울게요!"
+msgstr "군인은 싸울 이유가 없으면 소용없어요. 제가 자네를 위해 싸울게요!"
 
 #. a Footpad joins a player's side. The first half is "please don’t attack me", the second is "you seem to be in a difficult situation too, I’m good at talking or fighting my way out".
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:214
@@ -1901,7 +1901,7 @@ msgid ""
 "Hey, hey, easy there! I done nothin’ to hurt you. We’re all friends here, "
 "right? Looks like you might be in a tight spot, but don’t worry. No one’s "
 "better at getting out of tight spots than me, boss!"
-msgstr "이봐, 이봐, 진정해! 난 당신을 해치지 않았어. 우리는 모두 친구잖아, 그렇지? 네가 어려운 상황에 처한 것 같아 보이지만 걱정 마. 난 어떤 어려운 상황도 헤쳐 나갈 수 있는 사람이라구, 보스!"
+msgstr "이봐, 이봐, 진정해! 난 자네를 해치지 않았어. 우리는 모두 친구잖아, 그렇지? 자네가 어려운 상황에 처한 것 같아 보이지만 걱정 마. 난 어떤 어려운 상황도 헤쳐 나갈 수 있는 사람이라구, 보스!"
 
 #. an Ulfserker joins a player's side
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:220
@@ -1959,7 +1959,7 @@ msgstr "완벽하다. 우리는 항상 더 많은 화력을 필요로 하니까.
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:275
 msgid ""
 "You no fight good enough, no have saurian way. I show you way of saurian!"
-msgstr "너는 충분히 잘 싸우지 못해, 사우리언의 방식이 없어. 내가 사우리언의 길을 보여줄게!"
+msgstr "너는 충분히 잘 싸우지 못해, 사우리안의 방식이 없어. 내가 사우리안의 길을 보여줄게!"
 
 #. the speaker is another saurian, after a Saurian Augur joins their side
 #: data/campaigns/World_Conquest/lua/game_mechanics/unittypedata.lua:281
@@ -2102,7 +2102,7 @@ msgid ""
 "not directly related to the carryover amount.\n"
 "\n"
 msgstr ""
-"이월 비율은 15%이며, 플레이어 간에 고르게 나뉩니다. 음수는 이월되지 않습니다. 일찍 끝내면 보너스가 마을 제어보다 우수하지만, 이월 금액과는 직접적인 관련이 없습니다.\n"
+"이월 비율은 15%이며 플레이어 간에 고르게 나뉩니다. 음수는 이월되지 않습니다. 조기 종료 보너스는 마을 지배보다 크지만, 이월 금액과 직접적인 관련은 없습니다.\n"
 "\n"
 
 #. [lua]: preshow
@@ -2118,7 +2118,7 @@ msgid ""
 "scenario with no cost (up to castle size).\n"
 "\n"
 msgstr ""
-"<b>영웅적인</b> 특성을 가진 유닛은 각 시나리오 시작 시 비용 없이 회수됩니다 (성 크기까지).\n"
+"<b>영웅적인</b> 특성을 가진 유닛은 각 시나리오 시작 시 비용 없이 소환됩니다 (성 크기까지).\n"
 "\n"
 
 #. [lua]: preshow
@@ -2133,7 +2133,7 @@ msgid ""
 "Units costing less than 17 gold are cheaper to recall.\n"
 "\n"
 msgstr ""
-"17 금보다 적은 비용의 유닛은 회수 비용이 저렴합니다.\n"
+"금화 17개 미만인 유닛은 소환 비용이 더 저렴합니다.\n"
 "\n"
 
 #. [lua]: preshow
@@ -2184,7 +2184,7 @@ msgid ""
 "units and either contain artifacts, loyal units, or training.\n"
 "\n"
 msgstr ""
-"각 시나리오에서 게임은 맵에 있는 보너스 포인트 수만큼 보너스 포인트를 생성합니다. 보너스 포인트는 플레이어 유닛이 주워서 유물, 충성스러운 유닛 또는 훈련을 포함할 수 있습니다.\n"
+"각 시나리오에서 게임은 플레이어 수만큼 보너스 포인트를 맵에 생성합니다. 보너스 포인트는 플레이어 유닛이 주울 수 있으며, 유물·충성스러운 유닛·훈련 중 하나를 포함합니다.\n"
 "\n"
 
 #. [lua]: preshow
@@ -2216,7 +2216,7 @@ msgstr "훈련은 새로 모집된 유닛을 향상시키며, 이미 모집된 �
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:43
 msgid "Items"
-msgstr "아이템들"
+msgstr "아이템"
 
 #. [lua]: preshow
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:43
@@ -2242,7 +2242,7 @@ msgid ""
 "to recruit a different unit before you can recruit the units that you want. "
 "The available heroes, deserters, and random leaders also depend on your "
 "factions; the items you can get do not depend on the faction you choose."
-msgstr "세계 정복 시대는 주류 파벌을 짝지어 구성된 당파들로 이루어져 있습니다. 하나의 당파는 치료자를 보유하고 있고(드레이크, 듄포크, 반란군, 충성파) 다른 하나는 그렇지 않습니다(오크들, 난쟁이들, 언데드). 모집 목록은 짝으로 구성되어 있어 원하는 유닛을 모집하기 전에 다른 유닛을 먼저 모집해야 할 수도 있습니다. 이용 가능한 영웅, 탈영병, 랜덤 대장은 당신의 당파에 따라 다르며, 얻을 수 있는 아이템은 선택한 당파와 관계없습니다."
+msgstr "세계 정복 시대는 주류 진영을 짝지어 만든 진영들로 구성됩니다. 한쪽 진영은 치료사를 이용할 수 있고(반룡들, 듄포크, 저항군, 충성파), 다른 쪽 진영은 그렇지 않습니다(오크들, 드워프들, 언데드). 모집 목록도 짝으로 구성되어 있어, 원(One)하는 유닛을 모집하려면 먼저 다른 유닛을 모집해야 할 수도 있습니다. 이용 가능한 영웅, 탈영병, 무작위 대장은 선택한 진영에 따라 달라지지만, 얻을 수 있는 아이템은 선택한 진영과 관계없습니다."
 
 #. [lua]: type_icon
 #: data/campaigns/World_Conquest/lua/game_mechanics/wocopedia/help.lua:169
@@ -2762,7 +2762,7 @@ msgstr "근접: 화염, +25% 피해, +30 화염 저항"
 msgid ""
 "This magic orb infuses the wielder’s melee attacks with fiery power, "
 "changing their damage type. It also improves fire resistance."
-msgstr "이 마법 구슬은 사용자의 근접 공격에 불사의 힘을 주입하여 피해 유형을 변경합니다. 또한 화염 저항을 향상시킵니다."
+msgstr "이 마법 구슬은 사용자의 근접 공격에 불의 힘을 주입하여 피해 유형을 변경합니다. 또한 화염 저항을 향상시킵니다."
 
 #. [artifact]
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:310
@@ -2772,7 +2772,7 @@ msgstr "전령 갑옷"
 #. [artifact]
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:312
 msgid "illuminates, lawful, heals +4, firststrike"
-msgstr "조명, 법적, 치유 +4, 선제공격"
+msgstr "조명, 법적, 회복 +4, 선제공격"
 
 #. [artifact]
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:313
@@ -2780,7 +2780,7 @@ msgid ""
 "This holy armor of thin gold radiates pure light, illuminating the bearer’s "
 "body and soul. This effect will heal allies, blind evil, and preemptively "
 "smite those who seek to do harm."
-msgstr "이 얇은 금으로 된 성스러운 갑옷은 순수한 빛을 발산하여 착용자의 몸과 영혼을 비춥니다. 이 효과는 동맹을 치유하고, 악을 눈멀게 하며, 해를 끼치려는 자들을 선제적으로 처벌합니다."
+msgstr "이 얇은 금으로 된 성스러운 갑옷은 순수한 빛을 발산하여 착용자의 몸과 영혼을 비춥니다. 이 효과는 아군을 회복시키고 악을 눈멀게 하며, 해를 끼치려는 자들을 선제적으로 응징합니다."
 
 #. [artifact]
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:348
@@ -2830,14 +2830,14 @@ msgstr "약초"
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:420
 #: data/campaigns/World_Conquest/resources/strings/mainline.cfg:5
 msgid "heals +8, cures"
-msgstr "회복 +8, 해독"
+msgstr "회복 +8, 치료"
 
 #. [artifact]
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:421
 msgid ""
 "These potent herbs give the bearer the ability to heal adjacent units and "
 "cure their poison."
-msgstr "이 강력한 약초는 소지자에게 인접 유닛을 치유하고 독을 해독할 수 있는 능력을 부여합니다."
+msgstr "이 강력한 약초는 소지자에게 인접 유닛을 회복시키고 독을 치료할 수 있는 능력을 부여합니다."
 
 #. [artifact]
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:439
@@ -2913,7 +2913,7 @@ msgstr "이 반지를 착용하면 비전 및 원소 공격의 피해가 증가�
 #. [artifact]
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:526
 msgid "Root of the Elder Wose"
-msgstr "늙은 보스의 뿌리"
+msgstr "늙은 워즈(Wose)의 뿌리"
 
 #. [artifact]
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:528
@@ -2924,7 +2924,7 @@ msgstr "충격: +1 타격 및 +2 피해"
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:529
 msgid ""
 " Dwarven forged, this blunt weapon mimics the crushing power of the wose."
-msgstr "드워프에서 제작된 이 둔기는 보스의 압도적인 힘을 모방한 것이다."
+msgstr "드워프가 제작한 이 둔기는 워즈(Wose)의 압도적인 힘을 모방한 것이다."
 
 #. [artifact]
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:543
@@ -3154,7 +3154,7 @@ msgstr "날개 달린 홀"
 msgid ""
 "Full movement and up to 50% defense in all terrains but cave or mushroom "
 "grove."
-msgstr "이 홀은 모든 지형에서 50%의 방어력과 전면 이동 능력을 제공합니다. 동굴과 버섯 숲을 제외한 모든 지형에서 적용됩니다."
+msgstr "동굴과 버섯 숲을 제외한 모든 지형에서 완전 이동과 최대 50%의 방어력을 제공합니다."
 
 #. [artifact]
 #: data/campaigns/World_Conquest/resources/data/artifacts.cfg:801
@@ -3340,7 +3340,7 @@ msgstr "이 유닛은 방어할 때 취약성이 절반으로 줄어듭니다."
 #. [chance]
 #: data/campaigns/World_Conquest/resources/data/training.cfg:468
 msgid "heals +4, cures"
-msgstr "치유 +4, 치료"
+msgstr "회복 +4, 치료"
 
 #. [chance]
 #: data/campaigns/World_Conquest/resources/data/training.cfg:544
@@ -3386,7 +3386,7 @@ msgstr "마을/성: 방어력 +5"
 #: data/campaigns/World_Conquest/resources/data/training.cfg:677
 msgid ""
 "$terrain|: +$def| defense and full movement, +$res| resistance vs $dmg_type|"
-msgstr "$terrain|: +$def| 방어력과 전면 이동, +$res| 저항력 vs $dmg_type"
+msgstr "$terrain|: +$def| 방어력과 완전 이동, +$res| 저항력 vs $dmg_type"
 
 #. [chance]
 #: data/campaigns/World_Conquest/resources/data/training.cfg:706
@@ -3401,12 +3401,12 @@ msgstr "+이동 방어력"
 #. [chance]
 #: data/campaigns/World_Conquest/resources/data/training.cfg:727
 msgid "melee: optional charge"
-msgstr "근거리: 선택적 돌격"
+msgstr "근접: 선택적 돌격"
 
 #. [chance]
 #: data/campaigns/World_Conquest/resources/data/training.cfg:752
 msgid "$range|: arcane and +25% damage"
-msgstr "$range|: 아케인 및 +25% 피해"
+msgstr "$range|: 비전 및 +25% 피해"
 
 #: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:5
 msgid "World Conquest 1p"

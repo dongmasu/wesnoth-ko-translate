@@ -39,7 +39,7 @@ TRANSLATIONS = {
     "Like I haven’t killed enough undead recently. Why can’t these creeps just stay dead?":
         "내가 요즘 언데드를 충분히 죽이지 않은 모양이네. 왜 이 섬뜩한 놈들은 그냥 죽은 채로 있지 못하는 거지?",
     "This is no natural passage, and the walls are too well carved and smooth to be made by orcs. I wouldn’t be surprised if this was once carved out by dwarves. I wonder if there are any still left in these mountains...":
-        "이건 자연적으로 생긴 통로가 아니야. 벽이 너무 잘 다듬어지고 매끄러워서 오크가 만든 것 같지 않아. 한때 난쟁이들이 파낸 통로라고 해도 놀랍지 않겠어. 이 산맥에 아직 난쟁이들이 남아 있을까...",
+        "이건 자연적으로 생긴 통로가 아니야. 벽이 너무 잘 다듬어지고 매끄러워서 오크가 만든 것 같지 않아. 한때 드워프들이 파낸 통로라고 해도 놀랍지 않겠어. 이 산맥에 아직 드워프들이 남아 있을까...",
     "In the center of this circle is a huge creature, with surging muscles and bloodshot eyes. I would think it was just a very big man, except for the fine stitches that cover its entire body. In fact it seems to be composed of many body parts all sewn together. It seems to be floating asleep in the center of the glowing magical circle. I could scratch out part of the circle and break it, but I have no idea what the consequences would be. I’m not sure I want something with that kind of strength attacking me.":
         "이 마법진 한가운데에는 솟구친 근육과 핏발 선 눈을 가진 거대한 생물이 있어요. 온몸을 덮은 가느다란 봉합선만 아니었다면 그저 아주 큰 사람이라고 생각했을 거예요. 실제로는 여러 신체 부위를 꿰매어 만든 것처럼 보입니다. 빛나는 마법진 한가운데에서 잠든 채 떠 있는 것 같아요. 마법진 일부를 긁어내 깨뜨릴 수는 있겠지만, 어떤 결과가 따를지는 전혀 모르겠어요. 저렇게 강한 존재가 나를 공격하게 만들고 싶은지는 잘 모르겠네요.",
     "Anyway you’ve really gotten us into a mess. The good news is that the outpost isn’t guarded as heavily as you might think. The garrison seems only half-manned. They obviously didn’t expect any serious attack to come from this direction.":

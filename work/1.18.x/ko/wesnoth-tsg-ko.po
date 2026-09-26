@@ -403,7 +403,7 @@ msgid ""
 "Your people have been our allies ever since the days of Lord Typhon. We will "
 "help you drive these bandits from your lands if you allow us to continue "
 "living here in peace."
-msgstr "티폰(Typhon) 경 시대부터 당신들의 민족은 우리의 동맹이었습니다. 우리가 이곳에서 평화롭게 계속 살도록 허락해 준다면, 당신들의 땅에서 이 산적들을 몰아내는 일을 돕겠습니다."
+msgstr "티폰(Typhon) 경 시대부터 그대들의 민족은 우리의 동맹이었습니다. 우리가 이곳에서 평화롭게 계속 살도록 허락해 준다면, 그대들의 땅에서 이 산적들을 몰아내는 일을 돕겠습니다."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:455
@@ -414,7 +414,7 @@ msgstr "티폰(Typhon) 경 시대부터 당신들의 민족은 우리의 동맹�
 msgid ""
 "We welcome your aid! The rivers of this land will remain yours when we are "
 "victorious."
-msgstr "당신들의 도움을 환영합니다! 우리가 승리하면 이 땅의 강은 계속 당신들의 것이 될 것입니다."
+msgstr "그대들의 도움을 환영합니다! 우리가 승리하면 이 땅의 강은 계속 그대들의 것이 될 것입니다."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:462
@@ -426,7 +426,7 @@ msgstr "당신들의 도움을 환영합니다! 우리가 승리하면 이 땅�
 msgid ""
 "You may now recruit Merman Hunters. Merfolk are aquatic creatures and fight "
 "best in rivers and swamps. They are much less effective on dry land."
-msgstr "이제 인어 사냥꾼을 모집할 수 있습니다. 인어족은 수생 생물이라 강과 늪에서 가장 잘 싸우며, 마른 땅에서는 효율이 크게 떨어집니다."
+msgstr "이제 인어 사냥꾼을 모집할 수 있습니다. 인어들은 수생 생물이라 강과 늪에서 가장 잘 싸우며, 마른 땅에서는 효율이 크게 떨어집니다."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:486
@@ -635,7 +635,7 @@ msgid ""
 "Aye, you could not have known if Sir Loris did not report of our "
 "predicament. I do wish that the King had sent more reinforcements, though "
 "you seem to be quite a capable commander despite your age."
-msgstr "그렇습니다. 로리스(Loris) 경이 우리의 곤경을 보고하지 않았다면 알 수 없었겠지요. 국왕께서 더 많은 원군을 보내 주셨으면 좋았겠지만, 당신은 나이에 비해 꽤 유능한 지휘관인 듯합니다."
+msgstr "그렇습니다. 로리스(Loris) 경이 우리의 곤경을 보고하지 않았다면 알 수 없었겠지요. 국왕께서 더 많은 원군을 보내 주셨으면 좋았겠지만, 데오란 경은 나이에 비해 꽤 유능한 지휘관인 듯합니다."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:757
@@ -668,7 +668,7 @@ msgid ""
 "Your story is indeed most peculiar, but we will not accomplish anything by "
 "staying here. We will have to seek out Sir Loris in Westin for answers. "
 "Come, men, let us ride to the city!"
-msgstr "당신의 이야기는 정말 이상하지만, 여기 머물러서는 아무것도 이룰 수 없습니다. 답을 얻으려면 웨스틴(Westin)에서 로리스(Loris) 경을 찾아야 합니다. 자, 모두 도시로 말을 달립시다!"
+msgstr "그대의 이야기는 정말 이상하지만, 여기 머물러서는 아무것도 이룰 수 없습니다. 답을 얻으려면 웨스틴(Westin)에서 로리스(Loris) 경을 찾아야 합니다. 자, 모두 도시로 말을 달립시다!"
 
 #. [scenario]: id=02_Proven_by_the_Sword
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:5
@@ -850,7 +850,7 @@ msgstr "타이보그(Tyborg)"
 msgid ""
 "We stand with you, Sir Deoran! We will hold the city while you lead your men "
 "across the river and defeat the bandit leader!"
-msgstr "우리는 당신과 함께하겠습니다, 데오란(Deoran) 경! 당신이 병사들을 이끌고 강을 건너 도적 우두머리를 물리치는 동안 우리가 도시를 지키겠습니다!"
+msgstr "우리는 데오란(Deoran) 경과 함께하겠습니다! 경께서 병사들을 이끌고 강을 건너 도적 우두머리를 물리치는 동안 우리가 도시를 지키겠습니다!"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:395
@@ -910,7 +910,7 @@ msgstr "그렇습니다. 우리는 이 사악한 도적들을 몰아내러 왔�
 #. [message]: speaker=Absu
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:474
 msgid "It would be an honor to fight alongside you, Sir Knight."
-msgstr "기사 나리, 당신과 함께 싸울 수 있다면 영광입니다."
+msgstr "기사 나리, 경과 함께 싸울 수 있다면 영광입니다."
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:556
@@ -950,7 +950,7 @@ msgstr "방법은 중요하지 않다. 그가 어떻게 이런 사악한 짓을 
 msgid ""
 "Minister Hylas can heal allied units near him and his <i>arcane</i> attack "
 "deals bonus damage to undead foes."
-msgstr "장관 힐라스(Hylas)는 주변의 아군 유닛을 치유할 수 있으며, 그의 <i>신령</i> 공격은 언데드 적에게 추가 피해를 줍니다."
+msgstr "장관 힐라스(Hylas)는 주변의 아군 유닛을 회복할 수 있으며, 그의 <i>비전</i> 공격은 언데드 적에게 추가 피해를 줍니다."
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:607
@@ -1073,7 +1073,7 @@ msgid ""
 "for reinforcements, I remember there being a small outpost within a couple "
 "days’ ride of here. I will send a message to them asking for a few riders, "
 "then we should make haste toward the Aethenwood to find the elves."
-msgstr "좋습니다. 국왕께 원군을 요청하는 전령을 보내기에는 너무 오래 걸리겠지만, 여기서 말을 타고 며칠이면 닿는 곳에 작은 전초기지가 있었던 것으로 기억합니다. 그곳에 기수 몇 명을 보내 달라는 전갈을 보낸 뒤, 요정들을 찾으러 아에텐우드(Aethenwood)로 서둘러 가야 합니다."
+msgstr "좋습니다. 국왕께 원군을 요청하는 전령을 보내기에는 너무 오래 걸리겠지만, 여기서 말을 타고 며칠이면 닿는 곳에 작은 전초기지가 있었던 것으로 기억합니다. 그곳에 기수 몇 명을 보내 달라는 전갈을 보낸 뒤, 엘프들을 찾으러 아에텐우드(Aethenwood)로 서둘러 가야 합니다."
 
 #. [scenario]: id=03_A_Desperate_Errand
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:5
@@ -1089,7 +1089,7 @@ msgstr "우르자(Urza) 파스티크(Fastik)"
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:153
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Long_March.cfg:86
 msgid "Elves"
-msgstr "엘프족"
+msgstr "엘프들"
 
 #. [unit]: type=Elvish Shyde, id=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:162
@@ -1141,14 +1141,14 @@ msgid ""
 "own folly! We do not possess the strength to fight these undead, nor the "
 "means to discover their source; we can only look to these elves for help, "
 "wary of men though they may be."
-msgstr "우리가 이해하지 못하는 모든 것을 두려워하고 피할 수는 없습니다! 로리스(Loris) 경은 요정을 믿지 않았을지 모르지만, 이제 그는 자신의 어리석음 때문에 사라졌다고 해도 과언이 아닙니다! 우리에게는 이 언데드와 싸울 힘도, 그 근원을 알아낼 방법도 없습니다. 인간을 경계하는 요정들일지라도, 우리는 그들에게 도움을 청할 수밖에 없습니다."
+msgstr "우리가 이해하지 못하는 모든 것을 두려워하고 피할 수는 없습니다! 로리스(Loris) 경은 엘프를 믿지 않았을지 모르지만, 이제 그는 자신의 어리석음 때문에 사라졌다고 해도 과언이 아닙니다! 우리에게는 이 언데드와 싸울 힘도, 그 근원을 알아낼 방법도 없습니다. 인간을 경계하는 엘프들일지라도, 우리는 그들에게 도움을 청할 수밖에 없습니다."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:251
 msgid ""
 "Nevertheless, we musn’t charge in blindly. Even if the elves are unlikely to "
 "attack us, we do not know what else lies in these forests."
-msgstr "그렇다고 눈먼 듯이 돌격해서는 안 됩니다. 요정들이 우리를 공격할 가능성은 낮더라도, 이 숲에 무엇이 더 도사리고 있는지는 모르니까요."
+msgstr "그렇다고 눈먼 듯이 돌격해서는 안 됩니다. 엘프들이 우리를 공격할 가능성은 낮더라도, 이 숲에 무엇이 더 도사리고 있는지는 모르니까요."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:256
@@ -1187,7 +1187,7 @@ msgstr "자렉(Jarek)"
 msgid ""
 "Commander, I received your request for reinforcements, and I have brought my "
 "riders with me!"
-msgstr "사령관님, 당신의 증원요청을 받고 기병들을 이끌고 왔습니다!"
+msgstr "사령관님, 경의 증원 요청을 받고 기병들을 이끌고 왔습니다!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:312
@@ -1239,7 +1239,7 @@ msgstr "산적들을 물리쳤더라도 언데드 문제가 아직 남아 있습
 msgid ""
 "Indeed, we should press on toward the elves and see if they know anything "
 "about these dark foes."
-msgstr "그렇습니다. 요정들에게 계속 나아가 이 어둠의 적들에 대해 아는 것이 있는지 알아봐야 합니다."
+msgstr "그렇습니다. 엘프들에게 계속 나아가 이 어둠의 적들에 대해 아는 것이 있는지 알아봐야 합니다."
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:379
@@ -1338,7 +1338,7 @@ msgid ""
 "We sent you a messenger regarding the undead, did we not? You were "
 "forewarned of the blight marching upon your land, and yet you did not "
 "prepare adequately."
-msgstr "우리는 언데드에 관해 전령을 보내지 않았습니까? 재앙이 당신들의 땅으로 진군하리라는 경고를 미리 받았으면서도, 충분히 대비하지 않았군요."
+msgstr "우리는 언데드에 관해 전령을 보내지 않았습니까? 재앙이 그대들의 땅으로 진군하리라는 경고를 미리 받았으면서도, 충분히 대비하지 않았군요."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:464
@@ -1346,7 +1346,7 @@ msgid ""
 "I do not aim to make excuses, but I have been here for scarcely a week! I do "
 "not know why the previous commander did not act on your advice, but I assure "
 "you that I will not make the same mistakes he did!"
-msgstr "변명하려는 것은 아니지만, 저는 이곳에 온 지 일주일도 되지 않았습니다! 이전 지휘관이 왜 당신들의 조언에 따르지 않았는지는 모르겠지만, 그와 같은 실수는 절대 반복하지 않겠다고 약속하겠습니다!"
+msgstr "변명하려는 것은 아니지만, 저는 이곳에 온 지 일주일도 되지 않았습니다! 이전 지휘관이 왜 그대들의 조언에 따르지 않았는지는 모르겠지만, 그와 같은 실수는 절대 반복하지 않겠다고 약속하겠습니다!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:469
@@ -1362,7 +1362,7 @@ msgstr "그대 자신을 위해서라도 그러지 않기를 바라네. 지금 �
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:474
 msgid "And what do you know of the undead?"
-msgstr "그렇다면 당신들은 언데드에 대해 무엇을 알고 있습니까?"
+msgstr "그렇다면 그대들은 언데드에 대해 무엇을 알고 있습니까?"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:479
@@ -1411,7 +1411,7 @@ msgstr "하지만 그렇다고 내가 아무것도 하지 않을 수는 없지 �
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:509
 msgid "<i>I warned him that the elves would not easily agree to help us.</i>"
-msgstr "<i>나는 요정들이 쉽게 우리를 돕기로 하지 않을 것이라고 경고했네.</i>"
+msgstr "<i>나는 엘프들이 쉽게 우리를 돕기로 하지 않을 것이라고 경고했네.</i>"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:514
@@ -1467,7 +1467,7 @@ msgstr "그래, 좋네."
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:545
 msgid "I welcome your aid, my lady."
-msgstr "당신의 도움을 환영합니다, 숙녀분."
+msgstr "그대의 도움을 환영합니다, 숙녀분."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_A_Desparate_Errand.cfg:606
@@ -1475,7 +1475,7 @@ msgid ""
 "Skeletons approach from the east! This can only mean that they have begun to "
 "attack Kerlath. We will have to return and fight them without the aid of the "
 "elves..."
-msgstr "동쪽에서 해골들이 다가오고 있습니다! 이는 그들이 케를라스(Kerlath)를 공격하기 시작했다는 뜻일 수밖에 없습니다. 우리는 돌아가 요정들의 도움 없이 그들과 싸워야 합니다..."
+msgstr "동쪽에서 해골들이 다가오고 있습니다! 이는 그들이 케를라스(Kerlath)를 공격하기 시작했다는 뜻일 수밖에 없습니다. 우리는 돌아가 엘프들의 도움 없이 그들과 싸워야 합니다..."
 
 #. [scenario]: id=04_Vale_of_Tears
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:5
@@ -1672,7 +1672,7 @@ msgstr "친구들이여, 내가 저 저주받은 언데드가 되게 하지 말�
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:415
 #| msgid "You shall not die in vain! My bodyguard will avenge you!"
 msgid "You shall not die in vain! My bodyguards will avenge you!"
-msgstr "당신의 죽음이 헛되지 않게 하겠습니다! 제 경호원들이 복수할 것입니다!"
+msgstr "그대의 죽음이 헛되지 않게 하겠습니다! 제 경호원들이 복수할 것입니다!"
 
 #. [message]: speaker=Sir Gerrick
 #. [message]: speaker=Deoran
@@ -1729,7 +1729,7 @@ msgstr "그럴지도 모르지만, 적어도 너는 더 이상 우리를 괴롭�
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:642
 msgid "Mebrin! Are you there? We have come to seek your aid!"
-msgstr "메브린(Mebrin)! 계세요? 당신의 도움이 필요해서 왔습니다!"
+msgstr "메브린(Mebrin)! 계세요? 스승님의 도움이 필요해서 왔습니다!"
 
 #. [message]: speaker=narrator
 #. [message]: speaker=Kramak
@@ -1816,7 +1816,7 @@ msgid ""
 "So the elves finally come to defend their valley. Pity, they showed up too "
 "late. We will stop them here and prevent them from reclaiming the knowledge "
 "that was once theirs!"
-msgstr "마침내 요정들이 자신들의 계곡을 지키러 왔군. 안됐지만 너무 늦게 나타났어. 여기서 그들을 막고, 한때 자신들의 것이었던 지식을 되찾지 못하게 하겠다!"
+msgstr "마침내 엘프들이 자신들의 계곡을 지키러 왔군. 안됐지만 너무 늦게 나타났어. 여기서 그들을 막고, 한때 자신들의 것이었던 지식을 되찾지 못하게 하겠다!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/04_Vale_of_Tears.cfg:748
@@ -1947,7 +1947,7 @@ msgid ""
 "enemy. We will need help to scour woods as dangerous as these, and so I have "
 "asked some of my people to aid us. My soldiers and shamans will fight at "
 "your command."
-msgstr "두려워하지 말고 조심해야 합니다, 인간이여. 위대한 현자의 행방을 찾고 싶은 마음은 간절하지만, 적의 함정에 곧장 뛰어드는 것은 우리에게 아무런 도움이 되지 않습니다. 이렇게 위험한 숲을 샅샅이 수색하려면 도움이 필요하므로, 동족 몇 명에게 우리를 도와 달라고 부탁했습니다. 나의 병사들과 주술사들이 당신의 명령에 따라 싸울 것입니다."
+msgstr "두려워하지 말고 조심해야 합니다, 인간이여. 위대한 현자의 행방을 찾고 싶은 마음은 간절하지만, 적의 함정에 곧장 뛰어드는 것은 우리에게 아무런 도움이 되지 않습니다. 이렇게 위험한 숲을 샅샅이 수색하려면 도움이 필요하므로, 동족 몇 명에게 우리를 도와 달라고 부탁했습니다. 나의 병사들과 주술사들이 그대의 명령에 따라 싸울 것입니다."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:367
@@ -1963,7 +1963,7 @@ msgid ""
 "You may now recruit Elvish Shamans. Elvish Shamans are ranged support units "
 "who heal adjacent allies every turn and slow their enemies. Use them to heal "
 "wounded soldiers and weaken enemy units."
-msgstr "이제 엘프 주술사를 징집할 수 있습니다. 엘프 주술사는 매 턴 인접한 아군을 치유하고 적을 둔화하는 원격 지원 유닛입니다. 부상당한 병사를 치유하고 적 유닛을 약화하는 데 사용하십시오."
+msgstr "이제 엘프 주술사를 징집할 수 있습니다. 엘프 주술사는 매 턴 인접한 아군을 회복하고 적을 둔화하는 원격 지원 유닛입니다. 부상당한 병사를 회복하고 적 유닛을 약화하는 데 사용하십시오."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:378
@@ -2107,7 +2107,7 @@ msgid ""
 "I swear that I am not your enemy! I will gladly tell you what I know. A year "
 "ago, we ventured into the land of the elves in secret and we captured a "
 "great sage. We forced him to teach us the secrets of this forest."
-msgstr "맹세코 나는 당신들의 적이 아니오! 내가 아는 것을 기꺼이 말하겠소. 1년 전, 우리는 몰래 엘프의 땅에 들어가 대현자 한 명을 붙잡았소. 그리고 그에게 이 숲의 비밀을 가르치도록 강요했지."
+msgstr "맹세코 나는 그대들의 적이 아니오! 내가 아는 것을 기꺼이 말하겠소. 1년 전, 우리는 몰래 엘프의 땅에 들어가 대현자 한 명을 붙잡았소. 그리고 그에게 이 숲의 비밀을 가르치도록 강요했지."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:665
@@ -2180,7 +2180,7 @@ msgid ""
 "<i>Indeed, these elves are not as incorruptible and pure as they like to "
 "believe they are. I suspect that this sage’s pride led him to believe that "
 "he could master a power that is uncontrollable.</i>"
-msgstr "<i>실제로 이 요정들은 스스로 믿고 싶어 하는 만큼 타락하지 않고 순수하지도 않네. 이 현자의 자만심이 통제할 수 없는 힘을 자신은 다스릴 수 있다고 믿게 만든 것 같군.</i>"
+msgstr "<i>실제로 이 엘프들은 스스로 믿고 싶어 하는 만큼 타락하지 않고 순수하지도 않네. 이 현자의 자만심이 통제할 수 없는 힘을 자신은 다스릴 수 있다고 믿게 만든 것 같군.</i>"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:723
@@ -2230,7 +2230,7 @@ msgstr "너희의 죄는 너무나 크다. 사악한 언데드와 함께 쓰러�
 #| msgid ""
 #| "Then this parley is over! You may have sounded the doom of all of us!"
 msgid "Then this parley is over! You may have caused the doom of all of us!"
-msgstr "그렇다면 이 회담은 끝이다! 당신들은 우리 모두의 파멸을 초래했을지도 모른다구!"
+msgstr "그렇다면 이 회담은 끝이다! 그대들은 우리 모두의 파멸을 초래했을지도 모른다구!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:751
@@ -2258,13 +2258,13 @@ msgid ""
 "to our lands. We were foolish to ever have any dealings with these men. Do "
 "not set foot in our land ever again, humans, for you have brought us nothing "
 "but grief."
-msgstr "결국 이렇게 되는군. 인간은 모두 똑같아! 너희는 마을을 약탈하고 마을을 불태운 바로 그 범죄자 돼지들과 다를 바 없어! 요정들의 도움을 거부할 만큼 용감하다면, 이 숲에서 나갈 길도 스스로 찾을 만큼 용감하겠지! 가자, 나의 동족들이여. 우리 땅으로 돌아가자. 이런 인간들과 거래를 하다니 우리가 어리석었어. 인간들이여, 다시는 우리 땅에 발을 들이지 마라. 너희는 우리에게 슬픔만 가져왔으니까."
+msgstr "결국 이렇게 되는군. 인간은 모두 똑같아! 너희는 마을을 약탈하고 마을을 불태운 바로 그 범죄자 돼지들과 다를 바 없어! 엘프들의 도움을 거부할 만큼 용감하다면, 이 숲에서 나갈 길도 스스로 찾을 만큼 용감하겠지! 가자, 나의 동족들이여. 우리 땅으로 돌아가자. 이런 인간들과 거래를 하다니 우리가 어리석었어. 인간들이여, 다시는 우리 땅에 발을 들이지 마라. 너희는 우리에게 슬픔만 가져왔으니까."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:838
 msgid ""
 "The elves have abandoned us in this accursed forest! We are surely lost!"
-msgstr "요정들이 이 저주받은 숲에 우리를 버리고 갔군! 우리는 틀림없이 길을 잃을 거야!"
+msgstr "엘프들이 이 저주받은 숲에 우리를 버리고 갔군! 우리는 틀림없이 길을 잃을 거야!"
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:843
@@ -2375,7 +2375,7 @@ msgid ""
 "resides in catacombs deep underneath the castle, but they cannot be entered "
 "without magical means. We would require elvish magic in order to dispel the "
 "barrier he has erected."
-msgstr "안타깝지만 그렇지 않습니다. 이것은 진짜 메브린(Mebrin)의 환영에 불과합니다. 그는 성 깊은 지하 묘지에 있지만, 마법 없이는 들어갈 수 없습니다. 그가 세운 장벽을 해제하려면 요정의 마법이 필요합니다."
+msgstr "안타깝지만 그렇지 않습니다. 이것은 진짜 메브린(Mebrin)의 환영에 불과합니다. 그는 성 깊은 지하 묘지에 있지만, 마법 없이는 들어갈 수 없습니다. 그가 세운 장벽을 해제하려면 엘프의 마법이 필요합니다."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1070
@@ -2388,7 +2388,7 @@ msgstr "뭐라고?! 너는 처음부터 이 사실을 알고도 우리를 여기
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1074
 msgid ""
 "If I had told you, you and the elves would have killed me! I had no choice!"
-msgstr "내가 말했다면 너와 요정들이 나를 죽였을 거야! 달리 선택의 여지가 없었어!"
+msgstr "내가 말했다면 너와 엘프들이 나를 죽였을 거야! 달리 선택의 여지가 없었어!"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1078
@@ -2412,7 +2412,7 @@ msgid ""
 "have abandoned us... that would seem to be our only choice. But what about "
 "Mebrin? The undead will keep attacking our homes unless we root them out at "
 "the source."
-msgstr "우리가 네 거짓말에 속지 않았다면 에틸리엘(Ethiliel)이 이 마법 장벽을 해제할 수 있었을 텐데! 하지만 내가 어리석게도 그녀의 조언과 모든 도움을 거부했어. 지금 당장 네 목숨을 끊고 싶지만, 요정들이 우리를 버렸으니... 그것이 우리의 유일한 선택인 듯하군. 하지만 메브린(Mebrin)은 어떻게 하지? 근원을 뿌리 뽑지 않는 한 언데드는 계속 우리 집을 공격할 거야."
+msgstr "우리가 네 거짓말에 속지 않았다면 에틸리엘(Ethiliel)이 이 마법 장벽을 해제할 수 있었을 텐데! 하지만 내가 어리석게도 그녀의 조언과 모든 도움을 거부했어. 지금 당장 네 목숨을 끊고 싶지만, 엘프들이 우리를 버렸으니... 그것이 우리의 유일한 선택인 듯하군. 하지만 메브린(Mebrin)은 어떻게 하지? 근원을 뿌리 뽑지 않는 한 언데드는 계속 우리 집을 공격할 거야."
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/05_Choice_In_The_Fog.cfg:1091
@@ -2512,7 +2512,7 @@ msgstr "강력한 마법 장벽이 길을 숨기고 우리의 진입을 막고 �
 msgid ""
 "Indeed. We will leave you to your work and prepare ourselves for the coming "
 "battle."
-msgstr "알겠습니다. 당신은 일을 계속하고 우리는 다가오는 전투를 준비하겠습니다."
+msgstr "알겠습니다. 그대는 일을 계속하고 우리는 다가오는 전투를 준비하겠습니다."
 
 #. [scenario]: id=06a_Into_the_Depths
 #: data/campaigns/The_South_Guard/scenarios/06a_Into_the_Depths.cfg:5
@@ -2585,7 +2585,7 @@ msgid ""
 "that the bandits have awoken seem to be quite powerful. We elves are also "
 "far less adept in caves than we are in our forests. You will have to lead "
 "the way."
-msgstr "언데드의 소행일 겁니다. 산적들이 깨운 악이 상당히 강력한 듯하니 천천히 나아가야 합니다. 우리 요정들은 숲에서만큼 동굴에 익숙하지도 않습니다. 당신들이 앞장서야 할 겁니다."
+msgstr "언데드의 소행일 겁니다. 산적들이 깨운 악이 상당히 강력한 듯하니 천천히 나아가야 합니다. 우리 엘프들은 숲에서만큼 동굴에 익숙하지도 않습니다. 그대들이 앞장서야 할 겁니다."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Into_the_Depths.cfg:398
@@ -2637,7 +2637,7 @@ msgstr "그런 생물은 충분한 실력을 가진 소환사가 불러낼 수�
 msgid ""
 "Who go there? I see... I sees some humans and elfsies! What you doing in our "
 "caves?"
-msgstr "거기 누구냐? 보인다... 인간이랑 요정들이 보여! 너희는 우리 동굴에서 뭐 하는 거냐?"
+msgstr "거기 누구냐? 보인다... 인간이랑 엘프들이 보여! 너희는 우리 동굴에서 뭐 하는 거냐?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Into_the_Depths.cfg:495
@@ -2667,7 +2667,7 @@ msgid ""
 "Join? Join with humans and elfsies? Hmm. Okay. Humans and elfsies friends. "
 "We help you beat skeletons, but after they gone we take back our home and "
 "you leave. Okay?"
-msgstr "합류? 인간과 요정에게 합류한다고? 음. 좋아. 인간과 요정은 친구다. 우리가 너희가 해골을 물리치는 걸 돕지만, 놈들이 사라지면 우리는 집을 되찾고 너희는 떠난다. 알겠지?"
+msgstr "합류? 인간과 엘프들과 합류한다고? 음. 좋아. 인간과 엘프들은 친구다. 우리가 너희가 해골을 물리치는 걸 돕지만, 놈들이 사라지면 우리는 집을 되찾고 너희는 떠난다. 알겠지?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Into_the_Depths.cfg:515
@@ -2709,7 +2709,7 @@ msgstr "에스... 에실리엘?"
 msgid ""
 "Oh, it truly is you! How did you come to be here, shut away from the trees "
 "and the light of the sun?"
-msgstr "아, 정말 당신이군요! 어떻게 이곳에 오셔서 나무와 햇빛에서 이렇게 단절되어 계신 건가요?"
+msgstr "아, 정말 스승님이군요! 어떻게 이곳에 오셔서 나무와 햇빛에서 이렇게 단절되어 계신 건가요?"
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/06a_Into_the_Depths.cfg:657
@@ -2867,7 +2867,7 @@ msgstr "그렇게 하고 나면 우리는 무엇이 되나요? 한때 소중히 
 msgid ""
 "No... No. The sage Mebrin is dead. You are not the master I once revered. I "
 "will cleanse your soul and put you to rest, my beloved teacher."
-msgstr "아니... 아니야. 현자 메브린(Mebrin)은 죽었어. 당신은 내가 한때 존경했던 스승이 아니야. 내가 당신의 영혼을 정화하고 편히 쉬게 하겠어요, 사랑하는 스승님."
+msgstr "아니... 아니야. 현자 메브린(Mebrin)은 죽었어. 스승님은 내가 한때 존경했던 분이 아니야. 내가 스승님의 영혼을 정화하고 편히 쉬게 하겠어요."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Into_the_Depths.cfg:744
@@ -2879,7 +2879,7 @@ msgid ""
 "Even a mere human can see that you have become a mockery of all that you "
 "once believed in. I will destroy you and bury your perverse ideals, even if "
 "it costs me my own life!"
-msgstr "일개 인간조차도 당신이 한때 믿었던 모든 것을 조롱하는 존재가 되었음을 알 수 있습니다. 내 목숨을 바쳐서라도 당신을 파괴하고 그 뒤틀린 이상을 묻어 버리겠습니다!"
+msgstr "일개 인간조차도 그대가 한때 믿었던 모든 것을 조롱하는 존재가 되었음을 알 수 있습니다. 내 목숨을 바쳐서라도 그대를 파괴하고 그 뒤틀린 이상을 묻어 버리겠습니다!"
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/06a_Into_the_Depths.cfg:749
@@ -3025,7 +3025,7 @@ msgid ""
 "Trust me. I have often traveled these woods with my comrades and I know a "
 "secret path through it. I am taking you there so we can avoid the elves on "
 "the way back."
-msgstr "나를 믿어. 나는 동료들과 이 숲을 자주 다녔고, 숲을 가로지르는 비밀 길도 알고 있어. 돌아가는 길에 요정들을 피할 수 있도록 그곳으로 데려가겠어."
+msgstr "나를 믿어. 나는 동료들과 이 숲을 자주 다녔고, 숲을 가로지르는 비밀 길도 알고 있어. 돌아가는 길에 엘프들을 피할 수 있도록 그곳으로 데려가겠어."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Long_March.cfg:591
@@ -3063,7 +3063,7 @@ msgid ""
 "Also, remember that these woods are crawling with elves. Stay on the path "
 "and perhaps we can avoid at least most of them. If we do get seen, well, "
 "let’s hope they won’t attack us."
-msgstr "그리고 이 숲에는 요정이 득실거린다는 것도 기억해. 길을 따라가면 적어도 대부분은 피할 수 있을 거야. 들키더라도... 우리를 공격하지 않기를 바라자."
+msgstr "그리고 이 숲에는 엘프가 득실거린다는 것도 기억해. 길을 따라가면 적어도 대부분은 피할 수 있을 거야. 들키더라도... 우리를 공격하지 않기를 바라자."
 
 #. [message]: speaker=Urza Afalas
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Long_March.cfg:809
@@ -3103,7 +3103,7 @@ msgid ""
 "We have already told you of his whereabouts! Your wise sage now practices "
 "necromancy and commands an army of undead. He means to march on our land and "
 "slay all living souls, human and elf alike!"
-msgstr "우리는 이미 그의 행방을 말했어! 너희의 현명한 현자는 이제 강령술을 행하고 언데드 군대를 지휘하고 있어. 인간이든 요정이든 살아 있는 영혼을 모두 죽이려고 우리 땅으로 진군할 거야!"
+msgstr "우리는 이미 그의 행방을 말했어! 너희의 현명한 현자는 이제 강령술을 행하고 언데드 군대를 지휘하고 있어. 인간이든 엘프가든 살아 있는 영혼을 모두 죽이려고 우리 땅으로 진군할 거야!"
 
 #. [message]: race=elf
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Long_March.cfg:993
@@ -3149,7 +3149,7 @@ msgstr "우리 현자 메브린(Mebrin)도 그렇지만, 너희는 그를 우리
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Long_March.cfg:1059
 msgid ""
 "There is no reasoning with the elves. We will either have to fight or run."
-msgstr "요정들과는 말이 통하지 않아. 싸우거나 도망치는 수밖에 없어."
+msgstr "엘프들과는 말이 통하지 않아. 싸우거나 도망치는 수밖에 없어."
 
 #. [message]: race=elf
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Long_March.cfg:1082
@@ -3263,7 +3263,7 @@ msgstr "인간들! 비열한 짐승들!"
 msgid ""
 "What? We are your friends, not your enemies! We mean no harm to you. My men "
 "and I are simply tired and wish to return to our homes."
-msgstr "뭐라고요? 우리는 당신들의 친구이지 적이 아닙니다! 당신들에게 해를 끼칠 생각은 없습니다. 저와 부하들은 그저 지쳤고 집으로 돌아가고 싶을 뿐입니다."
+msgstr "뭐라고요? 우리는 그대들의 친구이지 적이 아닙니다! 그대들에게 해를 끼칠 생각은 없습니다. 저와 부하들은 그저 지쳤고 집으로 돌아가고 싶을 뿐입니다."
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/07a_Return_to_Kerlath.cfg:274
@@ -3355,7 +3355,7 @@ msgid ""
 "<i>Fight past our foes, but if possible, fight to subdue and not to kill. We "
 "elves have suffered enough from this ordeal. I would not have our people be "
 "slaughtered needlessly as well.</i>"
-msgstr "<i>적들을 뚫고 나가자. 하지만 가능하다면 죽이지 말고 제압하도록 해. 우리 요정들은 이미 이 시련으로 충분히 고통받았어. 우리 동족이 불필요하게 학살당하는 일까지 겪게 하고 싶지는 않아.</i>"
+msgstr "<i>적들을 뚫고 나가자. 하지만 가능하다면 죽이지 말고 제압하도록 해. 우리 엘프들은 이미 이 시련으로 충분히 고통받았어. 우리 동족이 불필요하게 학살당하는 일까지 겪게 하고 싶지는 않아.</i>"
 
 #. [message]: id=Deoran
 #: data/campaigns/The_South_Guard/scenarios/07a_Return_to_Kerlath.cfg:327
@@ -3376,7 +3376,7 @@ msgstr "이 인간 짐승들이 우리 동족을 죽이고 메브린(Mebrin)을 
 msgid ""
 "The elves are attacking Westin! They’ll surely destroy the city without us "
 "there to defend it..."
-msgstr "요정들이 웨스틴(Westin)을 공격하고 있어! 우리가 가서 지키지 않으면 분명 도시를 파괴할 거야..."
+msgstr "엘프들이 웨스틴(Westin)을 공격하고 있어! 우리가 가서 지키지 않으면 분명 도시를 파괴할 거야..."
 
 #. [unit]: type=Lieutenant, id=Liryn
 #: data/campaigns/The_South_Guard/scenarios/07a_Return_to_Kerlath.cfg:394
@@ -3398,7 +3398,7 @@ msgstr "나다. 남부 경비대의 지휘관, 데오란(Deoran)이다."
 #: data/campaigns/The_South_Guard/scenarios/07a_Return_to_Kerlath.cfg:410
 msgid ""
 "Deoran? It truly is you? We had thought you had been lost to the undead."
-msgstr "데오란(Deoran)? 정말 당신입니까? 우리는 당신이 언데드에게 당했다고 생각했습니다."
+msgstr "데오란(Deoran)? 정말 데오란 경이십니까? 우리는 경이 언데드에게 당했다고 생각했습니다."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/07a_Return_to_Kerlath.cfg:415
@@ -3417,7 +3417,7 @@ msgid ""
 "This is wonderful news, commander! I shall spread word about your heroic "
 "deed! But... I am afraid there is another problem. There are rumors of "
 "trouble with the elves of the Aethenwood."
-msgstr "정말 놀라운 소식입니다, 사령관님! 당신의 영웅적인 업적을 널리 알리겠습니다! 하지만... 유감스럽게도 또 다른 문제가 있습니다. 아이센 숲의 엘프들과 문제가 생겼다는 소문이 있습니다."
+msgstr "정말 놀라운 소식입니다, 사령관님! 경의 영웅적인 업적을 널리 알리겠습니다! 하지만... 유감스럽게도 또 다른 문제가 있습니다. 아이센 숲의 엘프들과 문제가 생겼다는 소문이 있습니다."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/07a_Return_to_Kerlath.cfg:425
@@ -3425,7 +3425,7 @@ msgid ""
 "That does not surprise me, given our troubles in even getting here. Deoran, "
 "we had best hurry back to your city. I will need to see what the "
 "circumstances are."
-msgstr "여기까지 오는 데 겪은 어려움을 생각하면 놀랍지 않군요. 데오란(Deoran), 서둘러 당신의 도시로 돌아가는 편이 좋겠습니다. 상황이 어떤지 확인해야겠어요."
+msgstr "여기까지 오는 데 겪은 어려움을 생각하면 놀랍지 않군요. 데오란(Deoran), 서둘러 그대의 도시로 돌아가는 편이 좋겠습니다. 상황이 어떤지 확인해야겠어요."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/07a_Return_to_Kerlath.cfg:430
@@ -3627,7 +3627,7 @@ msgstr "빛이 용감한 전사들의 영혼을 비추기를."
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/07b_Pebbles_in_the_Flood.cfg:319
 msgid "We will never forget your sacrifice here. Thank you, my friend."
-msgstr "우리는 이곳에서의 당신들의 희생을 절대 잊지 않겠습니다. 고맙습니다, 친구여."
+msgstr "우리는 이곳에서의 그대들의 희생을 절대 잊지 않겠습니다. 고맙습니다, 친구여."
 
 #. [message]: speaker=Illan
 #: data/campaigns/The_South_Guard/scenarios/07b_Pebbles_in_the_Flood.cfg:353
@@ -3720,7 +3720,7 @@ msgid ""
 "it seems that the townsfolk have already begun to rebuild. Perhaps now there "
 "will be peace in Westin. You have our thanks, Lady Ethiliel. We could not "
 "have accomplished this feat without you."
-msgstr "드디어 집으로 돌아왔군요! 언데드와 산적이 모두 패배했고, 시민들은 이미 재건을 시작한 것 같습니다. 이제 웨스틴(Westin)에 평화가 찾아오겠지요. 에틸리엘(Ethiliel) 숙녀님, 감사드립니다. 당신 없이는 이 일을 해낼 수 없었을 겁니다."
+msgstr "드디어 집으로 돌아왔군요! 언데드와 산적이 모두 패배했고, 시민들은 이미 재건을 시작한 것 같습니다. 이제 웨스틴(Westin)에 평화가 찾아오겠지요. 에틸리엘(Ethiliel) 숙녀님, 감사드립니다. 그대 없이는 이 일을 해낼 수 없었을 겁니다."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/08a_Vengeance.cfg:173
@@ -4027,7 +4027,7 @@ msgid ""
 "We come to battle the unholy ones at your side. Hylas, I have made all "
 "possible haste, but the others are not as swift as I. It will take more time "
 "for them to arrive."
-msgstr "우리는 당신 곁에서 사악한 자들과 싸우러 왔습니다. 힐라스(Hylas), 최대한 서둘러 왔지만 다른 이들은 나만큼 빠르지 않습니다. 그들이 도착하려면 시간이 더 걸릴 겁니다."
+msgstr "우리는 그대 곁에서 사악한 자들과 싸우러 왔습니다. 힐라스(Hylas), 최대한 서둘러 왔지만 다른 이들은 나만큼 빠르지 않습니다. 그들이 도착하려면 시간이 더 걸릴 겁니다."
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:533
@@ -4041,7 +4041,7 @@ msgstr "웨스틴(Westin) 의회가 북쪽의 동맹군에게서 많은 동족�
 msgid ""
 "We heard your call for help and came as quickly as we could. These undead "
 "shall be sent back to the dark abyss that spawned them!"
-msgstr "우리는 당신들의 도움 요청을 듣고 최대한 빨리 왔습니다. 이 언데드들을 태어난 어둠의 심연으로 돌려보내겠습니다!"
+msgstr "우리는 그대들의 도움 요청을 듣고 최대한 빨리 왔습니다. 이 언데드들을 태어난 어둠의 심연으로 돌려보내겠습니다!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:550
@@ -4136,14 +4136,14 @@ msgstr "지평선 너머로 새벽이 밝아 온다! 우리는 밤을 견뎌 냈
 msgid ""
 "We heard your call for help and came as quickly as we could. We are at your "
 "service, Sir Deoran!"
-msgstr "우리는 당신의 도움 요청을 듣고 최대한 빨리 왔습니다. 데오란(Deoran) 경, 명령을 내려 주십시오!"
+msgstr "우리는 그대의 도움 요청을 듣고 최대한 빨리 왔습니다. 데오란(Deoran) 경, 명령을 내려 주십시오!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:672
 msgid ""
 "Your arrival could not be more timely. With you here, we shall send these "
 "undead back to the dark abyss that spawned them!"
-msgstr "정말 때맞춰 도착해 주셨습니다. 당신들이 여기 있으니 이 언데드들을 태어난 어둠의 심연으로 돌려보낼 수 있겠습니다!"
+msgstr "정말 때맞춰 도착해 주셨습니다. 그대들이 여기 있으니 이 언데드들을 태어난 어둠의 심연으로 돌려보낼 수 있겠습니다!"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:680
@@ -4174,7 +4174,7 @@ msgid ""
 "its use. Though you and your undead have ravaged our lands with your profane "
 "sorceries, I feel nothing but pity for the shambling shell you have become. "
 "Perhaps I can take solace in putting you out of your misery."
-msgstr "진정 가엾은 것은 한때 요정의 현자였던 네가 스스로 빠진 곤경이다. 너는 흑마법에 굴복해 그것을 사용하며 뒤틀리고 타락했지. 너와 네 언데드가 불경한 마법으로 우리 땅을 유린했지만, 나는 네가 되어 버린 비틀거리는 껍데기에 연민만을 느낀다. 어쩌면 너를 고통에서 해방하는 것으로 위안을 얻을 수 있겠지."
+msgstr "진정 가엾은 것은 한때 엘프의 현자였던 네가 스스로 빠진 곤경이다. 너는 흑마법에 굴복해 그것을 사용하며 뒤틀리고 타락했지. 너와 네 언데드가 불경한 마법으로 우리 땅을 유린했지만, 나는 네가 되어 버린 비틀거리는 껍데기에 연민만을 느낀다. 어쩌면 너를 고통에서 해방하는 것으로 위안을 얻을 수 있겠지."
 
 #. [message]: speaker=Mal M'Brin
 #: data/campaigns/The_South_Guard/scenarios/08b_The_Tides_of_War.cfg:729
@@ -4210,7 +4210,7 @@ msgstr "바보들! 얼간이들! 너희 인간은 이 비참한 세상의 쓸모
 msgid ""
 "These worthless humans just bested you and your armies. Your time has come, "
 "once wise sage of the elves."
-msgstr "이 쓸모없는 인간들이 방금 너와 네 군대를 물리쳤다. 한때 현명했던 요정의 현자여, 네 때가 왔다."
+msgstr "이 쓸모없는 인간들이 방금 너와 네 군대를 물리쳤다. 한때 현명했던 엘프의 현자여, 네 때가 왔다."
 
 #. [message]: speaker=Mal M'Brin
 #. "Nooo" is like a death scream, just a drawn out no
@@ -4367,7 +4367,7 @@ msgstr "나는 왕국을 위해 모든 것을 바쳤다! 데오란(Deoran), 나�
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_deaths.cfg:81
 msgid "May the Light guide you where I have failed..."
-msgstr "내가 실패한 곳에서 빛이 당신을 인도하기를..."
+msgstr "내가 실패한 곳에서 빛이 그대를 인도하기를..."
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_deaths.cfg:98
@@ -4681,7 +4681,7 @@ msgid ""
 "to the men of Wesnoth, saying, <i>“Stop! Enough blood has been spilled, "
 "human and elf alike. The injury you humans have done to the elves is great, "
 "but your service also was worthy. We have decided to make peace again.”</i>"
-msgstr "안개가 걷히고 햇빛이 구름 사이로 흩어진 광선이 되어 비쳤습니다. 데오란(Deoran)은 숨을 죽인 채 보병 대열의 선두로 말을 몰았습니다. 몇 분이 더 지나자 마침내 안개가 흩어졌고, 에틸리엘(Ethiliel)이 창벽을 마주한 채 홀로 서 있었습니다. 그녀의 얼굴에는 비탄과 피로가 가득했지만, 웨스노스(Wesnoth) 병사들에게 말하는 목소리는 놀라울 만큼 또렷했습니다. <i>“멈추세요! 인간과 엘프 모두 충분히 피를 흘렸습니다. 당신들이 엘프들에게 입힌 상처는 크지만, 당신들의 봉사 또한 훌륭했습니다. 우리는 다시 평화를 이루기로 했습니다.”</i>"
+msgstr "안개가 걷히고 햇빛이 구름 사이로 흩어진 광선이 되어 비쳤습니다. 데오란(Deoran)은 숨을 죽인 채 보병 대열의 선두로 말을 몰았습니다. 몇 분이 더 지나자 마침내 안개가 흩어졌고, 에틸리엘(Ethiliel)이 창벽을 마주한 채 홀로 서 있었습니다. 그녀의 얼굴에는 비탄과 피로가 가득했지만, 웨스노스(Wesnoth) 병사들에게 말하는 목소리는 놀라울 만큼 또렷했습니다. <i>“멈추세요! 인간과 엘프 모두 충분히 피를 흘렸습니다. 그대들이 엘프들에게 입힌 상처는 크지만, 그대들의 봉사 또한 훌륭했습니다. 우리는 다시 평화를 이루기로 했습니다.”</i>"
 
 #. [part]
 #. Epilogue A
@@ -4696,7 +4696,7 @@ msgid ""
 "of the Aethenwood, and likewise, we elves will not traverse the plains and "
 "farmlands belonging to you humans. No more will the elves send ambassadors "
 "or councilors to Westin, and no more will men wander the green woods.”</i>"
-msgstr "<i>“우리의 조건은 이렇습니다. 아이센 숲의 숲과 언덕에는 어떤 인간도 들어올 수 없습니다. 마찬가지로 우리 엘프도 당신들 인간의 평원과 농지를 지나지 않겠습니다. 엘프는 더 이상 웨스틴(Westin)에 사절이나 고문을 보내지 않을 것이며, 인간도 더 이상 푸른 숲을 돌아다니지 않을 것입니다.”</i>"
+msgstr "<i>“우리의 조건은 이렇습니다. 아이센 숲의 숲과 언덕에는 어떤 인간도 들어올 수 없습니다. 마찬가지로 우리 엘프도 그대들 인간의 평원과 농지를 지나지 않겠습니다. 엘프는 더 이상 웨스틴(Westin)에 사절이나 고문을 보내지 않을 것이며, 인간도 더 이상 푸른 숲을 돌아다니지 않을 것입니다.”</i>"
 
 #. [part]
 #. Epilogue A

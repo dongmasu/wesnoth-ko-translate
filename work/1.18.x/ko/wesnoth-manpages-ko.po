@@ -34,7 +34,7 @@ msgstr "2022"
 #: doc/man/wesnoth.6:16
 #, no-wrap
 msgid "wesnoth"
-msgstr "웨스노스(wesnoth)"
+msgstr "wesnoth"
 
 # type: TH
 #. type: TH
@@ -54,7 +54,7 @@ msgstr "이름"
 #. type: Plain text
 #: doc/man/wesnoth.6:20
 msgid "wesnoth - Battle for Wesnoth, a turn-based fantasy strategy game"
-msgstr "웨스노스(Wesnoth) - 턴제 판타지 전략 게임인 웨스노스(Wesnoth) 전투"
+msgstr "웨스노스(Wesnoth) - 턴제 판타지 전략 게임"
 
 # type: SH
 #. type: SH
@@ -80,7 +80,7 @@ msgstr "설명"
 #. type: Plain text
 #: doc/man/wesnoth.6:32
 msgid "Battle for B<Wesnoth> is a turn-based fantasy strategy game."
-msgstr "<웨스노스(Wesnoth)> 전쟁은 순차 방식 판타지 전략 게임입니다."
+msgstr "B<웨스노스(Wesnoth)> 전투는 턴제 판타지 전략 게임입니다."
 
 # type: Plain text
 #. type: Plain text
@@ -94,7 +94,7 @@ msgid ""
 "language and test your skill against a smart computer opponent, or join "
 "Wesnoth's large community of online players. Create your own custom units, "
 "scenarios or campaigns, and share them with others."
-msgstr "골드, 그리고 마을의 자원을 관리하기 위해서, 부대를 잘 선택하여 모든 적 리더를 물리치시기 바랍니다. 승리하기 위해서는 병력을 최대한 유리하게 배치하면서, 적은 유리하지 않도록 배치해야 합니다. 각 유닛은 경험치를 쌓으면 새로운 능력을 얻고 더 강해집니다. 컴퓨터 AI를 상대로 당신의 스킬을 테스트하거나, 웨스노스(Wesnoth)의 커뮤니티에 참여하여 플레이해보세요. 당신의 커스텀 유닛과 시나리오, 캠페인 등을 만들어서 다른 사람들과 공유할 수 있습니다."
+msgstr "골드와 마을 자원을 관리하면서 잘 선별한 병력으로 모든 적 지도자를 물리치십시오. 승리하려면 병력을 최대한 유리하게 배치하고 적에게도 같은 기회를 주지 않아야 합니다. 유닛은 경험을 쌓으면 새로운 능력을 얻고 더 강해집니다. 자신의 언어로 플레이하며 영리한 컴퓨터 상대를 상대로 실력을 시험하거나, 웨스노스(Wesnoth)의 대규모 온라인 커뮤니티에 참여할 수 있습니다. 자신만의 유닛과 시나리오, 캠페인을 만들어 다른 사람들과 공유할 수도 있습니다."
 
 # type: SH
 #. type: SH
@@ -153,7 +153,7 @@ msgstr "B<-c[>I<id_campaign>B<],\\ --campaign[>I<=id_campaign>B<]>"
 msgid ""
 "goes directly to the campaign with id I<id_campaign>.  A selection menu will "
 "appear if no id was specified."
-msgstr "id가 I<id_campaign>인 캠페인으로 바로 이동합니다. id를 지정하지 않으면 선택 메뉴가 나타납니다."
+msgstr "I<id_campaign> 식별자의 캠페인으로 바로 이동합니다. 식별자를 지정하지 않으면 선택 메뉴가 나타납니다."
 
 #. type: TP
 #: doc/man/wesnoth.6:66
@@ -179,7 +179,7 @@ msgstr "B<--campaign-scenario>I<\\ id_scenario>"
 msgid ""
 "The id of the scenario from the specified campaign. The default is the first "
 "scenario."
-msgstr "지정한 캠페인에서 시나리오의 id를 지정합니다. 기본값은 첫 번째 시나리오입니다."
+msgstr "지정한 캠페인에서 실행할 시나리오의 식별자를 지정합니다. 기본값은 첫 번째 시나리오입니다."
 
 #. type: TP
 #: doc/man/wesnoth.6:73
@@ -552,7 +552,7 @@ msgstr "B<--mp-test>"
 #. type: Plain text
 #: doc/man/wesnoth.6:217
 msgid "load the test mp scenarios."
-msgstr "테스트 mp 시나리오를 로드합니다."
+msgstr "테스트 멀티플레이 시나리오를 불러옵니다."
 
 #. type: TP
 #: doc/man/wesnoth.6:217
@@ -566,7 +566,7 @@ msgid ""
 "there is a new WIP widget toolkit, this option enables it. This is very "
 "experimental, don't fill bug reports since most are known. Parts of the "
 "library are deemed stable and will work without this switch."
-msgstr "새로운 개발 중인 위젯 도구 모음이 있으며, 이 옵션으로 활성화할 수 있습니다. 매우 실험적인 기능이므로 대부분 알려진 문제이니 버그 보고서를 작성하지 마십시오. 라이브러리의 일부는 안정적인 것으로 간주되어 이 스위치 없이도 작동합니다."
+msgstr "새로 개발 중인 위젯 도구 모음이 있으며, 이 옵션으로 활성화할 수 있습니다. 매우 실험적인 기능이고 대부분 이미 알려진 문제이므로 버그 보고서를 작성하지 마십시오. 라이브러리의 일부는 안정적인 것으로 간주되어 이 스위치 없이도 작동합니다."
 
 #. type: TP
 #: doc/man/wesnoth.6:220
@@ -705,7 +705,7 @@ msgid ""
 "(experimental) load a I<script> which defines a Wesnoth plugin. Similar to "
 "B<--script>, but Lua file should return a function which will be run as a "
 "coroutine and periodically woken up with updates."
-msgstr "(실험적) 웨스노스(Wesnoth) 플러그인을 정의하는 I<script>를 불러옵니다. B<--script>와 비슷하지만 Lua 파일이 코루틴으로 실행되고 주기적으로 업데이트와 함께 재개될 함수를 반환해야 합니다."
+msgstr "(실험적) 웨스노스(Wesnoth) 플러그인을 정의하는 I<script>를 불러옵니다. B<--script>와 비슷하지만 Lua 파일은 코루틴으로 실행할 함수를 반환해야 하며, 해당 함수는 업데이트가 있을 때 주기적으로 다시 실행됩니다."
 
 #. type: TP
 #: doc/man/wesnoth.6:266
@@ -1333,7 +1333,7 @@ msgid ""
 "produced an invalid replay file. An exit status of 4 indicates that the test "
 "passed, but the replay produced errors. These latter two are only returned "
 "if B<--noreplaycheck> is not passed."
-msgstr "유닛 테스트를 실행할 때(withB<\\ -u>)는 종료 상태가 다릅니다. 종료 상태 0은 테스트 통과를, 1은 테스트 실패를 나타냅니다. 종료 상태 3은 테스트는 통과했지만 잘못된 리플레이 파일을 생성했음을 나타냅니다. 종료 상태 4는 테스트는 통과했지만 리플레이에서 오류가 발생했음을 나타냅니다. 뒤의 두 상태는 B<--noreplaycheck>를 전달하지 않은 경우에만 반환됩니다."
+msgstr "유닛 테스트를 실행할 때(B<-u> 사용 시)는 종료 상태가 다릅니다. 종료 상태 0은 테스트 통과를, 1은 테스트 실패를 나타냅니다. 종료 상태 3은 테스트는 통과했지만 잘못된 리플레이 파일을 생성했음을 나타냅니다. 종료 상태 4는 테스트는 통과했지만 리플레이에서 오류가 발생했음을 나타냅니다. 뒤의 두 상태는 B<--noreplaycheck>를 전달하지 않은 경우에만 반환됩니다."
 
 # type: SH
 #. type: SH
@@ -1537,7 +1537,7 @@ msgstr "B<-t\\ >I<number>B<,\\ --threads>I<\\ number>"
 msgid ""
 "sets the maximum number of waiting worker threads for network I/O to n "
 "(default: B<5>,\\ max:\\ B<30>)."
-msgstr "네트워크 I/오(O)를 위해 대기할 작업자 스레드의 최대 수를 n으로 설정합니다(기본값: B<5>,\\ 최대: B<30>)."
+msgstr "네트워크 I/O를 위해 대기할 작업자 스레드의 최대 수를 n으로 설정합니다(기본값: B<5>,\\ 최대: B<30>)."
 
 # type: TP
 #. type: TP
@@ -1654,7 +1654,7 @@ msgstr "B<ban_save_file>"
 msgid ""
 "Full or relative path to a (gzip compressed) file that the server can read "
 "and write.  Bans will be saved to this file and read again on server start."
-msgstr "서버가 읽고 쓸 수 있는 (gzip으로 압축된) 파일의 절대 또는 상대 경로입니다. 차단 목록은 이 파일에 저장되며 서버가 시작할 때 다시 읽습니다."
+msgstr "서버가 읽고 쓸 수 있는 (gzip으로 압축된) 파일의 절대 또는 상대 경로입니다. 차단 목록은 이 파일에 저장되며 서버가 시작할 때 다시 불러옵니다."
 
 # type: TP
 #. type: TP
@@ -1714,7 +1714,7 @@ msgid ""
 "patterns are supported. See B<glob>(7)  for more details.  Default values "
 "(used if nothing is specified) are: B<*admin*,*admln*,*server*,ai,ai?,"
 "computer,human,network,player>."
-msgstr "서버에서 허용하지 않을 이름/별명입니다. wildcard 패턴의 B<*>와 B<?>를 지원합니다. 자세한 내용은 B<glob>(7)을 참조하십시오. 지정하지 않았을 때 사용하는 기본값은 다음과 같습니다: B<*admin*,*admln*,*server*,ai,ai?,computer,human,network,player>."
+msgstr "서버에서 허용하지 않을 이름/별명입니다. 와일드카드 패턴의 B<*>와 B<?>를 지원합니다. 자세한 내용은 B<glob>(7)을 참조하십시오. 지정하지 않았을 때 사용하는 기본값은 다음과 같습니다: B<*admin*,*admln*,*server*,ai,ai?,computer,human,network,player>."
 
 # type: TP
 #. type: TP
@@ -1923,7 +1923,7 @@ msgid ""
 "A comma separated list of version strings to be accepted by the server. B<*> "
 "and B<?> from wildcard patterns are supported.  (defaults to the "
 "corresponding wesnoth version)"
-msgstr "서버에서 허용할 버전 문자열을 쉼표로 구분한 목록입니다. wildcard 패턴의 B<*>와 B<?>를 지원합니다. (기본값은 해당 Wesnoth 버전입니다.)"
+msgstr "서버에서 허용할 버전 문자열을 쉼표로 구분한 목록입니다. 와일드카드 패턴의 B<*>와 B<?>를 지원합니다. (기본값은 해당 Wesnoth 버전입니다.)"
 
 # type: Plain text
 #. type: Plain text
@@ -1943,7 +1943,7 @@ msgid ""
 "The ID of the server when using the database functionality to store game "
 "information. Generally is the major.minor version of accepted clients, such "
 "as 1.16 or 1.17."
-msgstr "게임 정보를 저장하는 데이터베이스 기능을 사용할 때의 서버 ID입니다. 일반적으로 1.16 또는 1.17과 같이 허용된 클라이언트의 주 버전.부 버전입니다."
+msgstr "게임 정보를 저장하는 데이터베이스 기능을 사용할 때의 서버 ID입니다. 일반적으로 1.16 또는 1.17과 같이 허용된 클라이언트의 주 버전과 부 버전입니다."
 
 # type: SS
 #. type: SS
@@ -1998,7 +1998,7 @@ msgstr "B<version>"
 msgid ""
 "A comma separated list of versions to redirect. Behaves the same way as "
 "B<versions_accepted> in regard to wildcard patterns."
-msgstr "전달할 버전을 쉼표로 구분한 목록입니다. wildcard 패턴에 관해서는 B<versions_accepted>와 같은 방식으로 작동합니다."
+msgstr "전달할 버전을 쉼표로 구분한 목록입니다. 와일드카드 패턴에 관해서는 B<versions_accepted>와 같은 방식으로 작동합니다."
 
 # type: Plain text
 #. type: Plain text

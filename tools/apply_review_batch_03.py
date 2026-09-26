@@ -31,7 +31,7 @@ TRANSLATIONS = {
     "Wait a minute. There’s a tiny outline of a door in the stone. But there’s no way to open it. All I see are what look like two tiny keyholes in the stone. Now I wonder where we might find the right keys?":
         "잠깐만. 돌에 작은 문 윤곽이 보여. 하지만 열 방법이 없어. 보이는 건 돌에 난 작은 열쇠 구멍 두 개 같은 것뿐이야. 이제 맞는 열쇠를 어디서 구할 수 있을지 궁금하군.",
     "The dwarf king was away cleaning up after the recent battle, and would not be back for several days. I happily spent what little time I had learning as much as I could about these strange people. I was very impressed by their craftsmanship; they made weapons and armor of a quality I had never seen before. We were also quite the curiosity to the dwarves; I have no idea when they had last seen an elf. While some seemed suspicious or frightened of us, the dwarves overall were very polite and met our every need. Finally the summons came to meet with the dwarven king...":
-        "난쟁이 국왕은 최근 전투의 뒤처리를 위해 자리를 비워 며칠 동안 돌아오지 않을 예정이었다. 나는 얼마 남지 않은 시간을 이 낯선 종족에 대해 최대한 많이 배우며 즐겁게 보냈다. 나는 그들의 장인 정신에 깊은 인상을 받았다. 그들은 내가 지금까지 본 적 없는 품질의 무기와 갑옷을 만들었다. 우리도 난쟁이들에게 꽤 흥미로운 존재였을 것이다. 난쟁이들이 마지막으로 엘프를 본 게 언제였는지는 알 수 없었다. 몇몇은 우리를 의심하거나 두려워하는 듯했지만, 난쟁이들은 전반적으로 매우 예의 바르고 우리의 필요를 모두 충족해 주었다. 마침내 난쟁이 국왕을 만나라는 소환이 도착했다...",
+        "드워프 국왕은 최근 전투의 뒤처리를 위해 자리를 비워 며칠 동안 돌아오지 않을 예정이었다. 나는 얼마 남지 않은 시간을 이 낯선 종족에 대해 최대한 많이 배우며 즐겁게 보냈다. 나는 그들의 장인 정신에 깊은 인상을 받았다. 그들은 내가 지금까지 본 적 없는 품질의 무기와 갑옷을 만들었다. 우리도 드워프들에게 꽤 흥미로운 존재였을 것이다. 드워프들이 마지막으로 엘프를 본 게 언제였는지는 알 수 없었다. 몇몇은 우리를 의심하거나 두려워하는 듯했지만, 드워프들은 전반적으로 매우 예의 바르고 우리의 필요를 모두 충족해 주었다. 마침내 드워프 국왕을 만나라는 소환이 도착했다...",
 }
 
 

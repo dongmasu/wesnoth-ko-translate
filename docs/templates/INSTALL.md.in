@@ -93,9 +93,14 @@ MO와 언어 설정 파일을 배포 ZIP으로 묶으려면 다음처럼 실행�
 tools/build_asset.sh <버전> <최종수정일> /path/to/ko_KR.cfg
 ```
 
+버전 작업 공간에 포함된 기본 언어 설정 파일
+`work/<버전>/ko_KR.cfg`를 사용하려면 세 번째 인자를 생략할 수 있습니다.
+다른 설정 파일을 사용해야 할 때만 세 번째 인자 또는
+`WESNOTH_KO_CONFIG`를 지정합니다.
+
 예를 들어 현재 작업본은
-`tools/build_asset.sh 1.18.x 20260925 /path/to/ko_KR.cfg`로 생성하며,
-`dist/1.18.x-20260925/wesnoth-ko-translate-1.18.x-20260925.zip`에
+`tools/build_asset.sh 1.18.x 20260926 /path/to/ko_KR.cfg`로 생성하며,
+`dist/1.18.x-20260926/wesnoth-ko-translate-1.18.x-20260926.zip`에
 기록됩니다. ZIP 안의 `install.sh`와 `install.bat`은 첫 번째 인자로
 게임 루트 또는 macOS 앱의 `Contents/Resources` 경로를 받아 기존 MO 세트를
 동기화합니다.
@@ -129,31 +134,41 @@ wesnoth-ko-translate-<버전>-<최종수정일>/
 
 ### 3. macOS
 
-Mac App Store 패키지를 사용하는 경우 Finder에서 앱을 선택하고
-**패키지 내용 보기**를 선택합니다. 사용자가 확인한 경로는 다음과
-같습니다.
+macOS에서는 원본 서명 앱을 직접 수정하지 않고, standalone 앱의 복사본에
+번역을 설치하는 방법을 기본 절차로 사용합니다. 이 프로젝트에서 실제로
+확인한 실행 대상은 다음과 같습니다.
 
 ```text
-The Battle for Wesnoth.app/
-└── Contents/Resources/translations/ko/LC_MESSAGES/
+~/Applications/Wesnoth-1.18.8-unsigned.app/
 ```
 
-`%The Battle for Wesnoth%`는 Finder에서 **응용 프로그램**에 있는
-`The Battle for Wesnoth.app`를 뜻합니다. `dist/<버전>-<최종수정일>/ko/LC_MESSAGES/*.mo`를
-이 디렉터리에 복사합니다.
+#### unsigned 앱을 만들거나 갱신하는 경우
+
+스크립트가 대상 앱의 존재 여부를 자동으로 판단합니다. 대상이 없으면
+원본 standalone 앱을 복사해 unsigned 앱을 만들고, 대상이 이미 있으면
+기존 unsigned 앱의 MO와 `ko_KR.cfg`만 갱신합니다. 두 경우 모두 마지막에
+ad-hoc 서명을 다시 생성합니다.
 
 ```sh
-tools/install_mo.sh \
-  "/Applications/The Battle for Wesnoth.app/Contents/Resources/translations/ko/LC_MESSAGES"
+tools/install_mo_macos_app.sh \
+  "$HOME/Downloads/The Battle for Wesnoth.app" \
+  "$HOME/Applications/Wesnoth-1.18.8-unsigned.app"
 ```
 
-대상 경로는 반드시 실제 앱의 경로로 확인합니다. 설치 스크립트는 기존
-`*.mo`를 백업하지 않고 삭제한 뒤 새 MO로 동기화합니다. 앱 업데이트로 원본 파일이 바뀔 수 있으므로
-게임 버전에 맞는 앱 경로인지 확인하고, 복사 후 게임을 완전히 종료했다가
-다시 실행합니다. 앱 패키지가 쓰기
-금지 상태이면 관리자 권한이 필요할 수 있습니다.
+```text
+Wesnoth-1.18.8-unsigned.app/
+└── Contents/Resources/
+    ├── data/languages/ko_KR.cfg
+    └── translations/ko/LC_MESSAGES/*.mo
+```
 
-#### macOS 앱 번들을 수정하지 않는 방법
+실행은 다음처럼 합니다. 원본 앱 번들은 수정하지 않습니다.
+
+```sh
+open "$HOME/Applications/Wesnoth-1.18.8-unsigned.app"
+```
+
+#### 원본 macOS 앱을 수정하지 않는 대안
 
 macOS 앱은 서명된 리소스를 포함하므로 앱 내부의 MO를 바꾸면
 “앱이 손상되어 열 수 없습니다” 또는 `sealed resource is missing or invalid`
@@ -174,20 +189,8 @@ open "$HOME/Downloads/The Battle for Wesnoth.app" \
 그 안의 `translations/ko/LC_MESSAGES/`에 MO를 설치합니다. 원본 앱과
 서명 파일은 변경하지 않습니다.
 
-standalone 앱을 별도 복사본으로 실행하면서 앱 번들 내부의 MO를 사용하려면
-다음 스크립트를 사용할 수 있습니다. 원본 앱은 유지하고, 복사본의 기존
-서명을 제거한 뒤 MO를 설치하고 로컬 ad-hoc 서명을 다시 생성합니다.
-
-```sh
-tools/install_mo_macos_app.sh \
-  "$HOME/Downloads/The Battle for Wesnoth.app" \
-  "$HOME/Applications/Wesnoth-1.18.8-unsigned.app"
-open "$HOME/Applications/Wesnoth-1.18.8-unsigned.app"
-```
-
-이 프로젝트에서 실제로 확인한 {{WESNOTH_VERSION}} standalone 실행 명령도
-다음과 같습니다. 앱을 완전히 종료한 뒤 실행해야 하며, macOS가 다른 앱의
-데이터 접근을 물으면 허용합니다.
+이 프로젝트에서 실제로 확인한 {{WESNOTH_VERSION}} standalone 실행 명령은
+다음과 같습니다. 앱을 완전히 종료한 뒤 실행해야 합니다.
 
 ```sh
 open "$HOME/Applications/Wesnoth-1.18.8-unsigned.app"
@@ -226,6 +229,8 @@ ad-hoc 서명해야 합니다. 외부 `--data-dir` 방식에서는 앱 번들을
 완료되었다는 기준에 맞춰 locale 블록의 `percent`도 `100`으로 갱신하므로,
 실제 설정값은 `percent=100`이 되고, 진행 중 번역 표시 옵션을 켜지 않아도
 언어 목록에서 보이게 합니다.
+정렬용 `sort_name`은 항상 `Hangugeo`로 유지되며 작업 표식으로 바뀌지
+않습니다.
 
 ```sh
 tools/mark_korean_locale.sh \
@@ -523,35 +528,46 @@ translated messages.
 
 ### 3. macOS
 
-For the Mac App Store package, use Finder's **Show Package Contents** on the
-application. The verified path is:
+On macOS, the default procedure is to install the translation into a copy of
+the standalone app rather than modifying the original signed app. The verified
+target for this project is:
 
 ```text
-The Battle for Wesnoth.app/Contents/Resources/translations/ko/LC_MESSAGES/
+~/Applications/Wesnoth-1.18.8-unsigned.app/
 ```
 
-Run the install helper after confirming the bundle path:
+#### Creating or updating the unsigned app
+
+The script checks whether the target app already exists. If it does not, the
+script copies the original standalone app and creates the unsigned app. If it
+does, it updates only the existing unsigned app's MO files and `ko_KR.cfg`.
+Both paths recreate the local ad-hoc signature.
 
 ```sh
-tools/install_mo.sh \
-  "/Applications/The Battle for Wesnoth.app/Contents/Resources/translations/ko/LC_MESSAGES"
+tools/install_mo_macos_app.sh \
+  "$HOME/Downloads/The Battle for Wesnoth.app" \
+  "$HOME/Applications/Wesnoth-1.18.8-unsigned.app"
 ```
 
-The helper removes existing `*.mo` files and synchronizes the complete MO set
-without creating a backup. Other file types are preserved. If a translation problem appears, rebuild from
-`po/<version>/ko/` or `work/<version>/ko/` with `tools/build_mo.sh`, then
-install the regenerated files again. `%The Battle for Wesnoth%` means the
-`The Battle for Wesnoth.app` bundle under `/Applications` when using the
-default install location. App updates may replace the files.
-Administrator permission may be required if the application bundle is not
-writable.
+```text
+Wesnoth-1.18.8-unsigned.app/
+└── Contents/Resources/
+    ├── data/languages/ko_KR.cfg
+    └── translations/ko/LC_MESSAGES/*.mo
+```
 
-#### Avoid modifying the macOS app bundle
+Launch it with:
 
-macOS applications contain signed resources. Replacing MO files inside either
-an App Store or standalone bundle can produce “application is damaged” or
-`sealed resource is missing or invalid`. Do not modify the bundle. Use
-Wesnoth's `--data-dir` option with a writable external data directory:
+```sh
+open "$HOME/Applications/Wesnoth-1.18.8-unsigned.app"
+```
+
+Do not modify the original app bundle.
+
+#### Alternative that preserves the original macOS app
+
+If the original app must not be modified at all, use Wesnoth's `--data-dir`
+option with a writable external data directory:
 
 ```sh
 tools/install_mo_macos_external.sh \
@@ -584,6 +600,8 @@ date rather than the script execution date. Pass a second argument to use a
 specific marker. The `mark_korean_locale` helpers also set the locale block's
 `percent` value to `100`, so the language is visible without enabling the
 in-progress or abandoned translations filter.
+The sorting field `sort_name` remains the fixed value `Hangugeo` and is not
+changed to the work marker.
 The helper
 creates a backup beside the configuration file and must not be used on the
 original signed application bundle. This marker changes no translation text;
@@ -595,17 +613,6 @@ sign the copy again before launching it:
 ```sh
 APP="$HOME/Applications/Wesnoth-1.18.8-unsigned.app"
 codesign --force --deep --sign - "$APP"
-```
-
-To run a standalone app copy with bundled MO files, use the following helper.
-It preserves the original app, removes the copy's distributor signature,
-installs the MO files, and applies a local ad-hoc signature:
-
-```sh
-tools/install_mo_macos_app.sh \
-  "$HOME/Downloads/The Battle for Wesnoth.app" \
-  "$HOME/Applications/Wesnoth-1.18.8-unsigned.app"
-open "$HOME/Applications/Wesnoth-1.18.8-unsigned.app"
 ```
 
 The verified standalone launch command for this project is:

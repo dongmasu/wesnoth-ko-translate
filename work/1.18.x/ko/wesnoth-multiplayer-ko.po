@@ -230,7 +230,7 @@ msgstr "턴 종료"
 #: data/multiplayer/factions/drakes-aoh.cfg:4
 #: data/multiplayer/factions/drakes-default.cfg:4
 msgid "Drakes"
-msgstr "반룡족"
+msgstr "반룡들"
 
 #. [multiplayer_side]: id=Drakes, type=random
 #: data/multiplayer/factions/drakes-aoh.cfg:14
@@ -243,7 +243,7 @@ msgid ""
 "Drakes and from different ancestry. Together, the Drake faction has high "
 "mobility but low defense, leading to unusual tactics for a "
 "<ref>text='Default Era' dst='..era_era_default'</ref> faction."
-msgstr "<bold>text='Drakes'</bold>는 용을 닮은 <ref>text='Drakes' dst='..race_drake'</ref>와 그들의 도마뱀 <ref>text='Saurian' dst='..race_lizard'</ref> 동맹으로 이루어진 진영입니다. 반룡은 용의 후손이지만 크기는 더 작습니다. 사우리안은 반룡보다 훨씬 작고 기원도 다릅니다. 반룡 진영은 높은 기동력과 낮은 방어력을 지녀 <ref>text='Default Era' dst='..era_era_default'</ref> 진영으로서는 독특한 전술을 사용하게 됩니다."
+msgstr "<bold>text='Drakes'</bold>는 용을 닮은 <ref>text='Drakes' dst='..race_drake'</ref>와 그들의 사우리안 <ref>text='Saurian' dst='..race_lizard'</ref> 동맹으로 이루어진 진영입니다. 반룡은 용의 후손이지만 크기는 더 작습니다. 사우리안은 반룡보다 훨씬 작고 기원도 다릅니다. 반룡 진영은 높은 기동력과 낮은 방어력을 지녀 <ref>text='Default Era' dst='..era_era_default'</ref> 진영으로서는 독특한 전술을 사용하게 됩니다."
 
 #. [multiplayer_side]: id=Dunefolk, type=random
 #: data/multiplayer/factions/dunefolk-aoh.cfg:4
@@ -299,7 +299,7 @@ msgid ""
 "versatile race who specialize in many different areas. Similarly, the "
 "Loyalist faction is a very versatile melee-oriented faction with important "
 "ranged support from bowmen and mages."
-msgstr "<bold>text='Loyalists'</bold>는 Wesnoth의 왕좌에 충성하는 <ref>text='Humans' dst='..race_human'</ref> 진영입니다. 인간은 여러 분야에 특화된 다재다능한 종족입니다. 충성파 역시 매우 다재다능한 근접 중심 진영이며, 궁수와 마법사가 중요한 원거리 지원을 제공합니다."
+msgstr "<bold>text='Loyalists'</bold>는 웨스노스(Wesnoth)의 왕좌에 충성하는 <ref>text='Humans' dst='..race_human'</ref> 진영입니다. 인간은 여러 분야에 특화된 다재다능한 종족입니다. 충성파 역시 매우 다재다능한 근접 중심 진영이며, 궁수와 마법사가 중요한 원거리 지원을 제공합니다."
 
 #. [multiplayer_side]: id=Northerners, type=random, description=<img>src='portraits/orcs/warlord.webp~BG()' align='middle'</img>
 #: data/multiplayer/factions/northerners-aoh.cfg:4
@@ -847,9 +847,9 @@ msgid ""
 "granted.\n"
 "(inscribed by Elvish Pillager)"
 msgstr ""
-"나모 브람위슬(Bramwythl)은 다른 나모들조차도 느리고 과묵한 이로 여겼습니다. 그는 다른 나모들보다도 햇살 아래 홀로 서서 팔을 높이 들고 텅 빈 하늘의 아름다움을 감상하는 것을 좋아했습니다. 한때 그는 동료에게 자신의 가장 큰 소원은 영원히 태양의 영광을 쬐는 것이라고 털어놓기도 했습니다.\n"
+"워즈(Wose) 브람위슬(Bramwythl)은 다른 워즈(Wose)들(Woses)조차도 느리고 과묵한 이로 여겼습니다. 그는 다른 워즈(Wose)들(Woses)보다도 햇살 아래 홀로 서서 팔을 높이 들고 텅 빈 하늘의 아름다움을 감상하는 것을 좋아했습니다. 한때 그는 동료에게 자신의 가장 큰 소원은 영원히 태양의 영광을 쬐는 것이라고 털어놓기도 했습니다.\n"
 "\n"
-"그러나 얼마 지나지 않아 지역 나모 공동체는 끔찍한 괴물이 다가오고 있다는 소식을 들었습니다. 그 괴물은 이 지역에 사는 얼마 안 되는 나모들을 손쉽게 없앨 만큼 강력했습니다. 나모들은 서둘러 떠났지만(나모 기준으로는 서둘렀습니다), 브람위슬(Bramwythl)은 남겨졌습니다. 너무 급히 떠난 탓에 아무도 그를 찾아 위험을 알려 주지 않았던 것입니다.\n"
+"그러나 얼마 지나지 않아 지역 워즈(Wose) 공동체는 끔찍한 괴물이 다가오고 있다는 소식을 들었습니다. 그 괴물은 이 지역에 사는 얼마 안 되는 워즈(Wose)들(Woses)을 손쉽게 없앨 만큼 강력했습니다. 워즈(Wose)들(Woses)은 서둘러 떠났지만(워즈(Wose) 기준으로는 서둘렀습니다), 브람위슬(Bramwythl)은 남겨졌습니다. 너무 급히 떠난 탓에 아무도 그를 찾아 위험을 알려 주지 않았던 것입니다.\n"
 "\n"
 "브람위슬(Bramwythl)은 바실리스크의 기습을 받아 그 짐승을 알아보기도 전에 돌로 변했습니다. 그의 석화된 모습은 오늘날에도 탁 트인 하늘 아래 햇살을 받으며 그 자리에 서 있습니다. 그의 가장 큰 소원은 이루어진 셈입니다.\n"
 "(엘프 약탈자가 새김)"
@@ -974,7 +974,7 @@ msgid ""
 "Note: You need to use the default map settings for the scenario to work "
 "right."
 msgstr ""
-"불길한 예언은 혼자 혹은 두명의 팀플레이로 무작위 생성되는 적 유닛들을 상대하는 서바이벌 시나리오 입니다. 모든 웨이브로부터 살아남아야만 승리할 수 있습니다. 게임 중 무작위로 주어지는 날씨 효과로 인해 지형이 변화합니다.\n"
+"불길한 예언은 혼자 혹은 두 명의 팀플레이로 무작위 생성되는 적 유닛들을 상대하는 서바이벌 시나리오입니다. 모든 웨이브로부터 살아남아야만 승리할 수 있습니다. 게임 중 무작위로 주어지는 날씨 효과로 인해 지형이 변화합니다.\n"
 "\n"
 "참고: '맵 설정에 따른다'를 쓰지 않으면 시나리오가 제대로 실행되지 않습니다."
 

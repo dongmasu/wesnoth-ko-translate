@@ -82,10 +82,10 @@ Mac App Store, Windows, Linux별 경로와 변환 명령은
 
 컴파일된 번역 파일만 필요한 사용자는 저장소 전체를 내려받지 말고
 최신 GitHub Release의 asset ZIP을 받으면 됩니다. 현재 작업 기준 파일명은
-`wesnoth-ko-translate-1.18.x-20260925.zip`입니다.
+`wesnoth-ko-translate-1.18.x-20260926.zip`입니다.
 
-- [GitHub Release: wesnoth-ko-translate-1.18.x-20260925](https://github.com/dongmasu/wesnoth-ko-translate/releases/tag/wesnoth-ko-translate-1.18.x-20260925)
-- [ZIP asset 다운로드](https://github.com/dongmasu/wesnoth-ko-translate/releases/download/wesnoth-ko-translate-1.18.x-20260925/wesnoth-ko-translate-1.18.x-20260925.zip)
+- [GitHub Release: wesnoth-ko-translate-1.18.x-20260926](https://github.com/dongmasu/wesnoth-ko-translate/releases/tag/wesnoth-ko-translate-1.18.x-20260926)
+- [ZIP asset 다운로드](https://github.com/dongmasu/wesnoth-ko-translate/releases/download/wesnoth-ko-translate-1.18.x-20260926/wesnoth-ko-translate-1.18.x-20260926.zip)
 
 ZIP에는 MO 파일, `ko_KR.cfg`, 설치 안내와 설치 스크립트가 들어갑니다.
 Release asset이 게시된 뒤에는 저장소 전체를 clone하지 않고 위의 ZIP 링크만
@@ -251,10 +251,10 @@ at its root. It contains `data/languages/ko_KR.cfg` and
 
 Users who only need the compiled translation files can download the latest
 GitHub Release asset ZIP instead of cloning the repository. The current asset
-name is `wesnoth-ko-translate-1.18.x-20260925.zip`.
+name is `wesnoth-ko-translate-1.18.x-20260926.zip`.
 
-- [GitHub Release: wesnoth-ko-translate-1.18.x-20260925](https://github.com/dongmasu/wesnoth-ko-translate/releases/tag/wesnoth-ko-translate-1.18.x-20260925)
-- [Download ZIP asset](https://github.com/dongmasu/wesnoth-ko-translate/releases/download/wesnoth-ko-translate-1.18.x-20260925/wesnoth-ko-translate-1.18.x-20260925.zip)
+- [GitHub Release: wesnoth-ko-translate-1.18.x-20260926](https://github.com/dongmasu/wesnoth-ko-translate/releases/tag/wesnoth-ko-translate-1.18.x-20260926)
+- [Download ZIP asset](https://github.com/dongmasu/wesnoth-ko-translate/releases/download/wesnoth-ko-translate-1.18.x-20260926/wesnoth-ko-translate-1.18.x-20260926.zip)
 
 The ZIP contains the MO files, `ko_KR.cfg`, installation instructions, and
 installation scripts. Once the Release asset is published, users only need to

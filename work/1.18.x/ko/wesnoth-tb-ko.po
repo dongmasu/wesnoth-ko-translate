@@ -527,7 +527,7 @@ msgstr ""
 #. [side]: type=Elvish Rider, id=Nil-Galion
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:88
 msgid "Elves"
-msgstr "엘프족"
+msgstr "엘프들"
 
 #. [side]: type=Elvish Rider, id=Nil-Galion
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:93
@@ -701,7 +701,7 @@ msgid ""
 "Hah! You have captured me, but it will avail you nothing. I sent your "
 "precious brother the mage north with half my men a day since; he will be "
 "safely locked away in our master’s dungeons by now."
-msgstr "하아! 당신들은 날 잡았지만, 그걸로 달라지는 건 없어. 내가 당신의 소중한 마법사 동생을 내 부하의 절반과 같이 북쪽으로 보낸 지 벌써 하루가 지났거든. 그는 이제 주인님의 던전에서 안전하게 감금되어 있을 거요."
+msgstr "하아! 너희는 날 잡았지만, 그걸로 달라지는 건 없어. 내가 네 소중한 마법사 동생을 내 부하의 절반과 함께 북쪽으로 보낸 지 벌써 하루가 지났거든. 그는 이제 주인님의 던전에서 안전하게 감금되어 있을 거요."
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:561
@@ -791,7 +791,7 @@ msgstr "브렌나(Brena)"
 msgid ""
 "Greetings. I am Brena, a knight errant. I saw you pursuing and fighting the "
 "foul undead. Are there more of them to be destroyed?"
-msgstr "안녕하시오. 나는 모험 기사 브렌나(Brena)라오. 당신이 더러운 언데드를 추적하고 싸우는 것을 보았소. 더 쳐부술 녀석이 있소?"
+msgstr "안녕하시오. 나는 모험 기사 브렌나(Brena)라오. 자네가 더러운 언데드를 추적하고 싸우는 것을 보았소. 더 쳐부술 녀석이 있소?"
 
 #. [message]: speaker=Arvith
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:636
@@ -805,7 +805,7 @@ msgstr "음. 여기서 북동쪽에 놈들의 아지트가 있는 것 같소. �
 msgid ""
 "I bear a great hatred towards their kind. I will follow and fight them with "
 "you, if you permit."
-msgstr "난 그런 종자들에게 큰 혐오감을 가지고 있다오. 당신이 허락한다면 나도 당신을 따라가 함께 싸우고 싶소."
+msgstr "난 그런 종자들에게 큰 혐오감을 가지고 있다오. 자네가 허락한다면 나도 자네를 따라가 함께 싸우고 싶소."
 
 #. [message]: role=Mercenary
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:646
@@ -825,7 +825,7 @@ msgstr "오, 그럼 좋소. 우리와 같이 갑시다."
 #. [message]: speaker=Brena
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:657
 msgid "Thank you. My comrades and I will help you on your noble quest."
-msgstr "고맙소. 나와 내 동지들이 당신의 고귀한 임무에 동참할 것이오."
+msgstr "고맙소. 나와 내 동지들이 자네의 고귀한 임무에 동참할 것이오."
 
 #. [option]
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:662
@@ -837,7 +837,7 @@ msgstr "미안하오. 시간이 별로 없소."
 msgid ""
 "Take this, then, for I see that you are on a quest. My comrades will help "
 "you whenever you call for them."
-msgstr "내가 보니 당신은 임무 중인 듯 하니 이것을 가져가시오. 당신이 언제든 부르기만 하면 내 동지들이 당신을 도울 것이오."
+msgstr "내가 보니 자네는 임무 중인 듯하니 이것을 가져가시오. 자네가 언제든 부르기만 하면 내 동지들이 자네를 도울 것이오."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Two_Brothers/scenarios/02_The_Chase.cfg:681
@@ -1274,7 +1274,7 @@ msgstr "나도 그렇다, 아우야."
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:867
 msgid ""
 "You must be one of Arvith’s men. Please help me get out of this dungeon."
-msgstr "당신은 형님의 부하로군요. 내가 이 던전에서 나가게 좀 도와주시오."
+msgstr "자네는 형님의 부하로군요. 내가 이 던전에서 나가게 좀 도와주시오."
 
 #. [message]: speaker=Baran
 #: data/campaigns/Two_Brothers/scenarios/03_Guarded_Castle.cfg:874

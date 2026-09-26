@@ -100,8 +100,8 @@ Acquaintance in Need	위기에 처한 이웃	窮地の知人	危难中的熟人	
 Across the Harsh Sands	거친 모래밭을 건너	過酷な砂漠を越えて	穿越黄沙	campaign_name		
 Action	행동	動作	动作	term		
 Action Bonus	행동 보너스	行動ボーナス	行动奖励	term		
-Actions	행동 메뉴	アクション	行动	term		
-Actions button	액션 버튼	アクションボタン	“行动”按钮	term		
+Actions	행동	アクション	行动	term		원문에 Menu가 없는 UI 라벨은 행동 메뉴로 확장하지 않음
+Actions button	행동 버튼	アクションボタン	“行动”按钮	term		Actions의 UI 번역을 행동으로 통일
 Activates Planning Mode on game start	게임 시작 시 계획 모드 활성화	計画モードをゲーム開始時に有効にします	当游戏开始时，激活计划模式	term		
 Adamant armor	아다만트 갑옷	堅牢の鎧	韧甲	item_name		
 Adamar	아다마르(Adamar)	Adamar	阿达马尔	proper_noun		
@@ -129,7 +129,7 @@ Adobe Village	어도비 마을	煉瓦の村	泥砖村庄	terrain
 Adran	아드란(Adran)	Adran	阿德兰	unit_name		
 Advance Unit	유닛 레벨 업	ユニットのレベルアップ	升级单位	term		
 Advanced	고급	上級	高级	term		
-Advanced options	고급 선택사항	詳細オプション	高级选项	term		
+Advanced options	고급 옵션	詳細オプション	高级选项	term		
 Advancement	승급	レベルアップ	升级	term		
 Aelion	애리온(Aelion)	Aelion	阿埃利翁	proper_noun		
 Aeraeka	아에라에카(Aeraeka)	Aeraeka	艾瑞卡	unit_name		
@@ -181,7 +181,7 @@ Alpha Testing	알파(Alpha) 테스트	アルファテスト	Alpha测试	term
 Altar	제단	祭壇	祭坛	item_name		
 Alternate Wesnoth Server	대체 웨스노스(Wesnoth) 서버	他のWesnothサーバー	备选韦诺服务器	term		게임 이름은 한 번만 병기
 Althasol	알타솔(Althasol)	Althasol	艾尔萨索尔	faction		
-Always rest heals	항상 휴식 회복	常時休息回復	总是能获得休息疗伤效果	trait		
+Always rest heals	상시 휴식 회복	常時休息回復	总是能获得休息疗伤效果	trait		
 Alwyn	알윈(Alwyn)	Alwyn	奥尔温	proper_noun		
 Ambush	매복	伏兵	伏击	term		
 Ambushers	매복병	伏兵	伏兵	faction		
@@ -195,7 +195,7 @@ Ancient Lich	고대의 리치(Lich)	古代リッチ	上古巫妖	unit_name
 Ancient Ogre	고대 오우거(Ogre)	古代オーガ	上古食人魔	unit_name		
 Ancient Stone Floor	고대 돌바닥	古代の石の床	古老石地板	terrain		
 Ancient Stone Wall	고대 돌벽	古代の石壁	古老石墙	terrain		
-Ancient Wose	먼 옛적의 나모	古代ウーズ	上古树人	unit_name		
+Ancient Wose	먼 옛적의 워즈(Wose)	古代ウーズ	上古树人	unit_name		기존 `먼 옛적의` 표현을 보존하고 Wose는 종족명으로 병기
 Anduilas	안두이라스(Anduilas)	Anduilas	安杜拉斯	proper_noun		
 Angarthing	앙가르팅(Angarthing)	Angarthing	安伽辛	proper_noun		
 Angedd	앙게드(Angedd)	Angedd	安格德	proper_noun		
@@ -584,7 +584,7 @@ Civilian	시민	一般市民	平民	campaign_name
 Claiomh Dubh	클라이오흐 두브	Claiomh Dubh	克莱欧·达博	unit_name		
 Clan	일족	not found	not found	faction	씨족	일반 명칭은 음차 병기하지 않음
 Clan Captain	부족 대장	クランの隊長	氏族队长	unit_name		
-Clan Whitefang	하얀(Whitefang) 송곳니 일족	Whitefang 氏族	白牙氏族	faction		Whitefang은 의미를 번역한 이름이며 Clan은 일반 명사이므로 영어 병기를 붙이지 않음
+Clan Whitefang	화이트팽(Whitefang) 일족	Whitefang 氏族	白牙氏族	faction		Whitefang은 고유 세력명으로 음차·병기하며 Clan은 일반 명사이므로 별도 병기하지 않음
 Clartakis	클라르타키스(Clartakis)	Clartakis	克拉塔基斯	person_name		
 Clarustus	클라루스투스(Clarustus)	Clarustus	卡拉鲁斯图斯	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
 Clash at the Manor	저택에서의 충돌	荘園での激突	采邑激战	campaign_name		
@@ -593,16 +593,16 @@ Clayey	진흙	粘土	粘土	proper_noun
 Clean	지움	クリーン（Clean）	清理	term		
 Clean Gray Cobbles	깨끗한 회색 자갈	綺麗な石畳	干净的灰色卵石	terrain		
 Clean Stone Wall	깨끗한 돌벽	綺麗な石壁	干净石墙	terrain		
-Clear	지움	クリアする	清除	term		
+Clear	지우기	クリアする	清除	term		
 Clear Chat	채팅 지우기	チャットの消去	清除对话	term		
 Clear Console	콘솔 지우기	コンソールのクリア	清除控制台	term		
 Clear Hotkey	단축키 제거	ホットキーの消去	清除快捷键	term		
 Clear Labels	딱지를 지움	ラベルの消去	清除标签	term		
 Clear Weather	맑은 날	晴天	晴天	term		
-Clear output	출력물을 지움	出力内容をクリアします	清除输出	term		
+Clear output	출력 지우기	出力内容をクリアします	清除输出	term		
 Clearing the Mines	광산 정리	鉱山の掃除	清理矿脉	campaign_name		
-Clearwater Lake	맑은물(Clearwater) 호수	透水湖	清水湖	place_name		
-Clearwater Port	맑은물(Clearwater) 항구	透水港	清水港	campaign_name		
+Clearwater Lake	맑은물(Clearwater) 호수	透水湖	清水湖	place_name		일반명사처럼 의미역 가능한 지명이지만 게임 내 고유 호수명이므로 한국어 의미역 뒤에 원문을 병기
+Clearwater Port	맑은물(Clearwater) 항구	透水港	清水港	campaign_name		일반명사처럼 의미역 가능한 지명이지만 게임 내 고유 항구명이므로 한국어 의미역 뒤에 원문을 병기
 Cleodil	클레오딜(Cleodil)	Cleodil	科柳迪	proper_noun		
 Cleon	클레온(Cleon)	Cleon	克里昂	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
 Cliff	절벽	断崖	悬崖	proper_noun		
@@ -615,7 +615,7 @@ Clogrin	클로그린(Clogrin)	Clogrin	克洛格林	proper_noun
 Close	닫기	閉じる	关闭	term		
 Close Map	맵 닫기	マップを閉じる	关闭地图	term		
 Closed Coffin	닫힌 관	閉じた棺桶	关着的棺材	item_name		
-Closed Dwarven Doors	닫힌 난쟁이의 문	閉じたドワーフの戸口	关着的矮人门	item_name		
+Closed Dwarven Doors	닫힌 드워프의 문	閉じたドワーフの戸口	关着的矮人门	item_name		
 Closed Plain Chest	닫힌 평범한 상자	閉じた質素な箱	关着的普通箱子	item_name		
 Closed Trapdoor	닫힌 바닥문	閉じた落とし戸	关闭的活版门	item_name		
 Closing the Gates	문 닫기	門を封鎖しろ	紧闭大门	campaign_name		
@@ -704,7 +704,7 @@ Crystal Bow	수정 활	水晶の弓	水晶弓	item_name
 Crystal Caves	수정 동굴	水晶の洞窟	水晶洞穴	terrain		
 Crystal Quiver	수정 화살통	水晶の矢筒	水晶箭筒	item_name		
 Cultists	광신도	Cultists	科尔蒂茨	faction		
-Cures	치유	治療	疗毒	proper_noun		
+Cures	치료	治療	疗毒	term	치유; 해독	독·상태 이상 제거 능력명
 Current Status	현재 상태	現在の状況	当前状态	term		
 Current hex type	현재 육각 타일 유형	マウスカーソルのあるヘクスの種類	当前六角格类型	term		
 Curse	저주	呪い	诅咒	term		
@@ -763,7 +763,7 @@ Day-phase	주간 단계	時間帯	时段	term
 Dead Great Oak Tree	죽은 큰 참나무	枯れたオークの大木	已死的参天橡树	terrain		
 Dead Great Tree	죽은 거목	枯れた大木	已死的参天树	terrain		
 Dead Water	죽음의 바다	死の海	死水	campaign_name		
-Dealing with Dwarves	난쟁이족과의 거래	ドワーフとの取引	面对矮人	campaign_name		
+Dealing with Dwarves	드워프들과의 거래	ドワーフとの取引	面对矮人	campaign_name	난쟁이족	영어 복수형 Dwarves는 드워프들로 표기
 Dealings	거래	取り引き	交易	campaign_name		
 Death	사망	死	死亡	term		
 Death Guard	죽음의 수호대	死の護衛	死亡卫队	proper_noun		
@@ -774,7 +774,7 @@ Debug Commands	디버그 명령	デバッグコマンド	调试命令	term
 Debug level logging: maximum information	디버그 수준 로그: 최대 정보	Debug レベルログ：すべての情報	调试级日志：最多信息量	term		
 Decay	부패	腐敗	衰败	term		
 Deep Dwellers	심층 거주자	穴居人	深居者	faction		
-Deep One	엉큼한 사람	深きもの	深渊乌贼	unit_name		
+Deep One	딥 원(Deep One)	深きもの	深渊乌贼	unit_name	고유 유닛명은 음차·영어 병기; 복수형 설명은 `딥 원들(Deep Ones)`
 Deep Underground	지하 심층	深い地下	深层地下	term		
 Deep Water	깊은 물	深水	深水	terrain		
 Deep water	깊은 물	深水	深水	term		
@@ -791,8 +791,9 @@ Defender	수비자	防御側	防守方	faction
 Defender resistance vs	방어자의 저항력:	防御側の耐性：	防守方抗性 vs	term		
 Defender vulnerability vs	방어자의 취약성:	防御側の弱点：	防守方弱点 vs	term		
 Defenders	수비자들	防衛隊	守卫者	faction		
-Defense	방어도	回避	防御	term		
-Defenses	방어도	回避	防御	term		
+Defense	방어율	回避	防御	term		공격력처럼 고정 피해량이 아니라 지형별 백분율로 표시되는 게임 수치이므로 수치 UI에서는 방어율로 번역. 일반적인 방어 행위·서술 문맥은 방어로 자연스럽게 번역할 수 있음
+Defense Cap	방어율 상한	防御上限	防御上限	term		Defense가 수치 UI에서 방어율로 표시되므로, 혼합 지형에서 적용되는 방어율의 상한은 방어율 상한으로 구분
+Defenses	방어율	回避	防御	term		지형·유닛 수치 UI에서 방어율을 뜻하는 복수형 표기
 DejaVu Sans Mono	DejaVu Sans Mono	DejaVu Sans Mono	DejaVu Sans Mono,Droid Sans Fallback	identifier		
 Dela Keshar	델라 케샤르(Dela Keshar)	Dela Keshar	德拉·凯沙	unit_name		
 Delay Shroud Updates	안개/장막 상태 갱신을 미룬다	幕の更新を遅らせる	暂缓更新黑幕	term		
@@ -855,7 +856,7 @@ Dirt	흙밭	荒地	尘土	terrain
 Disable Background Image	배경 이미지 비활성화	背景画像の無効化	禁用背景图片	term		
 Disable automatic moves	자동 이동 사용 안 함	自動移動を無効にする	禁用自动移动	term		
 Disable logging	로깅 사용 안 함	ログの無効化	禁用日志	term		
-Disable spellchecking	맞춤법 검사를 사용 안함 설정	スペルチェックを無効にする	禁用拼写检查	term		
+Disable spellchecking	맞춤법 검사 비활성화	スペルチェックを無効にする	禁用拼写检查	term		
 Disaster	재난	惨事	灾难	proper_noun		
 Discord	Discord	Discord	Discord	proper_noun		
 Dismiss	닫기	解雇	解散	term		
@@ -897,7 +898,7 @@ Drake Thrasher	반룡 매타작하는 자	ドレークの処罰者	龙人痛击�
 Drake Village	드레이크 마을	ドレークの村	龙人村庄	terrain		
 Drake Warden	반룡 관리장	ドレークの長官	龙人守望者	unit_name		
 Drake Warrior	반룡 전사	ドレークの熟練戦士	龙人武士	unit_name		
-Drakes	반룡족	ドレーク	龙人	race_name	반룡들; Drakes	
+Drakes	반룡들	ドレーク	龙人	race_name	반룡족; Drakes	
 Dran	드란(Dran)	Dran	杜安	unit_name		
 Drapug	드라푸그(Drapug)	Drapug	德拉普	proper_noun		
 Draug	전쟁의 망령	ドラウグ	战魂	unit_name		
@@ -924,7 +925,7 @@ Drunken Fist Style	취권	酔拳	醉拳风格	term
 Dry Dirt	마른 흙밭	乾いた荒地	干燥尘土	terrain		
 Dry Grass	마른 잔디	乾いた草原	干草	terrain		
 Dry Hills	건조한 언덕	乾いた丘	干燥丘陵	terrain		
-Dry Impassable Mountains	건조한 통과 불능 산맥	乾いた通行不能の山	干燥的高不可攀的山岭	terrain		
+Dry Impassable Mountains	건조한 통과 불가 산맥	乾いた通行不能の山	干燥的高不可攀的山岭	terrain		
 Dry Mountains	건조한 산	乾いた山	干燥山岭	terrain		
 Dry run	시험 실행	試験実行（Dry Run）	试运行	term		
 Ducatithil	두카티실(Ducatithil)	Ducatithil	杜卡提希尔	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
@@ -958,22 +959,22 @@ Dutch Translation	네덜란드어 번역 담당	オランダ語翻訳	荷兰文�
 Dwaba-Kukai	드와바-쿠카이(Dwaba-Kukai)	Dwaba-Kukai	达瓦巴-库凯	faction		
 Dwalim	드왈림(Dwalim)	Dwalim	瓦林	unit_name		
 Dwar-Ni	드와르-니(Dwar-Ni)	Dwar-Ni	德瓦-尼	faction		
-Dwarf Ally	동맹 난쟁이	ドワーフの友軍	矮人同盟	faction		
-Dwarf Avenger	복수자 난쟁이	ドワーフの復讐者	矮人复仇者	unit_name		
-Dwarf Chieftain	추장 난쟁이	ドワーフの族長	矮人领主	faction		
-Dwarf Conscript	징집병 난쟁이	ドワーフの徴集兵	矮人新兵	unit_name		
-Dwarf Defender	수비병 난쟁이	ドワーフの防衛隊	矮人守卫	unit_name		
-Dwarf Ghost	난쟁이 유령	ドワーフの幽霊	矮人幽灵	unit_name		
-Dwarf Grenadier	난쟁이 폭탄투척병	ドワーフの擲弾兵	矮人掷弹兵	unit_name		
-Dwarf Guard	경비병 난쟁이	ドワーフの衛兵	矮人守卫	unit_name		
-Dwarf Hermit	난쟁이 은둔자	ドワーフの隠者	矮人隐居者	unit_name		
+Dwarf Ally	동맹 드워프	ドワーフの友軍	矮人同盟	faction		
+Dwarf Avenger	복수자 드워프	ドワーフの復讐者	矮人复仇者	unit_name		
+Dwarf Chieftain	추장 드워프	ドワーフの族長	矮人领主	faction		
+Dwarf Conscript	징집병 드워프	ドワーフの徴集兵	矮人新兵	unit_name		
+Dwarf Defender	수비병 드워프	ドワーフの防衛隊	矮人守卫	unit_name		
+Dwarf Ghost	드워프 유령	ドワーフの幽霊	矮人幽灵	unit_name		
+Dwarf Grenadier	드워프 폭탄투척병	ドワーフの擲弾兵	矮人掷弹兵	unit_name		
+Dwarf Guard	경비병 드워프	ドワーフの衛兵	矮人守卫	unit_name		
+Dwarf Hermit	드워프 은둔자	ドワーフの隠者	矮人隐居者	unit_name		
 Dwarf High Guard	드워프 고위 경비대	ドワーフの上級衛兵	矮人高阶守卫	unit_name		
-Dwarf Leader	난쟁이 대장	ドワーフのリーダー	矮人首领	unit_name		
-Dwarf Scout	난쟁이 정찰꾼	ドワーフの斥候	矮人哨兵	unit_name		
-Dwarf Sergeant	난쟁이 하사	ドワーフの軍曹	矮人军士	unit_name		
-Dwarf Skirmisher	난쟁이 척후병	ドワーフの散兵	矮人散兵	unit_name		
-Dwarf Thunderer	난쟁이 천둥사	ドワーフの雷撃兵	矮人雷霆战士	unit_name		
-Dwarven Belt	난쟁이제 허리띠	ドワーフのベルト	矮人腰带	item_name		
+Dwarf Leader	드워프 대장	ドワーフのリーダー	矮人首领	unit_name		
+Dwarf Scout	드워프 정찰꾼	ドワーフの斥候	矮人哨兵	unit_name		
+Dwarf Sergeant	드워프 하사	ドワーフの軍曹	矮人军士	unit_name		
+Dwarf Skirmisher	드워프 척후병	ドワーフの散兵	矮人散兵	unit_name		
+Dwarf Thunderer	드워프 천둥사	ドワーフの雷撃兵	矮人雷霆战士	unit_name		
+Dwarven Belt	드워프제 허리띠	ドワーフのベルト	矮人腰带	item_name		
 Dwarven Castle	드워프 성채	ドワーフの城	矮人城堡	terrain		
 Dwarven Castle Keep	드워프 성채 본영	ドワーフの城の主塔	矮人城堡主楼	terrain		
 Dwarven Castle Ruins	드워프 성 폐허	ドワーフの荒城	矮人城堡废墟	terrain		
@@ -981,39 +982,39 @@ Dwarven Ruin Keep	폐허가 된 드워프 본영	ドワーフの廃墟の主塔	
 Dwarven Underground Castle	드워프 지하 성	ドワーフの地下城	矮人地下城堡	terrain		
 Dwarven Underground Keep	드워프 지하 본영	ドワーフの地下主塔	矮人地下城堡主楼	terrain		
 Dwarven Village	드워프식 마을	ドワーフの村	矮人村庄	terrain		
-Dwarves	난쟁이족	ドワーフ	矮人	race_name	난쟁이들; 드워프들	
-Dwarvish Annalist	난쟁이 연대기 기록자	ドワーフの年代記編者	矮人述史者	unit_name		
-Dwarvish Arcanister	난쟁이의 비전의 명인	ドワーフの秘儀術師	矮人奥术师	unit_name		
-Dwarvish Berserker	난쟁이의 광전사	ドワーフの熟練狂戦士	矮人狂熊战士	unit_name		
-Dwarvish Dragonguard	난쟁이의 뇌룡근위대	ドワーフのドラゴン衛兵	矮人龙卫士	unit_name		
-Dwarvish Explorer	난쟁이의 탐험가	ドワーフの探検家	矮人探险者	unit_name		
-Dwarvish Fighter	난쟁이의 투사	ドワーフの戦士	矮人战士	unit_name		
-Dwarvish Guardsman	난쟁이의 경비병	ドワーフの警護兵	矮人卫兵	unit_name		
-Dwarvish Lord	난쟁이의 군주	ドワーフの貴族	矮人领主	unit_name		
-Dwarvish Loremaster	난쟁이제 전승의 대가	ドワーフの伝承者	矮人博学士	unit_name		
-Dwarvish Masked Berserker	난쟁이제 가면 쓴 광전사	ドワーフの覆面熟練狂戦士	戴面具的矮人狂熊战士	unit_name		
-Dwarvish Masked Dragonguard	난쟁이제 가면 쓴 뇌룡근위대	ドワーフの覆面ドラゴン衛兵	戴面具的矮人龙卫士	unit_name		
-Dwarvish Masked Fighter	난쟁이제 가면 쓴 싸움꾼	ドワーフの覆面戦士	戴面具的矮人战士	unit_name		
-Dwarvish Masked Guardsman	난쟁이제 가면 쓴 경비병	ドワーフの覆面警護兵	戴面具的矮人卫兵	unit_name		
-Dwarvish Masked Lord	난쟁이제 가면 쓴 영주	ドワーフの覆面貴族	戴面具的矮人领主	unit_name		
-Dwarvish Masked Sentinel	난쟁이제 가면 쓴 보초병	ドワーフの覆面精鋭防御兵	戴面具的矮人哨卫	unit_name		
-Dwarvish Masked Stalwart	난쟁이제 가면 쓴 충실한 일꾼	ドワーフの覆面守備兵	戴面具的矮人坚守者	unit_name		
-Dwarvish Masked Steelclad	난쟁이제 가면 쓴 갑옷입은	ドワーフの覆面装甲歩兵	戴面具的矮人铁甲兵	unit_name		
-Dwarvish Masked Thunderer	난쟁이제 가면 쓴 천둥사	ドワーフの覆面銃撃兵	戴面具的矮人雷霆战士	unit_name		
-Dwarvish Masked Thunderguard	난쟁이제 가면 쓴 천둥경비병	ドワーフの覆面精鋭銃撃兵	戴面具的矮人雷霆卫士	unit_name		
-Dwarvish Masked Ulfserker	난쟁이제 가면 쓴 광투사	ドワーフの覆面狂戦士	戴面具的矮人狂狼战士	unit_name		
-Dwarvish Pathfinder	난쟁이 길잡이	ドワーフの坑道探査人	矮人寻路者	unit_name		
-Dwarvish Runemaster	난쟁이 룬의 달인	ドワーフのルーンマスター	矮人符文大师	unit_name		
-Dwarvish Runesmith	난쟁이 룬의 대장장이	ドワーフのルーンスミス	矮人符文工匠	unit_name		
-Dwarvish Scout	난쟁이 정찰꾼	ドワーフの斥候	矮人侦察兵	unit_name		
-Dwarvish Sentinel	난쟁이 감시병	ドワーフの精鋭防御兵	矮人哨卫	unit_name		
-Dwarvish Stalwart	난쟁이 방비병	ドワーフの守備兵	矮人坚守者	unit_name		
-Dwarvish Steelclad	난쟁이 철갑병	ドワーフの装甲歩兵	矮人铁甲兵	unit_name		
-Dwarvish Thunderer	난쟁이 천둥사	ドワーフの雷撃兵	矮人雷霆战士	unit_name		
-Dwarvish Thunderguard	난쟁이의 천둥 수호자	ドワーフの雷撃衛兵	矮人雷霆卫士	unit_name		
-Dwarvish Ulfserker	난쟁이 광투사	ドワーフの狂戦士	矮人狂狼战士	unit_name		
-Dwarvish Witness	난쟁이제 목격자	ドワーフの証人	矮人见证者	unit_name		
-EI	침동	EI	EI	campaign_name		캠페인 약어는 음차 병기 대상이 아니므로 한국어 제목만 사용
+Dwarves	드워프들	ドワーフ	矮人	race_name	난쟁이들; 난쟁이족	
+Dwarvish Annalist	드워프 연대기 기록자	ドワーフの年代記編者	矮人述史者	unit_name		
+Dwarvish Arcanister	드워프의 비전의 명인	ドワーフの秘儀術師	矮人奥术师	unit_name		
+Dwarvish Berserker	드워프의 광전사	ドワーフの熟練狂戦士	矮人狂熊战士	unit_name		
+Dwarvish Dragonguard	드워프의 뇌룡근위대	ドワーフのドラゴン衛兵	矮人龙卫士	unit_name		
+Dwarvish Explorer	드워프의 탐험가	ドワーフの探検家	矮人探险者	unit_name		
+Dwarvish Fighter	드워프의 투사	ドワーフの戦士	矮人战士	unit_name		
+Dwarvish Guardsman	드워프의 경비병	ドワーフの警護兵	矮人卫兵	unit_name		
+Dwarvish Lord	드워프의 군주	ドワーフの貴族	矮人领主	unit_name		
+Dwarvish Loremaster	드워프제 전승의 대가	ドワーフの伝承者	矮人博学士	unit_name		
+Dwarvish Masked Berserker	드워프제 가면 쓴 광전사	ドワーフの覆面熟練狂戦士	戴面具的矮人狂熊战士	unit_name		
+Dwarvish Masked Dragonguard	드워프제 가면 쓴 뇌룡근위대	ドワーフの覆面ドラゴン衛兵	戴面具的矮人龙卫士	unit_name		
+Dwarvish Masked Fighter	드워프제 가면 쓴 싸움꾼	ドワーフの覆面戦士	戴面具的矮人战士	unit_name		
+Dwarvish Masked Guardsman	드워프제 가면 쓴 경비병	ドワーフの覆面警護兵	戴面具的矮人卫兵	unit_name		
+Dwarvish Masked Lord	드워프제 가면 쓴 영주	ドワーフの覆面貴族	戴面具的矮人领主	unit_name		
+Dwarvish Masked Sentinel	드워프제 가면 쓴 보초병	ドワーフの覆面精鋭防御兵	戴面具的矮人哨卫	unit_name		
+Dwarvish Masked Stalwart	드워프제 가면 쓴 충실한 일꾼	ドワーフの覆面守備兵	戴面具的矮人坚守者	unit_name		
+Dwarvish Masked Steelclad	드워프제 가면 쓴 갑옷입은	ドワーフの覆面装甲歩兵	戴面具的矮人铁甲兵	unit_name		
+Dwarvish Masked Thunderer	드워프제 가면 쓴 천둥사	ドワーフの覆面銃撃兵	戴面具的矮人雷霆战士	unit_name		
+Dwarvish Masked Thunderguard	드워프제 가면 쓴 천둥경비병	ドワーフの覆面精鋭銃撃兵	戴面具的矮人雷霆卫士	unit_name		
+Dwarvish Masked Ulfserker	드워프제 가면 쓴 광투사	ドワーフの覆面狂戦士	戴面具的矮人狂狼战士	unit_name		
+Dwarvish Pathfinder	드워프 길잡이	ドワーフの坑道探査人	矮人寻路者	unit_name		
+Dwarvish Runemaster	드워프 룬의 달인	ドワーフのルーンマスター	矮人符文大师	unit_name		
+Dwarvish Runesmith	드워프 룬의 대장장이	ドワーフのルーンスミス	矮人符文工匠	unit_name		
+Dwarvish Scout	드워프 정찰꾼	ドワーフの斥候	矮人侦察兵	unit_name		
+Dwarvish Sentinel	드워프 감시병	ドワーフの精鋭防御兵	矮人哨卫	unit_name		
+Dwarvish Stalwart	드워프 방비병	ドワーフの守備兵	矮人坚守者	unit_name		
+Dwarvish Steelclad	드워프 철갑병	ドワーフの装甲歩兵	矮人铁甲兵	unit_name		
+Dwarvish Thunderer	드워프 천둥사	ドワーフの雷撃兵	矮人雷霆战士	unit_name		
+Dwarvish Thunderguard	드워프의 천둥 수호자	ドワーフの雷撃衛兵	矮人雷霆卫士	unit_name		
+Dwarvish Ulfserker	드워프 광투사	ドワーフの狂戦士	矮人狂狼战士	unit_name		
+Dwarvish Witness	드워프제 목격자	ドワーフの証人	矮人见证者	unit_name		
+EI	동부 침공	EI	EI	campaign_name		캠페인 약어도 한국어 캠페인 제목으로 표시
 ENLIGHTENED	깨달음	覚醒	觉悟	term		
 Eagle eye longbow	독수리 눈의 장궁	鷹の目の長弓	鹰眼长弓	item_name		
 Early Arrival	조기 도착	早過ぎた到着	先至	campaign_name		
@@ -1048,7 +1049,7 @@ Eidolon	환영	アイドウロン	幻象	proper_noun
 Elbridge	엘브리지(Elbridge)	Elbridge	艾尔桥	proper_noun		
 Elcmar	엘크마르(Elcmar)	Elcmar	艾尔克玛	unit_name		
 Elder Mage	원로 마법사	老魔術師	老法师	unit_name		
-Elder Wose	원로 나모	老ウーズ	树人长者	unit_name		Wose의 기존 표준 번역 `나모`를 유지하고 Elder만 `원로`로 번역
+Elder Wose	원로 워즈(Wose)	老ウーズ	树人长者	unit_name		Wose는 종족명이며 `워즈(Wose)`로 병기
 Eldred	엘드레드(Eldred)	Eldred	埃雷德	person_name		
 Eleben	엘레벤(Eleben)	Eleben	艾勒本	proper_noun		
 Elemental	원소	精霊	元素	term		
@@ -1076,26 +1077,26 @@ Elven Castle Keep	엘프 성채 본영	エルフの城の主塔	精灵城堡主�
 Elven Castle Ruin	폐허가 된 엘프 성	エルフの荒城	精灵城堡废墟	terrain		
 Elven Keep Ruin	폐허가 된 엘프 본영	エルフの廃墟の主塔	精灵主楼废墟	terrain		
 Elven Village	엘프식 마을	エルフの村	精灵村庄	terrain		
-Elves	엘프족	エルフ	精灵	race_name	엘프들; 엘프; 요정들	
-Elvish Archer	요정 궁수	エルフの射手	精灵弓箭手	unit_name		
+Elves	엘프들	エルフ	精灵	race_name		
+Elvish Archer	엘프 궁수	エルフの射手	精灵弓箭手	unit_name		
 Elvish Assassins	엘프의 암살자	エルフの暗殺者	精灵刺客	campaign_name		
-Elvish Avenger	요정 복수자	エルフの復讐者	精灵复仇者	unit_name		
+Elvish Avenger	엘프 복수자	エルフの復讐者	精灵复仇者	unit_name		
 Elvish Bodyguard	엘프 경호원	エルフのボディーガード	精灵保镖	unit_name		
-Elvish Captain	요정 대장	エルフの隊長	精灵队长	unit_name		
-Elvish Champion	요정 투사	エルフのチャンピオン	精灵冠军	unit_name		
-Elvish Fighter	요정 투사	エルフの戦士	精灵战士	unit_name		
-Elvish Hero	요정 영웅	エルフの英雄	精灵英雄	unit_name		
-Elvish High Lord	요정 대군주	エルフの大貴族	精灵高领主	unit_name		
-Elvish Lord	요정 군주	エルフの貴族	精灵领主	unit_name		
-Elvish Marksman	요정 저격수	エルフの射撃手	精灵精准射手	unit_name		
-Elvish Marshal	요정 집행관	エルフの元帥	精灵元帅	unit_name		
-Elvish Outrider	요정 선도자	エルフの騎馬従者	精灵游骑兵	unit_name		
-Elvish Princess	요정 공주	エルフの王女	精灵公主	campaign_name		
-Elvish Ranger	요정 유격병	エルフのレンジャー	精灵巡林者	unit_name		
+Elvish Captain	엘프 대장	エルフの隊長	精灵队长	unit_name		
+Elvish Champion	엘프 투사	エルフのチャンピオン	精灵冠军	unit_name		
+Elvish Fighter	엘프 투사	エルフの戦士	精灵战士	unit_name		
+Elvish Hero	엘프 영웅	エルフの英雄	精灵英雄	unit_name		
+Elvish High Lord	엘프 대군주	エルフの大貴族	精灵高领主	unit_name		
+Elvish Lord	엘프 군주	エルフの貴族	精灵领主	unit_name		
+Elvish Marksman	엘프 저격수	エルフの射撃手	精灵精准射手	unit_name		
+Elvish Marshal	엘프 집행관	エルフの元帥	精灵元帅	unit_name		
+Elvish Outrider	엘프 선도자	エルフの騎馬従者	精灵游骑兵	unit_name		
+Elvish Princess	엘프 공주	エルフの王女	精灵公主	campaign_name		
+Elvish Ranger	엘프 유격병	エルフのレンジャー	精灵巡林者	unit_name		
 Elvish Rebel	엘프의 반역자	エルフの反逆者	精灵叛徒	proper_noun		
-Elvish Rider	요정 승마병	エルフの騎兵	精灵骑手	unit_name		
-Elvish Scout	요정 정찰꾼	エルフの斥候	精灵侦察兵	unit_name		
-Elvish Sharpshooter	요정 명사수	エルフの狙撃手	精灵神射手	unit_name		
+Elvish Rider	엘프 승마병	エルフの騎兵	精灵骑手	unit_name		
+Elvish Scout	엘프 정찰꾼	エルフの斥候	精灵侦察兵	unit_name		
+Elvish Sharpshooter	엘프 명사수	エルフの狙撃手	精灵神射手	unit_name		
 Elvish theme	엘프의 테마	Elvish theme	精灵主题	music_title		
 Elyn	엘린(Elyn)	Elyn	埃林	faction		
 Elyssa	엘리싸(Elyssa)	Elyssa	伊丽莎	unit_name		
@@ -1151,7 +1152,7 @@ Escort	호위	護衛	护卫	unit_name
 Esperanto Translation	에스페란토어 번역 담당	エスペラント語翻訳	世界语翻译	term		
 Essarn	에산(Essarn)	Essarn	埃萨恩	proper_noun		
 Establish University	대학 건립	大学を設立する	设立大学	term		
-Estmark Hills	샛자리(Estmark) 산맥	not found	not found	place_name		
+Estmark Hills	에스트마르크(Estmark) 언덕	not found	not found	place_name		
 Estonian Translation	에스토니아어 번역 담당	エストニア語翻訳	爱沙尼亚文翻译	term		
 Etheliel	에델리엘(Etheliel)	Etheliel	伊希利尔	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
 Ethereal Abyss	초현실적 심연	神秘の裂け目	无底深渊	terrain		
@@ -1193,11 +1194,11 @@ Falcon	매	隼	猎隼	unit_name
 Fall Deciduous Forest	가을 낙엽수림	秋の落葉樹林	秋季落叶林	terrain		
 Fall Mixed Forest	가을 혼합수림	秋の混交林	秋季混交林	terrain		
 Fallen Clansman	쓰러진 부족민	戦死したクランメンバー	堕落的氏族成员	proper_noun		
-Fallen Lich Point	몰락한 리치 곶	リッチの倒れた地	战败巫妖之岬	campaign_name		전체 용어집 재검토에서 직역·오역·오탈자를 수정
+Fallen Lich Point	몰락한 리치(Lich) 곶	リッチの倒れた地	战败巫妖之岬	campaign_name		전체 용어집 재검토에서 직역·오역·오탈자를 수정
 Fallen Mage	타락한 마법사	堕ちた魔術師	堕落法师	unit_name		
 Fallen Soul	타락한 영혼	堕ちた魂	堕落的灵魂	proper_noun		
 Familiar	사역마	使い魔	仆从	unit_name		
-Fanatical Saurian	광신적인 사우리안족	トカゲの狂信者	狂热的蜥蜴人	proper_noun		
+Fanatical Saurian	광신적인 사우리안	トカゲの狂信者	狂热的蜥蜴人	proper_noun		
 Fancy Red Tent	멋진 빨간 텐트	ファンシーな赤いテント	靓丽的红帐篷	item_name		
 Fancy Spear	화려한 창	ファンシーな槍	华丽长矛	item_name		
 Fang	독니	Fang	梵格	term		
@@ -1269,7 +1270,7 @@ Flip vertically	수직으로 뒤집습니다.	垂直方向に反転させます�
 Flixta	플릭스타(Flixta)	Flixta	佛里克斯塔	proper_noun		
 Flood Water	홍수 물	氾濫した水域	洪水	terrain		
 Flood the Field	물을 끌어들인다	平地を氾濫させる	水淹此地	term		
-Flowering Water Lilies	피어있는 연꽃	花咲く睡蓮	盛开的睡莲	terrain		
+Flowering Water Lilies	피어 있는 연꽃	花咲く睡蓮	盛开的睡莲	terrain		
 Flying Corpse	날아다니는 시체	飛ぶ死体	飞行僵尸	unit_name		
 Fog	안개	霧	战争迷雾	terrain		
 Fog of War	전쟁의 안개	戦雲（霧）	战争迷雾	term		
@@ -1286,8 +1287,8 @@ Force	힘	力	力量	term
 Force advancement planning	승급 계획 강제	レベルアップ先設定の必須化	强制计划升级	term		
 Forcefield	힘의 장벽	フォースフィールド	力场	item_name		
 Ford	냇가	川瀬	浅滩	terrain		
-Ford of Alyas	알리아스(Alyas)의 여울	Alyas の渡り場	阿亚斯浅滩	place_name		고유명사 음차와 원문을 병기
-Ford of Tifranur	티프라누르(Tifranur)의 여울	Tifranur の渡り場	迪弗兰努浅滩	place_name		고유명사 음차와 원문을 병기
+Ford of Alyas	알리아스(Alyas) 여울	Alyas の渡り場	阿亚斯浅滩	place_name		전체 용어집 재검토에서 직역·오역·오탈자를 수정
+Ford of Tifranur	티프라누르(Tifranur) 여울	Tifranur の渡り場	迪弗兰努浅滩	place_name		전체 용어집 재검토에서 직역·오역·오탈자를 수정
 Foresight of Triumph	승리의 선견지명	勝利の予感	胜利的远见	term		
 Forest	숲	森	森林	faction	숲속 거주민	
 Former Slaves	옛 노예들	農民の奴隷	曾为奴者	faction		
@@ -1311,7 +1312,7 @@ Friends	친구 있는 방	友人	好友	proper_noun
 Friulian Translation	프리울리 어 번역 담당	フリウリ語翻訳	弗留利文翻译	term		
 Frontier Lieutenant	국경 담당 부관	辺境の副官	前线尉官	unit_name		
 Frontier Sergeant	변경 지역 하사	辺境の軍曹	前线军士	unit_name		
-Frozen	동결	凍土	冻原	terrain	냉동; 설빙 지역	
+Frozen	얼음 지형	凍土	冻原	terrain	지형 문맥에서는 `얼음 지형`; 상태값 문맥과 자동 통일하지 않음	
 Fugitive	탈주자	逃亡者	亡命徒	campaign_name		
 Full Nest	가득찬 둥지	卵のある巣	满巢	item_name		
 Full Void	완전한 공허	空っぽ	完全虚空	terrain		
@@ -1517,7 +1518,7 @@ Gryphon Master	그리폰(Gryphon) 마스터	グリフォンマスター	狮鹫�
 Gryphon Mountain	그리폰(Gryphon) 산맥	グリフォンの山	狮鹫山	place_name		
 Gryphon Rider	그리폰(Gryphon) 기병	グリフォンライダー	狮鹫骑手	unit_name		
 Gryphon Tender	그리폰(Gryphon) 사육사	グリフォンの世話人	狮鹫照料者	unit_name		
-Gryphons	그리폰족	グリフォン	狮鹫	faction		
+Gryphons	그리폰들	グリフォン	狮鹫	faction		
 Grüü	그뤼(Grüü)	Grüü	咕噜	unit_name		
 Guard	경비병	番人	守卫	unit_name		
 Guard Captain	근위 대장	守衛隊長	侍卫队长	unit_name		
@@ -1545,7 +1546,7 @@ Gwimli	귀믈리(Gwimli)	Gwimli	格威姆利	unit_name
 Gwoama	그와마(Gwoama)	Gwoama	格沃玛	unit_name		
 Gwyllin	그윌린(Gwyllin)	Gwyllin	格威尔林	proper_noun		
 Gwza-Alswdan	그우자-알스우단	グーザ・ウルスダーン	瓜扎-奥苏丹	item_name		
-HP	체력(HP)	HP	生命	proper_noun		
+HP	체력(HP)	HP	生命	proper_noun		우측 패널 [label]: id=label-hp에서는 공간 제약으로 HP 사용
 Haaf-Garga	하프-가르가(Haaf-Garga)	Haaf-Garga	哈夫-加加	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
 Hadlin	하들린(Hadlin)	Hadlin	哈德林	unit_name		
 Haf-Mal	하프-말(Haf-Mal)	Haf-Mal	哈夫-玛尔	faction		
@@ -1587,7 +1588,7 @@ Hasty Alliance	급조된 동맹	即席の同盟	草率的联盟	campaign_name
 Hatchlings	부화한 새끼들	雛	幼雏	faction		
 Haunt	지박령(Haunt)	Haunt	作祟	unit_name		
 Head Trainer	수석 훈련관	ヘッドトレーナー	首席训练师	faction		
-Healers and Villages	치유사들과 마을들	ヒーラーと村	疗伤者与村庄	term		
+Healers and Villages	회복사들과 마을들	ヒーラーと村	疗伤者与村庄	term		
 Healing	회복	回復	治疗	term		
 Healing Keep	치유 요새	回復の主塔	疗愈主楼	term		
 Health	체력	体力	健康	term		
@@ -1723,6 +1724,7 @@ In the Dwarven City	드워프 도시에서	ドワーフの町にて	矮人城中
 Inalai	이나라이(Inalai)	Inalai	伊纳莱	unit_name		
 Inarix	이나릭스(Inarix)	Inarix	依那利克斯	proper_noun		
 Income	수입	収入	收入	term		
+Net Income	순수입	純利益	净收入	term		마을 수입에서 유닛 유지비를 뺀 매 턴의 순수입
 Income and Upkeep	수입과 유지비	収入と維持費	收入和维护费用	term		
 Incompatible User-made Content	호환되지 않는 사용자 제작 콘텐츠	互換性の無いユーザーメイドコンテンツ	不兼容的用户制作内容	term		
 Increased hitpoints	생명력 증가	HP を増やします	增加生命值	term		
@@ -2005,7 +2007,7 @@ Load Core	핵심 데이터 불러오기	コアの読み込み	读取核心	term
 Load Game	게임을 불러오기	ゲームの再開	载入游戏	term	게임 로드	
 Load Map	지도를 불러오기	マップ読み込み	载入地图	term		
 Load Recent	최근 파일을 불러오기	最近のファイルを読み込む	载入最近文件	term		
-Loaded embedded map data	불러오기된 내장 지도 데이터	読み込まれた埋め込みマップデータ	已载入嵌入的地图数据	term		
+Loaded embedded map data	내장 지도 데이터를 불러왔습니다.	読み込まれた埋め込みマップデータ	已载入嵌入的地图数据	term		
 Loading data files	데이터 파일 불러오는 중	データファイルの読込み	正在载入数据文件	term		
 Loading game configuration	게임 설정 불러오는 중	ゲーム設定の読込み	正在载入游戏配置	term		
 Loading level	레벨 불러오는 중	レベルの読込み	正在载入关卡	term		
@@ -2055,7 +2057,7 @@ Lvl	레벨	Lv	等级	proper_noun
 Lvl 0	레벨(Lvl) 0	レベル 0	Lvl 0	term		
 Lyer	리에르(Lyer)	Lyer	莱尔	proper_noun		
 Lyllan	릴란(Lyllan)	Lyllan	莱兰	unit_name		
-MP	이동력(MP)	MP	移动	term		
+MP	이동력(MP)	MP	移动	term		우측 패널 [label]: id=label-mp에서는 공간 제약으로 MP 사용
 Ma-Rana	마-라나(Ma-Rana)	Ma-Rana	玛-拉纳	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
 Mabooa	마부아(Mabooa)	Mabooa	玛博阿	unit_name		
 Mace	철퇴	メイス	狼牙棒	item_name		
@@ -2155,8 +2157,8 @@ Marksman	명사수	精密	精准	term
 Marsh	늪	沼地	湿地	term		
 Marshal	마르샬	司会	典礼官	unit_name		
 Marth-Tak	마르쓰-탁(Marth-Tak)	Marth-Tak	马斯-塔克	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
-Masked Dwarf	가면 쓴 난쟁이	覆面のドワーフ	面具矮人	unit_name		
-Masked Dwarves	가면 쓴 난쟁이들	覆面ドワーフ	面具矮人	faction		
+Masked Dwarf	가면 쓴 드워프	覆面のドワーフ	面具矮人	unit_name		
+Masked Dwarves	가면 쓴 드워프들	覆面ドワーフ	面具矮人	faction		
 Massacre	대학살	大虐殺	屠杀	term		
 Master Bowman	활의 달인	熟練弓兵	大师弓手	unit_name		
 Master at Arms	무기의 달인	武芸者	剑术大师	unit_name		
@@ -2176,7 +2178,7 @@ Medium	보통	普通	中等	campaign_name
 Medium Coastal Reef	중형 해안 암초	普通の岩礁	中型礁石	terrain		
 Medium Deep Water	일반 깊은 물	普通の深水	中等深水	terrain		
 Medium Shallow Water	일반 얕은 물	普通の浅瀬	中等浅水	terrain		
-Meeting With Dwarves	난쟁이족과 만남	ドワーフとの会談	与矮人会面	campaign_name		
+Meeting With Dwarves	드워프들과 만남	ドワーフとの会談	与矮人会面	campaign_name	난쟁이족	영어 복수형 Dwarves는 드워프들로 표기
 Meeting of the Minds	정신의 만남	合意	心灵交会	campaign_name		
 Meeting point	집결 지점	集合地点	会面地点	term		
 Mefel	메펠(Mefel)	Mefel	梅费尔	proper_noun		
@@ -2196,7 +2198,7 @@ Mercenaries	용병들	傭兵	雇佣军	faction
 Merchants’ Guildhall	상인 길드 회관	商人ギルド集会所	商人会馆	proper_noun		
 Merfolk	인어	マーフォーク	人鱼	race_name		
 Merfolk Guard	인어 경비병	マーフォークの番人	鱼人守卫	unit_name		
-Merfolk Revenge	인어족의 복수	マーフォークの復讐	人鱼复仇	campaign_name		
+Merfolk Revenge	인어들의 복수	マーフォークの復讐	人鱼复仇	campaign_name		
 Merfolk Village	인어 마을	マーフォークの村	人鱼村庄	terrain		
 Merhun	메르훈(Merhun)	Merhun	梅尔亨	unit_name		
 Meris	메리스(Meris)	Meris	梅里斯	proper_noun		
@@ -2292,7 +2294,7 @@ Multiplayer Maps and Balancing	멀티플레이 지도와 밸런싱 담당	マル
 Multiplayer Scenario	멀티플레이 시나리오	マルチプレイヤーシナリオ	多人场景	term		
 Multiplayer dialog	멀티플레이어 대화 상자	マルチプレイヤーダイアログ	多人游戏对话框	term		
 Multiplayer_AI^Experimental AI	실험적 AI	試験的 AI	实验性AI	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-Multiple Healers	여러 치유사들	複数のヒーラー	多位疗伤者	term		
+Multiple Healers	여러 회복사들	複数のヒーラー	多位疗伤者	term		
 Muma	무마(Muma)	Muma	牧玛	faction		
 Murudin	무루딘(Murudin)	Murudin	穆鲁丁	unit_name		
 Mushroom Farm	버섯 농장	キノコ畑	蘑菇农场	terrain		
@@ -2316,7 +2318,7 @@ Naga Guardian	나가(Naga) 지킴이	ナーガの守備兵	娜迦守卫	unit_nam
 Naga Hunter	나가(Naga) 사냥꾼	ナーガのハンター	娜迦猎手	unit_name		
 Naga Leader	나가(Naga) 대장	ナーガのリーダー	那珈首领	unit_name		
 Naga Myrmidon	나가 미르미돈(Myrmidon)	ナーガのミュルミドーン	娜迦忠勇武士	unit_name		Naga는 종족명 번역이고 Myrmidon만 음차 대상
-Naga Sentinel	나가 보초병	ナーガの衛兵	娜迦哨卫	unit_name		전체 용어집 재검토에서 직역·오역·오탈자를 수정
+Naga Sentinel	나가(Naga) 보초병	ナーガの衛兵	娜迦哨卫	unit_name		전체 용어집 재검토에서 직역·오역·오탈자를 수정
 Naga Warden	나가(Naga) 파수꾼	ナーガの番人	娜迦守望者	unit_name		
 Naga Warrior	나가(Naga) 전사	ナーガの熟練戦士	娜迦武士	unit_name		
 Nagas	나가	ナーガ	娜迦	faction		
@@ -2328,7 +2330,7 @@ Nakeg-alvan	나케그-알반(Nakeg-alvan)	Nakeg-alvan	纳克格-阿尔万	unit_n
 Naken-alvak	나켄-알바크(Naken-alvak)	Naken-alvak	纳肯-阿尔瓦克	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
 Nalu-alvan	날루-알반(Nalu-alvan)	Nalu-alvan	纳鲁-阿尔万	unit_name		
 Name	이름	名前	名字	term		
-Name files before processing	처리하기 전에 파일 이름을 지정	処理する前にファイル名を表示	在处理前命名文件	term		
+Name files before processing	처리 전에 파일 이름 표시	処理する前にファイル名を表示	在处理前命名文件	term		
 Named Areas	명명된 영역	名前付き領域	具名区域	term		
 Nameless	이름없는 이	名無し	无名	campaign_name		
 Nani the Shapeshifter	변신술사 나니(Nani)	シェイプシフターの Nani	化形者纳尼	unit_name		
@@ -2355,13 +2357,13 @@ Network Player	네트워크 상대	ネットプレイヤー	网络玩家	term
 Neutrals	중립(Neutrals)	Neutrals	中立者	faction		
 New Bookmark	새 책갈피	ブックマークの追加	新建书签	term		
 New Folder	새 폴더	新しいフォルダ	新建文件夹	term		
-New Location Identifier	새로운 장소 ID	新しい地点の識別子	新建位置标识符	term		
-New Map	새로운 지도	新規マップ	新建地图	term		
+New Location Identifier	새 위치 식별자	新しい地点の識別子	新建位置标识符	term		
+New Map	새 지도	新規マップ	新建地图	term		
 New Scenario	새로운 시나리오	新しいシナリオ	新建场景	term		
 New Side	새로운 진영	新しい陣営	新阵营	term		
 New Southbay	신 남만국(Southbay)	新Southbay	新南湾	term		
 New ToD	새 시간대	新しい時刻	新建时段	term		
-Newest Campaign Version Rewrite	최신 캠페인 판번호 다시 작성	最新版のキャンペーン書き直し	最新版本战役重写	term		
+Newest Campaign Version Rewrite	최신 캠페인 버전 재작성	最新版のキャンペーン書き直し	最新版本战役重写	term		
 News from the Front	전방으로부터 온 소식	前線からの知らせ	前线消息	campaign_name		
 Next	다음	次	继续	term		
 Next Brush	다음 브러시	次のブラシ	下一笔刷	term		
@@ -2399,7 +2401,7 @@ No leader	지도자 없음	リーダー無し	无首领	term
 No objectives available	사용 가능한 목표 없음	目標がありません	没有可用的任务目标	term		
 No orb	구슬 없음	宝珠無し	没有球	term		
 No planned advancement	승급 대상 미설정	レベルアップ先未設定	无计划升级方向	term		
-No recalls are permitted	다시 소집은 허용되지 않습니다	召還は許可されていません	禁止召回部队	term		
+No recalls are permitted	소환은 허용되지 않습니다.	召還は許可されていません	禁止召回部队	term		
 No turn limit	차례 제한 없음	ターン制限無し	没有回合限制	term		
 No usable weapon	사용 가능한 무기 없음	使用できる武器：無し	没有可用的武器	term		
 No username specified	사용자 이름이 지정되지 않음	ユーザー名が指定されていません	未指定用户名	term		
@@ -2442,7 +2444,7 @@ Norwegian Translation	노르웨이어 번역 담당	ノルウェー語翻訳	挪
 Not Here Overlay	여기 없음 오버레이	ノット・ヒア・オーバーレイ	非此处覆盖层	terrain		
 Not on friends or ignore lists	친구 또는 무시 목록에 없음	友人・無視リストに含まれていません	不在好友或忽略列表上	term		
 Note	참고	メモ	提示	term		
-Nothing	아무것도 안한다	何もしない	什么都不做	term		
+Nothing	아무것도 하지 않는다	何もしない	什么都不做	term		
 Nothing to learn here	배울 것이 없습니다	学べることはありません	这里没什么可学的	term		
 Novice	초보자	not found	not found	rank		
 Novice Dani	초보자 다니(Dani)	見習い Dani	新人戴尼	person_name		
@@ -2498,7 +2500,7 @@ Open Trapdoor	열린 바닥문	開いた落とし戸	打开的活版门	item_nam
 Open Wooden Door	열린 나무 문	開いている木の扉	开启的木门	terrain		
 Open saves folder	저장 파일 폴더 열기	保存フォルダを開く	打开存档文件夹	term		
 Opportunist	기회주의자	日和見主義	机会主义者	proper_noun		
-Options	선택 사항	オプション	选项	term		
+Options	옵션	オプション	选项	term		
 Orac	오라크(Orac)	Orac	欧若可	proper_noun		
 Oracle	오라클	神託所	先知	proper_noun		
 Orange	오렌지색	橙	橙	proper_noun		
@@ -2542,7 +2544,7 @@ Outriding the Outriders	추격대를 따돌리며	追手よりも速く	赛过�
 Outrigger	아웃리거	アウトリガーボート	劫掠艇	unit_name		
 Over the Northern Mountains	북부 산맥 너머	Over the Northern Mountains	翻越北方山脉	music_title		
 Overall	전체	総計	总括	proper_noun		
-Overgrown Cobbles	큼지막한 자갈	蓊鬱な石畳	杂草丛生的卵石	terrain		
+Overgrown Cobbles	풀이 무성한 자갈길	蓊鬱な石畳	杂草丛生的卵石	terrain		
 Overgrown Stone Wall	덤불이 우거진 돌벽	蓊鬱な石壁	蔓生石墙	terrain		
 Overgrown Wall	덤불이 우거진 벽	蓊鬱な壁	蔓生墙	terrain		
 Overlay a grid over the map	지도 위에 격자 오버레이 표시	マップ上にグリッドを表示します	在地图上覆盖六角网格	term		
@@ -2557,7 +2559,7 @@ Oxepotex	옥세포텍스(Oxepotex)	Oxepotex	奥克西波泰克斯	proper_noun
 Oxsrrsk	옥스르스크(Oxsrrsk)	Oxsrrsk	欧克斯雷斯克	faction		
 Ozdul	오즈둘(Ozdul)	Ozdul	欧祖杜尔	unit_name		
 Ozul	오줄(Ozul)	Ozul	奥祖	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
-Package version	꾸러미 판번호	パッケージバージョン（Package version）	包版本	term		
+Package version	패키지 버전	パッケージバージョン（Package version）	包版本	term		
 Packagers	각 플랫폼 적용	パッケージ作成	打包人员	proper_noun		
 Paint Tool	채색 도구	ペイントツール	绘制工具	term		
 Paladin	성기사	聖騎士	圣骑士	unit_name		
@@ -2721,7 +2723,7 @@ Quentin	쿠엔틴(Quentin)	Quentin	昆廷	faction		원본 PO의 고유명사 문
 Quick	민첩함	敏捷	迅捷	term		
 Quick Replays	빠른 리플레이	高速リプレイ	快速回放	term		
 Quickdraw	빨리 뽑아 쏘기	早弓	快速拉弓	proper_noun		
-Quiet mode	정숙 모드	静粛モード	安静模式	term		
+Quiet mode	조용한 모드	静粛モード	安静模式	term		
 Quintain	인간형 과녁	クィンティン	刺靶	unit_name		
 Quit	종료	終了	退出	term	나가기	
 Quit Game	게임 종료	ゲームを終了	退出游戏	term		
@@ -2855,8 +2857,8 @@ Replace with AI	인공지능으로 교체	AI と交代する	让AI替换上阵	t
 Replace with local player	로컬 플레이어로 교체	ローカルプレイヤーと交代する	让本地玩家替换上阵	term		
 Replay	리플레이	リプレイ	录像	proper_noun		
 Replay Control	리플레이 제어	リプレイコントロール	回放控制	term		
-Report unchanged files	변경되지 않은 파일을 보고	変更なしのファイルを通知	报告未变更的文件	term		
-Report unresolved macro references	해결되지 않은 매크로 참조를 보고	未解決のマクロ参照を通知する	报告未解析的宏引用	term		
+Report unchanged files	변경되지 않은 파일 보고	変更なしのファイルを通知	报告未变更的文件	term		
+Report unresolved macro references	해결되지 않은 매크로 참조 보고	未解決のマクロ参照を通知する	报告未解析的宏引用	term		
 Rerivyan	레리비안(Rerivyan)	Rerivyan	瑞里维安	unit_name		
 Research	연구	研究	研究	term		
 Reserved	예약됨	予約済み	保留	term		
@@ -3005,13 +3007,14 @@ Sands	모래	砂地	沙地	terrain
 Sapphire of Ice	얼음의 사파이어	氷のサファイア	冰之蓝宝石	item_name		
 Sapphire of Ice^Leave it	그대로 두기	そのままにする	留下它	proper_noun		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 Sapphire of Ice^Take it	가져가기	持たせる	拿走它	proper_noun		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+scrying	투시술	not found	not found	term	수정점	마법으로 먼 곳이나 숨겨진 것을 꿰뚫어 보는 행위
 Satras	사트라스(Satras)	Satras	塞翠斯	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
-Saurian Augur	도마뱀족 사제	トカゲの占い師	蜥蜴人占卜师	unit_name		
-Saurian Oracle	도마뱀족 조언자	トカゲの神官	蜥蜴人神谕	unit_name		
-Saurian Slavers	사우리안 노예장들	トカゲの奴隷使役人	蜥蜴奴隶	faction		
-Saurian Soothsayer	도마뱀족 예언자	トカゲの僧侶	蜥蜴人预言者	unit_name		
+Saurian Augur	사우리안 사제	トカゲの占い師	蜥蜴人占卜师	unit_name		
+Saurian Oracle	사우리안 조언자	トカゲの神官	蜥蜴人神谕	unit_name		
+Saurian Slavers	사우리안 노예상들	トカゲの奴隷使役人	蜥蜴奴隶	faction	노예장	Slaver는 노예를 사고파는 사람을 뜻하므로 `노예상`으로 번역
+Saurian Soothsayer	사우리안 예언자	トカゲの僧侶	蜥蜴人预言者	unit_name		
 Saurian Treasury	사우리안 보물 창고	トカゲ族の宝物庫	蜥蜴人金库	term		
-Saurians	사우리안족	トカゲ	蜥蜴人	race_name	사우리안들; 사우리언들	
+Saurians	사우리안들	トカゲ	蜥蜴人	race_name		
 Savanna	열대 초원	サバンナ	热带草原	terrain		
 Save Game	게임 저장	ゲームの保存	保存游戏	term		
 Save Map	맵 저장	マップを保存	保存地图	term		
@@ -3024,7 +3027,7 @@ Saving Inarix	이나릭스(Inarix)를 구출	Inarix を救え	援救依那利克
 Saving Parthyn	파르틴(Parthyn)을 구출	Parthyn 防衛戦	拯救帕辛	campaign_name		
 Sbrak	스브라크(Sbrak)	Sbrak	斯巴克	unit_name		
 Scaly the Serpent	큰 뱀 비늘이	Scaly the Serpent	海蛇斯卡利	term		
-Scan subdirectories	하위 디렉토리들을 검사	サブディレクトリもスキャンする	扫描子目录	term		
+Scan subdirectories	하위 디렉터리 검사	サブディレクトリもスキャンする	扫描子目录	term		
 Scardeep	스카르디프(Scardeep)	Scardeep	深疤	proper_noun		
 Scarecrow	허수아비	案山子	稻草人	item_name		
 Scenario	시나리오	シナリオ	场景	term		
@@ -3159,7 +3162,7 @@ Show Credits	만든 이들 보기	クレジットの表示	显示制作者名单
 Show Helptip	도움말 표시	ヘルプチップの表示	显示帮助提示	term		
 Show Labels	라벨 표시	ラベルを表示する	显示标签	term		
 Show all	모두 표시	全てを表示	显示所有	term		
-Show changes	변경 사항을 표시	変化を表示	显示更改	term		
+Show changes	변경 사항 표시	変化を表示	显示更改	term		
 Show combat	전투 장면을 표시	戦闘を表示する	显示战斗	term		
 Show progress	진행 상황을 표시	進行状況を表示する	显示进度	term		
 Show replay	리플레이 표시	リプレイを見る	显示录像	term		
@@ -3184,6 +3187,7 @@ Signpost	표지판	道標	路标	item_name
 Silent Forest	침묵의 숲	静寂の森	寂静森林	campaign_name		
 Silvan Sanctuary	실반 보호구역	Silvan Sanctuary	林中庇护所	music_title		
 Silver Mage	은색 마법사	銀魔術師	银袍法师	unit_name		
+Sir Wose	워즈(Wose) 경	ウーズ卿	树人爵士	unit_name		Wose 종족 인물에 대한 존칭·호칭이며 고유 인명이 아님; 실제 인물명은 문맥에서 별도로 확인
 Silver Ring	은 반지	銀の指輪	银色戒指	item_name		
 Simclon	심클론(Simclon)	Simclon	西姆克隆	unit_name		
 Simyr	시미르(Simyr)	Simyr	西米尔	unit_name		
@@ -3219,7 +3223,7 @@ Skip	건너뛰기	スキップ	跳过	term
 Skip AI moves	AI 움직임 생략	AI 移動スキップ	略过AI移动	term		
 Skip Animation	애니메이션 생략	アニメーションをスキップ（リプレイ）	跳过动画	term		
 Skip animation	애니메이션 생략	アニメーションを省略	跳过动画	term		
-Skip core directory	핵심 디렉토리를 건너뛰기	core ディレクトリをスキップする	跳过核心目录	term		
+Skip core directory	핵심 디렉터리 건너뛰기	core ディレクトリをスキップする	跳过核心目录	term		
 Skirmish	소규모 전투	小競り合い	小规模战斗	campaign_name		
 Skirmisher	척후병	散兵	散兵	proper_noun		
 Skoogal	스코오갈(Skoogal)	Skoogal	斯科加尔	proper_noun		
@@ -3239,7 +3243,7 @@ Smalg	스말그(Smalg)	Smalg	斯马尔	proper_noun
 Small Axe	작은도끼	小さな斧	小斧	item_name		
 Small Mudcrawler	작은 질퍽이	小さな泥蟲	小型黏土怪	unit_name		
 Small Mushrooms	작은 버섯	小さなキノコ	小蘑菇	terrain		
-Smash Cave Floor	동굴 벽을 부순다	洞窟の床を砕く	打碎洞穴地面	term		
+Smash Cave Floor	동굴 바닥을 부순다	洞窟の床を砕く	打碎洞穴地面	term		
 Smidge	아주 조금(Smidge)	Smidge	斯米吉	proper_noun		
 Snagakhan	스나가칸(Snagakhan)	Snagakhan	史纳格肯	proper_noun		
 Snow	눈	雪原	雪地	terrain		
@@ -3247,16 +3251,16 @@ Snow Hills	눈밭 언덕	雪の丘	雪丘	terrain
 Snow Plains	설원	雪原	覆雪平原	campaign_name		
 Snowbits	눈 조각	雪の欠片	雪点	terrain		
 Snowfall	강설	雪	降雪	proper_noun		
-Snowy Cottage	눈덮인 오두막	雪のコテージ	雪中小农舍	terrain		
+Snowy Cottage	눈 덮인 오두막	雪のコテージ	雪中小农舍	terrain		
 Snowy Deciduous Forest	눈 쌓인 낙엽수림	雪の落葉樹林	雪地落叶林	terrain		
 Snowy Drake Village	눈 덮인 드레이크 마을	雪のドレークの村	雪中龙人村庄	terrain		
 Snowy Elven Village	눈 덮인 엘프 마을	雪のエルフの村	雪中精灵村庄	terrain		
-Snowy Encampment	눈덮인 기지	雪の野営地	雪中营地	terrain		
-Snowy Encampment Keep	눈덮인 기지 본영	雪の野営地の主塔	雪中营地主楼	terrain		
+Snowy Encampment	눈 덮인 기지	雪の野営地	雪中营地	terrain		
+Snowy Encampment Keep	눈 덮인 기지 본영	雪の野営地の主塔	雪中营地主楼	terrain		
 Snowy Great Tree	눈 덮인 거목	雪積もる大木	覆雪参天树	terrain		
 Snowy Hill Stone Village	눈 덮인 언덕 돌 마을	雪の丘の石造りの村	雪中山石村庄	terrain		
-Snowy Human Castle	눈덮인 인간 성채	雪の人間の城	雪中人类城堡	terrain		
-Snowy Human Castle Keep	눈덮인 인간 성채 본영	雪の人間の城の主塔	雪中人类城堡主楼	terrain		
+Snowy Human Castle	눈 덮인 인간 성채	雪の人間の城	雪中人类城堡	terrain		
+Snowy Human Castle Keep	눈 덮인 인간 성채 본영	雪の人間の城の主塔	雪中人类城堡主楼	terrain		
 Snowy Human City	눈 덮인 인간 도시	雪の人間の都市	雪中人类城市	terrain		
 Snowy Hut	눈 덮인 오두막	雪の小屋	雪中小屋	terrain		
 Snowy Impassable Mountains	눈 덮인 통과 불가 산맥	雪の通れない山	雪中的高不可攀的山岭	terrain		
@@ -3442,7 +3446,7 @@ Talael Ryndoc	탈라엘 린독	Talael Ryndoc	塔拉埃尔•林多克	faction
 Talchar	탈차르(Talchar)	Talchar	塔尔查	proper_noun		
 Taliu	탈리우(Taliu)	Taliu	泰柳	person_name		
 Talking to Tyegëa	티에게아(Tyegëa)와 대화	Tyegëa との会話	和泰歌雅交谈	campaign_name		
-Talking with Trolls	트롤족과 대화	トロルとの対話	对话巨魔	campaign_name		
+Talking with Trolls	트롤들과 대화	トロルとの対話	对话巨魔	campaign_name		
 Tall Encampment Keep	높은 야영지 본영	野営地の高主塔	高耸的营地主楼	terrain		
 Tallin	탈린(Tallin)	Tallin	塔林	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
 Talodulborentan	탈로둘보렌탄(Talodulborentan)	Talodulborentan	塔尔多博伦坦	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
@@ -3514,7 +3518,7 @@ Tent Village	천막 마을	テントの村	帐篷村庄	terrain
 Tentacle of the Deep	심해의 촉수	深淵からの触手	深渊触手	unit_name		
 Tentacly	텐타클리(Tentacly)	Tentacly	小触触	unit_name		
 Teoryn	테오린(Teoryn)	Teoryn	特奥林	proper_noun		
-Terminate script	스크립트를 종료	スクリプトを終了	终止脚本	term		
+Terminate script	스크립트 종료	スクリプトを終了	终止脚本	term		
 Terowydlithrol	테로위들리트롤(Terowydlithrol)	Terowydlithrol	特洛伊德利斯洛尔	proper_noun		고유명사 병기 기준
 Terraent	테라엔트(Terraent)	Terraent	特拉恩特	unit_name		
 Terraforming	지형 변경	地形変更	地形改造	proper_noun		
@@ -3552,11 +3556,11 @@ The Drowned Plains	수몰된 평원	水没した平原	淹没的平原	campaign_
 The Duel	결투	決闘	决斗	campaign_name		
 The Dungeon	감옥	地下牢	地牢	term		
 The Dwarven Doors	드워프의 문	ドワーフの戸口	矮人之门	campaign_name		
-The Dwarvish Stand	난쟁이들의 항전	ドワーフの抵抗	矮人要塞	campaign_name		
+The Dwarvish Stand	드워프들의 항전	ドワーフの抵抗	矮人要塞	campaign_name		
 The Eastern Flank	동부 언저리	東部方面軍	东部战线	campaign_name		
 The Elven Council	엘프 의회	エルフ評議会	精灵评议会	campaign_name		
 The Elves Besieged	포위된 엘프들	包囲されたエルフ族	受困的精灵	campaign_name		
-The Elvish Treasury	요정의 보물 창고	エルフ族の宝物庫	精灵金库	campaign_name		
+The Elvish Treasury	엘프의 보물 창고	エルフ族の宝物庫	精灵金库	campaign_name		
 The Empire	제국	帝国	帝国	faction		
 The End	끝	The End	完结	term		
 The Escape Tunnel	탈출 터널	脱出路	离脱隧道	campaign_name		
@@ -3619,7 +3623,7 @@ The Trust	신뢰	義勇	托拉斯	faction
 The Underlevels	지하층	地下坑道	下层世界	campaign_name		
 The Uprooting	뿌리뽑기	根絶	连根拔起	campaign_name		
 The Vanguard	선봉대	先駆け	先锋	campaign_name		
-The World	어떤 세계	世界観	世界	term		
+The World	세계	世界観	世界	term		
 The hostname of the database server	데이터베이스 서버의 호스트 이름	データベースサーバーのホスト名	数据库服务器的主机名称	term		
 The name of the database	데이터베이스 이름	データベース名	数据库名称	term		
 Theganli	테간리(Theganli)	Theganli	瑟甘利	unit_name		
@@ -3666,7 +3670,7 @@ Tireas	티레아스(Tireas)	Tireas	特雷亚斯	proper_noun
 Tirigaz	티리가즈(Tirigaz)	Tirigaz	提里嘎兹	campaign_name		
 Tish Golub	티쉬 골루브(Tish Golub)	Tish Golub	蒂什·戈卢布	person_name		
 Title	제목	タイトル	标题	term		
-To Clearwater Port	맑은물(Clearwater) 항구 방향	透水港へ	往清水港	term		
+To Clearwater Port	맑은물(Clearwater) 항구 방향	透水港へ	往清水港	term		고유 지명 Clearwater Port의 파생 UI 문구이므로 맑은물(Clearwater) 항구를 유지
 To Elensefar	엘렌세파르(Elensefar)로	Elensefar へ	往埃仁撒伐	term		
 To Southbay	남만국(Southbay)으로	Southbayへ	往南湾	term		
 To the Midlands	중부 지역 방향	内陸府へ	往中陆	term		
@@ -3735,7 +3739,7 @@ Troll Chieftain	트롤(Troll) 족장	トロルの族長	巨魔首领	unit_name
 Troll Defender	수비병 트롤(Troll)	トロルの防衛隊	巨魔守卫	unit_name		
 Troll Encampment	트롤(Troll) 야영지	トロルの野営地	巨魔营地	terrain		
 Troll Encampment Keep	트롤(Troll) 야영지 본영	トロルの野営地の主塔	巨魔营地主楼	terrain		
-Troll Flamecaster	트롤 화염술사	トロルの炎使い	火焰巨魔	unit_name		전체 용어집 재검토에서 직역·오역·오탈자를 수정
+Troll Flamecaster	트롤(Troll) 화염술사	トロルの炎使い	火焰巨魔	unit_name		전체 용어집 재검토에서 직역·오역·오탈자를 수정
 Troll Guard	트롤(Troll) 경비병	トロルの衛兵	巨魔守卫	unit_name		
 Troll Hero	트롤(Troll) 영웅	トロルの英雄	巨魔英雄	unit_name		
 Troll High Shaman	대주술사 트롤(Troll)	トロルの上級呪術師	萨满长老	unit_name		
@@ -3817,7 +3821,7 @@ Uninstall add-on	부가 기능 제거	アドオンのアンインストール	�
 Unit Commands	유닛 명령	ユニットコマンド	单位命令	term		
 Unit Description	유닛 설명	ユニット解説	单位描述	term		
 Unit Descriptions	유닛 설명	ユニット解説	单位描述	term		
-Unit Facing	유닛의 색	ユニットの色	单位面向	term		
+Unit Facing	유닛의 방향	ユニットの色	单位面向	term		
 Unit List	유닛 목록	ユニット一覧	单位列表	term		
 Unit Specialties	유닛 특수 능력	特殊武器	单位特攻	term		
 Unit Tool	유닛 도구	ユニットツール	单位工具	term		
@@ -3832,11 +3836,11 @@ Unknown era	알 수 없는 시대	不明な時代	未知时代	term
 Unknown scenario	알 수 없는 시나리오	不明なシナリオ	未知场景	term		
 Unlawful Orders	불의한 명령	無法なる命令	不法命令	campaign_name		
 Unlit Torch	꺼진 횃불	消えているトーチ	未点燃的火炬	item_name		
-Unnamed Area	이름없는 영역	無名の領域	未命名区域	term		
+Unnamed Area	이름 없는 영역	無名の領域	未命名区域	term		
 Unpleasant	불쾌한	不快	令人不适	campaign_name		
 Unrecalled veterans will survive	소환되지 않은 베테랑은 생존합니다	召還されなかったユニットは生き残ります	未召回的老兵会存活	term		
 Unrecognized Command	인식할 수 없는 명령	認識できないコマンド	未识别的命令	term		
-Unsaved Changes	변경점들이 저장되지 않았음	保存されていない変更点	未保存的更改	term		
+Unsaved Changes	저장하지 않은 변경 사항	保存されていない変更点	未保存的更改	term		
 Unterminated closing tag	끝나지 않은 닫힌 꼬리표	終わっていない閉じタグ	未终止的结束标签	term		
 Unterminated quoted string	인용부가 닫히지 않은 문자열이 있습니다	引用符が閉じられていない文字列があります	无结束引号的引用字符串	term		
 Unwalkable	이동 불가	歩行不能	不可步行地形	terrain	도보불능	
@@ -3904,14 +3908,14 @@ Velon	벨론(Velon)	Velon	维伦	faction		원본 PO의 고유명사 문맥을 �
 Vemuil	베무일(Vemuil)	Vemuil	瓦缪	person_name		
 Vendraxis	벤드락시스(Vendraxis)	Vendraxis	文德拉克西斯	proper_noun		
 Vengeance	복수	復讐	复仇怒火	campaign_name		
-Vengeful Dwarf	복수심에 불타는 난쟁이	復讐に燃えるドワーフ	复仇的矮人	unit_name		
+Vengeful Dwarf	복수심에 불타는 드워프	復讐に燃えるドワーフ	复仇的矮人	unit_name		
 Vengeful Lord	복수심에 불타는 군주	復讐の王	复仇领主	unit_name		
 Vengeful Pursuit	불타는 복수심	Vengeful Pursuit	复仇追击	music_title		
 Veocyn	비오신(Veocyn)	Veocyn	维欧辛	unit_name		
 Veomyr	비오미르(Veomyr)	Veomyr	维欧米尔	proper_noun		
 Verash	베라시(Verash)	Verash	维拉什	proper_noun		
 Verbose	자세히	詳細	详细	proper_noun		
-Verbosity level	자세한 수준	表示レベル	详细级别	term		
+Verbosity level	출력 상세 수준	表示レベル	详细级别	term		
 Verifying cache	캐시 확인 중	キャッシュの検証	正在验证缓存	term		
 Version	판번호	バージョン	版本	term		
 Vestige	유물	痕跡	遗迹	proper_noun		
@@ -4063,26 +4067,26 @@ Wooden Floor	나무 바닥	木の床	木地板	terrain
 Wooden Palisade	목책	木杭の柵	木栅栏	terrain		
 Woodland Boar	숲 멧돼지	森猪	林地野猪	unit_name		
 Woodsman	나무꾼	木こり	山民	unit_name		
-Working directory	작업 디렉토리	作業ディレクトリ	工作目录	term		
+Working directory	작업 디렉터리	作業ディレクトリ	工作目录	term		
 World Conquest	세계 정복	世界征服	世界征服	term		
 World Conquest 1p	세계 정복 1인	世界征服 1p	世界征服 1p	term		
 World Conquest 2p	세계 정복 2인	世界征服 2p	世界征服 2p	term		
 World Conquest 3p	세계 정복 3인	世界征服 3p	世界征服 3p	term		
 World Conquest 4p	세계 정복 4인	世界征服 4p	世界征服 4p	term		
 Worst of	최저:	次のうち悪い方：	最差	term		
-Wose	나모	ウーズ	树人	unit_name		최신 한국어 참고 PO와 기존 한국어 PO에서 정착된 종족명; 일본어는 음차, 중국어는 의미역이므로 한국어는 음차 병기하지 않음
-Wose Lore	우즈의 전승	ウーズ伝承	树人的传说	item_name		
-Wose Sapling	나모 묘목	ウーズの若木	树人幼体	unit_name		
-Woses	나모들	ウーズ	树人	faction		
-Wounded Dwarf	부상당한 난쟁이	傷ついたドワーフ	负伤矮人	unit_name		
+Wose	워즈(Wose)	ウーズ	树人	unit_name		사용자 결정에 따라 한글 표기와 영어 원문을 병기
+Wose Lore	워즈(Wose)의 전승	ウーズ伝承	树人的传说	item_name		
+Wose Sapling	워즈(Wose) 묘목	ウーズの若木	树人幼体	unit_name		
+Woses	워즈들(Woses)	ウーズ	树人	faction		
+Wounded Dwarf	부상당한 드워프	傷ついたドワーフ	负伤矮人	unit_name		
 Wounded Scout	부상당한 정찰병	負傷した斥候	受伤的侦察兵	term		
 Wraith	망령	レイス	幽魂	unit_name		
 Wrap Up	마무리	おわりに	总结	term		
 Wrulf	우룰프(Wrulf)	Wrulf	沃若夫	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
 Wynran	윈란(Wynran)	Wynran	温兰	unit_name		
-Wyrm	웜(Wyrm)	ワーム	飞龙	unit_name		
-Wyrms of Khrakrahs	크흐라크라흐스(Khrakrahs) 뱀룡	Khrakrahs のワーム	柯拉卡拉斯的爬龙	faction		
-XP	경험치(XP)	XP	经验	proper_noun		
+Wyrm	웜(Wyrm)	ワーム	飞龙	unit_name		중립적인 생물명은 웜(Wyrm) 또는 문맥상 뱀룡으로 번역; 상대를 낮춰 부르는 대화의 wyrm은 화자와 상황을 확인해 도마뱀으로 번역할 수 있음. 일괄 치환 금지.
+Wyrms of Khrakrahs	크흐라크라흐스(Khrakrahs) 뱀룡	Khrakrahs のワーム	柯拉卡拉斯的爬龙	faction		고유 진영명·중립 문맥은 뱀룡 유지 가능; 멸칭 대사와 혼동하지 않음.
+XP	경험치(XP)	XP	经验	proper_noun		우측 패널 [label]: id=label-xp에서는 공간 제약으로 XP 사용
 Xakae	자카(Xakae)	Xakae	夏凯	unit_name		
 Xamalia	싸말리아(Xamalia)	Xamalia	塞玛利亚	faction		원본 PO의 고유명사 문맥을 확인해 한국어 음차와 원문을 병기
 Xanthos	싼토스(Xanthos)	Xanthos	赞瑟斯	unit_name		
@@ -4102,7 +4106,7 @@ Yellow orb	노란색 구슬	黄の宝珠	黄色球	term
 Yes	예	はい	是	term	네	
 Yeti	설인 예티	イェティ	雪人	unit_name		
 Yetiburger	예티버거	イエティバーガー	雪人堡	item_name		
-Yetis	예티족	イエティ	雪人	faction		
+Yetis	예티들	イエティ	雪人	faction		
 Ylla	일라(Ylla)	Ylla	伊利亚	unit_name		
 You got	획득함	獲得	你获得了	term		
 Young King	젊은 왕	若き王	年轻之王	unit_name		
@@ -4135,7 +4139,7 @@ Zurg	주르그(Zurg)	Zurg	泽格	proper_noun
 Zuzerd	주제르드(Zuzerd)	Zuzerd	祖则德	unit_name		
 Zyar	지아르(Zyar)	Zyar	泽亚	proper_noun		
 Zylea	지레아(Zylea)	Zylea	吉离	unit_name		
-a fully-healed Dust Devil	완전히 치유된 먼지 악마	完全回復したダストデビル	一个完全治愈的尘土魔	term		
+a fully-healed Dust Devil	완전히 회복된 먼지 악마	完全回復したダストデビル	一个完全治愈的尘土魔	term		
 a stronger Dust Devil	더 강한 먼지 악마	強いダストデビル	一个强壮些的尘土魔	term		
 a taller Dust Devil	더 키가 큰 먼지 악마	大きなダストデビル	一个高点的尘土魔	term		
 absorb	흡수	緩衝	吸收	term		
@@ -4273,8 +4277,9 @@ corrupted original file	손상된 원본 파일	不正なオリジナルファ�
 corruption	부패	退廃	腐蚀	term		
 crossbow	석궁	クロスボウ	十字弩	attack_type		
 crush	으깨기	粉砕	压碎	attack_type		
-cured	해독됨	治療	已解毒	term		
-cures	해독	治療	疗毒	term		
+cure	치료	治療	疗毒	term		독·상태 이상 제거
+cured	치료됨	治療	已解毒	term		
+cures	치료	治療	疗毒	term		독·상태 이상 제거
 current local time	현재 시간	現在のローカル時間	当前本地时间	term		
 curse	저주	呪い	诅咒	attack_type		
 dagger	짧은 단검	ダガー	匕首	attack_type		
@@ -4283,7 +4288,7 @@ darkness	어둠	暗転	黑暗	term
 daze	눈 멀게함	目潰し	眩晕	term		
 dazed	눈이 멀어짐	目潰し！	眩晕	term		
 death cloud	죽음의 구름	死の雲	死亡之云	term		
-def	방어력	回避	防	term		
+def	방어력	回避	防	term		원문 약어 def는 우측 패널 [label]: id=label-def에서 공간 제약으로 그대로 유지
 defeated	패배함	敗北	败战的	term		
 deflect	굴절	受流	偏转	term		
 descending	내림차순	降順	降序	term		
@@ -4326,8 +4331,8 @@ era_or_mod^not installed	설치되지 않음	未インストール	未安装	ter
 error	오류	エラー	错误	term		
 evil eye	사악한 눈	邪悪な瞳	邪恶之眼	attack_type		
 expert	숙련된	熟練	专家	trait		
-faerie fire	정령의 불꽃	妖精の炎	仙境之火	attack_type		
-faerie touch	정령의 손길	妖精の接触	仙境之触	attack_type		
+faerie fire	요정 불꽃	妖精の炎	仙境之火	attack_type		
+faerie touch	요정의 손길	妖精の接触	仙境之触	attack_type		
 falcon	매	隼	隼	attack_type		
 fall	가을	秋	崩坏	term		
 fangs	송곳니	牙	尖牙	unit_name		
@@ -4369,19 +4374,19 @@ female^Dune Scorcher	사막 화염병사	デューンの女焦痕兵	沙丘焦�
 female^Dune Skirmisher	사막 기병	デューンの散兵	沙丘散兵	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 female^Dune Sky Hunter	사막 하늘 사냥꾼	デューンのスカイハンター	沙丘天空猎手	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 female^Dune Strider	사막 보행자	デューンの追撃兵	沙丘迅骑	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-female^Elvish Archer	요정 궁수	エルフの女射手	精灵弓箭手	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-female^Elvish Avenger	요정 복수자	エルフの女復讐者	精灵复仇者	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+female^Elvish Archer	엘프 궁수	エルフの女射手	精灵弓箭手	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+female^Elvish Avenger	엘프 복수자	エルフの女復讐者	精灵复仇者	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 female^Elvish Bodyguard	엘프 경호원	エルフのボディーガード	精灵保镖	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-female^Elvish Druid	요정 드루이드	エルフのドルイド僧	精灵德鲁伊	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-female^Elvish Enchantress	요정 강화사	エルフの女熟練魔術師	精灵女附魔师	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-female^Elvish Lady	요정 아가씨	エルフの貴婦人	精灵女领主	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-female^Elvish Marksman	요정 저격수	エルフの女射撃手	精灵精准射手	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-female^Elvish Ranger	요정 유격병	エルフの女レンジャー	精灵巡林者	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-female^Elvish Shaman	요정 샤먼	エルフの女呪術師	精灵萨满	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-female^Elvish Sharpshooter	요정 명사수	エルフの女狙撃手	精灵神射手	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-female^Elvish Shyde	요정 샤이데	エルフのシェード	精灵仙子	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-female^Elvish Sorceress	요정 마녀	エルフの女魔術師	精灵女巫	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용; Sorceress는 여성형이므로 `마녀`로 번역
-female^Elvish Sylph	요정 실프	エルフのシルフ	精灵风仙子	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+female^Elvish Druid	엘프 드루이드	エルフのドルイド僧	精灵德鲁伊	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+female^Elvish Enchantress	엘프 강화사	エルフの女熟練魔術師	精灵女附魔师	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+female^Elvish Lady	엘프 아가씨	エルフの貴婦人	精灵女领主	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+female^Elvish Marksman	엘프 저격수	エルフの女射撃手	精灵精准射手	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+female^Elvish Ranger	엘프 유격병	エルフの女レンジャー	精灵巡林者	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+female^Elvish Shaman	엘프 샤먼	エルフの女呪術師	精灵萨满	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+female^Elvish Sharpshooter	엘프 명사수	エルフの女狙撃手	精灵神射手	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+female^Elvish Shyde	엘프 샤이데	エルフのシェード	精灵仙子	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+female^Elvish Sorceress	엘프 마녀	エルフの女魔術師	精灵女巫	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용; Sorceress는 여성형이므로 `마녀`로 번역
+female^Elvish Sylph	엘프 실프	エルフのシルフ	精灵风仙子	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 female^Fighter	투사	女戦士	战士	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용; 한국어에서는 성별을 별도 표시하지 않음
 female^Fire Drake	열화의 반룡	女火炎ドレーク	火焰龙战士	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 female^Footpad	노상강도	女追いはぎ	走卒	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
@@ -4414,11 +4419,11 @@ female^Quenoth Sun Sylph	퀴노스(Quenoth) 태양 실프	Quenoth の太陽の�
 female^Quenoth Youth	퀴노스(Quenoth) 젊은이	Quenoth の若者	奎诺青年	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용; 한국어에서는 성별을 별도 표시하지 않음
 female^Red Mage	적색 마법사	女赤魔術師	红袍法师	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 female^Rogue	악당	熟練女盗賊	飞贼	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-female^Saurian Ambusher	도마뱀족 매복병	トカゲの女熟練散兵	蜥蜴人伏击士	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-female^Saurian Flanker	도마뱀족 측면 공격수	トカゲの女精鋭散兵	蜥蜴人侧击士	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-female^Saurian Javelineer	도마뱀족 투창병	トカゲの女投槍兵	蜥蜴人标枪兵	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-female^Saurian Skirmisher	도마뱀족 척후병	トカゲの女散兵	蜥蜴人散兵	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-female^Saurian Spearthrower	도마뱀족 창 던지는 자	トカゲの女槍兵	蜥蜴人长矛投掷者	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+female^Saurian Ambusher	사우리안 매복병	トカゲの女熟練散兵	蜥蜴人伏击士	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+female^Saurian Flanker	사우리안 측면 공격수	トカゲの女精鋭散兵	蜥蜴人侧击士	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+female^Saurian Javelineer	사우리안 투창병	トカゲの女投槍兵	蜥蜴人标枪兵	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+female^Saurian Skirmisher	사우리안 척후병	トカゲの女散兵	蜥蜴人散兵	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+female^Saurian Spearthrower	사우리안 창 던지는 자	トカゲの女槍兵	蜥蜴人长矛投掷者	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 female^Senior Village Elder	마을 원로	村の大年寄	资深村庄长老	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용; 한국어에서는 성별을 별도 표시하지 않음
 female^Shadow Lord	그림자 군주	影の貴族	暗影领主	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용; 한국어에서는 성별을 별도 표시하지 않음
 female^Shadow Mage	그림자 마법사	影の魔術師	暗影法师	unit_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용; 한국어에서는 성별을 별도 표시하지 않음
@@ -4438,8 +4443,8 @@ female^ambush	매복	伏兵	伏击	term		gettext 문맥 키(source_term의 ^ 앞
 female^burrow	굴 파기	堀潜	潜地	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 female^chaotic	야행성	混沌	混沌	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 female^concealment	은폐	潜伏	隐蔽	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-female^cured	해독됨	治療	已解毒	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-female^cures	해독	治療	疗毒	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+female^cured	치료됨	治療	已解毒	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+female^cures	치료	治療	疗毒	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 female^dazed	눈이 멀어짐	目潰し！	眩晕	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 female^deserter	탈영병	脱走兵	逃兵	trait		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 female^dextrous	능란함	器用	灵巧	trait		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
@@ -4457,10 +4462,10 @@ female^fearless	용맹한	勇敢	无惧	trait		gettext 문맥 키(source_term의
 female^feeding	포식	摂食	食尸	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 female^feral	야생	野生	野生	trait		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 female^formation	진형	隊列	布阵	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-female^heals +12	치료 +12	回復 +12	疗伤+12	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-female^heals +4	치료 +4	回復 +4	疗伤+4	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-female^heals +8	치료 +8	回復 +8	疗伤+8	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-female^heals Kalenz +4	칼렌츠(Kalenz) 치유효과 +4	Kalenz を +4 回復する。	治疗卡雷兹+4	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+female^heals +12	회복 +12	回復 +12	疗伤+12	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+female^heals +4	회복 +4	回復 +4	疗伤+4	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+female^heals +8	회복 +8	回復 +8	疗伤+8	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+female^heals Kalenz +4	칼렌츠(Kalenz) 회복효과 +4	Kalenz を +4 回復する。	治疗卡雷兹+4	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 female^healthy	건강함	壮健	康健	trait		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 female^heroic	영웅적인	英雄	英雄	trait		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 female^illuminates	조명	照明	照明	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
@@ -4500,7 +4505,7 @@ female^third verse illuminates	세 번째 소절 빛내기	第３小節が「照
 female^thirst	목마름	脱水症状	口渴	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 female^trained	훈련됨	訓練	训练有素	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 female^undead	언데드	アンデッド	亡灵	trait		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-female^unhealable	치료불가	回復不能	不可治疗	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+female^unhealable	회복 불가	回復不能	不可治疗	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 female^weak	약함	非力	虚弱	trait		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 feral	야생	野生	野生	trait		
 fervor	열정	熱情	狂热	attack_type		
@@ -4537,7 +4542,7 @@ friend	친구	友人	好友	term
 friends and ignores list	친구 및 무시 목록	友人/無視リスト	好友与忽略列表	term		
 friends list	친구 목록	友人リスト	好友列表	term		
 frost nova	냉기 폭발	冷気爆発	霜冻新星	term		
-frozen	냉동 타일	凍土	雪地	term		
+frozen	얼음 타일	凍土	雪地	term		
 fury	분노	狂戦	狂怒	trait		
 game^Play	플레이	プレイ	开始游玩	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 game_hotkeys^G	G	ゲ	G	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
@@ -4556,7 +4561,10 @@ hammer	망치	ハンマー	锤	attack_type
 haste	신속	高速	疾行	trait		
 hatch	부화	孵化	孵化	term		
 hatchet	손도끼	手斧	小斧	attack_type		
-heals	치유	not found	not found	term	치료	
+heal	회복	not found	not found	term		HP 회복
+healer	회복사	not found	not found	term		HP 회복을 담당하는 유닛
+healing	회복	not found	not found	term		HP 회복
+heals	회복	not found	not found	term		HP 회복
 healthy	건강함	壮健	康健	trait		
 help	도움말	help	帮助	term		
 heroic	영웅적인	英雄	英雄	trait		
@@ -4700,7 +4708,7 @@ quiver	화살통	矢筒	箭筒	item_name
 race+female^Bat	박쥐	コウモリ	蝙蝠	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race+female^Drake	반룡	ドレーク族	龙人	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race+female^Dunefolk Human	모래언덕 사람	デューンフォーク（人間）	沙丘游民	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-race+female^Dwarf	난쟁이	ドワーフ	矮人	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+race+female^Dwarf	드워프	ドワーフ	矮人	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race+female^Elf	엘프	エルフ	精灵	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race+female^Falcon	매	隼	猎鹰	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race+female^Goblin	고블린	ゴブリン	地精	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
@@ -4710,9 +4718,9 @@ race+female^Human	인간	人間	人类	race_name		gettext 문맥 키(source_term
 race+female^Monster	괴물	モンスター	怪物	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race+female^Ogre	오우거(Ogre)	オーガ	食人魔	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race+female^Orc	오크	オーク	兽人	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-race+female^Quenoth Elf	퀴노스(Quenoth) 요정	Quenoth エルフ	奎诺精灵	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+race+female^Quenoth Elf	퀴노스(Quenoth) 엘프	Quenoth エルフ	奎诺精灵	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race+female^Raven	까마귀	カラス	渡鸦	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-race+female^Saurian	도마뱀족	トカゲ	蜥蜴人	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+race+female^Saurian	사우리안	トカゲ	蜥蜴人	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race+female^Troll	트롤(Troll)	トロル	巨魔	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race+female^Undead	언데드	アンデッド	亡灵	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race+female^Wolf	늑대	狼	狼	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
@@ -4724,8 +4732,8 @@ race^Bats	박쥐들	コウモリ	蝙蝠	race_name		gettext 문맥 키(source_ter
 race^Drake	반룡	ドレーク	龙人	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race^Drakes	반룡들	ドレーク	龙人	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race^Dunefolk Human	모래언덕 사람	デューンフォーク（人間）	沙丘游民	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-race^Dwarf	난쟁이	ドワーフ	矮人	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-race^Dwarves	난쟁이들	ドワーフ	矮人	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+race^Dwarf	드워프	ドワーフ	矮人	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+race^Dwarves	드워프들	ドワーフ	矮人	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race^Elf	엘프	エルフ	精灵	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race^Elves	엘프들	エルフ	精灵	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race^Falcon	매	隼	猎鹰	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
@@ -4739,14 +4747,14 @@ race^Horses	말들	馬	马	race_name		gettext 문맥 키(source_term의 ^ 앞부
 race^Human	인간	人間	人类	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race^Humans	인간들	人間	人类	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race^Mechanical	기계	機械	机械	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-race^Merfolk	인어족	マーフォーク	人鱼	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+race^Merfolk	인어들	マーフォーク	人鱼	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race^Mermaid	여성 인어	マーフォーク	人鱼	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race^Merman	남성 인어	マーフォーク	人鱼	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race^Miscellaneous	기타	その他	杂项	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race^Monster	괴물	モンスター	怪物	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race^Monsters	괴물들	モンスター	怪物	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race^Naga	나가(Naga) ♂	ナーガ	娜迦	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-race^Nagas	나가족	ナーガ	娜迦	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+race^Nagas	나가들	ナーガ	娜迦	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race^Nagini	나가 ♀	ナーガ	娜迦	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race^Ogre	오우거(Ogre)	オーガ	食人魔	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race^Ogres	오우거들	オーガ	食人魔	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
@@ -4756,15 +4764,15 @@ race^Quenoth Elf	퀴노스(Quenoth) 엘프	Quenoth エルフ	奎诺精灵	race_n
 race^Quenoth Elves	퀴노스(Quenoth) 엘프들	Quenoth エルフ	奎诺精灵	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race^Raven	까마귀	カラス	渡鸦	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race^Ravens	까마귀들	カラス	渡鸦	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-race^Saurian	도마뱀족	トカゲ	蜥蜴人	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-race^Saurians	도마뱀족	トカゲ	蜥蜴人	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+race^Saurian	사우리안	トカゲ	蜥蜴人	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+race^Saurians	사우리안들	トカゲ	蜥蜴人	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race^Troll	트롤(Troll)	トロル	巨魔	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race^Trolls	트롤들	トロル	巨魔	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race^Undead	언데드	アンデッド	亡灵	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race^Wolf	늑대	狼	狼	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 race^Wolves	늑대들	狼	狼	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-race^Wose	나모	ウーズ	树人	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-race^Woses	나모들	ウーズ	树人	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+race^Wose	워즈(Wose)	ウーズ	树人	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+race^Woses	워즈들(Woses)	ウーズ	树人	race_name		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 raging blizzard	맹렬한 눈보라	猛烈な吹雪	狂怒暴雪	attack_type		
 rain of arrows	화살비	矢の雨	箭雨	term		
 ram	충각	角	巨槌	attack_type		
@@ -4844,7 +4852,7 @@ starving	굶주림	飢餓	饥饿	term
 state	상태	状態	状态	term		
 stats^Recruits	모집	雇用	次征募	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 statue	조각상	像	雕像	trait		
-statuspanel^lvl	수준	Lv	等级	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+statuspanel^lvl	lvl	Lv	等级	term		우측 패널 공간 제약으로 원문 약어 lvl 유지; gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않음
 steadfast	굳건함	装甲	坚定	term	철벽	
 stiletto beak	단검 부리	鋭いくちばし	尖喙	attack_type		
 sting	침	毒針	蛰刺	attack_type		
@@ -4871,9 +4879,9 @@ taunt	조롱	嘲笑	嘲讽	term
 taunted	조롱당함	被嘲笑	被嘲讽	term		
 taunting strike	도발 공격	挑発攻撃	嘲讽打击	attack_type		
 teaching	가르침	指導	传授	term		
-team_name^Dwarves	난쟁이들	ドワーフ	矮人	faction		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+team_name^Dwarves	드워프들	ドワーフ	矮人	faction		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 team_name^Orcs	오크들	オーク	兽人	faction		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-team_name^Quenoth Elves	퀴노스(Quenoth) 엘프족	Quenoth エルフ	奎诺精灵	faction		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+team_name^Quenoth Elves	퀴노스(Quenoth) 엘프들	Quenoth エルフ	奎诺精灵	faction		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 team_name^Student	학생	生徒	学生	faction		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 team_name^Trolls	트롤들	トロル	巨魔	faction		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 teamname^Center	중앙 팀	中央軍	中军	faction		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
@@ -4934,7 +4942,7 @@ tusk	엄니	牙	长牙	attack_type
 twister	회오리	竜巻	旋风	attack_type		
 unarmed	비무장	素手	未武装	attack_type		
 undead	언데드	アンデッド	亡灵	trait		
-unhealable	치료불가	回復不能	不可治疗	term		
+unhealable	회복 불가	回復不能	不可治疗	term		
 unit help^Attacks	공격	攻撃	攻击手段	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 unit help^Name	이름	名前	名称	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 unit_byte^B	B	B	B	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
@@ -4980,7 +4988,7 @@ wc_variation^Beast-Rider	짐승 기수	ビーストライダー	兽骑士	term		
 wc_variation^Boar	멧돼지	猪	野猪	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 wc_variation^Bug	벌레	虫	臭虫	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 wc_variation^Drake	반룡	ドレーク	龙人	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-wc_variation^Dwarf	난쟁이	ドワーフ	矮人	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+wc_variation^Dwarf	드워프	ドワーフ	矮人	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 wc_variation^Falcon	매	隼	猎隼	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 wc_variation^Fish	물고기	魚	鱼	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 wc_variation^Goblin	고블린	ゴブリン	地精	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
@@ -4996,11 +5004,11 @@ wc_variation^Spider	거미	クモ	蜘蛛	term		gettext 문맥 키(source_term의
 wc_variation^Swimmer	수영하는 자	水棲生物	泳者	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 wc_variation^Troll	트롤(Troll)	トロル	巨魔	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 wc_variation^Wolf	늑대	狼	狼	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
-wc_variation^Wose	나모	ウーズ	树人	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
+wc_variation^Wose	워즈(Wose)	ウーズ	树人	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 weak	약함	非力	虚弱	trait		
 weapon^None	없음	なし	无	term		gettext 문맥 키(source_term의 ^ 앞부분)는 번역하지 않고, ^ 뒤의 표시 문자열만 표준 번역으로 사용
 web	그물	蜘蛛の巣	蛛网	attack_type		
-wesnoth	웨스노스(wesnoth)	wesnoth	wesnoth	term		
+wesnoth	wesnoth	wesnoth	wesnoth	term		명령줄 실행 파일명은 원문을 유지
 wesnothd	wesnothd	wesnothd	wesnothd	term		
 whinny	히힝	いななき	嘶鸣	attack_type		
 whip	채찍	鞭	鞭子	attack_type		

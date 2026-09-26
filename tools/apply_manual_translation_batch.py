@@ -5906,14 +5906,14 @@ STRUCTURE_REPAIRS = {
     "This save is from an old, unsupported version ($version_number|) and cannot be loaded.": "이 세이브 파일은 오래되어 지원되지 않는 버전($version_number|)에서 만들어졌으므로 불러올 수 없습니다.",
     "Unable to create log files in directory $logdir. This is often caused by incorrect folder permissions, anti-virus software restricting folder access, or using OneDrive to manage your My Documents folder.": "$logdir 디렉토리에 로그 파일을 만들 수 없습니다. 이 문제는 잘못된 폴더 권한, 백신 소프트웨어로 인한 폴더 접근 제한, 또는 OneDrive로 내 문서 폴더를 관리할 때 발생하는 경우가 많습니다.",
     "<span strikethrough='true' foreground='$side_color'>Side $side_number</span>:  Has lost all units": "<span strikethrough='true' foreground='$side_color'>$side_number번 진영</span>: 모든 유닛을 잃었습니다",
-    "What do <i>I</i> want? I’ll tell you what I want! I want the stinking carcasses of you, all your henchmen and those dwarvish vermin off my land! And <i>stay</i> off!": "<i>내</i>가 원하는 거? 내가 원하는 것을 말해주지! 내가 원하는 건 냄새나는 너의 시체, 너의 병사들 그리고 난쟁이 녀석들이 내 땅에서 사라지길 원해! 그리고 <i>꺼져</i>!",
+    "What do <i>I</i> want? I’ll tell you what I want! I want the stinking carcasses of you, all your henchmen and those dwarvish vermin off my land! And <i>stay</i> off!": "<i>내</i>가 원하는 거? 내가 원하는 것을 말해주지! 내가 원하는 건 냄새나는 너의 시체, 너의 병사들 그리고 드워프 녀석들이 내 땅에서 사라지길 원해! 그리고 <i>꺼져</i>!",
     "(<i>Eyes on Eryssa</i>) I know, Hamel. Then may the coming seventy years be the most happiest and fulfilling years in our lives. Should we deny ourselves happiness out of the fear of loss?": "(<i>에릿사를 바라보며</i>) 압니다, 하멜. 그래서 오는 70년간을 우리 인생에서 가장 행복하고 성취되는 세월이기를. 두려움과 상실로부터 행복을 부정할 수 있을까요?",
     "Yes, if you would ever buy me a house! (<i>Pouty face</i>)": "네, 당신이 언젠가 집을 사준다면요! (<i>뿌루퉁한 얼굴</i>)",
     "You can ensure you use all your troops by pressing <b>n</b> to step from one unit to the next. If you press <b>space</b>, you can mark the currently selected unit as having finished its turn, which stops you moving it by accident later on. When <b>n</b> no longer selects a new unit, it’s safe to end your turn.": "<b>n</b>을 누르면 자동으로 다음 유닛이 선택되므로 매 차례마다 모든 유닛을 사용했는지 확인할 수 있습니다. <b>스페이스 바</b>는 유닛의 조작이 끝났음을 표시하여 n 키의 대상에서 벗어나게 합니다. <b>n</b> 키를 눌러도 새 유닛이 선택되지 않으면 차례를 마쳐도 됩니다.",
     "(<i>chirp chirp</i>)": "(<i>짹짹</i>)",
     "<i>Lawful</i> units fight better by day, and <i>chaotic</i> units fight better at night. <i>Neutral</i> units are unaffected by the time of day. The rare <i>liminal</i> units fight best during twilight.": "<i>주행성</i> 유닛은 주간에 전투력이 향상되며, <i>야행성</i> 유닛은 야간에 더 강합니다. <i>중립</i> 유닛은 시간대의 영향을 받지 않습니다. 드문 <i>경계</i> 유닛은 황혼에 가장 잘 싸웁니다.",
     "<i>― Royal Compendium of Battle Terminology: Volume II (reprinted 221YW)</i>": "<i>― 전투 용어의 왕실 개요서: 2권 (웨스노스력 221년 재간행)</i>",
-    "Camerin, you were always a little crazy. Now I see you have gone stark raving mad! Do you really think we would help anyone? <i>Especially</i> a bunch of dwarves!": "카메린, 당신은 항상 약간 미쳤어요. 그런데 이제 보니 당신은 완전히 미쳐 버렸군요! 우리가 정말 누구를 도울 수 있을 것 같아요? <i>특히</i> 난쟁이 무리 따위에!",
+    "Camerin, you were always a little crazy. Now I see you have gone stark raving mad! Do you really think we would help anyone? <i>Especially</i> a bunch of dwarves!": "카메린, 당신은 항상 약간 미쳤어요. 그런데 이제 보니 당신은 완전히 미쳐 버렸군요! 우리가 정말 누구를 도울 수 있을 것 같아요? <i>특히</i> 드워프 무리 따위에!",
 }
 
 FUZZY_TRANSLATIONS.update(

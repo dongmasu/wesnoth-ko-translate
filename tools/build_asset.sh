@@ -34,7 +34,7 @@ MO_DIR="$DIST_DIR/ko/LC_MESSAGES"
 }
 
 if [ -z "$CONFIG_SOURCE" ]; then
-    CONFIG_SOURCE=${WESNOTH_KO_CONFIG:-}
+    CONFIG_SOURCE=${WESNOTH_KO_CONFIG:-"$ROOT/work/$VERSION/ko_KR.cfg"}
 fi
 if [ -z "$CONFIG_SOURCE" ] || [ ! -f "$CONFIG_SOURCE" ]; then
     echo "error: pass ko_KR.cfg as the third argument" >&2

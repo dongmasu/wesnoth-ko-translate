@@ -35,6 +35,13 @@ GENDER_CONTEXT_RE = re.compile(r"^(?:(?:race\+)?(?:female|male)\^)(.+)$")
 # entity. Korean normally has no equivalent grammatical form, except where
 # the sex itself is part of the displayed identity.
 GENDER_CONTEXT_DISPLAY_EXCEPTIONS = {"female^Inky"}
+UI_PANEL_TRANSLATION_EXCEPTIONS = {
+    "HP": "HP",
+    "XP": "XP",
+    "MP": "MP",
+    "def": "def",
+}
+UI_PANEL_EXCEPTION_NOTE = "우측 패널 [label]:"
 
 
 def load_rows(path: Path) -> list[dict[str, str]]:
@@ -60,15 +67,24 @@ def po_translations(directory: Path) -> dict[str, set[str]]:
 def source_tokens(source: str) -> set[str]:
     """Return source tokens, excluding possessive suffixes."""
     tokens = set(WORD_RE.findall(source.split("^", 1)[-1]))
-    return {
+    normalized_tokens = {
         token[:-1] if token.endswith(("’", "'")) else token
         for token in tokens
+    }
+    # A canonical name may use a hyphen where another source occurrence uses
+    # a space, so retain both the full token and its name components.
+    return normalized_tokens | {
+        component
+        for token in normalized_tokens
+        for component in re.findall(r"\b[\w’']+\b", token)
     }
 
 
 def parenthetical_is_source_component(parenthetical: str, source: str) -> bool:
     """Accept names that are source tokens or components of compound tokens."""
-    parenthetical_tokens = WORD_RE.findall(parenthetical)
+    # Canonical names can use hyphens where a source string uses spaces
+    # (for example, "Mal Ravanal" and "Mal-Ravanal").
+    parenthetical_tokens = re.findall(r"\b[\w’']+\b", parenthetical)
     if not parenthetical_tokens:
         return False
     source_words = source_tokens(source)
@@ -116,7 +132,13 @@ def main() -> int:
         if any(NOTE_MARKER_RE.search(item) for item in forbidden):
             errors.append(f"review note leaked into forbidden_terms: {source}")
         if source in translations and standard not in translations[source]:
-            errors.append(f"glossary/PO mismatch: {source}")
+            panel_exception = (
+                source in UI_PANEL_TRANSLATION_EXCEPTIONS
+                and UI_PANEL_EXCEPTION_NOTE in row["notes"]
+                and UI_PANEL_TRANSLATION_EXCEPTIONS[source] in translations[source]
+            )
+            if not panel_exception:
+                errors.append(f"glossary/PO mismatch: {source}")
 
         for parenthetical in PAREN_RE.findall(standard):
             if parenthetical in TECHNICAL_PARENTS:

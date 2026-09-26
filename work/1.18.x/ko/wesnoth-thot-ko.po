@@ -109,7 +109,7 @@ msgid ""
 "occupation. But soon enough they prospered once again. The dwarves began "
 "mining their past for inspiration to rebuild Knalga even greater than "
 "before, and began also reaching out for contact with their scattered kinfolk."
-msgstr "북부 동맹이 결성된 후 처음 몇 년 동안 크날가(Knalga)의 난쟁이들과 난쟁이의 문 인간들은 오랜 오크의 점령으로 파괴된 지역을 재건하는 데 전념했다. 그리하여 얼마 지나지 않아 그들은 다시 한 번 번영을 누렸다. 난쟁이들은 크날가(Knalga)를 이전보다 더 크게 재건하기 위한 영감을 얻기 위해 자신들의 과거를 조사하기 시작했고, 흩어져 있는 친족들과 접촉하기 위해 손을 뻗기 시작했다."
+msgstr "북부 동맹이 결성된 후 처음 몇 년 동안 크날가(Knalga)의 드워프들과 드워프의 문 인간들은 오랜 오크의 점령으로 파괴된 지역을 재건하는 데 전념했다. 그리하여 얼마 지나지 않아 그들은 다시 한 번 번영을 누렸다. 드워프들은 크날가(Knalga)를 이전보다 더 크게 재건하기 위한 영감을 얻기 위해 자신들의 과거를 조사하기 시작했고, 흩어져 있는 친족들과 접촉하기 위해 손을 뻗기 시작했다."
 
 #. [part]
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:30
@@ -118,7 +118,7 @@ msgid ""
 "ended. The dwarves kept strong guards on the approaches to Knalga. In the "
 "year 550 after the founding of Wesnoth, the captain of the East Gate "
 "received a warning that a small band of rogue orcs had been sighted."
-msgstr "하지만 적대적인 오크들, 야만적인 인간들, 언데드 잔당들의 위협은 아직 끝나지 않았다. 난쟁이들은 크날가(Knalga)의 접근에 대한 경비병들을 강화했다. 웨스노스(Wesnoth)가 건국된 지 550년, 크날가(Knalga)의 동쪽 관문 대장은 소규모 오크 무리가 목격되었다는 보고를 받았다."
+msgstr "하지만 적대적인 오크들, 야만적인 인간들, 언데드 잔당들의 위협은 아직 끝나지 않았다. 드워프들은 크날가(Knalga)의 접근에 대한 경비병들을 강화했다. 웨스노스(Wesnoth)가 건국된 지 550년, 크날가(Knalga)의 동쪽 관문 대장은 소규모 오크 무리가 목격되었다는 보고를 받았다."
 
 #. [side]
 #. [side]: type=Dwarvish Lord, id=Hamel
@@ -208,7 +208,7 @@ msgid ""
 "What is this? Their vanquished leader wears a cloak-pin of dwarvish make. "
 "And it bears a loremaster’s emblem. Why would an orc be carrying metalwork "
 "of dwarvish make?"
-msgstr "이건 뭐지? 그들의 패배한 대장은 난쟁이들이 만든 망토 걸쇠를 쓰고 있군. 그리고 그것은 전승의 대가 문장을 달고 있군. 왜 오크가 난쟁이들의 금속 세공품을 가지고 있는 거지?"
+msgstr "이건 뭐지? 그들의 패배한 대장은 드워프들이 만든 망토 걸쇠를 쓰고 있군. 그리고 그것은 전승의 대가 문장을 달고 있군. 왜 오크가 드워프들의 금속 세공품을 가지고 있는 거지?"
 
 #. [unit]: id=Movrur, type=Dwarvish Masked Steelclad
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:145
@@ -231,7 +231,7 @@ msgstr "그렇소. 이 망토 걸쇠는 우리가 만든 것이오."
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:173
 msgid "Hold... kinsman. Who are you and from where do you hail?"
-msgstr "기다리세요... 친척이여. 당신은 누구고, 어디서 온 것입니까?"
+msgstr "잠깐... 친척이여. 자네는 누구고, 어디서 왔는가?"
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:178
@@ -244,7 +244,7 @@ msgid ""
 "Kal Kartha, the hold of the forges and the olden birthplace of our kind? "
 "That Kal Kartha? We have not heard from you in years! It was thought that "
 "your hold was lost to the orcs long ago."
-msgstr "칼 카르타라면, 대장간의 본거지이자 우리 종족의 오래된 발상지였던? 그 칼 카르타? 우리는 여러 해 동안 당신들의 소식을 듣지 못했습니다! 당신들의 본거지는 오래 전에 오크들에게 빼앗긴 줄 알았습니다."
+msgstr "칼 카르타라면, 대장간의 본거지이자 우리 종족의 오래된 발상지였던? 그 칼 카르타? 우리는 여러 해 동안 자네들의 소식을 듣지 못했네! 자네들의 본거지는 오래전에 오크들에게 빼앗긴 줄 알았네."
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:188
@@ -259,12 +259,12 @@ msgstr "그렇습니다, 우리의 본거지는 한 때 오크들에게 침략�
 msgid ""
 "In that case, we had best consult Lord Hamel. We may yet be able to send you "
 "some aid against these orcish marauders."
-msgstr "그렇다면, 하멜(Hamel) 경과 상의하는 것이 가장 좋습니다. 우리는 이런 오크 약탈자들에 맞서 당신들에게 아직은 도움을 보낼 수 있을 것입니다."
+msgstr "그렇다면 하멜(Hamel) 경과 상의하는 것이 가장 좋겠소. 우리는 이런 오크 약탈자들에 맞서 자네들에게 아직 도움을 보낼 수 있을 것이오."
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:198
 msgid "If you wish it. Let us see what you can offer."
-msgstr "당신이 원한다면. 당신이 무엇을 제공할 수 있는지 살펴보겠습니다."
+msgstr "자네가 원한다면. 자네가 무엇을 제공할 수 있는지 살펴보겠네."
 
 #. [scenario]: id=02_Reclaiming_the_Past
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:5
@@ -328,7 +328,7 @@ msgid ""
 "wield it, and our oldest histories hint that this very hammer was used to "
 "forge the dwarves themselves in the heart of the deepest forges beneath Kal "
 "Kartha."
-msgstr "그렇습니다. 우리의 가장 위대한 룬 대장장이가 화염의 홀을 만드는 데 사용했던 바로 그 도구입니다. 그러나 그것은 투르사간(Thursagan)보다 훨씬 오래되고, 태고적부터 존재했습니다. 그는 그것을 휘두르는 마지막 사람이었고, 우리의 가장 오래된 역사적 실마리에는 바로 이 망치가 칼 카르타 아래 가장 깊은 대장간 중심부에서 난쟁이들을 제련하는 데 사용되었음을 암시합니다."
+msgstr "그렇습니다. 우리의 가장 위대한 룬 대장장이가 화염의 홀을 만드는 데 사용했던 바로 그 도구입니다. 그러나 그것은 투르사간(Thursagan)보다 훨씬 오래되고, 태고적부터 존재했습니다. 그는 그것을 휘두르는 마지막 사람이었고, 우리의 가장 오래된 역사적 실마리에는 바로 이 망치가 칼 카르타 아래 가장 깊은 대장간 중심부에서 드워프들을 제련하는 데 사용되었음을 암시합니다."
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:128
@@ -493,7 +493,7 @@ msgid ""
 "the east through the settled lands of the Northern Alliance. Soon enough "
 "they came to the wilder march country, where raids by large bands of hostile "
 "orcs and men were all too common."
-msgstr "앙가르팅(Angarthing), 아이글론두르(Aiglondur), 모브루르(Movrur), 그리고 난쟁이의 부대는 북부 동맹의 정착지를 거쳐 동쪽으로 빠르게 이동했다. 얼마 지나지 않아 그들은 아직 인정되지 않은 국경 지대에 도착했는데, 그곳은 적대적인 오크들과 사람들로 이루어진 대규모 무리들의 습격이 너무나 흔한 곳이었다."
+msgstr "앙가르팅(Angarthing), 아이글론두르(Aiglondur), 모브루르(Movrur), 그리고 드워프의 부대는 북부 동맹의 정착지를 거쳐 동쪽으로 빠르게 이동했다. 얼마 지나지 않아 그들은 아직 인정되지 않은 국경 지대에 도착했는데, 그곳은 적대적인 오크들과 사람들로 이루어진 대규모 무리들의 습격이 너무나 흔한 곳이었다."
 
 #. [side]: type=Orcish Warrior, id=Marth-Tak
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:57
@@ -632,14 +632,14 @@ msgid ""
 "My thanks, dwarves. There have been many attacks on the border tribes of "
 "late, and though we have repelled them thus far, the assaults have gotten "
 "only more fierce with each passing day."
-msgstr "고맙습니다, 난쟁이들이여. 최근 국경 부족들에 대한 많은 공격이 있었고, 지금까지는 놈들을 물리쳤지만, 공격은 날이 갈 수록 더 격렬해지고 있습니다."
+msgstr "고맙습니다, 드워프들이여. 최근 국경 부족들에 대한 많은 공격이 있었고, 지금까지는 놈들을 물리쳤지만, 공격은 날이 갈 수록 더 격렬해지고 있습니다."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:258
 msgid ""
 "Indeed? What disturbs me is that these orcs bear arms and coins of dwarvish "
 "make. It intimates that this war-band was hired for this purpose."
-msgstr "그렇습니까? 나로서는, 이 오크들이 난쟁이가 만든 무기나 동전을 가지고 있는 것이 나를 신경이 쓰이게 만듭니다. 이 전투단이 이 목적을 위해 고용되었다는 것을 암시하는 것 같습니다."
+msgstr "그렇습니까? 나로서는, 이 오크들이 드워프가 만든 무기나 동전을 가지고 있는 것이 나를 신경이 쓰이게 만듭니다. 이 전투단이 이 목적을 위해 고용되었다는 것을 암시하는 것 같습니다."
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:263
@@ -647,7 +647,7 @@ msgid ""
 "Nonsense. It may very well be that these orcs defeated a garrison of dwarves "
 "and raided their supplies. You need not draw such drastic conclusions from "
 "such an insignificant encounter."
-msgstr "말도 안 되는 소리입니다. 아마도 이 오크들은 난쟁이의 주둔지를 물리치고 그들의 보급품을 약탈했을 수도 있습니다. 그런 사소한 충돌에서 그렇게 극단적인 결론을 내릴 필요는 없습니다."
+msgstr "말도 안 되는 소리입니다. 아마도 이 오크들은 드워프의 주둔지를 물리치고 그들의 보급품을 약탈했을 수도 있습니다. 그런 사소한 충돌에서 그렇게 극단적인 결론을 내릴 필요는 없습니다."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:268
@@ -762,7 +762,7 @@ msgid ""
 "Hammer will revive the ancient art of runecraft and bring dwarven-kind back "
 "to glory. With the Hammer restored, no orc shall ever be a threat to us ever "
 "again."
-msgstr "맞습니다. 하지만 최종 목표를 잊어서는 안 됩니다. 망치를 복원하면 고대 룬 공예 기술을 되살리고 난쟁이들이 영광을 되찾을 것입니다. 망치가 복원되면 어떤 오크도 다시는 우리에게 위협이 되지 않을 것입니다."
+msgstr "맞습니다. 하지만 최종 목표를 잊어서는 안 됩니다. 망치를 복원하면 고대 룬 공예 기술을 되살리고 드워프들이 영광을 되찾을 것입니다. 망치가 복원되면 어떤 오크도 다시는 우리에게 위협이 되지 않을 것입니다."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:287
@@ -786,7 +786,7 @@ msgstr "두려움"
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:134
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:163
 msgid "Masked Dwarves"
-msgstr "가면 쓴 난쟁이들"
+msgstr "가면 쓴 드워프들"
 
 #. [side]
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:78
@@ -873,14 +873,14 @@ msgstr "도대체 여기서 무슨 일이 일어나고 있는 걸까요?"
 msgid ""
 "Fellow dwarves, hail! Kinsman Movrur, are ye back so soon from your journey "
 "to Knalga?"
-msgstr "난쟁이 동료여, 반갑습니다! 친척인 모브루르(Movrur)여, 크날가(Knalga)의 여행에서 이리 빨리 돌아온 겁니까?"
+msgstr "드워프 동료여, 반갑습니다! 친척인 모브루르(Movrur)여, 크날가(Knalga)의 여행에서 이리 빨리 돌아온 겁니까?"
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:297
 msgid ""
 "Aye. I’ve brought some of our brethren from the Dwarven Doors; we make for "
 "the forges of Kal Kartha to examine the Hammer."
-msgstr "그래요. 난쟁이의 문에서 우리 형제들을 몇 명을 데리고 왔습니다. 우리는 망치를 조사하기 위해서 칼 카르타의 대장간로 서둘러 가고 있습니다."
+msgstr "그래요. 드워프의 문에서 우리 형제들을 몇 명을 데리고 왔습니다. 우리는 망치를 조사하기 위해서 칼 카르타의 대장간로 서둘러 가고 있습니다."
 
 #. [message]: speaker=Masked Dwarf Leader
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:302
@@ -947,7 +947,7 @@ msgstr "<i>앙가르팅(Angarthing), 무슨 일 있나요?</i>"
 msgid ""
 "<i>Something is suspicious here. Stay alert and keep an eye on what those "
 "masked dwarves do. Movrur, too.</i>"
-msgstr "<i>여기 뭔가 수상합니다. 정신 바짝 차리고 가면 쓴 난쟁이들이 뭘 하는지 지켜보세요. 모브루르(Movrur)도 말입니다.</i>"
+msgstr "<i>여기 뭔가 수상합니다. 정신 바짝 차리고 가면 쓴 드워프들이 뭘 하는지 지켜보세요. 모브루르(Movrur)도 말입니다.</i>"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:358
@@ -969,7 +969,7 @@ msgstr "말루크(Maluk)"
 msgid ""
 "So, the filth shows its face at last. You may think yourself mighty for "
 "preying on weak humans, but you stand no chance against us dwarves."
-msgstr "그래, 마침내 그 더러운 놈들의 모습을 드러냈군. 너희는 약한 농민들을 먹잇감으로 삼으며 자신들이 강하다고 생각할지 모르겠지만, 그 정도로는 우리 난쟁이들의 상대가 되지 못한다."
+msgstr "그래, 마침내 그 더러운 놈들의 모습을 드러냈군. 너희는 약한 농민들을 먹잇감으로 삼으며 자신들이 강하다고 생각할지 모르겠지만, 그 정도로는 우리 드워프들의 상대가 되지 못한다."
 
 #. [message]: speaker=Maluk
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:588
@@ -1001,21 +1001,21 @@ msgstr "그것 좀 봅시다."
 msgid ""
 "These look as if they are of dwarven make! Movrur, what is the meaning of "
 "this?"
-msgstr "이것들은 마치 난쟁이의 제품인 것처럼 보입니다! 모브루르(Movrur), 이게 도대체 무슨 일입니까?"
+msgstr "이것들은 마치 드워프의 제품인 것처럼 보입니다! 모브루르(Movrur), 이게 도대체 무슨 일입니까?"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:649
 msgid ""
 "In his haste to escape, it seems like the orc dropped some coins. It looks "
 "as if they are of dwarven make! Movrur, what is the meaning of this?"
-msgstr "저 오크는 황급히 도망친 것 같습니다만, 동전을 어느 정도 떨어뜨린것 같군요. 이 동전은 난쟁이 제품 같습니다! 모브루르(Movrur), 이게 도대체 무슨 일입니까?"
+msgstr "저 오크는 황급히 도망친 것 같습니다만, 동전을 어느 정도 떨어뜨린것 같군요. 이 동전은 드워프 제품 같습니다! 모브루르(Movrur), 이게 도대체 무슨 일입니까?"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:656
 msgid ""
 "In his haste to escape, it seems like the orc dropped some coins. It looks "
 "as if they are of dwarven make!"
-msgstr "저 오크는 황급히 도망친 것 같습니다만, 동전을 어느 정도 떨어뜨린것 같군요. 이 동전은 난쟁이 제품 같습니다!"
+msgstr "저 오크는 황급히 도망친 것 같습니다만, 동전을 어느 정도 떨어뜨린것 같군요. 이 동전은 드워프 제품 같습니다!"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:661
@@ -1040,14 +1040,14 @@ msgstr "그렇겠죠."
 msgid ""
 "We of Kal Kartha have no reason to give these foul orcs any of our hard-"
 "earned gold, if that is what you are insinuating, <i>loremaster</i>."
-msgstr "우리 칼 카르타 사람들은 힘들게 벌어들인 금화를 이런 역겨운 오크들에게 줄 이유가 없습니다. 당신이 애둘러 말하는 게 그것이라면, <i>전승의 대가</i>여."
+msgstr "우리 칼 카르타 사람들은 힘들게 벌어들인 금화를 이런 역겨운 오크들에게 줄 이유가 없네. 자네가 에둘러 말하는 게 그것이라면, <i>전승의 대가</i>여."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:683
 msgid ""
 "Indeed. Although I find it odd that the orcs would have found such a sum of "
 "dwarven currency from raiding human villages..."
-msgstr "물론이죠. 오크들이 습격하는 인간 마을에서 그렇게 많은 난쟁이의 화폐를 발견했다는 것이 이상하다고 생각은 들지만..."
+msgstr "물론이죠. 오크들이 습격하는 인간 마을에서 그렇게 많은 드워프의 화폐를 발견했다는 것이 이상하다고 생각은 들지만..."
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:688
@@ -1055,14 +1055,14 @@ msgid ""
 "If it pleases you, I will distribute this gold to these... poor... humans. "
 "That way, they can return to their fields with their money returned to them, "
 "and we can be on our way to Kal Kartha."
-msgstr "당신이 원한다면, 이 금화를 이... 불쌍한... 인간들에게 나누어 주겠습니다. 그러면 그들은 돈을 돌려받아 자신들의 밭으로 돌아갈 수 있을 것이고, 우리도 안심하고 칼 카르타로 향할 수 있습니다."
+msgstr "자네가 원한다면, 이 금화를 이... 불쌍한... 인간들에게 나누어 주겠네. 그러면 그들은 돈을 돌려받아 자신들의 밭으로 돌아갈 수 있을 것이고, 우리도 안심하고 칼 카르타로 향할 수 있겠지."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:693
 msgid ""
 "<i>That did not really answer your concern.</i> Very well, that sounds "
 "reasonable to me."
-msgstr "<i>당신의 우려에 대한 답변이 아니었습니다.</i> 그래도 좋습니다, 그건 나에게 합리적인 대응이라고 생각됩니다."
+msgstr "<i>자네의 우려에 대한 답변은 아니었네.</i> 그래도 좋소, 내게는 합리적인 대응으로 들리는군."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:698
@@ -1103,7 +1103,7 @@ msgstr "부루마르디르-아텔로란드(Burumardir-Athelorand)"
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Forbidden_Forest.cfg:132
 msgid "Move both Aiglondur and Angarthing to the eastern signpost"
-msgstr "아이글론두르(Aiglondur)와 앙가르팅(Angarthing) 둘다 동쪽 표지판으로 아동시켜라"
+msgstr "아이글론두르(Aiglondur)와 앙가르팅(Angarthing) 둘 다 동쪽 표지판으로 이동시켜라"
 
 #. [note]
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Forbidden_Forest.cfg:151
@@ -1135,7 +1135,7 @@ msgid ""
 "We allow few outsiders in our forest paths, and no dwarves since the masked "
 "ones began to trouble our eastern margins. No axe-bearers shall come near "
 "our trees. Return whence you came!"
-msgstr "외지인이 우리 숲길을 통과하는 것은 거의 허용하지 않고, 가면을 쓴 자들이 우리의 동쪽 경계를 괴롭히기 시작한 이후로 난쟁이들은 허용하지 않는다. 도끼를 든 자는 우리 나무들에 접근하지 말라. 너희가 왔던 곳으로 돌아가라!"
+msgstr "외지인이 우리 숲길을 통과하는 것은 거의 허용하지 않고, 가면을 쓴 자들이 우리의 동쪽 경계를 괴롭히기 시작한 이후로 드워프들은 허용하지 않는다. 도끼를 든 자는 우리 나무들에 접근하지 말라. 너희가 왔던 곳으로 돌아가라!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Forbidden_Forest.cfg:216
@@ -1152,7 +1152,7 @@ msgstr "너희는 여기서 통과하지 못할 것이다."
 msgid ""
 "Winter comes on our heels, and your forest straddles the only gap in these "
 "mountains. You leave us no choice but to fight you."
-msgstr "겨울이 우리를 뒤쫓아오고, 당신의 숲은 이 산맥의 유일한 틈새를 가로막고 있습니다. 이렇게 되면 우리는 당신과 싸울 수밖에 없습니다."
+msgstr "겨울이 우리를 뒤쫓아오고, 자네들의 숲은 이 산맥의 유일한 틈새를 가로막고 있소. 이렇게 되면 우리는 자네들과 싸울 수밖에 없소."
 
 #. [message]: speaker=Elurin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Forbidden_Forest.cfg:231
@@ -1165,7 +1165,7 @@ msgstr "그렇다면 그렇게 하라. 너희들의 뼈는 우리 숲의 땅에 
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Forbidden_Forest.cfg:282
 msgid ""
 "Rally on me, everyone. We have better things to do than brawl with elves."
-msgstr "모두 내게 모이세요. 우리에게는 요정들과 싸우는 것보다 중요한 책무가 있습니다."
+msgstr "모두 내게 모이세요. 우리에게는 엘프들과 싸우는 것보다 중요한 책무가 있습니다."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Forbidden_Forest.cfg:291
@@ -1253,7 +1253,7 @@ msgid ""
 "Well fought, and our thanks; we were sore pressed. You are our honored "
 "guests, and I will show you to the best quarters we have myself. Our lord, "
 "the runemaster Karrag, will want to have speech with you on the morrow."
-msgstr "잘 싸워 주셔서 감사합니다. 우리는 심각한 곤경에 처해 있었습니다. 여러분은 우리의 영예로운 손님들이기에, 제가 가진 가장 좋은 숙소로 안내해 드리겠습니다. 우리의 영주이신 룬 술사 카르라그(Karrag)님께서는 내일 당신들과 이야기하고 싶어할 것입니다."
+msgstr "잘 싸워 주셔서 감사하오. 우리는 심각한 곤경에 처해 있었소. 여러분은 우리의 영예로운 손님들이니, 내가 가진 가장 좋은 숙소로 안내하겠소. 우리의 영주이신 룬 술사 카르라그(Karrag)님께서는 내일 자네들과 이야기하고 싶어 하실 것이오."
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_The_Siege_of_Kal_Kartha.cfg:322
@@ -1284,7 +1284,7 @@ msgid ""
 "toiled for long years to recover the craft lore. He was elevated when our "
 "old lord fell in battle against the besieging orcs. Karrag himself was "
 "wounded near to death; none thought he would recover."
-msgstr "그래요? 음, 당신은 나보다 그런 것들을 더 잘 알겠군요, 전승의 대가여. 카르라그(Karrag) 경은 룬 공예 지식을 복구하기 위해 오랜 세월 동안 고생해온 분입니다. 우리의 옛 영주님이 오크들을 포위하는 전투에서 쓰러졌을때 그는 승격되었습니다. 카르라그(Karrag) 자신도 부상을 입어 거의 죽을 뻔 했지만, 아무도 그가 회복할 것이라고는 생각하지 못했습니다."
+msgstr "그런가? 음, 자네가 나보다 그런 것들을 더 잘 알겠군, 전승의 대가여. 카르라그(Karrag) 경은 룬 공예 지식을 복구하기 위해 오랜 세월 동안 애쓴 분이네. 우리의 옛 영주님이 오크들과의 전투에서 쓰러졌을 때 그가 뒤를 이었지. 카르라그(Karrag) 자신도 거의 죽을 만큼 다쳤지만, 아무도 그가 회복하리라 생각하지 못했네."
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_The_Siege_of_Kal_Kartha.cfg:347
@@ -1305,7 +1305,7 @@ msgid ""
 "Aye. Shattered though the Hammer may be, it still retains some of its old "
 "power. With your knowledge and help, loremaster, we can reforge the hammer "
 "and use its power to smash all enemies that oppose us."
-msgstr "그래요. 망치는 부서지긴 했지만 여전히 예전의 힘을 일부 유지하고 있습니다. 전승의 대가여, 당신의 지식과 도움만 있으면, 우리는 망치를 다시 만들고 그 힘을 사용하여 우리를 반대하는 모든 적을 무찌를 수 있습니다."
+msgstr "그렇소. 망치는 부서지긴 했지만 여전히 예전의 힘을 일부 유지하고 있네. 전승의 대가여, 자네의 지식과 도움만 있으면 우리는 망치를 다시 만들고 그 힘으로 우리를 반대하는 모든 적을 무찌를 수 있소."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_The_Siege_of_Kal_Kartha.cfg:362
@@ -1365,7 +1365,7 @@ msgstr "칼 카르타인들(Kal)"
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:168
 #: data/campaigns/The_Hammer_of_Thursagan/utils/macros.cfg:25
 msgid "Masked Dwarf"
-msgstr "가면 쓴 난쟁이"
+msgstr "가면 쓴 드워프"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Court_of_Karrag.cfg:131
@@ -1393,14 +1393,14 @@ msgstr "그렇군요. 여기에는 매우 나쁜 뭔가가 있는 것 같습니�
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Court_of_Karrag.cfg:200
 msgid "Hail, fellow dwarves. All Kal Kartha thanks you for your timely rescue."
-msgstr "어서 오게, 난쟁이 동포들이여. 때맞춰 구출해주셔서 칼 카르타 모두를 대표하여 감사하네."
+msgstr "어서 오게, 드워프 동포들이여. 때맞춰 구출해주셔서 칼 카르타 모두를 대표하여 감사하네."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Court_of_Karrag.cfg:205
 msgid ""
 "We are from Knalga; your clans are kin to ours of old. We but did our duty "
 "to kin."
-msgstr "우리는 크날가(Knalga) 출신이고, 당신 가문은 우리 가문의 오래된 친척입니다. 우리는 친척에 대한 본분을 다한 것뿐입니다."
+msgstr "우리는 크날가(Knalga) 출신이고, 자네 가문은 우리 가문의 오랜 친척이오. 우리는 친척에 대한 본분을 다한 것뿐이오."
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Court_of_Karrag.cfg:210
@@ -1408,7 +1408,7 @@ msgid ""
 "All dwarves are kin, and must prevail against orcs and humans and other "
 "dirtgrubbers. You can be part of the fist that smites them through the power "
 "of our ancient heirloom, the Hammer of Thursagan."
-msgstr "모든 난쟁이들은 친척이고, 오크들, 인간들, 다른 땅거지 새끼들보다 뛰어나다네. 그대는 우리의 고대 가보인 투루사간의 망치의 힘을 통해 그들을 치는 힘의 한 부분이 될 수 있네."
+msgstr "모든 드워프들은 친척이고, 오크들, 인간들, 다른 땅거지 새끼들보다 뛰어나다네. 그대는 우리의 고대 가보인 투루사간의 망치의 힘을 통해 그들을 치는 힘의 한 부분이 될 수 있네."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Court_of_Karrag.cfg:215
@@ -1426,7 +1426,7 @@ msgid ""
 "blood, that which binds our will and forges our resolve. It is a symbol of "
 "our superiority as the true people of Irdya, an image that the other races "
 "shall respect and fear!"
-msgstr "무기? 아니, 아니라네, 전승의 대가여... 그대는 내 의도를 잘못 이해하고 있네. 그대나 내가 알고 있듯, 망치가 하찮은 무기가 아니라네. 망치는 진정한 민족인 난쟁이의 영혼을 담고 있지. 그것은 우리의 살과 피를 만든 것, 우리의 뜻을 묶고 단련시키는 것이라네. 이것은 우리가 이르디야(Irdya)의 진정한 민족으로서 우월함을 보여 주는 상징이며, 다른 종족들이 존경하고 두려워할 상징이라네!"
+msgstr "무기? 아니, 아니라네, 전승의 대가여... 그대는 내 의도를 잘못 이해하고 있네. 그대나 내가 알고 있듯, 망치가 하찮은 무기가 아니라네. 망치는 진정한 민족인 드워프의 영혼을 담고 있지. 그것은 우리의 살과 피를 만든 것, 우리의 뜻을 묶고 단련시키는 것이라네. 이것은 우리가 이르디야(Irdya)의 진정한 민족으로서 우월함을 보여 주는 상징이며, 다른 종족들이 존경하고 두려워할 상징이라네!"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Court_of_Karrag.cfg:225
@@ -1466,7 +1466,7 @@ msgstr "조용히 하라, 모브루르(Movrur). 전승의 대가여, 그대는�
 msgid ""
 "But the Law must see. A dwarf must put his name and his face behind his "
 "deeds. I am a witness."
-msgstr "율법은 그것을 인정하지 않습니다. 난쟁이가 어떤 일을 하려 한다면 그 이름과 얼굴을 드러내야 합니다. 저는 증인입니다."
+msgstr "율법은 그것을 인정하지 않습니다. 드워프가 어떤 일을 하려 한다면 그 이름과 얼굴을 드러내야 합니다. 저는 증인입니다."
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Court_of_Karrag.cfg:255
@@ -1474,7 +1474,7 @@ msgid ""
 "Master, you need not answer to this fool. Even for a loremaster, to dictate "
 "to a lord in his own holding... and one who holds the very soul of the "
 "dwarves in his hand. It is unthinkable!"
-msgstr "영주님, 이 어리석은 자에게 대답할 필요는 없습니다. 아무리 전승의 대가라고는 하지만, 자신이 서 있는 영지의 군주에게 지시하는 등... 그것도, 난쟁이들의 영혼이라고 불러야 할 비보를 손에 쥔 사람에 대해서 그런 태도를 취하는 등... 그것은 상상도 할 수 없는 일입니다!"
+msgstr "영주님, 이 어리석은 자에게 대답할 필요는 없습니다. 아무리 전승의 대가라고는 하지만, 자신이 서 있는 영지의 군주에게 지시하는 등... 그것도, 드워프들의 영혼이라고 불러야 할 비보를 손에 쥔 사람에 대해서 그런 태도를 취하는 등... 그것은 상상도 할 수 없는 일입니다!"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Court_of_Karrag.cfg:260
@@ -1499,7 +1499,7 @@ msgid ""
 "I lingered for weeks in agony. Only my hatred and the runelore of old "
 "sustained me, until I became as I am. I will have revenge; I will destroy "
 "the orcs, and the humans, and the elves, and all but the true people!"
-msgstr "나는 몇 주 동안 괴로움 속에서 헤매고 있었네. 나의 증오와 룬의 기술만이 나를 지탱하고 있었고, 그래서 지금의 모습이 되었지. 나는 복수할 것이다. 오크들을 멸하고, 인간들을 멸하고, 요정들을 멸하고, 진정한 민족을 제외한 모든 것을 멸할 것이다!"
+msgstr "나는 몇 주 동안 괴로움 속에서 헤매고 있었네. 나의 증오와 룬의 기술만이 나를 지탱하고 있었고, 그래서 지금의 모습이 되었지. 나는 복수할 것이다. 오크들을 멸하고, 인간들을 멸하고, 엘프들을 멸하고, 진정한 민족을 제외한 모든 것을 멸할 것이다!"
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Court_of_Karrag.cfg:306
@@ -1508,7 +1508,7 @@ msgid ""
 "weave a web of blood around the Hammer and the soul of the dwarves. You and "
 "your new friends will be the last sacrifices I require to bind the entire "
 "dwarvish race to my purpose. TAKE THEM!"
-msgstr "그리고 너희들의 파멸도 확정했다. 수백 명의 땅거지 새끼들이 이미 망치와 난쟁이들의 영혼 주위에 피의 그물을 짜면서 죽었다. 너와 너의 새로운 친구들은 내 목적에 맞게 난쟁이 종족 전체를 묶기 위한 내게 필요한 마지막 희생이 될 것이다. 놈들을 잡아라!"
+msgstr "그리고 너희들의 파멸도 확정했다. 수백 명의 땅거지 새끼들이 이미 망치와 드워프들의 영혼 주위에 피의 그물을 짜면서 죽었다. 너와 너의 새로운 친구들은 내 목적에 맞게 드워프 종족 전체를 묶기 위한 내게 필요한 마지막 희생이 될 것이다. 놈들을 잡아라!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Court_of_Karrag.cfg:319
@@ -1794,7 +1794,7 @@ msgid ""
 "No! You are the one who owes our brethren their freedom! You have ensnared "
 "their minds with your foul magic and now we are here to put an end to your "
 "tyrannical rule!"
-msgstr "아니요! 당신은 우리 동포의 자유를 빼앗은 죄인일 뿐입니다! 사악한 마술로 사람들의 마음을 현혹시키는 폭군의 지배도 여기서 끝낼 것입니다!"
+msgstr "아니요! 당신은 우리 동포의 자유를 빼앗은 죄인일 뿐입니다! 사악한 마술로 사람들의 마음을 현혹시키는 폭군의 지배도 여기서 끝내겠습니다!"
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1221
@@ -1806,7 +1806,7 @@ msgstr "내 다스림에 대항하는 적은 가장 불결한 땅거지 새끼�
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1226
 msgid "Not if we stop you here. AXES UP!"
-msgstr "여기서 당신을 막지 않으면 안 되겠군요. 도끼를 듭시다!"
+msgstr "여기서 당신을 막겠습니다. 도끼를 듭시다!"
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Underlevels.cfg:1244
@@ -1975,14 +1975,14 @@ msgid ""
 "Dwarves of Kal Kartha, I speak the Law. Your house is cast down; you have "
 "harbored a great evil. Who now will take the burden of cleansing this "
 "holding of its taint?"
-msgstr "칼 카르타의 난쟁이들이여, 나는 율법을 말합니다. 너희들의 집은 무너졌고, 너희들은 큰 악을 숨긴체, 품고 있었다. 이제 누가 그 얼룩을 지워야 할 책임을 질 것인가?"
+msgstr "칼 카르타의 드워프들이여, 나는 율법을 말합니다. 너희들의 집은 무너졌고, 너희들은 큰 악을 숨긴체, 품고 있었다. 이제 누가 그 얼룩을 지워야 할 책임을 질 것인가?"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_Epilogue.cfg:127
 msgid ""
 "The dwarves of Kal Kartha muttered among themselves and looked at one "
 "another uneasily. None stepped forward."
-msgstr "칼 카르타의 난쟁이들은 서로 불안해하며 서로를 바라보며 중얼거렸다. 아무도 앞으로 나서지 않았다."
+msgstr "칼 카르타의 드워프들은 서로 불안해하며 서로를 바라보며 중얼거렸다. 아무도 앞으로 나서지 않았다."
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_Epilogue.cfg:133
@@ -2053,7 +2053,7 @@ msgstr "펠리아스(Pelias), 호법경께 감사드립니다. 저는 봄에 그
 #. [unit_type]: id=Dwarvish Annalist, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Annalist.cfg:4
 msgid "Dwarvish Annalist"
-msgstr "난쟁이 연대기 기록자"
+msgstr "드워프 연대기 기록자"
 
 #. [unit_type]: id=Dwarvish Annalist, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Annalist.cfg:21
@@ -2062,7 +2062,7 @@ msgid ""
 "are few in number, and their very existence is not generally known to the "
 "other peoples of the Great Continent. To the abilities of the Witness they "
 "add, through the study of herb and mineral lore, the ability to cure poison."
-msgstr "난쟁이 연대기 기록자들은 이 고대의 자랑스러운 종족의 역사가들입니다. 그들은 그 수가 적고, 그들의 존재 자체가 일반적으로 대륙의 다른 민족들에게 알려져 있지 않습니다. 그들은 증인의 능력외에도 약초와 광물에 대한 연구를 통해 독을 치료하는 능력을 가지고 있습니다."
+msgstr "드워프 연대기 기록자들은 이 고대의 자랑스러운 종족의 역사가들입니다. 그들은 그 수가 적고, 그들의 존재 자체가 일반적으로 대륙의 다른 민족들에게 알려져 있지 않습니다. 그들은 증인의 능력외에도 약초와 광물에 대한 연구를 통해 독을 치료하는 능력을 가지고 있습니다."
 
 #. [attack]: type=impact
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Annalist.cfg:61
@@ -2074,7 +2074,7 @@ msgstr "팔맷돌"
 #. [unit_type]: id=Dwarvish Loremaster, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Loremaster.cfg:4
 msgid "Dwarvish Loremaster"
-msgstr "난쟁이제 전승의 대가"
+msgstr "드워프제 전승의 대가"
 
 #. [unit_type]: id=Dwarvish Loremaster, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Loremaster.cfg:23
@@ -2085,32 +2085,32 @@ msgid ""
 "held secrets of dwarven knowledge. It is said that where a loremaster "
 "stands, there is the soul of the dwarves. To the abilities of the Annalist "
 "they add a limited ability to heal."
-msgstr "지식의 대가는 드워프 종족의 현자입니다. 전쟁 지도자와 족장들은 그들의 조언을 매우 중요하게 여기며, 평범한 드워프들은 경외심을 품습니다. 드워프 지식의 가장 깊고 은밀한 비밀을 파고든 이는 그들뿐이기 때문입니다. 지식의 대가가 서 있는 곳에는 드워프의 영혼이 있다고 합니다. 기록관의 능력에 더해 제한적인 치유 능력도 지닙니다."
+msgstr "지식의 대가는 드워프 종족의 현자입니다. 전쟁 지도자와 족장들은 그들의 조언을 매우 중요하게 여기며, 평범한 드워프들은 경외심을 품습니다. 드워프 지식의 가장 깊고 은밀한 비밀을 파고든 이는 그들뿐이기 때문입니다. 지식의 대가가 서 있는 곳에는 드워프의 영혼이 있다고 합니다. 기록관의 능력에 더해 제한적인 회복 능력도 지닙니다."
 
 #. [unit_type]: id=Dwarvish Masked Berserker, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Berserker.cfg:4
 msgid "Dwarvish Masked Berserker"
-msgstr "난쟁이제 가면 쓴 광전사"
+msgstr "드워프제 가면 쓴 광전사"
 
 #. [unit_type]: id=Dwarvish Masked Dragonguard, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Dragonguard.cfg:4
 msgid "Dwarvish Masked Dragonguard"
-msgstr "난쟁이제 가면 쓴 뇌룡근위대"
+msgstr "드워프제 가면 쓴 뇌룡근위대"
 
 #. [unit_type]: id=Dwarvish Masked Fighter, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Fighter.cfg:4
 msgid "Dwarvish Masked Fighter"
-msgstr "난쟁이제 가면 쓴 싸움꾼"
+msgstr "드워프제 가면 쓴 싸움꾼"
 
 #. [unit_type]: id=Dwarvish Masked Guardsman, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Guardsman.cfg:4
 msgid "Dwarvish Masked Guardsman"
-msgstr "난쟁이제 가면 쓴 경비병"
+msgstr "드워프제 가면 쓴 경비병"
 
 #. [unit_type]: id=Dwarvish Masked Lord, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Lord.cfg:4
 msgid "Dwarvish Masked Lord"
-msgstr "난쟁이제 가면 쓴 영주"
+msgstr "드워프제 가면 쓴 영주"
 
 #. [unit_type]: id=Dwarvish Masked Lord, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Lord.cfg:17
@@ -2122,22 +2122,22 @@ msgid ""
 "hammer with masterful skill, and can hit a target with a thrown hand axe at "
 "several paces. Though slow on their feet, these dwarves are a testament to "
 "the prowess of their kind."
-msgstr "난쟁이의 전승에 두려움을 느끼는 난쟁이제 가면 쓴 영주는 동료나 난쟁이족 전승자의 존재를 신경 쓰지 않고 사악하고 피칠된 목적을 위해 가공할 만한 전투 능력을 발휘합니다. 얼굴을 드러낸 친척들처럼 이 난쟁이의 귀족들도 도끼와 망치를 잘 다루며, 몇 걸음 떨어진 거리에서 손도끼를 던져 명중시킬 수도 있습니다. 걸음이 느린 것이 옥의 타이지만, 이 난쟁이들은 종족의 무용의 상징입니다."
+msgstr "드워프의 전승에 두려움을 느끼는 드워프제 가면 쓴 영주는 동료나 드워프 전승자들의 존재를 신경 쓰지 않고 사악하고 피칠된 목적을 위해 가공할 만한 전투 능력을 발휘합니다. 얼굴을 드러낸 친척들처럼 이 드워프의 귀족들도 도끼와 망치를 잘 다루며, 몇 걸음 떨어진 거리에서 손도끼를 던져 명중시킬 수도 있습니다. 걸음이 느린 것이 옥의 타이지만, 이 드워프들은 종족의 무용의 상징입니다."
 
 #. [unit_type]: id=Dwarvish Masked Sentinel, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Sentinel.cfg:4
 msgid "Dwarvish Masked Sentinel"
-msgstr "난쟁이제 가면 쓴 보초병"
+msgstr "드워프제 가면 쓴 보초병"
 
 #. [unit_type]: id=Dwarvish Masked Stalwart, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Stalwart.cfg:4
 msgid "Dwarvish Masked Stalwart"
-msgstr "난쟁이제 가면 쓴 충실한 일꾼"
+msgstr "드워프제 가면 쓴 충실한 일꾼"
 
 #. [unit_type]: id=Dwarvish Masked Steelclad, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Steelclad.cfg:4
 msgid "Dwarvish Masked Steelclad"
-msgstr "난쟁이제 가면 쓴 갑옷입은"
+msgstr "드워프제 가면 쓴 갑옷입은"
 
 #. [unit_type]: id=Dwarvish Masked Steelclad, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Steelclad.cfg:17
@@ -2150,22 +2150,22 @@ msgstr "더 경험 많은 드워프 전사들은 무거운 사슬 갑옷과 판�
 #. [unit_type]: id=Dwarvish Masked Thunderer, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Thunderer.cfg:4
 msgid "Dwarvish Masked Thunderer"
-msgstr "난쟁이제 가면 쓴 천둥사"
+msgstr "드워프제 가면 쓴 천둥사"
 
 #. [unit_type]: id=Dwarvish Masked Thunderguard, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Thunderguard.cfg:4
 msgid "Dwarvish Masked Thunderguard"
-msgstr "난쟁이제 가면 쓴 천둥경비병"
+msgstr "드워프제 가면 쓴 천둥경비병"
 
 #. [unit_type]: id=Dwarvish Masked Ulfserker, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Masked_Ulfserker.cfg:4
 msgid "Dwarvish Masked Ulfserker"
-msgstr "난쟁이제 가면 쓴 광투사"
+msgstr "드워프제 가면 쓴 광투사"
 
 #. [unit_type]: id=Dwarvish Witness, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Witness.cfg:10
 msgid "Dwarvish Witness"
-msgstr "난쟁이제 목격자"
+msgstr "드워프제 목격자"
 
 #. [unit_type]: id=Dwarvish Witness, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Witness.cfg:27
@@ -2177,7 +2177,7 @@ msgid ""
 "fellows, one designed to turn the vaunted strength of the dwarves against "
 "itself. The person of a Witness is considered sacred, and Witnesses are "
 "often used as envoys between dwarvish clans."
-msgstr "증인은 난쟁이 역사라는, 외부인과는 절대 공유하지 않는 깊은 전승의 눈 역할을 합니다. 증인이 있으면 난쟁이 전사들은 자신의 행위와 죽음이 기록에서 빠지지 않으리라는 사실에 고무됩니다. 증인은 동료들과는 일부러 다른 전투 방식을 배우는데, 이는 난쟁이들이 자랑하는 힘을 난쟁이 자신에게 돌려쓰도록 설계된 방식입니다. 증인은 신성한 존재로 여겨지며, 증인들은 흔히 난쟁이 씨족 사이의 사절로 활용됩니다."
+msgstr "증인은 드워프 역사라는, 외부인과는 절대 공유하지 않는 깊은 전승의 눈 역할을 합니다. 증인이 있으면 드워프 전사들은 자신의 행위와 죽음이 기록에서 빠지지 않으리라는 사실에 고무됩니다. 증인은 동료들과는 일부러 다른 전투 방식을 배우는데, 이는 드워프들이 자랑하는 힘을 드워프 자신에게 돌려쓰도록 설계된 방식입니다. 증인은 신성한 존재로 여겨지며, 증인들은 흔히 드워프 씨족 사이의 사절로 활용됩니다."
 
 #. [leadership]: id=inspire
 #: data/campaigns/The_Hammer_of_Thursagan/utils/abilities.cfg:10

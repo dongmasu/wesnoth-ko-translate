@@ -1083,7 +1083,7 @@ msgstr "소녀. 따라와라."
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:394
 msgid "What in the world are <i>you</i>?"
-msgstr "세상에, <i>당신</i>은 대체 뭐죠?"
+msgstr "세상에, <i>그대</i>는 대체 뭐죠?"
 
 #. [message]: speaker=Shadow
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:398
@@ -1093,7 +1093,7 @@ msgstr "영혼과 그림자다. 따라와라."
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:402
 msgid "You’re a ghost... a real ghost! I will indeed follow you. Lead on."
-msgstr "당신은 유령이군요... 진짜 유령이에요! 기꺼이 따라가겠어요. 앞장서세요."
+msgstr "그대는 유령이군요... 진짜 유령이에요! 기꺼이 따라가겠어요. 앞장서세요."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/05_Blackwater.cfg:428
@@ -1351,7 +1351,7 @@ msgstr "우리가 찾는 정보를 어떻게 얻을 수 있을지 알고 있는 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:209
 msgid "Wait. I have heard nothing yet that makes me think I should trust you."
-msgstr "잠깐. 아직 당신을 믿어야겠다고 생각할 만한 말은 하나도 듣지 못했어요."
+msgstr "잠깐. 아직 그대를 믿어야겠다고 생각할 만한 말은 하나도 듣지 못했어요."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:213
@@ -1371,7 +1371,7 @@ msgstr "아... 그래, 그럴 만도 하군. 오늘 내가 아는 것 중 일부
 msgid ""
 "For you, you mean. I am only nineteen. Still, you make a good case. We can "
 "work together for now."
-msgstr "당신에게 그렇다는 뜻이겠죠. 저는 고작 열아홉 살이에요. 그래도 설득력 있는 말이네요. 일단은 함께 일해 보죠."
+msgstr "그대에게 그렇다는 뜻이겠죠. 저는 고작 열아홉 살이에요. 그래도 설득력 있는 말이네요. 일단은 함께 일해 보죠."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:221
@@ -1415,7 +1415,7 @@ msgstr "저 고블린들은 너무 약해서 쓸모 있을 만큼 영혼이 강�
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/07_Meeting_of_the_Minds.cfg:241
 msgid "Very well. We will do as you suggest."
-msgstr "좋아요. 당신이 제안한 대로 하죠."
+msgstr "좋아요. 그대가 제안한 대로 하죠."
 
 #. [label]
 #. [scenario]: id=08_Carcyn
@@ -1534,7 +1534,7 @@ msgstr "아니... 뭐, 아시잖아요. 우리를 꺼내 주셔서 정말 감사
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:264
 msgid "You are Carcyn the Third I presume?"
-msgstr "당신이 카르신(Carcyn) 3세겠지요?"
+msgstr "그대가 카르신(Carcyn) 3세겠지요?"
 
 #. [message]: speaker=Carcyn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:273
@@ -1563,12 +1563,12 @@ msgstr "그리고 우리는 이 지긋지긋한 마을을 떠날 거예요!"
 msgid ""
 "The only Carcyn now. I’ve waited all my life to see someone to put my father "
 "in his place. I guess you did that."
-msgstr "이제 유일한 카르신(Carcyn)이군요. 누군가 제 아버지를 제자리로 돌려놓기를 평생 기다렸어요. 당신이 해낸 것 같네요."
+msgstr "이제 유일한 카르신(Carcyn)이군요. 누군가 제 아버지를 제자리로 돌려놓기를 평생 기다렸어요. 그대가 해낸 것 같네요."
 
 #. [message]: speaker=Shynal
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:295
 msgid "You’re the only Carcyn for me."
-msgstr "당신만이 제게 유일한 카르신(Carcyn)이에요."
+msgstr "그대만이 제게 유일한 카르신(Carcyn)이에요."
 
 #. [message]: speaker=Raydah
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:308
@@ -1618,7 +1618,7 @@ msgid ""
 "The offer is not intended for <i>you</i>, it is for your youth. I will send "
 "my agents to every house and public space in this town and repeat my offer. "
 "You will allow this."
-msgstr "이 제안은 <i>당신</i>을 위한 것이 아니라 이 마을의 젊은이들을 위한 것이오. 내 부하들을 마을의 모든 집과 공공장소에 보내 같은 제안을 전하겠소. 당신은 이를 허락할 것이오."
+msgstr "이 제안은 <i>그대</i>를 위한 것이 아니라 이 마을의 젊은이들을 위한 것이오. 내 부하들을 마을의 모든 집과 공공장소에 보내 같은 제안을 전하겠소. 그대는 이를 허락할 것이오."
 
 #. [message]: speaker=Carcyn Fisher
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/08_Carcyn.cfg:353
@@ -1753,7 +1753,7 @@ msgstr "첫 번째 턴에만 각 어둠의 수행자 앞에서 모집할 수 있
 #. [scenario]: id=10_Merfolk_Revenge
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:13
 msgid "Merfolk Revenge"
-msgstr "인어족의 복수"
+msgstr "인어들의 복수"
 
 #. [part]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:25
@@ -1820,7 +1820,7 @@ msgstr "커다란 날지 못하는 새일까요? 살펴보죠."
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:246
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/15_Mountain_Pass.cfg:243
 msgid "Oh, you were right!"
-msgstr "오, 당신이 옳았어요!"
+msgstr "오, 그대가 옳았어요!"
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/10_Merfolk_Revenge.cfg:251
@@ -1875,7 +1875,7 @@ msgstr "네 말은 우리를 조롱하는군. 그 인간들은 우리의 소중�
 msgid ""
 "Actually, I expect you will follow them into the ground if you try to harm "
 "us."
-msgstr "사실, 우리를 해치려 한다면 당신도 저들과 함께 땅속으로 들어가게 될 겁니다."
+msgstr "사실, 우리를 해치려 한다면 그대도 저들과 함께 땅속으로 들어가게 될 겁니다."
 
 #. [message]: speaker=Ras-Tabahn
 #. here "you" means both Carcyn and Shynal
@@ -2019,7 +2019,7 @@ msgstr "이 전사들은 나를 위해 싸우며 영광을 되찾을 두 번째 
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:65
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:72
 msgid "Saurians"
-msgstr "사우리안족"
+msgstr "사우리안들"
 
 #. [side]: type=Saurian Soothsayer, id=Krissaz
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:68
@@ -2051,7 +2051,7 @@ msgstr "모든 적 대장들을 물리쳐라"
 msgid ""
 "The fish people gave good value for the last load. More metal of that type "
 "is desired."
-msgstr "어인족은 지난번 화물에 후한 값을 치렀다. 그런 종류의 금속이 더 필요하다."
+msgstr "어인들은 지난번 화물에 후한 값을 치렀다. 그런 종류의 금속이 더 필요하다."
 
 #. [message]: speaker=Krissaz
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/11_Battleground.cfg:134
@@ -2368,7 +2368,7 @@ msgstr "그럴 수도 있겠지. 아카데미의 마법사가 공부를 마치�
 msgid ""
 "I suppose you are right. I am no longer the ordinary girl Ardonna, and "
 "Vendraxis was correct. From now on I shall be... Ardryn-Na."
-msgstr "당신 말이 맞는 것 같아요. 저는 더 이상 평범한 소녀 아르도나(Ardonna)가 아니고, 벤드락시스(Vendraxis)의 말이 옳았어요. 이제부터 제 이름은... 아르드린-나(Ardryn-Na)예요."
+msgstr "그대 말이 맞는 것 같아요. 저는 더 이상 평범한 소녀 아르도나(Ardonna)가 아니고, 벤드락시스(Vendraxis)의 말이 옳았어요. 이제부터 제 이름은... 아르드린-나(Ardryn-Na)예요."
 
 #. [modify_unit]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/13_Together_Again.cfg:177
@@ -2559,7 +2559,7 @@ msgstr ""
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/15_Mountain_Pass.cfg:46
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/15_Mountain_Pass.cfg:57
 msgid "Gryphons"
-msgstr "그리폰족"
+msgstr "그리폰들"
 
 #. [objective]: condition=win
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/15_Mountain_Pass.cfg:73
@@ -2691,7 +2691,7 @@ msgstr "린코난(Rinconan)"
 #. [message]: speaker=Ginmera
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/16_The_Mage.cfg:274
 msgid "Rinconan and I will stay here to guard you."
-msgstr "린코난(Rinconan)과 제가 여기 남아 당신을 지키겠습니다."
+msgstr "린코난(Rinconan)과 제가 여기 남아 그대를 지키겠습니다."
 
 #. [message]: speaker=Crelanu
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/16_The_Mage.cfg:278
@@ -2708,7 +2708,7 @@ msgstr "유닛을 성수병으로 이동시키면 성수병이 사라집니다. 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/16_The_Mage.cfg:336
 msgid "Crelanu! (<i>Cough, cough</i>) We have come... for your book."
-msgstr "크렐라누(Crelanu)! (<i>콜록, 콜록</i>) 당신의 책을 가지러... 왔소."
+msgstr "크렐라누(Crelanu)! (<i>콜록, 콜록</i>) 그대의 책을 가지러... 왔소."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/16_The_Mage.cfg:340
@@ -2776,7 +2776,7 @@ msgstr "<i>비밀 따위는 없다</i>, 이 어리석은 자들아! 마법으로
 msgid ""
 "You are the fool, for you have, indeed, told us all we required. For that, I "
 "will spare you to live a few more lonely years with your cowardice."
-msgstr "어리석은 건 당신이군. 당신은 우리에게 필요한 모든 것을 사실대로 말해 주었으니까. 그 대가로 당신이 비겁함과 함께 외로운 세월을 몇 년 더 살아가도록 살려 주겠다."
+msgstr "어리석은 건 그대군. 그대는 우리에게 필요한 모든 것을 사실대로 말해 주었으니까. 그 대가로 그대가 비겁함과 함께 외로운 세월을 몇 년 더 살아가도록 살려 주겠다."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/16_The_Mage.cfg:418
@@ -2829,7 +2829,7 @@ msgstr "아르드린-나(Ardryn-Na), 나는 죽게 될 거야.. (<i>콜록, 콜�
 msgid ""
 "Nor should you! You must embrace it. Crelanu said as much. He also said your "
 "life force must depart, but he didn’t say it could not come back to you!"
-msgstr "당신도 그래서는 안 돼요! 죽음을 받아들여야 합니다. 크렐라누(Crelanu)도 그렇게 말했어요. 당신의 생명력이 떠나야 한다고 했지만, 다시 돌아올 수 없다고는 하지 않았잖아요!"
+msgstr "그대도 그래서는 안 돼요! 죽음을 받아들여야 합니다. 크렐라누(Crelanu)도 그렇게 말했어요. 그대의 생명력이 떠나야 한다고 했지만, 다시 돌아올 수 없다고는 하지 않았잖아요!"
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/17_Mortality.cfg:146
@@ -2843,7 +2843,7 @@ msgid ""
 "your staff for example. If you do this just as your body dies, your whole "
 "consciousness should follow the flow of your will, as it will have no other "
 "place to go."
-msgstr "당신의 의지를 다른 물체에 투사해 그것을 자신의 일부로 만드는 겁니다. 예를 들면 지팡이처럼요. 몸이 죽는 순간에 이렇게 한다면, 의식 전체가 의지의 흐름을 따라갈 겁니다. 다른 곳으로 갈 수 없을 테니까요."
+msgstr "그대의 의지를 다른 물체에 투사해 그것을 자신의 일부로 만드는 겁니다. 예를 들면 지팡이처럼요. 몸이 죽는 순간에 이렇게 한다면, 의식 전체가 의지의 흐름을 따라갈 겁니다. 다른 곳으로 갈 수 없을 테니까요."
 
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/17_Mortality.cfg:154
@@ -2872,7 +2872,7 @@ msgid ""
 "Crelanu said he wouldn’t do it. That implies that he <i>could</i>, so he "
 "also believed that it would work. And like you said, he should know. For "
 "now, you can rest. We’ll have an altar built soon."
-msgstr "크렐라누(Crelanu)는 자신이 그렇게 하지 않겠다고 했어요. 그 말은 <i>할 수는</i> 있었다는 뜻이니, 그 방법이 통할 거라고도 믿었다는 뜻이에요. 당신이 말했듯이, 그는 알고 있었을 거예요. 지금은 쉬세요. 곧 제단을 세울게요."
+msgstr "크렐라누(Crelanu)는 자신이 그렇게 하지 않겠다고 했어요. 그 말은 <i>할 수는</i> 있었다는 뜻이니, 그 방법이 통할 거라고도 믿었다는 뜻이에요. 그대가 말했듯이, 그는 알고 있었을 거예요. 지금은 쉬세요. 곧 제단을 세울게요."
 
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/17_Mortality.cfg:302
@@ -2880,7 +2880,7 @@ msgid ""
 "No need for you to wait to die. We can have done with it immediately. And "
 "although neither of us needs speak the incantations aloud anymore, you "
 "should this time, as any mistake would be disastrous."
-msgstr "죽기를 기다릴 필요는 없어요. 당장 끝낼 수 있으니까요. 이제 우리 둘 다 주문을 소리 내어 외울 필요는 없지만, 이번에는 당신이 외워야 해요. 실수하면 재앙이 될 테니까요."
+msgstr "죽기를 기다릴 필요는 없어요. 당장 끝낼 수 있으니까요. 이제 우리 둘 다 주문을 소리 내어 외울 필요는 없지만, 이번에는 그대가 외워야 해요. 실수하면 재앙이 될 테니까요."
 
 #. [message]: speaker=necromancer_on_altar
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/17_Mortality.cfg:306
@@ -3145,7 +3145,7 @@ msgstr "웨스노스력 23년 6월 27일\n\n우리는 산의 불길을 뒤로하
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/20_North_Knalga.cfg:39
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:90
 msgid "Dwarves"
-msgstr "난쟁이족"
+msgstr "드워프들"
 
 #. [side]: type=Dwarvish Lord, id=Golbanduth
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/20_North_Knalga.cfg:42
@@ -3281,7 +3281,7 @@ msgstr "마법사"
 #. [side]
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:118
 msgid "Elves"
-msgstr "엘프족"
+msgstr "엘프들"
 
 #. [message]: speaker=Thrigalurd
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/21_Against_the_World.cfg:330
@@ -3677,7 +3677,7 @@ msgstr "으윽."
 #. [message]: speaker=Ardonna
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:163
 msgid "But I don’t know how to bring you back yet!"
-msgstr "하지만 아직 당신을 되살리는 방법을 모르겠어요!"
+msgstr "하지만 아직 그대를 되살리는 방법을 모르겠어요!"
 
 #. [message]: speaker=Carcyn
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:194
@@ -3709,7 +3709,7 @@ msgstr "카르. 신."
 #. [message]: speaker=Ras-Tabahn
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:221
 msgid "She will not know you for long, so make the most of it."
-msgstr "그녀가 당신을 알아보는 시간은 길지 않을 테니, 지금을 최대한 만끽하게."
+msgstr "그녀가 그대를 알아보는 시간은 길지 않을 테니, 지금을 최대한 만끽하게."
 
 #. [message]: speaker=Carcyn
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:234
@@ -3736,7 +3736,7 @@ msgstr "넌 늘 너무 무모했지."
 #. [message]: speaker=Shynal
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:294
 msgid "I will miss you."
-msgstr "당신이 그리울 거야."
+msgstr "그대가 그리울 거야."
 
 #. [message]: speaker=Vendraxis
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:307
@@ -3798,7 +3798,7 @@ msgstr "고마워!"
 msgid ""
 "Hey, I wanted to be a wizard like you and live forever when you figure it "
 "out! I know I could be super-powerful in the end."
-msgstr "이봐, 난 당신 같은 마법사가 되어 당신이 방법을 알아내면 영원히 살고 싶었어! 결국 엄청난 힘을 얻을 수도 있었는데."
+msgstr "이봐, 난 그대 같은 마법사가 되어 그대가 방법을 알아내면 영원히 살고 싶었어! 결국 엄청난 힘을 얻을 수도 있었는데."
 
 #. [option]
 #: data/campaigns/Secrets_of_the_Ancients/utils/sota-utils.cfg:479
@@ -4028,22 +4028,22 @@ msgstr "이제 헤엄치는 시체를 되살릴 수 있습니다!"
 #. [value]: type=SotA Walking Corpse_Saurian
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:69
 msgid "recruit^Walking Corpse (Saurian)"
-msgstr "걸어다니는 시체 (사우리안족)"
+msgstr "걸어다니는 시체 (사우리안)"
 
 #. [value]: type=SotA Walking Corpse_Saurian
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:70
 msgid "You can now raise saurian corpses!"
-msgstr "이제 사우리안족 시체를 되살릴 수 있습니다!"
+msgstr "이제 사우리안들의 시체를 되살릴 수 있습니다!"
 
 #. [value]: type=SotA Walking Corpse_Wose
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:75
 msgid "recruit^Walking Corpse (Wose)"
-msgstr "걸어다니는 시체 (나모)"
+msgstr "걸어다니는 시체 (워즈(Wose))"
 
 #. [value]: type=SotA Walking Corpse_Wose
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:76
 msgid "You can now raise wose corpses!"
-msgstr "이제 나모 시체를 되살릴 수 있습니다!"
+msgstr "이제 워즈들(Woses)의 시체를 되살릴 수 있습니다!"
 
 #. [value]: type=SotA Walking Corpse_Goblin
 #: data/campaigns/Secrets_of_the_Ancients/utils/zombie-utils.cfg:81

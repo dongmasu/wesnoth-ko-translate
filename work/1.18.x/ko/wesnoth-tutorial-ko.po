@@ -118,7 +118,7 @@ msgstr ""
 "다음의 기본 사항을 배우게 될 겁니다:\n"
 "• <small>움직임</small>\n"
 "• <small>공격</small>\n"
-"• <small>치유</small>\n"
+"• <small>회복</small>\n"
 "• <small>소집</small>"
 
 #. [objective]: condition=win
@@ -151,7 +151,7 @@ msgid ""
 "This is a two-part tutorial intended for people who are new to the game. "
 "Part 1 will teach you the basics about movement, attacking, healing, and "
 "recruiting. Firstly, you’ll choose a hero (both heroes play the same)."
-msgstr "이것은 게임을 처음 접하는 사람을 대상으로 만들어진 두 부분으로 구성된 자습서입니다. 1부에서는 움직임, 공격, 치유, 소집에 대한 기본 사항을 가르칠 것입니다. 먼저, 주인공을 선택하세요 (어느 주인공으로 플레이해도 똑같습니다)."
+msgstr "이것은 게임을 처음 접하는 사람을 대상으로 만들어진 두 부분으로 구성된 자습서입니다. 1부에서는 움직임, 공격, 회복, 소집에 대한 기본 사항을 가르칠 것입니다. 먼저, 주인공을 선택하세요 (어느 주인공으로 플레이해도 똑같습니다)."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:161
@@ -212,7 +212,7 @@ msgid ""
 "Normally, moving one hex on flat terrain uses one movement point. To move, "
 "simply click on Konrad and then your destination. (You can press <b>u</b> to "
 "undo a move if you move to the wrong place.)"
-msgstr "콘라드(Konrad) 유닛 위로 마우스를 가져가거나 선택하면, 유닛이 이동할 수 있는 장소가 강조 표시됩니다. 모든 유닛에는 일정 수의 <i>움직임 수치</i>가 있으며, 이는 해당 유닛이 1 차례 동안 이동할 수 있는 육각형 칸의 개수를 나타냅니다. 일반적으로 평평한 지형에서 1개의 육각형 칸을 이동하는 데는 움직임 수치 1을 사용합니다. 이동하려면 먼저 콘라드(Konrad)를 클릭한 다음 목적지를 클릭하세요. (잘못된 장소로 이동한 경우 <b>u</b>를 눌러 이동을 취소할 수 있습니다.)"
+msgstr "콘라드(Konrad) 유닛 위로 마우스를 가져가거나 선택하면, 유닛이 이동할 수 있는 장소가 강조 표시됩니다. 모든 유닛에는 일정 수의 <i>움직임 수치</i>가 있으며, 이는 해당 유닛이 1차례 동안 이동할 수 있는 육각형 칸의 개수를 나타냅니다. 일반적으로 평평한 지형에서 1개의 육각형 칸을 이동하는 데는 움직임 수치 1을 사용합니다. 이동하려면 먼저 콘라드(Konrad)를 클릭한 다음 목적지를 클릭하세요. (잘못된 장소로 이동한 경우 <b>u</b>를 눌러 이동을 취소할 수 있습니다.)"
 
 #. [hint_message]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:365
@@ -223,7 +223,7 @@ msgid ""
 "Normally, moving one hex on flat terrain uses one movement point. To move, "
 "simply click on Li’sar and then your destination. (You can press <b>u</b> to "
 "undo a move if you move to the wrong place.)"
-msgstr "리사르(Li’sar) 유닛 위로 마우스를 가져가거나 선택하면, 유닛이 이동할 수 있는 장소가 강조 표시됩니다. 모든 유닛에는 일정 수의 <i>움직임 수치</i>가 있으며, 이는 해당 유닛이 1 차례 동안 이동할 수 있는 육각형 칸의 개수를 나타냅니다. 일반적으로 평평한 지형에서 1개의 육각형 칸을 이동하는 데는 움직임 수치 1을 사용합니다. 이동하려면 먼저 리사르(Li’sar)를 클릭한 다음 목적지를 클릭하세요. (잘못된 장소로 이동한 경우 <b>u</b>를 눌러 이동을 취소할 수 있습니다.)"
+msgstr "리사르(Li’sar) 유닛 위로 마우스를 가져가거나 선택하면, 유닛이 이동할 수 있는 장소가 강조 표시됩니다. 모든 유닛에는 일정 수의 <i>움직임 수치</i>가 있으며, 이는 해당 유닛이 1차례 동안 이동할 수 있는 육각형 칸의 개수를 나타냅니다. 일반적으로 평평한 지형에서 1개의 육각형 칸을 이동하는 데는 움직임 수치 1을 사용합니다. 이동하려면 먼저 리사르(Li’sar)를 클릭한 다음 목적지를 클릭하세요. (잘못된 장소로 이동한 경우 <b>u</b>를 눌러 이동을 취소할 수 있습니다.)"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:375
@@ -408,7 +408,7 @@ msgid ""
 "scenarios must be completed in a certain number of turns. You can see what "
 "turn it is, and any applicable turn limit, next to the flag icon at the top "
 "of the screen."
-msgstr "매 차례마다 시나리오의 각 진영에는 움직일 기회를 얻습니다. 이번 차례에 원하는 모든 것을 완료했다면 화면 오른쪽 하단에 있는 <b>차례 종료</b> 단추를 누르세요. 그러면 인공지능 또는 다른 인간 플레이어에 의해 조작되는 다른 진영이 움직일 것입니다. 일부 시나리오는 최대 차례 수내에 임무를 완료해야 합니다. 화면 상단의 깃발 아이콘 옆에 최대 차례 수와 현재 차례 수가 얼마인지 확인할 수 있습니다."
+msgstr "매 차례마다 시나리오의 각 진영은 움직일 기회를 얻습니다. 이번 차례에 원하는 모든 것을 완료했다면 화면 오른쪽 하단에 있는 <b>차례 종료</b> 단추를 누르세요. 그러면 인공지능 또는 다른 인간 플레이어에 의해 조작되는 다른 진영이 움직일 것입니다. 일부 시나리오는 최대 차례 수 내에 임무를 완료해야 합니다. 화면 상단의 깃발 아이콘 옆에 최대 차례 수와 현재 차례 수가 얼마인지 확인할 수 있습니다."
 
 #. [event]
 #. [else]
@@ -423,7 +423,7 @@ msgstr "차례를 종료합니다"
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:607
 msgid ""
 "You cannot end your turn until you have completed the lesson on healing!"
-msgstr "치유에 대한 수업을 완료할 때까지 차례를 끝낼 수 없습니다!"
+msgstr "회복에 대한 수업을 완료할 때까지 차례를 끝낼 수 없습니다!"
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:622
@@ -444,7 +444,7 @@ msgstr "어머! 회복이 필요해요! 체력이 $student_hp 뿐이에요!"
 msgid ""
 "There are two villages within your reach. Visiting villages is a good idea, "
 "and ending your turn on one will heal you. To a village!"
-msgstr "그대의 손이 닿는 곳에 두 개의 마을이 있네. 마을을 들르는 것은 좋은 생각이고, 마을에서 차례를 끝내면 치유될 것이네. 마을로 가게!"
+msgstr "그대의 손이 닿는 곳에 두 개의 마을이 있네. 마을을 들르는 것은 좋은 생각이고, 마을에서 차례를 끝내면 회복될 것이네. 마을로 가게!"
 
 #. [label]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:633
@@ -509,13 +509,13 @@ msgstr "자네가 저 과녁을 처치하려면 도움이 좀 필요할 것 같�
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:695
 msgid "I’ll recruit some elves!"
-msgstr "요정들을 좀 소집해야겠어요!"
+msgstr "엘프들을 좀 소집해야겠어요!"
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:696
 #| msgid "I’ll recruit some elves!"
 msgid "female^I’ll recruit some elves!"
-msgstr "요정들을 좀 소집해야겠어요!"
+msgstr "엘프들을 좀 소집해야겠어요!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:701
@@ -560,13 +560,13 @@ msgid ""
 "newly recruited units cannot act the turn you recruit them; you will be able "
 "to use them next turn. For this scenario, you have only one type of unit to "
 "choose from: the Elvish Fighter."
-msgstr "<i>아성</i>에 있으면, 마우스 오른쪽 단추를 누르고 <i>소집</i>을 선택하여 주변 성 타일에서 유닛을 <b>소집</b>할 수 있습니다. 새로 소집한 유닛은 소집한 차례 때 행동할 수 없습니다. 다음 차례 때 사용할 수 있습니다. 이 시나리오에서는 요정 싸움꾼이라는 한 가지 유형의 유닛만 선택할 수 있습니다."
+msgstr "<i>아성</i>에 있으면, 마우스 오른쪽 단추를 누르고 <i>소집</i>을 선택하여 주변 성 타일에서 유닛을 <b>소집</b>할 수 있습니다. 새로 소집한 유닛은 소집한 차례 때 행동할 수 없습니다. 다음 차례 때 사용할 수 있습니다. 이 시나리오에서는 엘프 싸움꾼이라는 한 가지 유형의 유닛만 선택할 수 있습니다."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:743
 #| msgid "Left click on an Elvish Fighter"
 msgid "Recruit two Elvish Fighters"
-msgstr "요정 싸움꾼들 2명을 고용하세요"
+msgstr "엘프 싸움꾼들 2명을 고용하세요"
 
 #. [hint_message]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:763
@@ -614,7 +614,7 @@ msgstr "이봐요, 과녁이 방금 체력 2를 회복했어요! 어서 공격�
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:827
 msgid "Yes, if a unit doesn’t do anything for a turn, it will slowly heal."
-msgstr "그렇게 하게, 한 차례동안 아무것도 하지 않은 유닛은 느린 속도로 회복하게 된다네."
+msgstr "그렇게 하게, 한 차례 동안 아무것도 하지 않은 유닛은 느린 속도로 회복하게 된다네."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:832
@@ -668,7 +668,7 @@ msgid ""
 "troops. For example, units with the <i>quick</i> trait can move an extra hex "
 "each turn, and units with the <i>intelligent</i> trait require 20% less "
 "experience to level up."
-msgstr "새로 소집한 유닛의 <i>특성</i>을 꼭 살펴보세요. 유닛의 특성은 측면 막대의 해당 종족 아래에 표시됩니다. 특성은 군대를 사운영하는 방식에 미묘하게 영향을 미칠 수 있습니다. 예를 들어, <i>빠른</i> 특성을 가진 유닛은 매 차례마다 추가로 1개의 육각형 칸을 더 움직일 수 있으며, <i>지능</i> 특성을 가진 부대는 레벨 업에 필요한 경험치가 20% 감소 합니다."
+msgstr "새로 소집한 유닛의 <i>특성</i>을 꼭 살펴보세요. 유닛의 특성은 측면 막대의 해당 종족 아래에 표시됩니다. 특성은 군대를 운영하는 방식에 미묘하게 영향을 미칠 수 있습니다. 예를 들어, <i>빠른</i> 특성을 가진 유닛은 매 차례마다 추가로 1개의 육각형 칸을 더 움직일 수 있으며, <i>지능</i> 특성을 가진 부대는 레벨 업에 필요한 경험치가 20% 감소합니다."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:863
@@ -695,14 +695,14 @@ msgid ""
 "is a <i>melee</i> attack. The quintain defended with its melee attack (3×5; "
 "or 3 damage on each hit, with 5 attacks). The ranged attack (the bow) would "
 "have been safer."
-msgstr "자네의 요정은 근거리 공격인 칼(6×4: 공격당 6의 피해로 4번 공격)을 썼네. 과녁은 자신의 <i>근거리</i> 공격 (3×5: 공격당 3의 피해로 5번 공격)으로 방어했네. 원거리 공격(활)이 더 안전했을 것이네."
+msgstr "자네의 엘프는 근거리 공격인 칼(6×4: 공격당 6의 피해로 4번 공격)을 썼네. 과녁은 자신의 <i>근거리</i> 공격 (3×5: 공격당 3의 피해로 5번 공격)으로 방어했네. 원거리 공격(활)이 더 안전했을 것이네."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:910
 msgid ""
 "Elvish Fighters normally do 5×4 damage with their swords, but this elf has "
 "the <i>strong</i> trait, which increases the damage output of melee attacks."
-msgstr "요정 싸움꾼들은 보통 칼로 5×4의 피해를 주지만, 이 요정은 근거리 공격의 피해량이 증가시키는 <i>강력한</i> 특성을 가지고 있네."
+msgstr "엘프 싸움꾼들은 보통 칼로 5×4의 피해를 주지만, 이 엘프는 근거리 공격의 피해량이 증가시키는 <i>강력한</i> 특성을 가지고 있네."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:916
@@ -716,7 +716,7 @@ msgid ""
 "is a <i>melee</i> attack. The quintain defended with its melee attack (3×5; "
 "or 3 damage on each hit, with 5 attacks). The ranged attack (the bow) would "
 "have been safer."
-msgstr "자네의 요정은 근거리 공격인 칼(5×4: 공격당 5의 피해로 4번 공격)을 썼네. 과녁은 자기의 <i>근거리</i> 공격 (3×5: 공격당 3의 피해로 5번 공격)으로 방어했네. 원거리 공격(활)이 더 안전했을 것이네."
+msgstr "자네의 엘프는 근거리 공격인 칼(5×4: 공격당 5의 피해로 4번 공격)을 썼네. 과녁은 자기의 <i>근거리</i> 공격 (3×5: 공격당 3의 피해로 5번 공격)으로 방어했네. 원거리 공격(활)이 더 안전했을 것이네."
 
 #. [message]: speaker=Delfador
 #. a dextrous elf, so +1 damage
@@ -729,14 +729,14 @@ msgid ""
 "Your elf used a bow, which is a <i>ranged</i> attack (4×3; or 4 damage on "
 "each hit, with 3 attacks). The quintain has no ranged attack, only a melee "
 "attack, so it could not defend itself."
-msgstr "자네의 요정은 <i>원거리</i> 공격인 활(4×3: 공격당 4의 피해로 3번 공격)을 썼네. 과녁에는 원거리 공격이 없고, 오로지 근거리 공격만 있어서 자기 자신을 방어할 수 없네."
+msgstr "자네의 엘프는 <i>원거리</i> 공격인 활(4×3: 공격당 4의 피해로 3번 공격)을 썼네. 과녁에는 원거리 공격이 없고, 오로지 근거리 공격만 있어서 자기 자신을 방어할 수 없네."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:941
 msgid ""
 "Elvish Fighters normally do 3×3 damage with their bows, but this elf has the "
 "<i>dextrous</i> trait, which increases the damage output of ranged attacks."
-msgstr "요정 싸움꾼들은 보통 활로 3×3의 피해를 주지만, 이 요정은 원거리 공격의 피해량이 증가시키는 <i>민첩한</i> 특성을 가지고 있네."
+msgstr "엘프 싸움꾼들은 보통 활로 3×3의 피해를 주지만, 이 엘프는 원거리 공격의 피해량이 증가시키는 <i>민첩한</i> 특성을 가지고 있네."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:947
@@ -748,17 +748,17 @@ msgid ""
 "Your elf used a bow, which is a <i>ranged</i> attack (3×3; or 3 damage on "
 "each hit, with 3 attacks). The quintain has no ranged attack, only a melee "
 "attack, so it could not defend itself."
-msgstr "자네의 요정은 <i>원거리</i> 공격인 활(3×3: 공격당 3의 피해로 3번 공격)을 썼네. 과녁에는 원거리 공격이 없고 오로지 근거리 공격만 있어서 자기 자신을 방어할 수 없네."
+msgstr "자네의 엘프는 <i>원거리</i> 공격인 활(3×3: 공격당 3의 피해로 3번 공격)을 썼네. 과녁에는 원거리 공격이 없고 오로지 근거리 공격만 있어서 자기 자신을 방어할 수 없네."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:964
 msgid "Keep attacking with both elves until the quintain is finished!"
-msgstr "과녁을 끝장낼때까지 두명의 요정들로 계속 공격하게!"
+msgstr "과녁을 끝장낼 때까지 엘프 두 명으로 계속 공격하게!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:979
 msgid "Maybe you should recruit another elf?"
-msgstr "아마 요정을 더 소환해야 할지도?"
+msgstr "아마 엘프를 더 소환해야 할지도?"
 
 #. [hint_message]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:988
@@ -822,12 +822,12 @@ msgid ""
 "level. Elvish Fighters have two advancement options, and you will be able to "
 "choose which one you want. However, second level units cost twice as much to "
 "support as first level units."
-msgstr "유닛이 충분한 경험치를 얻으면 (<i>경험치 막대</i>는 <b>체력 막대</b> <i>오른쪽</i>에 있습니다), 레벨을 얻게 됩니다. 요정 싸움꾼들은 2 가지의 승급 선택사항이 있고, 둘 중 원하는 것을 선택하면 됩니다. 그러나, 레벨 2 유닛은 레벨 1 유닛보다 지원 비용이 두 배 더 높다는 점을 참고하세요."
+msgstr "유닛이 충분한 경험치를 얻으면 (<i>경험치 막대</i>는 <b>체력 막대</b> <i>오른쪽</i>에 있습니다), 레벨을 얻게 됩니다. 엘프 싸움꾼들은 2 가지의 승급 선택사항이 있고, 둘 중 원하는 것을 선택하면 됩니다. 그러나, 레벨 2 유닛은 레벨 1 유닛보다 지원 비용이 두 배 더 높다는 점을 참고하세요."
 
 #. [hint_message]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:1038
 msgid "Defenses"
-msgstr "방어도"
+msgstr "방어율"
 
 #. [hint_message]
 #: data/campaigns/tutorial/scenarios/01_Tutorial_part_1.cfg:1040
@@ -1074,7 +1074,7 @@ msgid ""
 "country; they are fools to enter here. We elves are fast and hard to hit in "
 "forests. You must defeat their leader so they never threaten us again. I "
 "will advise you."
-msgstr "이건 놀이가 아니다, 콘라드(Konrad)! 오크들이 강 건너에 기지를 세웠어. 감히 요정의 영역에 들어오다니 간이 부은 놈들이지. 우리 요정들은 숲에서는 빠르고 잘 피할 수 있다. 네가 저들의 대장을 물리쳐서 저들이 우릴 다시 위협하지 못하게 하도록 해. 내가 조언해주지."
+msgstr "이건 놀이가 아니다, 콘라드(Konrad)! 오크들이 강 건너에 기지를 세웠어. 감히 엘프의 영역에 들어오다니 간이 부은 놈들이지. 우리 엘프들은 숲에서는 빠르고 잘 피할 수 있다. 네가 저들의 대장을 물리쳐서 저들이 우릴 다시 위협하지 못하게 하도록 해. 내가 조언해주지."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:215
@@ -1088,7 +1088,7 @@ msgid ""
 "country; they are fools to enter here. We elves are fast and hard to hit in "
 "forests. You must defeat their leader so they never threaten us again. I "
 "will advise you."
-msgstr "이건 놀이가 아니다, 리사르(Li’sar)! 오크들이 강 건너에 기지를 세웠다. 감히 요정의 영역에 들어오다니 간이 부은 놈들이다. 우리 요정들은 숲에서는 빠르고 잘 피할 수 있다. 네가 저들의 대장을 물리쳐서 저들이 우릴 다시 위협하지 못하게 하도록 해라. 내가 조언해주지."
+msgstr "이건 놀이가 아니다, 리사르(Li’sar)! 오크들이 강 건너에 기지를 세웠다. 감히 엘프의 영역에 들어오다니 간이 부은 놈들이다. 우리 엘프들은 숲에서는 빠르고 잘 피할 수 있다. 네가 저들의 대장을 물리쳐서 저들이 우릴 다시 위협하지 못하게 하도록 해라. 내가 조언해주지."
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:221
@@ -1136,7 +1136,7 @@ msgid ""
 "The more likely attack, then, is across the bridge. That middle island is "
 "the key: it has a village for healing injured units and forests in which we "
 "fight so well."
-msgstr "좀 더 나은 공격 수단은 다리를 통해 오는 거다. 저 중앙의 섬이 요점이다: 여기엔 부상당한 유닛을 치유할 수 있는 마을이 있고, 우리가 싸우기 좋은 숲이 있거든."
+msgstr "좀 더 나은 공격 수단은 다리를 통해 오는 거다. 저 중앙의 섬이 요점이다: 여기엔 부상당한 유닛을 회복할 수 있는 마을이 있고, 우리가 싸우기 좋은 숲이 있거든."
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:235
@@ -1214,7 +1214,7 @@ msgid ""
 "Archers and Elvish Shamans. I’ll tell you more about them when you recruit "
 "them. Personally, I would recommend a balanced force of two archers, two "
 "fighters, and a shaman."
-msgstr "이번 시나리오에서는 모집할 수 있는 2종류의 새로운 유닛이 있다: 요정 궁수와 요정 주술사지. 그들을 모집하면 더 자세히 알려 주겠다. 개인적으로 궁수 2명, 싸움꾼 2명, 주술사 1명으로 구성된 균형 잡힌 병력을 권장한다."
+msgstr "이번 시나리오에서는 모집할 수 있는 2종류의 새로운 유닛이 있다: 엘프 궁수와 엘프 주술사지. 그들을 모집하면 더 자세히 알려 주겠다. 개인적으로 궁수 2명, 싸움꾼 2명, 주술사 1명으로 구성된 균형 잡힌 병력을 권장한다."
 
 #. [event]
 #. [on_undo]
@@ -1228,7 +1228,7 @@ msgstr "부대를 소집하거나 다시 소집하세요"
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:314
 #| msgid "Shaman"
 msgid "Elvish Shaman"
-msgstr "요정의 주술사"
+msgstr "엘프의 주술사"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:315
@@ -1241,12 +1241,12 @@ msgid ""
 "also has a special attack which <i>slows</i> enemies, halving the damage "
 "they do for one turn. However, she’s physically weaker than fighters and "
 "archers, so be careful when sending her into battle."
-msgstr "주술사는 주변의 아군 유닛을 <i>치유</i>하는 능력을 가지고 있습니다. 또한 1턴 동안 적의 피해를 절반으로 줄이는 <i>둔화</i> 특수 공격도 가지고 있습니다. 하지만 싸움꾼이나 궁수보다 신체적으로 약하므로 전투에 투입할 때는 주의해야 합니다."
+msgstr "주술사는 주변의 아군 유닛을 <i>회복</i>하는 능력을 가지고 있습니다. 또한 1턴 동안 적의 피해를 절반으로 줄이는 <i>둔화</i> 특수 공격도 가지고 있습니다. 하지만 싸움꾼이나 궁수보다 신체적으로 약하므로 전투에 투입할 때는 주의해야 합니다."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:320
 msgid "The <i>Heal</i> Ability"
-msgstr "<i>치유</i> 능력"
+msgstr "<i>회복</i> 능력"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:322
@@ -1260,9 +1260,9 @@ msgid ""
 "A detailed explanation of healing may be found in the <i>Gameplay</i> "
 "section of the help (default hotkey: <b>F1</b>)."
 msgstr ""
-"매 차례가 시작될 때, 주술사 주변의 아군 유닛은 체력 4를 회복하지만, 이는 마을이 제공하는 양의 절반 밖에 안 됩니다. 주술사는 치유로 인한 경험치를 얻지 않고, 전투에서만 경험치를 얻게됩니다. 그러나 그를 승진시키는 것은 가치가 있습니다. 레벨 2인 요정 자연술사로 승진하면 마을과 같은 치유력을 얻을 수 있습니다.\n"
+"매 차례가 시작될 때, 주술사 주변의 아군 유닛은 체력 4를 회복하지만, 이는 마을이 제공하는 양의 절반밖에 안 됩니다. 주술사는 회복으로 인한 경험치를 얻지 않고, 전투에서만 경험치를 얻게 됩니다. 그러나 그를 승진시키는 것은 가치가 있습니다. 레벨 2인 엘프 자연술사로 승진하면 마을과 같은 회복력을 얻을 수 있습니다.\n"
 "\n"
-"치유에 대한 자세한 설명은 도움말(기본 단축키: <i>F1</i>)의 <b>게임 플레이</b> 부분에서 확인할 수 있습니다."
+"회복에 대한 자세한 설명은 도움말(기본 단축키: <i>F1</i>)의 <b>게임 플레이</b> 부분에서 확인할 수 있습니다."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:329
@@ -1290,7 +1290,7 @@ msgstr ""
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:361
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:372
 msgid "Multiple Healers"
-msgstr "여러 치유사들"
+msgstr "여러 회복사들"
 
 #. [message]: speaker=narrator
 #. both healers are level one elvish shamans
@@ -1304,9 +1304,9 @@ msgid ""
 "adjacent units by 8 hitpoints per turn. A unit next to multiple healers is "
 "healed by the most advanced one."
 msgstr ""
-"이제 당신의 진영에는 2명의 치유사가 있습니다. 그러나, 각 유닛은 1명의 치유사에게서만 치유를 받을 수 있습니다. — 따라서 1명의 유닛은 2명의 주술사에 인접해 있더라도 차례당 최대 체력 4 만 치유합니다.\n"
+"이제 당신의 진영에는 2명의 회복사가 있습니다. 그러나, 각 유닛은 1명의 회복사에게서만 회복을 받을 수 있습니다. — 따라서 1명의 유닛은 2명의 주술사에 인접해 있더라도 차례당 최대 체력 4만 회복합니다.\n"
 "\n"
-"주술사 2명 중 1명이 자연술사로 승진한다면, 그는 인접한 유닛을 차례당 체력 8 을 회복할 수 있습니다. 여러 치유사들 옆에 있는 유닛은 가장 높은 레벨의 치유사에게 치유를 받습니다."
+"주술사 2명 중 1명이 자연술사로 승진한다면, 그는 인접한 유닛을 차례당 체력 8만큼 회복할 수 있습니다. 여러 회복사들 옆에 있는 유닛은 가장 높은 레벨의 회복사에게 회복을 받습니다."
 
 #. [message]: speaker=narrator
 #. one healer is a level one shaman, but the other healer is a druid or (very unlikely) a shyde
@@ -1316,19 +1316,19 @@ msgid ""
 "per turn compared to your Shaman’s 4. However, each unit can only receive "
 "healing from one healer — a unit next to multiple healers is healed by the "
 "most advanced one."
-msgstr "이제 당신의 진영에는 2명의 치유사가 있습니다. 주술사의 회복력이 4인 반면, 자연술사는 인접한 유닛의 체력을 한 차례에 8만큼 치유시킬 수 있습니다. 그러나, 각 유닛은 1명의 치유사에게서만 치유를 받을 수 있습니다. — 여러 치유사들에게 인접한 유닛은 가장 높은 레벨의 치유사에게 치유를 받습니다."
+msgstr "이제 당신의 진영에는 2명의 회복사가 있습니다. 주술사의 회복력이 4인 반면, 자연술사는 인접한 유닛의 체력을 한 차례에 8만큼 회복시킬 수 있습니다. 그러나, 각 유닛은 1명의 회복사에게서만 회복을 받을 수 있습니다. — 여러 회복사들에게 인접한 유닛은 가장 높은 레벨의 회복사에게 회복을 받습니다."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:381
 msgid "Healers and Villages"
-msgstr "치유사들과 마을들"
+msgstr "회복사들과 마을들"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:382
 msgid ""
 "A unit in a village will receive healing from the village instead of from "
 "adjacent healers."
-msgstr "마을에 있는 유닛은 인접한 치유사들 대신에 마을에서 치유를 받습니다."
+msgstr "마을에 있는 유닛은 인접한 회복사들 대신에 마을에서 회복을 받습니다."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:386
@@ -1337,13 +1337,13 @@ msgid ""
 "separate areas of the battlefield. It can also allow better tactical "
 "movement — the 2 hitpoints from rest-healing does combine with other sources "
 "of healing, so it’s often better to move a healer instead of an injured unit."
-msgstr "치유사가 2명 이상 있으면, 서로를 치유하거나, 전장의 별도 영역을 엄호할 수 있다. 또한 더 나은 전술적 움직임을 가능하게 할 수 있다. — 휴식을 통한 2의 체력 회복과 그 외의 수단을 통한 회복은 합산되므로, 상처 입은 유닛을 움직이지 않고 치유사를 이동시키는 것이 더 나을 수 있다."
+msgstr "회복사가 2명 이상 있으면, 서로를 회복하거나, 전장의 별도 영역을 엄호할 수 있다. 또한 더 나은 전술적 움직임을 가능하게 할 수 있다. — 휴식을 통한 2의 체력 회복과 그 외의 수단을 통한 회복은 합산되므로, 상처 입은 유닛을 움직이지 않고 회복사를 이동시키는 것이 더 나을 수 있다."
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:401
 #| msgid "Elvish Fighter"
 msgid "Elvish Archer"
-msgstr "요정 궁수"
+msgstr "엘프 궁수"
 
 #. [message]: speaker=narrator
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:402
@@ -1352,14 +1352,14 @@ msgid ""
 "has strong ranged attacks. It’s useful to attack enemy units with strong "
 "melee attacks with strong ranged attacks, and vice versa. This allows your "
 "units to take less damage overall when your enemy counterattacks."
-msgstr "요정 싸움꾼은 근거리 공격이 강한 반면, 요정 궁수는 원거리 공격이 강합니다. 강력한 근거리 공격을 가진 적 유닛에게는 강력한 원거리 공격으로 공격하는 것이 유용하고, 그 반대로, 강력한 원거리 공격을 가진 적 유닛에게는 강력한 근거리 공격으로 공격하는 것이 유용합니다. 이를 통해 적이 반격할 때 유닛이 전반적으로 받는 피해를 줄일 수 있습니다."
+msgstr "엘프 싸움꾼은 근거리 공격이 강한 반면, 엘프 궁수는 원거리 공격이 강합니다. 강력한 근거리 공격을 가진 적 유닛에게는 강력한 원거리 공격으로 공격하는 것이 유용하고, 그 반대로, 강력한 원거리 공격을 가진 적 유닛에게는 강력한 근거리 공격으로 공격하는 것이 유용합니다. 이를 통해 적이 반격할 때 유닛이 전반적으로 받는 피해를 줄일 수 있습니다."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:428
 msgid ""
 "You certainly have a fondness for shamans, I see. They will provide a lot of "
 "healing, but not much offensive potential."
-msgstr "내가 보기엔 너무 주술사에게 집착하는 것 같군. 그들의 치유 능력은 크겠지만, 공격력은 그렇게 높지 않다."
+msgstr "내가 보기엔 너무 주술사에게 집착하는 것 같군. 그들의 회복 능력은 크겠지만, 공격력은 그렇게 높지 않다."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:439
@@ -1470,7 +1470,7 @@ msgid ""
 "the forest, I would advise you keep to the trees and attack the orcs from "
 "there; your Fighters will only suffer a 40% chance of being hit in return, "
 "while Shamans and Archers will only incur a 30% chance."
-msgstr "가능은 하다. 하지만 요정은 물론 오크도 물속에서는 <i>방어력</i>이 떨어진다. 여울을 천천히 건너려 하면 더 취약해질 것이다. 적의 명중률은 80%가 된다. 요정은 숲에서 방어력이 좋으므로 나무 사이에 머물며 오크를 공격하는 편이 나을 것 같다. 대신 너의 싸움꾼은 명중률이 40%가 되고, 주술사와 궁수는 30%에 불과할 것이다."
+msgstr "가능은 하다. 하지만 엘프는 물론 오크도 물속에서는 <i>방어력</i>이 떨어진다. 여울을 천천히 건너려 하면 더 취약해질 것이다. 적의 명중률은 80%가 된다. 엘프는 숲에서 방어력이 좋으므로 나무 사이에 머물며 오크를 공격하는 편이 나을 것 같다. 대신 너의 싸움꾼은 명중률이 40%가 되고, 주술사와 궁수는 30%에 불과할 것이다."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:598
@@ -1502,7 +1502,7 @@ msgid ""
 "Move them into position so they can attack next turn. There are also other "
 "villages on this side of the river. You should secure them for income and "
 "healing."
-msgstr "그 오크 졸개가 아직도 우리 길을 막고 있다. 놈은 원거리 공격 능력이 없기 때문에, 너의 궁수들은 거의 위험 부담 없이 놈을 끌어들일 수 있을 것이다. 불행하게도, 이번 차례는 너의 유닛이 놈에게 접근할 수 없지만, 놈들을 방치해서는 안 된다! 다음 차례에 공격할 수 있도록 위치를 이동하라. 또한 이 강의 이쪽 편에 마을들이 있다. 수입과 치유를 위해 그것들을 확보해야 한다."
+msgstr "그 오크 졸개가 아직도 우리 길을 막고 있다. 놈은 원거리 공격 능력이 없기 때문에, 너의 궁수들은 거의 위험 부담 없이 놈을 끌어들일 수 있을 것이다. 불행하게도, 이번 차례는 너의 유닛이 놈에게 접근할 수 없지만, 놈들을 방치해서는 안 된다! 다음 차례에 공격할 수 있도록 위치를 이동하라. 또한 이 강의 이쪽 편에 마을들이 있다. 수입과 회복을 위해 그것들을 확보해야 한다."
 
 #. [hint_message]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:610
@@ -1570,7 +1570,7 @@ msgid ""
 "\n"
 "Please report the bug."
 msgstr ""
-"섬에 있는 오크는 다리를 건너오게 되어 있고, 여러 요정들의 공격을 동시에 받을 수 있도록 되어 있었습니다. 그런데 어떤 원인으로 준비된 이벤트가 발생하지 않아 오크가 수비적인 위치를 잡았습니다. 그러면 시나리오의 난이도가 높아집니다.\n"
+"섬에 있는 오크는 다리를 건너오게 되어 있고, 여러 엘프들의 공격을 동시에 받을 수 있도록 되어 있었습니다. 그런데 어떤 원인으로 준비된 이벤트가 발생하지 않아 오크가 수비적인 위치를 잡았습니다. 그러면 시나리오의 난이도가 높아집니다.\n"
 "\n"
 "이 버그를 신고해주세요."
 
@@ -1657,7 +1657,7 @@ msgstr "이번 차례에서 우리 유닛들이 이 졸개를 처리하지 못�
 msgid ""
 "If one of your Shamans stands just behind you, she will heal you 4 hitpoints "
 "at the beginning of the next turn."
-msgstr "만약 주술사들 중 1명이 너의 옆에 있으면, 그는 다음 차례가 시작할 때, 너의 체력을 4 만큼 치유할 것이다."
+msgstr "만약 주술사들 중 1명이 너의 옆에 있으면, 그는 다음 차례가 시작할 때, 너의 체력을 4 만큼 회복할 것이다."
 
 #. [message]: speaker=student
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:780
@@ -1679,7 +1679,7 @@ msgstr "이번 차례에 이 졸개를 처리할 수 없다면, 내 유닛이 �
 msgid ""
 "If one of your Shamans stands just behind your wounded units, she will heal "
 "each of them 4 hitpoints at the beginning of the next turn."
-msgstr "만약 주술사들 중 1명이 너의 부상당한 유닛들 옆에 있으면, 그는 다음 차례가 시작할 때, 그들의 체력을 4 만큼씩 치유할 것이다."
+msgstr "만약 주술사들 중 1명이 너의 부상당한 유닛들 옆에 있으면, 그는 다음 차례가 시작할 때, 그들의 체력을 4 만큼씩 회복할 것이다."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:821
@@ -1762,7 +1762,7 @@ msgid ""
 "We need to occupy that village, otherwise they will take it soon! Move a "
 "unit into the village to stop the orcs capturing it. Whichever unit you "
 "choose will benefit from the village’s healing, too."
-msgstr "우리가 저 마을을 차지하지 않으면, 저들이 곧 차지할 거야! 유닛을 마을로 이동시켜서 오크를 막아. 이동시킨 유닛은 마을의 회복효과도 받을 수 있어."
+msgstr "우리가 저 마을을 차지하지 않으면, 저들이 곧 차지할 거야! 유닛을 마을로 이동시켜서 오크를 막아. 이동시킨 유닛은 마을의 회복 효과도 받을 수 있어."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:944
@@ -1772,7 +1772,7 @@ msgid ""
 "a noticeable difference. You are <i>lawful</i>: stronger by day and weaker "
 "at night. Your elvish warriors are <i>neutral</i>: unaffected by the time of "
 "day."
-msgstr "조심해! 지금은 야간이다. 오크들은 <i>야행성</i>이라 밤에는 공격력이 25% 강해지고 낮에는 25% 약해진다. 이 차이는 생각보다 크다. 너는 <i>주행성</i>이다: 그래서 낮에 더 강하지. 네 요정 전사들은 <i>시간대 중성</i>이다: 그래서 밤낮의 영향을 받지 않는다."
+msgstr "조심해! 지금은 야간이다. 오크들은 <i>야행성</i>이라 밤에는 공격력이 25% 강해지고 낮에는 25% 약해진다. 이 차이는 생각보다 크다. 너는 <i>주행성</i>이다: 그래서 낮에 더 강하지. 네 엘프 전사들은 <i>시간대 중성</i>이다: 그래서 밤낮의 영향을 받지 않는다."
 
 #. [hint_message]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:947
@@ -1806,11 +1806,11 @@ msgid ""
 "from villages or healers, combining for a total of up to 10 hitpoints per "
 "turn."
 msgstr ""
-"부상당한 유닛을 마을로 후퇴시키는 것을 잊지 마라. 주술사는 차례당 체력을 4만 치유할 수 있는 반면, 마을은 차례당 체력을 8로 더 빨리 치유할 수 있다.\n"
+"부상당한 유닛을 마을로 후퇴시키는 것을 잊지 마라. 주술사는 차례당 체력을 4만큼 회복할 수 있는 반면, 마을은 차례당 체력을 8만큼 더 빨리 회복할 수 있다.\n"
 "\n"
-"일반적으로 다른 치유 방법을 결합할 수 없다. 한 유닛이 여러명의 치유사들 옆에서 차례를 시작하거나, 혹은 마을과 치유사 옆에서 차례를 시작한다면, 여전히 한 번만 치유될 것이다.\n"
+"일반적으로 다른 회복 방법을 결합할 수 없다. 한 유닛이 여러 명의 회복사들 옆에서 차례를 시작하거나, 혹은 마을과 회복사 옆에서 차례를 시작한다면, 여전히 한 번만 회복될 것이다.\n"
 "\n"
-" 다만, 휴식으로 인한 치유는 규칙의 예외다. 유닛이 한 차례동안 아무것도 하지 않으면 마을이나 치유사로부터 받을 수 있는 치유와 2의 체력을 치유하는 것을 합산하여 한 차례에 최대 10의 체력을 얻는다."
+" 다만, 휴식으로 인한 회복은 규칙의 예외다. 유닛이 한 차례 동안 아무것도 하지 않으면 마을이나 회복사로부터 받을 수 있는 회복과 2의 체력 회복을 합산하여 한 차례에 최대 10의 체력을 얻는다."
 
 #. [hint_message]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1007
@@ -1920,14 +1920,14 @@ msgstr "그 유닛은 한 마리만 더 잡으면(경험치 8) 승급할 수 있
 msgid ""
 "Their leader has moved into that village! He’s not as stupid as I thought. "
 "The village heals him each turn and provides good defense."
-msgstr "저들의 대장이 저 마을로 이동했어! 생각만큼 멍청하진 않나보군. 마을은 매 차례 놈에게 치료를 베풀고 방어력을 높은 수준으로 올려준다."
+msgstr "저들의 대장이 저 마을로 이동했어! 생각만큼 멍청하진 않나보군. 마을은 매 차례 놈에게 회복해 주고 방어력을 높은 수준으로 올려준다."
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1195
 msgid ""
 "That unit has captured our village! You’d better get him out; it heals him "
 "each turn and provides good defense."
-msgstr "저 유닛이 우리 마을을 점령했어! 저 녀석을 쫓아내는 편이 좋아. 마을은 매 차례 놈에게 치료를 베풀고 방어력을 높은 수준으로 올려준다."
+msgstr "저 유닛이 우리 마을을 점령했어! 저 녀석을 쫓아내는 편이 좋아. 마을은 매 차례 놈에게 회복해 주고 방어력을 높은 수준으로 올려준다."
 
 #. [message]: speaker=unit
 #. The speaker is female
@@ -2016,7 +2016,7 @@ msgstr "더 높은 레벨 유닛은 강력하지만, 무적의 존재는 아니�
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1328
 msgid ""
 "Losing a healer hurts all the troops! Keep them out of the enemy’s reach!"
-msgstr "치료사를 잃는 건 부대 전체에 타격을 주게 돼! 그들을 적의 사거리에 닿지 않도록 지켜!"
+msgstr "회복사를 잃는 건 부대 전체에 타격을 주게 돼! 그들을 적의 사거리에 닿지 않도록 지켜!"
 
 #. [event]
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1342
@@ -2034,7 +2034,7 @@ msgid ""
 "reach a village! I also have gained a new <i>magical</i> attack, meaning it "
 "always has a 70% chance to hit, but it is not as powerful as the similar "
 "attack wielded by the Elvish Sorceress."
-msgstr "승급을 통해 난 완전히 회복되었어! 나는 유닛의 체력을 차례당 4만큼에서 차례당 8만큼으로 치유할 수 있고, 마을에 도달할 수 없는 경우에도 독을 치료할 수도 있어! 또한 새로운 <i>마법</i> 공격을 얻었는데, 항상 적중할 확률이 70%이지만 요정 마녀가 사용하는 비슷한 공격만큼 강력하지는 않아."
+msgstr "승급을 통해 난 완전히 회복되었어! 나는 유닛의 체력을 차례당 4만큼에서 차례당 8만큼으로 회복할 수 있고, 마을에 도달할 수 없는 경우에도 독을 치료할 수도 있어! 또한 새로운 <i>마법</i> 공격을 얻었는데, 항상 적중할 확률이 70%이지만 엘프 마녀가 사용하는 비슷한 공격만큼 강력하지는 않아."
 
 #. [message]: speaker=unit
 #. The speaker is female
@@ -2044,7 +2044,7 @@ msgid ""
 "but to compensate, I have a new, powerful faerie fire attack that deals 7 "
 "damage each for 4 strikes. It also has the <i>magical</i> weapon special, "
 "meaning it always has a 70% chance to hit."
-msgstr "승급을 통해 난 완전히 회복되었어! 더 이상 인접한 유닛을 치유 능력은 잃었지만 7의 피해로 4번 타격하는 새롭고 강력한 요정의 불꽃 공격을 사용할 수 있어. 또한 <i>마법</i> 특수 무기 기능도 있는데, 항상 적중할 확률이 70% 라는거지."
+msgstr "승급을 통해 난 완전히 회복되었어! 더 이상 인접한 유닛을 회복하는 능력은 없지만 7의 피해로 4번 타격하는 새롭고 강력한 요정 불꽃 공격을 사용할 수 있어. 또한 <i>마법</i> 특수 무기 기능도 있는데, 항상 적중할 확률이 70%라는 거지."
 
 #. [message]: speaker=unit
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1384
@@ -2112,7 +2112,7 @@ msgid ""
 "and I have a special ability: <i>Leadership</i>. I do less damage myself "
 "than the Elvish Hero, but my ability allows my allies to fight better. First "
 "level units around me do 25% more damage, so position me carefully!"
-msgstr "승급을 통해 난 완전히 회복되었어! 난 활과 칼 모두에 다룰 수 있고, 특수 능력인 <i>통솔</i>을 가지고 있어. 나는 요정의 영웅보다 내 자신에게 피해를 덜 주지만, 내 특수 능력은 아군들이 더 잘 싸울 수 있게 해주지. 내 근처의 레벨 1 유닛들이 입히는 피해가 25% 증가하니까, 내 위치를 정할 때 주의하길 바래!"
+msgstr "승급을 통해 난 완전히 회복되었어! 난 활과 칼 모두에 다룰 수 있고, 특수 능력인 <i>통솔</i>을 가지고 있어. 나는 엘프의 영웅보다 내 자신에게 피해를 덜 주지만, 내 특수 능력은 아군들이 더 잘 싸울 수 있게 해주지. 내 근처의 레벨 1 유닛들이 입히는 피해가 25% 증가하니까, 내 위치를 정할 때 주의하길 바래!"
 
 #. [message]: speaker=unit
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1426
@@ -2124,7 +2124,7 @@ msgid ""
 "sword, dealing 8 damage in 4 attacks. While I don’t have the Leadership "
 "abilities of the Elvish Captain, my superior fighting skills allow my "
 "attacks to do more damage!"
-msgstr "승급을 통해 난 완전히 회복되었어! 나는 칼에 특히 강해서, 8의 피해로 4번 공격할 수 있지. 나는 요정 대장의 통솔 능력은 없지만, 나의 우수한 전투 기술로 인해 내 공격은 더 많은 피해를 입힐 수 있어!"
+msgstr "승급을 통해 난 완전히 회복되었어! 나는 칼에 특히 강해서, 8의 피해로 4번 공격할 수 있지. 나는 엘프 대장의 통솔 능력은 없지만, 나의 우수한 전투 기술로 인해 내 공격은 더 많은 피해를 입힐 수 있어!"
 
 #. [message]: speaker=unit
 #: data/campaigns/tutorial/scenarios/02_Tutorial_part_2.cfg:1439
@@ -2289,7 +2289,7 @@ msgstr ""
 #~ "characters from <i>Heir to the Throne</i>. You can also refer to the in-"
 #~ "game help browser if you ever need to refresh your memory on gameplay "
 #~ "mechanics."
-#~ msgstr "오크들을 무찔렀구나! 이제 넌 <i>남부 경비대</i>, <i>오크족의 습격</i>, <i>두 형제 이야기</i>나 <i>왕좌의 후계자</i> 같은 초급 캠페인을 할 수 있어. <i>남부 경비대</i>는 특별히 초심자들을 위해 구성된 캠페인이야. 콘라드(Konrad), Li'sar와 델파도르(Delfador)는 <i>왕좌의 후계자</i> 편에서 나오는 인물들이지."
+#~ msgstr "오크들을 무찔렀구나! 이제 넌 <i>남부 경비대</i>, <i>오크들의 습격</i>, <i>두 형제 이야기</i>나 <i>왕좌의 후계자</i> 같은 초급 캠페인을 할 수 있어. <i>남부 경비대</i>는 특별히 초심자들을 위해 구성된 캠페인이야. 콘라드(Konrad), Li'sar와 델파도르(Delfador)는 <i>왕좌의 후계자</i> 편에서 나오는 인물들이지."
 
 #~ msgid "End Scenario"
 #~ msgstr "시나리오 마치기"

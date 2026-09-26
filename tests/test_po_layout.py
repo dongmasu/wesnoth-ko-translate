@@ -132,6 +132,18 @@ class TranslationLayoutTests(unittest.TestCase):
             "한글(English)",
             "멱등",
             "전체 PO 전수 검수",
+            "검수자",
+            "수정자",
+            "검증자",
+            "배포자",
+            "flowchart TD",
+            "검수 보고서",
+            "단계별 권한과 산출물",
+            "불변의 진실",
+            "실제 PO 문맥",
+            "용어집 오류",
+            "영향 범위",
+            "자동 재적용하지",
         ):
             with self.subTest(rule=rule):
                 self.assertIn(rule, combined)
@@ -394,18 +406,23 @@ class TranslationLayoutTests(unittest.TestCase):
         )
         self.assertIn('sub(/percent[[:space:]]*=[[:space:]]*[0-9]+/, "percent=100")', shell_script)
         self.assertIn("$updated = $updated -replace 'percent\\s*=\\s*\\d+', 'percent=100'", powershell_script)
+        self.assertIn('sort_name = "Hangugeo"', shell_script)
+        self.assertIn('sort_name\\s*=\\s*"Hangugeo"', powershell_script)
+        self.assertNotIn('sub(/sort_name = "[^"]*"/', shell_script)
+        self.assertNotIn("$updated = $updated -replace 'sort_name", powershell_script)
+        self.assertIn('sort_name = "Hangugeo"', (ROOT / "work" / VERSION / "ko_KR.cfg").read_text(encoding="utf-8"))
         self.assertIn("percent=100", (ROOT / "INSTALL.md").read_text(encoding="utf-8"))
 
     def test_readme_documents_mo_only_release_asset(self):
         readme = (ROOT / "README.md").read_text(encoding="utf-8")
         self.assertIn("MO만 필요한 사용자를 위한 다운로드", readme)
         self.assertIn(
-            "wesnoth-ko-translate-1.18.x-20260925.zip",
+            "wesnoth-ko-translate-1.18.x-20260926.zip",
             readme,
         )
         self.assertIn(
-            "releases/download/wesnoth-ko-translate-1.18.x-20260925/"
-            "wesnoth-ko-translate-1.18.x-20260925.zip",
+            "releases/download/wesnoth-ko-translate-1.18.x-20260926/"
+            "wesnoth-ko-translate-1.18.x-20260926.zip",
             readme,
         )
         self.assertIn("Release asset이 게시된 뒤에는", readme)
@@ -438,7 +455,7 @@ class TranslationLayoutTests(unittest.TestCase):
         self.assertIn("PO_TIMESTAMP=", install_doc)
 
         metadata = (
-            ROOT / "dist" / "1.18.x-20260925" / "ko" / "PO_LAST_MODIFIED_DATE"
+            ROOT / "dist" / "1.18.x-20260926" / "ko" / "PO_LAST_MODIFIED_DATE"
         ).read_text(encoding="utf-8").strip()
         self.assertRegex(
             metadata,

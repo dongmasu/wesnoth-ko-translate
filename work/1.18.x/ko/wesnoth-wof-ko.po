@@ -38,12 +38,12 @@ msgstr "한때 풍요로운 사냥터였던 모로고르(Morogor)가 파도에 �
 #. [campaign]: id=Winds_of_Fate
 #: data/campaigns/Winds_of_Fate/_main.cfg:22
 msgid "<i>Features full recall costs and no gold carryover.</i>"
-msgstr "<i>소환 비용과 신규 고용과 동일한 금액이고, 금화의 이월이 없는 것이 특징입니다.</i>"
+msgstr "<i>소환 비용이 신규 고용 비용과 동일하며, 금화 이월이 없는 것이 특징입니다.</i>"
 
 #. [campaign]: id=Winds_of_Fate
 #: data/campaigns/Winds_of_Fate/_main.cfg:23
 msgid "(Hard level, 11 scenarios.)"
-msgstr "(어려운 수준, 11 개 시나리오.)"
+msgstr "(어려움 난이도, 11개 시나리오.)"
 
 #. [campaign]: id=Winds_of_Fate
 #: data/campaigns/Winds_of_Fate/_main.cfg:25
@@ -117,7 +117,7 @@ msgstr "사냥"
 #. The file data/campaigns/Winds_of_Fate/story/Morogor_Dialect.txt has details about how these drakes speak in English, as well as a glossary for the campaign.
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:20
 msgid "From the skies above, the glider caste felt the Winds of Fate."
-msgstr "위 하늘에서, 활공하는 자 신분은 하늘에서 운명의 바람을 느끼고 있었다."
+msgstr "드높은 하늘에서 활공하는 자 계층은 운명의 바람을 느끼고 있었다."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:23
@@ -125,7 +125,7 @@ msgid ""
 "They saw the diminishment of our nourishing lands as the isles of Morogor "
 "slipped into the sea. They heard the cries of starving hatchlings before the "
 "wasting’s eternal hush."
-msgstr "그들은 모로고르(Morogor) 제도가 바다로 가라앉을 때 우리의 비옥한 땅이 줄어드는 것을 보았다. 그들은 부화한 새끼들이 영원한 침묵이 깃들기 전에 굶주림에 허덕이는 울음소리 들었다."
+msgstr "그들은 모로고르(Morogor) 제도가 바다로 가라앉을 때 우리의 비옥한 땅이 줄어드는 것을 보았다. 그들은 부화한 새끼들이 영원한 침묵에 잠기기 전에 굶주림에 허덕이는 울음소리를 들었다."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:26
@@ -350,7 +350,7 @@ msgstr ""
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:208
 msgid "Any of us injured during the hunt should seek an oasis for healing."
-msgstr "사냥 중에 부상을 입은 누구라도 치유를 위해 오아시스를 찾아야 합니다."
+msgstr "사냥 중에 부상을 입은 자는 누구든 회복을 위해 오아시스를 찾아야 합니다."
 
 #. [message]: type=Drake Fighter
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:225
@@ -400,7 +400,7 @@ msgstr "그렇군, 용감한 카르론(Karron)께서 모로고르(Morogor)의 �
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:273
 msgid "Karron, you are without companions."
-msgstr "카르론(Karron), 당신은 동료가 없군요."
+msgstr "카르론(Karron), 그대는 동료가 없군요."
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:277
@@ -414,7 +414,7 @@ msgstr ""
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:284
 msgid "To attempt this trial with only two allies was unwise."
-msgstr "이 시련을 수행원 둘만으로 도전하다니, 바보같은 짓을 한 거예요."
+msgstr "동료 둘만 데리고 이 시련에 도전하다니, 어리석은 짓을 한 거예요."
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:288
@@ -433,7 +433,7 @@ msgstr "그렇다면 떠나시오."
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:299
 msgid "As you wish."
-msgstr "원하는데로."
+msgstr "원하는 대로."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:305
@@ -500,7 +500,7 @@ msgid ""
 "<span  size='5000' font-style='italic'>Ward thyselves for it has arrived. "
 "The grey light that shades the living worlds. The calm wind that snuffs warm "
 "souls. The Faerie reached this world.</span>"
-msgstr "<span  size='5000' font-style='italic'>그것이 도착했으니 모두 조심하라. 살아 있는 세계를 가리는 회색의 빛. 따뜻한 영혼을 날려버리는 잔잔한 바람. 정령이 이 세계에 도착했나니.</span>"
+msgstr "<span  size='5000' font-style='italic'>그것이 도착했으니 모두 조심하라. 살아 있는 세계를 가리는 회색의 빛. 따뜻한 영혼을 날려버리는 잔잔한 바람. 요정이 이 세계에 도착했나니.</span>"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:363
@@ -524,7 +524,7 @@ msgstr ""
 "\n"
 "그들이 마지막으로 남긴 말은...\n"
 "\n"
-"“ 그대들 자신을 지켜라. 정령들이 이 세계에 도달했다. ”"
+"“ 그대들 자신을 지켜라. 요정이 이 세계에 도달했다. ”"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:383
@@ -553,7 +553,7 @@ msgstr ""
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:420
 msgid "Victory is yours, <b>Aspirant</b> Gorlack."
-msgstr "승리는 당신의 것입니다, <b>큰 뜻을 품은 자</b> 고를락(Gorlack)이여."
+msgstr "승리는 그대의 것입니다, <b>큰 뜻을 품은 자</b> 고를락(Gorlack)이여."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:424
@@ -591,7 +591,7 @@ msgid ""
 "\n"
 "There is nothing more to be said of that place."
 msgstr ""
-"안돼!\n"
+"안 돼!\n"
 "\n"
 "그 곳에 대해서는 더 이상 할 말이 없다."
 
@@ -634,7 +634,7 @@ msgid ""
 "This isle that was before bountiful with game is now laid bare by these "
 "infesters."
 msgstr ""
-"고라쓰 오흠의 배신은 다가오는 비행단들사이의 전쟁을 빗댄 것에 불과했다.\n"
+"고라쓰 오흠의 배신은 다가오는 비행단들 사이의 전쟁을 미리 보여 준 것에 불과했다.\n"
 "머지않아 부랑자들이 될 많은 눈들이 우리를 지켜보고 있을 것이다.\n"
 "그들은 약점을 찾고 있다...\n"
 "\n"
@@ -707,7 +707,7 @@ msgstr ""
 "탈출은 허용되지 않습니다.\n"
 "원형 안에서 저는 그들의 가장 얇은 방어선을 정찰하며 찾아낼 것입니다.\n"
 "그런 다음 이를 뚫고 가장 가까운 망루에 도달할 것입니다. \n"
-"거기에서 저는 섬을 정화하기 위해 병력을 모울것입니다.\n"
+"거기에서 저는 섬을 정화하기 위해 병력을 모을 것입니다.\n"
 "저에 대한 반격을 가하기 위해 그들의 방어력이 약해지는 곳마다 원은 무너질 것입니다."
 
 #. [part]
@@ -738,11 +738,11 @@ msgstr ""
 "둘러싸는 것은 어리석은 짓입니다.\n"
 "먹잇감이 우리를 막을 수 있다고 생각하게 합니다.\n"
 "\n"
-"반룡들의 두 날개 협공 입니다.\n"
+"반룡들의 두 날개 협공입니다.\n"
 "첫 번째 날개는 첫 번째 새벽에 남동쪽 망루를 공격합니다.\n"
 "그 생물들은 절반의 병력이라고 깨닫지 못하고 일제히 덤벼들 겁니다.\n"
 "그리고 두 번째 새벽에 두 번째 날개가 북서쪽 반대편에서 공격합니다.\n"
-"그때 그들은 먹잇감의 등이 그들에게 보이고 있다는것을 알게 될 것입니다."
+"그때 그들은 먹잇감이 등을 보이고 있다는 것을 알게 될 것입니다."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:77
@@ -794,7 +794,7 @@ msgid ""
 msgstr ""
 "또 당신은 레샤(Resha)의 활공하는 자 신화를 넋을 잃고 생각하는 데 시간을 낭비하는군요!\n"
 "설령 활공하는 자의 전설의 아득한 땅이 한때 있었다 해도, 이미 파도 아래에 잠겨 있을 거라구요.\n"
-"하늘 자체가 빗방울로 채워질 때까지, 이 세상은 물에 잠길 수 밖에 없는 거라구요."
+"하늘 자체가 빗방울로 채워질 때까지, 이 세상은 물에 잠길 수밖에 없는 거라구요."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:109
@@ -806,8 +806,8 @@ msgid ""
 msgstr ""
 "날개도 없고.\n"
 "지느러미도 없고.\n"
-"침략자들은 땅에 묶여있을 수 밖에 없습니다.\n"
-"그렇다면 그들은 먼 땅에서 온게 틀림없습니다."
+"침략자들은 땅에 묶여 있을 수밖에 없습니다.\n"
+"그렇다면 그들은 먼 땅에서 온 게 틀림없습니다."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:117
@@ -929,7 +929,7 @@ msgstr ""
 #. By ‘wyrms’ he is referring to the drakes in a belittling way.
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:330
 msgid "These vomiting wyrms again!? I HATE THEM!!!"
-msgstr "또 토하는 뱀룡들이냐!? 난 놈들이 정말 싫어!!!"
+msgstr "또 토하는 도마뱀들이냐!? 난 놈들이 정말 싫어!!!"
 
 #. [message]: speaker=Viragar
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:340
@@ -938,7 +938,7 @@ msgid ""
 "\n"
 "Pull our boats back and keep the fire breathers off them!"
 msgstr ""
-"집결! 집결하라! 진지로 들어가라고, 이 망나니 녀석아! 뱀룡들이 우리를 향해 쏟아지고 있잖아!\n"
+"집결! 집결하라! 진지로 들어가라고, 이 망나니 녀석아! 도마뱀들이 우리를 향해 쏟아지고 있잖아!\n"
 "\n"
 "우리 배를 뒤로 물리고 불을 내뿜는 놈들을 막아라!"
 
@@ -949,7 +949,7 @@ msgid ""
 "\n"
 "Wyrms breathe fire... boats are wood... fire is BAD for wood."
 msgstr ""
-"내 배들을 그 뱀룡들로부터 멀리 떨어뜨려 놓으라고 했잖아, 이 망나니야!\n"
+"내 배들을 그 도마뱀들로부터 멀리 떨어뜨려 놓으라고 했잖아, 이 망나니야!\n"
 "\n"
 "뱀룡들이 불을 뿜고 있잖아... 배는 나무니까... 불은 나무에 좋지 않잖아."
 
@@ -960,7 +960,7 @@ msgid ""
 "woodworms.\n"
 "That makes more sense; never heard of fire breathing woodworms."
 msgstr ""
-"오, 불을 뿜는 ‘뱀룡들’이라니... 나무벌레로부터 거룻배를 지키라는 줄 알았어요.\n"
+"오, 불을 뿜는 ‘도마뱀들’이라니... 나무벌레로부터 거룻배를 지키라는 줄 알았어요.\n"
 "그게 더 말이 되는데요; 불을 뿜는 나무벌레는 들어본 적이 없거든요."
 
 #. [message]: speaker=Viragar
@@ -1083,7 +1083,7 @@ msgstr ""
 "\n"
 "젊은 활공하는 자인 레샤(Resha)는 자신의 계급이 모로고르(Morogor)를 탈출하고 싶다고 나에게 말했고, 나는 우리가 이곳에 온 것이 그들에게 용기를 주었을지도 모른다고 생각한다. 다행히도, 제세네(Jessene)는 모든 항해도들을 엄격하게 보관하고 있다. 만약 그녀가 그렇게 하지 않았다면, 용의 날개 치는 소리가 남만국(Southbay) 상공에서 울려 퍼졌을 지도 모른다!\n"
 "\n"
-"제세네(Jessene)에 따르면, 그녀의 민족은 이 용들에 대해 잘 알고 있다고 말했다. 그들의 책에는 서부인(Wesfolk)을 아득히 먼 서쪽의 땅에서 몰아낸 괴물 종족들에 대한 묘사가 있다고 한다. 그리고 활공하는 자들도 모로고르(Morogor) 너머 멀리에 사는 반룡족에 대한 이야기를 가지고 있다. 레샤(Resha)는 우리의 협상이 싸움꾼 계급의 또 다른 반란으로 중단되기 전에 몇 가지 이야기를 나에게 들려주었다.\n"
+"제세네(Jessene)에 따르면, 그녀의 민족은 이 용들에 대해 잘 알고 있다고 말했다. 그들의 책에는 서부인(Wesfolk)을 아득히 먼 서쪽의 땅에서 몰아낸 괴물 종족들에 대한 묘사가 있다고 한다. 그리고 활공하는 자들도 모로고르(Morogor) 너머 먼 곳에 사는 반룡들에 대한 이야기를 가지고 있다. 레샤(Resha)는 우리의 협상이 싸우는 자 계층의 또 다른 반란으로 중단되기 전에 몇 가지 이야기를 나에게 들려주었다.\n"
 "\n"
 "<i>― 남만국(Southbay)의 레오드렌 왕자,\n"
 "\n"
@@ -1113,18 +1113,18 @@ msgid ""
 "Karron, their leader is to remain alive.\n"
 "I want no repeat of last time."
 msgstr ""
-"카르론(Karron), 놈들의 대장을 살아있을 거야.\n"
+"카르론(Karron), 놈들의 대장은 반드시 살아 있어야 해.\n"
 "지난번과 같은 일이 반복되지 않길 바란다."
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:535
 msgid "You do not command me, Gorlack."
-msgstr "당신의 지시 따위는 받을 생각이 없어, 고를락(Gorlack)."
+msgstr "네 지시 따위는 받을 생각이 없어, 고를락(Gorlack)."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:539
 msgid "I remind you it is by Vladnir’s order this creature remain whole."
-msgstr "이 생명체를 죽이지 않고 사로잡는 것은 블라드니르(Vladnir)의 명령이란걸 잊지 마시오."
+msgstr "이 생명체를 죽이지 않고 사로잡는 것은 블라드니르(Vladnir)의 명령이란 걸 잊지 마시오."
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/02_Reclamation.cfg:545
@@ -1179,7 +1179,7 @@ msgid ""
 "\n"
 "It was to be taken alive!"
 msgstr ""
-"안돼!\n"
+"안 돼!\n"
 "\n"
 "그는 살아 있어야 한다!"
 
@@ -1208,7 +1208,7 @@ msgid ""
 "Their sea skimmers are perished.\n"
 "Their hope of escape is no more."
 msgstr ""
-"놈들의 바다 제비갈매기들는 전멸했습니다.\n"
+"놈들의 바다 제비갈매기들은 전멸했습니다.\n"
 "놈들에게 탈출의 희망은 이제 없습니다."
 
 #. [event]
@@ -1297,7 +1297,7 @@ msgid ""
 "Then the needs of our hatchlings will demand the taking of your hunting "
 "grounds."
 msgstr ""
-"만약 우리 편대가 부랑자들이 었다면, 그대들은 이미 알고 있었을 것이다.\n"
+"만약 우리 편대가 부랑자들이었다면, 그대들은 이미 알고 있었을 것이다.\n"
 "우리가 그대들을 대적할 때가 오면 우리가 먼저 우리의 냉혹한 의도를 경고할 것이다.\n"
 "우리의 동료 반룡들을 향한 마지막 명예로운 행동으로...\n"
 "\n"
@@ -1346,7 +1346,7 @@ msgstr "승리의 잔치"
 msgid ""
 "Fresh prey carcasses were justly divided among hunters in accord with the "
 "Ways of Morogor. An ample victory feast was had..."
-msgstr "신선한 먹잇감 고기들은 모로고르(Morogor)의 규율에 따라 공정하게 사냥꾼들 사이에서 나눠졌다. 풍성한 승리의 잔치가 펼쳐졌다..."
+msgstr "신선한 먹잇감은 모로고르(Morogor)의 규율에 따라 사냥꾼들 사이에 공정하게 나뉘었다. 풍성한 승리의 잔치가 펼쳐졌다..."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:19
@@ -1407,7 +1407,7 @@ msgstr ""
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:46
 msgid "‘Orc’ the creatures call themselves."
-msgstr "그 생명체들은 스스로를 ‘오크’ 라고 부릅니다."
+msgstr "그 생명체들은 스스로를 ‘오크’라고 부릅니다."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:52
@@ -1489,7 +1489,7 @@ msgid ""
 "beyond.\n"
 "There my eyrie will be set; a beacon leading other flights to salvation."
 msgstr ""
-"먹잇감이 그곳으로 이주한다는것은 그곳은 먹이가 풍부하다는 뜻일 것이다.\n"
+"먹잇감이 그곳으로 이주한다는 것은 그곳에 먹이가 풍부하다는 뜻일 것이다.\n"
 "\n"
 "경쟁에서 얻은 비행단으로, 나는 저 멀리 큰 땅으로 갈 것이다. \n"
 "그곳에 나의 둥지를 틀고, 다른 비행단들을 구원으로 이끄는 등불이 될 것이다."
@@ -1502,7 +1502,7 @@ msgid ""
 "He counts on us, his aspirants, to set eyries within his domain.\n"
 "Only with nigh allies can Flight Vladnir hold against the rogues!"
 msgstr ""
-"고를락(Gorlack), 그렇게되면 블라드니르(Vladnir)를 파멸로 이끌 거예요!\n"
+"고를락(Gorlack), 그렇게 되면 블라드니르(Vladnir)를 파멸로 이끌 거예요!\n"
 "\n"
 "그는 그의 큰 뜻을 품은 자들인 우리가 그의 영역 내에 둥지를 틀 것으로 기대하고 있습니다.\n"
 "오직 가까운 동맹만이 블라드니르(Vladnir) 비행단이 부랑자들에 맞서 싸울 수 있습니다!"
@@ -1545,7 +1545,7 @@ msgid ""
 "So the day of the contention came. Each caste elected an aspirant from their "
 "ranks to become the new dominant. Each aspirant chose carefully three "
 "intendants to aid them."
-msgstr "그리하여 경쟁의 날이 왔다. 각 신분들은 새로운 지배하는 자가 되기 위해 자신들의 계급에서 큰 뜻을 품는 자를 뽑았다. 각 큰 뜻을 품은 자는 자신을 도울 3명의 부관을 신중하게 선택했다."
+msgstr "그리하여 경쟁의 날이 왔다. 각 계층은 새로운 지배자가 될 야심가를 자기 계층에서 뽑았다. 각 야심가는 자신을 도울 부관 3명을 신중하게 선택했다."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:42
@@ -1554,7 +1554,7 @@ msgid ""
 "trials of endurance, trials of warfare, trials of the hunt. In the end, only "
 "the two aspirants of Vladnir remained to face one another in the Arena of "
 "Dominance, in the very heart of Morogor..."
-msgstr "비행단을 이끄는 모든 기술들이 시험대에 올랐다. 각각의 큰 뜻을 품은 자들은 인내심의 시련. 싸움의 시련, 사냥의 시련을 거쳤다. 결국, 블라드니르(Vladnir)의 두 큰 뜻을 품은 자들만이 모로고르(Morogor)의 바로 중심에 있는 지배의 투기장에서 서로를 마주하게 되었다..."
+msgstr "비행단을 이끄는 모든 기술이 시험대에 올랐다. 각 야심가는 인내의 시련, 전투의 시련, 사냥의 시련을 거쳤다. 결국 블라드니르(Vladnir)의 두 야심가만이 모로고르(Morogor)의 중심에 있는 지배의 투기장에서 서로 마주하게 되었다..."
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:57
@@ -1574,7 +1574,7 @@ msgstr "관중들"
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:211
 msgid "Hold the advantage at the end of turn 24"
-msgstr "24 차례가 끝날때까지 우위를 유지하라"
+msgstr "24번째 턴이 끝날 때까지 우위를 유지하라"
 
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:216
@@ -1584,7 +1584,7 @@ msgstr "카르론(Karron)을 무찔러라"
 #. [objective]: condition=lose
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:220
 msgid "Not hold the advantage at the end of turn 24"
-msgstr "24 차례가 끝날 때 우위를 유지하지 않음"
+msgstr "24차례가 끝날 때 우위를 유지하지 않음"
 
 #. [objective]: condition=lose
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:224
@@ -1601,24 +1601,24 @@ msgstr "우세는 금화와 전장에 있는 반룡들의 가치, 수입의 5배
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:235
 msgid "Karron will get an income of $side_2.village_gold gold per village"
-msgstr "카르론(Karron)은 마을당 금화 $side_2.village_gold 개를 수입으로 얻을 것입니다"
+msgstr "카르론(Karron)은 마을마다 금화 $side_2.village_gold개를 수입으로 얻습니다."
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:239
 msgid "You must recruit one drake from each caste before recruiting any more"
-msgstr "각 계통에서 한 명씩 소집할 때까지 같은 계급에서 두 명을 고용할 수는 없습니다"
+msgstr "더 모집하기 전에 각 계층에서 반룡을 한 명씩 모집해야 합니다."
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:242
 msgid "No recalls are permitted"
-msgstr "다시 소집은 허용되지 않습니다"
+msgstr "소환은 허용되지 않습니다."
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:245
 msgid ""
 "Any drake you lose in combat will not be killed and may be recalled in "
 "future scenarios"
-msgstr "전투에서 잃어버린 반룡은 죽지 않고 이후 시나리오에서 다시 소집할 수 있습니다"
+msgstr "전투에서 잃은 반룡은 죽지 않으며 이후 시나리오에서 소환할 수 있습니다."
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:248
@@ -1626,7 +1626,7 @@ msgid ""
 "From now on, Gorlack will have loyal intendants from the fighter and clasher "
 "castes; if one dies, the next recalled drake of the same caste will replace "
 "it as long as that drake is level 2 or higher"
-msgstr "이제 고를락(Gorlack)은 싸우는 자와 충돌하는 자 계층의 충성스러운 부관을 가지게 될 것입니다. 만약 하나가 죽으면, 동일 계층의 다음 소환된 반룡이 레벨 2 이상이라면 그 반룡이 대신할 것입니다"
+msgstr "이제 고를락(Gorlack)은 싸우는 자와 충돌하는 자 계층의 충성스러운 부관을 거느립니다. 하나가 죽으면 같은 계층의 다음 소환된 반룡이 레벨 2 이상일 경우 그 반룡이 대신합니다."
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:260
@@ -1776,7 +1776,7 @@ msgstr "전쟁 갈퀴"
 msgid ""
 "The finest work of the Morogor forges, these steel claws increase the damage "
 "of the wearer’s melee attack."
-msgstr "모로고르(Morogor) 대장간들의 최고 작품인 이 강철 갈퀴는 착용자의 근거리 공격의 피해를 증가시킵니다."
+msgstr "모로고르(Morogor) 대장간의 최고 작품인 이 강철 갈퀴는 착용자의 근접 공격 피해를 증가시킵니다."
 
 #. [effect]
 #: data/campaigns/Winds_of_Fate/scenarios/03_The_Contention.cfg:498
@@ -1821,7 +1821,7 @@ msgid ""
 "Perhaps glider wisdom overlaps the many written Secrets your own caste wards."
 msgstr ""
 "... 당신이 활공하는 자들을 그렇게 존중하고 있다는걸 전혀 의심하지 못했습니다.\n"
-"당신이  ‘구전된 기억’을 들어본 적이 있다고는 생각하지 않았습니다.\n"
+"당신이 ‘구전된 기억’을 들어본 적이 있다고는 생각하지 않았습니다.\n"
 "\n"
 "어쩌면 활공하는 자의 지혜는 충돌자 계통이 지키는 기록된 비밀과 겹치는 것이 많을지도 모릅니다."
 
@@ -1842,7 +1842,7 @@ msgstr ""
 "\n"
 "하지만, 이것만은 말할 수 있다...\n"
 "\n"
-"그대가 그 활공하는 자를 제 1부관으로 삼은 것은 앞으로 기다리는 긴 여정에 있어서 좋은 선택이라는것을."
+"그대가 그 활공하는 자를 제1부관으로 삼은 것은 앞으로의 긴 여정을 위한 좋은 선택이라는 것을."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:50
@@ -1860,13 +1860,13 @@ msgstr ""
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:58
 msgid "<i>May your ancestors tread beside you.</i>"
-msgstr "<i>당신의 조상들이 당신 곁을 함께 걸을 수 있기를.</i>"
+msgstr "<i>그대의 조상들이 그대 곁을 함께 걸을 수 있기를.</i>"
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:63
 msgid ""
 "My Dominant Gorlack, your flight has assembled upon the eastern landing."
-msgstr "나의 지배하는 자 고를락(Gorlack)이여, 당신의 비행단이 동쪽 착륙지에 모였습니다."
+msgstr "나의 지배하는 자 고를락(Gorlack)이여, 그대의 비행단이 동쪽 착륙지에 모였습니다."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/03x_Final_Departure.cfg:68
@@ -1953,7 +1953,7 @@ msgstr ""
 "나는 그렇게 할 것이다.\n"
 "\n"
 "하지만 두려움은 떨쳐라, 말로 표현할 수 없을 정도의 힘이 우리에게는 있기 때문이다.\n"
-"너가 볼 수 있는 우리 마음 속의 힘.\n"
+"네가 볼 수 있는 우리 마음속의 힘.\n"
 "그것으로 우리는 거친 운명의 바람을 갈라버릴 것이다.\n"
 "그 자리에 우리가 만든 바람의 길이 남을 것이다."
 
@@ -2059,12 +2059,12 @@ msgstr "포세이라(Poseira)"
 #. [objective]: condition=win
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:152
 msgid "Hold all villages at the end of turn 18"
-msgstr "18 차례 종료 시 모든 마을을 점령하라"
+msgstr "18차례 종료 시 모든 마을을 점령하라"
 
 #. [objective]: condition=lose
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:156
 msgid "Not hold all villages at the end of turn 18"
-msgstr "18 차례 종료 시 모든 마을을 점령하지 못하면 패배한다"
+msgstr "18차례 종료 시 모든 마을을 점령하지 못하면 패배한다"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:171
@@ -2423,7 +2423,7 @@ msgstr "무슨 말이냐?"
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:596
 msgid ""
 "...... We have no need of your reef. We seek only the land above the sea."
-msgstr "...... 우리는 당신들의 암초가 필요 없습니다. 우리는 바다 위의 땅만 필요합니다."
+msgstr "...... 우리는 그대들의 암초가 필요 없습니다. 우리는 바다 위의 땅만 필요합니다."
 
 #. [message]: speaker=Shussek
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:564
@@ -2455,7 +2455,7 @@ msgstr "쓰쓰쓰!"
 msgid ""
 "All provisions are gathered; the flight is readied for departure, awaiting "
 "your command."
-msgstr "모든 보급품이 모였습니다. 비행단은 출발 준비를 마쳤고, 당신의 명령을 기다리고 있습니다."
+msgstr "모든 보급품이 모였습니다. 비행단은 출발 준비를 마쳤고, 그대의 명령을 기다리고 있습니다."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:679
@@ -2899,7 +2899,7 @@ msgid ""
 msgstr ""
 "...너희들은 단지 시간을 조금 벌었을 뿐이다...\n"
 "\n"
-"...엘렌세(Elense) 요새에 대한 너희들의 비겁한 공격에 대해선 도마뱀 족에게 자비는 없을 것이다...\n"
+"...엘렌세(Elense) 요새에 대한 너희들의 비겁한 공격에 대해선 사우리안들에게 자비는 없을 것이다...\n"
 "\n"
 "...너희들은 결코 국왕의 정의에서 벗어날 수 없을 것이다..."
 
@@ -2920,7 +2920,7 @@ msgid ""
 msgstr ""
 "...국왕께서는 필요한 일을 하셨고, 하늘의 아버지가 그를 축복하시길...\n"
 "\n"
-"...요정들은 그가 그들이 요구하는 일을 거부했다면 우리에게 피난처를 제공하지 않았을 것이다..."
+"...엘프들은 그가 그들이 요구하는 일을 거부했다면 우리에게 피난처를 제공하지 않았을 것이다..."
 
 #. [message]: speaker=Elyn
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:693
@@ -2971,14 +2971,14 @@ msgid ""
 msgstr ""
 "기록 72\n"
 "\n"
-"또 다른 물의 힘을 발견했다. 이곳, 세 자매의 섬들 깊은 곳에 있다. 할드릭(Haldric)이 그것을 고갈시키던 요정 험한 것들을 파괴한 지 3년밖에 되지 않았는데, 벌써 북쪽 해안에 큰 소용돌이가 형성되었다. 도깨비불이 그의 배를 쫓아내기 전에 탐색자 퍼스가 알두인(Alduin) 서쪽에서 발견한 소용돌이들과 같다.\n"
+"또 다른 물의 힘을 발견했다. 이곳, 세 자매의 섬들 깊은 곳에 있다. 할드릭(Haldric)이 그것을 고갈시키던 엘프 험한 것들을 파괴한 지 3년밖에 되지 않았는데, 벌써 북쪽 해안에 큰 소용돌이가 형성되었다. 도깨비불이 그의 배를 쫓아내기 전에 탐색자 퍼스가 알두인(Alduin) 서쪽에서 발견한 소용돌이들과 같다.\n"
 "\n"
-"정말로, 큰 대륙 전체를 따라 20리그(약 96.56km)마다 물의 힘이 있어야 한다. 모든 것이 탐색자 오틸라가 예측한 그대로다. 우리는 그녀를 초록섬에 남겨두지 말았어야 했다. 그녀의 연구 없이는 은빛 기사단이 이 대륙에서 인류가 무엇을 상대하고 있는지 알기까지 수 세기가 걸릴 수도 있다. 정령 세계는 우리가 상상했던 것보다 훨씬 강하다.\n"
+"정말로, 큰 대륙 전체를 따라 20리그(약 96.56km)마다 물의 힘이 있어야 한다. 모든 것이 탐색자 오틸라가 예측한 그대로다. 우리는 그녀를 초록섬에 남겨두지 말았어야 했다. 그녀의 연구 없이는 은빛 기사단이 이 대륙에서 인류가 무엇을 상대하고 있는지 알기까지 수 세기가 걸릴 수도 있다. 요정 세계는 우리가 상상했던 것보다 훨씬 강하다.\n"
 "\n"
 "\n"
-"——무언가 잘못되었다. 북서쪽 망루에서 경고 신호를 받고 남쪽 돌섬에서 연기가 피어오르고 있다. 린닌(Rhynnin)의 원정대가 공격을 받고 있으며, 단순한 도마뱀 족 이상의 것이 있다고 느낀다. 나는 지원을 가야 한다.\n"
+"——무언가 잘못되었다. 북서쪽 망루에서 경고 신호를 받고 남쪽 돌섬에서 연기가 피어오르고 있다. 린닌(Rhynnin)의 원정대가 공격을 받고 있으며, 단순한 사우리안들 이상의 것이 있다고 느낀다. 나는 지원을 가야 한다.\n"
 "\n"
-"이 기록을 해독할 시간이 없고, 알 수 없는 적에게 붙잡힐 위험을 무릅쓰고 기록서를 가져갈 수도 없다. 하지만 나는 그것을 파괴하지 않을 것이다. 은빛 기사단의 비밀따위 저주나 쳐 받아라. 바다가 이 책을 엘렌세(Elense) 요새로 운반하여 누군가가 여기서 발견된 것을 알게 되기를 바란다."
+"이 기록을 해독할 시간이 없고, 알 수 없는 적에게 붙잡힐 위험을 무릅쓰고 기록서를 가져갈 수도 없다. 하지만 나는 그것을 파괴하지 않을 것이다. 은빛 기사단의 비밀 따위 저주나 받아라. 바다가 이 책을 엘렌세(Elense) 요새로 운반하여 누군가가 여기서 발견된 것을 알게 되기를 바란다."
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:749
@@ -3049,7 +3049,7 @@ msgstr "자세히 말하라."
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:812
 msgid "This is a <i>living mist</i>, a creature of the Faerie."
-msgstr "이것은 정령계의 생명체인 <i>살아 있는 안개</i>에요."
+msgstr "이것은 요정계의 생명체인 <i>살아 있는 안개</i>에요."
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:816
@@ -3150,7 +3150,7 @@ msgstr "그들은 너무 일찍 도착했다..."
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:37
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:63
 msgid "Drakes"
-msgstr "반룡족"
+msgstr "반룡들"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:137
@@ -3179,7 +3179,7 @@ msgstr ""
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:153
 msgid "Vladnir will not last with <b>no</b> ally by his side."
-msgstr "블라드니르(Vladnir)는 옆에  동맹이 <b>없이는</b> 오래 버티지 못할 것이다."
+msgstr "블라드니르(Vladnir)는 곁에 동맹이 <b>없으면</b> 오래 버티지 못할 것이다."
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:157
@@ -3230,7 +3230,7 @@ msgstr "정말로, 저는 우리 부족의 장로입니다. 떠도는 별들이 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:195
 msgid "They are ‘saurians’."
-msgstr "그들은 ‘도마뱀족’입니다."
+msgstr "그들은 ‘사우리안들’입니다."
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:199
@@ -3277,7 +3277,7 @@ msgstr ""
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:239
 msgid "You sssaw Demon King?! You sssssaw <b>The Haldric</b>?"
-msgstr "당신이 악마 왕을 봤나요?! 스스스 당신이 <b>할드릭(Haldric)</b>을 봤다는겁니까? 스스스 "
+msgstr "당신이 악마 왕을 봤나요?! 스스스, 당신이 <b>할드릭(Haldric)</b>을 봤다는 겁니까? 스스스"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:243
@@ -3507,7 +3507,7 @@ msgid ""
 msgstr ""
 "누구든 봉화대로 이동시켜 증원군을 호출하십시오:\n"
 "서쪽에서 공격하는 베테랑 반룡을 거느린 카르론(Karron)\n"
-"북쪽에서 공격하는 도마뱀족\n"
+"북쪽에서 공격하는 사우리안들\n"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:161
@@ -3517,7 +3517,7 @@ msgstr "충돌하는 자들은 다시 모집하고 소환할 수 있다"
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:164
 msgid "Saurians can be recruited and recalled now"
-msgstr "도마뱀족은 이제 모집하고 소환할 수 있습니다"
+msgstr "사우리안들은 이제 모집하고 소환할 수 있습니다"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:187
@@ -3664,7 +3664,7 @@ msgid ""
 "Fort Elenssse burns, gone forever! My hatchplace is free and my people can "
 "return to live here again. Sssaurian Empire will lassst thirteen millennia "
 "more!"
-msgstr "엘렌세 요새가 불타고 영원히 사라졌다! 내 부화한 곳이 해방되었고 내 백성들이 다시 이곳에 와서 살 수 있다. 도마뱀 제국은 앞으로 1만 3천 년 동안 지속될 것이다!"
+msgstr "엘렌세 요새가 불타고 영원히 사라졌다! 내 부화한 곳이 해방되었고 내 백성들이 다시 이곳에 와서 살 수 있다. 사우리안 제국은 앞으로 1만 3천 년 동안 지속될 것이다!"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/06_Landfall.cfg:431
@@ -3732,7 +3732,7 @@ msgid ""
 "\n"
 "Elves of Wesssmere, your time has come!"
 msgstr ""
-"이 인간들이 죽으니 내 동족 자매들의 영혼이 약간의 평화를 느끼는군... 스스스 하지만 인간들은 요정들의 용병일 뿐이었어 스스스, 그래 스스스, 엘프들은 여전히 대가를 치러야 해... 스스스\n"
+"이 인간들이 죽으니 내 동족 자매들의 영혼이 약간의 평화를 느끼는군... 스스스 하지만 인간들은 엘프들의 용병일 뿐이었어 스스스, 그래 스스스, 엘프들은 여전히 대가를 치러야 해... 스스스\n"
 "\n"
 "웨스미어의 엘프들이여 스스스, 이젠 너희들의 시간이 왔다!"
 
@@ -3768,7 +3768,7 @@ msgstr ""
 "그렇게 되어서는 안 됩니다.\n"
 "지금도 그들을 위한 보급품이 부족합니다.\n"
 "\n"
-"게다가 우리 도마뱀족들은 대륙을 괴롭히는 끔찍한 계절이 있다고 말합니다.\n"
+"게다가 우리 사우리안들은 대륙을 괴롭히는 끔찍한 계절이 있다고 말합니다.\n"
 "많은 지역이 높은 산봉우리처럼 추워질 것입니다.\n"
 "이 추위는 몇 달 동안 지속됩니다."
 
@@ -3850,7 +3850,7 @@ msgid ""
 "\n"
 "No Ancestor would mistake such simple <i>prey</i> for an ally."
 msgstr ""
-"그렇다면 너의 걱정은 적절했다. 나는 지금도 너를을 믿지 않기 때문이다.\n"
+"그렇다면 너의 걱정은 적절했다. 나는 지금도 너를 믿지 않기 때문이다.\n"
 "\n"
 "평원의 키 큰 풀을 뜯어먹고, \n"
 "짐승들을 속여 그들을 태우고 다니고, \n"
@@ -3876,7 +3876,7 @@ msgstr ""
 "\n"
 "반룡은 한때 필요할 때 많은 고귀한 생명체들을 동맹으로 여겼어요. 날쌘 발, 반룡의 혈통, 장인들, 큰 뱀들, 마법사들. \n"
 "\n"
-"마찬가지로 끔찍한 본성을 가진 자들도 있었습니다. 무리, 거인족... 정령. \n"
+"마찬가지로 끔찍한 본성을 가진 자들도 있었습니다. 무리, 거인족... 요정. \n"
 "저는 이 종족 중 하나가 오래전에 우리 민족을 이 대륙에서 쓸어버린 자들이라고 생각합니다."
 
 #. [part]
@@ -4106,7 +4106,7 @@ msgstr "지배하는 자 고를락(Gorlack)은 웨스미어(Wesmere)로 가는 �
 msgid ""
 "A deep green swamp offered adequate game. Yet the saurian Arinexis urged him "
 "on to the much fatter prize that lay just ahead..."
-msgstr "짙은 녹색 늪은 적절한 사냥감을 제공했다. 그러나 도마뱀족인 아리넥시스(Arinexis)는 그에게 바로 앞에 놓인 훨씬 더 큰 보상을 향해 나아가도록 촉구했다..."
+msgstr "짙은 녹색 늪은 적절한 사냥감을 제공했다. 그러나 사우리안인 아리넥시스(Arinexis)는 그에게 바로 앞에 놓인 훨씬 더 큰 보상을 향해 나아가도록 촉구했다..."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:26
@@ -4114,7 +4114,7 @@ msgid ""
 "For in the cold Jungle of Wesmere dwelt a great herd of a new prey–kind. "
 "Arinexis spoke of these ‘elves’ as dull witted with a capricious heart, the "
 "consequences of remaining too long within their stale realm."
-msgstr "웨스미어(Wesmere)의 차가운 정글에는 새로운 먹잇감 종류의 큰 무리가 살고 있었다. 아리넥시스(Arinexis)는 이 ‘요정들’을 둔하고 변덕스러운 마음을 가진, 그들의 낡은 영역에 너무 오래 머문 결과라고 말했다."
+msgstr "웨스미어(Wesmere)의 차가운 정글에는 새로운 먹잇감 종류의 큰 무리가 살고 있었다. 아리넥시스(Arinexis)는 이 ‘엘프들’을 둔하고 변덕스러운 마음을 가진, 그들의 낡은 영역에 너무 오래 머문 결과라고 말했다."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:30
@@ -4231,12 +4231,12 @@ msgstr "공주님, 제발 또 다시 위험에 빠지지 마십시오!"
 msgid ""
 "Be silent, Vonel. For I am no mere “princess” awaiting your salvation; I am "
 "a Lady of Wesmere!"
-msgstr "조용히 하세요, 보넬(Vonel). 저는 당신의 구원을 기다리는 단순한  “공주” 가 아니라 웨스미어(Wesmere)의 숙녀라고요!"
+msgstr "조용히 하세요, 보넬(Vonel). 저는 네 구원을 기다리는 단순한 “공주”가 아니라 웨스미어(Wesmere)의 숙녀라고요!"
 
 #. [message]: speaker=Vonel
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:312
 msgid "<small><i>you will always be a princess to me...</i></small>"
-msgstr "<small><i>당신은 언제나 저에게 공주님이에요...</i></small>"
+msgstr "<small><i>너는 언제나 저에게 공주님이에요...</i></small>"
 
 #. [message]: speaker=Salennea
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:318
@@ -4244,7 +4244,7 @@ msgid ""
 "Your beastly sinews and steel tools of death do not impress me, Vonel, for "
 "my witful tongue and virtuous conscience are more than protection enough in "
 "any case I may find myself."
-msgstr "당신의 야만적인 힘줄과 강철로 만든 죽음의 도구는 저에게 감명을 주지 못해요, 보넬(Vonel). 너의 재치 있는 혀와 고결한 양심은 제가 처할 수 있는 어떤 상황에서도 충분한 보호가 되기 때문이에요."
+msgstr "네 야만적인 힘줄과 강철로 만든 죽음의 도구는 저에게 감명을 주지 못해요, 보넬(Vonel). 너의 재치 있는 혀와 고결한 양심은 제가 처할 수 있는 어떤 상황에서도 충분한 보호가 되기 때문이에요."
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:322
@@ -4282,7 +4282,7 @@ msgid ""
 msgstr ""
 "아, “정의로운 살레네아(Salennea)”. 이 칭호를 제 기존의 긴 칭호 목록에 추가해야겠군요...\n"
 "\n"
-"“현명한 숙녀 살레네아(Salennea), 정의로운 자, 얼음의 사파이어를 휘두르는 자, 나모들을 포용하는 자, 오크들에게 자비로운 자, 카—의 수호자"
+"“현명한 숙녀 살레네아(Salennea), 정의로운 자, 얼음의 사파이어를 휘두르는 자, 워즈들(Woses)을 포용하는 자, 오크들에게 자비로운 자, 카—의 수호자"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:346
@@ -4507,7 +4507,7 @@ msgid ""
 msgstr ""
 "잎이 떨어지는달 31일\n"
 "\n"
-"...저 도마뱀족은 그들이 기어 나오는 늪의 냄새가 날지 모르지만, 바나르에게 합당한 희생이 될 거야! 나는 도마뱀족 대사 아리넥시스(Arinexis), 또는 그들의 원시적이고 악취가 나는 종족 사이에서 통하는 것을 공식적으로 초대했어. 나는 이 도마뱀족과 그 수행원들에게 모든 예의를 갖추고 요정 요리의 모든 즐거움으로 유혹할 거야— 주목(붉은껍질나무)을 깎은 조각으로 맛을 낸..."
+"...저 사우리안들은 그들이 기어 나오는 늪의 냄새가 날지 모르지만, 바나르에게 합당한 희생이 될 거야! 나는 사우리안 대사 아리넥시스(Arinexis), 또는 그들의 원시적이고 악취가 나는 종족 사이에서 통하는 것을 공식적으로 초대했어. 나는 이 사우리안과 그 수행원들에게 모든 예의를 갖추고 엘프 요리의 모든 즐거움으로 유혹할 거야— 주목(붉은껍질나무)을 깎은 조각으로 맛을 낸..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:511
@@ -4521,14 +4521,14 @@ msgstr "이 나무는 어떤 종류의 동물들이 반복적으로 긁어서 �
 msgid ""
 "Might I tempt you with some of the finest floral refreshments of elvish "
 "cuisine?"
-msgstr "엘프 요리의 최고급 꽃 음료로 당신을 유혹해도 될까요?"
+msgstr "엘프 요리의 최고급 꽃 음료로 그대를 유혹해도 될까요?"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:530
 msgid ""
 "Sssalennea, has your Ka’lian ruled to formally apologize to our Sssaurian "
 "Empire for sssetting loossse your human minions upon usssss?"
-msgstr "살레네아, 당신의 카리안은 당신들의 인간 하수인들을 우리에게 풀어놓은 것에 대해 우리 도마뱀 제국에 공식적으로 사과하기로 결정했나요?"
+msgstr "살레네아, 그대의 카리안은 그대들의 인간 하수인들을 우리에게 풀어놓은 것에 대해 우리 사우리안 제국에 공식적으로 사과하기로 결정했나요?"
 
 #. [message]: speaker=Salennea
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:536
@@ -4540,7 +4540,7 @@ msgid ""
 msgstr ""
 "카리안은 어떠한 개입도 확인도 부인도 하지 않아요.\n"
 "\n"
-"우리 웨스미어(Wesmere)의 요정들은 이 문제에서 벗어났고, 당신들도 그러기를 바래요!"
+"우리 웨스미어(Wesmere)의 엘프들은 이 문제에서 벗어났고, 당신들도 그러기를 바래요!"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:542
@@ -4686,12 +4686,12 @@ msgstr "노바(Nova)의 화신"
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:107
 msgid "Elves"
-msgstr "엘프족"
+msgstr "엘프들"
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:135
 msgid "Woses"
-msgstr "나모들"
+msgstr "워즈들(Woses)"
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:151
@@ -4800,7 +4800,7 @@ msgid ""
 "A full host of them now pursues us here.\n"
 "We must retreat to the eyrie with all haste."
 msgstr ""
-"밀림은 요정들의 실제 수를 숨겼어요.\n"
+"밀림은 엘프들의 실제 수를 숨겼어요.\n"
 "우리의 자존심이 그들의 실제 힘을 숨겼듯이.\n"
 "\n"
 "그들의 전체 군세가 지금 우리를 쫓아오고 있어요.\n"
@@ -4933,15 +4933,15 @@ msgstr ""
 "\n"
 "작업 368째해, 7번째 달\n"
 "\n"
-"그놈의 요정들이 다시 버섯 농장에 와서 그들의 화려한 언어로 얼라들에게 멍청한 협박을 하고 있었다. 우리가 버섯에게 먹일 나무를 더 모으면 공격할 것이라고 말했다. 소나무라도 상관없다!\n"
+"그놈의 엘프들이 다시 버섯 농장에 와서 그들의 화려한 언어로 얼라들에게 멍청한 협박을 하고 있었다. 우리가 버섯에게 먹일 나무를 더 모으면 공격할 것이라고 말했다. 소나무라도 상관없다!\n"
 "\n"
-"아이들이 지금은 그 요정들을 막기 위해 문을 세웠다.\n"
+"아이들이 지금은 그 엘프들을 막기 위해 문을 세웠다.\n"
 "\n"
-"그들이 우리가 감당할 수 없는 군대를 데리고 돌아온다면, 우리는 하중 벽 주변에 화약 통을 가지고 있다. 그 요정들은 그들의 귀여운 “마법”에 너무 감탄한다— 난쟁이의 기술이 작동하는 것을 볼 때 그들의 얼굴 표정을 생각해 보라!\n"
+"그들이 우리가 감당할 수 없는 군대를 데리고 돌아온다면, 우리는 하중 벽 주변에 화약 통을 가지고 있다. 그 엘프들은 그들의 귀여운 “마법”에 너무 감탄한다— 드워프의 기술이 작동하는 것을 볼 때 그들의 얼굴 표정을 생각해 보라!\n"
 "\n"
-"하지만 우리 벌목꾼들은 요정들이 그들을 깎아내지 않고는 숲에서 더 이상 버섯 사료를 수확할 수 없고, 자철광 광산은 거의 광맥 끝에 다다랐다.\n"
+"하지만 우리 벌목꾼들은 엘프들이 그들을 깎아내지 않고는 숲에서 더 이상 버섯 사료를 수확할 수 없고, 자철광 광산은 거의 광맥 끝에 다다랐다.\n"
 "\n"
-"어쩌면 이 동굴을 그 이상한 “노바(Nova)” 생물에게 팔아야 할지도 모르겠다. 그게 무엇이든 상관없다. 요정들이 다시 돌아온다면 그들이 처리할 수 있을 것이다."
+"어쩌면 이 동굴을 그 이상한 “노바(Nova)” 생물에게 팔아야 할지도 모르겠다. 그게 무엇이든 상관없다. 엘프들이 다시 돌아온다면 그들이 처리할 수 있을 것이다."
 
 #. [message]: speaker=Avatar of Nova
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:551
@@ -4951,7 +4951,7 @@ msgstr "다시 너냐, 크흐라크라흐스?"
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:555
 msgid "It is to his ssstronger brother, Shek’kahan, that you ssspeak!"
-msgstr "당신은 그의 더 강한 형제, 셰크카한에게 말하고 있는 것이오! 쓰쓰쓰."
+msgstr "그대는 그의 더 강한 형제, 셰크카한에게 말하고 있는 것이오! 쓰쓰쓰."
 
 #. [message]: speaker=Avatar of Nova
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:561
@@ -4997,10 +4997,10 @@ msgid ""
 msgstr ""
 "잠깐... 당신들 뒤에 있는 것은 뭐지?\n"
 "\n"
-"<i>정령</i> 생명체들이 당신들을 따라왔군...\n"
+"<i>요정</i> 생명체들이 당신들을 따라왔군...\n"
 "\n"
 "그들이 더 가까이 오면 <b><u>그것</u></b>이 여기서 만들어진 것을 보게 될 것이오.\n"
-"정령 세계는 변형시킨 모든 단순한 존재들의 감각을 통해 보고 느끼오. 만약 그것이 이 초기 단계에서 내 작업을 잠깐이라도 본다면, 우리는 그것에 맞설 우리 세계의 최고의 희망을 잃을 수도 있소."
+"요정 세계는 변형시킨 모든 단순한 존재들의 감각을 통해 보고 느끼오. 만약 그것이 이 초기 단계에서 내 작업을 잠깐이라도 본다면, 우리는 그것에 맞설 우리 세계의 최고의 희망을 잃을 수도 있소."
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:590
@@ -5011,9 +5011,9 @@ msgid ""
 "That is a fearsome word known from even our oldest Memories.\n"
 "Tell us its full meaning."
 msgstr ""
-"정령이라니...\n"
+"요정이라니...\n"
 "\n"
-"우리를 쫓는 것들이 ‘정령’이라고 했죠.\n"
+"우리를 쫓는 것들이 ‘요정’이라고 했죠.\n"
 "그것은 우리의 가장 오래된 기억에서도 알려진 무시무시한 단어입니다.\n"
 "그것의 완전한 의미를 말해주세요."
 
@@ -5063,7 +5063,7 @@ msgid ""
 msgstr ""
 "멈춰!\n"
 "\n"
-"나는 이 정령 생명체들이 이곳의 진정한 본질을 보지 못하도록 주문을 걸기 위해 거의 모든 집중력을 사용하고 있지. 동시에 용들의 군단을 물리칠 수는 없다고!\n"
+"나는 이 요정 생명체들이 이곳의 진정한 본질을 보지 못하도록 주문을 걸기 위해 거의 모든 집중력을 사용하고 있지. 동시에 용들의 군단을 물리칠 수는 없다고!\n"
 "\n"
 "당신들은 내 창조물의 비밀을 지키기 위해 그것을 파괴하는 것 외에는 선택의 여지를 남기지 않았소."
 
@@ -5144,7 +5144,7 @@ msgstr "뼈를 먼저 태우거나 부수거나 먹지 않으면 그렇습니다
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:743
 msgid "Nay. Gorlack, I shall not depart this cave before you!"
-msgstr "안 돼요. 고를락(Gorlack), 당신보다 먼저 이 동굴을 떠나지 않겠어요!"
+msgstr "안 돼요. 고를락(Gorlack), 그대보다 먼저 이 동굴을 떠나지 않겠어요!"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:757
@@ -5153,7 +5153,7 @@ msgid ""
 "\n"
 "Yet I shall not forsake them to such a place as this."
 msgstr ""
-"저 두 도마뱀족은 속도를 맞추지 못하는군...\n"
+"저 두 사우리안은 속도를 맞추지 못하는군...\n"
 "\n"
 "하지만 이런 곳에 그들을 버릴 수는 없다."
 
@@ -5448,7 +5448,7 @@ msgstr "가짜라고?!\n\n나는 초록 늪 씨족의 장로이고, 셰크카한
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:502
 msgid ""
 "If you do not sssee this is Shek’kahan... then impossster is <b>you</b>!"
-msgstr "만약 당신이 그가 셰크카한이라는 것을 알아보지 못한다면...  쓰쓰쓰.사기꾼은 바로 <b>당신</b>이오! 쓰쓰쓰."
+msgstr "만약 당신이 그가 셰크카한이라는 것을 알아보지 못한다면... 쓰쓰쓰. 사기꾼은 바로 <b>당신</b>이오! 쓰쓰쓰."
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:506
@@ -5460,7 +5460,7 @@ msgstr "제드릭스(Zedrix), 너무 많이 말하지 마시오! 잡아먹힐 �
 msgid ""
 "You are bold indeed, little saurian. What you have told me is false, yet a "
 "mere liar could not speak so bravely before a dragon."
-msgstr "정말 대담하군, 작은 도마뱀족. 네가 한 말은 거짓이지만, 단순한 거짓말쟁이라면 용 앞에서 그렇게 용감하게 말할 수 없을 것이다."
+msgstr "정말 대담하군, 작은 사우리안. 네가 한 말은 거짓이지만, 단순한 거짓말쟁이라면 용 앞에서 그렇게 용감하게 말할 수 없을 것이다."
 
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:518
@@ -5543,7 +5543,7 @@ msgid ""
 "Gorlack secluded himself to a small abode atop the highest peak within sight "
 "of camp. There he remained in deep contemplation. Each day, the saurian "
 "Zedrix trekked up the peak to bring his dragon sustenance."
-msgstr "고를락(Gorlack)은 야영지가 보이는 가장 높은 봉우리 꼭대기의 작은 거처에 틀어박혔다. 그는 그곳에서 깊은 명상에 잠겼다. 매일같이 도마뱀족 제드릭스(Zedrix)는 용에게 먹이를 가져다주기 위해 산봉우리를 올랐다."
+msgstr "고를락(Gorlack)은 야영지가 보이는 가장 높은 봉우리 꼭대기의 작은 거처에 틀어박혔다. 그는 그곳에서 깊은 명상에 잠겼다. 매일같이 사우리안 제드릭스(Zedrix)는 용에게 먹이를 가져다주기 위해 산봉우리를 올랐다."
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:72
@@ -5575,7 +5575,7 @@ msgstr "새로운 보금자리는 마을 수입과 지원을 두 배로 늘리�
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:314
 msgid "Dwarves will emerge from their tunnels every wave"
-msgstr "난쟁이들은 매 파도마다 터널에서 나옵니다"
+msgstr "드워프들은 매 파도마다 터널에서 나옵니다"
 
 #. [note]
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:317
@@ -5662,7 +5662,7 @@ msgstr ""
 "\n"
 "<i>내 친구를 죽도록 내버려 둬.</i>\n"
 "\n"
-"그것은 내 마음에 낯선 열정을 다시 불타올랐다.\n"
+"내 마음에 낯선 열정이 다시 타올랐다.\n"
 "나는 내 친구를 구하기 위해 무엇이든 할 것이다.\n"
 "나는 그녀를 구할 수단을 위해 온 세상이 불타오르는 것을 느꼈다."
 
@@ -5708,7 +5708,7 @@ msgstr ""
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:405
 msgid "You shunned Resha’s fears too."
-msgstr "당신은 레샤(Resha)의 두려움도 피했죠."
+msgstr "그대는 레샤(Resha)의 두려움도 피했죠."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:409
@@ -5724,7 +5724,7 @@ msgid ""
 msgstr ""
 "하지만 그녀의 마음은 용감했습니다.\n"
 "\n"
-"당신에 대한 그녀의 두려움이 그렇게 만들었습니다."
+"그대에 대한 그녀의 두려움이 그렇게 만들었습니다."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:419
@@ -5734,7 +5734,7 @@ msgstr "...... 그랬지."
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:423
 msgid "Your fear for her made you brave."
-msgstr "당신이 그녀를 두려워했기 때문에 용감해진 겁니다."
+msgstr "그대가 그녀를 두려워했기 때문에 용감해진 겁니다."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:427
@@ -5746,7 +5746,7 @@ msgstr "버려진 창이 나를 용감하게 만들었지."
 msgid ""
 "That ssspear was your means to sssave your friend. It appeared <b>as</b> you "
 "feared for her. Because you did."
-msgstr "그 창은 당신의 친구를 구할 수단이었습니다. 당신이 그녀를 두려워했을 때 <b>그렇게</b> 나타났습니다. 당신이 두려워했기 때문입니다."
+msgstr "그 창은 그대의 친구를 구할 수단이었습니다. 그대가 그녀를 두려워했을 때 <b>그렇게</b> 나타났습니다. 그대가 두려워했기 때문입니다."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:435
@@ -5950,7 +5950,7 @@ msgstr ""
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:796
 msgid "My friend, I am once again in your debt."
-msgstr "내 친구, 다시 한 번 당신에게 빚을 졌어요."
+msgstr "내 친구, 다시 한 번 그대에게 빚을 졌어요."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:802
@@ -6097,7 +6097,7 @@ msgstr ""
 "\n"
 "유배된 조상들처럼 우리는 가장 짧은 길을 따라 자랑스럽게 날아오르오.\n"
 "우리는 우리 앞에 있는 모든 생명체를, 심지어 서로를 베어 넘기오.\n"
-"우리는 고대의 적들—군단, 거인, 정령... 반룡—중 하나가 되오.\n"
+"우리는 고대의 적들—군단, 거인, 요정... 반룡—중 하나가 되오.\n"
 "우리 앞에 있었던 모로고르(Morogor) 지배하는 자처럼 패배에 놀랄 때까지 말이오.\n"
 "우리가 모든 두려움을 피하기 때문이오.\n"
 "\n"
@@ -6254,7 +6254,7 @@ msgstr "어떤 경우든 카르론(Karron)을 과소평가해서는 안 되오."
 msgid ""
 "Karron, you are only dragon left with ssscales. I choose to rejoin your "
 "hunt. Many of usss will follow you."
-msgstr "카르론(Karron), 당신은 비늘이 있는 유일한 용입니다. 쓰쓰쓰. 저는 당신의 사냥에 다시 참여하기로 선택했습니다. 우리 중 많은 이들이 당신을 따를 것입니다. 쓰쓰쓰."
+msgstr "카르론(Karron), 그대는 비늘이 있는 유일한 용입니다. 쓰쓰쓰. 저는 그대의 사냥에 다시 참여하기로 했습니다. 우리 중 많은 이들이 그대를 따를 것입니다. 쓰쓰쓰."
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:410
@@ -6304,7 +6304,7 @@ msgstr "초록이, <i>거기</i> 있었군."
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:453
 msgid "It is I, Ancient One. I ssseek your help."
-msgstr "접니다, 고대인이여. 당신의 도움이 필요합니다."
+msgstr "접니다, 고대인이여. 그대의 도움이 필요합니다."
 
 #. [message]: speaker=Reks
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:457
@@ -6320,12 +6320,12 @@ msgid ""
 msgstr ""
 "슈섹, 안녕하시오.\n"
 "\n"
-"당신이 그토록 탐냈던 얕은 곳에서 이상하게 멀리 날아왔군요."
+"그대가 그토록 탐냈던 얕은 곳에서 이상하게 멀리 날아왔군요."
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:485
 msgid "...... You are far from your reef."
-msgstr "...... 당신은 당신의 암초에서 멀리 떨어져 있군요."
+msgstr "...... 그대는 그대의 암초에서 멀리 떨어져 있군요."
 
 #. [message]: speaker=Shussek
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:491
@@ -6346,7 +6346,7 @@ msgstr "이게 무슨 의미지쓰쓰?!"
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:514
 msgid ""
 "By dance of wandering ssstars, you look not one day over ssseven, old friend."
-msgstr "떠도는 별들의 춤으로 보아, 오랜 친구여, 당신은 일곱 살도 넘어 보이지 않소."
+msgstr "떠도는 별들의 춤으로 보아, 오랜 친구여, 그대는 일곱 살도 넘어 보이지 않소."
 
 #. [message]: speaker=Xatra
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:520
@@ -6412,17 +6412,17 @@ msgid ""
 msgstr ""
 "― 파라파토스의 강하 ―\n"
 "\n"
-"동굴 입구에서 파라파토스는 전투가 암울한 국면으로 접어드는 것을 목격했다. 그의 날개가 <i>물의 요정들</i>과 싸우는 동안, 수정해 위로 굴러가는 폭풍 구름에서 살아 있는 <i>안개</i>가 내려왔다. 이 영적인 생물은 <i>주문술사들</i>의 렌반(Lenvan)이 경고했던 것처럼 거대했다. 거대한 <i>안개</i>는 정령의 생물과 결투하기 위해 굳건히 서 있던 지배하는 자 모로고르(Morogor)에게 곧장 날아갔다.\n"
+"동굴 입구에서 파라파토스는 전투가 암울한 국면으로 접어드는 것을 목격했다. 그의 날개가 <i>물의 요정들</i>과 싸우는 동안, 수정해 위로 굴러가는 폭풍 구름에서 살아 있는 <i>안개</i>가 내려왔다. 이 영적인 생물은 <i>주문술사들</i>의 렌반(Lenvan)이 경고했던 것처럼 거대했다. 거대한 <i>안개</i>는 요정 생물과 결투하기 위해 굳건히 서 있던 지배하는 자 모로고르(Morogor)에게 곧장 날아갔다.\n"
 "\n"
 "차가워진 마음으로 파라파토스는 지하 세계로의 탐험을 재개했고, 친구들의 생명을 전투의 운명에 맡겼다. 그는 싸우는 자가 혈통의 명예로운 짐을 이토록 원망한 적이 없었다. 그것이 아니었다면 그는 남아 그들을 위해 싸울 수 있었을 것이다.\n"
 "\n"
-"파라파토스가 동굴을 내려가는 동안 전투의 메아리는 침묵 속으로 사라졌다. 날카로운 수정이 벽에서 튀어나왔다. 그러자 동굴은 미로 같은 복도로 갈라졌다. 파라파토스가 찾던 <i>공예인족들</i>은 정령 생물들이 이르디아의 심장부로 몰아넣기 전에 이 복도를 팠다. 이제 그는 그들이 남긴 미로에서 길을 잃었다.\n"
+"파라파토스가 동굴을 내려가는 동안 전투의 메아리는 침묵 속으로 사라졌다. 날카로운 수정이 벽에서 튀어나왔다. 그러자 동굴은 미로 같은 복도로 갈라졌다. 파라파토스가 찾던 <i>공예인족들</i>은 요정 생물들이 이르디아의 심장부로 몰아넣기 전에 이 복도를 팠다. 이제 그는 그들이 남긴 미로에서 길을 잃었다.\n"
 "\n"
 "멀리서 파라파토스는 <i>돌인족</i>의 무거운 발소리를 들었다. 그는 그들이 명상의 방으로 내려가는 동안 며칠 동안 그들을 따라갔다. 그들은 그곳에서 완전히 멈춰 방 중앙을 중심으로 엄숙하게 원을 그리며 서 있었다. 이곳은 세상의 밑바닥인 것 같았지만, 이곳에는 <i>공예인족</i> 성소가 없었다. 아마도 그들은 위트웨가나가 두려워했던 것처럼 모두 죽었을 것이다.\n"
 "\n"
 "그러나 수정 바닥에서 희미한 소리가 들려왔다. 그것은 <i>공예인족</i> 도구 작업의 리듬을 가지고 있었다. 실제로 그들의 성소는 살아남았다. 그것은 바로 그의 아래에 있었다. 바닥을 부수자 거대한 정동석 안에 보호된 전체 영역이 아래에 드러났다. 파라파토스는 갑옷을 버리고 날개를 펼친 다음 틈새로 뛰어들었다.\n"
 "\n"
-"활강하는 동안 그는 전설 시대 이후 우리 동포가 잃어버린 많은 경이로움을 보았다. 이 영역은 <i>공예인족</i>이 금속으로 만든 수많은 생물로 살아 숨 쉬고 있었다. 감시 장소는 탑 위에 있지 않았다. 대신 공중에 떠 있는 거대한 거품에 매달려 있었다. 가장 이상한 것은 이 영역에 빛을 주는 많은 횃불이 불꽃 없이 빛을 냈다는 것이다. 이것은 정령과의 전쟁을 전환하기 위해 우리 동포에게 필요한 동맹이었다.\n"
+"활강하는 동안 그는 전설 시대 이후 우리 동포가 잃어버린 많은 경이로움을 보았다. 이 영역은 <i>공예인족</i>이 금속으로 만든 수많은 생물로 살아 숨 쉬고 있었다. 감시 장소는 탑 위에 있지 않았다. 대신 공중에 떠 있는 거대한 거품에 매달려 있었다. 가장 이상한 것은 이 영역에 빛을 주는 많은 횃불이 불꽃 없이 빛을 냈다는 것이다. 이것은 요정과의 전쟁을 뒤집기 위해 우리 동포에게 필요한 동맹이었다.\n"
 "\n"
 "― 격변의 시대 64세기 ―"
 
@@ -6615,7 +6615,7 @@ msgid ""
 "In this Great Contention that will take a thousand years."
 msgstr ""
 "우리는 이 땅의 고귀한 생명체들 중에서 동맹이 필요할 것이오. \n"
-"우리의 온화한 도마뱀족들처럼 말이오.\n"
+"우리의 온화한 사우리안들처럼 말이오.\n"
 "이제 우리가 협정을 맺은 심층 거주자들도 마찬가지요.\n"
 "\n"
 "우리의 모든 움직임은 승리를 위한 더 큰 계획의 일부가 되어야 하오.\n"
@@ -6716,7 +6716,7 @@ msgid ""
 "deadly cunning. Soon, whole flights fell to their own prey. Others were "
 "scattered far across the Greatland as more poured over from Morogor to "
 "supplant them."
-msgstr "수많은 반룡들이 모로고르(Morogor)에서 몰려와 그들의 필요로 대륙을 불태웠다. 그들의 사냥에서 살아남은 생명체들은 치명적인 교활함을 가진 거대한 군세를 형성했다. 곧, 전체 비행단이 그들 자신의 먹잇감에게 쓰러졌다. 다른 비행단들은 모로고르(Morogor)에서 더 많은 반룡들이 몰려와 그들을 대체하면서 큰 땅 전체에 흩어졌다."
+msgstr "수많은 반룡들이 모로고르(Morogor)에서 몰려와 생존을 위해 대륙을 불태웠다. 사냥에서 살아남은 생명체들은 치명적인 교활함을 지닌 거대한 무리를 이루었다. 곧 비행단 전체가 자신들이 사냥하던 먹잇감에게 쓰러졌다. 모로고르(Morogor)에서 더 많은 반룡들이 몰려와 그들을 대신하자, 다른 비행단들은 대륙 곳곳으로 흩어졌다."
 
 #. [part]
 #. Future generations of drakes will argue over Gorlack’s real intentions. He diverts a thirst for victory into a time of peace, which would fit if his real intention is to create a lasting peace, but would also fit if the real intention is to bide time to prepare for war. As he’s the main player character, it's left to the player's imagination to read the meaning that they want.
@@ -6728,14 +6728,14 @@ msgid ""
 "spoke with an honest tongue, that respected the domain of another, that "
 "obeyed our Ways... might not be taken as prey. Such creatures would be "
 "justly feared as fellow contenders for world dominance."
-msgstr "대부분이 사냥에 지쳐갈 때, 지배하는 자 고를락(Gorlack)은 모든 비행단을 그의 선리치 봉우리 높은 곳에 모이는 회의로 소환했습니다. 그곳에서 그는 그들에게 새로운 바람길, <b>위대한 경쟁</b>을 공유했다. 그 지혜에 따르면, 정직한 혀로 말하고, 다른 이의 영역을 존중하고, 우리의 방식을 따르는... 어떤 생물이든 사냥감으로 삼지 않기로 했다. 그러한 생물들은 세계 지배를 위한 정당한 동료 경쟁자로서 두려움의 대상이 될 것이었다."
+msgstr "대부분이 사냥에 지쳐갈 무렵, 지배하는 자 고를락(Gorlack)은 모든 비행단을 선리치 봉우리 높은 곳의 회의에 소집했다. 그곳에서 그는 새로운 바람길인 <b>위대한 경쟁</b>을 알려 주었다. 그 지혜에 따르면, 정직하게 말하고 다른 이의 영역을 존중하며 우리의 규율을 따르는 생물은 사냥감으로 삼지 않을 수도 있었다. 그런 생물들은 세계 지배를 놓고 경쟁하는 동료로서 마땅히 두려워해야 할 존재였다."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/12_Epilogue.cfg:24
 msgid ""
 "In accord, the flights went again into exile, withdrawing to the Greatland’s "
 "many remote places. So ended the <i>War with Prey</i>."
-msgstr "합의에 따라 비행단은 다시 추방되어 큰 땅의 많은 외딴 지역으로 물러났습니다. 이렇게 <i>먹잇감과의 전쟁</i>은 끝났다."
+msgstr "합의에 따라 비행단들은 다시 유배되어 대륙 곳곳의 외딴 지역으로 물러났다. 이렇게 <i>먹잇감과의 전쟁</i>은 끝났다."
 
 #. [unit_type]: id=Caravel, race=mechanical
 #: data/campaigns/Winds_of_Fate/units/Caravel.cfg:5
@@ -6783,7 +6783,10 @@ msgid ""
 "\n"
 "One of the rare air breathing fish, the dolphin is never too long below the "
 "surface of the sea."
-msgstr "엘렌세파의 선원들은 돌고래를 보면 좋은 징조라고 여기며, 카엘리안은 돌고래의 감각이 엘프에 거의 맞먹는다고 평가했습니다. 해안 오크 부족들은 돌고래 고기를 별미로 먹습니다.\n\n돌고래는 공기로 숨 쉬는 희귀한 물고기 중 하나이며, 바다 표면 아래에 오래 머무르지 않습니다."
+msgstr ""
+"엘렌세파의 선원(One)들은 돌고래를 보면 좋은 징조라고 여기며, 카엘리안은 돌고래의 감각이 엘프에 거의 맞먹는다고 평가했습니다. 해안 오크 부족들은 돌고래 고기를 별미로 먹습니다.\n"
+"\n"
+"돌고래는 공기로 숨 쉬는 희귀한 물고기 중 하나이며, 바다 표면 아래에 오래 머무르지 않습니다."
 
 #. [attack]: type=impact
 #: data/campaigns/Winds_of_Fate/units/Dolphin.cfg:62

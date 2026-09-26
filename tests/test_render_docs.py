@@ -38,7 +38,7 @@ class RenderDocsTests(unittest.TestCase):
     def test_latest_po_date_extracts_date_from_timestamp_metadata(self):
         self.assertEqual(
             render_docs.latest_po_date("1.18.x"),
-            "20260925",
+            "20260926",
         )
 
     def test_environment_version_has_priority(self):

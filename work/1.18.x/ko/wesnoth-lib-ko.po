@@ -263,7 +263,7 @@ msgstr "바위 모래"
 #. [terrain_type]: id=stone_path
 #: data/core/terrain.cfg:284
 msgid "Overgrown Cobbles"
-msgstr "큼지막한 자갈"
+msgstr "풀이 무성한 자갈길"
 
 #. [terrain_type]: id=road_icy
 #: data/core/terrain.cfg:294
@@ -440,7 +440,7 @@ msgstr "연꽃"
 #. [terrain_type]: id=water-lilies-flower
 #: data/core/terrain.cfg:563
 msgid "Flowering Water Lilies"
-msgstr "피어있는 연꽃"
+msgstr "피어 있는 연꽃"
 
 #. [terrain_type]: id=seashells
 #: data/core/terrain.cfg:573
@@ -954,7 +954,7 @@ msgstr "일반 통과 불가 산맥"
 #: data/core/terrain.cfg:1360
 #| msgid "Desert Impassable Mountains"
 msgid "Dry Impassable Mountains"
-msgstr "건조한 통과 불능 산맥"
+msgstr "건조한 통과 불가 산맥"
 
 #. [terrain_type]: id=cloud_snow
 #: data/core/terrain.cfg:1371
@@ -1267,7 +1267,7 @@ msgstr "오두막"
 #. [terrain_type]: id=snow_village
 #: data/core/terrain.cfg:1910
 msgid "Snowy Cottage"
-msgstr "눈덮인 오두막"
+msgstr "눈 덮인 오두막"
 
 #. [terrain_type]: id=human_village_ruin
 #: data/core/terrain.cfg:1923
@@ -1409,7 +1409,7 @@ msgstr "폐허가 된 야영지"
 #. [terrain_type]: id=encampment_snow
 #: data/core/terrain.cfg:2233
 msgid "Snowy Encampment"
-msgstr "눈덮인 기지"
+msgstr "눈 덮인 기지"
 
 #. [terrain_type]: id=orcish_fort
 #. [terrain_type]: id=snow_orcish_fort
@@ -1455,7 +1455,7 @@ msgstr "인간 성채"
 #. [terrain_type]: id=snow_castle
 #: data/core/terrain.cfg:2281
 msgid "Snowy Human Castle"
-msgstr "눈덮인 인간 성채"
+msgstr "눈 덮인 인간 성채"
 
 #. [terrain_type]: id=elven_castle
 #: data/core/terrain.cfg:2292
@@ -1575,7 +1575,7 @@ msgstr "높은 야영지 본영"
 #. [terrain_type]: id=encampment_snow_keep
 #: data/core/terrain.cfg:2517
 msgid "Snowy Encampment Keep"
-msgstr "눈덮인 기지 본영"
+msgstr "눈 덮인 기지 본영"
 
 #. [terrain_type]: id=orcish_keep
 #. [terrain_type]: id=snow_orcish_keep
@@ -1619,7 +1619,7 @@ msgstr "인간 성채 본영"
 #. [terrain_type]: id=snow_keep
 #: data/core/terrain.cfg:2569
 msgid "Snowy Human Castle Keep"
-msgstr "눈덮인 인간 성채 본영"
+msgstr "눈 덮인 인간 성채 본영"
 
 #. [terrain_type]: id=elven_keep
 #: data/core/terrain.cfg:2582
@@ -2089,7 +2089,7 @@ msgstr "<italic>text='숲'</italic>은 통행을 방해할 만큼 덤불이 우�
 #. [terrain_type]: id=frozen
 #: data/core/terrain.cfg:3416 data/core/terrain.cfg:3417
 msgid "Frozen"
-msgstr "동결"
+msgstr "얼음 지형"
 
 #. [terrain_type]: id=frozen
 #: data/core/terrain.cfg:3419
@@ -3676,7 +3676,7 @@ msgstr "호출 스택"
 #. [label]
 #: data/gui/window/formula_debugger.cfg:94
 msgid "Actions"
-msgstr "행동 메뉴"
+msgstr "행동"
 
 #. [button]: id=step
 #: data/gui/window/formula_debugger.cfg:128

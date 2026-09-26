@@ -75,8 +75,8 @@ case "$MARKER" in
         ;;
 esac
 
-if ! grep -Eq 'name="한국어 \((Hangugeo|[0-9]+\.[0-9]+\.x-[0-9]{8})\)"' "$CONFIG" ||
-   ! grep -Eq 'sort_name = "(Hangugeo|[0-9]+\.[0-9]+\.x-[0-9]{8})"' "$CONFIG"; then
+if ! grep -Eq 'name="한국어 \([^"]*\)"' "$CONFIG" ||
+   ! grep -Eq 'sort_name = "Hangugeo"' "$CONFIG"; then
     echo "error: expected Korean locale metadata was not found" >&2
     exit 1
 fi
@@ -89,9 +89,6 @@ cp "$CONFIG" "$BACKUP"
 awk -v marker="$MARKER" '
     /name="한국어 \([^"]*\)"/ {
         sub(/name="한국어 \([^"]*\)"/, "name=\"한국어 (" marker ")\"")
-    }
-    /sort_name = "[^"]*"/ {
-        sub(/sort_name = "[^"]*"/, "sort_name = \"" marker "\"")
     }
     /percent[[:space:]]*=[[:space:]]*[0-9]+/ {
         sub(/percent[[:space:]]*=[[:space:]]*[0-9]+/, "percent=100")

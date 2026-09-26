@@ -343,14 +343,14 @@ msgstr "싸우기에는 놈들의 수가 너무도 많군. 여기서 탈출해�
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:279
 msgid "But to where? This is the only home we have! What about the elves?"
-msgstr "하지만 어디로요? 우리 집은 여기 뿐이잖아요! 엘프들은 또 어쩌구요?"
+msgstr "하지만 어디로요? 우리 집은 여기뿐이잖아요! 엘프들은 또 어쩌고요?"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:283
 msgid ""
 "We will fight them, but you must escape, Konrad. It is imperative that you "
 "escape!"
-msgstr "우리는 놈들과 싸울테지만, 콘라드(Konrad) 너는 빠져나가야 한다. 너만은 반드시 탈출해야 해!"
+msgstr "우리는 놈들과 싸울 테지만, 콘라드(Konrad) 너는 빠져나가야 한다. 너만은 반드시 탈출해야 해!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:287
@@ -385,7 +385,7 @@ msgid ""
 "these parts. They are the ones we want!"
 msgstr ""
 "잊지 마, 고약한 마법사와 놈이 보호하는 녀석이 이 지역에 있다고 들었어. 우리가 "
-"잡아야 하는건 놈들이야!"
+"잡아야 하는 건 놈들이야!"
 
 #. [message]: speaker=Knafa-Tan
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:307
@@ -407,7 +407,7 @@ msgstr "조심해, 콘라드(Konrad)! 그를 잘 돌보세요, 델파도르(Delf
 msgid ""
 "Do not spend your life here, Chantal. Someone must warn the Northern Elves "
 "that the war we so long feared has begun."
-msgstr "여기서 목숨을 잃지는 마시오, 샨탈(Chantal). 누군가는 북쪽의 요정들에게 오래도록 우려해왔던 전쟁이 시작되었다고 알려야 하니까."
+msgstr "여기서 목숨을 잃지는 마시오, 샨탈(Chantal). 누군가는 북부 엘프들에게 우리가 오래도록 우려해 온 전쟁이 시작되었다고 알려야 하니까."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:339
@@ -425,7 +425,7 @@ msgstr "북쪽으로 가서 알두인(Alduin) 섬으로 가 보도록 하지. �
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:347
 msgid ""
 "Of course you are right, Delfador. But what will become of the elves here?"
-msgstr "물론 델파도르(Delfador) 당신이 옳겠죠. 하지만 여기의 엘프들은 어떻게 되죠?"
+msgstr "물론 델파도르(Delfador) 사부님이 옳겠죠. 하지만 여기의 엘프들은 어떻게 되죠?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:351
@@ -439,7 +439,7 @@ msgstr ""
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:355
 msgid "Good luck, Konrad! Don’t worry about us, we will fight as best we can!"
-msgstr "행운을 빌어, 콘라드(Konrad)! 우리 걱정은 마렴, 우린 최선을 다해 싸울테니!"
+msgstr "행운을 빌어, 콘라드(Konrad)! 우리 걱정은 마렴, 우린 최선을 다해 싸울 테니!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:372
@@ -449,12 +449,12 @@ msgstr "아... 아무래도 더는 못 갈 것 같아요."
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:376
 msgid "Prince... you must keep fighting! Nooooooo!"
-msgstr "왕자... 너는 싸워야 한다! 안돼-----!"
+msgstr "왕자... 너는 싸워야 한다! 안 돼-----!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:381
 msgid "It is over. I am doomed..."
-msgstr "이제 안돼요. 난 끝났어요..."
+msgstr "이제 안 돼요. 난 끝났어요..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:395
@@ -466,7 +466,7 @@ msgstr "나는... 왕자를 지켜야 할 의무를 다하지 못했다! 나는 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:400
 msgid "Don’t die, Delfador! Please, you have to stay alive!"
-msgstr "죽지 말아요, 델파도르(Delfador)! 제발, 당신은 살아야 한다구요!"
+msgstr "죽지 마세요, 델파도르(Delfador) 사부님! 제발, 사부님은 살아야 한다고요!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:404
@@ -477,7 +477,7 @@ msgstr "으윽!"
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:415
 msgid ""
 "Oh, no! We have run out of time, they have arrived with reinforcements..."
-msgstr "아, 안돼! 이제 시간이 없어, 놈들이 증원을 데려왔어..."
+msgstr "아, 안 돼! 이제 시간이 없어, 놈들이 증원을 데려왔어..."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:426
@@ -512,7 +512,7 @@ msgstr "날 보내줘, 이 악당아!"
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:563
 msgid "Oh no! They are destroying our home!"
-msgstr "안돼! 놈들이 우리 집을 부수고 있어요!"
+msgstr "안 돼! 놈들이 우리 집을 부수고 있어요!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:567
@@ -528,7 +528,7 @@ msgstr "검은물(Blackwater) 항구"
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:21
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:21
 msgid "Resist until the end of the turns"
-msgstr "턴이 끝날때까지 버텨낼 것"
+msgstr "턴이 끝날 때까지 버텨낼 것"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:28
@@ -584,7 +584,7 @@ msgid ""
 "are heading there too. Rebels who hate Asheviere and are loyal to the memory "
 "of the king desperately hold the port, as it is one of the only places where "
 "they can ship supplies and weapons."
-msgstr "우리는 검은물(Blackwater) 항구에서 배를 타야 하네만, 오크들이 이미 그쪽으로도 진군하고 있는 것 같다. 아쉐비에레를 증오하고 옛 왕에게 충성하는 저항군들이 필사적으로 항구를 지켜왔지. 그곳은 저항군들이 물자와 무기를 실어나를 수 있는 유일한 장소거든."
+msgstr "우리는 검은물(Blackwater) 항구에서 배를 타야 하네만, 오크들이 이미 그쪽으로도 진군하고 있는 것 같다. 아쉐비에레를 증오하고 옛 왕에게 충성하는 저항군들이 필사적으로 항구를 지켜왔지. 그곳은 저항군들이 물자와 무기를 실어 나를 수 있는 유일한 장소거든."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:161
@@ -597,7 +597,7 @@ msgid ""
 "Delfador, my old friend! We had heard of your coming, and of the attacks on "
 "the elves. It is good to see you again, although I would prefer it were not "
 "in such sad times."
-msgstr "델파도르(Delfador), 옛 친구여! 엘프들이 공격받고 있다는 소식과 같이 당신이 온다는 얘길 들었소. 이런 슬픈 때가 아니었다면 더 좋았겠지만, 어쨌든 당신을 다시보니 반갑소."
+msgstr "델파도르(Delfador), 옛 친구여! 엘프들이 공격받고 있다는 소식과 함께 자네가 온다는 얘기를 들었소. 이런 슬픈 때가 아니었다면 더 좋았겠지만, 어쨌든 자네를 다시 보니 반갑소."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:169
@@ -651,7 +651,7 @@ msgid ""
 "I will send one of my horsemen to serve under you. I offer you my support, "
 "Konrad, and the support of my men — from now on you will be able to recruit "
 "horsemen."
-msgstr "내 휘하 기마병 중에 한명을 그대에게 보내주겠소. 이제 콘라드(Konrad) 당신은 나와 부하들의 지원을 받아 기마병을 소집할 수 있소."
+msgstr "내 휘하 기마병 중에 한 명을 그대에게 보내 주겠소. 이제 콘라드(Konrad), 그대는 나와 부하들의 지원을 받아 기마병을 소집할 수 있소."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:202
@@ -669,7 +669,7 @@ msgid ""
 "though taking double damage in return. They are also lawful, meaning they "
 "fight better by day, and worse at night. Horsemen are unmatched on open "
 "land, though elves will serve you better in forests or rugged terrain."
-msgstr "엘프들은 강한 종족이오, 콘라드(Konrad). 우리들이 보통 알고 있는 것보다 훨씬 강하지. 하지만 기마병들은 다른 의미에서 강력하다오. 그들은 원격 공격은 하지 못하지만 전투 시에 돌격해 들어가 두 배의 피해를 입히지. 대신 받는 피해도 두 배라오. 또한 이들은 주행성이라 낮에 더 잘 싸우고 밤에는 위력이 떨어지오. 엘프들이 숲과 구릉지대에서 당신을 잘 보좌해 준다면 기마병들은 개활지에서는 당해낼 자가 없지."
+msgstr "엘프들은 강한 종족이오, 콘라드(Konrad). 우리들이 보통 알고 있는 것보다 훨씬 강하지. 하지만 기마병들은 다른 의미에서 강력하다오. 그들은 원격 공격은 하지 못하지만 전투 시에 돌격해 들어가 두 배의 피해를 입히지. 대신 받는 피해도 두 배라오. 또한 이들은 주행성이라 낮에 더 잘 싸우고 밤에는 위력이 떨어지오. 엘프들이 숲과 구릉지대에서 그대를 잘 보좌해 준다면 기마병들은 개활지에서는 당해낼 자가 없지."
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:212
@@ -677,7 +677,7 @@ msgid ""
 "Elves may be the lords of the forest, but horsemen are powerful as well. On "
 "the plains under the midday sun they can fell the toughest foes with sharp "
 "spears and under heavy hoofs!"
-msgstr "엘프족은 숲의 군주들이지만, 기마병도 그만큼 강력하오. 한낮의 태양 아래 평원에서 이들은 뾰족한 창으로 그 어떤 강력한 적이라도 묵직한 발굽아래 쓰러뜨릴 수 있지!"
+msgstr "엘프들은 숲의 군주들이지만, 기마병도 그만큼 강력하오. 한낮의 태양 아래 평원에서 이들은 뾰족한 창과 묵직한 발굽으로 아무리 강력한 적이라도 쓰러뜨릴 수 있지!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:218
@@ -694,7 +694,7 @@ msgstr "할디엘(Haldiel)"
 #. [message]: speaker=Haldiel
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:241
 msgid "Greetings, young master. I pledge myself to your service."
-msgstr "반갑습니다, 젊은 주인이시여. 당신께 충성할 것을 맹세하겠습니다."
+msgstr "반갑습니다, 젊은 주인이시여. 주군께 충성할 것을 맹세하겠습니다."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:246
@@ -746,14 +746,14 @@ msgstr "시미르(Simyr)"
 msgid ""
 "Reinforcements have arrived! Forward, men! I expect each of you to bring me "
 "back the head of an orc!"
-msgstr "원군이 도착했다! 전군, 앞으로! 한명당 오크 머리 하나씩은 가져오도록!"
+msgstr "원군이 도착했다! 전군, 앞으로! 한 명당 오크 머리 하나씩은 가져오도록!"
 
 #. [message]: speaker=Mokolo Qimur
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:345
 msgid ""
 "So many foul humans riding on horses! There is no way we can defeat them. "
 "Quick, we must make our escape!"
-msgstr "빌어먹을 말탄 인간들이 너무 많다! 놈들을 무찌를 방법이 없어. 서둘러라, 여기서 탈출한다!"
+msgstr "빌어먹을 말 탄 인간들이 너무 많다! 놈들을 무찌를 방법이 없어. 서둘러라, 여기서 탈출한다!"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Blackwater_Port.cfg:454
@@ -894,7 +894,7 @@ msgid ""
 "My lords, I have been hiding in the village from the orcs, like many of the "
 "other magi here. I pledge myself to your service; let us move swiftly to "
 "recapture the island!"
-msgstr "주군 여러분, 저는 이곳의 다른 마법사들과 마찬가지로 오크족을 피해 마을에 숨어있었습니다. 여러분의 휘하에 들 것을 맹세합니다. 어서 움직여서 섬을 탈환합시다!"
+msgstr "주군 여러분, 저는 이곳의 다른 마법사들과 마찬가지로 오크들을 피해 마을에 숨어 있었습니다. 여러분의 휘하에 들 것을 맹세합니다. 어서 움직여서 섬을 탈환합시다!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_The_Isle_of_Alduin.cfg:250
@@ -936,7 +936,7 @@ msgstr "세이무스(Seimus)"
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_The_Isle_of_Alduin.cfg:300
 msgid "Delfador, my old master! You have saved the island from the orcs!"
-msgstr "델파도르(Delfador), 저의 옛 스승이시여! 당신이 이 섬을 오크로부터 구해주셨군요!"
+msgstr "델파도르(Delfador), 저의 옛 스승이시여! 스승님이 이 섬을 오크로부터 구해 주셨군요!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_The_Isle_of_Alduin.cfg:305
@@ -978,7 +978,7 @@ msgstr "그녀는 오랫동안 머들이 지배해 온 진주 만을 장악하�
 msgid ""
 "Can’t we strike back at her? How many forces does she have at the Bay of "
 "Pearls? Can we take it back from her?"
-msgstr "그녀를 배후에서 공격하는건 불가능한가요? 진주 해안의 병력은 어느 정도죠? 그곳을 탈환할 수 있지 않을까요?"
+msgstr "그녀를 배후에서 공격하는 건 불가능한가요? 진주 만의 병력은 어느 정도죠? 그곳을 탈환할 수 있지 않을까요?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_The_Isle_of_Alduin.cfg:330
@@ -1265,7 +1265,7 @@ msgstr "나는 완전히 무사하다네!"
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:678
 msgid ""
 "There you are! I am so glad you are all right! Now we may have a little rest."
-msgstr "거기 계셨군요! 당신이 무사해서 정말 기쁘군요! 이제 잠시 쉴 수 있겠어요."
+msgstr "거기 계셨군요! 그대가 무사해서 정말 기쁘군요! 이제 잠시 쉴 수 있겠어요."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:682
@@ -1274,7 +1274,7 @@ msgid ""
 "Elensefar, breaking the century-old treaty between Wesnoth and the Elense "
 "city-state. If the city falls, there is no telling how many other lands she "
 "may swallow up!"
-msgstr "쉴 시간은 없을 것 같군, 콘라드(Konrad). 아쉐비에레가 웨스노스(Wesnoth)와 도시 국가 엘렌세(Elense) 사이의 수백 년간의 조약을 깨뜨리고 엘렌세(Elense)파르를 포위했어. 그 도시가 함락된다면 그녀가 얼마나 더 많은 지역을 삼켜버릴지 예측할 수 없게 된다네!"
+msgstr "쉴 시간은 없을 것 같군, 콘라드(Konrad). 아쉐비에레가 웨스노스(Wesnoth)와 도시 국가 엘렌세(Elense)파르(Elensefar) 사이의 수백 년 된 조약을 깨뜨리고 엘렌세(Elense)파르(Elensefar)를 포위했어. 그 도시가 함락된다면 그녀가 얼마나 더 많은 지역을 삼켜 버릴지 예측할 수 없게 된다네!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:688
@@ -1297,7 +1297,7 @@ msgstr "병사들을 이끌고 도시로 가야 하오. 도시를 방어하는 �
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:698
 msgid ""
 "I must do that? But what about you, Delfador? You’re coming with me, right?"
-msgstr "내가 해야 하는건가요? 델파도르(Delfador) 당신은 어쩌구요? 같이 오시는게 아닌가요?"
+msgstr "제가 해야 하는 건가요? 델파도르(Delfador) 사부님은 어떻게 하시고요? 같이 오시는 게 아닌가요?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:703
@@ -1354,7 +1354,7 @@ msgstr "안전한 여정이 되길 빈다, 콘라드(Konrad). 그럼 나중에 �
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:746
 msgid ""
 "Going by ship we may at least get a little rest for ourselves. By sea it is!"
-msgstr "배를 타고 가면 최소한 잠깐동안은 쉴 수 있겠죠. 바다를 통해 갑시다!"
+msgstr "배를 타고 가면 최소한 잠깐 동안은 쉴 수 있겠죠. 바다를 통해 갑시다!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:750
@@ -1393,12 +1393,12 @@ msgid ""
 "I bear ill tidings, Konrad. Asheviere has laid siege to Elensefar, breaking "
 "the century-old treaty between Wesnoth and the Elense city-state. If the "
 "city falls, there is no telling how many other lands she may swallow up!"
-msgstr "나쁜 소식을 전하러 왔소, 콘라드(Konrad). 아셰비에레(Asheviere)가 엘렌세(Elense)파를 포위해 웨스노스(Wesnoth)와 엘렌세(Elense) 도시 국가 사이의 백 년 된 조약을 깨뜨렸소. 도시가 함락되면 그녀가 또 얼마나 많은 땅을 집어삼킬지 알 수 없소!"
+msgstr "나쁜 소식을 전하러 왔소, 콘라드(Konrad). 아셰비에레(Asheviere)가 엘렌세(Elense)파르(Elensefar)를 포위해 웨스노스(Wesnoth)와 엘렌세(Elense)파르(Elensefar) 도시 국가 사이의 백 년 된 조약을 깨뜨렸소. 도시가 함락되면 그녀가 또 얼마나 많은 땅을 집어삼킬지 알 수 없소!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:818
 msgid "I must do this? But you are coming with me, aren’t you, Delfador?"
-msgstr "제가 해야 하는 일인가요? 하지만 델파도르(Delfador), 당신이 같이 가 주시겠죠?"
+msgstr "제가 해야 하는 일인가요? 하지만 델파도르(Delfador) 사부님이 같이 가 주시겠죠?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:822
@@ -1406,7 +1406,7 @@ msgid ""
 "I am afraid not, Konrad. I have found some important documents that need "
 "seeing to. I must ride at once to make council with the elves. I will meet "
 "you in Elensefar, after you have secured it."
-msgstr "안타깝지만 그럴 순 없다, 콘라드(Konrad). 살펴보아야 할 몇 가지 중요한 문서가 손에 들어왔어. 난 당장 요정들과 이 건에 대해 회의를 해야 해. 네가 엘렌세파르(Elensefar)를 확보한 다음에 그곳에서 보자."
+msgstr "안타깝지만 그럴 순 없다, 콘라드(Konrad). 살펴보아야 할 몇 가지 중요한 문서가 손에 들어왔어. 난 당장 엘프들과 이 건에 대해 회의를 해야 해. 네가 엘렌세파르(Elensefar)를 확보한 다음에 그곳에서 보자."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:826
@@ -1511,7 +1511,7 @@ msgstr "저쪽은 언데드 기지 같다! 놈들을 무찌른다면 주민들�
 msgid ""
 "Cleansing this land of undead does not appear overly difficult. It could be "
 "good training for those yet untested in battle."
-msgstr "이 언데드 지역을 청소하는건 크게 힘들 것 같진 않습니다. 아직 경험이 모자란 이들을 훈련하는 데는 좋겠지요."
+msgstr "이 언데드 지역을 청소하는 건 크게 힘들 것 같지는 않습니다. 아직 경험이 부족한 이들을 훈련하는 데는 좋겠지요."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/05a_Muff_Malal_Peninsula.cfg:142
@@ -1525,7 +1525,7 @@ msgstr "알겠어. 엘렌세파르(Elensefar)의 포위를 뚫으려면 숙련�
 msgid ""
 "The decision is yours, sir. If we are to leave, I advise we hurry past "
 "before they are upon us. If we are to fight, then... to arms!"
-msgstr "선택은 당신의 몫입니다, 전하. 만약 떠난다면 저들이 따라붙기 전에 서두르는 편이 좋습니다. 만일 싸울 것이라면... 전투 준비!"
+msgstr "선택은 전하의 몫입니다. 만약 떠난다면 저들이 따라붙기 전에 서두르는 편이 좋습니다. 만일 싸울 것이라면... 전투 준비!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/05a_Muff_Malal_Peninsula.cfg:164
@@ -1658,7 +1658,7 @@ msgstr "이 사원은 비어있는 듯 합니다."
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:293
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:359
 msgid "Looks like there is somebody hidden in the temple."
-msgstr "누군가 여기 숨어있는 것 같습니다."
+msgstr "누군가 여기 숨어 있는 것 같습니다."
 
 #. [unit]: id=Moremirmu, type=White Mage
 #. [unit]: id=Moremirmu, type=Mage of Light
@@ -1683,7 +1683,7 @@ msgstr "나는 이 성스러운 장소에 숨어서 사악한 언데드들을 �
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:337
 msgid "Join us, wise one. We welcome your aid!"
-msgstr "같이 행동하도록하죠, 현명한 이여. 당신의 도움을 환영합니다!"
+msgstr "같이 행동하도록 하죠, 현명한 이여. 그대의 도움을 환영합니다!"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:341
@@ -1712,7 +1712,7 @@ msgstr "나 없이도 언데드와 싸워 주길 바라오, 친구들!"
 msgid ""
 "Thank goodness we have found you, sir! Come aboard quickly, we shall take "
 "you away from this horrible island!"
-msgstr "당신을 찾아내서 정말 다행입니다, 전하! 어서 승선하십시오, 이 공포스런 섬에서 빠져나갑시다!"
+msgstr "전하를 찾아내서 정말 다행입니다! 어서 승선하십시오, 이 공포스러운 섬에서 빠져나갑시다!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/05b_Isle_of_the_Damned.cfg:513
@@ -1934,7 +1934,7 @@ msgstr "우리가 저들의 전선을 뚫으면 우리를 지원해 줬으면 �
 msgid ""
 "Very well. When you raise your red banner over any building in the city "
 "proper, we will see the sign and attack from the city’s northern gate."
-msgstr "아주 좋소. 도시 안의 아무 건물에나 당신의 붉은 깃발을 올린다면 우리가 그 신호를 보고 도시의 북문에서부터 공격을 시작하겠소."
+msgstr "아주 좋소. 도시 안의 아무 건물에나 그대의 붉은 깃발을 올린다면 우리가 그 신호를 보고 도시의 북문에서부터 공격을 시작하겠소."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Siege_of_Elensefar.cfg:366
@@ -2358,7 +2358,7 @@ msgstr "저분은 리사르(Li’sar) 공주입니다. 여왕의 딸이자 후�
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/08_The_Princess_of_Wesnoth.cfg:343
 msgid "I’m no impostor. It seems that your mother has lied to you."
-msgstr "나는 사칭자가 아니오. 당신의 어머니가 그대에게 거짓말을 한 듯 하군."
+msgstr "나는 사칭자가 아니오. 그대의 어머니가 그대에게 거짓말을 한 듯하군."
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne/scenarios/08_The_Princess_of_Wesnoth.cfg:348
@@ -2380,7 +2380,7 @@ msgstr "항복하겠어! 날 해하지 말아, 사칭자."
 #: data/campaigns/Heir_To_The_Throne/scenarios/08_The_Princess_of_Wesnoth.cfg:375
 msgid ""
 "I said before I’m not an impostor, but if you yield, I will spare your life."
-msgstr "나는 사칭자가 아니라고 전에 말했소. 하지만 당신이 물러난다면 목숨은 보장해 드리지."
+msgstr "나는 사칭자가 아니라고 전에 말했소. 하지만 그대가 물러난다면 목숨은 보장해 드리지."
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/08_The_Princess_of_Wesnoth.cfg:380
@@ -2603,7 +2603,7 @@ msgstr "편히 쉬시기를!"
 msgid ""
 "He died fighting for you, Prince, just as any of us would be willing to die "
 "for you."
-msgstr "그는 당신을 위해 죽기를 바라는 다른 이들처럼 싸우다 죽은 거요, 왕자."
+msgstr "그는 왕자님을 위해 죽기를 바라는 다른 이들처럼 싸우다 죽은 거요."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/09_The_Valley_of_Death.cfg:433
@@ -2690,7 +2690,7 @@ msgid ""
 "We can try to do that, but we must be careful. To disturb the gryphons could "
 "prove dangerous... and yet such mounts could help us greatly later. Whatever "
 "we do, we must pass by this place."
-msgstr "시도해 볼만은 하겠네만, 조심해야 하네. 그리폰들을 귀찮게 하는건 매우 위험하니까... 그리고 그리폰을 탈 것으로 키운다고 해도 도움이 되는 때는 훨씬 뒤겠지. 어떻게 하든 간에 우린 이 장소를 지나야 하네."
+msgstr "시도해 볼 만은 하겠네만, 조심해야 하네. 그리폰들을 귀찮게 하는 건 매우 위험하니까... 그리고 그리폰을 탈것으로 키운다고 해도 도움이 되는 때는 훨씬 뒤겠지. 어떻게 하든 간에 우린 이 장소를 지나야 하네."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Gryphon_Mountain.cfg:156
@@ -2927,7 +2927,7 @@ msgstr "나는 반역자 왕과, 물론 그 모든 일의 배후였던 아셰비
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_The_Ford_of_Abez.cfg:242
 msgid "So it is true, you did kill him?"
-msgstr "그렇다면 당신이 그를 죽였다는 이야기가 사실인가요?"
+msgstr "그렇다면 그대가 그를 죽였다는 이야기가 사실인가요?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_The_Ford_of_Abez.cfg:246
@@ -3550,7 +3550,7 @@ msgstr "어둠 속으로 뛰어들다"
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Plunging_Into_the_Darkness.cfg:25
 msgid "Find the dwarves"
-msgstr "난쟁이족 찾기"
+msgstr "드워프들 찾기"
 
 #. [unit]: type=Giant Spider
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Plunging_Into_the_Darkness.cfg:105
@@ -4511,7 +4511,7 @@ msgid ""
 "nae feeling the heat redoubling? Is yer breath nae toiled for the ashes "
 "sowling the air? I beseech that we not tarry ’ere any more than we ha’ to, "
 "lest the forming abysses claim us."
-msgstr "콘라드(Konrad) 전하, 저 우르릉거리는 소리는 살아 있는 생물이 낸 게 아닙니다. 우리 아래 기반암이 약해져 무너지는 소리가 메아리친 것입니다. 열기가 두 배로 심해지는 게 느껴지지 않습니까? 공기를 뒤덮은 재 때문에 숨쉬기 힘들지 않습니까? 제발 여기서 더 지체하지 맙시다. 생겨나는 심연이 우리를 삼킬지도 모릅니다."
+msgstr "콘라드(Konrad) 전하, 저 우르릉거리는 소리는 살아 있는 생물이 낸 게 아닙니다. 우리 아래 기반암이 약해져 무너지는 소리가 메아리친 것입니다. 열기가 두 배로 심해지는 게 느껴지지 않습니까? 공기를 뒤덮은 재 때문에 숨 쉬기 힘들지 않습니까? 제발 여기서 더 지체하지 맙시다. 생겨나는 심연이 우리를 삼킬지도 모릅니다."
 
 #. [message]: type=Arch Mage,Great Mage,Silver Mage
 #. "din" means "loud noise". It refers to an ambient sound of collapsing cave walls.
@@ -5245,7 +5245,7 @@ msgstr "부관을 구출하라"
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/19c_Cliffs_of_Thoria.cfg:154
 msgid "Drakes"
-msgstr "반룡족"
+msgstr "반룡들"
 
 #. [unit]: type=Injured Lieutenant, id=Warven
 #. [unit]: type=Lieutenant, id=Warven
@@ -5713,7 +5713,7 @@ msgstr "모두 안으로..."
 #. [scenario]: id=20a_North_Elves
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:4
 msgid "Home of the North Elves"
-msgstr "북부 요정들의 고향"
+msgstr "북부 엘프들의 고향"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/20a_North_Elves.cfg:21
@@ -6100,7 +6100,7 @@ msgstr "지하에서 출구를 찾아 콘라드(Konrad)를 그곳으로 이동�
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:39
 msgid "Help the wose fend off the undead attack"
-msgstr "언데드의 공격을 물리치도록 우즈를 도우십시오"
+msgstr "언데드의 공격을 물리치도록 워즈(Wose)를 도우십시오"
 
 #. [side]: type=Saurian Oracle, id=Szerkz
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:92
@@ -6110,7 +6110,7 @@ msgstr "스제르크스(Szerkz)"
 #. [side]: type=Saurian Oracle, id=Szerkz
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:96
 msgid "Saurians"
-msgstr "사우리안족"
+msgstr "사우리안들"
 
 #. [side]: type=Ancient Lich, id=Muff Argulak
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:109
@@ -6250,7 +6250,7 @@ msgstr "그게 무엇이었든, 세상은 기뻐하고 있습니다."
 #. [message]: speaker=second_unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:407
 msgid "Greetings, Sir Wose. We seek the exit to these caverns."
-msgstr "안녕하세요, 우즈 경. 저희는 이 동굴의 출구를 찾고 있습니다."
+msgstr "안녕하세요, 워즈(Wose) 경. 저희는 이 동굴의 출구를 찾고 있습니다."
 
 #. [message]: speaker=Haralamdum
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:411
@@ -6308,7 +6308,7 @@ msgstr "하르 흠 하르 ... 흠 ... 그래 ... 하르 알람 둠 ... 좋아."
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:498
 msgid "Those undead will bother you no more, Sir Wose."
-msgstr "이제 저 언데드들이 더는 괴롭히지 않을 겁니다, 우즈 경."
+msgstr "이제 저 언데드들이 더는 괴롭히지 않을 겁니다, 워즈(Wose) 경."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:507
@@ -6318,7 +6318,7 @@ msgstr "우리는 아직 이 동굴의 출구를 찾아야 한다, 콘라드(Kon
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:512
 msgid "Yes, Delfador. I’m afraid we must be going, Sir Wose."
-msgstr "네, 델파도르(Delfador). 유감이지만 저희는 가야 할 것 같습니다, 우즈 경."
+msgstr "네, 델파도르(Delfador). 유감이지만 저희는 가야 할 것 같습니다, 워즈(Wose) 경."
 
 #. [message]: speaker=Haralamdum
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:517
@@ -6397,7 +6397,7 @@ msgstr "그렇게 서두르다니. 하르 알람 둠."
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:584
 msgid "The wose silently fade into the forest."
-msgstr "우즈는 조용히 숲속으로 사라집니다."
+msgstr "워즈(Wose)는 조용히 숲속으로 사라집니다."
 
 #. [message]: speaker=$unit.id|
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:612
@@ -6420,7 +6420,7 @@ msgstr "예"
 #. [object]: id=wose_lore
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:619
 msgid "Wose Lore"
-msgstr "우즈의 전승"
+msgstr "워즈(Wose)의 전승"
 
 #. [object]: id=wose_lore
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:622
@@ -6428,7 +6428,7 @@ msgid ""
 "This massive book is filled with the Lore and Legends of the Wose. Any who "
 "read it learn deeply of the ways of the twig and leaf, the tree and the "
 "forest."
-msgstr "이 거대한 책에는 우즈의 전승과 전설이 가득합니다. 이 책을 읽는 사람은 나뭇가지와 잎, 나무와 숲의 이치를 깊이 배우게 됩니다."
+msgstr "이 거대한 책에는 워즈(Wose)의 전승과 전설이 가득합니다. 이 책을 읽는 사람은 나뭇가지와 잎, 나무와 숲의 이치를 깊이 배우게 됩니다."
 
 #. [object]: id=wose_lore
 #: data/campaigns/Heir_To_The_Throne/scenarios/20b_Underground_Channels.cfg:623
@@ -7790,7 +7790,7 @@ msgstr "으악! 난 끝장이야!"
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/utils/deaths.cfg:51
 msgid "No! This is the end! We have been defeated!"
-msgstr "안돼! 이걸로 끝이야! 우린 패배했어!"
+msgstr "안 돼! 이걸로 끝이야! 우린 패배했어!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/utils/deaths.cfg:65

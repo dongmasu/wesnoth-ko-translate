@@ -221,7 +221,7 @@ msgid ""
 "Peasants are your workers. Depending on the terrain, right-clicking on a "
 "peasant allows you to terraform the landscape and/or build castles, mines, "
 "farms, villages and universities."
-msgstr "농부를 오른쪽 클릭하면 지형에 따라서 조경을 실시하거나 성채, 광산, 밭, 마을이나 대학을 만들 수 있습니다."
+msgstr "농부를 오른쪽 클릭하면 지형에 따라 지형을 바꾸거나 성채, 광산, 밭, 마을, 대학을 건설할 수 있습니다."
 
 #. [message]: speaker=narrator
 #. [option]
@@ -249,7 +249,7 @@ msgstr "농장"
 msgid ""
 "Farms can only be planted on grassland. Move a peasant onto a farm and he "
 "will begin to automatically harvest the cash crop."
-msgstr "농장을 만들 수 있는 것은 오직 초지 뿐입니다. 농부를 밭으로 이동시키면 자동으로 환금 작물을 수확하기 시작합니다."
+msgstr "농장은 초지에만 지을 수 있습니다. 농부를 농장으로 이동시키면 환금 작물을 자동으로 수확하기 시작합니다."
 
 #. [message]: speaker=narrator
 #. [option]
@@ -278,7 +278,7 @@ msgstr "광산"
 msgid ""
 "Mines can be built on hills or mountains. A peasant on a mine will "
 "automatically dig for gold at the start of your turn."
-msgstr "광산은 언덕이나 산에 건설할 수 있습니다. 광산에 농부를 배치하면 턴 시작 시 자동으로 금을 캡니다."
+msgstr "광산은 언덕이나 산에 건설할 수 있습니다. 광산에 농부를 배치하면 턴 시작 시 자동으로 금화를 채굴합니다."
 
 #. [message]: speaker=narrator
 #. [option]
@@ -294,7 +294,7 @@ msgid ""
 "your turn, Mages in universities automatically add to the study progress of "
 "your chosen research target. Right-click on a mage in a university to change "
 "research target."
-msgstr "모든 '엘프'식의 마을은 대학을 상징합니다. 턴이 시작할 때마다 대학에 있는 마법사들은 자동으로 당신이 선택한 목표 연구를 진전시킵니다. 대학에 있는 마법사를 오른쪽 클릭해서 목표 연구를 바꿀 수 있습니다."
+msgstr "엘프 양식의 마을은 모두 대학 역할을 합니다. 턴이 시작할 때마다 대학에 있는 마법사들은 선택한 연구 목표의 진척도를 자동으로 높입니다. 대학에 있는 마법사를 오른쪽 클릭하면 연구 목표를 바꿀 수 있습니다."
 
 #. [message]: speaker=narrator
 #. [option]
@@ -336,7 +336,7 @@ msgstr "끝"
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:52
 msgid "I hereby donate 20 gold to the coffers of $df_player_name|."
-msgstr "여기 $df_player_name|의 금고에 20원을 지원하겠다."
+msgstr "여기 $df_player_name|의 금고에 20 금화를 지원하겠다."
 
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:111
@@ -403,7 +403,7 @@ msgstr "뭘 할까?"
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:317
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:48
 msgid "Nothing"
-msgstr "아무것도 안한다"
+msgstr "아무것도 하지 않는다"
 
 #. [option]
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:330
@@ -412,7 +412,7 @@ msgid ""
 "Give 20 gold to another player"
 msgstr ""
 "<span color='green'>자금 지원</span>\n"
-"다른 플레이어에게 20원을 준다"
+"다른 플레이어에게 20 금화를 준다"
 
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:349
@@ -474,14 +474,14 @@ msgstr "협상 완료"
 msgid ""
 "Our talks are complete — the Dwarves will gladly fight by your side. Which "
 "of our brethren do you want to recruit?"
-msgstr "우리의 대화는 끝났소 - 우리 드워프들은 기꺼이 당신의 편에서 싸울 것이오. 우리 형제들 중 누구를 소집하고 싶소?"
+msgstr "우리의 대화는 끝났소. 우리 드워프들은 기꺼이 자네의 편에서 싸울 것이오. 우리 형제들 중 누구를 소집하고 싶소?"
 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/ANL_utils/ANL_leader_options.cfg:589
 msgid ""
 "Our talks are complete — the Elves shall aid you in this battle. Which our "
 "of kin do you wish to recruit?"
-msgstr "우리의 대화는 끝났소 - 엘프들이 당신의 전투를 도울 것이오. 우리 동족 중에 누구를 소집하고 싶소?"
+msgstr "우리의 대화는 끝났소. 엘프들이 자네의 전투를 도울 것이오. 우리 동족 중에 누구를 소집하고 싶소?"
 
 #. Part of the scenario objectives
 #: data/multiplayer/scenarios/ANL_utils/ANL_objectives.cfg:5
@@ -491,7 +491,7 @@ msgstr "이 시나리오에서는 경제를 구축하십시오"
 #. Part of the scenario objectives
 #: data/multiplayer/scenarios/ANL_utils/ANL_objectives.cfg:9
 msgid "Move any unit next to captives and they will join your side"
-msgstr "포로들 옆으로 유닛을 옮기면, 그들이 당신 편에 합류할 것입니다"
+msgstr "포로들 옆으로 유닛을 옮기면, 그들이 자네 편에 합류할 것입니다"
 
 #. Part of the scenario objectives
 #: data/multiplayer/scenarios/ANL_utils/ANL_objectives.cfg:13
@@ -546,7 +546,7 @@ msgstr "연구 완료"
 #. [message]: speaker=unit
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:70
 msgid "Which type of unit would you like to be able to recruit?"
-msgstr "어떤 유닛을 소집하면 좋겠습니까?"
+msgstr "어떤 종류의 유닛을 소집할 수 있게 할까요?"
 
 #. [set_menu_item]: id=anl_oversee_research
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:93
@@ -568,10 +568,10 @@ msgid ""
 "Our farms produce $player_$side_number|.farming.gold|g\n"
 "Our mines produce $player_$side_number|.mining.gold|g\n"
 msgstr ""
-"현재 $player_$side_number|.research.target_language_name|를 연구하고 있습니다. 우리 학자들이 마음껏 연구할 목표를 정해 주십시오.\n"
+"현재 $player_$side_number|.research.target_language_name|를 연구하고 있습니다. 우리 학자들이 어느 목표에 전념하도록 할까요?\n"
 "\n"
-"Our farms produce $player_$side_number|.farming.gold|g\n"
-"Our mines produce $player_$side_number|.mining.gold|g\n"
+"농장에서는 $player_$side_number|.farming.gold| 금화를 생산합니다.\n"
+"광산에서는 $player_$side_number|.mining.gold| 금화를 생산합니다.\n"
 
 #. [option]
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:132
@@ -587,7 +587,7 @@ msgid ""
 "$player_$side_number|.farming.target"
 msgstr ""
 "<span color='green'>농업</span>\n"
-"농부들의 생산량이 1원 증가\n"
+"농부들의 생산량이 1 금화 증가\n"
 "연구 진척도: $player_$side_number|.farming.progress|/$player_$side_number|.farming.target"
 
 #. [command]
@@ -606,7 +606,7 @@ msgid ""
 "mining.target"
 msgstr ""
 "<span color='green'>광업</span>\n"
-"광부들의 생산량이 1원 증가\n"
+"광부들의 생산량이 1 금화 증가\n"
 "연구 진척도: $player_$side_number|.mining.progress|/$player_$side_number|.mining.target"
 
 #. [command]
@@ -636,14 +636,14 @@ msgstr "전쟁"
 msgid ""
 "$player_$side_number|.name|’s farms now produce $player_$side_number|."
 "farming.gold gold."
-msgstr "$player_$side_number|.name|의 농장은 이제 $player_$side_number|.farming.gold 원을 생산합니다."
+msgstr "$player_$side_number|.name|의 농장은 이제 $player_$side_number|.farming.gold 금화를 생산합니다."
 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:239
 msgid ""
 "$player_$side_number|.name|’s mines now produce $player_$side_number|.mining."
 "gold gold."
-msgstr "$player_$side_number|.name|의 광산에서는 이제 $player_$side_number|.mining.gold 원이 나옵니다."
+msgstr "$player_$side_number|.name|의 광산에서는 이제 $player_$side_number|.mining.gold 금화가 나옵니다."
 
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/ANL_utils/ANL_research_options.cfg:266
@@ -660,7 +660,7 @@ msgstr "이제 거기서 풀어주마!"
 #. [message]: speaker=narrator
 #: data/multiplayer/scenarios/ANL_utils/ANL_special_macros.cfg:201
 msgid "You release the creature from the web and it agrees to help you."
-msgstr "당신이 그 생물을 그물에서 풀어주고 도움을 얻기로 합니다."
+msgstr "자네는 그 생물을 거미줄에서 풀어 주고, 생물은 자네를 돕기로 합니다."
 
 #. [set_menu_item]: id=anl_get_to_work
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:6
@@ -683,7 +683,7 @@ msgstr "풀밭으로 전환"
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:369
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:582
 msgid "Cost: 0g"
-msgstr "비용: 0원"
+msgstr "비용: 0 금화"
 
 #. [option]: description=<span size='small'>
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:83
@@ -698,7 +698,7 @@ msgstr "마을 건축"
 #. [option]: description=<span size='small'>
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:100
 msgid "Cost: 15g"
-msgstr "비용: 15원"
+msgstr "비용: 15 금화"
 
 #. [option]: description=<span size='small'>
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:123
@@ -709,7 +709,7 @@ msgstr "성채 건축"
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:124
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:529
 msgid "Cost: 6g"
-msgstr "비용: 6원"
+msgstr "비용: 6 금화"
 
 #. [option]: description=<span size='small'>
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:146
@@ -719,7 +719,7 @@ msgstr "물을 끌어들인다"
 #. [option]: description=<span size='small'>
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:147
 msgid "Cost: 4g"
-msgstr "비용: 4원"
+msgstr "비용: 4 금화"
 
 #. [option]: description=<span size='small'>
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:171
@@ -730,7 +730,7 @@ msgstr "묘목 심기"
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:172
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:394
 msgid "Cost: 1g"
-msgstr "비용: 1원"
+msgstr "비용: 1 금화"
 
 #. [option]: description=<span size='small'>
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:199
@@ -740,7 +740,7 @@ msgstr "나무 베기"
 #. [option]: description=<span size='small'>
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:200
 msgid "Earns: 1g"
-msgstr "수입: 1원"
+msgstr "수입: 1 금화"
 
 #. [option]: description=<span size='small'>
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:255
@@ -752,7 +752,7 @@ msgstr "광산 건설"
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:256
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:283
 msgid "Cost: 25g"
-msgstr "비용: 25원"
+msgstr "비용: 25 금화"
 
 #. [option]: description=<span size='small'>
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:309
@@ -763,7 +763,7 @@ msgstr "여울을 만든다"
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:310
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:450
 msgid "Cost: 3g"
-msgstr "비용: 3원"
+msgstr "비용: 3 금화"
 
 #. [option]: description=<span size='small'>
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:337
@@ -774,7 +774,7 @@ msgstr "간척"
 #. [option]: description=<span size='small'>
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:338
 msgid "Cost: 5g"
-msgstr "비용: 5원"
+msgstr "비용: 5 금화"
 
 #. [option]: description=<span size='small'>
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:368
@@ -785,12 +785,12 @@ msgstr "여울을 파괴한다"
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:424
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:449
 msgid "Smash Cave Floor"
-msgstr "동굴 벽을 부순다"
+msgstr "동굴 바닥을 부순다"
 
 #. [option]: description=<span size='small'>
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:425
 msgid "Cost: 2g"
-msgstr "비용: 2원"
+msgstr "비용: 2 금화"
 
 #. [option]: description=<span size='small'>
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:474
@@ -800,7 +800,7 @@ msgstr "버섯 수확"
 #. [option]: description=<span size='small'>
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:475
 msgid "Earns: 3g"
-msgstr "수입: 3원"
+msgstr "수입: 3 금화"
 
 #. [option]: description=<span size='small'>
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:528
@@ -815,7 +815,7 @@ msgstr "대학 건립"
 #. [option]: description=<span size='small'>
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:555
 msgid "Cost: 7g"
-msgstr "비용: 7원"
+msgstr "비용: 7 금화"
 
 #. [option]: description=<span size='small'>
 #: data/multiplayer/scenarios/ANL_utils/ANL_worker_options.cfg:581

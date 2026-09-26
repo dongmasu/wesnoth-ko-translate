@@ -136,7 +136,7 @@ OVERRIDES = {
     "Malin Keshar": "말린 케샤르(Malin Keshar)",
     "Mermaid Siren": "인어 세이렌(Siren)",
     "Merman Triton": "인어 트리톤(Triton)",
-    "Masked Dwarf": "가면 쓴 난쟁이",
+    "Masked Dwarf": "가면 쓴 드워프",
     "Naga": "나가(Naga)",
     "Northlands": "북부 지방",
     "Ogre": "오우거(Ogre)",

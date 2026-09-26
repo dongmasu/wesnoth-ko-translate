@@ -5,6 +5,7 @@ import unittest
 
 from tools.apply_manual_translation_batch import is_glossary_candidate
 from tools.audit_glossary import parenthetical_is_source_component
+from tools.audit_glossary import UI_PANEL_TRANSLATION_EXCEPTIONS
 from tools.audit_gender_terms import lexical_pairs
 from tools.merge_reference_translations import parse_field_values
 from tools.normalize_contextual_translations import normalize_translation
@@ -108,10 +109,33 @@ class GlossaryTests(unittest.TestCase):
         for row in rows:
             with self.subTest(source=row["source_term"]):
                 if row["source_term"] in translations:
-                    self.assertEqual(
-                        translations[row["source_term"]],
-                        row["standard_korean"],
-                    )
+                    if (
+                        row["source_term"] in UI_PANEL_TRANSLATION_EXCEPTIONS
+                        and "우측 패널 [label]:" in row["notes"]
+                    ):
+                        continue
+                    else:
+                        self.assertEqual(
+                            translations[row["source_term"]],
+                            row["standard_korean"],
+                        )
+
+    def test_right_panel_labels_use_space_saving_exceptions(self):
+        text = (WORK_KO / "wesnoth-ko.po").read_text(encoding="utf-8")
+        expected = {
+            "label-hp": "HP",
+            "label-xp": "XP",
+            "label-mp": "MP",
+            "label-def": "def",
+        }
+        for label, translation in expected.items():
+            with self.subTest(label=label):
+                start = text.index(f"id={label}")
+                block = text[start:text.index("\n\n", start)]
+                self.assertIn(f'msgstr "{translation}"', block)
+        lvl_start = text.index('msgid "statuspanel^lvl"')
+        lvl_block = text[lvl_start:text.index("\n\n", lvl_start)]
+        self.assertIn('msgstr "lvl"', lvl_block)
 
     def test_great_river_variants_share_one_standard_translation(self):
         _, rows = glossary_rows()
@@ -125,13 +149,13 @@ class GlossaryTests(unittest.TestCase):
         self.assertEqual(by_source["Sorcerer"], "마법사")
         self.assertEqual(by_source["Dark Sorcerer"], "흑마법사")
         self.assertEqual(by_source["Dark Sorceress"], "흑마녀")
-        self.assertEqual(by_source["female^Elvish Sorceress"], "요정 마녀")
+        self.assertEqual(by_source["female^Elvish Sorceress"], "엘프 마녀")
 
     def test_gender_context_does_not_invent_a_female_prefix(self):
         _, rows = glossary_rows()
         by_source = {row["source_term"]: row["standard_korean"] for row in rows}
-        self.assertEqual(by_source["Elvish Archer"], "요정 궁수")
-        self.assertEqual(by_source["female^Elvish Archer"], "요정 궁수")
+        self.assertEqual(by_source["Elvish Archer"], "엘프 궁수")
+        self.assertEqual(by_source["female^Elvish Archer"], "엘프 궁수")
         self.assertNotIn("여성", by_source["female^Elvish Archer"])
 
     def test_magic_terms_keep_the_project_mapping_explicit(self):
@@ -203,7 +227,7 @@ class GlossaryTests(unittest.TestCase):
         expected = {
             "Ant Queen": "개미 여왕",
             "Dark Sorceress": "흑마녀",
-            "Elvish Princess": "요정 공주",
+            "Elvish Princess": "엘프 공주",
             "Mother Gryphon": "엄마 그리폰(Gryphon)",
             "Sister Thera": "테라(Thera) 수녀",
             "female^Battle Princess": "전투 공주",
@@ -657,7 +681,7 @@ class GlossaryTests(unittest.TestCase):
             "DM": "회고",
             "DW": "바다",
             "DiD": "DiD",
-            "EI": "침동",
+            "EI": "동부 침공",
             "Garrison": "수비군",
             "HttT": "왕자",
             "LoW": "전설",
@@ -788,7 +812,7 @@ class GlossaryTests(unittest.TestCase):
         self.assertEqual(by_source["Dark Sorceress"]["standard_korean"], "흑마녀")
         self.assertEqual(by_source["Sorcerer"]["standard_korean"], "마법사")
         self.assertEqual(
-            by_source["female^Elvish Sorceress"]["standard_korean"], "요정 마녀"
+            by_source["female^Elvish Sorceress"]["standard_korean"], "엘프 마녀"
         )
 
         for path in WORK_KO.glob("*.po"):
@@ -804,7 +828,7 @@ class GlossaryTests(unittest.TestCase):
                         self.assertEqual(values.get("msgstr"), "흑마녀")
                 if values.get("msgid") == "female^Elvish Sorceress":
                     with self.subTest(path=path.name):
-                        self.assertEqual(values.get("msgstr"), "요정 마녀")
+                        self.assertEqual(values.get("msgstr"), "엘프 마녀")
                 if values.get("msgstr"):
                     with self.subTest(path=path.name, msgid=values.get("msgid", "")[:40]):
                         self.assertNotIn("흑마술사", values["msgstr"])
@@ -989,7 +1013,7 @@ class GlossaryTests(unittest.TestCase):
             "후회하게 될 거다",
             "거주민들은 그들을 별로 반기지 않는 듯했다",
             "저주받은 검은엄니 카즈그를 기습해 죽였소",
-            "당신을 구출하러 온 대규모 요정 군대",
+            "당신을 구출하러 온 대규모 엘프 군대",
             "죽음의 문턱에 머뭅니다",
             "계약에는 우리의 명예가 걸려 있네",
         ):
@@ -1013,7 +1037,7 @@ class GlossaryTests(unittest.TestCase):
             "여기는 사막이 아니야",
             "평소처럼 수적 우위도 점하기 어렵지",
             "우리 추적자들은 그들을 한 명씩 또는 소규모 무리로 쫓아가 처치했다",
-            "우리 요정 동족을 거의 알아차리지 못했다",
+            "우리 엘프 동족을 거의 알아차리지 못했다",
         ):
             with self.subTest(expected=expected):
                 self.assertIn(expected, text)
@@ -1029,7 +1053,7 @@ class GlossaryTests(unittest.TestCase):
         for expected in (
             "마주치는 오크, 트롤, 해골을 모조리 구워 버려서지.",
             "지상의 인간들이 몇 년 전 오크에게 노예가 되거나 죽었다고 생각했는데.",
-            "자유를 지키기 위해 옛 동맹인 난쟁이들에게 도움과 장비를 구하러 왔습니다.",
+            "자유를 지키기 위해 옛 동맹인 드워프들에게 도움과 장비를 구하러 왔습니다.",
             "우리 요새에 온 것을 환영하오.",
             "아직 놈들이 우리를 눈치채지 못한 듯하오.",
             "각자의 길을 갈 때가 되었다고 생각한 모양입니다.",
@@ -1046,13 +1070,13 @@ class GlossaryTests(unittest.TestCase):
     def test_reviewed_northern_rebirth_opening_keeps_meaning(self):
         text = (WORK_KO / "wesnoth-nr-ko.po").read_text(encoding="utf-8")
         for expected in (
-            "이곳은 난쟁이 동굴 입구 중 하나구나.",
+            "이곳은 드워프 동굴 입구 중 하나구나.",
             "주인님께 알려야겠어.",
             "나는 이제 죽지만, 자유인으로 죽는다!",
             "별로 영리한 놈은 아니었지, 그렇지?",
             "새로 얻은 자유에 대한 사람들의 기쁨을 억누를 수 없었다.",
             "탈린(Tallin)만은 침통한 표정이었다.",
-            "크날가(Knalga) 침공 때 죽은 난쟁이들이 이제 언데드가 되어",
+            "크날가(Knalga) 침공 때 죽은 드워프들이 이제 언데드가 되어",
         ):
             with self.subTest(expected=expected):
                 self.assertIn(expected, text)
@@ -1297,8 +1321,8 @@ class GlossaryTests(unittest.TestCase):
         _, rows = glossary_rows()
         by_source = {row["source_term"]: row for row in rows}
         expected = {
-            "Ford of Alyas": ("알리아스(Alyas)의 여울", "place_name"),
-            "Ford of Tifranur": ("티프라누르(Tifranur)의 여울", "place_name"),
+            "Ford of Alyas": ("알리아스(Alyas) 여울", "place_name"),
+            "Ford of Tifranur": ("티프라누르(Tifranur) 여울", "place_name"),
             "Reeve Hoban": ("호반(Hoban) 행정관", "person_name"),
             "Vash-Gorn": ("바시-고른(Vash-Gorn)", "person_name"),
             "North Knalga": ("북부 크날가(Knalga)", "place_name"),
@@ -1321,6 +1345,9 @@ class GlossaryTests(unittest.TestCase):
         )
         self.assertTrue(
             parenthetical_is_source_component("Wyrm", "Cave Wyrmlet")
+        )
+        self.assertTrue(
+            parenthetical_is_source_component("Mal-Ravanal", "Mal Ravanal")
         )
         self.assertFalse(parenthetical_is_source_component("urgh", "Üurgh"))
 
@@ -1770,8 +1797,8 @@ class GlossaryTests(unittest.TestCase):
         _, rows = glossary_rows()
         by_source = {row["source_term"]: row for row in rows}
         for source, korean in {
-            "Dwarf Grenadier": "난쟁이 폭탄투척병",
-            "Dwarf Hermit": "난쟁이 은둔자",
+            "Dwarf Grenadier": "드워프 폭탄투척병",
+            "Dwarf Hermit": "드워프 은둔자",
         }.items():
             with self.subTest(source=source):
                 self.assertEqual(by_source[source]["category"], "unit_name")
@@ -1823,7 +1850,7 @@ class GlossaryTests(unittest.TestCase):
         _, rows = glossary_rows()
         by_source = {row["source_term"]: row["standard_korean"] for row in rows}
         self.assertEqual(by_source["Mermaid Siren"], "인어 세이렌(Siren)")
-        self.assertEqual(by_source["Masked Dwarf"], "가면 쓴 난쟁이")
+        self.assertEqual(by_source["Masked Dwarf"], "가면 쓴 드워프")
         self.assertEqual(by_source["Merman Triton"], "인어 트리톤(Triton)")
         self.assertEqual(by_source["Ancient Lich"], "고대의 리치(Lich)")
         self.assertEqual(by_source["Cave Wyrmlet"], "동굴 웜(Wyrm) 새끼")
@@ -1847,7 +1874,7 @@ class GlossaryTests(unittest.TestCase):
             "Karmarth Hills": "카르마쓰(Karmarth) 언덕",
             "Brightleaf Wood": "빛나는 이파리(Brightleaf) 숲",
             "Clearwater Lake": "맑은물(Clearwater) 호수",
-            "Estmark Hills": "샛자리(Estmark) 산맥",
+            "Estmark Hills": "에스트마르크(Estmark) 언덕",
             "Fort Brell": "브렐(Brell) 성채",
             "Fort Miryen": "미리엔(Miryen) 성채",
             "Gryphon Mountain": "그리폰(Gryphon) 산맥",

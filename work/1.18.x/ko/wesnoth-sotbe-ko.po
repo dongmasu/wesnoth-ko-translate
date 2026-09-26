@@ -75,7 +75,7 @@ msgid ""
 "born allies to the Land of the Dead!\n"
 "\n"
 msgstr ""
-"당신의 아버지인 검은 눈 카룬은 역사상 가장 위대한 오크 지도자였다. 지금 오크와의 옛 협약을 깨고 당신의 땅을 빼앗으려는 인간들의 이기적인 계획을 좌절시키는 일은 그의 아들인 당신에게 달려 있다. 오크의 전투 부족들을 통합하고, 오크의 평의회에 모여 큰 무리를 결성해 벌레같은 인간들과 그 나모붙이 동맹군들을 죽은 자의 땅으로 보내버리자!\n"
+"당신의 아버지인 검은 눈 카룬은 역사상 가장 위대한 오크 지도자였다. 지금 오크와의 옛 협약을 깨고 당신의 땅을 빼앗으려는 인간들의 이기적인 계획을 좌절시키는 일은 그의 아들인 당신에게 달려 있다. 오크의 전투 부족들을 통합하고, 오크의 평의회에 모여 큰 무리를 결성해 벌레같은 인간들과 그 워즈 태생 동맹군들을 죽은 자의 땅으로 보내버리자!\n"
 "\n"
 
 #. [campaign]: id=Son_of_the_Black-Eye
@@ -216,7 +216,7 @@ msgid ""
 "to confirm the incident, but it soon became believed among the orcs that the "
 "Northern Alliance had deliberately set up this ambush in order to break the "
 "unity of the orcs by slaying their strongest leader."
-msgstr "검은 눈 카룬의 지혜와 기량, 그리고 지도력에 깊이 감명받은 라훌은 그를 북부 동맹의 군주 회합에 초대했다. 검은 눈 카룬은 숙고 끝에 제안을 받아들이기로 한다. 하지만 북부 동맹의 본부인 난쟁이 문으로 가던 카룬과 그의 소규모 경호인단은 의문의 기습을 받아 남김없이 살해당하고 만다. 이 사건을 증언할 생존자는 단 한명도 남지 않았지만, 오크들은 금세 북부 동맹이 그들의 가장 강력한 지도자를 죽임으로써 오크들의 통합을 깨뜨리기 위해 의도적으로 기습을 계획했다고 믿기 시작했다."
+msgstr "검은 눈 카룬의 지혜와 기량, 그리고 지도력에 깊이 감명받은 라훌은 그를 북부 동맹의 군주 회합에 초대했다. 검은 눈 카룬은 숙고 끝에 제안을 받아들이기로 한다. 하지만 북부 동맹의 본부인 드워프 문으로 가던 카룬과 그의 소규모 경호인단은 의문의 기습을 받아 남김없이 살해당하고 만다. 이 사건을 증언할 생존자는 단 한명도 남지 않았지만, 오크들은 금세 북부 동맹이 그들의 가장 강력한 지도자를 죽임으로써 오크들의 통합을 깨뜨리기 위해 의도적으로 기습을 계획했다고 믿기 시작했다."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:108
@@ -394,7 +394,7 @@ msgstr "자유 부족들의 땅에 있는 바락 고르(Barag Gór)로 가서 �
 msgid ""
 "But the free tribes are beyond the Mountains of Haag. These mountains are "
 "infested with dwarves and wild trolls."
-msgstr "하지만 자유 부족들은 하아그(Haag)의 산맥 너머에 있잖아요. 그 산맥에는 난쟁이들과 야생 트롤들이 가득한데요."
+msgstr "하지만 자유 부족들은 하아그(Haag)의 산맥 너머에 있잖아요. 그 산맥에는 드워프들과 야생 트롤들이 가득한데요."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:256
@@ -407,7 +407,7 @@ msgid ""
 "Don’t be so cowardly. The trolls have been our allies in the past — maybe "
 "they will help us. And what true orc has ever feared dwarvish dirt-grubbers? "
 "Move it! We leave within the hour. If you’re not ready by then, stay and die."
-msgstr "너무 겁먹지 마라. 트롤들은 예전부터 우리편이 었으니 아마 우리를 도와줄지도 모른다. 그리고 진정한 오크가 언제 땅이나 뒤지는 난쟁이를 두려워했나? 움직여라! 한 시간 내로 떠난다. 그때까지 준비가 안된놈은 남아서 죽어라."
+msgstr "너무 겁먹지 마라. 트롤들은 예전부터 우리편이 었으니 아마 우리를 도와줄지도 모른다. 그리고 진정한 오크가 언제 땅이나 뒤지는 드워프를 두려워했나? 움직여라! 한 시간 내로 떠난다. 그때까지 준비가 안된놈은 남아서 죽어라."
 
 #. [option]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/01_End_of_Peace.cfg:268
@@ -441,13 +441,13 @@ msgstr "백성들이 떠날 준비를 마칠 때까지 저항하라 (12턴까지
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:34
 #| msgid "Resist until your people are ready to go"
 msgid "Resist until your people are ready to go (turn 13)"
-msgstr "당신의 백성들이 떠날 준비가 될때까지 저항하라 (13 차례 남음)"
+msgstr "당신의 백성들이 떠날 준비가 될 때까지 저항하라 (13차례 남음)"
 
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:37
 #| msgid "Resist until your people are ready to go"
 msgid "Resist until your people are ready to go (turn 14)"
-msgstr "당신의 백성들이 떠날 준비가 될때까지 저항하라 (14 차례 남음)"
+msgstr "당신의 백성들이 떠날 준비가 될 때까지 저항하라 (14차례 남음)"
 
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/02_The_Human_Army.cfg:45
@@ -637,7 +637,7 @@ msgstr "크윌리(Kwili)"
 #. [side]: type=Dwarvish Lord, type=Dwarvish Steelclad, id=Kwili
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:95
 msgid "Dwarves"
-msgstr "난쟁이족"
+msgstr "드워프들"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:149
@@ -654,7 +654,7 @@ msgstr "정지! 거기 누구냐?"
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:158
 msgid "It is I, Kapou’e, son of the Black-Eye Karun. What do you want, dwarf?"
-msgstr "나다, 검은 눈 카룬의 아들 카포우에다. 뭘 원하나, 난쟁이?"
+msgstr "나다, 검은 눈 카룬의 아들 카포우에다. 뭘 원하나, 드워프?"
 
 #. [message]: speaker=Kwili
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:164
@@ -681,7 +681,7 @@ msgstr "(<i>낄낄</i>)"
 msgid ""
 "Your scorn and rudeness shall be your undoing. Dwarves, let no orc pass this "
 "way alive!"
-msgstr "그 무례함과 깔보는 태도가 네 실수다. 난쟁이들이여, 오크를 한 마리도 살려보내지 마라!"
+msgstr "그 무례함과 깔보는 태도가 네 실수다. 드워프들이여, 오크를 한 마리도 살려보내지 마라!"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:184
@@ -693,7 +693,7 @@ msgstr "어쨌든 놈들과 싸워야 할 것 같군."
 msgid ""
 "Hey, Chief, I was thinking — dwarves are pretty slow; why don’t we just "
 "bypass them?"
-msgstr "이봐, 추장, 제 생각인데요 — 난쟁이들은 무지 느리잖아요. 그냥 따돌려버리는건 어때요?"
+msgstr "이봐, 추장, 제 생각인데요 — 드워프들은 무지 느리잖아요. 그냥 따돌려버리는건 어때요?"
 
 #. [message]: role=Helper
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:194
@@ -751,7 +751,7 @@ msgstr "페(Pe)"
 #. [message]: speaker=Blemaker
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:289
 msgid "Look! Dwarves are fighting orcs!"
-msgstr "저기 봐라! 난쟁이들이 오크와 싸우고 있구나!"
+msgstr "저기 봐라! 드워프들이 오크와 싸우고 있구나!"
 
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:293
@@ -770,7 +770,7 @@ msgstr "나는 모르겠다. 오크들은 예전에 우리 동맹군이긴 했�
 msgid ""
 "But, Father, we don’t know what they are seeking there. Between us, we could "
 "squash these dwarves."
-msgstr "하지만, 아버지, 우린 저들이 뭐하러 왔는지 모르잖아요. 우리끼리라면 저 난쟁이들을 뭉개줄 수 있어요."
+msgstr "하지만, 아버지, 우린 저들이 뭐하러 왔는지 모르잖아요. 우리끼리라면 저 드워프들을 뭉개줄 수 있어요."
 
 #. [message]: speaker=Blemaker
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:305
@@ -787,7 +787,7 @@ msgstr "아버지! 안돼요!"
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:323
 msgid "Filthy dwarves! Now I’ll kill you to the last!"
-msgstr "더러운 난쟁이들! 한놈도 남기지 않고 죽여버리겠어!"
+msgstr "더러운 드워프들! 한놈도 남기지 않고 죽여버리겠어!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:334
@@ -825,7 +825,7 @@ msgid ""
 "you can from each of these houses. If anyone refuses to pay, tie them up and "
 "take what they have anyway. Let them know that they live only on my good "
 "graces. I’ll take the army to Barag Gór. Catch up when you’re done."
-msgstr "경고했을 텐데, 난쟁이야. 기병들, 흩어져서 집집마다 눈에 띄는 것을 모두 긁어 와라. 따르지 않는 놈이 있다면 꽁꽁 묶어 놓고 무조건 빼앗아 와라. 놈들이 살아 있는 건 내 자비 덕분이라는 걸 알려 줘라. 나는 군대를 바락 고르(Barag Gór)로 데려가겠다. 너희도 일이 끝나는 대로 따라오도록."
+msgstr "경고했을 텐데, 드워프야. 기병들, 흩어져서 집집마다 눈에 띄는 것을 모두 긁어 와라. 따르지 않는 놈이 있다면 꽁꽁 묶어 놓고 무조건 빼앗아 와라. 놈들이 살아 있는 건 내 자비 덕분이라는 걸 알려 줘라. 나는 군대를 바락 고르(Barag Gór)로 데려가겠다. 너희도 일이 끝나는 대로 따라오도록."
 
 #. [message]: role=doggie
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:381
@@ -850,7 +850,7 @@ msgid ""
 "Blemaker, many thanks for your help in this fight. Would you and your son "
 "like to join us in our journey? You are a powerful warrior, and you would be "
 "of great help."
-msgstr "블레마케르, 이번 싸움에 그대의 공이 컸소. 당신과 당신의 아들도 함께 여정에 함께하지 않으시겠소? 당신은 강인한 전사이니, 큰 도움이 될 것이오."
+msgstr "블레마케르, 이번 싸움에 그대의 공이 컸소. 그대와 그대의 아들도 함께 여정에 나서지 않으시겠소? 그대는 강인한 전사이니, 큰 도움이 될 것이오."
 
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/03_Toward_Mountains_of_Haag.cfg:431
@@ -883,7 +883,7 @@ msgstr "그뤼, 이번 싸움엔 자네의 공이 컸군. 자네 아버지께서
 msgid ""
 "My father would have come to help you. I would insult his memory not to help "
 "you. I come!"
-msgstr "아버지라면 당신을 도왔을거요. 당신을 돕지 않는건 그분에 대한 기억을 모독하는 거겠죠. 가겠어요!"
+msgstr "아버지라면 그대를 도왔을 거요. 그대를 돕지 않는 건 그분에 대한 기억을 모독하는 거겠죠. 가겠어요!"
 
 #. [scenario]: id=04_The_Siege_of_Barag_Gor
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:4
@@ -935,7 +935,7 @@ msgstr "에델리엘(Etheliel)"
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/08_Silent_Forest.cfg:79
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/08_Silent_Forest.cfg:98
 msgid "Elves"
-msgstr "엘프족"
+msgstr "엘프들"
 
 #. [side]: type=Orcish Slayer, id=Rugh
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:83
@@ -988,7 +988,7 @@ msgid ""
 "What the—! Barag Gór is besieged by elves! The wose-born weaklings have "
 "always been jealous of our power, but what reason do they have to attack the "
 "city?"
-msgstr "이 무슨—! 엘프들이 바락 고르(Barag Gór)를 포위했잖은가! 허약한 나모붙이들은 언제나 우리의 힘을 질투하지만, 어째서 놈들이 도시를 공격하는 거지?"
+msgstr "이 무슨—! 엘프들이 바락 고르(Barag Gór)를 포위했잖은가! 허약한 워즈(Wose) 태생들은 언제나 우리의 힘을 질투하지만, 어째서 놈들이 도시를 공격하는 거지?"
 
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:255
@@ -1043,7 +1043,7 @@ msgstr "우리 볼일은 네가 알 바가 아니다."
 msgid ""
 "Oh, yes, it is. The shamans keep our ancient knowledge and our sacred "
 "things; they are not for the likes of you. Why do you want them anyway?"
-msgstr "아, 그래, 그렇군. 주술사들은 우리가 가진 고대의 지식과 신성한 것들을 지키지. 그들은 너희같은 것들관 달라. 어쨌든 왜 그들을 원하는거지?"
+msgstr "아, 그래, 그렇군. 주술사들은 우리가 가진 고대의 지식과 신성한 것들을 지키지. 그들은 너희 같은 것들과는 달라. 어쨌든 왜 그들을 원하는 거지?"
 
 #. [message]: speaker=Ammon
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:325
@@ -1141,7 +1141,7 @@ msgstr "제토(Jetto)"
 msgid ""
 "Freedom! Many thanks, Son of the Black-Eye. I’m Jetto, master of assassins, "
 "now you can count on the assassins’ guild to help you in your quest!"
-msgstr "자유다! 정말 고맙소, 검은 눈 아들이여. 나는 암살자의 주인인 제토(Jetto)요, 이제 당신은 당신이 가는 길에 암살자 조합의 도움을 받을 수 있소!"
+msgstr "자유다! 정말 고맙소, 검은 눈 아들이여. 나는 암살자의 주인인 제토(Jetto)요. 이제 그대는 그대가 가는 길에 암살자 조합의 도움을 받을 수 있소!"
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:493
@@ -1170,7 +1170,7 @@ msgstr "드디어! 포위가 풀렸다."
 msgid ""
 "Thank you, Son of the Black-Eye. If you hadn’t arrived when you did, I don’t "
 "know what would have happened to us."
-msgstr "고맙소, 검은 눈 아들이여. 당신이 제때 와 주지 않았다면 우리에게 무슨 일이 일어날지 몰랐을 거요."
+msgstr "고맙소, 검은 눈 아들이여. 그대가 제때 와 주지 않았다면 우리에게 무슨 일이 일어날지 몰랐을 거요."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:519
@@ -1205,7 +1205,7 @@ msgstr "저 오만한 인간들이 대규모 군대를 모아서 우리를 공�
 msgid ""
 "Hmmmm, this situation is very serious. As you know by now, they have also "
 "hired these elves to attack us here."
-msgstr "흐으으음, 이건 정말로 큰일이요. 당신이 지금 알았듯이, 놈들은 엘프들까지 고용해서 여길 공격했소."
+msgstr "흐으으음, 이건 정말로 큰일이요. 자네가 이제 알았듯이, 놈들은 엘프들까지 고용해서 여길 공격했소."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/04_The_Siege_of_Barag_Gor.cfg:549
@@ -1455,7 +1455,7 @@ msgstr "이제, 티리가즈(Tirigaz)다. 그런데 무슨 일이지?"
 msgid ""
 "Looks like humans have attacked here too. You were right, Kapou’e, the "
 "humans have declared all-out war on us."
-msgstr "아무래도 인간들이 여기도 공격한 것 같소. 카포우에 당신이 옳았소. 인간들이 우리에게 전면전을 선포한거요."
+msgstr "아무래도 인간들이 여기도 공격한 것 같소. 카포우에(Kapou’e), 자네가 옳았소. 인간들이 우리에게 전면전을 선포한 거요."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/06_Black_Flag.cfg:182
@@ -2128,7 +2128,7 @@ msgstr "교만한 자 샨 타움(Shan Taum)"
 #. [objective]: condition=win
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:20
 msgid "Survive the Shan Taum menace for 20 turns"
-msgstr "샨 타움(Shan Taum)의 위협으로부터 20 차례를 버틸 것"
+msgstr "샨 타움(Shan Taum)의 위협으로부터 20차례를 버틸 것"
 
 #. [objectives]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/09_Shan_Taum_the_Smug.cfg:24
@@ -2341,7 +2341,7 @@ msgstr "남쪽 다리를 파괴하라 (카포우에와 그뤼는 북쪽에 남�
 msgid ""
 "In order to recruit saurians later on, bring Inarix and at least four "
 "saurians to safety"
-msgstr "나중에 사우리언들을 소집하려면, 이나릭스(Inarix)와 함께 최소한 사우리언 4 기가 생존해야 합니다"
+msgstr "나중에 사우리안들을 소집하려면, 이나릭스(Inarix)와 함께 최소한 사우리안 4기가 생존해야 합니다"
 
 #. [note]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:65
@@ -2381,7 +2381,7 @@ msgid ""
 "Reinforcements, at last! Whoever you are, you are welcome in Prestim! The "
 "fortified bridge over the River Bork was taken this morning by a small "
 "commando of elves. We have already tried to assault it twice without success."
-msgstr "마침내 원군이 왔구나! 당신이 누구든 프레스팀(Prestim)에 온 것을 환영하오! 보르크 강 위에 놓인 요새화된 다리가 오늘 아침 엘프 특공대원들에게 점령당했소. 우린 두번이나 재탈환을 시도했지만 실패했소."
+msgstr "마침내 원군이 왔구나! 당신이 누구든 프레스팀(Prestim)에 온 것을 환영하오! 보르크 강 위에 놓인 요새화된 다리가 오늘 아침 엘프 특공대원들에게 점령당했소. 우린 두 번이나 재탈환을 시도했지만 실패했소."
 
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:196
@@ -2401,7 +2401,7 @@ msgstr "더 나쁜 소식이 있소. 우리 정찰대가 이나릭스(Inarix)가
 msgid ""
 "Elves and dwarves have joined humans against us and have set up camp nearby. "
 "Humans will arrive soon. We must destroy the southern bridge on the river."
-msgstr "엘프와 난쟁이들이 인간들과 연합해서 우리를 상대하기 위해 근처에 야영지를 세웠소. 인간들은 곧 도착할 거요. 우린 강의 남쪽 다리를 부숴야만 하오."
+msgstr "엘프와 드워프들이 인간들과 연합해서 우리를 상대하기 위해 근처에 야영지를 세웠소. 인간들은 곧 도착할 거요. 우린 강의 남쪽 다리를 부숴야만 하오."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:208
@@ -2554,7 +2554,7 @@ msgstr "<i>푸휴!</i>"
 msgid ""
 "Blast it! The saurians have had too many casualties in order for them to be "
 "of any real help to us. We won’t be able to recruit them in the future."
-msgstr "제기랄! 사우리안족이 너무 많이 희생돼서 이후의 도움을 기대할 수가 없다. 나중에 이들을 소집할 순 없겠어."
+msgstr "제기랄! 사우리안들이 너무 많이 희생돼서 이후의 도움을 기대할 수가 없다. 나중에 이들을 소집할 순 없겠어."
 
 #. [message]: speaker=Thelarion
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:638
@@ -2598,7 +2598,7 @@ msgid ""
 "So, the elves and dwarves failed to take the fortress and the beasts were "
 "able to muster a defense. No matter. Once the vanguard of my army arrives, I "
 "will storm their pitiful fortress myself."
-msgstr "그래서, 엘프와 난쟁이는 요새를 빼앗지 못하고, 그 짐승들은 수비병들을 모을 수 있었단 말인가. 문제없어. 내 군대의 선봉대가 도착하면, 놈들의 보잘것없는 요새를 내가 직접 습격할 것이다."
+msgstr "그래서, 엘프와 드워프는 요새를 빼앗지 못하고, 그 짐승들은 수비병들을 모을 수 있었단 말인가. 문제없어. 내 군대의 선봉대가 도착하면, 놈들의 보잘것없는 요새를 내가 직접 습격할 것이다."
 
 #. [message]: speaker=unit
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/10_Saving_Inarix.cfg:741
@@ -2953,7 +2953,7 @@ msgstr "상관없어. 무리는 으깬다!"
 #. [scenario]: id=13_The_Dwarvish_Stand
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:4
 msgid "The Dwarvish Stand"
-msgstr "난쟁이들의 항전"
+msgstr "드워프들의 항전"
 
 #. [side]: type=Bandit, id=Sagmar
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:90
@@ -2985,7 +2985,7 @@ msgid ""
 "fall. A few days after the first snowfall, a goblin rider — half dead from "
 "exhaustion — raced into Dorest with news that Borstep was under siege by a "
 "large force of dwarves, outlaws and elves."
-msgstr "몇 주 동안 소규모 저항을 찍어누르고 마지막 인간 근거지까지 청소하고 나자, 북방의 기나긴 겨울을 알리는 첫눈이 내리기 시작했다. 첫 눈이 오고 며칠 뒤, 고블린 기병이 지쳐서 반쯤 죽어가는 채로 도레스트로 달려와 보르스테프가 난쟁이, 무법자, 엘프들의 대규모 병력에 포위당해있다는 소식을 전했다."
+msgstr "몇 주 동안 소규모 저항을 찍어누르고 마지막 인간 근거지까지 청소하고 나자, 북방의 기나긴 겨울을 알리는 첫눈이 내리기 시작했다. 첫 눈이 오고 며칠 뒤, 고블린 기병이 지쳐서 반쯤 죽어가는 채로 도레스트로 달려와 보르스테프가 드워프, 무법자, 엘프들의 대규모 병력에 포위당해있다는 소식을 전했다."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:115
@@ -3050,7 +3050,7 @@ msgid ""
 "the rest of the horde. A few hours later, a rider reported back that he had "
 "picked up a trail of a large body of dwarves, elves and humans heading east "
 "through the mountains."
-msgstr "카포우에는 불안과 분노로 타오르는 눈빛으로 기병들에게 모든 방면을 샅샅이 뒤져 범인을 찾도록 이르고 나머지 무리와 함께 야영지를 세웠다. 몇 시간 뒤, 한 기병이 돌아와 대규모 난쟁이, 엘프, 인간들이 산맥 동쪽으로 행군하고 있다는 사실을 알렸다."
+msgstr "카포우에는 불안과 분노로 타오르는 눈빛으로 기병들에게 모든 방면을 샅샅이 뒤져 범인을 찾도록 이르고 나머지 무리와 함께 야영지를 세웠다. 몇 시간 뒤, 한 기병이 돌아와 대규모 드워프, 엘프, 인간들이 산맥 동쪽으로 행군하고 있다는 사실을 알렸다."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:145
@@ -3087,7 +3087,7 @@ msgid ""
 "Elf, our kind can move and fight far better and faster in these conditions "
 "than your kind can. Take the orcish prisoners and hurry to Melmog. The "
 "dwarves shall stop this orcish menace!"
-msgstr "엘프여, 우리 종족은 당신들보다 이런 환경에서 훨씬 빠르고, 또 잘 싸울 수 있어. 오크 포로들을 어서 멜모그로 이송하게. 난쟁이들은 오크들의 위협을 막고 있겠네!"
+msgstr "엘프여, 우리 종족은 당신들보다 이런 환경에서 훨씬 빠르고, 또 잘 싸울 수 있어. 오크 포로들을 어서 멜모그로 이송하게. 드워프들은 오크들의 위협을 막고 있겠네!"
 
 #. [message]: speaker=Thelarion
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:260
@@ -3107,12 +3107,12 @@ msgid ""
 "Bah, cowardly little elves. No dwarf would have ever agreed to such a "
 "proposal. Good riddance too, those elves just get in the way. Come on men, "
 "it’s time to show those orcs our steel!"
-msgstr "하, 겁쟁이 꼬마 엘프들. 그 어떤 난쟁이도 그런 제안엔 동의한 일이 없어. 잘 쫓아냈지, 저 엘프들은 방해만 돼. 가자 얘들아, 오크들에게 도끼 맛을 보여줄 차례다!"
+msgstr "하, 겁쟁이 꼬마 엘프들. 그 어떤 드워프도 그런 제안엔 동의한 일이 없어. 잘 쫓아냈지, 저 엘프들은 방해만 돼. 가자 얘들아, 오크들에게 도끼 맛을 보여줄 차례다!"
 
 #. [message]: speaker=Grüü
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:287
 msgid "Ahhh, nice. I finally get chance to squash dwarves again."
-msgstr "아아, 괜찮은데. 드디어 난쟁이들을 또 뭉개줄 수 있겠어."
+msgstr "아아, 괜찮은데. 드디어 드워프들을 또 뭉개줄 수 있겠어."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/13_The_Dwarvish_Stand.cfg:293
@@ -3157,7 +3157,7 @@ msgid ""
 "Having broken the dwarvish blockade, the horde continued on through the "
 "mountain pass. Kapou’e began to recognize the lands about them and sure "
 "enough, they soon found themselves back in the tribe’s homeland."
-msgstr "난쟁이의 저지선을 뚫고, 무리는 다시 산길을 행군했다. 카포우에는 그들 주변의 땅을 알아보았다. 분명 그들은 부족의 고향으로 돌아온 것이다."
+msgstr "드워프의 저지선을 뚫고, 무리는 다시 산길을 행군했다. 카포우에는 그들 주변의 땅을 알아보았다. 분명 그들은 부족의 고향으로 돌아온 것이다."
 
 #. [event]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:198
@@ -3216,7 +3216,7 @@ msgstr "넌 맨날 추장의 작전이 좋다는구나, 그뤼."
 msgid ""
 "Of course. Squash elves, squash undead, squash dwarves, squash humans. "
 "Squash them all, very good plan!"
-msgstr "당연하지. 엘프들을 뭉개고, 언데드를 뭉개고, 난쟁이를 뭉개고, 인간들을 뭉갠다. 전부 뭉개니까 아주 좋은 계획이잖아!"
+msgstr "당연하지. 엘프들을 뭉개고, 언데드를 뭉개고, 드워프를 뭉개고, 인간들을 뭉갠다. 전부 뭉개니까 아주 좋은 계획이잖아!"
 
 #. [message]: role=army
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:317
@@ -3381,7 +3381,7 @@ msgstr "아니, 정말이야. 그는 카포우에라는 건방진 어린 녀석�
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:662
 msgid ""
 "Refer to Black-Eye Karun with respect, wose-born. Now, where are the shamans?"
-msgstr "검은 눈 카룬을 언급할 때 예의를 가져라, 나모붙이 놈아. 그럼 주술사들은 어디 있나?"
+msgstr "검은 눈 카룬을 언급할 때 예의를 가져라, 워즈(Wose) 태생 놈아. 그럼 주술사들은 어디 있나?"
 
 #. [message]: speaker=Thelarion
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:667
@@ -3422,7 +3422,7 @@ msgstr "몇 분 후..."
 msgid ""
 "The human-worms and tree-shaggers have gone too far! BLOOD AND STEEL! I want "
 "every human and elf in this area slaughtered! Show no mercy, give no quarter!"
-msgstr "인간 벌레들과 나무붙이들이 갈데까지 갔구나! 철혈의 진군이다! 이 지역의 모든 인간과 엘프들을 죽여버려라! 자비도 아량도 보여 주지 마라!"
+msgstr "인간 벌레들과 워즈들(Woses)이 갈 데까지 갔구나! 철혈의 진군이다! 이 지역의 모든 인간과 엘프들을 죽여 버려라! 자비도 아량도 보여 주지 마라!"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:727
@@ -3435,7 +3435,7 @@ msgid ""
 "<i>What</i>?! The human-worms and tree-shaggers have gone too far! BLOOD AND "
 "STEEL! I want every human and elf in this area slaughtered! Show no mercy, "
 "give no quarter!"
-msgstr "<i>뭐야</i>?! 인간 벌레들과 나무붙이들이 갈데까지 갔구나! 철혈의 진군이다! 이 지역의 모든 인간과 엘프들을 죽여버려라! 자비도 아량도 보여 주지 마라!"
+msgstr "<i>뭐야</i>?! 인간 벌레들과 워즈들(Woses)이 갈 데까지 갔구나! 철혈의 진군이다! 이 지역의 모든 인간과 엘프들을 죽여 버려라! 자비도 아량도 보여 주지 마라!"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/14_Back_Home.cfg:738
@@ -3553,7 +3553,7 @@ msgid ""
 "traitor. Bitok being on the far side of orcish territory, this would also "
 "give him a good chance to clobber the orcs into working together again — the "
 "old-fashioned way."
-msgstr "카포우에는 그런 일은 절대 일어나게 하지 않겠다고 맹세했다. 일련의 사건들은 오크족의 통합을 깨뜨리기 위한 배신적인 계획의 냄새가 났다. 뿐만아니라, 그 나무붙이 말이 맞다면, 교만한 자 샨 타움(Shan Taum)이 모든 것의 뒤에 있었다. 자기 종족을 배신한 오크가 대체 무엇을 얻을 수 있는지 카포우에는 상상도 할 수 없었지만, 어쨌든 그는 홀로 비토크로 진군해서 배신자를 상대하기로 결심했다. 비토크는 오크의 영토에서도 구석진 곳에 있었기에, 이것은 또한 오크들을 옛 방식대로 두들겨 패서 다시 뭉치게 만들 좋은 기회였다."
+msgstr "카포우에는 그런 일은 절대 일어나게 하지 않겠다고 맹세했다. 일련의 사건들은 오크들의 통합을 깨뜨리기 위한 배신적인 계획의 냄새가 났다. 뿐만 아니라, 그 워즈(Wose)의 말이 맞다면 교만한 자 샨 타움(Shan Taum)이 모든 것의 뒤에 있었다. 자기 종족을 배신한 오크가 대체 무엇을 얻을 수 있는지 카포우에는 상상도 할 수 없었지만, 어쨌든 그는 홀로 비토크로 진군해서 배신자를 상대하기로 결심했다. 비토크는 오크 영토에서도 구석진 곳에 있었기에, 이것은 또한 오크들을 옛 방식대로 두들겨 패서 다시 뭉치게 만들 좋은 기회였다."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/15_Civil_War.cfg:193
@@ -3981,7 +3981,7 @@ msgstr "호우가르쓰(Howgarth) 3세"
 #. [message]: speaker=Howgarth III
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:429
 msgid "Hold it! What in the wide green world is going on here!"
-msgstr "멈추시오! 대체 이 넓은 녹빛 천지에 무슨 짓을 하는거요!"
+msgstr "멈추시오! 대체 이 넓은 녹빛 천지에 무슨 짓을 하는 거요!"
 
 #. [message]: speaker=Earl Lanbec'h
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:435
@@ -3993,7 +3993,7 @@ msgstr "호우가르쓰(Howgarth)? 당신과 그 방해되는 동맹은 항상 �
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:440
 msgid "Just who do you think you are, slug?"
-msgstr "네놈이 뭐라도 된다고 생각하는거냐, 달팽이?"
+msgstr "네놈이 뭐라도 된다고 생각하는 거냐, 달팽이?"
 
 #. [message]: speaker=Howgarth III
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:446
@@ -4019,7 +4019,7 @@ msgid ""
 "treaty some seventeen years ago between your people and the orcs, which both "
 "of you are no doubt violating. It is our duty as the orchestrator and "
 "witness of this treaty to see that it is honored."
-msgstr "빌어먹게도 없지, 란벡흐 백작. 북부 동맹은 벌써 17년 전에 공증했는데, 당신들 둘다 그것을 위반하였소. 우리는 이 조약이 지켜지는 것을 보는것이 이 조약의 중재자이자 공증인으로서의 의무요."
+msgstr "빌어먹게도 없지, 란벡흐 백작. 북부 동맹은 벌써 17년 전에 공증했는데, 당신들 둘 다 그것을 위반하였소. 우리는 이 조약이 지켜지는 것을 보는 것이 이 조약의 중재자이자 공증인으로서의 의무요."
 
 #. [message]: speaker=Earl Lanbec'h
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:463
@@ -4027,7 +4027,7 @@ msgid ""
 "Well, good for you. As a matter of fact, this land is clearly defined under "
 "your precious treaty as human territory. So if you are so keen on being all "
 "high and noble, then muster your men to help us push back this orcish menace."
-msgstr "좋아, 잘하는군. 사실을 말하자면, 이 땅은 당신의 소중한 조약에 의하면 완벽하게 인간의 영토요. 그렇게 높고 고귀한 데에 집착할 것 같으면 부하들을 모아서 이 오크들의 위협을 물리치는걸 도와주는게 어떻소."
+msgstr "좋아, 잘하는군. 사실을 말하자면, 이 땅은 당신의 소중한 조약에 의하면 완벽하게 인간의 영토요. 그렇게 높고 고귀한 데에 집착할 것 같으면 부하들을 모아서 이 오크들의 위협을 물리치는 걸 도와주는 게 어떻소."
 
 #. [message]: speaker=Howgarth III
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/17_The_Human_Attack.cfg:468
@@ -4174,7 +4174,7 @@ msgstr "호오 호오 호오, 여기 이게 누군가? 혐오스런 아비와 �
 msgid ""
 "Collaborating with the humans, pfff. You’re one to talk. What are you doing "
 "here, Shan Taum?"
-msgstr "인간과 내통한다라, 풉. 네놈이 할 말이냐. 여기서 뭐하는 거지, 샨 타움(Shan Taum)?"
+msgstr "인간과 내통한다라, 풉. 네놈이 할 말이냐. 여기서 뭐 하는 거지, 샨 타움(Shan Taum)?"
 
 #. [message]: speaker=Shan Taum
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:486
@@ -4257,7 +4257,7 @@ msgid ""
 "ambush. Once you get back to your camp, we will make a joint assault on "
 "these traitors. Once they are dead and dispersed, then I trust you will "
 "carry out our agreement."
-msgstr "카포우에, 나는 내 야영지로 돌아가서 우리의 합의와 이 배신에 대해서 필히 알려야겠소. 그리폰 기병 중 한 명이 날 데려갈 거요. 내 경호원과 나머지 그리폰들이 이 습격에서 빠져나가는 걸 도와줄 거요. 기지로 돌아가면 이 배신자들을 협공하도록 합시다. 저들이 죽고 해산되면, 당신이 약속을 지키리라 믿소."
+msgstr "카포우에, 나는 내 야영지로 돌아가서 우리의 합의와 이 배신에 대해서 필히 알려야겠소. 그리폰 기병 중 한 명이 날 데려갈 거요. 내 경호원(One)과 나머지 그리폰들이 이 습격에서 빠져나가는 걸 도와줄 거요. 기지로 돌아가면 이 배신자들을 협공하도록 합시다. 저들이 죽고 해산되면, 당신이 약속을 지키리라 믿소."
 
 #. [message]: speaker=Kapou'e
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/18_Northern_Alliance.cfg:642
@@ -4368,7 +4368,7 @@ msgid ""
 "of humans, dwarves, elves, and undead. Agreements were thrashed out to the "
 "effect that orcs desiring to trade would have free passage anywhere in "
 "orcish territory without hindrance from other tribes."
-msgstr "카포우에는 오랜 세월 통치했으며, 그 시기는 오크들에게 전례없는 번영과 통합의 시기였다. 카포우에의 통치하에서 통합된 오크 병력은 그들의 영토에서 인간, 난쟁이, 엘프, 언데드 이탈자 무리들을 확실하게 처단했다. 협약 덕분에 교역하고자 하는 오크들은 오크 영토내 어느 곳에서든 다른 부족의 제지를 받지 않고 자유롭게 통행할 수 있었다."
+msgstr "카포우에는 오랜 세월 통치했으며, 그 시기는 오크들에게 전례 없는 번영과 통합의 시기였다. 카포우에의 통치하에서 통합된 오크 병력은 그들의 영토에서 인간, 드워프, 엘프, 언데드 이탈자 무리들을 확실하게 처단했다. 협약 덕분에 교역하고자 하는 오크들은 오크 영토 내 어느 곳에서든 다른 부족의 제지를 받지 않고 자유롭게 통행할 수 있었다."
 
 #. [part]
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/19_Epilogue.cfg:44

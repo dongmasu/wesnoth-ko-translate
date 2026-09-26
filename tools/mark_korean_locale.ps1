@@ -60,8 +60,8 @@ if (-not (Test-Path -LiteralPath $Config -PathType Leaf)) {
 }
 
 $content = Get-Content -Raw -Encoding UTF8 $Config
-if ($content -notmatch 'name="한국어 \((Hangugeo|[0-9]+\.[0-9]+\.x-[0-9]{8})\)"' -or
-    $content -notmatch 'sort_name\s*=\s*"(Hangugeo|[0-9]+\.[0-9]+\.x-[0-9]{8})"') {
+if ($content -notmatch 'name="한국어 \([^"]*\)"' -or
+    $content -notmatch 'sort_name\s*=\s*"Hangugeo"') {
     throw "expected Korean locale metadata was not found"
 }
 
@@ -71,7 +71,6 @@ $temporary = "$Config.tmp-$stamp"
 Copy-Item -LiteralPath $Config -Destination $backup
 
 $updated = $content -replace 'name="한국어 \([^"]*\)"', "name=""한국어 ($Marker)""" 
-$updated = $updated -replace 'sort_name\s*=\s*"[^"]*"', "sort_name = ""$Marker"""
 $updated = $updated -replace 'percent\s*=\s*\d+', 'percent=100'
 [System.IO.File]::WriteAllText(
     $temporary,

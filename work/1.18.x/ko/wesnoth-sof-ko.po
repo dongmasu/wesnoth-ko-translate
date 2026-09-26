@@ -136,7 +136,7 @@ msgstr "룩누르(Rugnur)"
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:34
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:36
 msgid "Dwarves"
-msgstr "난쟁이족"
+msgstr "드워프들"
 
 #. [side]: type=Haldric II, id=Haldric II
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:37
@@ -170,7 +170,7 @@ msgstr "글릴두르(Glildur)"
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:65
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:44
 msgid "Elves"
-msgstr "엘프족"
+msgstr "엘프들"
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:190
@@ -180,7 +180,7 @@ msgid ""
 "over the ocean by Haldric the Great, nor will I tell the story of Garard I "
 "and the challenge he set, nor that of Konrad, King of Wesnoth by virtue of "
 "the Sceptre."
-msgstr "그래, 불의 왕홀이지. 이 왕홀에는 길고 영광스럽고 두려운 역사가 있네. 하지만 여기서 위대한 할드릭(Haldric)이 왕홀 안의 보석을 바다 건너 가져온 이야기를 하려는 것은 아니야. 가라드 1세가 내린 과제의 이야기도, 왕홀 덕분에 웨스노스(Wesnoth)의 왕이 된 콘라드(Konrad)의 이야기도 하지 않겠네."
+msgstr "그래, 불의 왕홀이지. 이 왕홀에는 길고 영광스럽고 두려운 역사가 있네. 하지만 여기서 위대한 할드릭(Haldric)이 왕홀 안의 보석을 바다 건너 가져온 이야기를 하려는 것은 아니야. 가라드(Garard) 1세가 내린 과제의 이야기도, 왕홀 덕분에 웨스노스(Wesnoth)의 왕이 된 콘라드(Konrad)의 이야기도 하지 않겠네."
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:194
@@ -270,7 +270,7 @@ msgstr "인간들, 멈춰라! 누가 감히 군대를 이끌고 드워프의 언
 #. [message]: speaker=Haldric II
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:310
 msgid "We come to make a bargain with you."
-msgstr "당신들과 거래를 하러 왔소."
+msgstr "그대들과 거래를 하러 왔소."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:314
@@ -334,7 +334,7 @@ msgstr "그래서... 우리가 돌의 광채를 가두길 바라는 건가? 어�
 msgid ""
 "Exactly. I want you to craft it into a mighty artifact that will not only "
 "leverage the stone’s power, but contain it also."
-msgstr "정확하오. 나는 당신들이 돌의 힘을 활용할 뿐 아니라 그 힘도 가둘 수 있는 강력한 유물로 만들어 주길 바라오."
+msgstr "정확하오. 나는 그대들이 돌의 힘을 활용할 뿐 아니라 그 힘도 가둘 수 있는 강력한 유물로 만들어 주길 바라오."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:365
@@ -348,21 +348,21 @@ msgstr "글쎄... 거래할 수 있을 것 같지만 확신은 없군. 부족장
 msgid ""
 "If you are not authorized to make a deal, send out someone who is, and I "
 "will bargain with him."
-msgstr "당신에게 거래를 맺을 권한이 없다면, 권한이 있는 자를 보내시오. 그와 협상하겠소."
+msgstr "그대에게 거래를 맺을 권한이 없다면, 권한이 있는 자를 보내시오. 그와 협상하겠소."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:374
 msgid ""
 "They would refuse to come. You must come into the caves and go to the city "
 "in person, or send a representative."
-msgstr "그들은 오기를 거부할 거요. 당신이 직접 동굴 안으로 들어와 도시로 가거나 대표를 보내야 하오."
+msgstr "그들은 오기를 거부할 거요. 그대가 직접 동굴 안으로 들어와 도시로 가거나 대표를 보내야 하오."
 
 #. [message]: speaker=Haldric II
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:378
 msgid ""
 "I can always take my offer to another clan more friendly to its potential "
 "patrons. You are not the only smiths in the Northlands!"
-msgstr "나는 언제든 잠재적인 후원자에게 더 우호적인 다른 부족에 내 제안을 가져갈 수 있소. 북부에서 대장장이는 당신들만이 아니오!"
+msgstr "나는 언제든 잠재적인 후원자에게 더 우호적인 다른 부족에 내 제안을 가져갈 수 있소. 북부에서 대장장이는 그대들만이 아니오!"
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:383
@@ -428,7 +428,7 @@ msgid ""
 "over with the stone itself. He will stay with you as you make the sceptre, "
 "and make sure you get it done on time. I expect it done before my reign as "
 "king is ended."
-msgstr "좋소. 여기 운송할 준비가 된 은화가 있소. 그리고 돌 자체를 가지고 누군가를 보내겠소. 그는 당신들이 왕홀을 만드는 동안 함께 머물며 제때 완성하는지 확인할 것이오. 내가 왕으로 통치하는 동안 완성되길 바라오."
+msgstr "좋소. 여기 운송할 준비가 된 은화가 있소. 그리고 돌 자체를 가지고 누군가를 보내겠소. 그는 그대들이 왕홀을 만드는 동안 함께 머물며 제때 완성하는지 확인할 것이오. 내가 왕으로 통치하는 동안 완성되길 바라오."
 
 #. [unit]: type=Dragoon, id=Alanin
 #. [side]
@@ -479,7 +479,7 @@ msgstr "어쨌든 이곳으로 마차를 옮기려 한다면 통행료를 내거
 msgid ""
 "We Wesnothians and you elves have a treaty! Do you really mean to break it "
 "in defense of a road that is not even yours?!"
-msgstr "우리 웨스노스인과 당신들 엘프 사이에는 조약이 있소! 당신들 것이 아닌 길을 지키겠다고 정말 조약을 깨겠다는 거요?!"
+msgstr "우리 웨스노스인과 그대들 엘프 사이에는 조약이 있소! 그대들 것이 아닌 길을 지키겠다고 정말 조약을 깨겠다는 거요?!"
 
 #. [message]: speaker=Glildur
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:517
@@ -494,7 +494,7 @@ msgid ""
 "Ah, I see — you are one of the rebels. Our treaty with the elves does not "
 "apply to you, so I have no problem with slaying you if you stand in our way. "
 "Rugnur, we will proceed with the shipment."
-msgstr "아, 알겠소. 당신은 반란군 중 하나로군. 엘프와 맺은 우리 조약은 당신에게 적용되지 않으니, 앞을 가로막는다면 당신을 죽여도 문제없소. 룩누르(Rugnur), 운송을 계속하겠소."
+msgstr "아, 알겠소. 그대는 반란군 중 하나로군. 엘프와 맺은 우리 조약은 그대에게 적용되지 않으니, 앞을 가로막는다면 그대를 죽여도 문제없소. 룩누르(Rugnur), 운송을 계속하겠소."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:526
@@ -502,7 +502,7 @@ msgid ""
 "Very well. Glildur, if the high elvish council has made an alliance with "
 "these humans, I would advise you to follow it. But not doing so is your "
 "choice."
-msgstr "좋소. 글릴두르(Glildur), 고등 엘프 의회가 이 인간들과 동맹을 맺었다면 그 동맹을 따르길 권하겠소. 따르지 않는 것은 당신의 선택이오."
+msgstr "좋소. 글릴두르(Glildur), 고등 엘프 의회가 이 인간들과 동맹을 맺었다면 그 동맹을 따르길 권하겠소. 따르지 않는 것은 그대의 선택이오."
 
 #. [message]: speaker=Alanin
 #: data/campaigns/Sceptre_of_Fire/scenarios/1_A_Bargain_is_Struck.cfg:669
@@ -740,7 +740,7 @@ msgstr "잠깐! 룩누르(Rugnur), 네가 여기 지휘를 맡을 때 <i>아무�
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:362
 msgid "Not really. This was supposedly a time of peace. Who are you?"
-msgstr "딱히 그렇지는 않았소. 평화로운 시기라고 했으니까. 당신은 누구요?"
+msgstr "딱히 그렇지는 않았소. 평화로운 시기라고 했으니까. 자네는 누구요?"
 
 #. [message]: speaker=Baglur
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:366
@@ -809,7 +809,7 @@ msgstr "항복할 생각은 정했나? 포기하지 않겠다면 전투를 준�
 msgid ""
 "You may be more powerful than us, but I doubt even you can blast through "
 "dwarf-made stonecraft. We refuse — now let’s close these gates!"
-msgstr "당신들이 우리보다 강할지는 몰라도, 드워프가 만든 석조물을 뚫을 수 있을지는 의문이군. 우리는 거부하겠소. 이제 이 문을 닫읍시다!"
+msgstr "그대들이 우리보다 강할지는 몰라도, 드워프가 만든 석조물을 뚫을 수 있을지는 의문이군. 우리는 거부하겠소. 이제 이 문을 닫읍시다!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Sceptre_of_Fire/scenarios/2_Closing_the_Gates.cfg:519
@@ -917,7 +917,7 @@ msgstr "피드메르 가르(Pidmer Gar)"
 #. [side]: type=Goblin Rouser, id=Pidmer
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:57
 msgid "Goblins"
-msgstr "고블린"
+msgstr "고블린들"
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/2p5_Reaching_the_Runecrafter.cfg:67
@@ -1353,7 +1353,7 @@ msgid ""
 "It was a couple more weeks of marching along the tracks before a chill "
 "breeze touched Rugnur’s group, washing over them from a side tunnel leading "
 "up to the surface. Had they reached the Northlands?"
-msgstr "철로를 따라 몇 주를 더 행군하고서야 지상으로 이어지는 샛길에서 차가운 바람이 불어와 룩누르(Rugnur) 일행을 휘감았다. 북부에 도착한 것일까?"
+msgstr "철로를 따라 몇 주를 더 행군하고서야 지상으로 이어지는 샛길에서 차가운 바람이 불어와 룩누르(Rugnur) 일행을 휘감았다. 북부 지방에 도착한 것일까?"
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:44
@@ -1363,7 +1363,7 @@ msgid ""
 "unfinished to the north. For this reason, Rugnur led the dwarves up the cold "
 "passage and began to search for the runesmith named Thursagan. Thursagan, "
 "the Sage of Fire."
-msgstr "알라닌(Alanin)은 몹시 못마땅했지만 철로를 따라 더 앞을 정찰하라는 명령을 받았다. 그러나 그는 곧 돌아와 철로가 끝났다고 보고했다. 북쪽의 주 터널은 아직 완성되지 않았던 것이다. 그래서 룩누르(Rugnur)는 드워프들을 차가운 통로로 이끌고 투르사간(Thursagan)이라는 룬 장인을 찾기 시작했다. 불의 현자 투르사간(Thursagan)을."
+msgstr "알라닌(Alanin)은 몹시 못마땅했지만 철로를 따라 더 앞을 정찰하라는 명령을 받았다. 그러나 그는 곧 돌아와 철로가 끝났다고 보고했다. 북쪽의 주 터널은 아직 완성되지 않았던 것이다. 그래서 룩누르(Rugnur)는 드워프들을 차가운 통로로 이끌고 룬 장인 투르사간(Thursagan)을 찾기 시작했다. 투르사간(Thursagan)은 불의 현자라고 불리는 인물이었다."
 
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:100
@@ -1503,7 +1503,9 @@ msgid ""
 "Yes...\n"
 "<i>(Quickly shifts gaze to nearby woods, adopts a hostile stance, then "
 "glances back at the dwarves.)</i>"
-msgstr "그래...\n<i>(재빨리 근처 숲으로 시선을 옮기고 적대적인 자세를 취한 뒤, 다시 드워프들을 흘끗 바라본다.)</i>"
+msgstr ""
+"그래...\n"
+"<i>(재빨리 근처 숲으로 시선을 옮기고 적대적인 자세를 취한 뒤, 다시 드워프들을 흘끗 바라본다.)</i>"
 
 #. [message]: speaker=Baglur
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:401
@@ -1628,7 +1630,7 @@ msgstr "아니, 잠깐, 내가 설명을 제대로 못 했군! 이 힘을 가둘
 msgid ""
 "Aye, a cage, and we can’t do it on our own, Thursagan. We need your skill "
 "and expertise!"
-msgstr "그래, 우리 말일세. 우리 힘만으로는 할 수 없소, 투르사간(Thursagan). 당신의 기술과 전문 지식이 필요하오!"
+msgstr "그래, 우리 말일세. 우리 힘만으로는 할 수 없소, 투르사간(Thursagan). 자네의 기술과 전문 지식이 필요하오!"
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:599
@@ -2030,7 +2032,7 @@ msgstr "그래, 돌아왔군. 필요한 재료는 구했겠지? 내 보석 세�
 msgid ""
 "We don’t need you, we need the ruby. I’ll take it to Theganli and we’ll "
 "review the cuts we plan to make."
-msgstr "우리가 필요한 건 당신이 아니라 루비요. 루비를 테간리(Theganli)에게 가져가서 어떻게 깎을지 검토하겠소."
+msgstr "우리가 필요한 건 자네가 아니라 루비요. 루비를 테간리(Theganli)에게 가져가서 어떻게 깎을지 검토하겠소."
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/4t_The_Jeweler.cfg:153
@@ -2531,7 +2533,7 @@ msgid ""
 "with a plan to outwit them later. Meanwhile, since the Shorbear’s rune "
 "workshops are in here, you and your runecrafters might as well make the "
 "sceptre now."
-msgstr "알겠어요! 문을 닫고 그들을 막으세요! 나중에 그들을 따돌릴 계획을 세우는 건 쉬울 겁니다. 그러는 동안, 쇼베어의 룬 작업장이 여기 있으니, 당신과 룬 세공사들은 지금 당장 홀을 만드는 게 좋을 겁니다."
+msgstr "알겠어요! 문을 닫고 그들을 막으세요! 나중에 그들을 따돌릴 계획을 세우는 건 쉬울 겁니다. 그러는 동안, 쇼베어의 룬 작업장이 여기 있으니, 그대와 룬 세공사들은 지금 당장 홀을 만드는 게 좋을 겁니다."
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/5_Hills_of_the_Shorbear_Clan.cfg:595
@@ -2684,7 +2686,7 @@ msgstr "닥쳐, 룩누르(Rugnur)! 네가 뭘 안다고 그러는 거냐. 내가
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:320
 msgid "What happened to your honor, Durstorn?!"
-msgstr "당신의 명예는 어떻게 된 겁니까, 두르스토른(Durstorn)?!"
+msgstr "자네의 명예는 어떻게 된 겁니까, 두르스토른(Durstorn)?!"
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:324
@@ -2698,7 +2700,7 @@ msgstr "이 어리석은 놈아, 명예보다 목숨이 중요하다! 문을 열
 msgid ""
 "You have no right to offer the Sceptre to the elves, Durstorn, it’s not "
 "yours to give!"
-msgstr "두르스토른(Durstorn), 당신에게는 왕홀을 엘프들에게 넘길 권리가 없소. 당신이 줄 수 있는 물건이 아니오!"
+msgstr "두르스토른(Durstorn), 자네에게는 왕홀을 엘프들에게 넘길 권리가 없소. 자네가 줄 수 있는 물건이 아니오!"
 
 #. [message]: speaker=Durstorn
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:348
@@ -2791,7 +2793,7 @@ msgstr "이곳과 크날가(Knalga) 사이의 땅에는 엘프가 득실거릴 �
 msgid ""
 "That’s fine for you, you can run fast in caves, but I can’t! What am I "
 "supposed to do?"
-msgstr "당신에게는 좋겠지만, 당신은 동굴에서 빠르게 달릴 수 있어도 나는 못 하오! 나는 어떻게 해야 하오?"
+msgstr "자네에게는 좋겠지만, 자네는 동굴에서 빠르게 달릴 수 있어도 나는 못 하오! 나는 어떻게 해야 하오?"
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:465
@@ -2811,7 +2813,7 @@ msgid ""
 "I’m not going to do that, it’s suicide! And in any case, I’ve been with you "
 "for ten years, almost as long as I was in the Wesnothian army; I’d prefer to "
 "fight with you."
-msgstr "그렇게는 못 하오. 자살 행위나 다름없소! 어쨌든 나는 웨스노스 군에 있었던 기간만큼이나 긴 10년 동안 당신들과 함께했소. 당신들과 함께 싸우고 싶소."
+msgstr "그렇게는 못 하오. 자살 행위나 다름없소! 어쨌든 나는 웨스노스 군에 있었던 기간만큼이나 긴 10년 동안 그대들과 함께했소. 그대들과 함께 싸우고 싶소."
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/6_Towards_the_Caves.cfg:490
@@ -3077,7 +3079,7 @@ msgid ""
 "Thus, Alanin escaped from his elvish pursuers. But the dwarves were not so "
 "lucky, for the section of the old eastern mines that they reached in their "
 "flight had become the lair of the dragon Khrakrahs."
-msgstr "그렇게 해서 알라닌(Alanin)은 엘프 추격자들에게서 벗어났다. 하지만 난쟁이들은 그리 운이 좋지 못했다. 그들이 도망쳐 도착한 옛 동부 광산의 한 구역은 이미 용 크흐라크라흐스의 소굴이 되어 있었기 때문이다. "
+msgstr "그렇게 해서 알라닌(Alanin)은 엘프 추격자들에게서 벗어났다. 하지만 드워프들은 그리 운이 좋지 못했다. 그들이 도망쳐 도착한 옛 동부 광산의 한 구역은 이미 용 크라크라스(Khrakrahs)의 소굴이 되어 있었기 때문이다."
 
 #. [objective]: condition=win
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:133
@@ -3166,7 +3168,7 @@ msgstr "감히 <i>내</i> 둥지를 침범하다니?"
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:395
 msgid "And which of the great dragons are you?"
-msgstr "그럼 당신은 위대한 용들 중 누구입니까?"
+msgstr "그럼 그대는 위대한 용들 중 누구입니까?"
 
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:400
@@ -3174,7 +3176,7 @@ msgid ""
 "I am Khrakrahs, greatest dragon of all time! Haldric killed Shek’kahan my "
 "rival, but he was weaker than me, and you will not find me so easy to "
 "defeat. Now get out of my volcano!"
-msgstr "나는 가장 위대한 용, 크흐라크라흐스다! 할드릭(Haldric)이 내 경쟁자 셰크카한을 죽였지만, 그는 나보다 약했고, 나를 이기는 게 그렇게 쉬운 일은 아닐 것이다. 이제 내 화산에서 꺼져라!"
+msgstr "나는 가장 위대한 용, 크라크라스(Khrakrahs)다! 할드릭(Haldric)이 내 경쟁자 셰크카한을 죽였지만, 그는 나보다 약했고, 나를 이기는 게 그렇게 쉬운 일은 아닐 것이다. 이제 내 화산에서 꺼져라!"
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/8_The_Dragon.cfg:404
@@ -3385,7 +3387,7 @@ msgid ""
 "Krawg puzzled over a stone tile sitting loose on the small mesa. Beneath a "
 "spattering of bat guano, there was a glowing rune. Krawg didn’t know what to "
 "make of it, so the gryphon left it for now."
-msgstr "크라그(Krawg)는 작은 언덕 위에 놓인 돌판을 의아하게 바라보았습니다. 박쥐 똥이 여기저기 묻은 아래쪽에는 빛나는 룬이 있었습니다. 크라그(Krawg)는 그것을 어떻게 해야 할지 몰랐기에 그리폰은 일단 돌판을 내버려 두었습니다."
+msgstr "크라그(Krawg)는 작은 언덕 위에 느슨하게 놓인 돌판을 의아하게 바라보았습니다. 박쥐 똥이 여기저기 튄 돌판 아래에는 빛나는 룬이 있었습니다. 크라그(Krawg)는 그것을 어떻게 해야 할지 몰랐기에 일단 돌판을 내버려 두었습니다."
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:701
@@ -3438,7 +3440,7 @@ msgid ""
 "how the elves have behaved, you’ve seen how your lord behaved. The "
 "corrupting emissions from the ruby are nothing compared to the greed already "
 "out there, and my crafted gold cage does nothing to contain that."
-msgstr "안 되오. 크라그(Krawg)가 할드릭(Haldric) 왕의 손에 왕홀을 떨어뜨린다고 해도 너무 위험하오. 엘프들이 어떻게 행동했는지, 당신의 군주가 어떻게 행동했는지 보았잖소. 루비에서 나오는 타락의 기운은 이미 세상에 퍼진 탐욕에 비하면 아무것도 아니며, 내가 만든 금빛 우리로는 그것을 가둘 수 없소."
+msgstr "안 되오. 크라그(Krawg)가 할드릭(Haldric) 왕의 손에 왕홀을 떨어뜨린다고 해도 너무 위험하오. 엘프들이 어떻게 행동했는지, 그대의 군주가 어떻게 행동했는지 보았잖소. 루비에서 나오는 타락의 기운은 이미 세상에 퍼진 탐욕에 비하면 아무것도 아니며, 내가 만든 금빛 우리로는 그것을 가둘 수 없소."
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:770
@@ -3488,7 +3490,7 @@ msgid ""
 "the elves have behaved, you’ve seen how your lord behaved. The corrupting "
 "emissions from the ruby are nothing compared to the greed already out there, "
 "and my crafted gold cage does nothing to contain that."
-msgstr "안 되오. 그들이 할드릭(Haldric) 왕의 손에 왕홀을 떨어뜨린다고 해도 너무 위험하오. 엘프들이 어떻게 행동했는지, 당신의 군주가 어떻게 행동했는지 보았잖소. 루비에서 나오는 타락의 기운은 이미 세상에 퍼진 탐욕에 비하면 아무것도 아니며, 내가 만든 금빛 우리로는 그것을 가둘 수 없소."
+msgstr "안 되오. 그들이 할드릭(Haldric) 왕의 손에 왕홀을 떨어뜨린다고 해도 너무 위험하오. 엘프들이 어떻게 행동했는지, 그대의 군주가 어떻게 행동했는지 보았잖소. 루비에서 나오는 타락의 기운은 이미 세상에 퍼진 탐욕에 비하면 아무것도 아니며, 내가 만든 금빛 우리로는 그것을 가둘 수 없소."
 
 #. [message]: speaker=Thursagan
 #. "smash it" refers to a stone tablet, not the Sceptre.
@@ -3580,7 +3582,7 @@ msgid ""
 "Remember what Khrakrahs said, about this being a volcano? Well, it seems "
 "we’re under the crater, sitting on the magma chamber... I think we should "
 "try to cause it to erupt."
-msgstr "크흐라크라흐스가 이게 화산이라고 한 걸 기억나? 흠, 우리는 분화구 아래, 마그마 방에 앉아 있는 것 같군... 폭발을 일으켜야 할 것 같아."
+msgstr "크라크라스(Khrakrahs)가 이게 화산이라고 한 걸 기억나? 흠, 우리는 분화구 아래, 마그마 방에 앉아 있는 것 같군... 폭발을 일으켜야 할 것 같아."
 
 #. [message]: speaker=Rugnur
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1167
@@ -3609,7 +3611,7 @@ msgstr "위를 보시오! 이게 보통 화산이라면 별과 하늘이 보여�
 msgid ""
 "I see, yes. Quite a gamble, yet what choice do we have? Let’s explore and "
 "hope we find something like what you describe."
-msgstr "알겠소. 상당한 도박이지만, 우리에게 무슨 선택지가 있겠소? 탐험하면서 당신이 말한 것과 같은 것을 찾길 바라도록 합시다."
+msgstr "알겠소. 상당한 도박이지만, 우리에게 무슨 선택지가 있겠소? 탐험하면서 그대가 말한 것과 같은 것을 찾길 바라도록 합시다."
 
 #. [message]: speaker=Krawg
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1183
@@ -3617,7 +3619,9 @@ msgid ""
 "Krah!\n"
 "<i>(Looks about the cave, adopts a hostile stance, then glances back at the "
 "dwarves.)</i>"
-msgstr "까악!\n<i>(동굴을 둘러보고 적대적인 자세를 취한 뒤, 드워프들을 돌아봅니다.)</i>"
+msgstr ""
+"까악!\n"
+"<i>(동굴을 둘러보고 적대적인 자세를 취한 뒤, 드워프들을 돌아봅니다.)</i>"
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1188
@@ -3665,7 +3669,7 @@ msgstr "젠장! 거의 해낼 뻔했는데... 이제 란다르(Landar)와 함께
 msgid ""
 "This must be the center of the volcano! The lava is blocked just as you "
 "surmised, Thursagan! It’s plugged up with this... enchanted courtyard?"
-msgstr "여기가 화산의 중심임이 틀림없소! 투르사간(Thursagan), 당신이 추측한 대로 용암이 막혀 있소! 이... 마법이 걸린 안뜰이 틀어막고 있군?"
+msgstr "여기가 화산의 중심임이 틀림없소! 투르사간(Thursagan), 그대가 추측한 대로 용암이 막혀 있소! 이... 마법이 걸린 안뜰이 틀어막고 있군?"
 
 #. [message]: speaker=Thursagan
 #: data/campaigns/Sceptre_of_Fire/scenarios/9_Caverns_of_Flame.cfg:1330
@@ -3737,7 +3741,7 @@ msgid ""
 "and with him, Thursagan, greatest of the Runesmiths, whose legacy was soon "
 "lost. But our tale is not yet complete. For Alanin lived still, as did Krawg "
 "the Gryphon."
-msgstr "그리하여 드워프 현자들의 눈에 룩누르(Rugnur)는 영광스러운 죽음을 맞이했고, 그와 함께 룬대장장이 중 가장 위대했던 투르사간(Thursagan)도 죽었습니다. 그의 유산은 곧 잊혔습니다. 하지만 우리의 이야기는 아직 끝나지 않았습니다. 알라닌(Alanin)이 살아 있었고, 그리폰(Gryphon) 크라그(Krawg)도 살아 있었기 때문입니다."
+msgstr "그리하여 드워프 현자들의 눈에 룩누르(Rugnur)는 영광스러운 죽음을 맞이했고, 룬 장인 중 가장 위대했던 투르사간(Thursagan)도 그와 함께 죽었다. 그의 유산은 곧 잊혔다. 하지만 우리의 이야기는 아직 끝나지 않았다. 알라닌(Alanin)이 살아 있었고, 그리폰(Gryphon) 크라그(Krawg)도 살아 있었기 때문이다."
 
 #. [part]
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:39
@@ -3950,7 +3954,7 @@ msgid ""
 "the time of Asheviere the Dark Queen. During that time, it remained in the "
 "caves of the Northlands, occasionally moved around by orcs who never "
 "understood its true power."
-msgstr "왕홀은 할드릭(Haldric) 2세로부터 여러 세대가 지난 뒤, 어둠의 여왕 아셰비에르의 시대가 되어서야 발견되었습니다. 그동안 왕홀은 북부 지방의 동굴에 남아 있었고, 진정한 힘을 이해하지 못한 오크들이 이따금 이리저리 옮겼습니다."
+msgstr "왕홀은 할드릭(Haldric) 2세로부터 여러 세대가 지난 뒤, 어둠의 여왕 아셰비에레(Asheviere)의 시대가 되어서야 발견되었다. 그동안 왕홀은 북부 지방의 동굴에 남아 있었고, 진정한 힘을 이해하지 못한 오크들이 이따금 이리저리 옮겼다."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Sceptre_of_Fire/scenarios/Epilogue.cfg:251
@@ -3958,7 +3962,7 @@ msgid ""
 "But before it was found, legends grew up around it, and around its makers — "
 "Thursagan, most brilliant of the Dwarven Sages, and Rugnur, the greatest of "
 "the Dwarven Heroes of old."
-msgstr "하지만 발견되기 전부터 왕홀과 그 제작자들, 즉 가장 뛰어난 드워프 현자 투르사간(Thursagan)과 옛 드워프 영웅 중 가장 위대한 룩누르(Rugnur)를 둘러싸고 전설이 생겨났습니다."
+msgstr "하지만 발견되기 전부터 왕홀과 그 제작자들, 즉 가장 뛰어난 드워프 현자 투르사간(Thursagan)과 옛 드워프 영웅 중 가장 위대한 룩누르(Rugnur)를 둘러싸고 전설이 생겨났다."
 
 #. [unit_type]: id=Caravan, race=mechanical
 #: data/campaigns/Sceptre_of_Fire/units/Caravan.cfg:4

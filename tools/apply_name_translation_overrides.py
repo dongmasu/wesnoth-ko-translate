@@ -38,7 +38,7 @@ EXACT_TRANSLATIONS = {
     "Contender Gorlack": "경쟁자 고를락(Gorlack)",
     "Contender Karron": "경쟁자 카르론(Karron)",
     "Chief Dra-Nak": "족장 드라-나크(Dra-Nak)",
-    "Clan Whitefang": "하얀 송곳니 일족",
+    "Clan Whitefang": "화이트팽(Whitefang) 일족",
     "Drake Arbiter": "반룡 심판관",
     "Elvish Archer": "요정 궁수",
     "Footpad": "노상강도",
